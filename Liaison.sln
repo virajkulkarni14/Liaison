@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison", "Liaison\Liaison.csproj", "{80AC337A-D51C-49DB-B536-FE136F559742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.Tests", "Liaison.Tests\Liaison.Tests.csproj", "{326A4155-4270-4590-B7C1-487BD80239FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AC337A-D51C-49DB-B536-FE136F559742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AC337A-D51C-49DB-B536-FE136F559742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AC337A-D51C-49DB-B536-FE136F559742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AC337A-D51C-49DB-B536-FE136F559742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326A4155-4270-4590-B7C1-487BD80239FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326A4155-4270-4590-B7C1-487BD80239FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326A4155-4270-4590-B7C1-487BD80239FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326A4155-4270-4590-B7C1-487BD80239FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4066C976-993D-4F44-90C6-36C10CCD72B3}
+	EndGlobalSection
+EndGlobal
