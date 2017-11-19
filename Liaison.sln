@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison", "Liaison\Liaison.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.Tests", "Liaison.Tests\Liaison.Tests.csproj", "{326A4155-4270-4590-B7C1-487BD80239FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.Biz", "Liaison.Biz\Liaison.Biz.csproj", "{20FF0661-B374-4B41-A6B7-7D5402641ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.Data", "Liaison.Data\Liaison.Data.csproj", "{C2EEA8D5-144C-418B-A5F1-A5C7DCFD9B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{326A4155-4270-4590-B7C1-487BD80239FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326A4155-4270-4590-B7C1-487BD80239FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326A4155-4270-4590-B7C1-487BD80239FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FF0661-B374-4B41-A6B7-7D5402641ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FF0661-B374-4B41-A6B7-7D5402641ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FF0661-B374-4B41-A6B7-7D5402641ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FF0661-B374-4B41-A6B7-7D5402641ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EEA8D5-144C-418B-A5F1-A5C7DCFD9B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EEA8D5-144C-418B-A5F1-A5C7DCFD9B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EEA8D5-144C-418B-A5F1-A5C7DCFD9B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EEA8D5-144C-418B-A5F1-A5C7DCFD9B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
