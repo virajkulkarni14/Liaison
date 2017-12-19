@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace Liaison.Import
 {
@@ -14,12 +16,27 @@ namespace Liaison.Import
 
             using (var webClient = new WebClient())
             {
+                var ctops = "https://currentops.com/unit/";
                 //var url = "https://currentops.com/unit/us/army/doa";
-                var url = "https://currentops.com/unit/us/army/1-id";
+                var url = "https://currentops.com/unit/us/army/forscom";
+                //var url = "https://currentops.com/unit/us/army/1-id";
+                //var url = "https://currentops.com/unit/us/army/6-cav/1-sqdn";
+
+                var unitcodefilename = url.Substring(ctops.Length).Replace("/", "-");
 
                 GetWebSite(webClient, url);
 
+                Console.WriteLine("Units: " + masterlist.Count);
 
+                XmlSerializer writer = new System.Xml.Serialization.XmlSerializer(masterlist.GetType());
+
+                //XmlSerializerNamespaces ns = new XmlSerializerNamespaces();
+                //ns.Add("", "");
+
+                System.IO.FileStream file = System.IO.File.Create("C:\\repos\\Liaison\\Liaison.Import\\output\\" + unitcodefilename + ".xml");
+
+                writer.Serialize(file, masterlist);
+                file.Close();
             }
         }
 
@@ -27,19 +44,20 @@ namespace Liaison.Import
 
         private static void GetWebSite(WebClient webClient, string url)
         {
+            Console.WriteLine("Scanning " + url);
             string html = webClient.DownloadString(url);
             var doc = new HtmlDocument();
             doc.LoadHtml(html);
 
             var obj = new Biz.Objects.CurrentOpsObject();
 
-            var titleNode = doc.DocumentNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "page-header").Where(n=>n.InnerHtml.Contains("<h1>")).FirstOrDefault();
+            var titleNode = doc.DocumentNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "page-header").Where(n => n.InnerHtml.Contains("<h1>")).FirstOrDefault();
 
             var nameText = titleNode.InnerText.Trim();
 
             var fullname = GetTitle(nameText);
 
-           obj.NameNode = nameText;
+            obj.NameNode = nameText;
             obj.Url = url;
             obj.FullName = fullname;
             var split = SplitService(nameText);
@@ -55,28 +73,30 @@ namespace Liaison.Import
             var locations = GetLocations(locationNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "list-group-item"));
             obj.Locations = locations;
 
-            var highHqNode = listGroups.ToList()[1];
+            var highHqNode = listGroups.Where(n => n.InnerHtml.Contains("https://currentops.com/unit")).FirstOrDefault();
             var higherHq = GetHigherHQ(highHqNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "list-group-item"));
             obj.HigherHq = higherHq;
 
             var subords = doc.DocumentNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "block subords subords-units");
-            var subunits = subords.ToList()[0].ChildNodes.Where(n => n.Name == "li").FirstOrDefault().ChildNodes.Where(n => n.Name == "ul").FirstOrDefault();
-            var details = subunits.ChildNodes.Where(n => n.Name == "li");
+            obj.Children = new List<SubUnitObject>();
+            if (subords.Count() > 0)
+            {
+                var subunits = subords.ToList()[0].ChildNodes.Where(n => n.Name == "li").FirstOrDefault().ChildNodes.Where(n => n.Name == "ul").FirstOrDefault();
+                var details = subunits.ChildNodes.Where(n => n.Name == "li");
 
-            var children = GetChildren(details);
-            obj.Children = children;
+                var children = GetChildren(details);
+                obj.Children = children;
 
+                
+            }
             masterlist.Add(obj);
-
-            foreach (var child in children)
+            foreach (var child in obj.Children)
             {
                 GetWebSite(webClient, child.Url);
             }
-
-            Console.ReadLine();
-            string a = "b";
-
         }
+            
+        
 
         private static List<SubUnitObject> GetChildren(IEnumerable<HtmlNode> details)
         {
@@ -106,7 +126,7 @@ namespace Liaison.Import
             foreach (var node  in enumerable)
             {
                 var hhq = new HigherHqObject();
-                hhq.Url = node.Attributes[0].Value == "list-group-item" ? null : node.Attributes[0].Value;
+                hhq.Url = node.Attributes[0].Value == "list-group-item" ? "" : node.Attributes[0].Value;
                 hhq.Id = hhq.Url == null ? null : node.Attributes[0].Value.Substring(hhqurl.Length);
                 hhq.DateRange = node.Descendants().Where(n => n.GetAttributeValue("class", "") == "badge").FirstOrDefault().InnerText.Trim() ;
                 hhq.IsCurrent = hhq.DateRange.EndsWith("Present");
@@ -121,20 +141,23 @@ namespace Liaison.Import
 
         private static List<LocationObject> GetLocations(IEnumerable<HtmlNode> baseNodes)
         {
-            string locationurl= "https://currentops.com/installations/";
+            string locationurl = "https://currentops.com/installations/";
             List<LocationObject> returnable = new List<LocationObject>();
 
             foreach (var node in baseNodes)
             {
-                var locobj = new LocationObject();
-                locobj.Url = node.Attributes[0].Value == "list-group-item" ? null : node.Attributes[0].Value;
-                locobj.Id = locobj.Url == null ? null : node.Attributes[0].Value.Substring(locationurl.Length);
-                locobj.DateRange = node.Descendants().Where(n => n.GetAttributeValue("class", "") == "badge").FirstOrDefault().InnerText.Trim();
-                locobj.IsCurrent = locobj.DateRange.EndsWith("Present");
-                locobj.BaseName = node.Descendants().Where(n => n.Name == "strong").FirstOrDefault()?.InnerText.Trim();
-                locobj.Deployment = node.ChildNodes[3].InnerText == "Deployment";
-                locobj.Location = locobj.Deployment ? node.ChildNodes[6].InnerText.Trim() : node.ChildNodes[9].InnerText.Trim();
-                returnable.Add(locobj);
+                if (node.Attributes[0].Value.StartsWith(locationurl))
+                {
+                    var locobj = new LocationObject();
+                    locobj.Url = node.Attributes[0].Value == "list-group-item" ? null : node.Attributes[0].Value;
+                    locobj.Id = locobj.Url == null ? null : node.Attributes[0].Value.Substring(locationurl.Length);
+                    locobj.DateRange = node.Descendants().Where(n => n.GetAttributeValue("class", "") == "badge").FirstOrDefault().InnerText.Trim();
+                    locobj.IsCurrent = locobj.DateRange.EndsWith("Present");
+                    locobj.BaseName = node.Descendants().Where(n => n.Name == "strong").FirstOrDefault()?.InnerText.Trim();
+                    locobj.Deployment = node.ChildNodes[3].InnerText == "Deployment";
+                    locobj.Location = locobj.Deployment ? node.ChildNodes[6].InnerText.Trim() : node.ChildNodes[9].InnerText.Trim();
+                    returnable.Add(locobj);
+                }
             }
             return returnable;
         }

@@ -15,7 +15,7 @@ namespace Liaison.Biz.Objects
     }
     public class HigherHqObject
     {
-        public object Url { get; set; }
+        public string Url { get; set; }
         public string Id { get; set; }
         public string DateRange { get; set; }
         public bool IsCurrent { get; set; }
