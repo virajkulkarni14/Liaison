@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-va/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Virginia
+                            U.S. Army</NameNode>
+    <FullName>Air National Guard Element, JFHQ Virginia, U.S. Army</FullName>
+    <SplitName>Air National Guard Element, JFHQ Virginia</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-va</Url>
+        <Id>us/ng/jfhq-va</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Virginia</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+        <FullName>192nd Fighter Wing</FullName>
+        <Name>192nd Fighter Wing
+
+                    (VA ANG)</Name>
+        <Id>us/usaf/192-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/203-rhs</Url>
+        <FullName>203rd Rapid Engineer Deployable Heavy Operational Repair Squadron</FullName>
+        <Name>203rd Rapid Engineer Deployable Heavy Operational Repair Squadron
+
+                    (VA ANG)</Name>
+        <Id>us/usaf/203-rhs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/200-wf</Url>
+        <FullName>200th Weather Flight</FullName>
+        <Name>200th Weather Flight
+
+                    (VA ANG)</Name>
+        <Id>us/usaf/200-wf</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+    <NameNode>192nd Fighter Wing
+                            USAF</NameNode>
+    <FullName>192nd Fighter Wing, USAF</FullName>
+    <SplitName>192nd Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-va/ang-elt</Url>
+        <Id>us/army/jfhq-va/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Virginia</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-og</Url>
+        <FullName>192nd Operations Group</FullName>
+        <Name>192nd Operations Group</Name>
+        <Id>us/usaf/192-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-msg</Url>
+        <FullName>192nd Mission Support Group</FullName>
+        <Name>192nd Mission Support Group</Name>
+        <Id>us/usaf/192-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mxg</Url>
+        <FullName>192nd Maintenance Group</FullName>
+        <Name>192nd Maintenance Group</Name>
+        <Id>us/usaf/192-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mdg</Url>
+        <FullName>192nd Medical Group</FullName>
+        <Name>192nd Medical Group</Name>
+        <Id>us/usaf/192-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-cptf</Url>
+        <FullName>192nd Comptroller Flight</FullName>
+        <Name>192nd Comptroller Flight</Name>
+        <Id>us/usaf/192-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-og</Url>
+    <NameNode>192nd Operations Group
+                            USAF</NameNode>
+    <FullName>192nd Operations Group, USAF</FullName>
+    <SplitName>192nd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+        <Id>us/usaf/192-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Fighter Wing</HHQAcronym>
+        <Name>192nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/149-fs</Url>
+        <FullName>149th Fighter Squadron</FullName>
+        <Name>149th Fighter Squadron</Name>
+        <Id>us/usaf/149-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-is</Url>
+        <FullName>192nd Intelligence Squadron</FullName>
+        <Name>192nd Intelligence Squadron</Name>
+        <Id>us/usaf/192-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-osf</Url>
+        <FullName>192nd Operations Support Flight</FullName>
+        <Name>192nd Operations Support Flight</Name>
+        <Id>us/usaf/192-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/149-fs</Url>
+    <NameNode>149th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>149th Fighter Squadron, USAF</FullName>
+    <SplitName>149th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-og</Url>
+        <Id>us/usaf/192-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Operations Group</HHQAcronym>
+        <Name>192nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-is</Url>
+    <NameNode>192nd Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>192nd Intelligence Squadron, USAF</FullName>
+    <SplitName>192nd Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-og</Url>
+        <Id>us/usaf/192-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Operations Group</HHQAcronym>
+        <Name>192nd Operations Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/497-isrg</Url>
+        <Id>us/usaf/497-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>497th ISRG</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>497th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-osf</Url>
+    <NameNode>192nd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>192nd Operations Support Flight, USAF</FullName>
+    <SplitName>192nd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-og</Url>
+        <Id>us/usaf/192-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Operations Group</HHQAcronym>
+        <Name>192nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-msg</Url>
+    <NameNode>192nd Mission Support Group
+                            USAF</NameNode>
+    <FullName>192nd Mission Support Group, USAF</FullName>
+    <SplitName>192nd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+        <Id>us/usaf/192-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Fighter Wing</HHQAcronym>
+        <Name>192nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-sfs</Url>
+        <FullName>192nd Security Forces Squadron</FullName>
+        <Name>192nd Security Forces Squadron</Name>
+        <Id>us/usaf/192-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fsf</Url>
+        <FullName>192nd Force Support Flight</FullName>
+        <Name>192nd Force Support Flight</Name>
+        <Id>us/usaf/192-fsf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-sfs</Url>
+    <NameNode>192nd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>192nd Security Forces Squadron, USAF</FullName>
+    <SplitName>192nd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-msg</Url>
+        <Id>us/usaf/192-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd MSG</HHQAcronym>
+        <Name>192nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-fsf</Url>
+    <NameNode>192nd Force Support Flight
+                            USAF</NameNode>
+    <FullName>192nd Force Support Flight, USAF</FullName>
+    <SplitName>192nd Force Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-msg</Url>
+        <Id>us/usaf/192-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd MSG</HHQAcronym>
+        <Name>192nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-mxg</Url>
+    <NameNode>192nd Maintenance Group
+                            USAF</NameNode>
+    <FullName>192nd Maintenance Group, USAF</FullName>
+    <SplitName>192nd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+        <Id>us/usaf/192-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Fighter Wing</HHQAcronym>
+        <Name>192nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-amxs</Url>
+        <FullName>192nd Aircraft Maintenance Squadron</FullName>
+        <Name>192nd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/192-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mxs</Url>
+        <FullName>192nd Maintenance Squadron</FullName>
+        <Name>192nd Maintenance Squadron</Name>
+        <Id>us/usaf/192-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mof</Url>
+        <FullName>192nd Maintenance Operations Flight</FullName>
+        <Name>192nd Maintenance Operations Flight</Name>
+        <Id>us/usaf/192-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-amxs</Url>
+    <NameNode>192nd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>192nd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>192nd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mxg</Url>
+        <Id>us/usaf/192-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd MXG</HHQAcronym>
+        <Name>192nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-mxs</Url>
+    <NameNode>192nd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>192nd Maintenance Squadron, USAF</FullName>
+    <SplitName>192nd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mxg</Url>
+        <Id>us/usaf/192-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd MXG</HHQAcronym>
+        <Name>192nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-mof</Url>
+    <NameNode>192nd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>192nd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>192nd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-mxg</Url>
+        <Id>us/usaf/192-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd MXG</HHQAcronym>
+        <Name>192nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-mdg</Url>
+    <NameNode>192nd Medical Group
+                            USAF</NameNode>
+    <FullName>192nd Medical Group, USAF</FullName>
+    <SplitName>192nd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+        <Id>us/usaf/192-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Fighter Wing</HHQAcronym>
+        <Name>192nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/192-cptf</Url>
+    <NameNode>192nd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>192nd Comptroller Flight, USAF</FullName>
+    <SplitName>192nd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Langley Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Hampton, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/langley-afb</Url>
+        <Id>us/va/langley-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/192-fw</Url>
+        <Id>us/usaf/192-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>192nd Fighter Wing</HHQAcronym>
+        <Name>192nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/203-rhs</Url>
+    <NameNode>203rd RHS
+                            USAF</NameNode>
+    <FullName>203rd RHS, USAF</FullName>
+    <SplitName>203rd RHS</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Virginia Beach, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/camp-pendleton</Url>
+        <Id>us/va/camp-pendleton</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-va/ang-elt</Url>
+        <Id>us/army/jfhq-va/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Virginia</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/200-wf</Url>
+    <NameNode>200th Weather Flight
+                            USAF</NameNode>
+    <FullName>200th Weather Flight, USAF</FullName>
+    <SplitName>200th Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-va/ang-elt</Url>
+        <Id>us/army/jfhq-va/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Virginia</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

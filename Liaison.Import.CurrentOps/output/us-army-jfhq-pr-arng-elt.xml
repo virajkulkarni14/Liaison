@@ -1,0 +1,2763 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+    <NameNode>Army National Guard Element, JFHQ Puerto Rico
+                            U.S. Army</NameNode>
+    <FullName>Army National Guard Element, JFHQ Puerto Rico, U.S. Army</FullName>
+    <SplitName>Army National Guard Element, JFHQ Puerto Rico</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBQUiBBUk5HIEVMVA.</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-pr</Url>
+        <Id>us/ng/jfhq-pr</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Puerto Rico</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <FullName>92nd Maneuver Enhancement Brigade</FullName>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+        <Id>us/army/92-meb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <FullName>101st Troop Command</FullName>
+        <Name>101st Troop Command</Name>
+        <Id>us/army/101-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/191-rsg</Url>
+        <FullName>191st Regional Support Group</FullName>
+        <Name>191st Regional Support Group</Name>
+        <Id>us/army/191-rsg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/201-rgt</Url>
+        <FullName>201st Regiment</FullName>
+        <Name>201st Regiment</Name>
+        <Id>us/army/201-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/22-cst</Url>
+        <FullName>22nd Civil Support Team</FullName>
+        <Name>22nd Civil Support Team</Name>
+        <Id>us/army/22-cst</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-56</Url>
+        <FullName>Detachment 56, Operational Support Airlift Command</FullName>
+        <Name>Detachment 56, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-56</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/181-med-co</Url>
+        <FullName>181st Medical Company</FullName>
+        <Name>181st Medical Company</Name>
+        <Id>us/army/181-med-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1065-med-co</Url>
+        <FullName>1065th Medical Company</FullName>
+        <Name>1065th Medical Company</Name>
+        <Id>us/army/1065-med-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/92-meb</Url>
+    <NameNode>92nd Maneuver Enhancement Brigade
+                            U.S. Army</NameNode>
+    <FullName>92nd Maneuver Enhancement Brigade, U.S. Army</FullName>
+    <SplitName>92nd Maneuver Enhancement Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTUVCIDAwOTI.</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id</Url>
+        <Id>us/army/29-id</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>29th Infantry Division</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>29th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/92-meb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 92nd Maneuver Enhancement Brigade</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/92-meb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb</Url>
+        <FullName>192nd Brigade Support Battalion</FullName>
+        <Name>192nd Brigade Support Battalion</Name>
+        <Id>us/army/192-bsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/92-sc-co</Url>
+        <FullName>92nd Signal Company</FullName>
+        <Name>92nd Signal Company</Name>
+        <Id>us/army/92-sc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <FullName>1st Battalion, 65th Infantry Regiment</FullName>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+        <Id>us/army/65-in/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <FullName>190th Engineer Battalion</FullName>
+        <Name>190th Engineer Battalion</Name>
+        <Id>us/army/190-engr-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/124-mp-bn</Url>
+        <FullName>124th Military Police Battalion</FullName>
+        <Name>124th Military Police Battalion</Name>
+        <Id>us/army/124-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/482-cm-co</Url>
+        <FullName>482nd Chemical Company</FullName>
+        <Name>482nd Chemical Company</Name>
+        <Id>us/army/482-cm-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/92-meb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 92nd MEB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 92nd MEB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 92nd MEB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/192-bsb</Url>
+    <NameNode>192nd Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>192nd Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>192nd Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 192nd Brigade Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/192-bsb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb/co-a</Url>
+        <FullName>Company A, 192nd Brigade Support Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/192-bsb/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb/co-b</Url>
+        <FullName>Company B, 192nd Brigade Support Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/192-bsb/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/192-bsb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 192nd BSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 192nd BSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 192nd BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb</Url>
+        <Id>us/army/192-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>192nd BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>192nd Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/192-bsb/co-a</Url>
+    <NameNode>Company A, 192nd Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 192nd Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 192nd Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb</Url>
+        <Id>us/army/192-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>192nd BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>192nd Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/192-bsb/co-b</Url>
+    <NameNode>Company B, 192nd Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 192nd Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 192nd Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/192-bsb</Url>
+        <Id>us/army/192-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>192nd BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>192nd Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/92-sc-co</Url>
+    <NameNode>92nd Signal Company
+                            U.S. Army</NameNode>
+    <FullName>92nd Signal Company, U.S. Army</FullName>
+    <SplitName>92nd Signal Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+    <NameNode>1st Battalion, 65th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 65th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 65th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cayey Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cayey, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/cayey-armory</Url>
+        <Id>us/pr/cayey-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/36-id/56-bct</Url>
+        <Id>us/army/36-id/56-bct</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>56th BCT, 36th ID</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>56th Brigade Combat Team, 36th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 65th Infantry Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/65-in/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 65th Infantry Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/65-in/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 65th Infantry Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/65-in/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 65th Infantry Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/65-in/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 65th Infantry Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/65-in/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/105-fsc</Url>
+        <FullName>105th Forward Support Company</FullName>
+        <Name>105th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/105-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/65-in/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 65th IN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 65th IN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 65th IN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cayey Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cayey, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/cayey-armory</Url>
+        <Id>us/pr/cayey-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <Id>us/army/65-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 65th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 65th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 65th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 65th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Juncos Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juncos, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/juncos-armory</Url>
+        <Id>us/pr/juncos-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <Id>us/army/65-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 65th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 65th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 65th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 65th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <Id>us/army/65-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 65th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 65th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 65th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 65th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <Id>us/army/65-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 65th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/65-in/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 65th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 65th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 65th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cayey Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cayey, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/cayey-armory</Url>
+        <Id>us/pr/cayey-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <Id>us/army/65-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 65th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/105-fsc</Url>
+    <NameNode>105th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>105th Forward Support Company, U.S. Army</FullName>
+    <SplitName>105th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cayey Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cayey, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/cayey-armory</Url>
+        <Id>us/pr/cayey-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/65-in/1-bn</Url>
+        <Id>us/army/65-in/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 65th IN</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 65th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+    <NameNode>190th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>190th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>190th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Caguas Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caguas, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/caguas-armory</Url>
+        <Id>us/pr/caguas-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 190th Engineer Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/190-engr-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn/fsc</Url>
+        <FullName>Forward Support Company, 190th Engineer Battalion</FullName>
+        <Name>Forward Support Company</Name>
+        <Id>us/army/190-engr-bn/fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/215-engr-co</Url>
+        <FullName>215th Engineer Company</FullName>
+        <Name>215th Engineer Company</Name>
+        <Id>us/army/215-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/892-engr-co</Url>
+        <FullName>892nd Engineer Company</FullName>
+        <Name>892nd Engineer Company</Name>
+        <Id>us/army/892-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1011-engr-co</Url>
+        <FullName>1011th Engineer Company</FullName>
+        <Name>1011th Engineer Company</Name>
+        <Id>us/army/1011-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/380-engr-plt</Url>
+        <FullName>380th Engineer Platoon</FullName>
+        <Name>380th Engineer Platoon</Name>
+        <Id>us/army/380-engr-plt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/232-engr-det</Url>
+        <FullName>232nd Engineer Detachment</FullName>
+        <Name>232nd Engineer Detachment</Name>
+        <Id>us/army/232-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/453-engr-det</Url>
+        <FullName>453rd Engineer Detachment</FullName>
+        <Name>453rd Engineer Detachment</Name>
+        <Id>us/army/453-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1600-od-co</Url>
+        <FullName>1600th Ordnance Company</FullName>
+        <Name>1600th Ordnance Company</Name>
+        <Id>us/army/1600-od-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/190-engr-bn/hhc</Url>
+    <NameNode>HHC, 190th Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 190th Engr Bn, U.S. Army</FullName>
+    <SplitName>HHC, 190th Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Caguas Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caguas, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/caguas-armory</Url>
+        <Id>us/pr/caguas-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/190-engr-bn/fsc</Url>
+    <NameNode>Forward Support Company, 190th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Forward Support Company, 190th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Forward Support Company, 190th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Caguas Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caguas, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/caguas-armory</Url>
+        <Id>us/pr/caguas-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/215-engr-co</Url>
+    <NameNode>215th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>215th Engineer Company, U.S. Army</FullName>
+    <SplitName>215th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Humacao Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Humacao, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/humacao-armory</Url>
+        <Id>us/pr/humacao-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/892-engr-co</Url>
+    <NameNode>892nd Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>892nd Engineer Company, U.S. Army</FullName>
+    <SplitName>892nd Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Juncos Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juncos, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/juncos-armory</Url>
+        <Id>us/pr/juncos-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1011-engr-co</Url>
+    <NameNode>1011th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>1011th Engineer Company, U.S. Army</FullName>
+    <SplitName>1011th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/380-engr-plt</Url>
+    <NameNode>380th Engineer Platoon
+                            U.S. Army</NameNode>
+    <FullName>380th Engineer Platoon, U.S. Army</FullName>
+    <SplitName>380th Engineer Platoon</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ceiba Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NS Roosevelt Roads | Ceiba, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/ceiba-afrc</Url>
+        <Id>us/pr/ceiba-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/232-engr-det</Url>
+    <NameNode>232nd Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>232nd Engineer Detachment, U.S. Army</FullName>
+    <SplitName>232nd Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ceiba Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NS Roosevelt Roads | Ceiba, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/ceiba-afrc</Url>
+        <Id>us/pr/ceiba-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/453-engr-det</Url>
+    <NameNode>453rd Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>453rd Engineer Detachment, U.S. Army</FullName>
+    <SplitName>453rd Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arroyo Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arroyo, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/arroyo-armory</Url>
+        <Id>us/pr/arroyo-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1600-od-co</Url>
+    <NameNode>1600th Ordnance Company
+                            U.S. Army</NameNode>
+    <FullName>1600th Ordnance Company, U.S. Army</FullName>
+    <SplitName>1600th Ordnance Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Santiago</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-santiago</Url>
+        <Id>us/pr/camp-santiago</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/190-engr-bn</Url>
+        <Id>us/army/190-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>190th Engr Bn</HHQAcronym>
+        <Name>190th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/124-mp-bn</Url>
+    <NameNode>124th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>124th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>124th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/124-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 124th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/124-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/225-mp-co</Url>
+        <FullName>225th Military Police Company</FullName>
+        <Name>225th Military Police Company</Name>
+        <Id>us/army/225-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/480-mp-co</Url>
+        <FullName>480th Military Police Company</FullName>
+        <Name>480th Military Police Company</Name>
+        <Id>us/army/480-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/124-mp-bn/hhd</Url>
+    <NameNode>HHD, 124th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 124th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 124th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/124-mp-bn</Url>
+        <Id>us/army/124-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>124th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>124th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/225-mp-co</Url>
+    <NameNode>225th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>225th Military Police Company, U.S. Army</FullName>
+    <SplitName>225th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Luis R. Esteves Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/mg-luis-r-esteves-armory</Url>
+        <Id>us/pr/mg-luis-r-esteves-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/124-mp-bn</Url>
+        <Id>us/army/124-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MP Bn</HHQAcronym>
+        <Name>124th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/480-mp-co</Url>
+    <NameNode>480th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>480th Military Police Company, U.S. Army</FullName>
+    <SplitName>480th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Buchanan Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Buchanan | San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-buchanan/afrc</Url>
+        <Id>us/pr/fort-buchanan/afrc</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>MG Luis R. Esteves Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/mg-luis-r-esteves-armory</Url>
+        <Id>us/pr/mg-luis-r-esteves-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/124-mp-bn</Url>
+        <Id>us/army/124-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MP Bn</HHQAcronym>
+        <Name>124th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/482-cm-co</Url>
+    <NameNode>482nd Chemical Company
+                            U.S. Army</NameNode>
+    <FullName>482nd Chemical Company, U.S. Army</FullName>
+    <SplitName>482nd Chemical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Allen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juana Diaz, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-allen/arng</Url>
+        <Id>us/pr/fort-allen/arng</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/92-meb</Url>
+        <Id>us/army/92-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>92nd MEB</HHQAcronym>
+        <Name>92nd Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+    <NameNode>101st Troop Command
+                            U.S. Army</NameNode>
+    <FullName>101st Troop Command, U.S. Army</FullName>
+    <SplitName>101st Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <FullName>1st Battalion, 296th Infantry Regiment</FullName>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+        <Id>us/army/296-in/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <FullName>130th Engineer Battalion</FullName>
+        <Name>130th Engineer Battalion</Name>
+        <Id>us/army/130-engr-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+        <FullName>125th Military Police Battalion</FullName>
+        <Name>125th Military Police Battalion</Name>
+        <Id>us/army/125-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company A, 1st Battalion, 111th Aviation Regiment</Name>
+        <Id>us/army/111-avn/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 114th Aviation Regiment</FullName>
+        <Name>Company D, 1st Battalion, 114th Aviation Regiment</Name>
+        <Id>us/army/114-avn/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/777-asb/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 777th Aviation Support Battalion</FullName>
+        <Name>Detachment 1, Company B, 777th Aviation Support Battalion</Name>
+        <Id>us/army/777-asb/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-pa-det</Url>
+        <FullName>113th Public Affairs Detachment</FullName>
+        <Name>113th Public Affairs Detachment</Name>
+        <Id>us/army/113-pa-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/248-army-band</Url>
+        <FullName>248th Army Band</FullName>
+        <Name>248th Army Band</Name>
+        <Id>us/army/248-army-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+    <NameNode>1st Battalion, 296th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 296th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 296th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mayaguez Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mayaguez, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/mayaguez-afrc</Url>
+        <Id>us/pr/mayaguez-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/256-ibct</Url>
+        <Id>us/army/256-ibct</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>256th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>256th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 296th Infantry Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/296-in/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 296th Infantry Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/296-in/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 296th Infantry Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/296-in/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 296th Infantry Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/296-in/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 296th Infantry Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/296-in/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3678-fsc</Url>
+        <FullName>3678th Forward Support Company</FullName>
+        <Name>3678th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/3678-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/296-in/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 296th IN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 296th IN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 296th IN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mayaguez Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mayaguez, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/mayaguez-afrc</Url>
+        <Id>us/pr/mayaguez-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <Id>us/army/296-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 296th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 296th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 296th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 296th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <Id>us/army/296-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 296th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 296th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 296th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 296th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <Id>us/army/296-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 296th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 296th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 296th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 296th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <Id>us/army/296-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 296th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/296-in/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 296th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 296th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 296th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <Id>us/army/296-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 296th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3678-fsc</Url>
+    <NameNode>3678th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>3678th Forward Support Company, U.S. Army</FullName>
+    <SplitName>3678th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/296-in/1-bn</Url>
+        <Id>us/army/296-in/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 296th IN</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 296th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+    <NameNode>130th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>130th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>130th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Tortuguero</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vega Baja, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-tortuguero</Url>
+        <Id>us/pr/camp-tortuguero</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 130th Engineer Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/130-engr-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn/fsc</Url>
+        <FullName>Forward Support Company, 130th Engineer Battalion</FullName>
+        <Name>Forward Support Company</Name>
+        <Id>us/army/130-engr-bn/fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1010-engr-co</Url>
+        <FullName>1010th Engineer Company</FullName>
+        <Name>1010th Engineer Company</Name>
+        <Id>us/army/1010-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1013-engr-co</Url>
+        <FullName>1013th Engineer Company</FullName>
+        <Name>1013th Engineer Company</Name>
+        <Id>us/army/1013-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1014-engr-co</Url>
+        <FullName>1014th Engineer Company</FullName>
+        <Name>1014th Engineer Company</Name>
+        <Id>us/army/1014-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/215-engr-det</Url>
+        <FullName>215th Engineer Detachment</FullName>
+        <Name>215th Engineer Detachment</Name>
+        <Id>us/army/215-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/130-engr-bn/hhc</Url>
+    <NameNode>HHC, 130th Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 130th Engr Bn, U.S. Army</FullName>
+    <SplitName>HHC, 130th Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Tortuguero</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vega Baja, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-tortuguero</Url>
+        <Id>us/pr/camp-tortuguero</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <Id>us/army/130-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>130th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>130th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/130-engr-bn/fsc</Url>
+    <NameNode>Forward Support Company, 130th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Forward Support Company, 130th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Forward Support Company, 130th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Tortuguero</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vega Baja, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-tortuguero</Url>
+        <Id>us/pr/camp-tortuguero</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <Id>us/army/130-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>130th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>130th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1010-engr-co</Url>
+    <NameNode>1010th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>1010th Engineer Company, U.S. Army</FullName>
+    <SplitName>1010th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Tortuguero</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vega Baja, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-tortuguero</Url>
+        <Id>us/pr/camp-tortuguero</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <Id>us/army/130-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>130th Engr Bn</HHQAcronym>
+        <Name>130th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1013-engr-co</Url>
+    <NameNode>1013th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>1013th Engineer Company, U.S. Army</FullName>
+    <SplitName>1013th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ramey Air Force Base Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aguadilla, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/ramey-afb/armory</Url>
+        <Id>us/pr/ramey-afb/armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <Id>us/army/130-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>130th Engr Bn</HHQAcronym>
+        <Name>130th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1014-engr-co</Url>
+    <NameNode>1014th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>1014th Engineer Company, U.S. Army</FullName>
+    <SplitName>1014th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <Id>us/army/130-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>130th Engr Bn</HHQAcronym>
+        <Name>130th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/215-engr-det</Url>
+    <NameNode>215th Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>215th Engineer Detachment, U.S. Army</FullName>
+    <SplitName>215th Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Tortuguero</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vega Baja, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-tortuguero</Url>
+        <Id>us/pr/camp-tortuguero</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/130-engr-bn</Url>
+        <Id>us/army/130-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>130th Engr Bn</HHQAcronym>
+        <Name>130th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+    <NameNode>125th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>125th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>125th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 125th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/125-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/240-mp-co</Url>
+        <FullName>240th Military Police Company</FullName>
+        <Name>240th Military Police Company</Name>
+        <Id>us/army/240-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/544-mp-co</Url>
+        <FullName>544th Military Police Company</FullName>
+        <Name>544th Military Police Company</Name>
+        <Id>us/army/544-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/755-mp-co</Url>
+        <FullName>755th Military Police Company</FullName>
+        <Name>755th Military Police Company</Name>
+        <Id>us/army/755-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/770-mp-co</Url>
+        <FullName>770th Military Police Company</FullName>
+        <Name>770th Military Police Company</Name>
+        <Id>us/army/770-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/125-mp-bn/hhd</Url>
+    <NameNode>HHD, 125th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 125th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 125th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+        <Id>us/army/125-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>125th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>125th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/240-mp-co</Url>
+    <NameNode>240th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>240th Military Police Company, U.S. Army</FullName>
+    <SplitName>240th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Allen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juana Diaz, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-allen/arng</Url>
+        <Id>us/pr/fort-allen/arng</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+        <Id>us/army/125-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>125th MP Bn</HHQAcronym>
+        <Name>125th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/544-mp-co</Url>
+    <NameNode>544th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>544th Military Police Company, U.S. Army</FullName>
+    <SplitName>544th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG Ram&amp;oacute;n de Castro Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ponce, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/bg-ramon-de-castro-armory</Url>
+        <Id>us/pr/bg-ramon-de-castro-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+        <Id>us/army/125-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>125th MP Bn</HHQAcronym>
+        <Name>125th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/755-mp-co</Url>
+    <NameNode>755th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>755th Military Police Company, U.S. Army</FullName>
+    <SplitName>755th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arecibo Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arecibo, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/arecibo-armory</Url>
+        <Id>us/pr/arecibo-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+        <Id>us/army/125-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>125th MP Bn</HHQAcronym>
+        <Name>125th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/770-mp-co</Url>
+    <NameNode>770th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>770th Military Police Company, U.S. Army</FullName>
+    <SplitName>770th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ramey Air Force Base Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aguadilla, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/ramey-afb/armory</Url>
+        <Id>us/pr/ramey-afb/armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/125-mp-bn</Url>
+        <Id>us/army/125-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>125th MP Bn</HHQAcronym>
+        <Name>125th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Puerto Rico Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/pr-arng-aasf</Url>
+        <Id>us/pr/pr-arng-aasf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 114th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 114th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 114th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Puerto Rico Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/pr-arng-aasf</Url>
+        <Id>us/pr/pr-arng-aasf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn</Url>
+        <Id>us/army/114-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 114th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 1st Battalion, 114th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company B</Name>
+        <Id>us/army/114-avn/1-bn/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 1st Battalion, 114th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (VI ARNG)</Name>
+        <Id>us/army/114-avn/1-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 114th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (AR ARNG)</Name>
+        <Id>us/army/114-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 1st Battalion, 114th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 1st Battalion, 114th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 1st Battalion, 114th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Puerto Rico Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/pr-arng-aasf</Url>
+        <Id>us/pr/pr-arng-aasf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d</Url>
+        <Id>us/army/114-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 114th AVN</HHQAcronym>
+        <Name>Company D, 1st Battalion, 114th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-b</Url>
+        <Id>us/army/114-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 114th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 1st Battalion, 114th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 1st Battalion, 114th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 1st Battalion, 114th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 1st Battalion, 114th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>U.S. Virgin Islands Army National Guard Army Aviation Operating Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St. Croix, U.S. Virgin Islands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vi/vi-arng-aaof-1</Url>
+        <Id>us/vi/vi-arng-aaof-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d</Url>
+        <Id>us/army/114-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 114th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 114th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 114th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 114th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 114th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Joseph T. Robinson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>North Little Rock, Arkansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ar/camp-joseph-t-robinson</Url>
+        <Id>us/ar/camp-joseph-t-robinson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn</Url>
+        <Id>us/army/114-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th AVN</HHQAcronym>
+        <Name>1st Battalion, 114th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-avn/1-bn/co-d</Url>
+        <Id>us/army/114-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 114th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 114th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/777-asb/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 777th ASB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 777th ASB, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 777th ASB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/777-asb/co-b</Url>
+        <Id>us/army/777-asb/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Company B, 777th ASB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 777th Aviation Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-pa-det</Url>
+    <NameNode>113th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>113th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>113th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/248-army-band</Url>
+    <NameNode>248th Army Band
+                            U.S. Army</NameNode>
+    <FullName>248th Army Band, U.S. Army</FullName>
+    <SplitName>248th Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/191-rsg</Url>
+    <NameNode>191st Regional Support Group
+                            U.S. Army</NameNode>
+    <FullName>191st Regional Support Group, U.S. Army</FullName>
+    <SplitName>191st Regional Support Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+        <FullName>292nd Combat Sustainment Support Battalion</FullName>
+        <Name>292nd Combat Sustainment Support Battalion</Name>
+        <Id>us/army/292-cssb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+        <FullName>3678th Combat Sustainment Support Battalion</FullName>
+        <Name>3678th Combat Sustainment Support Battalion</Name>
+        <Id>us/army/3678-cssb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1930-aq-det</Url>
+        <FullName>1930th Contingency Contracting Team</FullName>
+        <Name>1930th Contingency Contracting Team</Name>
+        <Id>us/army/1930-aq-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+    <NameNode>292nd Combat Sustainment Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>292nd Combat Sustainment Support Battalion, U.S. Army</FullName>
+    <SplitName>292nd Combat Sustainment Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQ1NTQiAwMjky.</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/191-rsg</Url>
+        <Id>us/army/191-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>191st RSG</HHQAcronym>
+        <Name>191st Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 292nd Combat Sustainment Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/292-cssb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/714-qm-co</Url>
+        <FullName>714th Quartermaster Company</FullName>
+        <Name>714th Quartermaster Company</Name>
+        <Id>us/army/714-qm-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/755-tc-co</Url>
+        <FullName>755th Transportation Company</FullName>
+        <Name>755th Transportation Company</Name>
+        <Id>us/army/755-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/770-tc-co</Url>
+        <FullName>770th Transportation Company</FullName>
+        <Name>770th Transportation Company</Name>
+        <Id>us/army/770-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/219-qm-det</Url>
+        <FullName>219th Quartermaster Detachment</FullName>
+        <Name>219th Quartermaster Detachment</Name>
+        <Id>us/army/219-qm-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/292-cssb/hhd</Url>
+    <NameNode>HHD, 292nd CSSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 292nd CSSB, U.S. Army</FullName>
+    <SplitName>HHD, 292nd CSSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+        <Id>us/army/292-cssb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>292nd CSSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>292nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/714-qm-co</Url>
+    <NameNode>714th Quartermaster Company
+                            U.S. Army</NameNode>
+    <FullName>714th Quartermaster Company, U.S. Army</FullName>
+    <SplitName>714th Quartermaster Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Allen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juana Diaz, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-allen/arng</Url>
+        <Id>us/pr/fort-allen/arng</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+        <Id>us/army/292-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>292nd CSSB</HHQAcronym>
+        <Name>292nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/755-tc-co</Url>
+    <NameNode>755th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>755th Transportation Company, U.S. Army</FullName>
+    <SplitName>755th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arroyo Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arroyo, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/arroyo-armory</Url>
+        <Id>us/pr/arroyo-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+        <Id>us/army/292-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>292nd CSSB</HHQAcronym>
+        <Name>292nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/770-tc-co</Url>
+    <NameNode>770th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>770th Transportation Company, U.S. Army</FullName>
+    <SplitName>770th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Santiago</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/camp-santiago</Url>
+        <Id>us/pr/camp-santiago</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+        <Id>us/army/292-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>292nd CSSB</HHQAcronym>
+        <Name>292nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/219-qm-det</Url>
+    <NameNode>219th Quartermaster Detachment
+                            U.S. Army</NameNode>
+    <FullName>219th Quartermaster Detachment, U.S. Army</FullName>
+    <SplitName>219th Quartermaster Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/292-cssb</Url>
+        <Id>us/army/292-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>292nd CSSB</HHQAcronym>
+        <Name>292nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+    <NameNode>3678th Combat Sustainment Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>3678th Combat Sustainment Support Battalion, U.S. Army</FullName>
+    <SplitName>3678th Combat Sustainment Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQ1NTQiAzNjc4.</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/191-rsg</Url>
+        <Id>us/army/191-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>191st RSG</HHQAcronym>
+        <Name>191st Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 3678th Combat Sustainment Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/3678-cssb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/105-qm-co</Url>
+        <FullName>105th Quartermaster Company</FullName>
+        <Name>105th Quartermaster Company</Name>
+        <Id>us/army/105-qm-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1473-qm-co</Url>
+        <FullName>1473rd Quartermaster Company</FullName>
+        <Name>1473rd Quartermaster Company</Name>
+        <Id>us/army/1473-qm-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1243-tc-co</Url>
+        <FullName>1243rd Transportation Company</FullName>
+        <Name>1243rd Transportation Company</Name>
+        <Id>us/army/1243-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/783-od-co</Url>
+        <FullName>783rd Ordnance Company</FullName>
+        <Name>783rd Ordnance Company</Name>
+        <Id>us/army/783-od-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3678-cssb/hhc</Url>
+    <NameNode>HHC, 3678th CSSB
+                            U.S. Army</NameNode>
+    <FullName>HHC, 3678th CSSB, U.S. Army</FullName>
+    <SplitName>HHC, 3678th CSSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+        <Id>us/army/3678-cssb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>3678th CSSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>3678th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/105-qm-co</Url>
+    <NameNode>105th Quartermaster Company
+                            U.S. Army</NameNode>
+    <FullName>105th Quartermaster Company, U.S. Army</FullName>
+    <SplitName>105th Quartermaster Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Allen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juana Diaz, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-allen/arng</Url>
+        <Id>us/pr/fort-allen/arng</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+        <Id>us/army/3678-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3678th CSSB</HHQAcronym>
+        <Name>3678th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1473-qm-co</Url>
+    <NameNode>1473rd Quartermaster Company
+                            U.S. Army</NameNode>
+    <FullName>1473rd Quartermaster Company, U.S. Army</FullName>
+    <SplitName>1473rd Quartermaster Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Luis R. Esteves Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/mg-luis-r-esteves-armory</Url>
+        <Id>us/pr/mg-luis-r-esteves-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+        <Id>us/army/3678-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3678th CSSB</HHQAcronym>
+        <Name>3678th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1243-tc-co</Url>
+    <NameNode>1243rd Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1243rd Transportation Company, U.S. Army</FullName>
+    <SplitName>1243rd Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pe&amp;ntilde;uelas Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peñuelas, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/penuelas-armory</Url>
+        <Id>us/pr/penuelas-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+        <Id>us/army/3678-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3678th CSSB</HHQAcronym>
+        <Name>3678th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/783-od-co</Url>
+    <NameNode>783rd Ordnance Company
+                            U.S. Army</NameNode>
+    <FullName>783rd Ordnance Company, U.S. Army</FullName>
+    <SplitName>783rd Ordnance Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toa Baja Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Toa Baja, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/toa-baja-armory</Url>
+        <Id>us/pr/toa-baja-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3678-cssb</Url>
+        <Id>us/army/3678-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3678th CSSB</HHQAcronym>
+        <Name>3678th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1930-aq-det</Url>
+    <NameNode>1930th Contingency Contracting Team
+                            U.S. Army</NameNode>
+    <FullName>1930th Contingency Contracting Team, U.S. Army</FullName>
+    <SplitName>1930th Contingency Contracting Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/191-rsg</Url>
+        <Id>us/army/191-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>191st RSG</HHQAcronym>
+        <Name>191st Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/201-rgt</Url>
+    <NameNode>201st Regiment
+                            U.S. Army</NameNode>
+    <FullName>201st Regiment, U.S. Army</FullName>
+    <SplitName>201st Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Allen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juana Diaz, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-allen/arng</Url>
+        <Id>us/pr/fort-allen/arng</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/22-cst</Url>
+    <NameNode>22nd Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>22nd Civil Support Team, U.S. Army</FullName>
+    <SplitName>22nd Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Buchanan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-buchanan</Url>
+        <Id>us/pr/fort-buchanan</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-56</Url>
+    <NameNode>Detachment 56, OSACOM
+                            U.S. Army</NameNode>
+    <FullName>Detachment 56, OSACOM, U.S. Army</FullName>
+    <SplitName>Detachment 56, OSACOM</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/181-med-co</Url>
+    <NameNode>181st Medical Company
+                            U.S. Army</NameNode>
+    <FullName>181st Medical Company, U.S. Army</FullName>
+    <SplitName>181st Medical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Coamo Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Coamo, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/coamo-armory</Url>
+        <Id>us/pr/coamo-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1065-med-co</Url>
+    <NameNode>1065th Medical Company
+                            U.S. Army</NameNode>
+    <FullName>1065th Medical Company, U.S. Army</FullName>
+    <SplitName>1065th Medical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-pr/arng-elt</Url>
+        <Id>us/army/jfhq-pr/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

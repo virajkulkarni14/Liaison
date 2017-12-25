@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osa</Url>
+    <NameNode>Office of the Secretary of the Army
+                            U.S. Army</NameNode>
+    <FullName>Office of the Secretary of the Army, U.S. Army</FullName>
+    <SplitName>Office of the Secretary of the Army</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arlington, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/pentagon</Url>
+        <Id>us/va/pentagon</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/ceac</Url>
+        <FullName>Cost and Economic Analysis Agency</FullName>
+        <Name>Cost and Economic Analysis Agency</Name>
+        <Id>us/army/ceac</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/fincom</Url>
+        <FullName>Finance Command</FullName>
+        <Name>Finance Command</Name>
+        <Id>us/army/fincom</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/ceac</Url>
+    <NameNode>Cost and Economic Analysis Agency
+                            U.S. Army</NameNode>
+    <FullName>Cost and Economic Analysis Agency, U.S. Army</FullName>
+    <SplitName>Cost and Economic Analysis Agency</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osa</Url>
+        <Id>us/army/osa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSA</HHQAcronym>
+        <Name>Office of the Secretary of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/fincom</Url>
+    <NameNode>Finance Command
+                            U.S. Army</NameNode>
+    <FullName>Finance Command, U.S. Army</FullName>
+    <SplitName>Finance Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osa</Url>
+        <Id>us/army/osa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSA</HHQAcronym>
+        <Name>Office of the Secretary of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>
