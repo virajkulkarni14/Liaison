@@ -16,12 +16,11 @@ namespace Liaison.Biz
         string Mission { get; set; }
         UnitType UnitTypeId { get; set; }        
         string CurrentOpsRef { get; }
-        List<BaseOrg> Bases { get; }
-        List<HigherHqOrg> HigherHq { get; }
         string CurrentOpsUrl { get; }
         string CurrentOpsLogo { get; }
         Services ServiceId { get; }
-        
+        List<BaseOrg> Bases { get; }
+        List<HigherHqOrg> HigherHqs { get; }
     }
 
 }

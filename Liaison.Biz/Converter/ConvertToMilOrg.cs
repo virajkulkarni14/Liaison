@@ -37,6 +37,22 @@ namespace Liaison.Biz.Converter
             return null;
         }
 
+        private static List<HigherHqOrg> GetHigherHq(List<HigherHqObject> higherHqs)
+        {
+            var returnable = new List<HigherHqOrg>();
+            foreach( var high in higherHqs)
+            {
+                var higherhq = new HigherHqOrg();
+                HigherHqOrg hh = new HigherHqOrg
+                {
+
+                    
+                };
+                returnable.Add(hh);
+            }
+            return returnable;
+        }
+
         private static List<BaseOrg> GetBases(List<LocationObject> locations)
         {
             var returnable = new List<BaseOrg>();

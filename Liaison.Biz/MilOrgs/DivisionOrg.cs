@@ -25,7 +25,7 @@ namespace Liaison.Biz.MilOrgs
         public string Mission { get; set; }
         public UnitType UnitTypeId { get; set; }
         public string CurrentOpsRef { get; set; }
-        
+
         public string CurrentOpsUrl { get; set; }
         public string CurrentOpsLogo { get; set; }
         public Services ServiceId { get; set; }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Liaison.Biz.MilOrgs
 {
-   public class HigherHqOrg
+    public class HigherHqOrg
     {
+        public string CurrentOpsRef { get; set; }
     }
 }

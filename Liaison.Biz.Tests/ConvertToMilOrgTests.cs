@@ -41,8 +41,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, division.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, division.UnitTypeId);
 
-            Assert.AreEqual(2, division.Bases.Count);
-            Assert.AreEqual(2, division.HigherHq.Count);
+            Assert.AreEqual(2, division.Bases.Count);            
 
             Assert.AreEqual("us/ks/fort-riley", division.Bases[0].CurrentOpsBaseRef);
             Assert.AreEqual("Fort Riley", division.Bases[0].Name);
@@ -62,7 +61,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(false, division.Bases[1].IsDeployment);
             Assert.AreEqual(false, division.Bases[1].IsCurrent);
 
-            
+            Assert.AreEqual(3, division.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/usaraf", division.HigherHqs[0].CurrentOpsRef);
 
 
         }
