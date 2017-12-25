@@ -12,6 +12,7 @@ namespace Liaison.Biz.Objects
         public string FullName { get; set; }
         public string Name { get; set; }
         public string Id { get; set; }
+        public bool IsIndirect { get; set; }
     }
     public class HigherHqObject
     {

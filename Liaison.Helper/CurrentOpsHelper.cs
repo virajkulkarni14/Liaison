@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Liaison.Biz
+namespace Liaison.Helper
 {
-    public class Class1
+   public static class CurrentOpsHelper
     {
+        public static string ctops = "https://currentops.com/unit/";
     }
 }

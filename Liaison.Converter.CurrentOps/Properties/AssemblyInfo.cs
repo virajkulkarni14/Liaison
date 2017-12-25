@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Liaison.Import")]
+[assembly: AssemblyTitle("Liaison.Converter.CurrentOps")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Liaison.Import")]
+[assembly: AssemblyProduct("Liaison.Converter.CurrentOps")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fdd46318-78c9-4cff-91e3-5d146a347753")]
+[assembly: Guid("b905af7b-48cc-49ce-8645-e888c58f5a75")]
 
 // Version information for an assembly consists of the following four values:
 //

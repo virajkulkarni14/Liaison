@@ -8,12 +8,15 @@ namespace Liaison.Helper.Enumerators
 {
     public enum Services
     {
-        Navy=1,
+        Navy = 1,
         Army,
         AirForce,
         Marines,
         Joint
 
     }
-
+    public enum UnitType
+    {
+        Division = 9,
+    }
 }
