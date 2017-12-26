@@ -19,4 +19,11 @@ namespace Liaison.Helper.Enumerators
     {
         Division = 9,
     }
+
+    public enum HigherHqType
+    {
+        Unknown,
+        Alligned,
+        Assigned,
+    }
 }

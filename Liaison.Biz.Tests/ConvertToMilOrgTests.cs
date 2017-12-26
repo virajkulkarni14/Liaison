@@ -64,8 +64,22 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(3, division.HigherHqs.Count);
 
             Assert.AreEqual("us/army/usaraf", division.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, division.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, division.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, division.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Alligned, division.HigherHqs[0].CommandRelationshipType);
 
+            Assert.AreEqual("us/army/forscom", division.HigherHqs[1].CurrentOpsRef);
+            Assert.AreEqual(null, division.HigherHqs[1].DateFrom);
+            Assert.AreEqual(null, division.HigherHqs[1].DateUntil);
+            Assert.AreEqual(true, division.HigherHqs[1].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Assigned, division.HigherHqs[1].CommandRelationshipType);
 
+            Assert.AreEqual("us/army/v-corps", division.HigherHqs[2].CurrentOpsRef);
+            Assert.AreEqual(null, division.HigherHqs[2].DateFrom);
+            Assert.AreEqual(2006, division.HigherHqs[2].DateUntil);
+            Assert.AreEqual(false, division.HigherHqs[2].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Unknown, division.HigherHqs[2].CommandRelationshipType);
         }
     }
 }

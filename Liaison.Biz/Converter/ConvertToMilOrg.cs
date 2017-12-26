@@ -43,14 +43,34 @@ namespace Liaison.Biz.Converter
             foreach( var high in higherHqs)
             {
                 var higherhq = new HigherHqOrg();
+                int?[] daterange = GetDateRange(high.DateRange);
                 HigherHqOrg hh = new HigherHqOrg
                 {
-
-                    
+                    CurrentOpsRef = high.Id,
+                    DateFrom=daterange[0],
+                    DateUntil=daterange[1],
+                    IsCurrent = daterange[1] == null,
+                    CommandRelationshipType = GetCommandRelationshipType(high.Type),
                 };
                 returnable.Add(hh);
             }
             return returnable;
+        }
+
+        private static Liaison.Helper.Enumerators.HigherHqType GetCommandRelationshipType(string type)
+        {
+            switch (type)
+            {               
+                case "Aligned":
+                    {
+                        return Helper.Enumerators.HigherHqType.Alligned;
+                    }
+                case "Assigned":
+                    {
+                        return Helper.Enumerators.HigherHqType.Assigned;
+                    }
+            }
+            return Helper.Enumerators.HigherHqType.Unknown;
         }
 
         private static List<BaseOrg> GetBases(List<LocationObject> locations)
