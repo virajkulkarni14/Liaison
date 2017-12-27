@@ -9,7 +9,21 @@ namespace Liaison.Biz.MilOrgs
 {
     public class BattalionOrg : IMilitaryOrg
     {
-        public string Name { get; }
+        public string ParentShortForm { get; set; }
+        public string Name
+        {
+            get
+            {
+                StringBuilder sb = new StringBuilder();
+                if (Number.HasValue)
+                {
+                    sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
+                }
+                sb.Append(Mission + " ");
+                sb.Append("Bn., ");
+                return sb.ToString();
+            }
+        }
         public int? Number { get; set; }
         public bool UseOrdinal { get; set; }
         public string Mission { get; set; }
@@ -21,5 +35,6 @@ namespace Liaison.Biz.MilOrgs
         public List<BaseOrg> Bases { get; set; }
         public List<HigherHqOrg> HigherHqs { get; set; }
         public ServiceType ServiceTypeIdx { get; set; }
+       public List<ShortForm> ShortForm { get; set; }
     }
 }

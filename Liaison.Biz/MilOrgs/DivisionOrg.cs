@@ -35,5 +35,6 @@ namespace Liaison.Biz.MilOrgs
         public List<BaseOrg> Bases { get; set; }
         public List<HigherHqOrg> HigherHqs { get; set; }
         public ServiceType ServiceTypeIdx { get; set; }
+        public List<ShortForm> ShortForm { get; set; }
     }
 }

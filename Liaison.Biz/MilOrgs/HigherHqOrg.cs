@@ -15,4 +15,9 @@ namespace Liaison.Biz.MilOrgs
         public bool IsCurrent { get; internal set; }
         public HigherHqType CommandRelationshipType { get; internal set; }
     }
+    public class ShortForm
+    {
+        public string Text { get; set; }
+        public ShortFormType Type { get; set; }
+    }
 }

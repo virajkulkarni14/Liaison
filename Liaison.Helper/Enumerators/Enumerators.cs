@@ -34,4 +34,10 @@ namespace Liaison.Helper.Enumerators
         Volunteer, // TA, ANG
         StateVolunteer, // Local Defence
     }
+    public enum ShortFormType
+    {
+        ShortName = 1, // ___1 Inf. Div.
+        IndexName=2, // INF)___1
+        Additional=3// ___1 ID
+    }
 }

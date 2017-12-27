@@ -80,6 +80,17 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(2006, division.HigherHqs[2].DateUntil);
             Assert.AreEqual(false, division.HigherHqs[2].IsCurrent);
             Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Unknown, division.HigherHqs[2].CommandRelationshipType);
+
+            Assert.AreEqual(3, division.ShortForm.Count);
+
+            Assert.AreEqual("____1 Inf. Div.", division.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, division.ShortForm[0].Type);
+
+            Assert.AreEqual("INF)____1", division.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, division.ShortForm[1].Type);
+
+            Assert.AreEqual("____1 ID", division.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Additional, division.ShortForm[2].Type);
             #endregion
         }
         [TestMethod]
@@ -102,9 +113,9 @@ namespace Liaison.Biz.Tests
             Assert.IsInstanceOfType(hhqbn, typeof(BattalionOrg));
             Assert.AreEqual(null, hhqbn.Number);
             Assert.IsFalse(hhqbn.UseOrdinal);
-            Assert.AreEqual("Headquarters ", hhqbn.Mission);
-            Assert.AreEqual("1st Infantry Division", hhqbn.Name);
-            Assert.AreEqual("us/army/1-id", hhqbn.CurrentOpsRef);
+            Assert.AreEqual("Headquarters and Headquarters", hhqbn.Mission);
+            Assert.AreEqual("Headquarters and Headquarters Bn., ___1 INF. DIV.", hhqbn.Name);
+            Assert.AreEqual("us/army/1-id/hhbn", hhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1-id", hhqbn.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUQgMDAwMQ.png", hhqbn.CurrentOpsLogo);
             Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hhqbn.ServiceId);
@@ -150,6 +161,17 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(2006, hhqbn.HigherHqs[2].DateUntil);
             Assert.AreEqual(false, hhqbn.HigherHqs[2].IsCurrent);
             Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Unknown, hhqbn.HigherHqs[2].CommandRelationshipType);
+
+            Assert.AreEqual(3, hhqbn.ShortForm.Count);
+
+            Assert.AreEqual("HHQ Bn., ___1 Inf. Div.", hhqbn.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hhqbn.ShortForm[0].Type);
+
+            Assert.AreEqual("INF)___1@!", hhqbn.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hhqbn.ShortForm[1].Type);
+
+            Assert.AreEqual("HHB, ___1 ID", hhqbn.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Additional, hhqbn.ShortForm[2].Type);
             #endregion
         }
     }
