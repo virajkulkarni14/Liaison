@@ -7,28 +7,14 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.Biz.MilOrgs
 {
-    public class DivisionOrg : IMilitaryOrg
+    public class BattalionOrg : IMilitaryOrg
     {
-        public string Name
-        {
-            get
-            {
-                StringBuilder sb = new StringBuilder();
-                if (Number.HasValue)
-                {
-                    sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
-                }
-                sb.Append(Mission + " ");
-                sb.Append("Division");
-                return sb.ToString();
-            }
-        }
+        public string Name { get; }
         public int? Number { get; set; }
         public bool UseOrdinal { get; set; }
         public string Mission { get; set; }
         public UnitType UnitTypeId { get; set; }
         public string CurrentOpsRef { get; set; }
-
         public string CurrentOpsUrl { get; set; }
         public string CurrentOpsLogo { get; set; }
         public Services ServiceId { get; set; }

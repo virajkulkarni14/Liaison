@@ -22,19 +22,43 @@ namespace Liaison.Biz.Converter
                     UnitTypeId = Liaison.Helper.Enumerators.UnitType.Division,
                     CurrentOpsRef = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
                     CurrentOpsUrl = coo.Url,
-                    CurrentOpsLogo = coo.LogoUrl.EndsWith("png")
-                                        ? coo.LogoUrl + "zzzzz"
-                                        : coo.LogoUrl.Trim() + "png",
+                    CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
+                    ServiceId = coo.FullName.EndsWith("U.S. Army")
+                                    ? Helper.Enumerators.Services.Army
+                                        : coo.FullName.EndsWith("USMC")
+                                        ? Helper.Enumerators.Services.Marines : Helper.Enumerators.Services.Navy,
+                    Bases = GetBases(coo.Locations),
+                    HigherHqs = GetHigherHq(coo.HigherHq),
+                };
+            }
+            else if (coo.SplitName.StartsWith("Headquarters and Headquarters Battalion"))
+            {
+                return new BattalionOrg
+                {
+                    Number = null,
+                    Mission = coo.SplitName.Split(' ')[0],
+                    UnitTypeId = Liaison.Helper.Enumerators.UnitType.Battalion,
+                    CurrentOpsRef = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
+                    CurrentOpsUrl = coo.Url,
+                    CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
                     ServiceId = coo.FullName.EndsWith("U.S. Army")
                                     ? Helper.Enumerators.Services.Army
                                         : coo.FullName.EndsWith("USMC")
                                         ? Helper.Enumerators.Services.Marines : Helper.Enumerators.Services.Navy,
                     Bases = GetBases(coo.Locations),
                     HigherHqs = GetHigherHq(coo.HigherHq)
+
                 };
             }
 
             return null;
+        }
+
+        private static string GetLogoUrl(string logoUrl)
+        {
+            return logoUrl.EndsWith("png")
+                                          ? logoUrl
+                                          : logoUrl.Trim() + "png";
         }
 
         private static List<HigherHqOrg> GetHigherHq(List<HigherHqObject> higherHqs)

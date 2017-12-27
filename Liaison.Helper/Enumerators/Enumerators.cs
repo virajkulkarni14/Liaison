@@ -18,6 +18,7 @@ namespace Liaison.Helper.Enumerators
     public enum UnitType
     {
         Division = 9,
+        Battalion = 12,
     }
 
     public enum HigherHqType
@@ -25,5 +26,12 @@ namespace Liaison.Helper.Enumerators
         Unknown,
         Alligned,
         Assigned,
+    }
+    public enum ServiceType
+    {
+        Active = 1,
+        Reserve,//B. Army Reserve, US Army Reserve
+        Volunteer, // TA, ANG
+        StateVolunteer, // Local Defence
     }
 }
