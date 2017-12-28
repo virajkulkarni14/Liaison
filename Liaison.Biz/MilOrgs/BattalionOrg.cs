@@ -21,6 +21,10 @@ namespace Liaison.Biz.MilOrgs
                 }
                 sb.Append(Mission + " ");
                 sb.Append("Bn., ");
+                if (!string.IsNullOrEmpty(ParentShortForm))
+                {
+                    sb.Append(ParentShortForm.ToUpper());
+                }
                 return sb.ToString();
             }
         }

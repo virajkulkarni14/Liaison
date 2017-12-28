@@ -23,9 +23,11 @@ namespace Liaison.Helper.Enumerators
 
     public enum HigherHqType
     {
-        Unknown,
+        Unknown=1,
+        Organic,
         Alligned,
         Assigned,
+        
     }
     public enum ServiceType
     {
