@@ -34,26 +34,19 @@ namespace Liaison.Biz.Converter
                                         ? Helper.Enumerators.Services.Marines : Helper.Enumerators.Services.Navy,
                     Bases = GetBases(coo.Locations),
                     HigherHqs = GetHigherHq(coo.HigherHq),
-                    ServiceTypeIdx = divnumber < 100 || divnumber == 101 ? Helper.Enumerators.ServiceType.Active : Helper.Enumerators.ServiceType.Volunteer,
-                    //ShortForm = GetShortFormDivision(divnumber, mission)
+                    ServiceTypeIdx = GetDivisionServiceType( divnumber), 
                     ShortForm = GetShortFormDivision(urlIdDivPart), 
                 };
             }
             else if (coo.SplitName.StartsWith("Headquarters and Headquarters Battalion"))
             {
                 //https://currentops.com/unit/us/army/1-id/hhbn
-                string url = coo.Url.Substring(0,coo.Url.Length-5);
-                int parentnumber = 0;
-                if (url.EndsWith("id"))
-                {
-                    int from = url.LastIndexOf('/')+1;
-                    int until = url.IndexOf('-', from);
-                    parentnumber = int.Parse(url.Substring(from, (until - from)));
-                }
+                int parentDivisionNumber = GetParentDivisionNumberFromUrl(coo.Url);
+
                 string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
                 //parentID = parentID.Substring(0, parentID.LastIndexOf('/'));
                 string urlIdDivPart = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
-                string parentShortForm = GetParentShortFormFromParent(parentID, 2);
+                string parentShortForm = GetDivisionShortFormFromParent(parentID, 2);
                 return new BattalionOrg
                 {
                     ParentShortForm = parentShortForm,
@@ -63,18 +56,97 @@ namespace Liaison.Biz.Converter
                     CurrentOpsRef = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
                     CurrentOpsUrl = coo.Url,
                     CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
-                    ServiceId = GetServiceId(coo.Url)                    ,
+                    ServiceId = GetServiceId(coo.Url),
                     Bases = GetBases(coo.Locations),
                     HigherHqs = GetHigherHq(coo.HigherHq),
-                    ServiceTypeIdx= parentnumber < 100 || parentnumber == 101 ? Helper.Enumerators.ServiceType.Active : Helper.Enumerators.ServiceType.Volunteer,
-                     ShortForm = GetShortFormHHQBattalion(GetShortFormDivision(urlIdDivPart)),
+                    ServiceTypeIdx = GetDivisionServiceType(parentDivisionNumber),
+                    ShortForm = GetShortFormHHQBattalion(GetShortFormDivision(urlIdDivPart)),
                 };
             }
+            else if (coo.SplitName.Contains("Company"))
+            {
+                var coysplit = coo.SplitName.Split(',');
+                var namesplit = coysplit[0].Remove(coysplit[0].IndexOf("Company"), 7);
 
+                string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
+
+                string parentShortForm;
+                ServiceType serviceType = ServiceType.Active;
+                string urlIdDivPart = "";
+
+                if (parentID.Contains('/'))
+                {
+                    var divsplit = parentID.Split('/');
+                    parentShortForm = GetBattalionShortFormFromParent(divsplit[1]) + ", " + GetDivisionShortFormFromParent(divsplit[0], 2);
+                    serviceType = GetDivisionServiceType(GetParentDivisionNumberFromUrl(divsplit[0]));
+                    urlIdDivPart = divsplit[0];
+                }
+                else
+                {
+                    parentShortForm = "";
+                }
+                string name = null;
+                string mission = namesplit.Trim();
+                int? number = null;
+                return new CompanyOrg
+                {
+                    Name = name,
+                    ParentShortForm=parentShortForm,
+                    Number=number,
+                    Mission = mission,
+                    UnitTypeId=UnitType.Company,
+                    CurrentOpsRef = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
+                    CurrentOpsUrl = coo.Url,
+                    CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
+                    ServiceId = GetServiceId(coo.Url),
+                    Bases = GetBases(coo.Locations),
+                    HigherHqs = GetHigherHq(coo.HigherHq),
+                    ServiceTypeIdx = serviceType,
+                    ShortForm = GetShortFormCompany(name, mission, number, GetShortFormHHQBattalion(GetShortFormDivision(urlIdDivPart))),
+
+                };
+            }
             return null;
         }
 
-       
+
+
+
+        private static int GetParentDivisionNumberFromUrl(string urlorig)
+        {            
+            if (urlorig.StartsWith(CurrentOpsHelper.ctopsUSArmy))
+            {
+                urlorig = urlorig.Substring(CurrentOpsHelper.ctopsUSArmy.Length);
+            }
+            int parentnumber = 0;
+            if (urlorig.EndsWith("/hhbn"))
+            {
+                urlorig = urlorig.Substring(0, urlorig.Length - "/hhbn".Length);
+            }
+            if (urlorig.EndsWith("-id"))
+            {
+                string sDivNumber = urlorig.Substring(0, urlorig.Length - "-id".Length);
+                //int from = url.LastIndexOf('/') + 1;
+                //int until = url.IndexOf('-', from);
+                parentnumber = int.Parse(sDivNumber);
+            }
+            return parentnumber;
+        }
+
+        private static ServiceType GetDivisionServiceType(int divnumber)
+        {
+            return divnumber <= 10 || divnumber == 101 || divnumber == 82 ? Helper.Enumerators.ServiceType.Active : Helper.Enumerators.ServiceType.Volunteer;                  
+        }
+
+        private static string GetBattalionShortFormFromParent(string v)
+        {
+            if (v == "hhbn")
+            {
+                return "HHQ Bn.";
+            }
+            return "";
+        }
+
         private static Services GetServiceId(string url)
         {
             if (url.StartsWith(CurrentOpsHelper.ctopsUSArmy))
@@ -104,13 +176,52 @@ namespace Liaison.Biz.Converter
                         new ShortForm
                         {
                             Text=sNumber+" "+ack.First()+"D",
-                            Type=Helper.Enumerators.ShortFormType.Additional
+                            Type=Helper.Enumerators.ShortFormType.Other
                         },
                     };
 
 
         }
-
+        private static List<ShortForm> GetShortFormCompany(string name, string mission, int? number, List<ShortForm> list)
+        {
+            string additionalShortName = "";
+            string additionalIndexName = "";
+            string additionalOtherName = "";
+            if (mission=="Headquarters and Support")
+            {
+                additionalShortName = "HQ & Supt. Coy., ";
+                additionalIndexName = "|!";
+                additionalOtherName = "HSC, ";
+            }
+            List<ShortForm> returnable = new List<ShortForm>();
+            foreach (var item in list)
+            {
+                if (item.Type == ShortFormType.ShortName)
+                {
+                    returnable.Add(new ShortForm
+                    {
+                        Type = ShortFormType.ShortName,
+                        Text = "HHQ Bn., " + item.Text
+                    });
+                }
+                else if (item.Type == ShortFormType.IndexName)
+                {
+                    returnable.Add(new ShortForm
+                    {
+                        Type = ShortFormType.IndexName,
+                        Text = item.Text + "@!",
+                    });
+                }
+                else if (item.Type == ShortFormType.Other)
+                {
+                    returnable.Add(new ShortForm
+                    {
+                        Type = ShortFormType.Other,
+                        Text = "HHB, " + item.Text,
+                    });
+                }
+            }
+        }
         private static List<ShortForm> GetShortFormHHQBattalion(List<ShortForm> list)
         {
             List<ShortForm> returnable = new List<ShortForm>();
@@ -132,11 +243,11 @@ namespace Liaison.Biz.Converter
                         Text = item.Text + "@!",
                     });
                 }
-                else if (item.Type == ShortFormType.Additional)
+                else if (item.Type == ShortFormType.Other)
                 {
                     returnable.Add(new ShortForm
                     {
-                        Type = ShortFormType.Additional,
+                        Type = ShortFormType.Other,
                         Text = "HHB, " + item.Text,
                     });
                 }
@@ -145,35 +256,35 @@ namespace Liaison.Biz.Converter
         }
         
 
-        private static List<ShortForm> GetShortFormDivision(int divnumber, string mission)
-        {
-            string ack = GetMissionShortForm(mission);
+        //private static List<ShortForm> GetShortFormDivision(int divnumber, string mission)
+        //{
+        //    string ack = GetMissionShortForm(mission);
             
 
-            string sNumber = GetIntWithUnderscores(divnumber);
+        //    string sNumber = GetIntWithUnderscores(divnumber);
 
-            return new List<ShortForm>()
-                    {
-                        new ShortForm
-                        {
-                            Text=sNumber+" "+ack+". Div.",
-                            Type=Helper.Enumerators.ShortFormType.ShortName
-                        },
-                        new ShortForm
-                        {
-                            Text=ack.ToUpper()+")"+sNumber,
-                            Type=Helper.Enumerators.ShortFormType.IndexName
-                        },
-                        new ShortForm
-                        {
-                            Text=sNumber+" "+mission.First()+"D",
-                            Type=Helper.Enumerators.ShortFormType.Additional
-                        },
-                    };
+        //    return new List<ShortForm>()
+        //            {
+        //                new ShortForm
+        //                {
+        //                    Text=sNumber+" "+ack+". Div.",
+        //                    Type=Helper.Enumerators.ShortFormType.ShortName
+        //                },
+        //                new ShortForm
+        //                {
+        //                    Text=ack.ToUpper()+")"+sNumber,
+        //                    Type=Helper.Enumerators.ShortFormType.IndexName
+        //                },
+        //                new ShortForm
+        //                {
+        //                    Text=sNumber+" "+mission.First()+"D",
+        //                    Type=Helper.Enumerators.ShortFormType.Additional
+        //                },
+        //            };
 
-        }
+        //}
 
-        private static string GetParentShortFormFromParent(string parent, int variant)
+        private static string GetDivisionShortFormFromParent(string parent, int variant)
         {
             string[] parentspl = parent.Split('-');
 
@@ -271,6 +382,7 @@ namespace Liaison.Biz.Converter
 
         private static string GetLogoUrl(string logoUrl)
         {
+            logoUrl = logoUrl.Trim();
             return logoUrl.EndsWith("png")
                                           ? logoUrl
                                           : string.IsNullOrEmpty(logoUrl) ? "" : logoUrl.Trim() + "png";
@@ -341,6 +453,10 @@ namespace Liaison.Biz.Converter
 
         private static int?[] GetDateRange(string dateRange)
         {
+            if (string.IsNullOrEmpty(dateRange))
+            {
+                return new int?[2] { null, null };
+            }
             //2006 - Present
             //  ... - 2006
             string[] str = dateRange.Split('-');

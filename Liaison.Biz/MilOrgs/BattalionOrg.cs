@@ -10,10 +10,9 @@ namespace Liaison.Biz.MilOrgs
     public class BattalionOrg : IMilitaryOrg
     {
         public string ParentShortForm { get; set; }
-        public string Name
+        public string GetFullName()
         {
-            get
-            {
+            
                 StringBuilder sb = new StringBuilder();
                 if (Number.HasValue)
                 {
@@ -26,7 +25,7 @@ namespace Liaison.Biz.MilOrgs
                     sb.Append(ParentShortForm.ToUpper());
                 }
                 return sb.ToString();
-            }
+       
         }
         public int? Number { get; set; }
         public bool UseOrdinal { get; set; }
@@ -40,5 +39,6 @@ namespace Liaison.Biz.MilOrgs
         public List<HigherHqOrg> HigherHqs { get; set; }
         public ServiceType ServiceTypeIdx { get; set; }
        public List<ShortForm> ShortForm { get; set; }
+        public string Name { get; set; }
     }
 }

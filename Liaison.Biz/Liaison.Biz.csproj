@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Converter\ConvertToMilOrg.cs" />
     <Compile Include="MilOrgs\BattalionOrg.cs" />
+    <Compile Include="MilOrgs\CompanyOrg.cs" />
     <Compile Include="MilOrgs\HigherHqOrg.cs" />
     <Compile Include="MilOrgs\IMilitaryOrg.cs" />
     <Compile Include="MilOrgs\BaseOrg.cs" />

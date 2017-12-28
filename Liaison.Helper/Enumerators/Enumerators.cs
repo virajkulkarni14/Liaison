@@ -19,6 +19,7 @@ namespace Liaison.Helper.Enumerators
     {
         Division = 9,
         Battalion = 12,
+        Company= 13,
     }
 
     public enum HigherHqType
@@ -40,6 +41,6 @@ namespace Liaison.Helper.Enumerators
     {
         ShortName = 1, // ___1 Inf. Div.
         IndexName=2, // INF)___1
-        Additional=3// ___1 ID
+        Other=3// ___1 ID
     }
 }

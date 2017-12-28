@@ -10,9 +10,11 @@ namespace Liaison.Biz
 {
     public interface IMilitaryOrg
     {
-        string Name { get; }
+        string GetFullName();
+
         int? Number { get; set; }
         bool UseOrdinal { get; set; }
+        string Name { get; set; } 
         string Mission { get; set; }
         UnitType UnitTypeId { get; set; }        
         string CurrentOpsRef { get; }
