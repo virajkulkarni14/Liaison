@@ -67,6 +67,7 @@ namespace Liaison.Biz.Converter
             {
                 var coysplit = coo.SplitName.Split(',');
                 var namesplit = coysplit[0].Remove(coysplit[0].IndexOf("Company"), 7);
+                string namesplitTrim = namesplit.Trim();
 
                 string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
 
@@ -86,8 +87,22 @@ namespace Liaison.Biz.Converter
                     parentShortForm = "";
                 }
                 string name = null;
-                string mission = namesplit.Trim();
+                string mission = null;
                 int? number = null;
+                
+                if (namesplitTrim.Length>1)
+                {
+                    name = null;
+                    mission = namesplitTrim;
+                    number = null;
+                }
+                else if (namesplitTrim.Length==1)
+                {
+                    name = namesplitTrim;
+                    mission = null;
+                    number = null;
+                }
+                
                 return new CompanyOrg
                 {
                     Name = name,
@@ -95,10 +110,10 @@ namespace Liaison.Biz.Converter
                     Number=number,
                     Mission = mission,
                     UnitTypeId=UnitType.Company,
-                    CurrentOpsRef = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
-                    CurrentOpsUrl = coo.Url,
+                    CurrentOpsRef = coo.Url.Trim().Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
+                    CurrentOpsUrl = coo.Url.Trim(),
                     CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
-                    ServiceId = GetServiceId(coo.Url),
+                    ServiceId = GetServiceId(coo.Url.Trim()),
                     Bases = GetBases(coo.Locations),
                     HigherHqs = GetHigherHq(coo.HigherHq),
                     ServiceTypeIdx = serviceType,
@@ -178,8 +193,7 @@ namespace Liaison.Biz.Converter
                             Text=sNumber+" "+ack.First()+"D",
                             Type=Helper.Enumerators.ShortFormType.Other
                         },
-                    };
-
+                    };            
 
         }
         private static List<ShortForm> GetShortFormCompany(string name, string mission, int? number, List<ShortForm> list)
@@ -187,12 +201,18 @@ namespace Liaison.Biz.Converter
             string additionalShortName = "";
             string additionalIndexName = "";
             string additionalOtherName = "";
-            if (mission=="Headquarters and Support")
+            if (!string.IsNullOrEmpty(name))
             {
-                additionalShortName = "HQ & Supt. Coy., ";
-                additionalIndexName = "|!";
-                additionalOtherName = "HSC, ";
+                additionalShortName = name + " Coy.";
+                additionalIndexName = "|" + name;
+                additionalOtherName = name;
             }
+            else if (mission=="Headquarters and Support")
+            {
+                additionalShortName = "HQ & Supt. Coy.";
+                additionalIndexName = "|!";
+                additionalOtherName = "HSC";
+            }            
             List<ShortForm> returnable = new List<ShortForm>();
             foreach (var item in list)
             {
@@ -201,7 +221,7 @@ namespace Liaison.Biz.Converter
                     returnable.Add(new ShortForm
                     {
                         Type = ShortFormType.ShortName,
-                        Text = "HHQ Bn., " + item.Text
+                        Text = additionalShortName + ", " + item.Text
                     });
                 }
                 else if (item.Type == ShortFormType.IndexName)
@@ -209,7 +229,7 @@ namespace Liaison.Biz.Converter
                     returnable.Add(new ShortForm
                     {
                         Type = ShortFormType.IndexName,
-                        Text = item.Text + "@!",
+                        Text = item.Text + additionalIndexName,
                     });
                 }
                 else if (item.Type == ShortFormType.Other)
@@ -217,10 +237,11 @@ namespace Liaison.Biz.Converter
                     returnable.Add(new ShortForm
                     {
                         Type = ShortFormType.Other,
-                        Text = "HHB, " + item.Text,
+                        Text = additionalOtherName + "-" + item.Text,
                     });
                 }
             }
+            return returnable;
         }
         private static List<ShortForm> GetShortFormHHQBattalion(List<ShortForm> list)
         {
@@ -248,7 +269,7 @@ namespace Liaison.Biz.Converter
                     returnable.Add(new ShortForm
                     {
                         Type = ShortFormType.Other,
-                        Text = "HHB, " + item.Text,
+                        Text = "HHB/" + item.Text,
                     });
                 }
             }
