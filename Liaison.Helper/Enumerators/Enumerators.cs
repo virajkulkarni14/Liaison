@@ -18,8 +18,9 @@ namespace Liaison.Helper.Enumerators
     public enum UnitType
     {
         Division = 9,
+        Brigade = 10,
         Battalion = 12,
-        Company= 13,
+        Company = 13,
     }
 
     public enum HigherHqType

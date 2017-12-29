@@ -444,5 +444,65 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, c_coyhhqbn.ShortForm[2].Type);
             #endregion
         }
+        [TestMethod]
+        public void ConvertToBCT()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Liaison.Biz.Tests.Strings.BrigadeString.brigadeCombatTeam_76;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+
+            var bct_76 = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(bct_76, typeof(BrigadeOrg));
+            Assert.AreEqual(null, bct_76.Number);
+            Assert.IsFalse(bct_76.UseOrdinal);
+            Assert.AreEqual(null, bct_76.Mission);
+            Assert.AreEqual("___76th Infantry Brigade Combat Team", bct_76.GetFullName());
+            Assert.AreEqual("us/army/76-ibct", bct_76.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/76-ibct", bct_76.CurrentOpsUrl);
+            Assert.AreEqual("", bct_76.CurrentOpsLogo);
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, bct_76.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, bct_76.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, bct_76.ServiceTypeIdx);
+
+            Assert.AreEqual(1, bct_76.Bases.Count);
+
+            Assert.AreEqual("us/in/anderson-armory", bct_76.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Anderson Armory", bct_76.Bases[0].Name);
+            Assert.AreEqual("Anderson, Indiana, United States", bct_76.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/in/anderson-armory", bct_76.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, bct_76.Bases[0].DateFrom);
+            Assert.AreEqual(null, bct_76.Bases[0].DateUntil);
+            Assert.AreEqual(false, bct_76.Bases[0].IsDeployment);
+            Assert.AreEqual(true, bct_76.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, bct_76.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/38-id/hhbn", bct_76.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, bct_76.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, bct_76.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, bct_76.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Organic, bct_76.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, bct_76.ShortForm.Count);
+
+            Assert.AreEqual("___76 Inf. BCT", bct_76.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, bct_76.ShortForm[0].Type);
+
+            Assert.AreEqual("INF*___76", bct_76.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, bct_76.ShortForm[1].Type);
+
+            Assert.AreEqual("___76 IBCT", bct_76.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, bct_76.ShortForm[2].Type);
+            #endregion
+        }
     }
 }

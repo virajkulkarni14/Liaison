@@ -121,6 +121,10 @@ namespace Liaison.Biz.Converter
 
                 };
             }
+            else if (coo.SplitName.EndsWith("Brigade Combat Team")||coo.SplitName.EndsWith("Brigade"))
+            {
+                return new BrigadeOrg { };
+            }
             return null;
         }
 
