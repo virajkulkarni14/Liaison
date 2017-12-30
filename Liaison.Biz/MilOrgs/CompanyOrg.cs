@@ -11,7 +11,7 @@ namespace Liaison.Biz.MilOrgs
     {
         public string GetFullName()
         {
-            StringBuilder sb = new StringBuilder();            
+            StringBuilder sb = new StringBuilder();
             if (Number.HasValue)
             {
                 if (UseOrdinal)
@@ -32,7 +32,7 @@ namespace Liaison.Biz.MilOrgs
             {
                 sb.Append(Mission);
             }
-            sb.Append(" Coy., ");
+            sb.Append(" " + Helper.Constants.ShortForm.Company + "., ");
             if (!string.IsNullOrEmpty(ParentShortForm))
             {
                 sb.Append(ParentShortForm.ToUpper());

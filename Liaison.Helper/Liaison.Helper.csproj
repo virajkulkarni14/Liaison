@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constants\MilOrg.cs" />
     <Compile Include="CurrentOpsHelper.cs" />
     <Compile Include="Enumerators\Enumerators.cs" />
     <Compile Include="Helper.cs" />

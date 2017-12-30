@@ -12,20 +12,18 @@ namespace Liaison.Biz.MilOrgs
         public string ParentShortForm { get; set; }
         public string GetFullName()
         {
-            
-                StringBuilder sb = new StringBuilder();
-                if (Number.HasValue)
-                {
-                    sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
-                }
-                sb.Append(Mission + " ");
-                sb.Append("Bn., ");
-                if (!string.IsNullOrEmpty(ParentShortForm))
-                {
-                    sb.Append(ParentShortForm.ToUpper());
-                }
-                return sb.ToString();
-       
+            StringBuilder sb = new StringBuilder();
+            if (Number.HasValue)
+            {
+                sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
+            }
+            sb.Append(Mission + " ");
+            sb.Append(Helper.Constants.ShortForm.Battalion + "., ");
+            if (!string.IsNullOrEmpty(ParentShortForm))
+            {
+                sb.Append(ParentShortForm.ToUpper());
+            }
+            return sb.ToString();
         }
         public int? Number { get; set; }
         public bool UseOrdinal { get; set; }

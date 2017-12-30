@@ -47,7 +47,7 @@ namespace Liaison.Biz.MilOrgs
                 }
             }
             sb.Append(Mission + " ");
-            sb.Append(IsBrigadeCombatTeam ? "Brigade Battlegroup" : "Brigade");
+            sb.Append(IsBrigadeCombatTeam ? Helper.Constants.LongForm.Brigade+" "+Helper.Constants.LongForm.Battlegroup : Helper.Constants.LongForm.Brigade);
             return sb.ToString();
         }
     }

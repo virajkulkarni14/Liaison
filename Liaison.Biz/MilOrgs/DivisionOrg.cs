@@ -24,7 +24,7 @@ namespace Liaison.Biz.MilOrgs
                 }
             }
             sb.Append(Mission + " ");
-            sb.Append("Division");
+            sb.Append(Helper.Constants.LongForm.Division);
             return sb.ToString();
         }
         public int? Number { get; set; }

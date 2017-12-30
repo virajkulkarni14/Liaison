@@ -18,24 +18,24 @@ namespace Liaison.Biz.Converter
             {
                 int divnumber = int.Parse(new string(coo.SplitName.Where(c => char.IsDigit(c)).ToArray()));
                 string mission = coo.SplitName.Split(' ')[1];
-                string urlIdDivPart = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
+                string urlIdDivPart = coo.Url.Substring(CurrentOpsHelper.ctopsUSArmy.Length);
                 return new DivisionOrg
                 {
                     Number = divnumber,
                     UseOrdinal = true,
                     Mission = mission,
-                    UnitTypeId = Liaison.Helper.Enumerators.UnitType.Division,
-                    CurrentOpsRef = coo.Url.Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
+                    UnitTypeId = UnitType.Division,
+                    CurrentOpsRef = coo.Url.Substring(CurrentOpsHelper.ctops.Length),
                     CurrentOpsUrl = coo.Url,
                     CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
                     ServiceId = coo.FullName.EndsWith("U.S. Army")
-                                    ? Helper.Enumerators.Services.Army
+                                    ? Services.Army
                                         : coo.FullName.EndsWith("USMC")
-                                        ? Helper.Enumerators.Services.Marines : Helper.Enumerators.Services.Navy,
+                                        ? Services.Marines : Services.Navy,
                     Bases = GetBases(coo.Locations),
                     HigherHqs = GetHigherHq(coo.HigherHq),
-                    ServiceTypeIdx = GetDivisionServiceType( divnumber), 
-                    ShortForm = GetShortFormDivision(urlIdDivPart), 
+                    ServiceTypeIdx = GetDivisionServiceType(divnumber),
+                    ShortForm = GetShortFormDivision(urlIdDivPart),
                 };
             }
             else if (coo.SplitName.StartsWith("Headquarters and Headquarters Battalion"))
@@ -89,27 +89,27 @@ namespace Liaison.Biz.Converter
                 string name = null;
                 string mission = null;
                 int? number = null;
-                
-                if (namesplitTrim.Length>1)
+
+                if (namesplitTrim.Length > 1)
                 {
                     name = null;
                     mission = namesplitTrim;
                     number = null;
                 }
-                else if (namesplitTrim.Length==1)
+                else if (namesplitTrim.Length == 1)
                 {
                     name = namesplitTrim;
                     mission = null;
                     number = null;
                 }
-                
+
                 return new CompanyOrg
                 {
                     Name = name,
-                    ParentShortForm=parentShortForm,
-                    Number=number,
+                    ParentShortForm = parentShortForm,
+                    Number = number,
                     Mission = mission,
-                    UnitTypeId=UnitType.Company,
+                    UnitTypeId = UnitType.Company,
                     CurrentOpsRef = coo.Url.Trim().Substring(Liaison.Helper.CurrentOpsHelper.ctops.Length),
                     CurrentOpsUrl = coo.Url.Trim(),
                     CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
@@ -121,13 +121,33 @@ namespace Liaison.Biz.Converter
 
                 };
             }
-            else if (coo.SplitName.EndsWith("Brigade Combat Team")||coo.SplitName.EndsWith("Brigade"))
+            else if (coo.SplitName.EndsWith("Brigade Combat Team") || coo.SplitName.EndsWith("Brigade"))
             {
-                return new BrigadeOrg { };
+                int brigNumber = int.Parse(new string(coo.SplitName.Where(c => char.IsDigit(c)).ToArray()));
+                string mission = coo.SplitName.Split(' ')[1];
+                string urlIdBrigPart = coo.Url.Substring(CurrentOpsHelper.ctopsUSArmy.Length);
+                return new BrigadeOrg
+                {
+                    Number = brigNumber,
+                    UseOrdinal = true,
+                    Mission = mission,
+                    UnitTypeId = UnitType.Brigade,
+                    CurrentOpsRef = coo.Url.Substring(CurrentOpsHelper.ctops.Length),
+                    CurrentOpsUrl = coo.Url,
+                    CurrentOpsLogo = GetLogoUrl(coo.LogoUrl),
+                    ServiceId = coo.FullName.EndsWith("U.S. Army")
+                                    ? Services.Army
+                                        : coo.FullName.EndsWith("USMC")
+                                        ? Services.Marines : Services.Navy,
+                    Bases = GetBases(coo.Locations),
+                    HigherHqs = GetHigherHq(coo.HigherHq),
+                    ServiceTypeIdx = GetBrigadeServiceType(brigNumber),
+                    ShortForm = GetShortFormBrigade(urlIdBrigPart),
+                    IsBrigadeCombatTeam = coo.SplitName.EndsWith("Brigade Combat Team"),
+                };
             }
             return null;
         }
-
 
 
 
@@ -151,7 +171,10 @@ namespace Liaison.Biz.Converter
             }
             return parentnumber;
         }
-
+        private static ServiceType GetBrigadeServiceType(int brigNumber)
+        {
+            return Helper.Enumerators.ServiceType.Volunteer;
+        }
         private static ServiceType GetDivisionServiceType(int divnumber)
         {
             return divnumber <= 10 || divnumber == 101 || divnumber == 82 ? Helper.Enumerators.ServiceType.Active : Helper.Enumerators.ServiceType.Volunteer;                  
@@ -174,7 +197,31 @@ namespace Liaison.Biz.Converter
             }
             return Services.Joint;
         }
+        private static List<ShortForm> GetShortFormBrigade(string urlIdBrigPart)
+        {
+            string[] split = urlIdBrigPart.Split('-');
+            string sNumber = GetIntWithUnderscores(split[0]);
+            string ack = GetMissionShortFormFromUrl(split[1], 1).Substring(0);
 
+            return new List<ShortForm>()
+            {
+                new ShortForm
+                {
+                    Text=sNumber+" "+ack+". "+Helper.Constants.ShortForm.Brigade,
+                    Type=ShortFormType.ShortName
+                },
+                new ShortForm
+                {
+                    Text=ack.ToUpper()+"*"+sNumber,
+                    Type=ShortFormType.IndexName
+                },
+                new ShortForm
+                {
+                    Text=sNumber+" "+ack.First()+"B",
+                    Type=ShortFormType.Other
+                }
+            };
+        }
         private static List<ShortForm> GetShortFormDivision(string urlIdDivPart)
         {
             string[] split = urlIdDivPart.Split('-');
@@ -320,14 +367,25 @@ namespace Liaison.Biz.Converter
         {
             switch (url.ToUpper())
             {
+                case "IBCT":
+                    {
+                        switch (variant)
+                        {
+                            case 1:
+                                return Helper.Constants.ShortForm.Infantry;
+                            case 2:
+                                return Helper.Constants.ShortForm.Infantry+". " + Helper.Constants.ShortForm.Brigade + ".";
+                        }
+                        break;
+                    }
                 case "ID":
                     {
                         switch (variant)
                         {
                             case 1:
-                                return "Inf";
+                                return Helper.Constants.ShortForm.Infantry;
                             case 2:
-                                return "Inf. Div.";
+                                return Helper.Constants.ShortForm.Infantry + ". " + Helper.Constants.ShortForm.Division + ".";
                         }
                         break;
                     }
@@ -336,9 +394,9 @@ namespace Liaison.Biz.Converter
                         switch (variant)
                         {
                             case 1:
-                                return "Arm";
+                                return Helper.Constants.ShortForm.Armoured;
                             case 2:
-                                return "Arm. Div.";
+                                return Helper.Constants.ShortForm.Armoured+ ". " + Helper.Constants.ShortForm.Division + ".";
                         }
                         break;
                     }
@@ -347,9 +405,9 @@ namespace Liaison.Biz.Converter
                         switch (variant)
                         {
                             case 1:
-                                return "Cav";
+                                return Helper.Constants.ShortForm.Cavalry;
                             case 2:
-                                return "Cav. Div.";
+                                return Helper.Constants.ShortForm.Cavalry+ ". " + Helper.Constants.ShortForm.Division + ".";
                         }
                         break;
                     }
