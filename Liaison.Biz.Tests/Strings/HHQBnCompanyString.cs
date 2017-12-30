@@ -8,6 +8,44 @@ namespace Liaison.Biz.Tests.Strings
 {
     class HHQBnCompanyString
     {
+        internal static string cCoyHeadquartersAndHq_76ibct = @"<CurrentOpsObject>
+<Url>https://currentops.com/unit/us/army/76-ibct/hhc</Url>
+<NameNode>
+Headquarters and Headquarters Company, 76th IBCT U.S. Army
+</NameNode>
+<FullName>
+Headquarters and Headquarters Company, 76th IBCT, U.S. Army
+</FullName>
+<SplitName>Headquarters and Headquarters Company, 76th IBCT</SplitName>
+<Service>U.S. Army</Service>
+<LogoUrl/>
+<Locations>
+<LocationObject>
+<DateRange>... - Present</DateRange>
+<BaseName>Lawrence Armory</BaseName>
+<Deployment>false</Deployment>
+<Location>Lawrence, Indiana, United States</Location>
+<IsCurrent>true</IsCurrent>
+<Url>
+https://currentops.com/installations/us/in/lawrence-armory
+</Url>
+<Id>us/in/lawrence-armory</Id>
+</LocationObject>
+</Locations>
+<HigherHq>
+<HigherHqObject>
+<Url>https://currentops.com/unit/us/army/76-ibct</Url>
+<Id>us/army/76-ibct</Id>
+<DateRange>... - Present</DateRange>
+<IsCurrent>true</IsCurrent>
+<HHQAcronym>76th IBCT</HHQAcronym>
+<Type>Organic</Type>
+<Name>76th Infantry Brigade Combat Team</Name>
+</HigherHqObject>
+</HigherHq>
+<Children/>
+</CurrentOpsObject>";
+
         internal static string cCoyHeadquartersAndHqBn_38id = @"<CurrentOpsObject>
 <Url>
 https://currentops.com/unit/us/army/38-id/hhbn/co-c

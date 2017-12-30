@@ -334,6 +334,66 @@ namespace Liaison.Biz.Tests
             #endregion
         }
         [TestMethod]
+        public void ConvertToHSCoy_76ibct()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Liaison.Biz.Tests.Strings.HHQBnCompanyString.cCoyHeadquartersAndHq_76ibct;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+
+            var hschhqbn = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(hschhqbn, typeof(CompanyOrg));
+            Assert.AreEqual(null, hschhqbn.Number);
+            Assert.IsFalse(hschhqbn.UseOrdinal);
+            Assert.AreEqual("Headquarters and Support", hschhqbn.Mission);
+            Assert.AreEqual("Headquarters and Support Coy., HHQ BN., ___38 INF. DIV.", hschhqbn.GetFullName());
+            Assert.AreEqual("us/army/38-id/hhbn/hsc", hschhqbn.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/38-id/hhbn/hsc", hschhqbn.CurrentOpsUrl);
+            Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, hschhqbn.ServiceTypeIdx);
+
+            Assert.AreEqual(1, hschhqbn.Bases.Count);
+
+            Assert.AreEqual("us/in/division-armory", hschhqbn.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Division Armory", hschhqbn.Bases[0].Name);
+            Assert.AreEqual("Indianapolis, Indiana, United States", hschhqbn.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/in/division-armory", hschhqbn.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[0].IsDeployment);
+            Assert.AreEqual(true, hschhqbn.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, hschhqbn.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/38-id/hhbn", hschhqbn.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, hschhqbn.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Organic, hschhqbn.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, hschhqbn.ShortForm.Count);
+
+            Assert.AreEqual("HQ & Supt. Coy., HHQ Bn., ___38 Inf. Div.", hschhqbn.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
+
+            Assert.AreEqual("INF)___38@!|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
+
+            Assert.AreEqual("HSC-HHB/___38 ID", hschhqbn.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, hschhqbn.ShortForm[2].Type);
+            #endregion
+        }
+        [TestMethod]
         public void ConvertToACoyHHQBn_38id()
         {
             var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
@@ -501,7 +561,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("INF*___76", bct_76.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, bct_76.ShortForm[1].Type);
 
-            Assert.AreEqual("___76 IBCT", bct_76.ShortForm[2].Text);
+            Assert.AreEqual("___76 IB", bct_76.ShortForm[2].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, bct_76.ShortForm[2].Type);
             #endregion
         }

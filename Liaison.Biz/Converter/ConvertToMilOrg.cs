@@ -46,7 +46,7 @@ namespace Liaison.Biz.Converter
                 string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
                 //parentID = parentID.Substring(0, parentID.LastIndexOf('/'));
                 string urlIdDivPart = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
-                string parentShortForm = GetDivisionShortFormFromParent(parentID, 2);
+                string parentShortForm = GetShortFormDivisionFromParent(parentID, 2);
                 return new BattalionOrg
                 {
                     ParentShortForm = parentShortForm,
@@ -78,9 +78,16 @@ namespace Liaison.Biz.Converter
                 if (parentID.Contains('/'))
                 {
                     var divsplit = parentID.Split('/');
-                    parentShortForm = GetBattalionShortFormFromParent(divsplit[1]) + ", " + GetDivisionShortFormFromParent(divsplit[0], 2);
+                    parentShortForm = GetShortFormBattalionFromParent(divsplit[1]) + ", " + GetShortFormDivisionFromParent(divsplit[0], 2);
                     serviceType = GetDivisionServiceType(GetParentDivisionNumberFromUrl(divsplit[0]));
                     urlIdDivPart = divsplit[0];
+                }
+                else if (parentID.Contains("-ibct"))
+                {
+                    var bdesplit = parentID.Split('-');
+                    parentShortForm = GetShortFormBrigadeFromParent();
+                    //serviceType = "";
+                    //urlid
                 }
                 else
                 {
@@ -149,7 +156,7 @@ namespace Liaison.Biz.Converter
             return null;
         }
 
-
+   
 
         private static int GetParentDivisionNumberFromUrl(string urlorig)
         {            
@@ -180,12 +187,16 @@ namespace Liaison.Biz.Converter
             return divnumber <= 10 || divnumber == 101 || divnumber == 82 ? Helper.Enumerators.ServiceType.Active : Helper.Enumerators.ServiceType.Volunteer;                  
         }
 
-        private static string GetBattalionShortFormFromParent(string v)
+        private static string GetShortFormBattalionFromParent(string v)
         {
             if (v == "hhbn")
             {
                 return "HHQ Bn.";
             }
+            return "";
+        }
+        private static string GetShortFormBrigade()
+        {
             return "";
         }
 
@@ -197,17 +208,21 @@ namespace Liaison.Biz.Converter
             }
             return Services.Joint;
         }
+        private static string GetShortFormBrigadeFromParent()
+        {
+            throw new NotImplementedException();
+        }
         private static List<ShortForm> GetShortFormBrigade(string urlIdBrigPart)
         {
             string[] split = urlIdBrigPart.Split('-');
             string sNumber = GetIntWithUnderscores(split[0]);
-            string ack = GetMissionShortFormFromUrl(split[1], 1).Substring(0);
+            string ack = GetShortFormMissionFromUrl(split[1], 1).Substring(0);
 
             return new List<ShortForm>()
             {
                 new ShortForm
                 {
-                    Text=sNumber+" "+ack+". "+Helper.Constants.ShortForm.Brigade,
+                    Text=sNumber+" "+ack+". "+Helper.Constants.ShortForm.Brigade+".",
                     Type=ShortFormType.ShortName
                 },
                 new ShortForm
@@ -226,7 +241,7 @@ namespace Liaison.Biz.Converter
         {
             string[] split = urlIdDivPart.Split('-');
             string sNumber = GetIntWithUnderscores(split[0]);
-            string ack = GetMissionShortFormFromUrl(split[1], 1).Substring(0);
+            string ack = GetShortFormMissionFromUrl(split[1], 1).Substring(0);
             return new List<ShortForm>()
                     {
                         new ShortForm
@@ -356,14 +371,14 @@ namespace Liaison.Biz.Converter
 
         //}
 
-        private static string GetDivisionShortFormFromParent(string parent, int variant)
+        private static string GetShortFormDivisionFromParent(string parent, int variant)
         {
             string[] parentspl = parent.Split('-');
 
-            string returnable = GetIntWithUnderscores(parentspl[0])+ " "+ GetMissionShortFormFromUrl(parentspl[1], variant);
+            string returnable = GetIntWithUnderscores(parentspl[0])+ " "+ GetShortFormMissionFromUrl(parentspl[1], variant);
             return returnable;
         }
-        private static string GetMissionShortFormFromUrl(string url, int variant)
+        private static string GetShortFormMissionFromUrl(string url, int variant)
         {
             switch (url.ToUpper())
             {
@@ -415,7 +430,7 @@ namespace Liaison.Biz.Converter
             return "";
         }
 
-        private static string GetMissionShortForm(string mission)
+        private static string GetShortFormMission(string mission)
         {
             switch (mission.ToUpper())
             {
