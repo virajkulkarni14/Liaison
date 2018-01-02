@@ -169,7 +169,7 @@ namespace Liaison.Biz.Converter
                 }
                 else if (item.Type == ShortFormType.Other)
                 {
-                    item.Text = item.Text;
+                    item.Text = "_____/" + item.Text;
                 }
                 else if (item.Type == ShortFormType.ShortName)
                 {
