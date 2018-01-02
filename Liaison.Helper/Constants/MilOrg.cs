@@ -16,6 +16,7 @@ namespace Liaison.Helper.Constants
 
         public const string Division = "Division";
         public const string Brigade = "Brigade";
+        public const string BrigadeCT = "Brigade Combat Team";
         public const string Company = "Company";
         public const string Battalion = "Battalion";
     }
@@ -27,6 +28,7 @@ namespace Liaison.Helper.Constants
 
         public const string Division = "Div";
         public const string Brigade = "Bde";
+        public const string BrigadeCT = "BCT";
         public const string Company = "Coy";
         public const string Battalion = "Bn";
     }

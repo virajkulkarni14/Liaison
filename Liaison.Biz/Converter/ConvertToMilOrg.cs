@@ -73,21 +73,24 @@ namespace Liaison.Biz.Converter
 
                 string parentShortForm;
                 ServiceType serviceType = ServiceType.Active;
-                string urlIdDivPart = "";
+                string urlIdPart = "";
+                List<ShortForm> threeParentShortForm=new List<ShortForm>();
 
                 if (parentID.Contains('/'))
                 {
                     var divsplit = parentID.Split('/');
                     parentShortForm = GetShortFormBattalionFromParent(divsplit[1]) + ", " + GetShortFormDivisionFromParent(divsplit[0], 2);
                     serviceType = GetDivisionServiceType(GetParentDivisionNumberFromUrl(divsplit[0]));
-                    urlIdDivPart = divsplit[0];
+                    urlIdPart = divsplit[0];
+                    threeParentShortForm= GetShortFormHHQBattalion(GetShortFormDivision(urlIdPart));
                 }
                 else if (parentID.Contains("-ibct"))
                 {
                     var bdesplit = parentID.Split('-');
-                    parentShortForm = GetShortFormBrigadeFromParent();
-                    //serviceType = "";
-                    //urlid
+                    parentShortForm = GetShortFormBrigadeFromParent(parentID, 2);
+                    serviceType = GetBrigadeServiceType(int.Parse(bdesplit[0]));
+                    urlIdPart = parentID;
+                    threeParentShortForm = GetShortFormHHCompany(GetShortFormBrigade(urlIdPart));
                 }
                 else
                 {
@@ -124,8 +127,8 @@ namespace Liaison.Biz.Converter
                     Bases = GetBases(coo.Locations),
                     HigherHqs = GetHigherHq(coo.HigherHq),
                     ServiceTypeIdx = serviceType,
-                    ShortForm = GetShortFormCompany(name, mission, number, GetShortFormHHQBattalion(GetShortFormDivision(urlIdDivPart))),
-
+                    ShortForm = GetShortFormCompany(name, mission, number, threeParentShortForm),
+                    
                 };
             }
             else if (coo.SplitName.EndsWith("Brigade Combat Team") || coo.SplitName.EndsWith("Brigade"))
@@ -156,7 +159,25 @@ namespace Liaison.Biz.Converter
             return null;
         }
 
-   
+        private static List<ShortForm> GetShortFormHHCompany(List<ShortForm> list)
+        {
+            foreach (var item in list)
+            {
+                if (item.Type == ShortFormType.IndexName)
+                {
+                    item.Text = item.Text;
+                }
+                else if (item.Type == ShortFormType.Other)
+                {
+                    item.Text = item.Text;
+                }
+                else if (item.Type == ShortFormType.ShortName)
+                {
+                    item.Text = item.Text;
+                }
+            }
+            return list;
+        }
 
         private static int GetParentDivisionNumberFromUrl(string urlorig)
         {            
@@ -208,10 +229,7 @@ namespace Liaison.Biz.Converter
             }
             return Services.Joint;
         }
-        private static string GetShortFormBrigadeFromParent()
-        {
-            throw new NotImplementedException();
-        }
+
         private static List<ShortForm> GetShortFormBrigade(string urlIdBrigPart)
         {
             string[] split = urlIdBrigPart.Split('-');
@@ -222,7 +240,9 @@ namespace Liaison.Biz.Converter
             {
                 new ShortForm
                 {
-                    Text=sNumber+" "+ack+". "+Helper.Constants.ShortForm.Brigade+".",
+                    Text=sNumber+" "+ack+". "+(urlIdBrigPart.EndsWith("-ibct")
+                                                    ? Helper.Constants.ShortForm.BrigadeCT
+                                                    : Helper.Constants.ShortForm.Brigade + "."),
                     Type=ShortFormType.ShortName
                 },
                 new ShortForm
@@ -232,7 +252,9 @@ namespace Liaison.Biz.Converter
                 },
                 new ShortForm
                 {
-                    Text=sNumber+" "+ack.First()+"B",
+                    Text=sNumber+" "+ack.First()+(urlIdBrigPart.EndsWith("-ibct")
+                                                    ? Helper.Constants.ShortForm.BrigadeCT
+                                                    : Helper.Constants.ShortForm.Brigade.First().ToString()),
                     Type=ShortFormType.Other
                 }
             };
@@ -246,7 +268,7 @@ namespace Liaison.Biz.Converter
                     {
                         new ShortForm
                         {
-                            Text=sNumber+" "+ack+ ". Div.",
+                            Text=sNumber+" "+ack+ ". "+Helper.Constants.ShortForm.Division+".",
                             Type=Helper.Enumerators.ShortFormType.ShortName
                         },
                         new ShortForm
@@ -256,7 +278,7 @@ namespace Liaison.Biz.Converter
                         },
                         new ShortForm
                         {
-                            Text=sNumber+" "+ack.First()+"D",
+                            Text=sNumber+" "+ack.First()+Helper.Constants.ShortForm.Division.First().ToString(),
                             Type=Helper.Enumerators.ShortFormType.Other
                         },
                     };            
@@ -264,6 +286,7 @@ namespace Liaison.Biz.Converter
         }
         private static List<ShortForm> GetShortFormCompany(string name, string mission, int? number, List<ShortForm> list)
         {
+
             string additionalShortName = "";
             string additionalIndexName = "";
             string additionalOtherName = "";
@@ -272,6 +295,12 @@ namespace Liaison.Biz.Converter
                 additionalShortName = name + " Coy.";
                 additionalIndexName = "|" + name;
                 additionalOtherName = name;
+            }
+            else if (mission =="Headquarters and Headquarters")
+            {
+                additionalShortName = "HQ & HQ Coy.";
+                additionalIndexName = "|!";
+                additionalOtherName = "HHC";
             }
             else if (mission=="Headquarters and Support")
             {
@@ -309,6 +338,38 @@ namespace Liaison.Biz.Converter
             }
             return returnable;
         }
+        //private static List<ShortForm> GetShortFormHHQCompany(List<ShortForm> list)
+        //{
+        //    List<ShortForm> returnable = new List<ShortForm>();
+        //    foreach(var item in list)
+        //    {
+        //        if (item.Type==ShortFormType.ShortName)
+        //        {
+        //            returnable.Add(new ShortForm
+        //            {
+        //                Type = ShortFormType.ShortName,
+        //                Text = "HQ & HQ Coy., " + item.Text
+        //            });
+        //        }
+        //        else if (item.Type==ShortFormType.IndexName)
+        //        {
+        //            returnable.Add(new ShortForm
+        //            {
+        //                Type = ShortFormType.IndexName,
+        //                Text = item.Text + "|!",
+        //            });
+        //        }
+        //        else if (item.Type==ShortFormType.Other)
+        //        {
+        //            returnable.Add(new ShortForm
+        //            {
+        //                Type = ShortFormType.Other,
+        //                Text = "HHC-_____/" + item.Text,
+        //            });
+        //        }
+        //    }
+        //    return returnable;
+        //}
         private static List<ShortForm> GetShortFormHHQBattalion(List<ShortForm> list)
         {
             List<ShortForm> returnable = new List<ShortForm>();
@@ -341,12 +402,12 @@ namespace Liaison.Biz.Converter
             }
             return returnable;
         }
-        
+
 
         //private static List<ShortForm> GetShortFormDivision(int divnumber, string mission)
         //{
         //    string ack = GetMissionShortForm(mission);
-            
+
 
         //    string sNumber = GetIntWithUnderscores(divnumber);
 
@@ -370,7 +431,14 @@ namespace Liaison.Biz.Converter
         //            };
 
         //}
+        private static string GetShortFormBrigadeFromParent(string parent, int variant)
+        {
+            string[] parentspl = parent.Split('-');
 
+            string returnable = GetIntWithUnderscores(parentspl[0]) + " " + GetShortFormMissionFromUrl(parentspl[1], variant);
+
+            return returnable;
+        }
         private static string GetShortFormDivisionFromParent(string parent, int variant)
         {
             string[] parentspl = parent.Split('-');
@@ -389,7 +457,7 @@ namespace Liaison.Biz.Converter
                             case 1:
                                 return Helper.Constants.ShortForm.Infantry;
                             case 2:
-                                return Helper.Constants.ShortForm.Infantry+". " + Helper.Constants.ShortForm.Brigade + ".";
+                                return Helper.Constants.ShortForm.Infantry + ". " + Helper.Constants.ShortForm.BrigadeCT;
                         }
                         break;
                     }
@@ -430,24 +498,24 @@ namespace Liaison.Biz.Converter
             return "";
         }
 
-        private static string GetShortFormMission(string mission)
-        {
-            switch (mission.ToUpper())
-            {
-                case "INFANTRY":
-                    { return "Inf"; }
-                case "ARMOR":
-                case "ARMOURED":
-                case "ARMORED":
-                    { return "Arm"; }
-                case "CAVALRY":
-                    { return  "Cav";  }
-                case "MARINE":
-                    { return "Mar"; }
-                default:
-                    { return ""; }
-            }
-        }
+        //private static string GetShortFormMission(string mission)
+        //{
+        //    switch (mission.ToUpper())
+        //    {
+        //        case "INFANTRY":
+        //            { return "Inf"; }
+        //        case "ARMOR":
+        //        case "ARMOURED":
+        //        case "ARMORED":
+        //            { return "Arm"; }
+        //        case "CAVALRY":
+        //            { return  "Cav";  }
+        //        case "MARINE":
+        //            { return "Mar"; }
+        //        default:
+        //            { return ""; }
+        //    }
+        //}
         private static string GetIntWithUnderscores(string nmber)
         {
           return  GetIntWithUnderscores(int.Parse(nmber));

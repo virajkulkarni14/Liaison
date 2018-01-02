@@ -353,10 +353,10 @@ namespace Liaison.Biz.Tests
             Assert.IsInstanceOfType(hschhqbn, typeof(CompanyOrg));
             Assert.AreEqual(null, hschhqbn.Number);
             Assert.IsFalse(hschhqbn.UseOrdinal);
-            Assert.AreEqual("Headquarters and Support", hschhqbn.Mission);
-            Assert.AreEqual("Headquarters and Support Coy., HHQ BN., ___38 INF. DIV.", hschhqbn.GetFullName());
-            Assert.AreEqual("us/army/38-id/hhbn/hsc", hschhqbn.CurrentOpsRef);
-            Assert.AreEqual("https://currentops.com/unit/us/army/38-id/hhbn/hsc", hschhqbn.CurrentOpsUrl);
+            Assert.AreEqual("Headquarters and Headquarters", hschhqbn.Mission);
+            Assert.AreEqual("Headquarters and Headquarters Coy., ___76 INF. BCT", hschhqbn.GetFullName());
+            Assert.AreEqual("us/army/76-ibct/hhc", hschhqbn.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/76-ibct/hhc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
             Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
@@ -364,10 +364,10 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
 
-            Assert.AreEqual("us/in/division-armory", hschhqbn.Bases[0].CurrentOpsBaseRef);
-            Assert.AreEqual("Division Armory", hschhqbn.Bases[0].Name);
-            Assert.AreEqual("Indianapolis, Indiana, United States", hschhqbn.Bases[0].Location);
-            Assert.AreEqual("https://currentops.com/installations/us/in/division-armory", hschhqbn.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual("us/in/lawrence-armory", hschhqbn.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Lawrence Armory", hschhqbn.Bases[0].Name);
+            Assert.AreEqual("Lawrence, Indiana, United States", hschhqbn.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/in/lawrence-armory", hschhqbn.Bases[0].CurrentOpsUrl);
             Assert.AreEqual(null, hschhqbn.Bases[0].DateFrom);
             Assert.AreEqual(null, hschhqbn.Bases[0].DateUntil);
             Assert.AreEqual(false, hschhqbn.Bases[0].IsDeployment);
@@ -375,7 +375,7 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(1, hschhqbn.HigherHqs.Count);
 
-            Assert.AreEqual("us/army/38-id/hhbn", hschhqbn.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual("us/army/76-ibct", hschhqbn.HigherHqs[0].CurrentOpsRef);
             Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateFrom);
             Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateUntil);
             Assert.AreEqual(true, hschhqbn.HigherHqs[0].IsCurrent);
@@ -383,13 +383,13 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(3, hschhqbn.ShortForm.Count);
 
-            Assert.AreEqual("HQ & Supt. Coy., HHQ Bn., ___38 Inf. Div.", hschhqbn.ShortForm[0].Text);
+            Assert.AreEqual("HQ & HQ Coy., ___76 Inf. BCT", hschhqbn.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)___38@!|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual("INF*___76|!", hschhqbn.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
 
-            Assert.AreEqual("HSC-HHB/___38 ID", hschhqbn.ShortForm[2].Text);
+            Assert.AreEqual("HHC-_____/___76 IBCT", hschhqbn.ShortForm[2].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, hschhqbn.ShortForm[2].Type);
             #endregion
         }
@@ -525,7 +525,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(76, bct_76.Number);
             Assert.IsTrue(bct_76.UseOrdinal);
             Assert.AreEqual("Infantry", bct_76.Mission);
-            Assert.AreEqual("76th Infantry Brigade Battlegroup", bct_76.GetFullName());
+            Assert.AreEqual("76th Infantry Brigade Combat Team", bct_76.GetFullName());
             Assert.AreEqual("us/army/76-ibct", bct_76.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/76-ibct", bct_76.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUJDVCAwMDc2.png", bct_76.CurrentOpsLogo);
