@@ -17,6 +17,7 @@ namespace Liaison.Helper.Enumerators
     }
     public enum UnitType
     {
+        FieldArmy=7,
         Division = 9,
         Brigade = 10,
         Battalion = 12,
@@ -34,6 +35,7 @@ namespace Liaison.Helper.Enumerators
     public enum ServiceType
     {
         Active = 1,
+        AC_RC,
         Reserve,//B. Army Reserve, US Army Reserve
         Volunteer, // TA, ANG
         StateVolunteer, // Local Defence
