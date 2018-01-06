@@ -7,9 +7,16 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.Biz.MilOrgs
 {
+    public class ChildOrg
+    {
+        public string CurrentOpsRef { get; set; }
+        public string Name { get; set; }
+        public bool IsIndirect { get; internal set; }
+    }
     public class HigherHqOrg
     {
         public string CurrentOpsRef { get; set; }
+        public string Name { get; set; }
         public int? DateFrom { get; internal set; }
         public int? DateUntil { get; internal set; }
         public bool IsCurrent { get; internal set; }

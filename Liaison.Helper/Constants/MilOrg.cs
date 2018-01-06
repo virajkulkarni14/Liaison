@@ -22,7 +22,7 @@ namespace Liaison.Helper.Constants
         public const string Company = "Company";
         public const string Battalion = "Battalion";
 
-        
+        public static string BattalionHHB = "Headquarters and Headquarters Battalion";
     }
     public class ShortForm
     {

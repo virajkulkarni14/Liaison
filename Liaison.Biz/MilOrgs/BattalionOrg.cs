@@ -38,5 +38,7 @@ namespace Liaison.Biz.MilOrgs
         public ServiceType ServiceTypeIdx { get; set; }
        public List<ShortForm> ShortForm { get; set; }
         public string Name { get; set; }
+
+        public List<ChildOrg> ChildOrgs => throw new NotImplementedException();
     }
 }

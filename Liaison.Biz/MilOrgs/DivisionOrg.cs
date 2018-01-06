@@ -11,6 +11,10 @@ namespace Liaison.Biz.MilOrgs
     {
         public string GetFullName()
         {
+            if (!string.IsNullOrWhiteSpace(Name))
+            {
+                return Name;
+            }
             StringBuilder sb = new StringBuilder();
             if (Number.HasValue)
             {
@@ -41,5 +45,7 @@ namespace Liaison.Biz.MilOrgs
         public ServiceType ServiceTypeIdx { get; set; }
         public List<ShortForm> ShortForm { get; set; }
         public string Name { get; set; }
+
+        public List<ChildOrg> ChildOrgs => throw new NotImplementedException();
     }
 }

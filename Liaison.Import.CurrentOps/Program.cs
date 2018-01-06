@@ -180,7 +180,7 @@ namespace Liaison.Import.CurrentOps
                     var url = anchor.Attributes.Where(n => n.Name == "href").FirstOrDefault().Value;
                     var title = anchor.Attributes.Where(n => n.Name == "title").FirstOrDefault().Value;
                     subunit.IsIndirect = false;
-                    subunit.Id = url.Substring(hhqurl.Length);
+                    subunit.Id = url.Substring(Helper.CurrentOpsHelper.ctops.Length);
                     subunit.Url = url;
                     subunit.FullName = title;
                     subunit.Name = name;
@@ -189,7 +189,7 @@ namespace Liaison.Import.CurrentOps
             }
             return returnable;
         }
-        const string hhqurl = "https://currentops.com/unit/";
+       
         private static List<HigherHqObject> GetHigherHQ(IEnumerable<HtmlNode> enumerable)
         {
 
@@ -198,7 +198,7 @@ namespace Liaison.Import.CurrentOps
             {
                 var hhq = new HigherHqObject();
                 hhq.Url = node.Attributes[0].Value == "list-group-item" ? "" : node.Attributes[0].Value;
-                hhq.Id = hhq.Url == null ? null : node.Attributes[0].Value.Substring(hhqurl.Length);
+                hhq.Id = hhq.Url == null ? null : node.Attributes[0].Value.Substring(Helper.CurrentOpsHelper.ctops.Length);
                 hhq.DateRange = node.Descendants().Where(n => n.GetAttributeValue("class", "") == "badge").FirstOrDefault().InnerText.Trim();
                 hhq.IsCurrent = hhq.DateRange.EndsWith("Present");
                 hhq.HHQAcronym = node.Descendants().Where(n => n.Name == "strong").FirstOrDefault()?.InnerText.Trim();
@@ -269,21 +269,21 @@ namespace Liaison.Import.CurrentOps
             string processable = nameText;
             string[] returnable = new string[2];
 
-            if (nameText.Contains("U.S. Army"))
+            if (nameText.Contains(Liaison.Helper.CurrentOpsHelper.USArmy))
             {
-                returnable[1] = "U.S. Army";
+                returnable[1] = Liaison.Helper.CurrentOpsHelper.USArmy;
             }
-            else if (nameText.Contains("USAF"))
+            else if (nameText.Contains(Liaison.Helper.CurrentOpsHelper.USAF))
             {
-                returnable[1] = "USAF";
+                returnable[1] = Liaison.Helper.CurrentOpsHelper.USAF;
             }
-            else if (nameText.Contains("USN"))
+            else if (nameText.Contains(Liaison.Helper.CurrentOpsHelper.USN))
             {
-                returnable[1] = "USN";
+                returnable[1] = Liaison.Helper.CurrentOpsHelper.USN;
             }
-            else if (nameText.Contains("USMC"))
+            else if (nameText.Contains(Liaison.Helper.CurrentOpsHelper.USMC))
             {
-                returnable[1] = "USMC";
+                returnable[1] = Liaison.Helper.CurrentOpsHelper.USMC;
             }
             else if (nameText.Contains("U.S."))
             {

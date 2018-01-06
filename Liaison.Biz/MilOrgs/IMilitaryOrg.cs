@@ -24,8 +24,8 @@ namespace Liaison.Biz
         Services ServiceId { get; }
         List<BaseOrg> Bases { get; }
         List<HigherHqOrg> HigherHqs { get; }
-        List<ShortForm> ShortForm { get; }
-        
+        List<ChildOrg> ChildOrgs { get; }
+        List<ShortForm> ShortForm { get; }        
     }
 
 }
