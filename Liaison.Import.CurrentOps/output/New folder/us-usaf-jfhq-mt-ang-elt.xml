@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-mt/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Montana
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Montana, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Montana</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-mt</Url>
+        <Id>us/ng/jfhq-mt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Montana</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Montana</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <FullName>120th Airlift Wing</FullName>
+        <Name>120th Airlift Wing</Name>
+        <Id>us/usaf/120-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+    <NameNode>120th Airlift Wing
+                            USAF</NameNode>
+    <FullName>120th Airlift Wing, USAF</FullName>
+    <SplitName>120th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/1-af</Url>
+        <Id>us/usaf/1-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>1st Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-mt/ang-elt</Url>
+        <Id>us/usaf/jfhq-mt/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Montana</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Montana</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/120-og</Url>
+        <FullName>120th Operations Group</FullName>
+        <Name>120th Operations Group</Name>
+        <Id>us/usaf/120-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/120-msg</Url>
+        <FullName>120th Mission Support Group</FullName>
+        <Name>120th Mission Support Group</Name>
+        <Id>us/usaf/120-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/120-mxg</Url>
+        <FullName>120th Maintenance Group</FullName>
+        <Name>120th Maintenance Group</Name>
+        <Id>us/usaf/120-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/120-mdg</Url>
+        <FullName>120th Medical Group</FullName>
+        <Name>120th Medical Group</Name>
+        <Id>us/usaf/120-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/120-cptf</Url>
+        <FullName>120th Comptroller Flight</FullName>
+        <Name>120th Comptroller Flight</Name>
+        <Id>us/usaf/120-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/219-rhs</Url>
+        <FullName>219th Rapid Engineer Deployable Heavy Operational Repair Squadron</FullName>
+        <Name>219th Rapid Engineer Deployable Heavy Operational Repair Squadron</Name>
+        <Id>us/usaf/219-rhs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/120-og</Url>
+    <NameNode>120th Operations Group
+                            USAF</NameNode>
+    <FullName>120th Operations Group, USAF</FullName>
+    <SplitName>120th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <Id>us/usaf/120-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>120th Airlift Wing</HHQAcronym>
+        <Name>120th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/186-as</Url>
+        <FullName>186th Airlift Squadron</FullName>
+        <Name>186th Airlift Squadron</Name>
+        <Id>us/usaf/186-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/186-as</Url>
+    <NameNode>186th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>186th Airlift Squadron, USAF</FullName>
+    <SplitName>186th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-og</Url>
+        <Id>us/usaf/120-og</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>120th Operations Group</HHQAcronym>
+        <Name>120th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/120-msg</Url>
+    <NameNode>120th Mission Support Group
+                            USAF</NameNode>
+    <FullName>120th Mission Support Group, USAF</FullName>
+    <SplitName>120th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <Id>us/usaf/120-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>120th Airlift Wing</HHQAcronym>
+        <Name>120th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/120-mxg</Url>
+    <NameNode>120th Maintenance Group
+                            USAF</NameNode>
+    <FullName>120th Maintenance Group, USAF</FullName>
+    <SplitName>120th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <Id>us/usaf/120-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>120th Airlift Wing</HHQAcronym>
+        <Name>120th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/120-mdg</Url>
+    <NameNode>120th Medical Group
+                            USAF</NameNode>
+    <FullName>120th Medical Group, USAF</FullName>
+    <SplitName>120th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <Id>us/usaf/120-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>120th Airlift Wing</HHQAcronym>
+        <Name>120th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/120-cptf</Url>
+    <NameNode>120th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>120th Comptroller Flight, USAF</FullName>
+    <SplitName>120th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Great Falls Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/great-falls-angb</Url>
+        <Id>us/mt/great-falls-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <Id>us/usaf/120-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>120th Airlift Wing</HHQAcronym>
+        <Name>120th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/219-rhs</Url>
+    <NameNode>219th RHS
+                            USAF</NameNode>
+    <FullName>219th RHS, USAF</FullName>
+    <SplitName>219th RHS</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Malmstrom Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Great Falls, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/malmstrom-afb</Url>
+        <Id>us/mt/malmstrom-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/120-aw</Url>
+        <Id>us/usaf/120-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>120th Airlift Wing</HHQAcronym>
+        <Name>120th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

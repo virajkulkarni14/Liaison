@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-pr/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Puerto Rico
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Puerto Rico, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Puerto Rico</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-pr</Url>
+        <Id>us/ng/jfhq-pr</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Puerto Rico</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+        <FullName>156th Airlift Wing</FullName>
+        <Name>156th Airlift Wing</Name>
+        <Id>us/usaf/156-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+    <NameNode>156th Airlift Wing
+                            USAF</NameNode>
+    <FullName>156th Airlift Wing, USAF</FullName>
+    <SplitName>156th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/12-af</Url>
+        <Id>us/usaf/12-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>12th Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>12th Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-pr/ang-elt</Url>
+        <Id>us/usaf/jfhq-pr/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Puerto Rico</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Puerto Rico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-og</Url>
+        <FullName>156th Operations Group</FullName>
+        <Name>156th Operations Group</Name>
+        <Id>us/usaf/156-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <FullName>156th Mission Support Group</FullName>
+        <Name>156th Mission Support Group</Name>
+        <Id>us/usaf/156-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mxg</Url>
+        <FullName>156th Maintenance Group</FullName>
+        <Name>156th Maintenance Group</Name>
+        <Id>us/usaf/156-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mdg</Url>
+        <FullName>156th Medical Group</FullName>
+        <Name>156th Medical Group</Name>
+        <Id>us/usaf/156-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-cptf</Url>
+        <FullName>156th Comptroller Flight</FullName>
+        <Name>156th Comptroller Flight</Name>
+        <Id>us/usaf/156-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-og</Url>
+    <NameNode>156th Operations Group
+                            USAF</NameNode>
+    <FullName>156th Operations Group, USAF</FullName>
+    <SplitName>156th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+        <Id>us/usaf/156-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Airlift Wing</HHQAcronym>
+        <Name>156th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/198-as</Url>
+        <FullName>198th Airlift Squadron</FullName>
+        <Name>198th Airlift Squadron</Name>
+        <Id>us/usaf/198-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/140-ads</Url>
+        <FullName>140th Air Defense Squadron</FullName>
+        <Name>140th Air Defense Squadron</Name>
+        <Id>us/usaf/140-ads</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/141-acs</Url>
+        <FullName>141st Air Control Squadron</FullName>
+        <Name>141st Air Control Squadron</Name>
+        <Id>us/usaf/141-acs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-osf</Url>
+        <FullName>156th Operations Support Flight</FullName>
+        <Name>156th Operations Support Flight</Name>
+        <Id>us/usaf/156-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/198-as</Url>
+    <NameNode>198th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>198th Airlift Squadron, USAF</FullName>
+    <SplitName>198th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-og</Url>
+        <Id>us/usaf/156-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Operations Group</HHQAcronym>
+        <Name>156th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/140-ads</Url>
+    <NameNode>140th Air Defense Squadron
+                            USAF</NameNode>
+    <FullName>140th Air Defense Squadron, USAF</FullName>
+    <SplitName>140th Air Defense Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Punta Salinas Radar Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/punta-salinas-radar-station</Url>
+        <Id>us/pr/punta-salinas-radar-station</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-og</Url>
+        <Id>us/usaf/156-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Operations Group</HHQAcronym>
+        <Name>156th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/141-acs</Url>
+    <NameNode>141st Air Control Squadron
+                            USAF</NameNode>
+    <FullName>141st Air Control Squadron, USAF</FullName>
+    <SplitName>141st Air Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Punta Borinquen Radar Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/punta-borinquen-radar-station</Url>
+        <Id>us/pr/punta-borinquen-radar-station</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-og</Url>
+        <Id>us/usaf/156-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Operations Group</HHQAcronym>
+        <Name>156th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-osf</Url>
+    <NameNode>156th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>156th Operations Support Flight, USAF</FullName>
+    <SplitName>156th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-og</Url>
+        <Id>us/usaf/156-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Operations Group</HHQAcronym>
+        <Name>156th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+    <NameNode>156th Mission Support Group
+                            USAF</NameNode>
+    <FullName>156th Mission Support Group, USAF</FullName>
+    <SplitName>156th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+        <Id>us/usaf/156-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Airlift Wing</HHQAcronym>
+        <Name>156th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-ces</Url>
+        <FullName>156th Civil Engineer Squadron</FullName>
+        <Name>156th Civil Engineer Squadron</Name>
+        <Id>us/usaf/156-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-fss</Url>
+        <FullName>156th Force Support Squadron</FullName>
+        <Name>156th Force Support Squadron</Name>
+        <Id>us/usaf/156-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-lrs</Url>
+        <FullName>156th Logistics Readiness Squadron</FullName>
+        <Name>156th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/156-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-sfs</Url>
+        <FullName>156th Security Forces Squadron</FullName>
+        <Name>156th Security Forces Squadron</Name>
+        <Id>us/usaf/156-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-cf</Url>
+        <FullName>156th Communications Flight</FullName>
+        <Name>156th Communications Flight</Name>
+        <Id>us/usaf/156-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-svf</Url>
+        <FullName>156th Services Flight</FullName>
+        <Name>156th Services Flight</Name>
+        <Id>us/usaf/156-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-ces</Url>
+    <NameNode>156th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>156th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>156th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <Id>us/usaf/156-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MSG</HHQAcronym>
+        <Name>156th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-fss</Url>
+    <NameNode>156th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>156th Force Support Squadron, USAF</FullName>
+    <SplitName>156th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <Id>us/usaf/156-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MSG</HHQAcronym>
+        <Name>156th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-lrs</Url>
+    <NameNode>156th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>156th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>156th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <Id>us/usaf/156-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MSG</HHQAcronym>
+        <Name>156th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-sfs</Url>
+    <NameNode>156th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>156th Security Forces Squadron, USAF</FullName>
+    <SplitName>156th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <Id>us/usaf/156-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MSG</HHQAcronym>
+        <Name>156th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-cf</Url>
+    <NameNode>156th Communications Flight
+                            USAF</NameNode>
+    <FullName>156th Communications Flight, USAF</FullName>
+    <SplitName>156th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <Id>us/usaf/156-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MSG</HHQAcronym>
+        <Name>156th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-svf</Url>
+    <NameNode>156th Services Flight
+                            USAF</NameNode>
+    <FullName>156th Services Flight, USAF</FullName>
+    <SplitName>156th Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-msg</Url>
+        <Id>us/usaf/156-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MSG</HHQAcronym>
+        <Name>156th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-mxg</Url>
+    <NameNode>156th Maintenance Group
+                            USAF</NameNode>
+    <FullName>156th Maintenance Group, USAF</FullName>
+    <SplitName>156th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+        <Id>us/usaf/156-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Airlift Wing</HHQAcronym>
+        <Name>156th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-amxs</Url>
+        <FullName>156th Aircraft Maintenance Squadron</FullName>
+        <Name>156th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/156-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mxs</Url>
+        <FullName>156th Maintenance Squadron</FullName>
+        <Name>156th Maintenance Squadron</Name>
+        <Id>us/usaf/156-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mof</Url>
+        <FullName>156th Maintenance Operations Flight</FullName>
+        <Name>156th Maintenance Operations Flight</Name>
+        <Id>us/usaf/156-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-amxs</Url>
+    <NameNode>156th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>156th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>156th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mxg</Url>
+        <Id>us/usaf/156-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MXG</HHQAcronym>
+        <Name>156th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-mxs</Url>
+    <NameNode>156th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>156th Maintenance Squadron, USAF</FullName>
+    <SplitName>156th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mxg</Url>
+        <Id>us/usaf/156-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MXG</HHQAcronym>
+        <Name>156th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-mof</Url>
+    <NameNode>156th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>156th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>156th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-mxg</Url>
+        <Id>us/usaf/156-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th MXG</HHQAcronym>
+        <Name>156th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-mdg</Url>
+    <NameNode>156th Medical Group
+                            USAF</NameNode>
+    <FullName>156th Medical Group, USAF</FullName>
+    <SplitName>156th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+        <Id>us/usaf/156-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Airlift Wing</HHQAcronym>
+        <Name>156th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/156-cptf</Url>
+    <NameNode>156th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>156th Comptroller Flight, USAF</FullName>
+    <SplitName>156th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mu&amp;ntilde;iz Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carolina, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/muniz-angb</Url>
+        <Id>us/pr/muniz-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/156-aw</Url>
+        <Id>us/usaf/156-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>156th Airlift Wing</HHQAcronym>
+        <Name>156th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

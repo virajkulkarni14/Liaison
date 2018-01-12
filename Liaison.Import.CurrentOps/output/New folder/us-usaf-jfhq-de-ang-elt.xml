@@ -1,0 +1,714 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-de/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Delaware
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Delaware, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Delaware</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-de</Url>
+        <Id>us/ng/jfhq-de</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Delaware</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Delaware</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <FullName>166th Airlift Wing</FullName>
+        <Name>166th Airlift Wing</Name>
+        <Id>us/usaf/166-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+    <NameNode>166th Airlift Wing
+                            USAF</NameNode>
+    <FullName>166th Airlift Wing, USAF</FullName>
+    <SplitName>166th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-de/ang-elt</Url>
+        <Id>us/usaf/jfhq-de/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Delaware</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Delaware</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-og</Url>
+        <FullName>166th Operations Group</FullName>
+        <Name>166th Operations Group</Name>
+        <Id>us/usaf/166-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+        <FullName>166th Mission Support Group</FullName>
+        <Name>166th Mission Support Group</Name>
+        <Id>us/usaf/166-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mxg</Url>
+        <FullName>166th Maintenance Group</FullName>
+        <Name>166th Maintenance Group</Name>
+        <Id>us/usaf/166-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mdg</Url>
+        <FullName>166th Medical Group</FullName>
+        <Name>166th Medical Group</Name>
+        <Id>us/usaf/166-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-cptf</Url>
+        <FullName>166th Comptroller Flight</FullName>
+        <Name>166th Comptroller Flight</Name>
+        <Id>us/usaf/166-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-nws</Url>
+        <FullName>166th Network Warfare Squadron</FullName>
+        <Name>166th Network Warfare Squadron</Name>
+        <Id>us/usaf/166-nws</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-og</Url>
+    <NameNode>166th Operations Group
+                            USAF</NameNode>
+    <FullName>166th Operations Group, USAF</FullName>
+    <SplitName>166th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <Id>us/usaf/166-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Airlift Wing</HHQAcronym>
+        <Name>166th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-as</Url>
+        <FullName>142nd Airlift Squadron</FullName>
+        <Name>142nd Airlift Squadron</Name>
+        <Id>us/usaf/142-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-aes</Url>
+        <FullName>142nd Aeromedical Evacuation Squadron</FullName>
+        <Name>142nd Aeromedical Evacuation Squadron</Name>
+        <Id>us/usaf/142-aes</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-osf</Url>
+        <FullName>166th Operations Support Flight</FullName>
+        <Name>166th Operations Support Flight</Name>
+        <Id>us/usaf/166-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-as</Url>
+    <NameNode>142nd Airlift Squadron
+                            USAF</NameNode>
+    <FullName>142nd Airlift Squadron, USAF</FullName>
+    <SplitName>142nd Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-og</Url>
+        <Id>us/usaf/166-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Operations Group</HHQAcronym>
+        <Name>166th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-aes</Url>
+    <NameNode>142nd Aeromedical Evacuation Squadron
+                            USAF</NameNode>
+    <FullName>142nd Aeromedical Evacuation Squadron, USAF</FullName>
+    <SplitName>142nd Aeromedical Evacuation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-og</Url>
+        <Id>us/usaf/166-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Operations Group</HHQAcronym>
+        <Name>166th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-osf</Url>
+    <NameNode>166th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>166th Operations Support Flight, USAF</FullName>
+    <SplitName>166th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-og</Url>
+        <Id>us/usaf/166-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Operations Group</HHQAcronym>
+        <Name>166th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+    <NameNode>166th Mission Support Group
+                            USAF</NameNode>
+    <FullName>166th Mission Support Group, USAF</FullName>
+    <SplitName>166th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <Id>us/usaf/166-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Airlift Wing</HHQAcronym>
+        <Name>166th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-ces</Url>
+        <FullName>166th Civil Engineer Squadron</FullName>
+        <Name>166th Civil Engineer Squadron</Name>
+        <Id>us/usaf/166-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-fss</Url>
+        <FullName>166th Force Support Squadron</FullName>
+        <Name>166th Force Support Squadron</Name>
+        <Id>us/usaf/166-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-lrs</Url>
+        <FullName>166th Logistics Readiness Squadron</FullName>
+        <Name>166th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/166-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-sfs</Url>
+        <FullName>166th Security Forces Squadron</FullName>
+        <Name>166th Security Forces Squadron</Name>
+        <Id>us/usaf/166-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-cf</Url>
+        <FullName>166th Communications Flight</FullName>
+        <Name>166th Communications Flight</Name>
+        <Id>us/usaf/166-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-ces</Url>
+    <NameNode>166th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>166th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>166th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+        <Id>us/usaf/166-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MSG</HHQAcronym>
+        <Name>166th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-fss</Url>
+    <NameNode>166th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>166th Force Support Squadron, USAF</FullName>
+    <SplitName>166th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+        <Id>us/usaf/166-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MSG</HHQAcronym>
+        <Name>166th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-lrs</Url>
+    <NameNode>166th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>166th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>166th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+        <Id>us/usaf/166-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MSG</HHQAcronym>
+        <Name>166th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-sfs</Url>
+    <NameNode>166th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>166th Security Forces Squadron, USAF</FullName>
+    <SplitName>166th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+        <Id>us/usaf/166-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MSG</HHQAcronym>
+        <Name>166th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-cf</Url>
+    <NameNode>166th Communications Flight
+                            USAF</NameNode>
+    <FullName>166th Communications Flight, USAF</FullName>
+    <SplitName>166th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-msg</Url>
+        <Id>us/usaf/166-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MSG</HHQAcronym>
+        <Name>166th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-mxg</Url>
+    <NameNode>166th Maintenance Group
+                            USAF</NameNode>
+    <FullName>166th Maintenance Group, USAF</FullName>
+    <SplitName>166th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <Id>us/usaf/166-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Airlift Wing</HHQAcronym>
+        <Name>166th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-amxs</Url>
+        <FullName>166th Aircraft Maintenance Squadron</FullName>
+        <Name>166th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/166-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mxs</Url>
+        <FullName>166th Maintenance Squadron</FullName>
+        <Name>166th Maintenance Squadron</Name>
+        <Id>us/usaf/166-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mof</Url>
+        <FullName>166th Maintenance Operations Flight</FullName>
+        <Name>166th Maintenance Operations Flight</Name>
+        <Id>us/usaf/166-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-amxs</Url>
+    <NameNode>166th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>166th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>166th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mxg</Url>
+        <Id>us/usaf/166-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MXG</HHQAcronym>
+        <Name>166th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-mxs</Url>
+    <NameNode>166th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>166th Maintenance Squadron, USAF</FullName>
+    <SplitName>166th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mxg</Url>
+        <Id>us/usaf/166-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MXG</HHQAcronym>
+        <Name>166th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-mof</Url>
+    <NameNode>166th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>166th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>166th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-mxg</Url>
+        <Id>us/usaf/166-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th MXG</HHQAcronym>
+        <Name>166th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-mdg</Url>
+    <NameNode>166th Medical Group
+                            USAF</NameNode>
+    <FullName>166th Medical Group, USAF</FullName>
+    <SplitName>166th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <Id>us/usaf/166-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Airlift Wing</HHQAcronym>
+        <Name>166th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-cptf</Url>
+    <NameNode>166th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>166th Comptroller Flight, USAF</FullName>
+    <SplitName>166th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <Id>us/usaf/166-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Airlift Wing</HHQAcronym>
+        <Name>166th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-nws</Url>
+    <NameNode>166th Network Warfare Squadron
+                            USAF</NameNode>
+    <FullName>166th Network Warfare Squadron, USAF</FullName>
+    <SplitName>166th Network Warfare Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Castle Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Castle, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/new-castle-angb</Url>
+        <Id>us/de/new-castle-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/166-aw</Url>
+        <Id>us/usaf/166-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>166th Airlift Wing</HHQAcronym>
+        <Name>166th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

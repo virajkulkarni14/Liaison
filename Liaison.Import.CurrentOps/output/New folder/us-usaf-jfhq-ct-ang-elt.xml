@@ -1,0 +1,714 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ct/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Connecticut
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Connecticut, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Connecticut</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ct</Url>
+        <Id>us/ng/jfhq-ct</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Connecticut</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Connecticut</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <FullName>103rd Airlift Wing</FullName>
+        <Name>103rd Airlift Wing</Name>
+        <Id>us/usaf/103-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+    <NameNode>103rd Airlift Wing
+                            USAF</NameNode>
+    <FullName>103rd Airlift Wing, USAF</FullName>
+    <SplitName>103rd Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ct/ang-elt</Url>
+        <Id>us/usaf/jfhq-ct/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Connecticut</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Connecticut</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-og</Url>
+        <FullName>103rd Operations Group</FullName>
+        <Name>103rd Operations Group</Name>
+        <Id>us/usaf/103-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+        <FullName>103rd Mission Support Group</FullName>
+        <Name>103rd Mission Support Group</Name>
+        <Id>us/usaf/103-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mxg</Url>
+        <FullName>103rd Maintenance Group</FullName>
+        <Name>103rd Maintenance Group</Name>
+        <Id>us/usaf/103-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mdg</Url>
+        <FullName>103rd Medical Group</FullName>
+        <Name>103rd Medical Group</Name>
+        <Id>us/usaf/103-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-cptf</Url>
+        <FullName>103rd Comptroller Flight</FullName>
+        <Name>103rd Comptroller Flight</Name>
+        <Id>us/usaf/103-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aog</Url>
+        <FullName>103rd Air Operations Group</FullName>
+        <Name>103rd Air Operations Group</Name>
+        <Id>us/usaf/103-aog</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-acs</Url>
+        <FullName>103rd Air Control Squadron</FullName>
+        <Name>103rd Air Control Squadron</Name>
+        <Id>us/usaf/103-acs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-og</Url>
+    <NameNode>103rd Operations Group
+                            USAF</NameNode>
+    <FullName>103rd Operations Group, USAF</FullName>
+    <SplitName>103rd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/118-as</Url>
+        <FullName>118th Airlift Squadron</FullName>
+        <Name>118th Airlift Squadron</Name>
+        <Id>us/usaf/118-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-osf</Url>
+        <FullName>103rd Operations Support Flight</FullName>
+        <Name>103rd Operations Support Flight</Name>
+        <Id>us/usaf/103-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/118-as</Url>
+    <NameNode>118th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>118th Airlift Squadron, USAF</FullName>
+    <SplitName>118th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-og</Url>
+        <Id>us/usaf/103-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Operations Group</HHQAcronym>
+        <Name>103rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-osf</Url>
+    <NameNode>103rd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>103rd Operations Support Flight, USAF</FullName>
+    <SplitName>103rd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-og</Url>
+        <Id>us/usaf/103-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Operations Group</HHQAcronym>
+        <Name>103rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+    <NameNode>103rd Mission Support Group
+                            USAF</NameNode>
+    <FullName>103rd Mission Support Group, USAF</FullName>
+    <SplitName>103rd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-ces</Url>
+        <FullName>103rd Civil Engineer Squadron</FullName>
+        <Name>103rd Civil Engineer Squadron</Name>
+        <Id>us/usaf/103-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-fss</Url>
+        <FullName>103rd Force Support Squadron</FullName>
+        <Name>103rd Force Support Squadron</Name>
+        <Id>us/usaf/103-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-lrs</Url>
+        <FullName>103rd Logistics Readiness Squadron</FullName>
+        <Name>103rd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/103-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-sfs</Url>
+        <FullName>103rd Security Forces Squadron</FullName>
+        <Name>103rd Security Forces Squadron</Name>
+        <Id>us/usaf/103-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-cf</Url>
+        <FullName>103rd Communications Flight</FullName>
+        <Name>103rd Communications Flight</Name>
+        <Id>us/usaf/103-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-ces</Url>
+    <NameNode>103rd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>103rd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>103rd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+        <Id>us/usaf/103-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MSG</HHQAcronym>
+        <Name>103rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-fss</Url>
+    <NameNode>103rd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>103rd Force Support Squadron, USAF</FullName>
+    <SplitName>103rd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+        <Id>us/usaf/103-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MSG</HHQAcronym>
+        <Name>103rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-lrs</Url>
+    <NameNode>103rd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>103rd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>103rd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+        <Id>us/usaf/103-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MSG</HHQAcronym>
+        <Name>103rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-sfs</Url>
+    <NameNode>103rd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>103rd Security Forces Squadron, USAF</FullName>
+    <SplitName>103rd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+        <Id>us/usaf/103-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MSG</HHQAcronym>
+        <Name>103rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-cf</Url>
+    <NameNode>103rd Communications Flight
+                            USAF</NameNode>
+    <FullName>103rd Communications Flight, USAF</FullName>
+    <SplitName>103rd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-msg</Url>
+        <Id>us/usaf/103-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MSG</HHQAcronym>
+        <Name>103rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-mxg</Url>
+    <NameNode>103rd Maintenance Group
+                            USAF</NameNode>
+    <FullName>103rd Maintenance Group, USAF</FullName>
+    <SplitName>103rd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-amxs</Url>
+        <FullName>103rd Aircraft Maintenance Squadron</FullName>
+        <Name>103rd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/103-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mxs</Url>
+        <FullName>103rd Maintenance Squadron</FullName>
+        <Name>103rd Maintenance Squadron</Name>
+        <Id>us/usaf/103-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mof</Url>
+        <FullName>103rd Maintenance Operations Flight</FullName>
+        <Name>103rd Maintenance Operations Flight</Name>
+        <Id>us/usaf/103-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-amxs</Url>
+    <NameNode>103rd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>103rd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>103rd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mxg</Url>
+        <Id>us/usaf/103-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MXG</HHQAcronym>
+        <Name>103rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-mxs</Url>
+    <NameNode>103rd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>103rd Maintenance Squadron, USAF</FullName>
+    <SplitName>103rd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mxg</Url>
+        <Id>us/usaf/103-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MXG</HHQAcronym>
+        <Name>103rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-mof</Url>
+    <NameNode>103rd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>103rd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>103rd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-mxg</Url>
+        <Id>us/usaf/103-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd MXG</HHQAcronym>
+        <Name>103rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-mdg</Url>
+    <NameNode>103rd Medical Group
+                            USAF</NameNode>
+    <FullName>103rd Medical Group, USAF</FullName>
+    <SplitName>103rd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-cptf</Url>
+    <NameNode>103rd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>103rd Comptroller Flight, USAF</FullName>
+    <SplitName>103rd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-aog</Url>
+    <NameNode>103rd Air Operations Group
+                            USAF</NameNode>
+    <FullName>103rd Air Operations Group, USAF</FullName>
+    <SplitName>103rd Air Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bradley Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Granby, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bradley-angb</Url>
+        <Id>us/ct/bradley-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-acs</Url>
+    <NameNode>103rd Air Control Squadron
+                            USAF</NameNode>
+    <FullName>103rd Air Control Squadron, USAF</FullName>
+    <SplitName>103rd Air Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Orange Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Orange, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/orange-angs</Url>
+        <Id>us/ct/orange-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/103-aw</Url>
+        <Id>us/usaf/103-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>103rd Airlift Wing</HHQAcronym>
+        <Name>103rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -1,0 +1,1488 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-il/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Illinois
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Illinois, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Illinois</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-il</Url>
+        <Id>us/ng/jfhq-il</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Illinois</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Illinois</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+        <FullName>126th Air Refueling Wing</FullName>
+        <Name>126th Air Refueling Wing</Name>
+        <Id>us/usaf/126-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <FullName>182nd Airlift Wing</FullName>
+        <Name>182nd Airlift Wing</Name>
+        <Id>us/usaf/182-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/183-aog</Url>
+        <FullName>183rd Air Operations Group</FullName>
+        <Name>183rd Air Operations Group</Name>
+        <Id>us/usaf/183-aog</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+    <NameNode>126th Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>126th Air Refueling Wing, USAF</FullName>
+    <SplitName>126th Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-il/ang-elt</Url>
+        <Id>us/usaf/jfhq-il/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Illinois</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Illinois</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-og</Url>
+        <FullName>126th Operations Group</FullName>
+        <Name>126th Operations Group</Name>
+        <Id>us/usaf/126-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+        <FullName>126th Mission Support Group</FullName>
+        <Name>126th Mission Support Group</Name>
+        <Id>us/usaf/126-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mxg</Url>
+        <FullName>126th Maintenance Group</FullName>
+        <Name>126th Maintenance Group</Name>
+        <Id>us/usaf/126-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mdg</Url>
+        <FullName>126th Medical Group</FullName>
+        <Name>126th Medical Group</Name>
+        <Id>us/usaf/126-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-cptf</Url>
+        <FullName>126th Comptroller Flight</FullName>
+        <Name>126th Comptroller Flight</Name>
+        <Id>us/usaf/126-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-og</Url>
+    <NameNode>126th Operations Group
+                            USAF</NameNode>
+    <FullName>126th Operations Group, USAF</FullName>
+    <SplitName>126th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+        <Id>us/usaf/126-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th ARW</HHQAcronym>
+        <Name>126th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/108-ars</Url>
+        <FullName>108th Air Refueling Squadron</FullName>
+        <Name>108th Air Refueling Squadron</Name>
+        <Id>us/usaf/108-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-osf</Url>
+        <FullName>126th Operations Support Flight</FullName>
+        <Name>126th Operations Support Flight</Name>
+        <Id>us/usaf/126-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/108-ars</Url>
+    <NameNode>108th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>108th Air Refueling Squadron, USAF</FullName>
+    <SplitName>108th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-og</Url>
+        <Id>us/usaf/126-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th Operations Group</HHQAcronym>
+        <Name>126th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-osf</Url>
+    <NameNode>126th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>126th Operations Support Flight, USAF</FullName>
+    <SplitName>126th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-og</Url>
+        <Id>us/usaf/126-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th Operations Group</HHQAcronym>
+        <Name>126th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+    <NameNode>126th Mission Support Group
+                            USAF</NameNode>
+    <FullName>126th Mission Support Group, USAF</FullName>
+    <SplitName>126th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+        <Id>us/usaf/126-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th ARW</HHQAcronym>
+        <Name>126th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-ces</Url>
+        <FullName>126th Civil Engineer Squadron</FullName>
+        <Name>126th Civil Engineer Squadron</Name>
+        <Id>us/usaf/126-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-fss</Url>
+        <FullName>126th Force Support Squadron</FullName>
+        <Name>126th Force Support Squadron</Name>
+        <Id>us/usaf/126-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-lrs</Url>
+        <FullName>126th Logistics Readiness Squadron</FullName>
+        <Name>126th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/126-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-sfs</Url>
+        <FullName>126th Security Forces Squadron</FullName>
+        <Name>126th Security Forces Squadron</Name>
+        <Id>us/usaf/126-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-cf</Url>
+        <FullName>126th Communications Flight</FullName>
+        <Name>126th Communications Flight</Name>
+        <Id>us/usaf/126-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-ces</Url>
+    <NameNode>126th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>126th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>126th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+        <Id>us/usaf/126-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MSG</HHQAcronym>
+        <Name>126th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-fss</Url>
+    <NameNode>126th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>126th Force Support Squadron, USAF</FullName>
+    <SplitName>126th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+        <Id>us/usaf/126-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MSG</HHQAcronym>
+        <Name>126th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-lrs</Url>
+    <NameNode>126th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>126th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>126th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+        <Id>us/usaf/126-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MSG</HHQAcronym>
+        <Name>126th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-sfs</Url>
+    <NameNode>126th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>126th Security Forces Squadron, USAF</FullName>
+    <SplitName>126th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+        <Id>us/usaf/126-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MSG</HHQAcronym>
+        <Name>126th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-cf</Url>
+    <NameNode>126th Communications Flight
+                            USAF</NameNode>
+    <FullName>126th Communications Flight, USAF</FullName>
+    <SplitName>126th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-msg</Url>
+        <Id>us/usaf/126-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MSG</HHQAcronym>
+        <Name>126th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-mxg</Url>
+    <NameNode>126th Maintenance Group
+                            USAF</NameNode>
+    <FullName>126th Maintenance Group, USAF</FullName>
+    <SplitName>126th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+        <Id>us/usaf/126-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th ARW</HHQAcronym>
+        <Name>126th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-amxs</Url>
+        <FullName>126th Aircraft Maintenance Squadron</FullName>
+        <Name>126th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/126-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mxs</Url>
+        <FullName>126th Maintenance Squadron</FullName>
+        <Name>126th Maintenance Squadron</Name>
+        <Id>us/usaf/126-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mof</Url>
+        <FullName>126th Maintenance Operations Flight</FullName>
+        <Name>126th Maintenance Operations Flight</Name>
+        <Id>us/usaf/126-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-amxs</Url>
+    <NameNode>126th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>126th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>126th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mxg</Url>
+        <Id>us/usaf/126-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MXG</HHQAcronym>
+        <Name>126th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-mxs</Url>
+    <NameNode>126th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>126th Maintenance Squadron, USAF</FullName>
+    <SplitName>126th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mxg</Url>
+        <Id>us/usaf/126-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MXG</HHQAcronym>
+        <Name>126th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-mof</Url>
+    <NameNode>126th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>126th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>126th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-mxg</Url>
+        <Id>us/usaf/126-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th MXG</HHQAcronym>
+        <Name>126th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-mdg</Url>
+    <NameNode>126th Medical Group
+                            USAF</NameNode>
+    <FullName>126th Medical Group, USAF</FullName>
+    <SplitName>126th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+        <Id>us/usaf/126-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th ARW</HHQAcronym>
+        <Name>126th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-cptf</Url>
+    <NameNode>126th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>126th Comptroller Flight, USAF</FullName>
+    <SplitName>126th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/126-arw</Url>
+        <Id>us/usaf/126-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>126th ARW</HHQAcronym>
+        <Name>126th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+    <NameNode>182nd Airlift Wing
+                            USAF</NameNode>
+    <FullName>182nd Airlift Wing, USAF</FullName>
+    <SplitName>182nd Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-il/ang-elt</Url>
+        <Id>us/usaf/jfhq-il/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Illinois</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Illinois</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-og</Url>
+        <FullName>182nd Operations Group</FullName>
+        <Name>182nd Operations Group</Name>
+        <Id>us/usaf/182-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+        <FullName>182nd Mission Support Group</FullName>
+        <Name>182nd Mission Support Group</Name>
+        <Id>us/usaf/182-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mxg</Url>
+        <FullName>182nd Maintenance Group</FullName>
+        <Name>182nd Maintenance Group</Name>
+        <Id>us/usaf/182-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mdg</Url>
+        <FullName>182nd Medical Group</FullName>
+        <Name>182nd Medical Group</Name>
+        <Id>us/usaf/182-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-cptf</Url>
+        <FullName>182nd Comptroller Flight</FullName>
+        <Name>182nd Comptroller Flight</Name>
+        <Id>us/usaf/182-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-asog</Url>
+        <FullName>182nd Air Support Operations Group</FullName>
+        <Name>182nd Air Support Operations Group</Name>
+        <Id>us/usaf/182-asog</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/264-cbcs</Url>
+        <FullName>264th Combat Communications Squadron</FullName>
+        <Name>264th Combat Communications Squadron</Name>
+        <Id>us/usaf/264-cbcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/566-af-band</Url>
+        <FullName>566th Air Force Band</FullName>
+        <Name>566th Air Force Band</Name>
+        <Id>us/usaf/566-af-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-og</Url>
+    <NameNode>182nd Operations Group
+                            USAF</NameNode>
+    <FullName>182nd Operations Group, USAF</FullName>
+    <SplitName>182nd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-as</Url>
+        <FullName>169th Airlift Squadron</FullName>
+        <Name>169th Airlift Squadron</Name>
+        <Id>us/usaf/169-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-osf</Url>
+        <FullName>182nd Operations Support Flight</FullName>
+        <Name>182nd Operations Support Flight</Name>
+        <Id>us/usaf/182-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-as</Url>
+    <NameNode>169th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>169th Airlift Squadron, USAF</FullName>
+    <SplitName>169th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-og</Url>
+        <Id>us/usaf/182-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Operations Group</HHQAcronym>
+        <Name>182nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-osf</Url>
+    <NameNode>182nd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>182nd Operations Support Flight, USAF</FullName>
+    <SplitName>182nd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-og</Url>
+        <Id>us/usaf/182-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Operations Group</HHQAcronym>
+        <Name>182nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+    <NameNode>182nd Mission Support Group
+                            USAF</NameNode>
+    <FullName>182nd Mission Support Group, USAF</FullName>
+    <SplitName>182nd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-ces</Url>
+        <FullName>182nd Civil Engineer Squadron</FullName>
+        <Name>182nd Civil Engineer Squadron</Name>
+        <Id>us/usaf/182-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-fss</Url>
+        <FullName>182nd Force Support Squadron</FullName>
+        <Name>182nd Force Support Squadron</Name>
+        <Id>us/usaf/182-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-lrs</Url>
+        <FullName>182nd Logistics Readiness Squadron</FullName>
+        <Name>182nd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/182-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-sfs</Url>
+        <FullName>182nd Security Forces Squadron</FullName>
+        <Name>182nd Security Forces Squadron</Name>
+        <Id>us/usaf/182-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-cf</Url>
+        <FullName>182nd Communications Flight</FullName>
+        <Name>182nd Communications Flight</Name>
+        <Id>us/usaf/182-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-ces</Url>
+    <NameNode>182nd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>182nd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>182nd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+        <Id>us/usaf/182-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MSG</HHQAcronym>
+        <Name>182nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-fss</Url>
+    <NameNode>182nd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>182nd Force Support Squadron, USAF</FullName>
+    <SplitName>182nd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+        <Id>us/usaf/182-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MSG</HHQAcronym>
+        <Name>182nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-lrs</Url>
+    <NameNode>182nd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>182nd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>182nd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+        <Id>us/usaf/182-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MSG</HHQAcronym>
+        <Name>182nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-sfs</Url>
+    <NameNode>182nd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>182nd Security Forces Squadron, USAF</FullName>
+    <SplitName>182nd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+        <Id>us/usaf/182-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MSG</HHQAcronym>
+        <Name>182nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-cf</Url>
+    <NameNode>182nd Communications Flight
+                            USAF</NameNode>
+    <FullName>182nd Communications Flight, USAF</FullName>
+    <SplitName>182nd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-msg</Url>
+        <Id>us/usaf/182-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MSG</HHQAcronym>
+        <Name>182nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-mxg</Url>
+    <NameNode>182nd Maintenance Group
+                            USAF</NameNode>
+    <FullName>182nd Maintenance Group, USAF</FullName>
+    <SplitName>182nd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-amxs</Url>
+        <FullName>182nd Aircraft Maintenance Squadron</FullName>
+        <Name>182nd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/182-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mxs</Url>
+        <FullName>182nd Maintenance Squadron</FullName>
+        <Name>182nd Maintenance Squadron</Name>
+        <Id>us/usaf/182-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mof</Url>
+        <FullName>182nd Maintenance Operations Flight</FullName>
+        <Name>182nd Maintenance Operations Flight</Name>
+        <Id>us/usaf/182-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-amxs</Url>
+    <NameNode>182nd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>182nd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>182nd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mxg</Url>
+        <Id>us/usaf/182-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MXG</HHQAcronym>
+        <Name>182nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-mxs</Url>
+    <NameNode>182nd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>182nd Maintenance Squadron, USAF</FullName>
+    <SplitName>182nd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mxg</Url>
+        <Id>us/usaf/182-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MXG</HHQAcronym>
+        <Name>182nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-mof</Url>
+    <NameNode>182nd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>182nd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>182nd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-mxg</Url>
+        <Id>us/usaf/182-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd MXG</HHQAcronym>
+        <Name>182nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-mdg</Url>
+    <NameNode>182nd Medical Group
+                            USAF</NameNode>
+    <FullName>182nd Medical Group, USAF</FullName>
+    <SplitName>182nd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-cptf</Url>
+    <NameNode>182nd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>182nd Comptroller Flight, USAF</FullName>
+    <SplitName>182nd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/182-asog</Url>
+    <NameNode>182nd Air Support Operations Group
+                            USAF</NameNode>
+    <FullName>182nd Air Support Operations Group, USAF</FullName>
+    <SplitName>182nd Air Support Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/168-asos</Url>
+        <FullName>168th Air Support Operations Squadron</FullName>
+        <Name>168th Air Support Operations Squadron</Name>
+        <Id>us/usaf/168-asos</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-asos</Url>
+        <FullName>169th Air Support Operations Squadron</FullName>
+        <Name>169th Air Support Operations Squadron</Name>
+        <Id>us/usaf/169-asos</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/168-asos</Url>
+    <NameNode>168th Air Support Operations Squadron
+                            USAF</NameNode>
+    <FullName>168th Air Support Operations Squadron, USAF</FullName>
+    <SplitName>168th Air Support Operations Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-asog</Url>
+        <Id>us/usaf/182-asog</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd ASOG</HHQAcronym>
+        <Name>182nd Air Support Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-asos</Url>
+    <NameNode>169th Air Support Operations Squadron
+                            USAF</NameNode>
+    <FullName>169th Air Support Operations Squadron, USAF</FullName>
+    <SplitName>169th Air Support Operations Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-asog</Url>
+        <Id>us/usaf/182-asog</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd ASOG</HHQAcronym>
+        <Name>182nd Air Support Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/264-cbcs</Url>
+    <NameNode>264th Combat Communications Squadron
+                            USAF</NameNode>
+    <FullName>264th Combat Communications Squadron, USAF</FullName>
+    <SplitName>264th Combat Communications Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/254-ccg</Url>
+        <Id>us/usaf/254-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>254th CCG</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>254th Combat Communications Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/566-af-band</Url>
+    <NameNode>566th Air Force Band
+                            USAF</NameNode>
+    <FullName>566th Air Force Band, USAF</FullName>
+    <SplitName>566th Air Force Band</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Peoria Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peoria, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/peoria-angb</Url>
+        <Id>us/il/peoria-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/182-aw</Url>
+        <Id>us/usaf/182-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>182nd Airlift Wing</HHQAcronym>
+        <Name>182nd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/183-aog</Url>
+    <NameNode>183rd Air Operations Group
+                            USAF</NameNode>
+    <FullName>183rd Air Operations Group, USAF</FullName>
+    <SplitName>183rd Air Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Springfield, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/springfield-angb</Url>
+        <Id>us/il/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-il/ang-elt</Url>
+        <Id>us/usaf/jfhq-il/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Illinois</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Illinois</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-id/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Idaho
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Idaho, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Idaho</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-id</Url>
+        <Id>us/ng/jfhq-id</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Idaho</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Idaho</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+        <FullName>124th Fighter Wing</FullName>
+        <Name>124th Fighter Wing</Name>
+        <Id>us/usaf/124-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-asos</Url>
+        <FullName>124th Air Support Operations Squadron</FullName>
+        <Name>124th Air Support Operations Squadron</Name>
+        <Id>us/usaf/124-asos</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/266-rans</Url>
+        <FullName>266th Range Squadron</FullName>
+        <Name>266th Range Squadron</Name>
+        <Id>us/usaf/266-rans</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+    <NameNode>124th Fighter Wing
+                            USAF</NameNode>
+    <FullName>124th Fighter Wing, USAF</FullName>
+    <SplitName>124th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/12-af</Url>
+        <Id>us/usaf/12-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>12th Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>12th Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-id/ang-elt</Url>
+        <Id>us/usaf/jfhq-id/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Idaho</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Idaho</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-og</Url>
+        <FullName>124th Operations Group</FullName>
+        <Name>124th Operations Group</Name>
+        <Id>us/usaf/124-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+        <FullName>124th Mission Support Group</FullName>
+        <Name>124th Mission Support Group</Name>
+        <Id>us/usaf/124-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mxg</Url>
+        <FullName>124th Maintenance Group</FullName>
+        <Name>124th Maintenance Group</Name>
+        <Id>us/usaf/124-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mdg</Url>
+        <FullName>124th Medical Group</FullName>
+        <Name>124th Medical Group</Name>
+        <Id>us/usaf/124-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-cptf</Url>
+        <FullName>124th Comptroller Flight</FullName>
+        <Name>124th Comptroller Flight</Name>
+        <Id>us/usaf/124-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-og</Url>
+    <NameNode>124th Operations Group
+                            USAF</NameNode>
+    <FullName>124th Operations Group, USAF</FullName>
+    <SplitName>124th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+        <Id>us/usaf/124-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Fighter Wing</HHQAcronym>
+        <Name>124th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/190-fs</Url>
+        <FullName>190th Fighter Squadron</FullName>
+        <Name>190th Fighter Squadron</Name>
+        <Id>us/usaf/190-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-osf</Url>
+        <FullName>124th Operations Support Flight</FullName>
+        <Name>124th Operations Support Flight</Name>
+        <Id>us/usaf/124-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/190-fs</Url>
+    <NameNode>190th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>190th Fighter Squadron, USAF</FullName>
+    <SplitName>190th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-og</Url>
+        <Id>us/usaf/124-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Operations Group</HHQAcronym>
+        <Name>124th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-osf</Url>
+    <NameNode>124th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>124th Operations Support Flight, USAF</FullName>
+    <SplitName>124th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-og</Url>
+        <Id>us/usaf/124-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Operations Group</HHQAcronym>
+        <Name>124th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+    <NameNode>124th Mission Support Group
+                            USAF</NameNode>
+    <FullName>124th Mission Support Group, USAF</FullName>
+    <SplitName>124th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+        <Id>us/usaf/124-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Fighter Wing</HHQAcronym>
+        <Name>124th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-ces</Url>
+        <FullName>124th Civil Engineer Squadron</FullName>
+        <Name>124th Civil Engineer Squadron</Name>
+        <Id>us/usaf/124-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fss</Url>
+        <FullName>124th Force Support Squadron</FullName>
+        <Name>124th Force Support Squadron</Name>
+        <Id>us/usaf/124-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-lrs</Url>
+        <FullName>124th Logistics Readiness Squadron</FullName>
+        <Name>124th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/124-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-sfs</Url>
+        <FullName>124th Security Forces Squadron</FullName>
+        <Name>124th Security Forces Squadron</Name>
+        <Id>us/usaf/124-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-cf</Url>
+        <FullName>124th Communications Flight</FullName>
+        <Name>124th Communications Flight</Name>
+        <Id>us/usaf/124-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-ces</Url>
+    <NameNode>124th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>124th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>124th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+        <Id>us/usaf/124-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MSG</HHQAcronym>
+        <Name>124th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-fss</Url>
+    <NameNode>124th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>124th Force Support Squadron, USAF</FullName>
+    <SplitName>124th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+        <Id>us/usaf/124-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MSG</HHQAcronym>
+        <Name>124th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-lrs</Url>
+    <NameNode>124th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>124th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>124th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+        <Id>us/usaf/124-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MSG</HHQAcronym>
+        <Name>124th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-sfs</Url>
+    <NameNode>124th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>124th Security Forces Squadron, USAF</FullName>
+    <SplitName>124th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+        <Id>us/usaf/124-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MSG</HHQAcronym>
+        <Name>124th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-cf</Url>
+    <NameNode>124th Communications Flight
+                            USAF</NameNode>
+    <FullName>124th Communications Flight, USAF</FullName>
+    <SplitName>124th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-msg</Url>
+        <Id>us/usaf/124-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MSG</HHQAcronym>
+        <Name>124th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-mxg</Url>
+    <NameNode>124th Maintenance Group
+                            USAF</NameNode>
+    <FullName>124th Maintenance Group, USAF</FullName>
+    <SplitName>124th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+        <Id>us/usaf/124-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Fighter Wing</HHQAcronym>
+        <Name>124th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-amxs</Url>
+        <FullName>124th Aircraft Maintenance Squadron</FullName>
+        <Name>124th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/124-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mxs</Url>
+        <FullName>124th Maintenance Squadron</FullName>
+        <Name>124th Maintenance Squadron</Name>
+        <Id>us/usaf/124-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mof</Url>
+        <FullName>124th Maintenance Operations Flight</FullName>
+        <Name>124th Maintenance Operations Flight</Name>
+        <Id>us/usaf/124-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-amxs</Url>
+    <NameNode>124th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>124th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>124th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mxg</Url>
+        <Id>us/usaf/124-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MXG</HHQAcronym>
+        <Name>124th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-mxs</Url>
+    <NameNode>124th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>124th Maintenance Squadron, USAF</FullName>
+    <SplitName>124th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mxg</Url>
+        <Id>us/usaf/124-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MXG</HHQAcronym>
+        <Name>124th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-mof</Url>
+    <NameNode>124th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>124th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>124th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-mxg</Url>
+        <Id>us/usaf/124-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th MXG</HHQAcronym>
+        <Name>124th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-mdg</Url>
+    <NameNode>124th Medical Group
+                            USAF</NameNode>
+    <FullName>124th Medical Group, USAF</FullName>
+    <SplitName>124th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+        <Id>us/usaf/124-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Fighter Wing</HHQAcronym>
+        <Name>124th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-cptf</Url>
+    <NameNode>124th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>124th Comptroller Flight, USAF</FullName>
+    <SplitName>124th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fw</Url>
+        <Id>us/usaf/124-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>124th Fighter Wing</HHQAcronym>
+        <Name>124th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-asos</Url>
+    <NameNode>124th Air Support Operations Squadron
+                            USAF</NameNode>
+    <FullName>124th Air Support Operations Squadron, USAF</FullName>
+    <SplitName>124th Air Support Operations Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-id/ang-elt</Url>
+        <Id>us/usaf/jfhq-id/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Idaho</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Idaho</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/266-rans</Url>
+    <NameNode>266th Range Squadron
+                            USAF</NameNode>
+    <FullName>266th Range Squadron, USAF</FullName>
+    <SplitName>266th Range Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mountain Home Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mountain Home, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/mountain-home-afb</Url>
+        <Id>us/id/mountain-home-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/366-og</Url>
+        <Id>us/usaf/366-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>366th Operations Group</HHQAcronym>
+        <Name>366th Operations Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-id/ang-elt</Url>
+        <Id>us/usaf/jfhq-id/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Idaho</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Idaho</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

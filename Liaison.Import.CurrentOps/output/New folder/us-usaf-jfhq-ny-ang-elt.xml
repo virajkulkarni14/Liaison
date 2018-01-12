@@ -1,0 +1,2674 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ny/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ New York
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ New York, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ New York</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New York Division of Military and Naval Affairs Headquarters</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Latham, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/ny-dmna-hq</Url>
+        <Id>us/ny/ny-dmna-hq</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ny</Url>
+        <Id>us/ng/jfhq-ny</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ New York</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters New York</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <FullName>105th Airlift Wing</FullName>
+        <Name>105th Airlift Wing</Name>
+        <Id>us/usaf/105-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+        <FullName>106th Rescue Wing</FullName>
+        <Name>106th Rescue Wing</Name>
+        <Id>us/usaf/106-rqw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+        <FullName>107th Airlift Wing</FullName>
+        <Name>107th Airlift Wing</Name>
+        <Id>us/usaf/107-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+        <FullName>109th Airlift Wing</FullName>
+        <Name>109th Airlift Wing</Name>
+        <Id>us/usaf/109-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/174-atk-wing</Url>
+        <FullName>174th Attack Wing</FullName>
+        <Name>174th Attack Wing</Name>
+        <Id>us/usaf/174-atk-wing</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+    <NameNode>105th Airlift Wing
+                            USAF</NameNode>
+    <FullName>105th Airlift Wing, USAF</FullName>
+    <SplitName>105th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ny/ang-elt</Url>
+        <Id>us/usaf/jfhq-ny/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New York</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New York</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-og</Url>
+        <FullName>105th Operations Group</FullName>
+        <Name>105th Operations Group</Name>
+        <Id>us/usaf/105-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+        <FullName>105th Mission Support Group</FullName>
+        <Name>105th Mission Support Group</Name>
+        <Id>us/usaf/105-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mxg</Url>
+        <FullName>105th Maintenance Group</FullName>
+        <Name>105th Maintenance Group</Name>
+        <Id>us/usaf/105-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mdg</Url>
+        <FullName>105th Medical Group</FullName>
+        <Name>105th Medical Group</Name>
+        <Id>us/usaf/105-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-cptf</Url>
+        <FullName>105th Comptroller Flight</FullName>
+        <Name>105th Comptroller Flight</Name>
+        <Id>us/usaf/105-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/213-eis</Url>
+        <FullName>213th Engineering Installation Squadron</FullName>
+        <Name>213th Engineering Installation Squadron</Name>
+        <Id>us/usaf/213-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-og</Url>
+    <NameNode>105th Operations Group
+                            USAF</NameNode>
+    <FullName>105th Operations Group, USAF</FullName>
+    <SplitName>105th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <Id>us/usaf/105-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Airlift Wing</HHQAcronym>
+        <Name>105th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-as</Url>
+        <FullName>137th Airlift Squadron</FullName>
+        <Name>137th Airlift Squadron</Name>
+        <Id>us/usaf/137-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-osf</Url>
+        <FullName>105th Operations Support Flight</FullName>
+        <Name>105th Operations Support Flight</Name>
+        <Id>us/usaf/105-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-as</Url>
+    <NameNode>137th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>137th Airlift Squadron, USAF</FullName>
+    <SplitName>137th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-og</Url>
+        <Id>us/usaf/105-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Operations Group</HHQAcronym>
+        <Name>105th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-osf</Url>
+    <NameNode>105th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>105th Operations Support Flight, USAF</FullName>
+    <SplitName>105th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-og</Url>
+        <Id>us/usaf/105-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Operations Group</HHQAcronym>
+        <Name>105th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+    <NameNode>105th Mission Support Group
+                            USAF</NameNode>
+    <FullName>105th Mission Support Group, USAF</FullName>
+    <SplitName>105th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <Id>us/usaf/105-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Airlift Wing</HHQAcronym>
+        <Name>105th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-ces</Url>
+        <FullName>105th Civil Engineer Squadron</FullName>
+        <Name>105th Civil Engineer Squadron</Name>
+        <Id>us/usaf/105-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-fss</Url>
+        <FullName>105th Force Support Squadron</FullName>
+        <Name>105th Force Support Squadron</Name>
+        <Id>us/usaf/105-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-lrs</Url>
+        <FullName>105th Logistics Readiness Squadron</FullName>
+        <Name>105th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/105-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-sfs</Url>
+        <FullName>105th Security Forces Squadron</FullName>
+        <Name>105th Security Forces Squadron</Name>
+        <Id>us/usaf/105-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-cf</Url>
+        <FullName>105th Communications Flight</FullName>
+        <Name>105th Communications Flight</Name>
+        <Id>us/usaf/105-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-ces</Url>
+    <NameNode>105th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>105th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>105th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+        <Id>us/usaf/105-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MSG</HHQAcronym>
+        <Name>105th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-fss</Url>
+    <NameNode>105th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>105th Force Support Squadron, USAF</FullName>
+    <SplitName>105th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+        <Id>us/usaf/105-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MSG</HHQAcronym>
+        <Name>105th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-lrs</Url>
+    <NameNode>105th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>105th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>105th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+        <Id>us/usaf/105-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MSG</HHQAcronym>
+        <Name>105th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-sfs</Url>
+    <NameNode>105th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>105th Security Forces Squadron, USAF</FullName>
+    <SplitName>105th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+        <Id>us/usaf/105-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MSG</HHQAcronym>
+        <Name>105th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-cf</Url>
+    <NameNode>105th Communications Flight
+                            USAF</NameNode>
+    <FullName>105th Communications Flight, USAF</FullName>
+    <SplitName>105th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-msg</Url>
+        <Id>us/usaf/105-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MSG</HHQAcronym>
+        <Name>105th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-mxg</Url>
+    <NameNode>105th Maintenance Group
+                            USAF</NameNode>
+    <FullName>105th Maintenance Group, USAF</FullName>
+    <SplitName>105th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <Id>us/usaf/105-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Airlift Wing</HHQAcronym>
+        <Name>105th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-amxs</Url>
+        <FullName>105th Aircraft Maintenance Squadron</FullName>
+        <Name>105th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/105-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mxs</Url>
+        <FullName>105th Maintenance Squadron</FullName>
+        <Name>105th Maintenance Squadron</Name>
+        <Id>us/usaf/105-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mof</Url>
+        <FullName>105th Maintenance Operations Flight</FullName>
+        <Name>105th Maintenance Operations Flight</Name>
+        <Id>us/usaf/105-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-amxs</Url>
+    <NameNode>105th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>105th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>105th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mxg</Url>
+        <Id>us/usaf/105-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MXG</HHQAcronym>
+        <Name>105th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-mxs</Url>
+    <NameNode>105th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>105th Maintenance Squadron, USAF</FullName>
+    <SplitName>105th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mxg</Url>
+        <Id>us/usaf/105-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MXG</HHQAcronym>
+        <Name>105th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-mof</Url>
+    <NameNode>105th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>105th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>105th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-mxg</Url>
+        <Id>us/usaf/105-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th MXG</HHQAcronym>
+        <Name>105th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-mdg</Url>
+    <NameNode>105th Medical Group
+                            USAF</NameNode>
+    <FullName>105th Medical Group, USAF</FullName>
+    <SplitName>105th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <Id>us/usaf/105-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Airlift Wing</HHQAcronym>
+        <Name>105th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/105-cptf</Url>
+    <NameNode>105th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>105th Comptroller Flight, USAF</FullName>
+    <SplitName>105th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <Id>us/usaf/105-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Airlift Wing</HHQAcronym>
+        <Name>105th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/213-eis</Url>
+    <NameNode>213th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>213th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>213th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stewart Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newburgh, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stewart-angb</Url>
+        <Id>us/ny/stewart-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/105-aw</Url>
+        <Id>us/usaf/105-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>105th Airlift Wing</HHQAcronym>
+        <Name>105th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+    <NameNode>106th Rescue Wing
+                            USAF</NameNode>
+    <FullName>106th Rescue Wing, USAF</FullName>
+    <SplitName>106th Rescue Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ny/ang-elt</Url>
+        <Id>us/usaf/jfhq-ny/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New York</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New York</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-og</Url>
+        <FullName>106th Operations Group</FullName>
+        <Name>106th Operations Group</Name>
+        <Id>us/usaf/106-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <FullName>106th Mission Support Group</FullName>
+        <Name>106th Mission Support Group</Name>
+        <Id>us/usaf/106-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mxg</Url>
+        <FullName>106th Maintenance Group</FullName>
+        <Name>106th Maintenance Group</Name>
+        <Id>us/usaf/106-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mdg</Url>
+        <FullName>106th Medical Group</FullName>
+        <Name>106th Medical Group</Name>
+        <Id>us/usaf/106-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-cptf</Url>
+        <FullName>106th Comptroller Flight</FullName>
+        <Name>106th Comptroller Flight</Name>
+        <Id>us/usaf/106-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-og</Url>
+    <NameNode>106th Operations Group
+                            USAF</NameNode>
+    <FullName>106th Operations Group, USAF</FullName>
+    <SplitName>106th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+        <Id>us/usaf/106-rqw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Rescue Wing</HHQAcronym>
+        <Name>106th Rescue Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/101-rqs</Url>
+        <FullName>101st Rescue Squadron</FullName>
+        <Name>101st Rescue Squadron</Name>
+        <Id>us/usaf/101-rqs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/102-rqs</Url>
+        <FullName>102nd Rescue Squadron</FullName>
+        <Name>102nd Rescue Squadron</Name>
+        <Id>us/usaf/102-rqs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/103-rqs</Url>
+        <FullName>103rd Rescue Squadron</FullName>
+        <Name>103rd Rescue Squadron</Name>
+        <Id>us/usaf/103-rqs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-osf</Url>
+        <FullName>106th Operations Support Flight</FullName>
+        <Name>106th Operations Support Flight</Name>
+        <Id>us/usaf/106-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/101-rqs</Url>
+    <NameNode>101st Rescue Squadron
+                            USAF</NameNode>
+    <FullName>101st Rescue Squadron, USAF</FullName>
+    <SplitName>101st Rescue Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-og</Url>
+        <Id>us/usaf/106-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Operations Group</HHQAcronym>
+        <Name>106th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/102-rqs</Url>
+    <NameNode>102nd Rescue Squadron
+                            USAF</NameNode>
+    <FullName>102nd Rescue Squadron, USAF</FullName>
+    <SplitName>102nd Rescue Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-og</Url>
+        <Id>us/usaf/106-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Operations Group</HHQAcronym>
+        <Name>106th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/103-rqs</Url>
+    <NameNode>103rd Rescue Squadron
+                            USAF</NameNode>
+    <FullName>103rd Rescue Squadron, USAF</FullName>
+    <SplitName>103rd Rescue Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-og</Url>
+        <Id>us/usaf/106-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Operations Group</HHQAcronym>
+        <Name>106th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-osf</Url>
+    <NameNode>106th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>106th Operations Support Flight, USAF</FullName>
+    <SplitName>106th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-og</Url>
+        <Id>us/usaf/106-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Operations Group</HHQAcronym>
+        <Name>106th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+    <NameNode>106th Mission Support Group
+                            USAF</NameNode>
+    <FullName>106th Mission Support Group, USAF</FullName>
+    <SplitName>106th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+        <Id>us/usaf/106-rqw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Rescue Wing</HHQAcronym>
+        <Name>106th Rescue Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-ces</Url>
+        <FullName>106th Civil Engineer Squadron</FullName>
+        <Name>106th Civil Engineer Squadron</Name>
+        <Id>us/usaf/106-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-fss</Url>
+        <FullName>106th Force Support Squadron</FullName>
+        <Name>106th Force Support Squadron</Name>
+        <Id>us/usaf/106-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-lrs</Url>
+        <FullName>106th Logistics Readiness Squadron</FullName>
+        <Name>106th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/106-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-sfs</Url>
+        <FullName>106th Security Forces Squadron</FullName>
+        <Name>106th Security Forces Squadron</Name>
+        <Id>us/usaf/106-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-cf</Url>
+        <FullName>106th Communications Flight</FullName>
+        <Name>106th Communications Flight</Name>
+        <Id>us/usaf/106-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-svf</Url>
+        <FullName>106th Services Flight</FullName>
+        <Name>106th Services Flight</Name>
+        <Id>us/usaf/106-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-ces</Url>
+    <NameNode>106th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>106th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>106th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <Id>us/usaf/106-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MSG</HHQAcronym>
+        <Name>106th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-fss</Url>
+    <NameNode>106th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>106th Force Support Squadron, USAF</FullName>
+    <SplitName>106th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <Id>us/usaf/106-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MSG</HHQAcronym>
+        <Name>106th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-lrs</Url>
+    <NameNode>106th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>106th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>106th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <Id>us/usaf/106-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MSG</HHQAcronym>
+        <Name>106th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-sfs</Url>
+    <NameNode>106th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>106th Security Forces Squadron, USAF</FullName>
+    <SplitName>106th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <Id>us/usaf/106-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MSG</HHQAcronym>
+        <Name>106th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-cf</Url>
+    <NameNode>106th Communications Flight
+                            USAF</NameNode>
+    <FullName>106th Communications Flight, USAF</FullName>
+    <SplitName>106th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <Id>us/usaf/106-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MSG</HHQAcronym>
+        <Name>106th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-svf</Url>
+    <NameNode>106th Services Flight
+                            USAF</NameNode>
+    <FullName>106th Services Flight, USAF</FullName>
+    <SplitName>106th Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-msg</Url>
+        <Id>us/usaf/106-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MSG</HHQAcronym>
+        <Name>106th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-mxg</Url>
+    <NameNode>106th Maintenance Group
+                            USAF</NameNode>
+    <FullName>106th Maintenance Group, USAF</FullName>
+    <SplitName>106th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+        <Id>us/usaf/106-rqw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Rescue Wing</HHQAcronym>
+        <Name>106th Rescue Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-amxs</Url>
+        <FullName>106th Aircraft Maintenance Squadron</FullName>
+        <Name>106th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/106-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mxs</Url>
+        <FullName>106th Maintenance Squadron</FullName>
+        <Name>106th Maintenance Squadron</Name>
+        <Id>us/usaf/106-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mof</Url>
+        <FullName>106th Maintenance Operations Flight</FullName>
+        <Name>106th Maintenance Operations Flight</Name>
+        <Id>us/usaf/106-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-amxs</Url>
+    <NameNode>106th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>106th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>106th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mxg</Url>
+        <Id>us/usaf/106-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MXG</HHQAcronym>
+        <Name>106th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-mxs</Url>
+    <NameNode>106th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>106th Maintenance Squadron, USAF</FullName>
+    <SplitName>106th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mxg</Url>
+        <Id>us/usaf/106-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MXG</HHQAcronym>
+        <Name>106th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-mof</Url>
+    <NameNode>106th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>106th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>106th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-mxg</Url>
+        <Id>us/usaf/106-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th MXG</HHQAcronym>
+        <Name>106th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-mdg</Url>
+    <NameNode>106th Medical Group
+                            USAF</NameNode>
+    <FullName>106th Medical Group, USAF</FullName>
+    <SplitName>106th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+        <Id>us/usaf/106-rqw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Rescue Wing</HHQAcronym>
+        <Name>106th Rescue Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-cptf</Url>
+    <NameNode>106th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>106th Comptroller Flight, USAF</FullName>
+    <SplitName>106th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Francis S. Gabreski Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westhampton Beach, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/francis-s-gabreski-angb</Url>
+        <Id>us/ny/francis-s-gabreski-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/106-rqw</Url>
+        <Id>us/usaf/106-rqw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>106th Rescue Wing</HHQAcronym>
+        <Name>106th Rescue Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+    <NameNode>107th Airlift Wing
+                            USAF</NameNode>
+    <FullName>107th Airlift Wing, USAF</FullName>
+    <SplitName>107th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ny/ang-elt</Url>
+        <Id>us/usaf/jfhq-ny/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New York</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New York</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-og</Url>
+        <FullName>107th Operations Group</FullName>
+        <Name>107th Operations Group</Name>
+        <Id>us/usaf/107-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+        <FullName>107th Mission Support Group</FullName>
+        <Name>107th Mission Support Group</Name>
+        <Id>us/usaf/107-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mxg</Url>
+        <FullName>107th Maintenance Group</FullName>
+        <Name>107th Maintenance Group</Name>
+        <Id>us/usaf/107-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mdg</Url>
+        <FullName>107th Medical Group</FullName>
+        <Name>107th Medical Group</Name>
+        <Id>us/usaf/107-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-cptf</Url>
+        <FullName>107th Comptroller Flight</FullName>
+        <Name>107th Comptroller Flight</Name>
+        <Id>us/usaf/107-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-og</Url>
+    <NameNode>107th Operations Group
+                            USAF</NameNode>
+    <FullName>107th Operations Group, USAF</FullName>
+    <SplitName>107th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+        <Id>us/usaf/107-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Airlift Wing</HHQAcronym>
+        <Name>107th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/136-as</Url>
+        <FullName>136th Airlift Squadron</FullName>
+        <Name>136th Airlift Squadron</Name>
+        <Id>us/usaf/136-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-osf</Url>
+        <FullName>107th Operations Support Flight</FullName>
+        <Name>107th Operations Support Flight</Name>
+        <Id>us/usaf/107-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/136-as</Url>
+    <NameNode>136th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>136th Airlift Squadron, USAF</FullName>
+    <SplitName>136th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-og</Url>
+        <Id>us/usaf/107-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Operations Group</HHQAcronym>
+        <Name>107th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-osf</Url>
+    <NameNode>107th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>107th Operations Support Flight, USAF</FullName>
+    <SplitName>107th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-og</Url>
+        <Id>us/usaf/107-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Operations Group</HHQAcronym>
+        <Name>107th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+    <NameNode>107th Mission Support Group
+                            USAF</NameNode>
+    <FullName>107th Mission Support Group, USAF</FullName>
+    <SplitName>107th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+        <Id>us/usaf/107-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Airlift Wing</HHQAcronym>
+        <Name>107th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-ces</Url>
+        <FullName>107th Civil Engineer Squadron</FullName>
+        <Name>107th Civil Engineer Squadron</Name>
+        <Id>us/usaf/107-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-fss</Url>
+        <FullName>107th Force Support Squadron</FullName>
+        <Name>107th Force Support Squadron</Name>
+        <Id>us/usaf/107-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-lrs</Url>
+        <FullName>107th Logistics Readiness Squadron</FullName>
+        <Name>107th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/107-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-sfs</Url>
+        <FullName>107th Security Forces Squadron</FullName>
+        <Name>107th Security Forces Squadron</Name>
+        <Id>us/usaf/107-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-cf</Url>
+        <FullName>107th Communications Flight</FullName>
+        <Name>107th Communications Flight</Name>
+        <Id>us/usaf/107-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-ces</Url>
+    <NameNode>107th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>107th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>107th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+        <Id>us/usaf/107-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MSG</HHQAcronym>
+        <Name>107th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-fss</Url>
+    <NameNode>107th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>107th Force Support Squadron, USAF</FullName>
+    <SplitName>107th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+        <Id>us/usaf/107-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MSG</HHQAcronym>
+        <Name>107th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-lrs</Url>
+    <NameNode>107th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>107th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>107th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+        <Id>us/usaf/107-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MSG</HHQAcronym>
+        <Name>107th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-sfs</Url>
+    <NameNode>107th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>107th Security Forces Squadron, USAF</FullName>
+    <SplitName>107th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+        <Id>us/usaf/107-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MSG</HHQAcronym>
+        <Name>107th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-cf</Url>
+    <NameNode>107th Communications Flight
+                            USAF</NameNode>
+    <FullName>107th Communications Flight, USAF</FullName>
+    <SplitName>107th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-msg</Url>
+        <Id>us/usaf/107-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MSG</HHQAcronym>
+        <Name>107th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-mxg</Url>
+    <NameNode>107th Maintenance Group
+                            USAF</NameNode>
+    <FullName>107th Maintenance Group, USAF</FullName>
+    <SplitName>107th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+        <Id>us/usaf/107-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Airlift Wing</HHQAcronym>
+        <Name>107th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-amxs</Url>
+        <FullName>107th Aircraft Maintenance Squadron</FullName>
+        <Name>107th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/107-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mxs</Url>
+        <FullName>107th Maintenance Squadron</FullName>
+        <Name>107th Maintenance Squadron</Name>
+        <Id>us/usaf/107-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mof</Url>
+        <FullName>107th Maintenance Operations Flight</FullName>
+        <Name>107th Maintenance Operations Flight</Name>
+        <Id>us/usaf/107-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-amxs</Url>
+    <NameNode>107th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>107th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>107th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mxg</Url>
+        <Id>us/usaf/107-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MXG</HHQAcronym>
+        <Name>107th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-mxs</Url>
+    <NameNode>107th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>107th Maintenance Squadron, USAF</FullName>
+    <SplitName>107th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mxg</Url>
+        <Id>us/usaf/107-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MXG</HHQAcronym>
+        <Name>107th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-mof</Url>
+    <NameNode>107th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>107th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>107th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-mxg</Url>
+        <Id>us/usaf/107-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th MXG</HHQAcronym>
+        <Name>107th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-mdg</Url>
+    <NameNode>107th Medical Group
+                            USAF</NameNode>
+    <FullName>107th Medical Group, USAF</FullName>
+    <SplitName>107th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+        <Id>us/usaf/107-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Airlift Wing</HHQAcronym>
+        <Name>107th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/107-cptf</Url>
+    <NameNode>107th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>107th Comptroller Flight, USAF</FullName>
+    <SplitName>107th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Niagara Falls Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niagara Falls, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/niagara-falls-jars</Url>
+        <Id>us/ny/niagara-falls-jars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/107-aw</Url>
+        <Id>us/usaf/107-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>107th Airlift Wing</HHQAcronym>
+        <Name>107th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+    <NameNode>109th Airlift Wing
+                            USAF</NameNode>
+    <FullName>109th Airlift Wing, USAF</FullName>
+    <SplitName>109th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ny/ang-elt</Url>
+        <Id>us/usaf/jfhq-ny/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New York</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New York</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-og</Url>
+        <FullName>109th Operations Group</FullName>
+        <Name>109th Operations Group</Name>
+        <Id>us/usaf/109-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+        <FullName>109th Mission Support Group</FullName>
+        <Name>109th Mission Support Group</Name>
+        <Id>us/usaf/109-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mxg</Url>
+        <FullName>109th Maintenance Group</FullName>
+        <Name>109th Maintenance Group</Name>
+        <Id>us/usaf/109-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mdg</Url>
+        <FullName>109th Medical Group</FullName>
+        <Name>109th Medical Group</Name>
+        <Id>us/usaf/109-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-cptf</Url>
+        <FullName>109th Comptroller Flight</FullName>
+        <Name>109th Comptroller Flight</Name>
+        <Id>us/usaf/109-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-og</Url>
+    <NameNode>109th Operations Group
+                            USAF</NameNode>
+    <FullName>109th Operations Group, USAF</FullName>
+    <SplitName>109th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+        <Id>us/usaf/109-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Airlift Wing</HHQAcronym>
+        <Name>109th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/139-aes</Url>
+        <FullName>139th Aeromedical Evacuation Squadron</FullName>
+        <Name>139th Aeromedical Evacuation Squadron</Name>
+        <Id>us/usaf/139-aes</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-osf</Url>
+        <FullName>109th Operations Support Flight</FullName>
+        <Name>109th Operations Support Flight</Name>
+        <Id>us/usaf/109-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/139-aes</Url>
+    <NameNode>139th Aeromedical Evacuation Squadron
+                            USAF</NameNode>
+    <FullName>139th Aeromedical Evacuation Squadron, USAF</FullName>
+    <SplitName>139th Aeromedical Evacuation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-og</Url>
+        <Id>us/usaf/109-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Operations Group</HHQAcronym>
+        <Name>109th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-osf</Url>
+    <NameNode>109th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>109th Operations Support Flight, USAF</FullName>
+    <SplitName>109th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-og</Url>
+        <Id>us/usaf/109-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Operations Group</HHQAcronym>
+        <Name>109th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+    <NameNode>109th Mission Support Group
+                            USAF</NameNode>
+    <FullName>109th Mission Support Group, USAF</FullName>
+    <SplitName>109th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+        <Id>us/usaf/109-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Airlift Wing</HHQAcronym>
+        <Name>109th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-ces</Url>
+        <FullName>109th Civil Engineer Squadron</FullName>
+        <Name>109th Civil Engineer Squadron</Name>
+        <Id>us/usaf/109-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-fss</Url>
+        <FullName>109th Force Support Squadron</FullName>
+        <Name>109th Force Support Squadron</Name>
+        <Id>us/usaf/109-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-lrs</Url>
+        <FullName>109th Logistics Readiness Squadron</FullName>
+        <Name>109th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/109-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-sfs</Url>
+        <FullName>109th Security Forces Squadron</FullName>
+        <Name>109th Security Forces Squadron</Name>
+        <Id>us/usaf/109-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-cf</Url>
+        <FullName>109th Communications Flight</FullName>
+        <Name>109th Communications Flight</Name>
+        <Id>us/usaf/109-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-ces</Url>
+    <NameNode>109th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>109th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>109th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+        <Id>us/usaf/109-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MSG</HHQAcronym>
+        <Name>109th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-fss</Url>
+    <NameNode>109th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>109th Force Support Squadron, USAF</FullName>
+    <SplitName>109th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+        <Id>us/usaf/109-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MSG</HHQAcronym>
+        <Name>109th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-lrs</Url>
+    <NameNode>109th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>109th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>109th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+        <Id>us/usaf/109-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MSG</HHQAcronym>
+        <Name>109th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-sfs</Url>
+    <NameNode>109th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>109th Security Forces Squadron, USAF</FullName>
+    <SplitName>109th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+        <Id>us/usaf/109-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MSG</HHQAcronym>
+        <Name>109th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-cf</Url>
+    <NameNode>109th Communications Flight
+                            USAF</NameNode>
+    <FullName>109th Communications Flight, USAF</FullName>
+    <SplitName>109th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-msg</Url>
+        <Id>us/usaf/109-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MSG</HHQAcronym>
+        <Name>109th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-mxg</Url>
+    <NameNode>109th Maintenance Group
+                            USAF</NameNode>
+    <FullName>109th Maintenance Group, USAF</FullName>
+    <SplitName>109th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+        <Id>us/usaf/109-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Airlift Wing</HHQAcronym>
+        <Name>109th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-amxs</Url>
+        <FullName>109th Aircraft Maintenance Squadron</FullName>
+        <Name>109th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/109-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mxs</Url>
+        <FullName>109th Maintenance Squadron</FullName>
+        <Name>109th Maintenance Squadron</Name>
+        <Id>us/usaf/109-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mof</Url>
+        <FullName>109th Maintenance Operations Flight</FullName>
+        <Name>109th Maintenance Operations Flight</Name>
+        <Id>us/usaf/109-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-amxs</Url>
+    <NameNode>109th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>109th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>109th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mxg</Url>
+        <Id>us/usaf/109-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MXG</HHQAcronym>
+        <Name>109th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-mxs</Url>
+    <NameNode>109th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>109th Maintenance Squadron, USAF</FullName>
+    <SplitName>109th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mxg</Url>
+        <Id>us/usaf/109-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MXG</HHQAcronym>
+        <Name>109th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-mof</Url>
+    <NameNode>109th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>109th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>109th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-mxg</Url>
+        <Id>us/usaf/109-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th MXG</HHQAcronym>
+        <Name>109th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-mdg</Url>
+    <NameNode>109th Medical Group
+                            USAF</NameNode>
+    <FullName>109th Medical Group, USAF</FullName>
+    <SplitName>109th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+        <Id>us/usaf/109-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Airlift Wing</HHQAcronym>
+        <Name>109th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-cptf</Url>
+    <NameNode>109th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>109th Comptroller Flight, USAF</FullName>
+    <SplitName>109th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Stratton Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scotia, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/stratton-angb</Url>
+        <Id>us/ny/stratton-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aw</Url>
+        <Id>us/usaf/109-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th Airlift Wing</HHQAcronym>
+        <Name>109th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/174-atk-wing</Url>
+    <NameNode>174th Attack Wing
+                            USAF</NameNode>
+    <FullName>174th Attack Wing, USAF</FullName>
+    <SplitName>174th Attack Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hancock Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/hancock-field-angb</Url>
+        <Id>us/ny/hancock-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ny/ang-elt</Url>
+        <Id>us/usaf/jfhq-ny/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New York</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New York</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

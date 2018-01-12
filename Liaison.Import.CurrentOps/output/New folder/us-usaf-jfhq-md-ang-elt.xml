@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-md/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Maryland
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Maryland, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Maryland</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-md</Url>
+        <Id>us/ng/jfhq-md</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Maryland</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <FullName>175th Wing</FullName>
+        <Name>175th Wing</Name>
+        <Id>us/usaf/175-wg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+    <NameNode>175th Wing
+                            USAF</NameNode>
+    <FullName>175th Wing, USAF</FullName>
+    <SplitName>175th Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-md/ang-elt</Url>
+        <Id>us/usaf/jfhq-md/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-og</Url>
+        <FullName>175th Operations Group</FullName>
+        <Name>175th Operations Group</Name>
+        <Id>us/usaf/175-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+        <FullName>175th Mission Support Group</FullName>
+        <Name>175th Mission Support Group</Name>
+        <Id>us/usaf/175-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mxg</Url>
+        <FullName>175th Maintenance Group</FullName>
+        <Name>175th Maintenance Group</Name>
+        <Id>us/usaf/175-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mdg</Url>
+        <FullName>175th Medical Group</FullName>
+        <Name>175th Medical Group</Name>
+        <Id>us/usaf/175-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-cptf</Url>
+        <FullName>175th Comptroller Flight</FullName>
+        <Name>175th Comptroller Flight</Name>
+        <Id>us/usaf/175-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/235-cef</Url>
+        <FullName>235th Civil Engineer Flight</FullName>
+        <Name>235th Civil Engineer Flight</Name>
+        <Id>us/usaf/235-cef</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-nws</Url>
+        <FullName>175th Network Warfare Squadron</FullName>
+        <Name>175th Network Warfare Squadron</Name>
+        <Id>us/usaf/175-nws</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-og</Url>
+    <NameNode>175th Operations Group
+                            USAF</NameNode>
+    <FullName>175th Operations Group, USAF</FullName>
+    <SplitName>175th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/104-fs</Url>
+        <FullName>104th Fighter Squadron</FullName>
+        <Name>104th Fighter Squadron</Name>
+        <Id>us/usaf/104-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-osf</Url>
+        <FullName>175th Operations Support Flight</FullName>
+        <Name>175th Operations Support Flight</Name>
+        <Id>us/usaf/175-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/104-fs</Url>
+    <NameNode>104th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>104th Fighter Squadron, USAF</FullName>
+    <SplitName>104th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-og</Url>
+        <Id>us/usaf/175-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Operations Group</HHQAcronym>
+        <Name>175th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-osf</Url>
+    <NameNode>175th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>175th Operations Support Flight, USAF</FullName>
+    <SplitName>175th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-og</Url>
+        <Id>us/usaf/175-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Operations Group</HHQAcronym>
+        <Name>175th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+    <NameNode>175th Mission Support Group
+                            USAF</NameNode>
+    <FullName>175th Mission Support Group, USAF</FullName>
+    <SplitName>175th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-cf</Url>
+        <FullName>175th Communications Flight</FullName>
+        <Name>175th Communications Flight</Name>
+        <Id>us/usaf/175-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-ces</Url>
+        <FullName>175th Civil Engineer Squadron</FullName>
+        <Name>175th Civil Engineer Squadron</Name>
+        <Id>us/usaf/175-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-fss</Url>
+        <FullName>175th Force Support Squadron</FullName>
+        <Name>175th Force Support Squadron</Name>
+        <Id>us/usaf/175-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-lrs</Url>
+        <FullName>175th Logistics Readiness Squadron</FullName>
+        <Name>175th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/175-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-sfs</Url>
+        <FullName>175th Security Forces Squadron</FullName>
+        <Name>175th Security Forces Squadron</Name>
+        <Id>us/usaf/175-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-cf</Url>
+    <NameNode>175th Communications Flight
+                            USAF</NameNode>
+    <FullName>175th Communications Flight, USAF</FullName>
+    <SplitName>175th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+        <Id>us/usaf/175-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MSG</HHQAcronym>
+        <Name>175th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-ces</Url>
+    <NameNode>175th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>175th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>175th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+        <Id>us/usaf/175-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MSG</HHQAcronym>
+        <Name>175th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-fss</Url>
+    <NameNode>175th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>175th Force Support Squadron, USAF</FullName>
+    <SplitName>175th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+        <Id>us/usaf/175-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MSG</HHQAcronym>
+        <Name>175th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-lrs</Url>
+    <NameNode>175th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>175th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>175th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+        <Id>us/usaf/175-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MSG</HHQAcronym>
+        <Name>175th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-sfs</Url>
+    <NameNode>175th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>175th Security Forces Squadron, USAF</FullName>
+    <SplitName>175th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-msg</Url>
+        <Id>us/usaf/175-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MSG</HHQAcronym>
+        <Name>175th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-mxg</Url>
+    <NameNode>175th Maintenance Group
+                            USAF</NameNode>
+    <FullName>175th Maintenance Group, USAF</FullName>
+    <SplitName>175th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-amxs</Url>
+        <FullName>175th Aircraft Maintenance Squadron</FullName>
+        <Name>175th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/175-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mxs</Url>
+        <FullName>175th Maintenance Squadron</FullName>
+        <Name>175th Maintenance Squadron</Name>
+        <Id>us/usaf/175-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mof</Url>
+        <FullName>175th Maintenance Operations Flight</FullName>
+        <Name>175th Maintenance Operations Flight</Name>
+        <Id>us/usaf/175-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-amxs</Url>
+    <NameNode>175th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>175th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>175th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mxg</Url>
+        <Id>us/usaf/175-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MXG</HHQAcronym>
+        <Name>175th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-mxs</Url>
+    <NameNode>175th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>175th Maintenance Squadron, USAF</FullName>
+    <SplitName>175th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mxg</Url>
+        <Id>us/usaf/175-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MXG</HHQAcronym>
+        <Name>175th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-mof</Url>
+    <NameNode>175th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>175th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>175th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-mxg</Url>
+        <Id>us/usaf/175-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th MXG</HHQAcronym>
+        <Name>175th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-mdg</Url>
+    <NameNode>175th Medical Group
+                            USAF</NameNode>
+    <FullName>175th Medical Group, USAF</FullName>
+    <SplitName>175th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-cptf</Url>
+    <NameNode>175th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>175th Comptroller Flight, USAF</FullName>
+    <SplitName>175th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/235-cef</Url>
+    <NameNode>235th Civil Engineer Flight
+                            USAF</NameNode>
+    <FullName>235th Civil Engineer Flight, USAF</FullName>
+    <SplitName>235th Civil Engineer Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Warfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middle River, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/warfield-angb</Url>
+        <Id>us/md/warfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/usafe</Url>
+        <Id>us/usaf/usafe</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USAFE</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>United States Air Forces in Europe</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/175-nws</Url>
+    <NameNode>175th Network Warfare Squadron
+                            USAF</NameNode>
+    <FullName>175th Network Warfare Squadron, USAF</FullName>
+    <SplitName>175th Network Warfare Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort George G. Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/fort-george-g-meade</Url>
+        <Id>us/md/fort-george-g-meade</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/175-wg</Url>
+        <Id>us/usaf/175-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>175th Wing</HHQAcronym>
+        <Name>175th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

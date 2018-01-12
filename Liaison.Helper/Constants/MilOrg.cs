@@ -13,6 +13,7 @@ namespace Liaison.Helper.Constants
         public const string Infantry = "Infantry";
         public const string Armoured = "Armoured";
         public const string Cavalry = "Cavalry";
+        public const string HH = "Headquarters and Headquarters";
 
         public const string FieldArmy = "Army";
         public const string Corps = "Corps";
@@ -21,8 +22,11 @@ namespace Liaison.Helper.Constants
         public const string BrigadeCT = "Brigade Combat Team";
         public const string Company = "Company";
         public const string Battalion = "Battalion";
+        public const string Detachment = "Detachment";
 
-        public static string BattalionHHB = "Headquarters and Headquarters Battalion";
+        public const string BattalionHHB = HH + " "+ Battalion;
+        public const string DetachmentHHD = HH + " " + Detachment;
+
     }
     public class ShortForm
     {
@@ -37,6 +41,7 @@ namespace Liaison.Helper.Constants
         public const string Infantry = "Inf";
         public const string Armoured = "Arm";
         public const string Cavalry = "Cav";
+        public static string HHD = "HHD";
 
         public const string FieldArmy = "Army";
         public const string Corps = "Corps";
@@ -45,6 +50,7 @@ namespace Liaison.Helper.Constants
         public const string BrigadeCT = "BCT";
         public const string Company = "Coy";
         public const string Battalion = "Bn";
+        public const string Detachment = "Det";
     }
 
     public class Symbol
@@ -59,5 +65,7 @@ namespace Liaison.Helper.Constants
         public const char fleetsqn = '/', regiment = '/', wing = '/';
         public const char sqn = '@', battalion = '@';
         public const char flight = '|', company = '|', battery = '|';
+        public const char hq = '!';
+        public const char det = '?';
     }
 }

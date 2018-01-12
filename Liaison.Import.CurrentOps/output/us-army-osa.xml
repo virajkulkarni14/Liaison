@@ -45,6 +45,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/ceac</Url>
@@ -66,6 +68,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/fincom</Url>
@@ -87,5 +91,7 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
 </ArrayOfCurrentOpsObject>

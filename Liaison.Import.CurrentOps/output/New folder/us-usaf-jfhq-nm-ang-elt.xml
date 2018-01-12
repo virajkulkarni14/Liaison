@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-nm/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ New Mexico
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ New Mexico, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ New Mexico</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-nm</Url>
+        <Id>us/ng/jfhq-nm</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ New Mexico</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters New Mexico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/150-sow</Url>
+        <FullName>150th Special Operations Wing</FullName>
+        <Name>150th Special Operations Wing</Name>
+        <Id>us/usaf/150-sow</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/150-sow</Url>
+    <NameNode>150th Special Operations Wing
+                            USAF</NameNode>
+    <FullName>150th Special Operations Wing, USAF</FullName>
+    <SplitName>150th Special Operations Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kirtland Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Albuquerque, New Mexico, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nm/kirtland-afb</Url>
+        <Id>us/nm/kirtland-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/aetc</Url>
+        <Id>us/usaf/aetc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>AETC</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Air Education and Training Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-nm/ang-elt</Url>
+        <Id>us/usaf/jfhq-nm/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New Mexico</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New Mexico</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -8,6 +8,108 @@ namespace Liaison.Biz.Tests.Strings
 {
    public static class DivisionString
     {
+        public static string army_1_div_west = @"<CurrentOpsObject>
+<Url>
+https://currentops.com/unit/us/army/1-army/div-west
+</Url>
+<NameNode>
+Division West, 1st Army U.S. Army
+</NameNode>
+<FullName>Division West, 1st Army, U.S. Army</FullName>
+<SplitName>Division West, 1st Army</SplitName>
+<Service>U.S. Army</Service>
+<LogoUrl>
+https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.
+</LogoUrl>
+<Locations>
+<LocationObject>
+<DateRange>... - Present</DateRange>
+<BaseName>Fort Hood</BaseName>
+<Deployment>false</Deployment>
+<Location>Killeen, Texas, United States</Location>
+<IsCurrent>true</IsCurrent>
+<Url>
+https://currentops.com/installations/us/tx/fort-hood
+</Url>
+<Id>us/tx/fort-hood</Id>
+</LocationObject>
+</Locations>
+<HigherHq>
+<HigherHqObject>
+<Url>https://currentops.com/unit/us/army/1-army</Url>
+<Id>us/army/1-army</Id>
+<DateRange>... - Present</DateRange>
+<IsCurrent>true</IsCurrent>
+<HHQAcronym>1st Army</HHQAcronym>
+<Type>Assigned</Type>
+<Name>1st Army</Name>
+</HigherHqObject>
+</HigherHq>
+<Children>
+<SubUnitObject>
+<Url>
+https://currentops.com/unit/us/army/1-army/div-west/hhd
+</Url>
+<FullName>
+Headquarters and Headquarters Detachment, Division West, 1st Army
+</FullName>
+<Name>Headquarters and Headquarters Detachment</Name>
+<Id>us/army/1-army/div-west/hhd</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/5-armored-bde</Url>
+<FullName>5th Armored Brigade</FullName>
+<Name>5th Armored Brigade</Name>
+<Id>us/army/5-armored-bde</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/120-in-bde</Url>
+<FullName>120th Infantry Brigade</FullName>
+<Name>120th Infantry Brigade</Name>
+<Id>us/army/120-in-bde</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/181-in-bde</Url>
+<FullName>181st Infantry Brigade</FullName>
+<Name>181st Infantry Brigade</Name>
+<Id>us/army/181-in-bde</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/189-in-bde</Url>
+<FullName>189th Infantry Brigade</FullName>
+<Name>189th Infantry Brigade</Name>
+<Id>us/army/189-in-bde</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/402-fa-bde</Url>
+<FullName>402nd Field Artillery Brigade</FullName>
+<Name>402nd Field Artillery Brigade</Name>
+<Id>us/army/402-fa-bde</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/166-avn-bde</Url>
+<FullName>166th Aviation Brigade</FullName>
+<Name>166th Aviation Brigade</Name>
+<Id>us/army/166-avn-bde</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+<SubUnitObject>
+<Url>https://currentops.com/unit/us/army/85-arsc</Url>
+<FullName>85th Army Reserve Support Command</FullName>
+<Name>
+85th Army Reserve Support Command (USAR)
+</Name>
+<Id>us/army/85-arsc</Id>
+<IsIndirect>false</IsIndirect>
+</SubUnitObject>
+</Children>
+</CurrentOpsObject>";
         public static string army_1_div_east = @"<CurrentOpsObject>
 <Url>
 https://currentops.com/unit/us/army/1-army/div-east

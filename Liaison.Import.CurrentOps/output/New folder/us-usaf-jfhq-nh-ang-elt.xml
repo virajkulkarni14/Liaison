@@ -1,0 +1,724 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-nh/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ New Hampshire
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ New Hampshire, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ New Hampshire</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-nh</Url>
+        <Id>us/ng/jfhq-nh</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ New Hampshire</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters New Hampshire</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+        <FullName>157th Air Refueling Wing</FullName>
+        <Name>157th Air Refueling Wing</Name>
+        <Id>us/usaf/157-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+    <NameNode>157th Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>157th Air Refueling Wing, USAF</FullName>
+    <SplitName>157th Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-nh/ang-elt</Url>
+        <Id>us/usaf/jfhq-nh/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ New Hampshire</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters New Hampshire</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-og</Url>
+        <FullName>157th Operations Group</FullName>
+        <Name>157th Operations Group</Name>
+        <Id>us/usaf/157-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+        <FullName>157th Mission Support Group</FullName>
+        <Name>157th Mission Support Group</Name>
+        <Id>us/usaf/157-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mxg</Url>
+        <FullName>157th Maintenance Group</FullName>
+        <Name>157th Maintenance Group</Name>
+        <Id>us/usaf/157-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mdg</Url>
+        <FullName>157th Medical Group</FullName>
+        <Name>157th Medical Group</Name>
+        <Id>us/usaf/157-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-cptf</Url>
+        <FullName>157th Comptroller Flight</FullName>
+        <Name>157th Comptroller Flight</Name>
+        <Id>us/usaf/157-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-og</Url>
+    <NameNode>157th Operations Group
+                            USAF</NameNode>
+    <FullName>157th Operations Group, USAF</FullName>
+    <SplitName>157th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+        <Id>us/usaf/157-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th ARW</HHQAcronym>
+        <Name>157th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-ars</Url>
+        <FullName>133rd Air Refueling Squadron</FullName>
+        <Name>133rd Air Refueling Squadron</Name>
+        <Id>us/usaf/133-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/64-ars</Url>
+        <FullName>64th Air Refueling Squadron</FullName>
+        <Name>64th Air Refueling Squadron
+
+                    (USAF [AC])</Name>
+        <Id>us/usaf/64-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/260-atcs</Url>
+        <FullName>260th Air Traffic Control Squadron</FullName>
+        <Name>260th Air Traffic Control Squadron</Name>
+        <Id>us/usaf/260-atcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-osf</Url>
+        <FullName>157th Operations Support Flight</FullName>
+        <Name>157th Operations Support Flight</Name>
+        <Id>us/usaf/157-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-ars</Url>
+    <NameNode>133rd Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>133rd Air Refueling Squadron, USAF</FullName>
+    <SplitName>133rd Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-og</Url>
+        <Id>us/usaf/157-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th Operations Group</HHQAcronym>
+        <Name>157th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/64-ars</Url>
+    <NameNode>64th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>64th Air Refueling Squadron, USAF</FullName>
+    <SplitName>64th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/22-og</Url>
+        <Id>us/usaf/22-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>22nd Operations Group</HHQAcronym>
+        <Name>22nd Operations Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-og</Url>
+        <Id>us/usaf/157-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th Operations Group</HHQAcronym>
+        <Name>157th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/260-atcs</Url>
+    <NameNode>260th Air Traffic Control Squadron
+                            USAF</NameNode>
+    <FullName>260th Air Traffic Control Squadron, USAF</FullName>
+    <SplitName>260th Air Traffic Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-og</Url>
+        <Id>us/usaf/157-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th Operations Group</HHQAcronym>
+        <Name>157th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-osf</Url>
+    <NameNode>157th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>157th Operations Support Flight, USAF</FullName>
+    <SplitName>157th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-og</Url>
+        <Id>us/usaf/157-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th Operations Group</HHQAcronym>
+        <Name>157th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+    <NameNode>157th Mission Support Group
+                            USAF</NameNode>
+    <FullName>157th Mission Support Group, USAF</FullName>
+    <SplitName>157th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+        <Id>us/usaf/157-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th ARW</HHQAcronym>
+        <Name>157th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-ces</Url>
+        <FullName>157th Civil Engineer Squadron</FullName>
+        <Name>157th Civil Engineer Squadron</Name>
+        <Id>us/usaf/157-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-fss</Url>
+        <FullName>157th Force Support Squadron</FullName>
+        <Name>157th Force Support Squadron</Name>
+        <Id>us/usaf/157-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-lrs</Url>
+        <FullName>157th Logistics Readiness Squadron</FullName>
+        <Name>157th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/157-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-sfs</Url>
+        <FullName>157th Security Forces Squadron</FullName>
+        <Name>157th Security Forces Squadron</Name>
+        <Id>us/usaf/157-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-cf</Url>
+        <FullName>157th Communications Flight</FullName>
+        <Name>157th Communications Flight</Name>
+        <Id>us/usaf/157-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-ces</Url>
+    <NameNode>157th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>157th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>157th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+        <Id>us/usaf/157-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MSG</HHQAcronym>
+        <Name>157th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-fss</Url>
+    <NameNode>157th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>157th Force Support Squadron, USAF</FullName>
+    <SplitName>157th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+        <Id>us/usaf/157-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MSG</HHQAcronym>
+        <Name>157th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-lrs</Url>
+    <NameNode>157th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>157th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>157th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+        <Id>us/usaf/157-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MSG</HHQAcronym>
+        <Name>157th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-sfs</Url>
+    <NameNode>157th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>157th Security Forces Squadron, USAF</FullName>
+    <SplitName>157th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+        <Id>us/usaf/157-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MSG</HHQAcronym>
+        <Name>157th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-cf</Url>
+    <NameNode>157th Communications Flight
+                            USAF</NameNode>
+    <FullName>157th Communications Flight, USAF</FullName>
+    <SplitName>157th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-msg</Url>
+        <Id>us/usaf/157-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MSG</HHQAcronym>
+        <Name>157th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-mxg</Url>
+    <NameNode>157th Maintenance Group
+                            USAF</NameNode>
+    <FullName>157th Maintenance Group, USAF</FullName>
+    <SplitName>157th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+        <Id>us/usaf/157-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th ARW</HHQAcronym>
+        <Name>157th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-amxs</Url>
+        <FullName>157th Aircraft Maintenance Squadron</FullName>
+        <Name>157th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/157-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mxs</Url>
+        <FullName>157th Maintenance Squadron</FullName>
+        <Name>157th Maintenance Squadron</Name>
+        <Id>us/usaf/157-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mof</Url>
+        <FullName>157th Maintenance Operations Flight</FullName>
+        <Name>157th Maintenance Operations Flight</Name>
+        <Id>us/usaf/157-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-amxs</Url>
+    <NameNode>157th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>157th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>157th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mxg</Url>
+        <Id>us/usaf/157-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MXG</HHQAcronym>
+        <Name>157th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-mxs</Url>
+    <NameNode>157th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>157th Maintenance Squadron, USAF</FullName>
+    <SplitName>157th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mxg</Url>
+        <Id>us/usaf/157-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MXG</HHQAcronym>
+        <Name>157th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-mof</Url>
+    <NameNode>157th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>157th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>157th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-mxg</Url>
+        <Id>us/usaf/157-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MXG</HHQAcronym>
+        <Name>157th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-mdg</Url>
+    <NameNode>157th Medical Group
+                            USAF</NameNode>
+    <FullName>157th Medical Group, USAF</FullName>
+    <SplitName>157th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+        <Id>us/usaf/157-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th ARW</HHQAcronym>
+        <Name>157th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-cptf</Url>
+    <NameNode>157th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>157th Comptroller Flight, USAF</FullName>
+    <SplitName>157th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pease Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, New Hampshire, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nh/pease-angb</Url>
+        <Id>us/nh/pease-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/157-arw</Url>
+        <Id>us/usaf/157-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th ARW</HHQAcronym>
+        <Name>157th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

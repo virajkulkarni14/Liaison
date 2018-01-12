@@ -1,0 +1,1411 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-mn/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Minnesota
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Minnesota, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Minnesota</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-mn</Url>
+        <Id>us/ng/jfhq-mn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Minnesota</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Minnesota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+        <FullName>133rd Airlift Wing</FullName>
+        <Name>133rd Airlift Wing</Name>
+        <Id>us/usaf/133-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+        <FullName>148th Fighter Wing</FullName>
+        <Name>148th Fighter Wing</Name>
+        <Id>us/usaf/148-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+    <NameNode>133rd Airlift Wing
+                            USAF</NameNode>
+    <FullName>133rd Airlift Wing, USAF</FullName>
+    <SplitName>133rd Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-mn/ang-elt</Url>
+        <Id>us/usaf/jfhq-mn/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Minnesota</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Minnesota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+        <FullName>133rd Operations Group</FullName>
+        <Name>133rd Operations Group</Name>
+        <Id>us/usaf/133-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <FullName>133rd Mission Support Group</FullName>
+        <Name>133rd Mission Support Group</Name>
+        <Id>us/usaf/133-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mxg</Url>
+        <FullName>133rd Maintenance Group</FullName>
+        <Name>133rd Maintenance Group</Name>
+        <Id>us/usaf/133-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mdg</Url>
+        <FullName>133rd Medical Group</FullName>
+        <Name>133rd Medical Group</Name>
+        <Id>us/usaf/133-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-cptf</Url>
+        <FullName>133rd Comptroller Flight</FullName>
+        <Name>133rd Comptroller Flight</Name>
+        <Id>us/usaf/133-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+    <NameNode>133rd Operations Group
+                            USAF</NameNode>
+    <FullName>133rd Operations Group, USAF</FullName>
+    <SplitName>133rd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+        <Id>us/usaf/133-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Airlift Wing</HHQAcronym>
+        <Name>133rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-as</Url>
+        <FullName>109th Airlift Squadron</FullName>
+        <Name>109th Airlift Squadron</Name>
+        <Id>us/usaf/109-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-aes</Url>
+        <FullName>109th Aeromedical Evacuation Squadron</FullName>
+        <Name>109th Aeromedical Evacuation Squadron</Name>
+        <Id>us/usaf/109-aes</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-acf</Url>
+        <FullName>133rd Airlift Control Flight</FullName>
+        <Name>133rd Airlift Control Flight</Name>
+        <Id>us/usaf/133-acf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-osf</Url>
+        <FullName>133rd Operations Support Flight</FullName>
+        <Name>133rd Operations Support Flight</Name>
+        <Id>us/usaf/133-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/208-wf</Url>
+        <FullName>208th Weather Flight</FullName>
+        <Name>208th Weather Flight</Name>
+        <Id>us/usaf/208-wf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-as</Url>
+    <NameNode>109th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>109th Airlift Squadron, USAF</FullName>
+    <SplitName>109th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+        <Id>us/usaf/133-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Operations Group</HHQAcronym>
+        <Name>133rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-aes</Url>
+    <NameNode>109th Aeromedical Evacuation Squadron
+                            USAF</NameNode>
+    <FullName>109th Aeromedical Evacuation Squadron, USAF</FullName>
+    <SplitName>109th Aeromedical Evacuation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+        <Id>us/usaf/133-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Operations Group</HHQAcronym>
+        <Name>133rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-acf</Url>
+    <NameNode>133rd Airlift Control Flight
+                            USAF</NameNode>
+    <FullName>133rd Airlift Control Flight, USAF</FullName>
+    <SplitName>133rd Airlift Control Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+        <Id>us/usaf/133-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Operations Group</HHQAcronym>
+        <Name>133rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-osf</Url>
+    <NameNode>133rd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>133rd Operations Support Flight, USAF</FullName>
+    <SplitName>133rd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+        <Id>us/usaf/133-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Operations Group</HHQAcronym>
+        <Name>133rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/208-wf</Url>
+    <NameNode>208th Weather Flight
+                            USAF</NameNode>
+    <FullName>208th Weather Flight, USAF</FullName>
+    <SplitName>208th Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-og</Url>
+        <Id>us/usaf/133-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Operations Group</HHQAcronym>
+        <Name>133rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+    <NameNode>133rd Mission Support Group
+                            USAF</NameNode>
+    <FullName>133rd Mission Support Group, USAF</FullName>
+    <SplitName>133rd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+        <Id>us/usaf/133-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Airlift Wing</HHQAcronym>
+        <Name>133rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-ces</Url>
+        <FullName>133rd Civil Engineer Squadron</FullName>
+        <Name>133rd Civil Engineer Squadron</Name>
+        <Id>us/usaf/133-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-fss</Url>
+        <FullName>133rd Force Support Squadron</FullName>
+        <Name>133rd Force Support Squadron</Name>
+        <Id>us/usaf/133-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-lrs</Url>
+        <FullName>133rd Logistics Readiness Squadron</FullName>
+        <Name>133rd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/133-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/210-eis</Url>
+        <FullName>210th Engineering Installation Squadron</FullName>
+        <Name>210th Engineering Installation Squadron</Name>
+        <Id>us/usaf/210-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-cf</Url>
+        <FullName>133rd Communications Flight</FullName>
+        <Name>133rd Communications Flight</Name>
+        <Id>us/usaf/133-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-sfs</Url>
+        <FullName>133rd Security Forces Squadron</FullName>
+        <Name>133rd Security Forces Squadron</Name>
+        <Id>us/usaf/133-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-ces</Url>
+    <NameNode>133rd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>133rd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>133rd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <Id>us/usaf/133-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MSG</HHQAcronym>
+        <Name>133rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-fss</Url>
+    <NameNode>133rd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>133rd Force Support Squadron, USAF</FullName>
+    <SplitName>133rd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <Id>us/usaf/133-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MSG</HHQAcronym>
+        <Name>133rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-lrs</Url>
+    <NameNode>133rd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>133rd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>133rd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <Id>us/usaf/133-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MSG</HHQAcronym>
+        <Name>133rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/210-eis</Url>
+    <NameNode>210th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>210th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>210th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <Id>us/usaf/133-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MSG</HHQAcronym>
+        <Name>133rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-cf</Url>
+    <NameNode>133rd Communications Flight
+                            USAF</NameNode>
+    <FullName>133rd Communications Flight, USAF</FullName>
+    <SplitName>133rd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <Id>us/usaf/133-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MSG</HHQAcronym>
+        <Name>133rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-sfs</Url>
+    <NameNode>133rd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>133rd Security Forces Squadron, USAF</FullName>
+    <SplitName>133rd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-msg</Url>
+        <Id>us/usaf/133-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MSG</HHQAcronym>
+        <Name>133rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-mxg</Url>
+    <NameNode>133rd Maintenance Group
+                            USAF</NameNode>
+    <FullName>133rd Maintenance Group, USAF</FullName>
+    <SplitName>133rd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+        <Id>us/usaf/133-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Airlift Wing</HHQAcronym>
+        <Name>133rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-amxs</Url>
+        <FullName>133rd Aircraft Maintenance Squadron</FullName>
+        <Name>133rd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/133-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mxs</Url>
+        <FullName>133rd Maintenance Squadron</FullName>
+        <Name>133rd Maintenance Squadron</Name>
+        <Id>us/usaf/133-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mof</Url>
+        <FullName>133rd Maintenance Operations Flight</FullName>
+        <Name>133rd Maintenance Operations Flight</Name>
+        <Id>us/usaf/133-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-amxs</Url>
+    <NameNode>133rd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>133rd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>133rd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mxg</Url>
+        <Id>us/usaf/133-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MXG</HHQAcronym>
+        <Name>133rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-mxs</Url>
+    <NameNode>133rd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>133rd Maintenance Squadron, USAF</FullName>
+    <SplitName>133rd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mxg</Url>
+        <Id>us/usaf/133-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MXG</HHQAcronym>
+        <Name>133rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-mof</Url>
+    <NameNode>133rd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>133rd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>133rd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-mxg</Url>
+        <Id>us/usaf/133-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd MXG</HHQAcronym>
+        <Name>133rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-mdg</Url>
+    <NameNode>133rd Medical Group
+                            USAF</NameNode>
+    <FullName>133rd Medical Group, USAF</FullName>
+    <SplitName>133rd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+        <Id>us/usaf/133-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Airlift Wing</HHQAcronym>
+        <Name>133rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-cptf</Url>
+    <NameNode>133rd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>133rd Comptroller Flight, USAF</FullName>
+    <SplitName>133rd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minneapolis-St. Paul Joint Air Reserve Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minneapolis-St. Paul JARS | Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/minneapolis-st-paul-jars/ang</Url>
+        <Id>us/mn/minneapolis-st-paul-jars/ang</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/133-aw</Url>
+        <Id>us/usaf/133-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>133rd Airlift Wing</HHQAcronym>
+        <Name>133rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+    <NameNode>148th Fighter Wing
+                            USAF</NameNode>
+    <FullName>148th Fighter Wing, USAF</FullName>
+    <SplitName>148th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/1-af</Url>
+        <Id>us/usaf/1-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>1st Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-mn/ang-elt</Url>
+        <Id>us/usaf/jfhq-mn/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Minnesota</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Minnesota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-og</Url>
+        <FullName>148th Operations Group</FullName>
+        <Name>148th Operations Group</Name>
+        <Id>us/usaf/148-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+        <FullName>148th Mission Support Group</FullName>
+        <Name>148th Mission Support Group</Name>
+        <Id>us/usaf/148-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mxg</Url>
+        <FullName>148th Maintenance Group</FullName>
+        <Name>148th Maintenance Group</Name>
+        <Id>us/usaf/148-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mdg</Url>
+        <FullName>148th Medical Group</FullName>
+        <Name>148th Medical Group</Name>
+        <Id>us/usaf/148-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-cptf</Url>
+        <FullName>148th Comptroller Flight</FullName>
+        <Name>148th Comptroller Flight</Name>
+        <Id>us/usaf/148-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-og</Url>
+    <NameNode>148th Operations Group
+                            USAF</NameNode>
+    <FullName>148th Operations Group, USAF</FullName>
+    <SplitName>148th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+        <Id>us/usaf/148-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Fighter Wing</HHQAcronym>
+        <Name>148th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-fs</Url>
+        <FullName>179th Fighter Squadron</FullName>
+        <Name>179th Fighter Squadron</Name>
+        <Id>us/usaf/179-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-osf</Url>
+        <FullName>148th Operations Support Flight</FullName>
+        <Name>148th Operations Support Flight</Name>
+        <Id>us/usaf/148-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-fs</Url>
+    <NameNode>179th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>179th Fighter Squadron, USAF</FullName>
+    <SplitName>179th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-og</Url>
+        <Id>us/usaf/148-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Operations Group</HHQAcronym>
+        <Name>148th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-osf</Url>
+    <NameNode>148th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>148th Operations Support Flight, USAF</FullName>
+    <SplitName>148th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-og</Url>
+        <Id>us/usaf/148-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Operations Group</HHQAcronym>
+        <Name>148th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+    <NameNode>148th Mission Support Group
+                            USAF</NameNode>
+    <FullName>148th Mission Support Group, USAF</FullName>
+    <SplitName>148th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+        <Id>us/usaf/148-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Fighter Wing</HHQAcronym>
+        <Name>148th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-ces</Url>
+        <FullName>148th Civil Engineer Squadron</FullName>
+        <Name>148th Civil Engineer Squadron</Name>
+        <Id>us/usaf/148-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fss</Url>
+        <FullName>148th Force Support Squadron</FullName>
+        <Name>148th Force Support Squadron</Name>
+        <Id>us/usaf/148-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-lrs</Url>
+        <FullName>148th Logistics Readiness Squadron</FullName>
+        <Name>148th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/148-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-sfs</Url>
+        <FullName>148th Security Forces Squadron</FullName>
+        <Name>148th Security Forces Squadron</Name>
+        <Id>us/usaf/148-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-cf</Url>
+        <FullName>148th Communications Flight</FullName>
+        <Name>148th Communications Flight</Name>
+        <Id>us/usaf/148-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-ces</Url>
+    <NameNode>148th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>148th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>148th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+        <Id>us/usaf/148-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MSG</HHQAcronym>
+        <Name>148th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-fss</Url>
+    <NameNode>148th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>148th Force Support Squadron, USAF</FullName>
+    <SplitName>148th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+        <Id>us/usaf/148-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MSG</HHQAcronym>
+        <Name>148th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-lrs</Url>
+    <NameNode>148th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>148th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>148th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+        <Id>us/usaf/148-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MSG</HHQAcronym>
+        <Name>148th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-sfs</Url>
+    <NameNode>148th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>148th Security Forces Squadron, USAF</FullName>
+    <SplitName>148th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+        <Id>us/usaf/148-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MSG</HHQAcronym>
+        <Name>148th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-cf</Url>
+    <NameNode>148th Communications Flight
+                            USAF</NameNode>
+    <FullName>148th Communications Flight, USAF</FullName>
+    <SplitName>148th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-msg</Url>
+        <Id>us/usaf/148-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MSG</HHQAcronym>
+        <Name>148th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-mxg</Url>
+    <NameNode>148th Maintenance Group
+                            USAF</NameNode>
+    <FullName>148th Maintenance Group, USAF</FullName>
+    <SplitName>148th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+        <Id>us/usaf/148-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Fighter Wing</HHQAcronym>
+        <Name>148th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-amxs</Url>
+        <FullName>148th Aircraft Maintenance Squadron</FullName>
+        <Name>148th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/148-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mxs</Url>
+        <FullName>148th Maintenance Squadron</FullName>
+        <Name>148th Maintenance Squadron</Name>
+        <Id>us/usaf/148-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mof</Url>
+        <FullName>148th Maintenance Operations Flight</FullName>
+        <Name>148th Maintenance Operations Flight</Name>
+        <Id>us/usaf/148-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-amxs</Url>
+    <NameNode>148th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>148th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>148th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mxg</Url>
+        <Id>us/usaf/148-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MXG</HHQAcronym>
+        <Name>148th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-mxs</Url>
+    <NameNode>148th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>148th Maintenance Squadron, USAF</FullName>
+    <SplitName>148th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mxg</Url>
+        <Id>us/usaf/148-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MXG</HHQAcronym>
+        <Name>148th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-mof</Url>
+    <NameNode>148th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>148th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>148th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-mxg</Url>
+        <Id>us/usaf/148-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th MXG</HHQAcronym>
+        <Name>148th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-mdg</Url>
+    <NameNode>148th Medical Group
+                            USAF</NameNode>
+    <FullName>148th Medical Group, USAF</FullName>
+    <SplitName>148th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+        <Id>us/usaf/148-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Fighter Wing</HHQAcronym>
+        <Name>148th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-cptf</Url>
+    <NameNode>148th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>148th Comptroller Flight, USAF</FullName>
+    <SplitName>148th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duluth Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/duluth-angb</Url>
+        <Id>us/mn/duluth-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fw</Url>
+        <Id>us/usaf/148-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>148th Fighter Wing</HHQAcronym>
+        <Name>148th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

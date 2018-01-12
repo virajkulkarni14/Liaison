@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-vi/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ-VI
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ-VI, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ-VI</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-vi</Url>
+        <Id>us/ng/jfhq-vi</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ-VI</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Virgin Islands</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/285-ces</Url>
+        <FullName>285th Civil Engineer Squadron</FullName>
+        <Name>285th Civil Engineer Squadron</Name>
+        <Id>us/usaf/285-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/285-ces</Url>
+    <NameNode>285th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>285th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>285th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>St. Croix Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingshill, St. Croix, U.S. Virgin Islands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vi/st-croix-angs</Url>
+        <Id>us/vi/st-croix-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-vi/ang-elt</Url>
+        <Id>us/usaf/jfhq-vi/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ-VI</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Virgin Islands</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

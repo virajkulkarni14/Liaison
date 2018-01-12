@@ -17,48 +17,47 @@ namespace Liaison.Import.CurrentOps
 
             using (var webClient = new WebClient())
             {
-                
-                //var url = "https://currentops.com/unit/us/army/doa";
-                //var url = "https://currentops.com/unit/us/army/forscom";
+               // string[] urls = { "https://currentops.com/unit/us/army/doa", "https://currentops.com/unit/us/army/forscom" };
+                // string[] urls = { "https://currentops.com/unit/us/army/forscom" };
                 //var url = "https://currentops.com/unit/us/army/1-id";
                 //var url = "https://currentops.com/unit/us/army/6-cav/1-sqdn";
                 //var url = "https://currentops.com/unit/us/army/228-avn/2-bn";
 
-                //var url = "https://currentops.com/unit/us/army/usarc";
-                //var url = "https://currentops.com/unit/us/army/forscom";
-                //var url = "https://currentops.com/unit/us/army/1-army";
+                    //var url = "https://currentops.com/unit/us/army/usarc";
+                    //var url = "https://currentops.com/unit/us/army/forscom";
+                    //string[] urls = { "https://currentops.com/unit/us/army/1-army" };
 
-                //string[] urls = { "https://currentops.com/unit/us/army/osa",
-                //    "https://currentops.com/unit/us/army/tradoc",
-                //    "https://currentops.com/unit/us/army/amc",    
-                //    "https://currentops.com/unit/us/army/usarpac",
-                //    "https://currentops.com/unit/us/army/usarcent",
-                //    "https://currentops.com/unit/us/army/usareur",
-                //    "https://currentops.com/unit/us/army/usarnorth",
-                //    "https://currentops.com/unit/us/army/usasoc",
-                //    "https://currentops.com/unit/us/army/arstrat",
-                //    "https://currentops.com/unit/us/army/arcyber",
-                //    "https://currentops.com/unit/us/army/usarso",
-                //    "https://currentops.com/unit/us/army/usaraf",
-                //    "https://currentops.com/unit/us/army/sddc",
-                //    "https://currentops.com/unit/us/army/imcom",
-                //    "https://currentops.com/unit/us/army/usace",
-                //    "https://currentops.com/unit/us/army/medcom",
-                //    "https://currentops.com/unit/us/army/usma",
-                //    "https://currentops.com/unit/us/army/netcom",
-                //    "https://currentops.com/unit/us/army/inscom",
-                //    "https://currentops.com/unit/us/army/mdw",
-                //    "https://currentops.com/unit/us/army/usacidc",
-                //    "https://currentops.com/unit/us/army/atec",
-                //    "https://currentops.com/unit/us/army/usaasc",
-                //    "https://currentops.com/unit/us/army/us-army-corrections-cmd"
-                //};
-                //string[] urls =
-                //{
-                //    "https://currentops.com/unit/us/usn/cno",
-                //    "https://currentops.com/unit/us/usmc/usmc"
-                //};
-                string[] urls = GetNationalGuard();
+                    //string[] urls = { "https://currentops.com/unit/us/army/osa",
+                    //    "https://currentops.com/unit/us/army/tradoc",
+                    //    "https://currentops.com/unit/us/army/amc",
+                    //    "https://currentops.com/unit/us/army/usarpac",
+                    //    "https://currentops.com/unit/us/army/usarcent",
+                    //    "https://currentops.com/unit/us/army/usareur",
+                    //    "https://currentops.com/unit/us/army/usarnorth",
+                    //    "https://currentops.com/unit/us/army/usasoc",
+                    //    "https://currentops.com/unit/us/army/arstrat",
+                    //    "https://currentops.com/unit/us/army/arcyber",
+                    //    "https://currentops.com/unit/us/army/usarso",
+                    //    "https://currentops.com/unit/us/army/usaraf",
+                    //    "https://currentops.com/unit/us/army/sddc",
+                    //    "https://currentops.com/unit/us/army/imcom",
+                    //    "https://currentops.com/unit/us/army/usace",
+                    //    "https://currentops.com/unit/us/army/medcom",
+                    //    "https://currentops.com/unit/us/army/usma",
+                    //    "https://currentops.com/unit/us/army/netcom",
+                    //    "https://currentops.com/unit/us/army/inscom",
+                    //    "https://currentops.com/unit/us/army/mdw",
+                    //    "https://currentops.com/unit/us/army/usacidc",
+                    //    "https://currentops.com/unit/us/army/atec",
+                    //    "https://currentops.com/unit/us/army/usaasc",
+                    //    "https://currentops.com/unit/us/army/us-army-corrections-cmd"
+                    //};
+                string[] urls =
+                {
+                  //  "https://currentops.com/unit/us/usn/cno",
+                    "https://currentops.com/unit/us/usmc/usmc"
+                };
+              // string[] urls = GetNationalGuard();
                 //string[] urls = GetUCCs();
 
                 foreach (var url in urls)
@@ -74,7 +73,7 @@ namespace Liaison.Import.CurrentOps
                     //XmlSerializerNamespaces ns = new XmlSerializerNamespaces();
                     //ns.Add("", "");
 
-                    System.IO.FileStream file = System.IO.File.Create("C:\\repos\\Liaison\\Liaison.Import.CurrentOps\\output\\" + unitcodefilename + ".xml");
+                    System.IO.FileStream file = System.IO.File.Create("D:\\repos\\Liaison\\Liaison.Import.CurrentOps\\output\\" + unitcodefilename + ".xml");
 
                     writer.Serialize(file, masterlist);
                     masterlist = new List<CurrentOpsObject>();
@@ -88,10 +87,10 @@ namespace Liaison.Import.CurrentOps
 
         private static void GetWebSite(WebClient webClient, string url)
         {
-            if (url == "https://currentops.com/unit/us/army/usarc")
-            {
-                return;
-            }
+            //if (url == "https://currentops.com/unit/us/army/usarc")
+            //{
+            //    return;
+            //}
             Console.WriteLine("Scanning " + url);
             string html = webClient.DownloadString(url);
             var doc = new HtmlDocument();
@@ -100,7 +99,7 @@ namespace Liaison.Import.CurrentOps
             var obj = new Biz.Objects.CurrentOpsObject();
 
             var titleNode = doc.DocumentNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "page-header").Where(n => n.InnerHtml.Contains("<h1>")).FirstOrDefault();
-
+            var componentNode = doc.DocumentNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "dl-horizontal").Where(n => n.InnerHtml.Contains("Component")).FirstOrDefault();
             var nameText = titleNode.InnerText.Trim();
 
             var fullname = GetTitle(nameText);
@@ -113,6 +112,7 @@ namespace Liaison.Import.CurrentOps
             obj.Service = split[1];
             obj.LogoUrl = GetLogoUrl(titleNode.InnerHtml.Trim());
 
+            GetServiceAndComponent(componentNode, obj);
             //var baseNode = doc.DocumentNode.Descendants().Where(n => n.GetAttributeValue("class", "") == "list-group").Where(n => n.InnerHtml.Contains("<a href")).FirstOrDefault();
 
             var locations = new List<LocationObject>();
@@ -151,7 +151,61 @@ namespace Liaison.Import.CurrentOps
             }
         }
 
-
+        private static void GetServiceAndComponent(HtmlNode componentNode, CurrentOpsObject obj)
+        {
+            if (componentNode.InnerHtml.Contains("U.S. Army (AC)") || componentNode.InnerHtml.Contains("<dd>U.S. Army</dd>") || componentNode.InnerHtml.Contains("<dd>APS</dd>"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Army;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+            }
+            else if (componentNode.InnerHtml.Contains("USAF (AC)"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.AirForce;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+            }
+            else if (componentNode.InnerHtml.Contains("USAR"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Army;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Reserve;
+            }
+            else if (componentNode.InnerHtml.Contains("ARNG"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Army;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Volunteer;
+                obj.UnitNGState = componentNode.ChildNodes.Where(n => n.Name == "dd").FirstOrDefault().InnerText.Substring(0, 2);
+                // do the state as well, eg OK from OK ARNG
+            }
+            else if (componentNode.InnerHtml.Contains("ANG"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.AirForce;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Volunteer;
+                obj.UnitNGState = componentNode.ChildNodes.Where(n => n.Name == "dd").FirstOrDefault().InnerText.Substring(0, 2);
+            }
+            else if (componentNode.InnerHtml.Contains("U.S. (Joint)"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Joint;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+            }
+            else if (componentNode.InnerHtml.Contains("USN (AC)"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Navy;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+            }
+            else if (componentNode.InnerHtml.Contains("USMC"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Marines;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+            }
+            else if (componentNode.InnerHtml.Contains("USNR"))
+            {
+                obj.UnitService = Helper.Enumerators.Services.Navy;
+                obj.UnitComponent = Helper.Enumerators.ServiceType.Reserve;
+            }
+            else
+            {
+                throw new Exception();
+            }
+        }
 
         private static List<SubUnitObject> GetChildren(IEnumerable<HtmlNode> details)
         {

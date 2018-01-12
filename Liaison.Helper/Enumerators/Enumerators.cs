@@ -17,11 +17,13 @@ namespace Liaison.Helper.Enumerators
     }
     public enum UnitType
     {
-        FieldArmy=7,
+        Detachment = 4,
+        FieldArmy =7,
         Division = 9,
         Brigade = 10,
         Battalion = 12,
         Company = 13,
+
     }
 
     public enum HigherHqType

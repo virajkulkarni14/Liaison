@@ -1,0 +1,2708 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-sd/arng-elt</Url>
+    <NameNode>Army National Guard Element, JFHQ South Dakota
+                            U.S. Army</NameNode>
+    <FullName>Army National Guard Element, JFHQ South Dakota, U.S. Army</FullName>
+    <SplitName>Army National Guard Element, JFHQ South Dakota</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBTRCBBUk5HIEVMVA.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Rapid</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/camp-rapid</Url>
+        <Id>us/sd/camp-rapid</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-sd</Url>
+        <Id>us/ng/jfhq-sd</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ South Dakota</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters South Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <FullName>196th Maneuver Enhancement Brigade</FullName>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+        <Id>us/army/196-meb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/109-rsg</Url>
+        <FullName>109th Regional Support Group</FullName>
+        <Name>109th Regional Support Group</Name>
+        <Id>us/army/109-rsg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/196-rgt</Url>
+        <FullName>196th Regiment</FullName>
+        <Name>196th Regiment</Name>
+        <Id>us/army/196-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/196-meb</Url>
+    <NameNode>196th Maneuver Enhancement Brigade
+                            U.S. Army</NameNode>
+    <FullName>196th Maneuver Enhancement Brigade, U.S. Army</FullName>
+    <SplitName>196th Maneuver Enhancement Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTUVCIDAxOTY.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/34-id</Url>
+        <Id>us/army/34-id</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>34th Infantry Division</HHQAcronym>
+        <Name>34th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-sd/arng-elt</Url>
+        <Id>us/army/jfhq-sd/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ South Dakota</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters South Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/196-meb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 196th Maneuver Enhancement Brigade</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/196-meb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <FullName>139th Brigade Support Battalion</FullName>
+        <Name>139th Brigade Support Battalion</Name>
+        <Id>us/army/139-bsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-sc-co</Url>
+        <FullName>115th Signal Company</FullName>
+        <Name>115th Signal Company</Name>
+        <Id>us/army/115-sc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <FullName>1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+        <Id>us/army/147-fa/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <FullName>153rd Engineer Battalion</FullName>
+        <Name>153rd Engineer Battalion</Name>
+        <Id>us/army/153-engr-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/196-meb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 196th MEB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 196th MEB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 196th MEB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+    <NameNode>139th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>139th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>139th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brookings Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brookings, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/brookings-armory</Url>
+        <Id>us/sd/brookings-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 139th Brigade Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/139-bsb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb/co-a</Url>
+        <FullName>Company A, 139th Brigade Support Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/139-bsb/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb/co-b</Url>
+        <FullName>Company B, 139th Brigade Support Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/139-bsb/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-sc-co</Url>
+        <FullName>115th Signal Company</FullName>
+        <Name>115th Signal Company</Name>
+        <Id>us/army/115-sc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/235-mp-co</Url>
+        <FullName>235th Military Police Company</FullName>
+        <Name>235th Military Police Company</Name>
+        <Id>us/army/235-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/139-bsb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 139th BSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 139th BSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 139th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brookings Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brookings, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/brookings-armory</Url>
+        <Id>us/sd/brookings-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <Id>us/army/139-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>139th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>139th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/139-bsb/co-a</Url>
+    <NameNode>Company A, 139th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 139th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 139th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Redfield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redfield, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/redfield-armory</Url>
+        <Id>us/sd/redfield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <Id>us/army/139-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>139th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>139th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/139-bsb/co-b</Url>
+    <NameNode>Company B, 139th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 139th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 139th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mitchell Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mitchell, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/mitchell-armory</Url>
+        <Id>us/sd/mitchell-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <Id>us/army/139-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>139th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>139th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-sc-co</Url>
+    <NameNode>115th Signal Company
+                            U.S. Army</NameNode>
+    <FullName>115th Signal Company, U.S. Army</FullName>
+    <SplitName>115th Signal Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brookings Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brookings, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/brookings-armory</Url>
+        <Id>us/sd/brookings-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <Id>us/army/139-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>139th BSB</HHQAcronym>
+        <Name>139th Brigade Support Battalion</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/235-mp-co</Url>
+    <NameNode>235th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>235th Military Police Company, U.S. Army</FullName>
+    <SplitName>235th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Range Road Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/range-road-armory</Url>
+        <Id>us/sd/range-road-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <Id>us/army/139-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>139th BSB</HHQAcronym>
+        <Name>139th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/235-mp-co/det-1</Url>
+        <FullName>Detachment 1, 235th Military Police Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/235-mp-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/235-mp-co/det-1</Url>
+    <NameNode>Detachment 1, 235th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 235th Military Police Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 235th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/235-mp-co</Url>
+        <Id>us/army/235-mp-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>235th MP Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>235th Military Police Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-sc-co</Url>
+    <NameNode>115th Signal Company
+                            U.S. Army</NameNode>
+    <FullName>115th Signal Company, U.S. Army</FullName>
+    <SplitName>115th Signal Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brookings Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brookings, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/brookings-armory</Url>
+        <Id>us/sd/brookings-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/139-bsb</Url>
+        <Id>us/army/139-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>139th BSB</HHQAcronym>
+        <Name>139th Brigade Support Battalion</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+    <NameNode>1st Battalion, 147th Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 147th Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 147th Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Watertown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-armory</Url>
+        <Id>us/sd/watertown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/147-fa/1-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-a</Url>
+        <FullName>Battery A, 1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/147-fa/1-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-b</Url>
+        <FullName>Battery B, 1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/147-fa/1-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+        <FullName>147th Forward Support Company</FullName>
+        <Name>147th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/147-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn/hhb</Url>
+    <NameNode>HHB, 1st Bn, 147th FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 1st Bn, 147th FA, U.S. Army</FullName>
+    <SplitName>HHB, 1st Bn, 147th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Watertown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-armory</Url>
+        <Id>us/sd/watertown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-a</Url>
+    <NameNode>Battery A, 1st Battalion, 147th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 1st Battalion, 147th FA, U.S. Army</FullName>
+    <SplitName>Battery A, 1st Battalion, 147th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Charles J. Milbrandt Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/charles-j-milbrandt-afrc</Url>
+        <Id>us/sd/charles-j-milbrandt-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-b</Url>
+    <NameNode>Battery B, 1st Battalion, 147th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 1st Battalion, 147th FA, U.S. Army</FullName>
+    <SplitName>Battery B, 1st Battalion, 147th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Yankton Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yankton, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/yankton-armory</Url>
+        <Id>us/sd/yankton-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+    <NameNode>147th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>147th Forward Support Company, U.S. Army</FullName>
+    <SplitName>147th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mitchell Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mitchell, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/mitchell-armory</Url>
+        <Id>us/sd/mitchell-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc/det-1</Url>
+        <FullName>Detachment 1, 147th Forward Support Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/147-fsc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc/det-2</Url>
+        <FullName>Detachment 2, 147th Forward Support Company</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/147-fsc/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fsc/det-1</Url>
+    <NameNode>Detachment 1, 147th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 147th Forward Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 147th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+        <Id>us/army/147-fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>147th FSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>147th Forward Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fsc/det-2</Url>
+    <NameNode>Detachment 2, 147th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, 147th Forward Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 2, 147th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Webster Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Webster, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/webster-armory</Url>
+        <Id>us/sd/webster-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+        <Id>us/army/147-fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>147th FSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>147th Forward Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+    <NameNode>153rd Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>153rd Engineer Battalion, U.S. Army</FullName>
+    <SplitName>153rd Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Huron Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Huron, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/huron-armory</Url>
+        <Id>us/sd/huron-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 153rd Engineer Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/153-engr-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn/fsc</Url>
+        <FullName>Forward Support Company, 153rd Engineer Battalion</FullName>
+        <Name>Forward Support Company</Name>
+        <Id>us/army/153-engr-bn/fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/155-engr-co</Url>
+        <FullName>155th Engineer Company</FullName>
+        <Name>155th Engineer Company</Name>
+        <Id>us/army/155-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/200-engr-co</Url>
+        <FullName>200th Engineer Company</FullName>
+        <Name>200th Engineer Company</Name>
+        <Id>us/army/200-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/211-engr-co</Url>
+        <FullName>211th Engineer Company</FullName>
+        <Name>211th Engineer Company</Name>
+        <Id>us/army/211-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/842-engr-co</Url>
+        <FullName>842nd Engineer Company</FullName>
+        <Name>842nd Engineer Company</Name>
+        <Id>us/army/842-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/927-engr-det</Url>
+        <FullName>927th Engineer Detachment</FullName>
+        <Name>927th Engineer Detachment</Name>
+        <Id>us/army/927-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/153-engr-bn/hhc</Url>
+    <NameNode>HHC, 153rd Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 153rd Engr Bn, U.S. Army</FullName>
+    <SplitName>HHC, 153rd Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Huron Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Huron, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/huron-armory</Url>
+        <Id>us/sd/huron-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/153-engr-bn/fsc</Url>
+    <NameNode>Forward Support Company, 153rd Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Forward Support Company, 153rd Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Forward Support Company, 153rd Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Parkston Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parkston, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/parkston-armory</Url>
+        <Id>us/sd/parkston-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn/fsc/det-1</Url>
+        <FullName>Detachment 1, Forward Support Company, 153rd Engineer Battalion</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/153-engr-bn/fsc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/153-engr-bn/fsc/det-1</Url>
+    <NameNode>Detachment 1, FSC, 153rd Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, FSC, 153rd Engr Bn, U.S. Army</FullName>
+    <SplitName>Detachment 1, FSC, 153rd Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Huron Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Huron, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/huron-armory</Url>
+        <Id>us/sd/huron-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn/fsc</Url>
+        <Id>us/army/153-engr-bn/fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>FSC, 153rd Engr Bn</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Forward Support Company, 153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/155-engr-co</Url>
+    <NameNode>155th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>155th Engineer Company, U.S. Army</FullName>
+    <SplitName>155th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Range Road Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/range-road-armory</Url>
+        <Id>us/sd/range-road-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/155-engr-co/det-1</Url>
+        <FullName>Detachment 1, 155th Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/155-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/155-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 155th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 155th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 155th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wagner Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wagner, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/wagner-armory</Url>
+        <Id>us/sd/wagner-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/155-engr-co</Url>
+        <Id>us/army/155-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>155th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>155th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/200-engr-co</Url>
+    <NameNode>200th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>200th Engineer Company, U.S. Army</FullName>
+    <SplitName>200th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pierre Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pierre, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/pierre-armory</Url>
+        <Id>us/sd/pierre-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/200-engr-co/det-1</Url>
+        <FullName>Detachment 1, 200th Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/200-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/200-engr-co/det-2</Url>
+        <FullName>Detachment 2, 200th Engineer Company</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/200-engr-co/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/200-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 200th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 200th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 200th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Chamberlain Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chamberlain, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/chamberlain-armory</Url>
+        <Id>us/sd/chamberlain-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/200-engr-co</Url>
+        <Id>us/army/200-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>200th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>200th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/200-engr-co/det-2</Url>
+    <NameNode>Detachment 2, 200th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, 200th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 2, 200th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mobridge Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mobridge, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/mobridge-armory</Url>
+        <Id>us/sd/mobridge-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/200-engr-co</Url>
+        <Id>us/army/200-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>200th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>200th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/211-engr-co</Url>
+    <NameNode>211th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>211th Engineer Company, U.S. Army</FullName>
+    <SplitName>211th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Madison Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Madison, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/madison-armory</Url>
+        <Id>us/sd/madison-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/211-engr-co/det-1</Url>
+        <FullName>Detachment 1, 211th Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/211-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/211-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 211th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 211th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 211th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>De Smet Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>De Smet, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/de-smet-armory</Url>
+        <Id>us/sd/de-smet-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/211-engr-co</Url>
+        <Id>us/army/211-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>211th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>211th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/842-engr-co</Url>
+    <NameNode>842nd Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>842nd Engineer Company, U.S. Army</FullName>
+    <SplitName>842nd Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Spearfish Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Spearfish, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/spearfish-armory</Url>
+        <Id>us/sd/spearfish-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/842-engr-co/det-1</Url>
+        <FullName>Detachment 1, 842nd Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/842-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/842-engr-co/det-2</Url>
+        <FullName>Detachment 2, 842nd Engineer Company</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/842-engr-co/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/842-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 842nd Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 842nd Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 842nd Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Edwin Petranek Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Belle Fourche, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/edwin-petranek-armory</Url>
+        <Id>us/sd/edwin-petranek-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/842-engr-co</Url>
+        <Id>us/army/842-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>842nd Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>842nd Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/842-engr-co/det-2</Url>
+    <NameNode>Detachment 2, 842nd Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, 842nd Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 2, 842nd Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sturgis Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sturgis-armory</Url>
+        <Id>us/sd/sturgis-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/842-engr-co</Url>
+        <Id>us/army/842-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>842nd Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>842nd Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/927-engr-det</Url>
+    <NameNode>927th Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>927th Engineer Detachment, U.S. Army</FullName>
+    <SplitName>927th Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/153-engr-bn</Url>
+        <Id>us/army/153-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>153rd Engr Bn</HHQAcronym>
+        <Name>153rd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/109-rsg</Url>
+    <NameNode>109th Regional Support Group
+                            U.S. Army</NameNode>
+    <FullName>109th Regional Support Group, U.S. Army</FullName>
+    <SplitName>109th Regional Support Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duane &amp;#039;Duke&amp;#039; Corning Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Rapid | Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/duane-duke-corning-armory</Url>
+        <Id>us/sd/duane-duke-corning-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-sd/arng-elt</Url>
+        <Id>us/army/jfhq-sd/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ South Dakota</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters South Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/109-rsg/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 109th Regional Support Group</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/109-rsg/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/152-cssb</Url>
+        <FullName>152nd Combat Sustainment Support Battalion</FullName>
+        <Name>152nd Combat Sustainment Support Battalion</Name>
+        <Id>us/army/152-cssb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <FullName>881st Troop Command</FullName>
+        <Name>881st Troop Command</Name>
+        <Id>us/army/881-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/82-cst</Url>
+        <FullName>82nd Civil Support Team</FullName>
+        <Name>82nd Civil Support Team</Name>
+        <Id>us/army/82-cst</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/109-rsg/hhd</Url>
+    <NameNode>HHD, 109th RSG
+                            U.S. Army</NameNode>
+    <FullName>HHD, 109th RSG, U.S. Army</FullName>
+    <SplitName>HHD, 109th RSG</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Duane &amp;#039;Duke&amp;#039; Corning Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Rapid | Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/duane-duke-corning-armory</Url>
+        <Id>us/sd/duane-duke-corning-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/109-rsg</Url>
+        <Id>us/army/109-rsg</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>109th RSG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>109th Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/152-cssb</Url>
+    <NameNode>152nd Combat Sustainment Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>152nd Combat Sustainment Support Battalion, U.S. Army</FullName>
+    <SplitName>152nd Combat Sustainment Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQ1NTQiAwMTUy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pierre Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pierre, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/pierre-armory</Url>
+        <Id>us/sd/pierre-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/109-rsg</Url>
+        <Id>us/army/109-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th RSG</HHQAcronym>
+        <Name>109th Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/152-cssb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 152nd Combat Sustainment Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/152-cssb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/740-tc-co</Url>
+        <FullName>740th Transportation Company</FullName>
+        <Name>740th Transportation Company</Name>
+        <Id>us/army/740-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1742-tc-co</Url>
+        <FullName>1742nd Transportation Company</FullName>
+        <Name>1742nd Transportation Company</Name>
+        <Id>us/army/1742-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-army-band</Url>
+        <FullName>147th Army Band</FullName>
+        <Name>147th Army Band</Name>
+        <Id>us/army/147-army-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/152-cssb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 152nd CSSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 152nd CSSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 152nd CSSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pierre Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pierre, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/pierre-armory</Url>
+        <Id>us/sd/pierre-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/152-cssb</Url>
+        <Id>us/army/152-cssb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>152nd CSSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>152nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/740-tc-co</Url>
+    <NameNode>740th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>740th Transportation Company, U.S. Army</FullName>
+    <SplitName>740th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Milbank Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milbank, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/milbank-armory</Url>
+        <Id>us/sd/milbank-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/152-cssb</Url>
+        <Id>us/army/152-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>152nd CSSB</HHQAcronym>
+        <Name>152nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/740-tc-co/det-1</Url>
+        <FullName>Detachment 1, 740th Transportation Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/740-tc-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/740-tc-co/det-1</Url>
+    <NameNode>Detachment 1, 740th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 740th Transportation Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 740th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Charles J. Milbrandt Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/charles-j-milbrandt-afrc</Url>
+        <Id>us/sd/charles-j-milbrandt-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/740-tc-co</Url>
+        <Id>us/army/740-tc-co</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>740th TC Co</HHQAcronym>
+        <Name>740th Transportation Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1742-tc-co</Url>
+    <NameNode>1742nd Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1742nd Transportation Company, U.S. Army</FullName>
+    <SplitName>1742nd Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/152-cssb</Url>
+        <Id>us/army/152-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>152nd CSSB</HHQAcronym>
+        <Name>152nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1742-tc-co/det-1</Url>
+        <FullName>Detachment 1, 1742nd Transportation Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/1742-tc-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1742-tc-co/det-1</Url>
+    <NameNode>Detachment 1, 1742nd Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 1742nd Transportation Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 1742nd Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Flandreau Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Flandreau, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/flandreau-armory</Url>
+        <Id>us/sd/flandreau-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1742-tc-co</Url>
+        <Id>us/army/1742-tc-co</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1742nd TC Co</HHQAcronym>
+        <Name>1742nd Transportation Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-army-band</Url>
+    <NameNode>147th Army Band
+                            U.S. Army</NameNode>
+    <FullName>147th Army Band, U.S. Army</FullName>
+    <SplitName>147th Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mitchell Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mitchell, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/mitchell-armory</Url>
+        <Id>us/sd/mitchell-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/152-cssb</Url>
+        <Id>us/army/152-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>152nd CSSB</HHQAcronym>
+        <Name>152nd Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+    <NameNode>881st Troop Command
+                            U.S. Army</NameNode>
+    <FullName>881st Troop Command, U.S. Army</FullName>
+    <SplitName>881st Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sturgis Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sturgis-armory</Url>
+        <Id>us/sd/sturgis-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/109-rsg</Url>
+        <Id>us/army/109-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th RSG</HHQAcronym>
+        <Name>109th Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 881st Troop Command</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/881-trp-cmd/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 189th Aviation Regiment</FullName>
+        <Name>Company C, 1st Battalion, 189th Aviation Regiment</Name>
+        <Id>us/army/189-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 112th Aviation Regiment</FullName>
+        <Name>Company D, 1st Battalion, 112th Aviation Regiment</Name>
+        <Id>us/army/112-avn/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-a/det-2</Url>
+        <FullName>Detachment 2, Company A, 1st Battalion, 112th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company A, 1st Battalion, 112th Aviation Regiment</Name>
+        <Id>us/army/112-avn/1-bn/co-a/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-48</Url>
+        <FullName>Detachment 48, Operational Support Airlift Command</FullName>
+        <Name>Detachment 48, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-48</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/641-avn/co-a/det-3</Url>
+        <FullName>Detachment 3, Company A, 641st Aviation Regiment</FullName>
+        <Name>Detachment 3, Company A, 641st Aviation Regiment</Name>
+        <Id>us/army/641-avn/co-a/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/935-asb/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 935th Aviation Support Battalion</FullName>
+        <Name>Detachment 1, Company B, 935th Aviation Support Battalion</Name>
+        <Id>us/army/935-asb/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/730-med-co</Url>
+        <FullName>730th Medical Company</FullName>
+        <Name>730th Medical Company</Name>
+        <Id>us/army/730-med-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/129-pa-det</Url>
+        <FullName>129th Public Affairs Detachment</FullName>
+        <Name>129th Public Affairs Detachment</Name>
+        <Id>us/army/129-pa-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/216-engr-det</Url>
+        <FullName>216th Engineer Detachment</FullName>
+        <Name>216th Engineer Detachment</Name>
+        <Id>us/army/216-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1978-aq-det</Url>
+        <FullName>1978th Contingency Contracting Team</FullName>
+        <Name>1978th Contingency Contracting Team</Name>
+        <Id>us/army/1978-aq-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/881-trp-cmd/hhd</Url>
+    <NameNode>HHD, 881st Trp Cmd
+                            U.S. Army</NameNode>
+    <FullName>HHD, 881st Trp Cmd, U.S. Army</FullName>
+    <SplitName>HHD, 881st Trp Cmd</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sturgis Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sturgis-armory</Url>
+        <Id>us/sd/sturgis-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 189th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 189th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 189th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn</Url>
+        <Id>us/army/189-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 189th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c/det-1</Url>
+        <FullName>Detachment 1, Company C, 1st Battalion, 189th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (MT ARNG)</Name>
+        <Id>us/army/189-avn/1-bn/co-c/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/hhc/det-2</Url>
+        <FullName>Detachment 2, Headquarters and Headquarters Company, 1st Battalion, 189th Aviation Regiment</FullName>
+        <Name>Detachment 2, Headquarters and Headquarters Company</Name>
+        <Id>us/army/189-avn/1-bn/hhc/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 189th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company D</Name>
+        <Id>us/army/189-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-e/det-2</Url>
+        <FullName>Detachment 2, Company E, 1st Battalion, 189th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company E</Name>
+        <Id>us/army/189-avn/1-bn/co-e/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c/det-1</Url>
+    <NameNode>Detachment 1, Company C, 1st Battalion, 189th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company C, 1st Battalion, 189th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company C, 1st Battalion, 189th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Helena Aviation Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Helena, Montana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mt/helena-avn-readiness-ctr</Url>
+        <Id>us/mt/helena-avn-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c</Url>
+        <Id>us/army/189-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 189th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/189-avn/1-bn/hhc/det-2</Url>
+    <NameNode>Detachment 2, HHC, 1st Bn, 189th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, HHC, 1st Bn, 189th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, HHC, 1st Bn, 189th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c</Url>
+        <Id>us/army/189-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 189th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/hhc</Url>
+        <Id>us/army/189-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 189th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 189th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 189th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 189th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c</Url>
+        <Id>us/army/189-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 189th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-d</Url>
+        <Id>us/army/189-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 189th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-e/det-2</Url>
+    <NameNode>Detachment 2, Company E, 1st Battalion, 189th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company E, 1st Battalion, 189th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company E, 1st Battalion, 189th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-c</Url>
+        <Id>us/army/189-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 189th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/189-avn/1-bn/co-e</Url>
+        <Id>us/army/189-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 189th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 189th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 112th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 112th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 112th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn</Url>
+        <Id>us/army/112-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 112th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 112th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 1st Battalion, 112th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (ID ARNG)</Name>
+        <Id>us/army/112-avn/1-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 112th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (WI ARNG)</Name>
+        <Id>us/army/112-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 1st Battalion, 112th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 1st Battalion, 112th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 1st Battalion, 112th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gowen Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, Idaho, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/id/gowen-field-angb</Url>
+        <Id>us/id/gowen-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d</Url>
+        <Id>us/army/112-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 112th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 112th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 112th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 112th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 112th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wisconsin Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Bend Armory | West Bend, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/wi-arng-aasf-1</Url>
+        <Id>us/wi/wi-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-d</Url>
+        <Id>us/army/112-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 112th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 112th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-a/det-2</Url>
+    <NameNode>Detachment 2, Company A, 1st Battalion, 112th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company A, 1st Battalion, 112th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company A, 1st Battalion, 112th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-avn/1-bn/co-a</Url>
+        <Id>us/army/112-avn/1-bn/co-a</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co A, 1st Bn, 112th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 1st Battalion, 112th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-48</Url>
+    <NameNode>Detachment 48, OSACOM
+                            U.S. Army</NameNode>
+    <FullName>Detachment 48, OSACOM, U.S. Army</FullName>
+    <SplitName>Detachment 48, OSACOM</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/641-avn/co-a/det-3</Url>
+    <NameNode>Detachment 3, Company A, 641st Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, Company A, 641st Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Detachment 3, Company A, 641st Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/641-avn/co-a</Url>
+        <Id>us/army/641-avn/co-a</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Company A, 641st AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 641st Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/935-asb/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 935th ASB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 935th ASB, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 935th ASB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rapid City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/rapid-city-armory</Url>
+        <Id>us/sd/rapid-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/935-asb/co-b</Url>
+        <Id>us/army/935-asb/co-b</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company B, 935th ASB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 935th Aviation Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/730-med-co</Url>
+    <NameNode>730th Medical Company
+                            U.S. Army</NameNode>
+    <FullName>730th Medical Company, U.S. Army</FullName>
+    <SplitName>730th Medical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vermillion Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vermillion, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/vermillion-armory</Url>
+        <Id>us/sd/vermillion-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/129-pa-det</Url>
+    <NameNode>129th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>129th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>129th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Rapid</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/camp-rapid</Url>
+        <Id>us/sd/camp-rapid</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/129-pa-det/det-1</Url>
+        <FullName>Detachment 1, 129th Public Affairs Detachment</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/129-pa-det/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/129-pa-det/det-1</Url>
+    <NameNode>Detachment 1, 129th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 129th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>Detachment 1, 129th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/129-pa-det</Url>
+        <Id>us/army/129-pa-det</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>129th PA Det</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>129th Public Affairs Detachment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/216-engr-det</Url>
+    <NameNode>216th Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>216th Engineer Detachment, U.S. Army</FullName>
+    <SplitName>216th Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sturgis Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sturgis-armory</Url>
+        <Id>us/sd/sturgis-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/451-engr-det</Url>
+        <FullName>451st Engineer Detachment</FullName>
+        <Name>451st Engineer Detachment</Name>
+        <Id>us/army/451-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/451-engr-det</Url>
+    <NameNode>451st Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>451st Engineer Detachment, U.S. Army</FullName>
+    <SplitName>451st Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sturgis Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sturgis-armory</Url>
+        <Id>us/sd/sturgis-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/216-engr-det</Url>
+        <Id>us/army/216-engr-det</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>216th Engr Det</HHQAcronym>
+        <Name>216th Engineer Detachment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1978-aq-det</Url>
+    <NameNode>1978th Contingency Contracting Team
+                            U.S. Army</NameNode>
+    <FullName>1978th Contingency Contracting Team, U.S. Army</FullName>
+    <SplitName>1978th Contingency Contracting Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>South Dakota National Guard Joint Force Headquarters</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Rapid | Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sd-ng-jfhq</Url>
+        <Id>us/sd/sd-ng-jfhq</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/881-trp-cmd</Url>
+        <Id>us/army/881-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>881st Troop Command</HHQAcronym>
+        <Name>881st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/82-cst</Url>
+    <NameNode>82nd Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>82nd Civil Support Team, U.S. Army</FullName>
+    <SplitName>82nd Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>South Dakota Army National Guard Civil Support Team Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ellsworth AFB | Rapid City, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sd-arng-cst-facility</Url>
+        <Id>us/sd/sd-arng-cst-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/109-rsg</Url>
+        <Id>us/army/109-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>109th RSG</HHQAcronym>
+        <Name>109th Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/196-rgt</Url>
+    <NameNode>196th Regiment
+                            U.S. Army</NameNode>
+    <FullName>196th Regiment, U.S. Army</FullName>
+    <SplitName>196th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/fort-meade</Url>
+        <Id>us/sd/fort-meade</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-sd/arng-elt</Url>
+        <Id>us/army/jfhq-sd/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ South Dakota</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters South Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/196-rgt/1-bn</Url>
+        <FullName>1st Battalion, 196th Regiment</FullName>
+        <Name>1st Battalion</Name>
+        <Id>us/army/196-rgt/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/196-rgt/2-bn</Url>
+        <FullName>2nd Battalion, 196th Regiment</FullName>
+        <Name>2nd Battalion</Name>
+        <Id>us/army/196-rgt/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/196-rgt/1-bn</Url>
+    <NameNode>1st Battalion, 196th Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 196th Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 196th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sturgis, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/fort-meade</Url>
+        <Id>us/sd/fort-meade</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-rgt</Url>
+        <Id>us/army/196-rgt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>196th Regiment</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>196th Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/196-rgt/2-bn</Url>
+    <NameNode>2nd Battalion, 196th Regiment
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 196th Regiment, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 196th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-rgt</Url>
+        <Id>us/army/196-rgt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>196th Regiment</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>196th Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-vt/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Vermont
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Vermont, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Vermont</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-vt</Url>
+        <Id>us/ng/jfhq-vt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Vermont</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Vermont</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+        <FullName>158th Fighter Wing</FullName>
+        <Name>158th Fighter Wing</Name>
+        <Id>us/usaf/158-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/229-ios</Url>
+        <FullName>229th Information Operations Squadron</FullName>
+        <Name>229th Information Operations Squadron</Name>
+        <Id>us/usaf/229-ios</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+    <NameNode>158th Fighter Wing
+                            USAF</NameNode>
+    <FullName>158th Fighter Wing, USAF</FullName>
+    <SplitName>158th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/1-af</Url>
+        <Id>us/usaf/1-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>1st Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-vt/ang-elt</Url>
+        <Id>us/usaf/jfhq-vt/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Vermont</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Vermont</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-og</Url>
+        <FullName>158th Operations Group</FullName>
+        <Name>158th Operations Group</Name>
+        <Id>us/usaf/158-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <FullName>158th Mission Support Group</FullName>
+        <Name>158th Mission Support Group</Name>
+        <Id>us/usaf/158-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mxg</Url>
+        <FullName>158th Maintenance Group</FullName>
+        <Name>158th Maintenance Group</Name>
+        <Id>us/usaf/158-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mdg</Url>
+        <FullName>158th Medical Group</FullName>
+        <Name>158th Medical Group</Name>
+        <Id>us/usaf/158-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-cptf</Url>
+        <FullName>158th Comptroller Flight</FullName>
+        <Name>158th Comptroller Flight</Name>
+        <Id>us/usaf/158-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-og</Url>
+    <NameNode>158th Operations Group
+                            USAF</NameNode>
+    <FullName>158th Operations Group, USAF</FullName>
+    <SplitName>158th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+        <Id>us/usaf/158-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Fighter Wing</HHQAcronym>
+        <Name>158th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/134-fs</Url>
+        <FullName>134th Fighter Squadron</FullName>
+        <Name>134th Fighter Squadron</Name>
+        <Id>us/usaf/134-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-osf</Url>
+        <FullName>158th Operations Support Flight</FullName>
+        <Name>158th Operations Support Flight</Name>
+        <Id>us/usaf/158-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/134-fs</Url>
+    <NameNode>134th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>134th Fighter Squadron, USAF</FullName>
+    <SplitName>134th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-og</Url>
+        <Id>us/usaf/158-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Operations Group</HHQAcronym>
+        <Name>158th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-osf</Url>
+    <NameNode>158th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>158th Operations Support Flight, USAF</FullName>
+    <SplitName>158th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-og</Url>
+        <Id>us/usaf/158-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Operations Group</HHQAcronym>
+        <Name>158th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+    <NameNode>158th Mission Support Group
+                            USAF</NameNode>
+    <FullName>158th Mission Support Group, USAF</FullName>
+    <SplitName>158th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+        <Id>us/usaf/158-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Fighter Wing</HHQAcronym>
+        <Name>158th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-ces</Url>
+        <FullName>158th Civil Engineer Squadron</FullName>
+        <Name>158th Civil Engineer Squadron</Name>
+        <Id>us/usaf/158-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-lrs</Url>
+        <FullName>158th Logistics Readiness Squadron</FullName>
+        <Name>158th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/158-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-sfs</Url>
+        <FullName>158th Security Forces Squadron</FullName>
+        <Name>158th Security Forces Squadron</Name>
+        <Id>us/usaf/158-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-cf</Url>
+        <FullName>158th Communications Flight</FullName>
+        <Name>158th Communications Flight</Name>
+        <Id>us/usaf/158-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fsf</Url>
+        <FullName>158th Force Support Flight</FullName>
+        <Name>158th Force Support Flight</Name>
+        <Id>us/usaf/158-fsf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-svf</Url>
+        <FullName>158th Services Flight</FullName>
+        <Name>158th Services Flight</Name>
+        <Id>us/usaf/158-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-ces</Url>
+    <NameNode>158th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>158th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>158th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <Id>us/usaf/158-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MSG</HHQAcronym>
+        <Name>158th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-lrs</Url>
+    <NameNode>158th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>158th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>158th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <Id>us/usaf/158-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MSG</HHQAcronym>
+        <Name>158th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-sfs</Url>
+    <NameNode>158th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>158th Security Forces Squadron, USAF</FullName>
+    <SplitName>158th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <Id>us/usaf/158-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MSG</HHQAcronym>
+        <Name>158th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-cf</Url>
+    <NameNode>158th Communications Flight
+                            USAF</NameNode>
+    <FullName>158th Communications Flight, USAF</FullName>
+    <SplitName>158th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <Id>us/usaf/158-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MSG</HHQAcronym>
+        <Name>158th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-fsf</Url>
+    <NameNode>158th Force Support Flight
+                            USAF</NameNode>
+    <FullName>158th Force Support Flight, USAF</FullName>
+    <SplitName>158th Force Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <Id>us/usaf/158-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MSG</HHQAcronym>
+        <Name>158th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-svf</Url>
+    <NameNode>158th Services Flight
+                            USAF</NameNode>
+    <FullName>158th Services Flight, USAF</FullName>
+    <SplitName>158th Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-msg</Url>
+        <Id>us/usaf/158-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MSG</HHQAcronym>
+        <Name>158th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-mxg</Url>
+    <NameNode>158th Maintenance Group
+                            USAF</NameNode>
+    <FullName>158th Maintenance Group, USAF</FullName>
+    <SplitName>158th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+        <Id>us/usaf/158-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Fighter Wing</HHQAcronym>
+        <Name>158th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-amxs</Url>
+        <FullName>158th Aircraft Maintenance Squadron</FullName>
+        <Name>158th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/158-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mxs</Url>
+        <FullName>158th Maintenance Squadron</FullName>
+        <Name>158th Maintenance Squadron</Name>
+        <Id>us/usaf/158-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mof</Url>
+        <FullName>158th Maintenance Operations Flight</FullName>
+        <Name>158th Maintenance Operations Flight</Name>
+        <Id>us/usaf/158-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-amxs</Url>
+    <NameNode>158th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>158th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>158th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mxg</Url>
+        <Id>us/usaf/158-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MXG</HHQAcronym>
+        <Name>158th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-mxs</Url>
+    <NameNode>158th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>158th Maintenance Squadron, USAF</FullName>
+    <SplitName>158th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mxg</Url>
+        <Id>us/usaf/158-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MXG</HHQAcronym>
+        <Name>158th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-mof</Url>
+    <NameNode>158th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>158th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>158th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-mxg</Url>
+        <Id>us/usaf/158-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th MXG</HHQAcronym>
+        <Name>158th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-mdg</Url>
+    <NameNode>158th Medical Group
+                            USAF</NameNode>
+    <FullName>158th Medical Group, USAF</FullName>
+    <SplitName>158th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+        <Id>us/usaf/158-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Fighter Wing</HHQAcronym>
+        <Name>158th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/158-cptf</Url>
+    <NameNode>158th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>158th Comptroller Flight, USAF</FullName>
+    <SplitName>158th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Burlington Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/burlington-angb</Url>
+        <Id>us/vt/burlington-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/158-fw</Url>
+        <Id>us/usaf/158-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>158th Fighter Wing</HHQAcronym>
+        <Name>158th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/229-ios</Url>
+    <NameNode>229th Information Operations Squadron
+                            USAF</NameNode>
+    <FullName>229th Information Operations Squadron, USAF</FullName>
+    <SplitName>229th Information Operations Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Northfield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Northfield, Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/northfield-armory</Url>
+        <Id>us/vt/northfield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-vt/ang-elt</Url>
+        <Id>us/usaf/jfhq-vt/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Vermont</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Vermont</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

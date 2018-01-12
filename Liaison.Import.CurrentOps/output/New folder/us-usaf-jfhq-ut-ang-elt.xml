@@ -1,0 +1,1087 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Utah
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Utah, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Utah</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ut</Url>
+        <Id>us/ng/jfhq-ut</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Utah</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <FullName>151st Air Refueling Wing</FullName>
+        <Name>151st Air Refueling Wing</Name>
+        <Id>us/usaf/151-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-acs</Url>
+        <FullName>109th Air Control Squadron</FullName>
+        <Name>109th Air Control Squadron</Name>
+        <Id>us/usaf/109-acs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-is</Url>
+        <FullName>169th Intelligence Squadron</FullName>
+        <Name>169th Intelligence Squadron</Name>
+        <Id>us/usaf/169-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/130-eis</Url>
+        <FullName>130th Engineering Installation Squadron</FullName>
+        <Name>130th Engineering Installation Squadron</Name>
+        <Id>us/usaf/130-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/101-iof</Url>
+        <FullName>101st Information Operations Flight</FullName>
+        <Name>101st Information Operations Flight</Name>
+        <Id>us/usaf/101-iof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+    <NameNode>151st Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>151st Air Refueling Wing, USAF</FullName>
+    <SplitName>151st Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-og</Url>
+        <FullName>151st Operations Group</FullName>
+        <Name>151st Operations Group</Name>
+        <Id>us/usaf/151-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+        <FullName>151st Mission Support Group</FullName>
+        <Name>151st Mission Support Group</Name>
+        <Id>us/usaf/151-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mxg</Url>
+        <FullName>151st Maintenance Group</FullName>
+        <Name>151st Maintenance Group</Name>
+        <Id>us/usaf/151-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mdg</Url>
+        <FullName>151st Medical Group</FullName>
+        <Name>151st Medical Group</Name>
+        <Id>us/usaf/151-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-cptf</Url>
+        <FullName>151st Comptroller Flight</FullName>
+        <Name>151st Comptroller Flight</Name>
+        <Id>us/usaf/151-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/109-acs</Url>
+        <FullName>109th Air Control Squadron</FullName>
+        <Name>109th Air Control Squadron
+
+        
+        
+                                    (Administrative Control)</Name>
+        <Id>us/usaf/109-acs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/130-eis</Url>
+        <FullName>130th Engineering Installation Squadron</FullName>
+        <Name>130th Engineering Installation Squadron
+
+        
+        
+                                    (Administrative Control)</Name>
+        <Id>us/usaf/130-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-is</Url>
+        <FullName>169th Intelligence Squadron</FullName>
+        <Name>169th Intelligence Squadron
+
+        
+        
+                                    (Administrative Control)</Name>
+        <Id>us/usaf/169-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/101-iof</Url>
+        <FullName>101st Information Operations Flight</FullName>
+        <Name>101st Information Operations Flight
+
+        
+        
+                                    (Administrative Control)</Name>
+        <Id>us/usaf/101-iof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-og</Url>
+    <NameNode>151st Operations Group
+                            USAF</NameNode>
+    <FullName>151st Operations Group, USAF</FullName>
+    <SplitName>151st Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/191-ars</Url>
+        <FullName>191st Air Refueling Squadron</FullName>
+        <Name>191st Air Refueling Squadron</Name>
+        <Id>us/usaf/191-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-osf</Url>
+        <FullName>151st Operations Support Flight</FullName>
+        <Name>151st Operations Support Flight</Name>
+        <Id>us/usaf/151-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/191-ars</Url>
+    <NameNode>191st Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>191st Air Refueling Squadron, USAF</FullName>
+    <SplitName>191st Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-og</Url>
+        <Id>us/usaf/151-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st Operations Group</HHQAcronym>
+        <Name>151st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-osf</Url>
+    <NameNode>151st Operations Support Flight
+                            USAF</NameNode>
+    <FullName>151st Operations Support Flight, USAF</FullName>
+    <SplitName>151st Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-og</Url>
+        <Id>us/usaf/151-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st Operations Group</HHQAcronym>
+        <Name>151st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+    <NameNode>151st Mission Support Group
+                            USAF</NameNode>
+    <FullName>151st Mission Support Group, USAF</FullName>
+    <SplitName>151st Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-ces</Url>
+        <FullName>151st Civil Engineer Squadron</FullName>
+        <Name>151st Civil Engineer Squadron</Name>
+        <Id>us/usaf/151-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-fss</Url>
+        <FullName>151st Force Support Squadron</FullName>
+        <Name>151st Force Support Squadron</Name>
+        <Id>us/usaf/151-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-lrs</Url>
+        <FullName>151st Logistics Readiness Squadron</FullName>
+        <Name>151st Logistics Readiness Squadron</Name>
+        <Id>us/usaf/151-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-sfs</Url>
+        <FullName>151st Security Forces Squadron</FullName>
+        <Name>151st Security Forces Squadron</Name>
+        <Id>us/usaf/151-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-cf</Url>
+        <FullName>151st Communications Flight</FullName>
+        <Name>151st Communications Flight</Name>
+        <Id>us/usaf/151-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-ces</Url>
+    <NameNode>151st Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>151st Civil Engineer Squadron, USAF</FullName>
+    <SplitName>151st Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+        <Id>us/usaf/151-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MSG</HHQAcronym>
+        <Name>151st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-fss</Url>
+    <NameNode>151st Force Support Squadron
+                            USAF</NameNode>
+    <FullName>151st Force Support Squadron, USAF</FullName>
+    <SplitName>151st Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+        <Id>us/usaf/151-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MSG</HHQAcronym>
+        <Name>151st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-lrs</Url>
+    <NameNode>151st Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>151st Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>151st Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+        <Id>us/usaf/151-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MSG</HHQAcronym>
+        <Name>151st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-sfs</Url>
+    <NameNode>151st Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>151st Security Forces Squadron, USAF</FullName>
+    <SplitName>151st Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+        <Id>us/usaf/151-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MSG</HHQAcronym>
+        <Name>151st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-cf</Url>
+    <NameNode>151st Communications Flight
+                            USAF</NameNode>
+    <FullName>151st Communications Flight, USAF</FullName>
+    <SplitName>151st Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-msg</Url>
+        <Id>us/usaf/151-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MSG</HHQAcronym>
+        <Name>151st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-mxg</Url>
+    <NameNode>151st Maintenance Group
+                            USAF</NameNode>
+    <FullName>151st Maintenance Group, USAF</FullName>
+    <SplitName>151st Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-amxs</Url>
+        <FullName>151st Aircraft Maintenance Squadron</FullName>
+        <Name>151st Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/151-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mxs</Url>
+        <FullName>151st Maintenance Squadron</FullName>
+        <Name>151st Maintenance Squadron</Name>
+        <Id>us/usaf/151-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mof</Url>
+        <FullName>151st Maintenance Operations Flight</FullName>
+        <Name>151st Maintenance Operations Flight</Name>
+        <Id>us/usaf/151-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-amxs</Url>
+    <NameNode>151st Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>151st Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>151st Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mxg</Url>
+        <Id>us/usaf/151-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MXG</HHQAcronym>
+        <Name>151st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-mxs</Url>
+    <NameNode>151st Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>151st Maintenance Squadron, USAF</FullName>
+    <SplitName>151st Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mxg</Url>
+        <Id>us/usaf/151-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MXG</HHQAcronym>
+        <Name>151st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-mof</Url>
+    <NameNode>151st Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>151st Maintenance Operations Flight, USAF</FullName>
+    <SplitName>151st Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mxg</Url>
+        <Id>us/usaf/151-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MXG</HHQAcronym>
+        <Name>151st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-mdg</Url>
+    <NameNode>151st Medical Group
+                            USAF</NameNode>
+    <FullName>151st Medical Group, USAF</FullName>
+    <SplitName>151st Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mds</Url>
+        <FullName>151st Medical Squadron</FullName>
+        <Name>151st Medical Squadron</Name>
+        <Id>us/usaf/151-mds</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-mds</Url>
+    <NameNode>151st Medical Squadron
+                            USAF</NameNode>
+    <FullName>151st Medical Squadron, USAF</FullName>
+    <SplitName>151st Medical Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-mdg</Url>
+        <Id>us/usaf/151-mdg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st Medical Group</HHQAcronym>
+        <Name>151st Medical Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/151-cptf</Url>
+    <NameNode>151st Comptroller Flight
+                            USAF</NameNode>
+    <FullName>151st Comptroller Flight, USAF</FullName>
+    <SplitName>151st Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-acs</Url>
+    <NameNode>109th Air Control Squadron
+                            USAF</NameNode>
+    <FullName>109th Air Control Squadron, USAF</FullName>
+    <SplitName>109th Air Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/130-eis</Url>
+    <NameNode>130th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>130th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>130th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-is</Url>
+    <NameNode>169th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>169th Intelligence Squadron, USAF</FullName>
+    <SplitName>169th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/101-iof</Url>
+    <NameNode>101st Information Operations Flight
+                            USAF</NameNode>
+    <FullName>101st Information Operations Flight, USAF</FullName>
+    <SplitName>101st Information Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/601-aoc</Url>
+        <Id>us/usaf/601-aoc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>601st AOC</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>601st Air and Space Operations Center</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/109-acs</Url>
+    <NameNode>109th Air Control Squadron
+                            USAF</NameNode>
+    <FullName>109th Air Control Squadron, USAF</FullName>
+    <SplitName>109th Air Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-is</Url>
+    <NameNode>169th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>169th Intelligence Squadron, USAF</FullName>
+    <SplitName>169th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/130-eis</Url>
+    <NameNode>130th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>130th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>130th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/101-iof</Url>
+    <NameNode>101st Information Operations Flight
+                            USAF</NameNode>
+    <FullName>101st Information Operations Flight, USAF</FullName>
+    <SplitName>101st Information Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Utah Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salt Lake City, Utah, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ut/utah-angb</Url>
+        <Id>us/ut/utah-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/601-aoc</Url>
+        <Id>us/usaf/601-aoc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>601st AOC</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>601st Air and Space Operations Center</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/151-arw</Url>
+        <Id>us/usaf/151-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st ARW</HHQAcronym>
+        <Type>ADCON</Type>
+        <Name>151st Air Refueling Wing</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ut/ang-elt</Url>
+        <Id>us/usaf/jfhq-ut/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Utah</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Utah</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

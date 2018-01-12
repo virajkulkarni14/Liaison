@@ -1,0 +1,799 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ky/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Kentucky
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Kentucky, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Kentucky</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ky</Url>
+        <Id>us/ng/jfhq-ky</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Kentucky</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Kentucky</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <FullName>123rd Airlift Wing</FullName>
+        <Name>123rd Airlift Wing</Name>
+        <Id>us/usaf/123-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+    <NameNode>123rd Airlift Wing
+                            USAF</NameNode>
+    <FullName>123rd Airlift Wing, USAF</FullName>
+    <SplitName>123rd Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ky/ang-elt</Url>
+        <Id>us/usaf/jfhq-ky/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Kentucky</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Kentucky</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-og</Url>
+        <FullName>123rd Operations Group</FullName>
+        <Name>123rd Operations Group</Name>
+        <Id>us/usaf/123-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+        <FullName>123rd Mission Support Group</FullName>
+        <Name>123rd Mission Support Group</Name>
+        <Id>us/usaf/123-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mxg</Url>
+        <FullName>123rd Maintenance Group</FullName>
+        <Name>123rd Maintenance Group</Name>
+        <Id>us/usaf/123-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mdg</Url>
+        <FullName>123rd Medical Group</FullName>
+        <Name>123rd Medical Group</Name>
+        <Id>us/usaf/123-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-crg</Url>
+        <FullName>123rd Contingency Response Group</FullName>
+        <Name>123rd Contingency Response Group</Name>
+        <Id>us/usaf/123-crg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-cptf</Url>
+        <FullName>123rd Comptroller Flight</FullName>
+        <Name>123rd Comptroller Flight</Name>
+        <Id>us/usaf/123-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-og</Url>
+    <NameNode>123rd Operations Group
+                            USAF</NameNode>
+    <FullName>123rd Operations Group, USAF</FullName>
+    <SplitName>123rd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <Id>us/usaf/123-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Airlift Wing</HHQAcronym>
+        <Name>123rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/165-as</Url>
+        <FullName>165th Airlift Squadron</FullName>
+        <Name>165th Airlift Squadron</Name>
+        <Id>us/usaf/165-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-sts</Url>
+        <FullName>123rd Special Tactics Squadron</FullName>
+        <Name>123rd Special Tactics Squadron</Name>
+        <Id>us/usaf/123-sts</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-oss</Url>
+        <FullName>123rd Operations Support Squadron</FullName>
+        <Name>123rd Operations Support Squadron</Name>
+        <Id>us/usaf/123-oss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/165-as</Url>
+    <NameNode>165th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>165th Airlift Squadron, USAF</FullName>
+    <SplitName>165th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-og</Url>
+        <Id>us/usaf/123-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Operations Group</HHQAcronym>
+        <Name>123rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-sts</Url>
+    <NameNode>123rd Special Tactics Squadron
+                            USAF</NameNode>
+    <FullName>123rd Special Tactics Squadron, USAF</FullName>
+    <SplitName>123rd Special Tactics Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/720-stg</Url>
+        <Id>us/usaf/720-stg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>720th STG</HHQAcronym>
+        <Name>720th Special Tactics Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-og</Url>
+        <Id>us/usaf/123-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Operations Group</HHQAcronym>
+        <Name>123rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-oss</Url>
+    <NameNode>123rd Operations Support Squadron
+                            USAF</NameNode>
+    <FullName>123rd Operations Support Squadron, USAF</FullName>
+    <SplitName>123rd Operations Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-og</Url>
+        <Id>us/usaf/123-og</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>123rd Operations Group</HHQAcronym>
+        <Name>123rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+    <NameNode>123rd Mission Support Group
+                            USAF</NameNode>
+    <FullName>123rd Mission Support Group, USAF</FullName>
+    <SplitName>123rd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <Id>us/usaf/123-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Airlift Wing</HHQAcronym>
+        <Name>123rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-ces</Url>
+        <FullName>123rd Civil Engineer Squadron</FullName>
+        <Name>123rd Civil Engineer Squadron</Name>
+        <Id>us/usaf/123-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-fss</Url>
+        <FullName>123rd Force Support Squadron</FullName>
+        <Name>123rd Force Support Squadron</Name>
+        <Id>us/usaf/123-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-lrs</Url>
+        <FullName>123rd Logistics Readiness Squadron</FullName>
+        <Name>123rd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/123-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-sfs</Url>
+        <FullName>123rd Security Forces Squadron</FullName>
+        <Name>123rd Security Forces Squadron</Name>
+        <Id>us/usaf/123-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-cf</Url>
+        <FullName>123rd Communications Flight</FullName>
+        <Name>123rd Communications Flight</Name>
+        <Id>us/usaf/123-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-ces</Url>
+    <NameNode>123rd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>123rd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>123rd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+        <Id>us/usaf/123-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MSG</HHQAcronym>
+        <Name>123rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-fss</Url>
+    <NameNode>123rd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>123rd Force Support Squadron, USAF</FullName>
+    <SplitName>123rd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+        <Id>us/usaf/123-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MSG</HHQAcronym>
+        <Name>123rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-lrs</Url>
+    <NameNode>123rd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>123rd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>123rd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+        <Id>us/usaf/123-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MSG</HHQAcronym>
+        <Name>123rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-sfs</Url>
+    <NameNode>123rd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>123rd Security Forces Squadron, USAF</FullName>
+    <SplitName>123rd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+        <Id>us/usaf/123-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MSG</HHQAcronym>
+        <Name>123rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-cf</Url>
+    <NameNode>123rd Communications Flight
+                            USAF</NameNode>
+    <FullName>123rd Communications Flight, USAF</FullName>
+    <SplitName>123rd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-msg</Url>
+        <Id>us/usaf/123-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MSG</HHQAcronym>
+        <Name>123rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-mxg</Url>
+    <NameNode>123rd Maintenance Group
+                            USAF</NameNode>
+    <FullName>123rd Maintenance Group, USAF</FullName>
+    <SplitName>123rd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <Id>us/usaf/123-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Airlift Wing</HHQAcronym>
+        <Name>123rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-amxs</Url>
+        <FullName>123rd Aircraft Maintenance Squadron</FullName>
+        <Name>123rd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/123-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mxs</Url>
+        <FullName>123rd Maintenance Squadron</FullName>
+        <Name>123rd Maintenance Squadron</Name>
+        <Id>us/usaf/123-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mof</Url>
+        <FullName>123rd Maintenance Operations Flight</FullName>
+        <Name>123rd Maintenance Operations Flight</Name>
+        <Id>us/usaf/123-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-amxs</Url>
+    <NameNode>123rd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>123rd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>123rd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mxg</Url>
+        <Id>us/usaf/123-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MXG</HHQAcronym>
+        <Name>123rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-mxs</Url>
+    <NameNode>123rd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>123rd Maintenance Squadron, USAF</FullName>
+    <SplitName>123rd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mxg</Url>
+        <Id>us/usaf/123-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MXG</HHQAcronym>
+        <Name>123rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-mof</Url>
+    <NameNode>123rd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>123rd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>123rd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-mxg</Url>
+        <Id>us/usaf/123-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd MXG</HHQAcronym>
+        <Name>123rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-mdg</Url>
+    <NameNode>123rd Medical Group
+                            USAF</NameNode>
+    <FullName>123rd Medical Group, USAF</FullName>
+    <SplitName>123rd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <Id>us/usaf/123-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Airlift Wing</HHQAcronym>
+        <Name>123rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-crg</Url>
+    <NameNode>123rd Contingency Response Group
+                            USAF</NameNode>
+    <FullName>123rd Contingency Response Group, USAF</FullName>
+    <SplitName>123rd Contingency Response Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <Id>us/usaf/123-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Airlift Wing</HHQAcronym>
+        <Name>123rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-gms</Url>
+        <FullName>123rd Global Mobility Squadron</FullName>
+        <Name>123rd Global Mobility Squadron</Name>
+        <Id>us/usaf/123-gms</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-gmrs</Url>
+        <FullName>123rd Global Mobility Readiness Squadron</FullName>
+        <Name>123rd Global Mobility Readiness Squadron</Name>
+        <Id>us/usaf/123-gmrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-gms</Url>
+    <NameNode>123rd Global Mobility Squadron
+                            USAF</NameNode>
+    <FullName>123rd Global Mobility Squadron, USAF</FullName>
+    <SplitName>123rd Global Mobility Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-crg</Url>
+        <Id>us/usaf/123-crg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd CRG</HHQAcronym>
+        <Name>123rd Contingency Response Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-gmrs</Url>
+    <NameNode>123rd Global Mobility Readiness Squadron
+                            USAF</NameNode>
+    <FullName>123rd Global Mobility Readiness Squadron, USAF</FullName>
+    <SplitName>123rd Global Mobility Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-crg</Url>
+        <Id>us/usaf/123-crg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd CRG</HHQAcronym>
+        <Name>123rd Contingency Response Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-cptf</Url>
+    <NameNode>123rd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>123rd Comptroller Flight, USAF</FullName>
+    <SplitName>123rd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Louisville Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/louisville-angb</Url>
+        <Id>us/ky/louisville-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/123-aw</Url>
+        <Id>us/usaf/123-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>123rd Airlift Wing</HHQAcronym>
+        <Name>123rd Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

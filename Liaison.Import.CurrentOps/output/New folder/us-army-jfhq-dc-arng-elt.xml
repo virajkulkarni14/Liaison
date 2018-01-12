@@ -1,0 +1,547 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+    <NameNode>ARNG Elt, JFHQ District of Columbia
+                            U.S. Army</NameNode>
+    <FullName>ARNG Elt, JFHQ District of Columbia, U.S. Army</FullName>
+    <SplitName>ARNG Elt, JFHQ District of Columbia</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBEQyBBUk5HIEVMVA.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-dc</Url>
+        <Id>us/ng/jfhq-dc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ District of Columbia</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+        <FullName>74th Troop Command</FullName>
+        <Name>74th Troop Command</Name>
+        <Id>us/army/74-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/260-rgt</Url>
+        <FullName>260th Regiment</FullName>
+        <Name>260th Regiment</Name>
+        <Id>us/army/260-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/33-cst</Url>
+        <FullName>33rd Civil Support Team</FullName>
+        <Name>33rd Civil Support Team</Name>
+        <Id>us/army/33-cst</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-4</Url>
+        <FullName>Detachment 4, Operational Support Airlift Command</FullName>
+        <Name>Detachment 4, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-4</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/121-mp-det</Url>
+        <FullName>121st Military Police Detachment</FullName>
+        <Name>121st Military Police Detachment</Name>
+        <Id>us/army/121-mp-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/715-pa-det</Url>
+        <FullName>715th Public Affairs Detachment</FullName>
+        <Name>715th Public Affairs Detachment</Name>
+        <Id>us/army/715-pa-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+    <NameNode>74th Troop Command
+                            U.S. Army</NameNode>
+    <FullName>74th Troop Command, U.S. Army</FullName>
+    <SplitName>74th Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>District of Columbia Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, District of Columbia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/dc/district-of-columbia-armory</Url>
+        <Id>us/dc/district-of-columbia-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+        <Id>us/army/jfhq-dc/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ District of Columbia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/372-mp-bn</Url>
+        <FullName>372nd Military Police Battalion</FullName>
+        <Name>372nd Military Police Battalion</Name>
+        <Id>us/army/372-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1946-aq-det</Url>
+        <FullName>1946th Contingency Contracting Team</FullName>
+        <Name>1946th Contingency Contracting Team</Name>
+        <Id>us/army/1946-aq-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/257-army-band</Url>
+        <FullName>257th Army Band</FullName>
+        <Name>257th Army Band</Name>
+        <Id>us/army/257-army-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/547-tc-co</Url>
+        <FullName>547th Transportation Company</FullName>
+        <Name>547th Transportation Company</Name>
+        <Id>us/army/547-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/104-od-co</Url>
+        <FullName>104th Ordnance Company</FullName>
+        <Name>104th Ordnance Company</Name>
+        <Id>us/army/104-od-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/372-mp-bn</Url>
+    <NameNode>372nd Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>372nd Military Police Battalion, U.S. Army</FullName>
+    <SplitName>372nd Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>District of Columbia Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, District of Columbia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/dc/district-of-columbia-armory</Url>
+        <Id>us/dc/district-of-columbia-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+        <Id>us/army/74-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>74th Troop Command</HHQAcronym>
+        <Name>74th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/372-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 372nd Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/372-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/273-mp-co</Url>
+        <FullName>273rd Military Police Company</FullName>
+        <Name>273rd Military Police Company</Name>
+        <Id>us/army/273-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/275-mp-co</Url>
+        <FullName>275th Military Police Company</FullName>
+        <Name>275th Military Police Company</Name>
+        <Id>us/army/275-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/276-mp-co</Url>
+        <FullName>276th Military Police Company</FullName>
+        <Name>276th Military Police Company</Name>
+        <Id>us/army/276-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/372-mp-bn/hhd</Url>
+    <NameNode>HHD, 372nd MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 372nd MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 372nd MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>District of Columbia Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, District of Columbia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/dc/district-of-columbia-armory</Url>
+        <Id>us/dc/district-of-columbia-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/372-mp-bn</Url>
+        <Id>us/army/372-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>372nd MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>372nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/273-mp-co</Url>
+    <NameNode>273rd Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>273rd Military Police Company, U.S. Army</FullName>
+    <SplitName>273rd Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/372-mp-bn</Url>
+        <Id>us/army/372-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>372nd MP Bn</HHQAcronym>
+        <Name>372nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/275-mp-co</Url>
+    <NameNode>275th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>275th Military Police Company, U.S. Army</FullName>
+    <SplitName>275th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/372-mp-bn</Url>
+        <Id>us/army/372-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>372nd MP Bn</HHQAcronym>
+        <Name>372nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/276-mp-co</Url>
+    <NameNode>276th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>276th Military Police Company, U.S. Army</FullName>
+    <SplitName>276th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Camp Arifjan</BaseName>
+        <Deployment>true</Deployment>
+        <Location />
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/kw/camp-arifjan</Url>
+        <Id>kw/camp-arifjan</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/372-mp-bn</Url>
+        <Id>us/army/372-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>372nd MP Bn</HHQAcronym>
+        <Name>372nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1946-aq-det</Url>
+    <NameNode>1946th Contingency Contracting Team
+                            U.S. Army</NameNode>
+    <FullName>1946th Contingency Contracting Team, U.S. Army</FullName>
+    <SplitName>1946th Contingency Contracting Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+        <Id>us/army/74-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>74th Troop Command</HHQAcronym>
+        <Name>74th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/257-army-band</Url>
+    <NameNode>257th Army Band
+                            U.S. Army</NameNode>
+    <FullName>257th Army Band, U.S. Army</FullName>
+    <SplitName>257th Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Joint Base Anacostia-Bolling</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, District of Columbia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/dc/jb-anacostia-bolling</Url>
+        <Id>us/dc/jb-anacostia-bolling</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+        <Id>us/army/74-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>74th Troop Command</HHQAcronym>
+        <Name>74th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/547-tc-co</Url>
+    <NameNode>547th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>547th Transportation Company, U.S. Army</FullName>
+    <SplitName>547th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+        <Id>us/army/74-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>74th Troop Command</HHQAcronym>
+        <Name>74th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/104-od-co</Url>
+    <NameNode>104th Ordnance Company
+                            U.S. Army</NameNode>
+    <FullName>104th Ordnance Company, U.S. Army</FullName>
+    <SplitName>104th Ordnance Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/74-trp-cmd</Url>
+        <Id>us/army/74-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>74th Troop Command</HHQAcronym>
+        <Name>74th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/260-rgt</Url>
+    <NameNode>260th Regiment
+                            U.S. Army</NameNode>
+    <FullName>260th Regiment, U.S. Army</FullName>
+    <SplitName>260th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>District of Columbia Army National Guard Regional Training Institute</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir | Mount Vernon, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/dc-arng-rti</Url>
+        <Id>us/va/dc-arng-rti</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+        <Id>us/army/jfhq-dc/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ District of Columbia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/33-cst</Url>
+    <NameNode>33rd Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>33rd Civil Support Team, U.S. Army</FullName>
+    <SplitName>33rd Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>District of Columbia Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, District of Columbia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/dc/district-of-columbia-armory</Url>
+        <Id>us/dc/district-of-columbia-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+        <Id>us/army/jfhq-dc/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ District of Columbia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-4</Url>
+    <NameNode>Detachment 4, Operational Support Airlift Command
+                            U.S. Army</NameNode>
+    <FullName>Detachment 4, Operational Support Airlift Command, U.S. Army</FullName>
+    <SplitName>Detachment 4, Operational Support Airlift Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davison Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir | Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/davison-aaf</Url>
+        <Id>us/va/davison-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+        <Id>us/army/jfhq-dc/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ District of Columbia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/121-mp-det</Url>
+    <NameNode>121st Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>121st Military Police Detachment, U.S. Army</FullName>
+    <SplitName>121st Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>District of Columbia Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, District of Columbia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/dc/district-of-columbia-armory</Url>
+        <Id>us/dc/district-of-columbia-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+        <Id>us/army/jfhq-dc/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ District of Columbia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/715-pa-det</Url>
+    <NameNode>715th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>715th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>715th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-dc/arng-elt</Url>
+        <Id>us/army/jfhq-dc/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ District of Columbia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters District of Columbia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

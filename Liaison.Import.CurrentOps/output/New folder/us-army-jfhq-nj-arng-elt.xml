@@ -1,0 +1,3407 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-nj/arng-elt</Url>
+    <NameNode>Army National Guard Element, JFHQ New Jersey
+                            U.S. Army</NameNode>
+    <FullName>Army National Guard Element, JFHQ New Jersey, U.S. Army</FullName>
+    <SplitName>Army National Guard Element, JFHQ New Jersey</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBOSiBBUk5HIEVMVA.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Dix</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB McGuire-Dix-Lakehurst | New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/fort-dix</Url>
+        <Id>us/nj/fort-dix</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-nj</Url>
+        <Id>us/ng/jfhq-nj</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ New Jersey</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <FullName>50th Infantry Brigade Combat Team</FullName>
+        <Name>50th Infantry Brigade Combat Team</Name>
+        <Id>us/army/50-ibct</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/42-rsg</Url>
+        <FullName>42nd Regional Support Group</FullName>
+        <Name>42nd Regional Support Group</Name>
+        <Id>us/army/42-rsg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <FullName>57th Troop Command</FullName>
+        <Name>57th Troop Command</Name>
+        <Id>us/army/57-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/254-rgt</Url>
+        <FullName>254th Regiment</FullName>
+        <Name>254th Regiment</Name>
+        <Id>us/army/254-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-19</Url>
+        <FullName>Detachment 19, Operational Support Airlift Command</FullName>
+        <Name>Detachment 19, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-19</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+    <NameNode>50th Infantry Brigade Combat Team
+                            U.S. Army</NameNode>
+    <FullName>50th Infantry Brigade Combat Team, U.S. Army</FullName>
+    <SplitName>50th Infantry Brigade Combat Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUJDVCAwMDUw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Lawrenceville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lawrenceville, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/lawrenceville-armory</Url>
+        <Id>us/nj/lawrenceville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-nj/arng-elt</Url>
+        <Id>us/army/jfhq-nj/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ New Jersey</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters New Jersey</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-id</Url>
+        <Id>us/army/42-id</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>42nd Infantry Division</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>42nd Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 50th Infantry Brigade Combat Team</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/50-ibct/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <FullName>1st Battalion, 114th Infantry Regiment</FullName>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+        <Id>us/army/114-in/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <FullName>2nd Battalion, 113th Infantry Regiment</FullName>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+        <Id>us/army/113-in/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <FullName>1st Squadron, 102nd Cavalry Regiment</FullName>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+        <FullName>3rd Battalion, 112th Field Artillery Regiment</FullName>
+        <Name>3rd Battalion, 112th Field Artillery Regiment</Name>
+        <Id>us/army/112-fa/3-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <FullName>250th Brigade Support Battalion</FullName>
+        <Name>250th Brigade Support Battalion</Name>
+        <Id>us/army/250-bsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb</Url>
+        <FullName>Special Troops Battalion, 50th Infantry Brigade Combat Team</FullName>
+        <Name>Special Troops Battalion</Name>
+        <Id>us/army/50-ibct/stb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-engr-co</Url>
+        <FullName>150th Engineer Company</FullName>
+        <Name>150th Engineer Company</Name>
+        <Id>us/army/150-engr-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/160-engr-co/det-1</Url>
+        <FullName>Detachment 1, 160th Engineer Company</FullName>
+        <Name>Detachment 1, 160th Engineer Company</Name>
+        <Id>us/army/160-engr-co/det-1</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 50th IBCT
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 50th IBCT, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 50th IBCT</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Lawrenceville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lawrenceville, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/lawrenceville-armory</Url>
+        <Id>us/nj/lawrenceville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+    <NameNode>1st Battalion, 114th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 114th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 114th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Woodbury Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Woodbury, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/woodbury-armory</Url>
+        <Id>us/nj/woodbury-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 114th Infantry Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/114-in/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 114th Infantry Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/114-in/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 114th Infantry Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/114-in/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 114th Infantry Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/114-in/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 114th Infantry Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/114-in/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-e</Url>
+        <FullName>Company E, 250th Brigade Support Battalion</FullName>
+        <Name>Company E, 250th Brigade Support Battalion
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/250-bsb/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-in/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 114th IN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 114th IN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 114th IN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Woodbury Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Woodbury, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/woodbury-armory</Url>
+        <Id>us/nj/woodbury-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 114th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 114th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 114th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mount Holly Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mount Holly, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/mount-holly-armory</Url>
+        <Id>us/nj/mount-holly-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 114th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 114th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 114th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Freehold Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Freehold, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/freehold-armory</Url>
+        <Id>us/nj/freehold-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 114th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 114th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 114th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Blackwood Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Blackwood, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/blackwood-afrc</Url>
+        <Id>us/nj/blackwood-afrc</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Burlington Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Burlington, New Jersey, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/burlington-armory</Url>
+        <Id>us/nj/burlington-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/114-in/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 114th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 114th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 114th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-e</Url>
+    <NameNode>Company E, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company E, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company E, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vineland Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vineland, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/vineland-armory</Url>
+        <Id>us/nj/vineland-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+    <NameNode>2nd Battalion, 113th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 113th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 113th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Riverdale Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverdale, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/riverdale-armory</Url>
+        <Id>us/nj/riverdale-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 2nd Battalion, 113th Infantry Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/113-in/2-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-a</Url>
+        <FullName>Company A, 2nd Battalion, 113th Infantry Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/113-in/2-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-b</Url>
+        <FullName>Company B, 2nd Battalion, 113th Infantry Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/113-in/2-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-c</Url>
+        <FullName>Company C, 2nd Battalion, 113th Infantry Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/113-in/2-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-d</Url>
+        <FullName>Company D, 2nd Battalion, 113th Infantry Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/113-in/2-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-f</Url>
+        <FullName>Company F, 250th Brigade Support Battalion</FullName>
+        <Name>Company F, 250th Brigade Support Battalion
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/250-bsb/co-f</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-in/2-bn/hhc</Url>
+    <NameNode>HHC, 2nd Bn, 113th IN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 2nd Bn, 113th IN, U.S. Army</FullName>
+    <SplitName>HHC, 2nd Bn, 113th IN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Riverdale Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverdale, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/riverdale-armory</Url>
+        <Id>us/nj/riverdale-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-a</Url>
+    <NameNode>Company A, 2nd Battalion, 113th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 2nd Battalion, 113th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 2nd Battalion, 113th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newark Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newark, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/newark-armory</Url>
+        <Id>us/nj/newark-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-b</Url>
+    <NameNode>Company B, 2nd Battalion, 113th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 2nd Battalion, 113th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 2nd Battalion, 113th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Jersey City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jersey City, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/jersey-city-armory</Url>
+        <Id>us/nj/jersey-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-c</Url>
+    <NameNode>Company C, 2nd Battalion, 113th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 2nd Battalion, 113th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 2nd Battalion, 113th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Woodbridge Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Woodbridge, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/woodbridge-armory</Url>
+        <Id>us/nj/woodbridge-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/113-in/2-bn/co-d</Url>
+    <NameNode>Company D, 2nd Battalion, 113th Infantry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 2nd Battalion, 113th Infantry Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 2nd Battalion, 113th Infantry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Jersey City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jersey City, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/jersey-city-armory</Url>
+        <Id>us/nj/jersey-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-f</Url>
+    <NameNode>Company F, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company F, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company F, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Teaneck Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Teaneck, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/teaneck-armory</Url>
+        <Id>us/nj/teaneck-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+    <NameNode>1st Squadron, 102nd Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Squadron, 102nd Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>1st Squadron, 102nd Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Westfield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westfield, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/westfield-armory</Url>
+        <Id>us/nj/westfield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/hht</Url>
+        <FullName>Headquarters and Headquarters Troop, 1st Squadron, 102nd Cavalry Regiment</FullName>
+        <Name>Headquarters and Headquarters Troop</Name>
+        <Id>us/army/102-cav/1-sqdn/hht</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/trp-a</Url>
+        <FullName>Troop A, 1st Squadron, 102nd Cavalry Regiment</FullName>
+        <Name>Troop A</Name>
+        <Id>us/army/102-cav/1-sqdn/trp-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/trp-b</Url>
+        <FullName>Troop B, 1st Squadron, 102nd Cavalry Regiment</FullName>
+        <Name>Troop B</Name>
+        <Id>us/army/102-cav/1-sqdn/trp-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/trp-c</Url>
+        <FullName>Troop C, 1st Squadron, 102nd Cavalry Regiment</FullName>
+        <Name>Troop C</Name>
+        <Id>us/army/102-cav/1-sqdn/trp-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-d</Url>
+        <FullName>Company D, 250th Brigade Support Battalion</FullName>
+        <Name>Company D, 250th Brigade Support Battalion
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/250-bsb/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/hht</Url>
+    <NameNode>HHT, 1st Sqdn, 102nd CAV
+                            U.S. Army</NameNode>
+    <FullName>HHT, 1st Sqdn, 102nd CAV, U.S. Army</FullName>
+    <SplitName>HHT, 1st Sqdn, 102nd CAV</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Westfield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westfield, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/westfield-armory</Url>
+        <Id>us/nj/westfield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 102nd CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/trp-a</Url>
+    <NameNode>Troop A, 1st Squadron, 102nd Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Troop A, 1st Squadron, 102nd Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>Troop A, 1st Squadron, 102nd Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Dover Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dover, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/dover-armory</Url>
+        <Id>us/nj/dover-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 102nd CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/trp-b</Url>
+    <NameNode>Troop B, 1st Squadron, 102nd Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Troop B, 1st Squadron, 102nd Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>Troop B, 1st Squadron, 102nd Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>West Orange Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Orange, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/west-orange-armory</Url>
+        <Id>us/nj/west-orange-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 102nd CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn/trp-c</Url>
+    <NameNode>Troop C, 1st Squadron, 102nd Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Troop C, 1st Squadron, 102nd Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>Troop C, 1st Squadron, 102nd Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hackettstown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hackettstown, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/hackettstown-armory</Url>
+        <Id>us/nj/hackettstown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 102nd CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-d</Url>
+    <NameNode>Company D, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company D, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company D, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Westfield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westfield, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/westfield-armory</Url>
+        <Id>us/nj/westfield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 102nd CAV</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+    <NameNode>3rd Battalion, 112th Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>3rd Battalion, 112th Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>3rd Battalion, 112th Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morristown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morristown, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/morristown-armory</Url>
+        <Id>us/nj/morristown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 3rd Battalion, 112th Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/112-fa/3-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn/btry-a</Url>
+        <FullName>Battery A, 3rd Battalion, 112th Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/112-fa/3-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn/btry-b</Url>
+        <FullName>Battery B, 3rd Battalion, 112th Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/112-fa/3-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-g</Url>
+        <FullName>Company G, 250th Brigade Support Battalion</FullName>
+        <Name>Company G, 250th Brigade Support Battalion
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/250-bsb/co-g</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-fa/3-bn/hhb</Url>
+    <NameNode>HHB, 3rd Bn, 112th FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 3rd Bn, 112th FA, U.S. Army</FullName>
+    <SplitName>HHB, 3rd Bn, 112th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morristown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morristown, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/morristown-armory</Url>
+        <Id>us/nj/morristown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+        <Id>us/army/112-fa/3-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd Battalion, 112th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>3rd Battalion, 112th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-fa/3-bn/btry-a</Url>
+    <NameNode>Battery A, 3rd Battalion, 112th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 3rd Battalion, 112th FA, U.S. Army</FullName>
+    <SplitName>Battery A, 3rd Battalion, 112th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morristown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morristown, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/morristown-armory</Url>
+        <Id>us/nj/morristown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+        <Id>us/army/112-fa/3-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd Battalion, 112th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>3rd Battalion, 112th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/112-fa/3-bn/btry-b</Url>
+    <NameNode>Battery B, 3rd Battalion, 112th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 3rd Battalion, 112th FA, U.S. Army</FullName>
+    <SplitName>Battery B, 3rd Battalion, 112th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toms River Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Toms River, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/toms-river-armory</Url>
+        <Id>us/nj/toms-river-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+        <Id>us/army/112-fa/3-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd Battalion, 112th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>3rd Battalion, 112th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-g</Url>
+    <NameNode>Company G, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company G, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company G, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morristown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morristown, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/morristown-armory</Url>
+        <Id>us/nj/morristown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+        <Id>us/army/112-fa/3-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd Battalion, 112th FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>3rd Battalion, 112th Field Artillery Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+    <NameNode>250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQlNCIDAyNTA.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Teaneck Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Teaneck, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/teaneck-armory</Url>
+        <Id>us/nj/teaneck-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 250th Brigade Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/250-bsb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-a</Url>
+        <FullName>Company A, 250th Brigade Support Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/250-bsb/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-b</Url>
+        <FullName>Company B, 250th Brigade Support Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/250-bsb/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-c</Url>
+        <FullName>Company C, 250th Brigade Support Battalion</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/250-bsb/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-d</Url>
+        <FullName>Company D, 250th Brigade Support Battalion</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/250-bsb/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-e</Url>
+        <FullName>Company E, 250th Brigade Support Battalion</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/250-bsb/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-f</Url>
+        <FullName>Company F, 250th Brigade Support Battalion</FullName>
+        <Name>Company F</Name>
+        <Id>us/army/250-bsb/co-f</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb/co-g</Url>
+        <FullName>Company G, 250th Brigade Support Battalion</FullName>
+        <Name>Company G</Name>
+        <Id>us/army/250-bsb/co-g</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 250th BSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 250th BSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 250th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Teaneck Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Teaneck, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/teaneck-armory</Url>
+        <Id>us/nj/teaneck-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-a</Url>
+    <NameNode>Company A, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Teaneck Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Teaneck, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/teaneck-armory</Url>
+        <Id>us/nj/teaneck-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-b</Url>
+    <NameNode>Company B, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-c</Url>
+    <NameNode>Company C, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company C, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company C, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Jersey City Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jersey City, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/jersey-city-armory</Url>
+        <Id>us/nj/jersey-city-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-d</Url>
+    <NameNode>Company D, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company D, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company D, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Westfield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westfield, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/westfield-armory</Url>
+        <Id>us/nj/westfield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/102-cav/1-sqdn</Url>
+        <Id>us/army/102-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 102nd CAV</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Squadron, 102nd Cavalry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-e</Url>
+    <NameNode>Company E, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company E, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company E, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vineland Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vineland, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/vineland-armory</Url>
+        <Id>us/nj/vineland-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/114-in/1-bn</Url>
+        <Id>us/army/114-in/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 114th IN</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 114th Infantry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-f</Url>
+    <NameNode>Company F, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company F, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company F, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Teaneck Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Teaneck, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/teaneck-armory</Url>
+        <Id>us/nj/teaneck-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/113-in/2-bn</Url>
+        <Id>us/army/113-in/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 113th IN</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>2nd Battalion, 113th Infantry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-bsb/co-g</Url>
+    <NameNode>Company G, 250th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company G, 250th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company G, 250th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morristown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morristown, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/morristown-armory</Url>
+        <Id>us/nj/morristown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/112-fa/3-bn</Url>
+        <Id>us/army/112-fa/3-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd Battalion, 112th FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>3rd Battalion, 112th Field Artillery Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/250-bsb</Url>
+        <Id>us/army/250-bsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>250th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>250th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct/stb</Url>
+    <NameNode>Special Troops Battalion, 50th IBCT
+                            U.S. Army</NameNode>
+    <FullName>Special Troops Battalion, 50th IBCT, U.S. Army</FullName>
+    <SplitName>Special Troops Battalion, 50th IBCT</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Port Murray Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Port Murray, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/port-murray-armory</Url>
+        <Id>us/nj/port-murray-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, Special Troops Battalion, 50th Infantry Brigade Combat Team</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/50-ibct/stb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb/co-a</Url>
+        <FullName>Company A, Special Troops Battalion, 50th Infantry Brigade Combat Team</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/50-ibct/stb/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb/co-b</Url>
+        <FullName>Company B, Special Troops Battalion, 50th Infantry Brigade Combat Team</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/50-ibct/stb/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb/co-c</Url>
+        <FullName>Company C, Special Troops Battalion, 50th Infantry Brigade Combat Team</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/50-ibct/stb/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct/stb/hhc</Url>
+    <NameNode>HHC, STB, 50th IBCT
+                            U.S. Army</NameNode>
+    <FullName>HHC, STB, 50th IBCT, U.S. Army</FullName>
+    <SplitName>HHC, STB, 50th IBCT</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Port Murray Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Port Murray, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/port-murray-armory</Url>
+        <Id>us/nj/port-murray-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb</Url>
+        <Id>us/army/50-ibct/stb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>STB, 50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Special Troops Battalion, 50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct/stb/co-a</Url>
+    <NameNode>Company A, Special Troops Battalion, 50th IBCT
+                            U.S. Army</NameNode>
+    <FullName>Company A, Special Troops Battalion, 50th IBCT, U.S. Army</FullName>
+    <SplitName>Company A, Special Troops Battalion, 50th IBCT</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb</Url>
+        <Id>us/army/50-ibct/stb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>STB, 50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Special Troops Battalion, 50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct/stb/co-b</Url>
+    <NameNode>Company B, Special Troops Battalion, 50th IBCT
+                            U.S. Army</NameNode>
+    <FullName>Company B, Special Troops Battalion, 50th IBCT, U.S. Army</FullName>
+    <SplitName>Company B, Special Troops Battalion, 50th IBCT</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>West Orange Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Orange, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/west-orange-armory</Url>
+        <Id>us/nj/west-orange-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb</Url>
+        <Id>us/army/50-ibct/stb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>STB, 50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Special Troops Battalion, 50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-ibct/stb/co-c</Url>
+    <NameNode>Company C, Special Troops Battalion, 50th IBCT
+                            U.S. Army</NameNode>
+    <FullName>Company C, Special Troops Battalion, 50th IBCT, U.S. Army</FullName>
+    <SplitName>Company C, Special Troops Battalion, 50th IBCT</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct/stb</Url>
+        <Id>us/army/50-ibct/stb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>STB, 50th IBCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Special Troops Battalion, 50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-engr-co</Url>
+    <NameNode>150th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>150th Engineer Company, U.S. Army</FullName>
+    <SplitName>150th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hammonton Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hammonton, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/hammonton-armory</Url>
+        <Id>us/nj/hammonton-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-engr-co/det-1</Url>
+        <FullName>Detachment 1, 150th Engineer Company</FullName>
+        <Name>Detachment 1
+
+                    (DE ARNG)</Name>
+        <Id>us/army/150-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 150th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 150th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 150th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newark Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newark, Delaware, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/de/newark-afrc</Url>
+        <Id>us/de/newark-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/721-trp-cmd</Url>
+        <Id>us/army/721-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>721st Troop Command</HHQAcronym>
+        <Name>721st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-engr-co</Url>
+        <Id>us/army/150-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>150th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>150th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/160-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 160th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 160th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 160th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tuckerton Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tuckerton, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/tuckerton-armory</Url>
+        <Id>us/nj/tuckerton-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-ibct</Url>
+        <Id>us/army/50-ibct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th IBCT</HHQAcronym>
+        <Name>50th Infantry Brigade Combat Team</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/160-engr-co</Url>
+        <Id>us/army/160-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>160th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>160th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/42-rsg</Url>
+    <NameNode>42nd Regional Support Group
+                            U.S. Army</NameNode>
+    <FullName>42nd Regional Support Group, U.S. Army</FullName>
+    <SplitName>42nd Regional Support Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgUlNHIDAwNDI.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Somerset Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Somerset, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/somerset-armory</Url>
+        <Id>us/nj/somerset-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-nj/arng-elt</Url>
+        <Id>us/army/jfhq-nj/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ New Jersey</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/117-cssb</Url>
+        <FullName>117th Combat Sustainment Support Battalion</FullName>
+        <Name>117th Combat Sustainment Support Battalion</Name>
+        <Id>us/army/117-cssb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/508-mp-co</Url>
+        <FullName>508th Military Police Company</FullName>
+        <Name>508th Military Police Company</Name>
+        <Id>us/army/508-mp-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-fmsu</Url>
+        <FullName>50th Financial Management Support Unit</FullName>
+        <Name>50th Financial Management Support Unit</Name>
+        <Id>us/army/50-fmsu</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/63-army-band</Url>
+        <FullName>63rd Army Band</FullName>
+        <Name>63rd Army Band</Name>
+        <Id>us/army/63-army-band</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/117-cssb</Url>
+    <NameNode>117th Combat Sustainment Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>117th Combat Sustainment Support Battalion, U.S. Army</FullName>
+    <SplitName>117th Combat Sustainment Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQ1NTQiAwMTE3.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Jersey Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Trenton, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/nj-arng-aasf-1</Url>
+        <Id>us/nj/nj-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-rsg</Url>
+        <Id>us/army/42-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>42nd RSG</HHQAcronym>
+        <Name>42nd Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/117-cssb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 117th Combat Sustainment Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/117-cssb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/154-qm-co</Url>
+        <FullName>154th Quartermaster Company</FullName>
+        <Name>154th Quartermaster Company</Name>
+        <Id>us/army/154-qm-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/50-cm-co</Url>
+        <FullName>50th Chemical Company</FullName>
+        <Name>50th Chemical Company</Name>
+        <Id>us/army/50-cm-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/117-cssb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 117th CSSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 117th CSSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 117th CSSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Jersey Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Trenton, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/nj-arng-aasf-1</Url>
+        <Id>us/nj/nj-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-cssb</Url>
+        <Id>us/army/117-cssb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>117th CSSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>117th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/154-qm-co</Url>
+    <NameNode>154th Quartermaster Company
+                            U.S. Army</NameNode>
+    <FullName>154th Quartermaster Company, U.S. Army</FullName>
+    <SplitName>154th Quartermaster Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sea Girt National Guard Training Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sea Girt, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/sea-girt-ng-tng-ctr</Url>
+        <Id>us/nj/sea-girt-ng-tng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-cssb</Url>
+        <Id>us/army/117-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th CSSB</HHQAcronym>
+        <Name>117th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-cm-co</Url>
+    <NameNode>50th Chemical Company
+                            U.S. Army</NameNode>
+    <FullName>50th Chemical Company, U.S. Army</FullName>
+    <SplitName>50th Chemical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Somerset Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Somerset, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/somerset-armory</Url>
+        <Id>us/nj/somerset-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-cssb</Url>
+        <Id>us/army/117-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th CSSB</HHQAcronym>
+        <Name>117th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/508-mp-co</Url>
+    <NameNode>508th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>508th Military Police Company, U.S. Army</FullName>
+    <SplitName>508th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Teaneck Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Teaneck, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/teaneck-armory</Url>
+        <Id>us/nj/teaneck-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-rsg</Url>
+        <Id>us/army/42-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>42nd RSG</HHQAcronym>
+        <Name>42nd Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/50-fmsu</Url>
+    <NameNode>50th Financial Management Support Unit
+                            U.S. Army</NameNode>
+    <FullName>50th Financial Management Support Unit, U.S. Army</FullName>
+    <SplitName>50th Financial Management Support Unit</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Flemington Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Flemington, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/flemington-armory</Url>
+        <Id>us/nj/flemington-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-rsg</Url>
+        <Id>us/army/42-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>42nd RSG</HHQAcronym>
+        <Name>42nd Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/250-fmsd</Url>
+        <FullName>250th Financial Management Support Detachment</FullName>
+        <Name>250th Financial Management Support Detachment</Name>
+        <Id>us/army/250-fmsd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/350-fmsd</Url>
+        <FullName>350th Financial Management Support Detachment</FullName>
+        <Name>350th Financial Management Support Detachment</Name>
+        <Id>us/army/350-fmsd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/250-fmsd</Url>
+    <NameNode>250th Financial Management Support Detachment
+                            U.S. Army</NameNode>
+    <FullName>250th Financial Management Support Detachment, U.S. Army</FullName>
+    <SplitName>250th Financial Management Support Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Flemington Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Flemington, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/flemington-armory</Url>
+        <Id>us/nj/flemington-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-fmsu</Url>
+        <Id>us/army/50-fmsu</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th FMSU</HHQAcronym>
+        <Name>50th Financial Management Support Unit</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/350-fmsd</Url>
+    <NameNode>350th Financial Management Support Detachment
+                            U.S. Army</NameNode>
+    <FullName>350th Financial Management Support Detachment, U.S. Army</FullName>
+    <SplitName>350th Financial Management Support Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Flemington Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Flemington, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/flemington-armory</Url>
+        <Id>us/nj/flemington-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/50-fmsu</Url>
+        <Id>us/army/50-fmsu</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>50th FMSU</HHQAcronym>
+        <Name>50th Financial Management Support Unit</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/63-army-band</Url>
+    <NameNode>63rd Army Band
+                            U.S. Army</NameNode>
+    <FullName>63rd Army Band, U.S. Army</FullName>
+    <SplitName>63rd Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sea Girt National Guard Training Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sea Girt, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/sea-girt-ng-tng-ctr</Url>
+        <Id>us/nj/sea-girt-ng-tng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-rsg</Url>
+        <Id>us/army/42-rsg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>42nd RSG</HHQAcronym>
+        <Name>42nd Regional Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+    <NameNode>57th Troop Command
+                            U.S. Army</NameNode>
+    <FullName>57th Troop Command, U.S. Army</FullName>
+    <SplitName>57th Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Atlantic City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Egg Harbor Township, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/atlantic-city-angb</Url>
+        <Id>us/nj/atlantic-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-nj/arng-elt</Url>
+        <Id>us/army/jfhq-nj/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ New Jersey</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <FullName>1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+        <Id>us/army/150-avn/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/119-cssb</Url>
+        <FullName>119th Combat Sustainment Support Battalion</FullName>
+        <Name>119th Combat Sustainment Support Battalion</Name>
+        <Id>us/army/119-cssb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/21-cst</Url>
+        <FullName>21st Civil Support Team</FullName>
+        <Name>21st Civil Support Team</Name>
+        <Id>us/army/21-cst</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/328-mp-co</Url>
+        <FullName>328th Military Police Company</FullName>
+        <Name>328th Military Police Company</Name>
+        <Id>us/army/328-mp-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/253-tc-co</Url>
+        <FullName>253rd Transportation Company</FullName>
+        <Name>253rd Transportation Company</Name>
+        <Id>us/army/253-tc-co</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/444-pa-det</Url>
+        <FullName>444th Public Affairs Detachment</FullName>
+        <Name>444th Public Affairs Detachment</Name>
+        <Id>us/army/444-pa-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+    <NameNode>1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Naval Air Engineering Station Lakehurst</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB McGuire-Dix-Lakehurst | Lakehurst, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/naes-lakehurst</Url>
+        <Id>us/nj/naes-lakehurst</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <Id>us/army/57-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>57th Troop Command</HHQAcronym>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/28-id/cab</Url>
+        <Id>us/army/28-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 28th ID</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Combat Aviation Brigade, 28th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/150-avn/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/150-avn/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Company B
+
+                    (PA ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Company C
+
+                    (WV ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/150-avn/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+        <FullName>Company E, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/150-avn/1-bn/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 150th AVN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Naval Air Engineering Station Lakehurst</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB McGuire-Dix-Lakehurst | Lakehurst, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/naes-lakehurst</Url>
+        <Id>us/nj/naes-lakehurst</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc/det-1</Url>
+        <FullName>Detachment 1, Headquarters and Headquarters Company, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (PA ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/hhc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc/det-1</Url>
+    <NameNode>Detachment 1, HHC, 1st Bn, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, HHC, 1st Bn, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, HHC, 1st Bn, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc</Url>
+        <Id>us/army/150-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc/det-1</Url>
+        <FullName>Detachment 1, Headquarters and Headquarters Company, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 1, Headquarters and Headquarters Company</Name>
+        <Id>us/army/150-avn/1-bn/hhc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company D</Name>
+        <Id>us/army/150-avn/1-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-1</Url>
+        <FullName>Detachment 1, Company E, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company E</Name>
+        <Id>us/army/150-avn/1-bn/co-e/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc/det-1</Url>
+    <NameNode>Detachment 1, HHC, 1st Bn, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, HHC, 1st Bn, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, HHC, 1st Bn, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/hhc</Url>
+        <Id>us/army/150-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+        <Id>us/army/150-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-1</Url>
+    <NameNode>Detachment 1, Company E, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company E, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company E, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+        <Id>us/army/150-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>772nd Avn Trp Cmd</HHQAcronym>
+        <Name>772nd Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company D</Name>
+        <Id>us/army/150-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-2</Url>
+        <FullName>Detachment 2, Company E, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company E</Name>
+        <Id>us/army/150-avn/1-bn/co-e/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+        <Id>us/army/150-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-2</Url>
+    <NameNode>Detachment 2, Company E, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company E, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company E, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+        <Id>us/army/150-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (PA ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (WV ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+        <Id>us/army/150-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+        <Id>us/army/150-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+    <NameNode>Company E, 1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company E, 1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company E, 1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-1</Url>
+        <FullName>Detachment 1, Company E, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (PA ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/co-e/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-2</Url>
+        <FullName>Detachment 2, Company E, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (WV ARNG)</Name>
+        <Id>us/army/150-avn/1-bn/co-e/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-1</Url>
+    <NameNode>Detachment 1, Company E, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company E, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company E, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-b</Url>
+        <Id>us/army/150-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+        <Id>us/army/150-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-2</Url>
+    <NameNode>Detachment 2, Company E, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company E, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company E, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+        <Id>us/army/150-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/119-cssb</Url>
+    <NameNode>119th Combat Sustainment Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>119th Combat Sustainment Support Battalion, U.S. Army</FullName>
+    <SplitName>119th Combat Sustainment Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQ1NTQiAwMTE5.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cherry Hill Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cherry Hill, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/cherry-hill-armory</Url>
+        <Id>us/nj/cherry-hill-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <Id>us/army/57-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>57th Troop Command</HHQAcronym>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/119-cssb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 119th Combat Sustainment Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/119-cssb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/119-cssb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 119th CSSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 119th CSSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 119th CSSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cherry Hill Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cherry Hill, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/cherry-hill-armory</Url>
+        <Id>us/nj/cherry-hill-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/119-cssb</Url>
+        <Id>us/army/119-cssb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>119th CSSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>119th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/21-cst</Url>
+    <NameNode>21st Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>21st Civil Support Team, U.S. Army</FullName>
+    <SplitName>21st Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Dix</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB McGuire-Dix-Lakehurst | New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/fort-dix</Url>
+        <Id>us/nj/fort-dix</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <Id>us/army/57-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>57th Troop Command</HHQAcronym>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/328-mp-co</Url>
+    <NameNode>328th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>328th Military Police Company, U.S. Army</FullName>
+    <SplitName>328th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cherry Hill Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cherry Hill, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/cherry-hill-armory</Url>
+        <Id>us/nj/cherry-hill-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <Id>us/army/57-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>57th Troop Command</HHQAcronym>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/253-tc-co</Url>
+    <NameNode>253rd Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>253rd Transportation Company, U.S. Army</FullName>
+    <SplitName>253rd Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cape May Court House Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cape May Court House, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/cape-may-court-house-armory</Url>
+        <Id>us/nj/cape-may-court-house-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <Id>us/army/57-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>57th Troop Command</HHQAcronym>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/444-pa-det</Url>
+    <NameNode>444th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>444th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>444th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Lawrenceville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lawrenceville, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/lawrenceville-armory</Url>
+        <Id>us/nj/lawrenceville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/57-trp-cmd</Url>
+        <Id>us/army/57-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>57th Troop Command</HHQAcronym>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/254-rgt</Url>
+    <NameNode>254th Regiment
+                            U.S. Army</NameNode>
+    <FullName>254th Regiment, U.S. Army</FullName>
+    <SplitName>254th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sea Girt National Guard Training Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sea Girt, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/sea-girt-ng-tng-ctr</Url>
+        <Id>us/nj/sea-girt-ng-tng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-nj/arng-elt</Url>
+        <Id>us/army/jfhq-nj/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ New Jersey</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/254-rgt/1-bn</Url>
+        <FullName>1st Battalion, 254th Regiment</FullName>
+        <Name>1st Battalion</Name>
+        <Id>us/army/254-rgt/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/254-rgt/2-bn</Url>
+        <FullName>2nd Battalion, 254th Regiment</FullName>
+        <Name>2nd Battalion</Name>
+        <Id>us/army/254-rgt/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/254-rgt/1-bn</Url>
+    <NameNode>1st Battalion, 254th Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 254th Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 254th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sea Girt National Guard Training Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sea Girt, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/sea-girt-ng-tng-ctr</Url>
+        <Id>us/nj/sea-girt-ng-tng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/254-rgt</Url>
+        <Id>us/army/254-rgt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>254th Regiment</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>254th Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/254-rgt/2-bn</Url>
+    <NameNode>2nd Battalion, 254th Regiment
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 254th Regiment, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 254th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sea Girt National Guard Training Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sea Girt, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/sea-girt-ng-tng-ctr</Url>
+        <Id>us/nj/sea-girt-ng-tng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/254-rgt</Url>
+        <Id>us/army/254-rgt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>254th Regiment</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>254th Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-19</Url>
+    <NameNode>Detachment 19, OSACOM
+                            U.S. Army</NameNode>
+    <FullName>Detachment 19, OSACOM, U.S. Army</FullName>
+    <SplitName>Detachment 19, OSACOM</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Jersey Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Trenton, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/nj-arng-aasf-1</Url>
+        <Id>us/nj/nj-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-nj/arng-elt</Url>
+        <Id>us/army/jfhq-nj/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ New Jersey</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters New Jersey</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

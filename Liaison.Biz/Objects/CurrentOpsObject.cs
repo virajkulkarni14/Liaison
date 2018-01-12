@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Liaison.Helper.Enumerators;
 
 namespace Liaison.Biz.Objects
 {
@@ -45,5 +46,8 @@ namespace Liaison.Biz.Objects
         public List<LocationObject> Locations { get; set; }
         public List<HigherHqObject> HigherHq { get; set; }
         public List<SubUnitObject> Children { get; set; }
+        public Services UnitService { get; set; }
+        public ServiceType UnitComponent { get; set; }
+        public string UnitNGState { get; set; }
     }
 }

@@ -1,0 +1,1459 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-al/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Alabama
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Alabama, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Alabama</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Alabama National Guard Joint Force Headquarters Alabama National Guard Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/al-ng-jfhq/al-ng-afrc</Url>
+        <Id>us/al/al-ng-jfhq/al-ng-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-al</Url>
+        <Id>us/ng/jfhq-al</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Alabama</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Alabama</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <FullName>117th Air Refueling Wing</FullName>
+        <Name>117th Air Refueling Wing</Name>
+        <Id>us/usaf/117-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+        <FullName>187th Fighter Wing</FullName>
+        <Name>187th Fighter Wing</Name>
+        <Id>us/usaf/187-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/226-ccg</Url>
+        <FullName>226th Combat Communications Group</FullName>
+        <Name>226th Combat Communications Group</Name>
+        <Id>us/usaf/226-ccg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+    <NameNode>117th Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>117th Air Refueling Wing, USAF</FullName>
+    <SplitName>117th Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-al/ang-elt</Url>
+        <Id>us/usaf/jfhq-al/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Alabama</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Alabama</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-og</Url>
+        <FullName>117th Operations Group</FullName>
+        <Name>117th Operations Group</Name>
+        <Id>us/usaf/117-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+        <FullName>117th Mission Support Group</FullName>
+        <Name>117th Mission Support Group</Name>
+        <Id>us/usaf/117-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mxg</Url>
+        <FullName>117th Maintenance Group</FullName>
+        <Name>117th Maintenance Group</Name>
+        <Id>us/usaf/117-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mdg</Url>
+        <FullName>117th Medical Group</FullName>
+        <Name>117th Medical Group</Name>
+        <Id>us/usaf/117-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-cptf</Url>
+        <FullName>117th Comptroller Flight</FullName>
+        <Name>117th Comptroller Flight</Name>
+        <Id>us/usaf/117-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-is</Url>
+        <FullName>117th Intelligence Squadron</FullName>
+        <Name>117th Intelligence Squadron</Name>
+        <Id>us/usaf/117-is</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-og</Url>
+    <NameNode>117th Operations Group
+                            USAF</NameNode>
+    <FullName>117th Operations Group, USAF</FullName>
+    <SplitName>117th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <Id>us/usaf/117-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th ARW</HHQAcronym>
+        <Name>117th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/106-ars</Url>
+        <FullName>106th Air Refueling Squadron</FullName>
+        <Name>106th Air Refueling Squadron</Name>
+        <Id>us/usaf/106-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-osf</Url>
+        <FullName>117th Operations Support Flight</FullName>
+        <Name>117th Operations Support Flight</Name>
+        <Id>us/usaf/117-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/106-ars</Url>
+    <NameNode>106th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>106th Air Refueling Squadron, USAF</FullName>
+    <SplitName>106th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-og</Url>
+        <Id>us/usaf/117-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th Operations Group</HHQAcronym>
+        <Name>117th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-osf</Url>
+    <NameNode>117th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>117th Operations Support Flight, USAF</FullName>
+    <SplitName>117th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-og</Url>
+        <Id>us/usaf/117-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th Operations Group</HHQAcronym>
+        <Name>117th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+    <NameNode>117th Mission Support Group
+                            USAF</NameNode>
+    <FullName>117th Mission Support Group, USAF</FullName>
+    <SplitName>117th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <Id>us/usaf/117-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th ARW</HHQAcronym>
+        <Name>117th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-ces</Url>
+        <FullName>117th Civil Engineer Squadron</FullName>
+        <Name>117th Civil Engineer Squadron</Name>
+        <Id>us/usaf/117-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-fss</Url>
+        <FullName>117th Force Support Squadron</FullName>
+        <Name>117th Force Support Squadron</Name>
+        <Id>us/usaf/117-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-lrs</Url>
+        <FullName>117th Logistics Readiness Squadron</FullName>
+        <Name>117th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/117-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-sfs</Url>
+        <FullName>117th Security Forces Squadron</FullName>
+        <Name>117th Security Forces Squadron</Name>
+        <Id>us/usaf/117-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-cf</Url>
+        <FullName>117th Communications Flight</FullName>
+        <Name>117th Communications Flight</Name>
+        <Id>us/usaf/117-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-ces</Url>
+    <NameNode>117th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>117th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>117th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+        <Id>us/usaf/117-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MSG</HHQAcronym>
+        <Name>117th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-fss</Url>
+    <NameNode>117th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>117th Force Support Squadron, USAF</FullName>
+    <SplitName>117th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+        <Id>us/usaf/117-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MSG</HHQAcronym>
+        <Name>117th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-lrs</Url>
+    <NameNode>117th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>117th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>117th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+        <Id>us/usaf/117-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MSG</HHQAcronym>
+        <Name>117th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-sfs</Url>
+    <NameNode>117th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>117th Security Forces Squadron, USAF</FullName>
+    <SplitName>117th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+        <Id>us/usaf/117-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MSG</HHQAcronym>
+        <Name>117th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-cf</Url>
+    <NameNode>117th Communications Flight
+                            USAF</NameNode>
+    <FullName>117th Communications Flight, USAF</FullName>
+    <SplitName>117th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-msg</Url>
+        <Id>us/usaf/117-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MSG</HHQAcronym>
+        <Name>117th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-mxg</Url>
+    <NameNode>117th Maintenance Group
+                            USAF</NameNode>
+    <FullName>117th Maintenance Group, USAF</FullName>
+    <SplitName>117th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <Id>us/usaf/117-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th ARW</HHQAcronym>
+        <Name>117th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-amxs</Url>
+        <FullName>117th Aircraft Maintenance Squadron</FullName>
+        <Name>117th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/117-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mxs</Url>
+        <FullName>117th Maintenance Squadron</FullName>
+        <Name>117th Maintenance Squadron</Name>
+        <Id>us/usaf/117-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mof</Url>
+        <FullName>117th Maintenance Operations Flight</FullName>
+        <Name>117th Maintenance Operations Flight</Name>
+        <Id>us/usaf/117-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-amxs</Url>
+    <NameNode>117th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>117th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>117th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mxg</Url>
+        <Id>us/usaf/117-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MXG</HHQAcronym>
+        <Name>117th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-mxs</Url>
+    <NameNode>117th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>117th Maintenance Squadron, USAF</FullName>
+    <SplitName>117th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mxg</Url>
+        <Id>us/usaf/117-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MXG</HHQAcronym>
+        <Name>117th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-mof</Url>
+    <NameNode>117th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>117th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>117th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-mxg</Url>
+        <Id>us/usaf/117-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th MXG</HHQAcronym>
+        <Name>117th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-mdg</Url>
+    <NameNode>117th Medical Group
+                            USAF</NameNode>
+    <FullName>117th Medical Group, USAF</FullName>
+    <SplitName>117th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <Id>us/usaf/117-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th ARW</HHQAcronym>
+        <Name>117th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-cptf</Url>
+    <NameNode>117th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>117th Comptroller Flight, USAF</FullName>
+    <SplitName>117th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <Id>us/usaf/117-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th ARW</HHQAcronym>
+        <Name>117th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/117-is</Url>
+    <NameNode>117th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>117th Intelligence Squadron, USAF</FullName>
+    <SplitName>117th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-angb</Url>
+        <Id>us/al/birmingham-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/117-arw</Url>
+        <Id>us/usaf/117-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th ARW</HHQAcronym>
+        <Name>117th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+    <NameNode>187th Fighter Wing
+                            USAF</NameNode>
+    <FullName>187th Fighter Wing, USAF</FullName>
+    <SplitName>187th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-al/ang-elt</Url>
+        <Id>us/usaf/jfhq-al/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Alabama</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Alabama</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-og</Url>
+        <FullName>187th Operations Group</FullName>
+        <Name>187th Operations Group</Name>
+        <Id>us/usaf/187-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <FullName>187th Mission Support Group</FullName>
+        <Name>187th Mission Support Group</Name>
+        <Id>us/usaf/187-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mxg</Url>
+        <FullName>187th Maintenance Group</FullName>
+        <Name>187th Maintenance Group</Name>
+        <Id>us/usaf/187-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mdg</Url>
+        <FullName>187th Medical Group</FullName>
+        <Name>187th Medical Group</Name>
+        <Id>us/usaf/187-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-cptf</Url>
+        <FullName>187th Comptroller Flight</FullName>
+        <Name>187th Comptroller Flight</Name>
+        <Id>us/usaf/187-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-og</Url>
+    <NameNode>187th Operations Group
+                            USAF</NameNode>
+    <FullName>187th Operations Group, USAF</FullName>
+    <SplitName>187th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+        <Id>us/usaf/187-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Fighter Wing</HHQAcronym>
+        <Name>187th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/100-fs</Url>
+        <FullName>100th Fighter Squadron</FullName>
+        <Name>100th Fighter Squadron</Name>
+        <Id>us/usaf/100-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-osf</Url>
+        <FullName>187th Operations Support Flight</FullName>
+        <Name>187th Operations Support Flight</Name>
+        <Id>us/usaf/187-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/100-fs</Url>
+    <NameNode>100th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>100th Fighter Squadron, USAF</FullName>
+    <SplitName>100th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-og</Url>
+        <Id>us/usaf/187-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Operations Group</HHQAcronym>
+        <Name>187th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-osf</Url>
+    <NameNode>187th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>187th Operations Support Flight, USAF</FullName>
+    <SplitName>187th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-og</Url>
+        <Id>us/usaf/187-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Operations Group</HHQAcronym>
+        <Name>187th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+    <NameNode>187th Mission Support Group
+                            USAF</NameNode>
+    <FullName>187th Mission Support Group, USAF</FullName>
+    <SplitName>187th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+        <Id>us/usaf/187-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Fighter Wing</HHQAcronym>
+        <Name>187th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-ces</Url>
+        <FullName>187th Civil Engineer Squadron</FullName>
+        <Name>187th Civil Engineer Squadron</Name>
+        <Id>us/usaf/187-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fss</Url>
+        <FullName>187th Force Support Squadron</FullName>
+        <Name>187th Force Support Squadron</Name>
+        <Id>us/usaf/187-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-lrs</Url>
+        <FullName>187th Logistics Readiness Squadron</FullName>
+        <Name>187th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/187-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-sfs</Url>
+        <FullName>187th Security Forces Squadron</FullName>
+        <Name>187th Security Forces Squadron</Name>
+        <Id>us/usaf/187-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-cf</Url>
+        <FullName>187th Communications Flight</FullName>
+        <Name>187th Communications Flight</Name>
+        <Id>us/usaf/187-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-svf</Url>
+        <FullName>187th Services Flight</FullName>
+        <Name>187th Services Flight</Name>
+        <Id>us/usaf/187-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-ces</Url>
+    <NameNode>187th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>187th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>187th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <Id>us/usaf/187-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MSG</HHQAcronym>
+        <Name>187th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-fss</Url>
+    <NameNode>187th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>187th Force Support Squadron, USAF</FullName>
+    <SplitName>187th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <Id>us/usaf/187-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MSG</HHQAcronym>
+        <Name>187th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-lrs</Url>
+    <NameNode>187th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>187th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>187th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <Id>us/usaf/187-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MSG</HHQAcronym>
+        <Name>187th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-sfs</Url>
+    <NameNode>187th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>187th Security Forces Squadron, USAF</FullName>
+    <SplitName>187th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <Id>us/usaf/187-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MSG</HHQAcronym>
+        <Name>187th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-cf</Url>
+    <NameNode>187th Communications Flight
+                            USAF</NameNode>
+    <FullName>187th Communications Flight, USAF</FullName>
+    <SplitName>187th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <Id>us/usaf/187-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MSG</HHQAcronym>
+        <Name>187th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-svf</Url>
+    <NameNode>187th Services Flight
+                            USAF</NameNode>
+    <FullName>187th Services Flight, USAF</FullName>
+    <SplitName>187th Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-msg</Url>
+        <Id>us/usaf/187-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MSG</HHQAcronym>
+        <Name>187th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-mxg</Url>
+    <NameNode>187th Maintenance Group
+                            USAF</NameNode>
+    <FullName>187th Maintenance Group, USAF</FullName>
+    <SplitName>187th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+        <Id>us/usaf/187-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Fighter Wing</HHQAcronym>
+        <Name>187th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-amxs</Url>
+        <FullName>187th Aircraft Maintenance Squadron</FullName>
+        <Name>187th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/187-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mxs</Url>
+        <FullName>187th Maintenance Squadron</FullName>
+        <Name>187th Maintenance Squadron</Name>
+        <Id>us/usaf/187-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mof</Url>
+        <FullName>187th Maintenance Operations Flight</FullName>
+        <Name>187th Maintenance Operations Flight</Name>
+        <Id>us/usaf/187-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-amxs</Url>
+    <NameNode>187th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>187th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>187th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mxg</Url>
+        <Id>us/usaf/187-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MXG</HHQAcronym>
+        <Name>187th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-mxs</Url>
+    <NameNode>187th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>187th Maintenance Squadron, USAF</FullName>
+    <SplitName>187th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mxg</Url>
+        <Id>us/usaf/187-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MXG</HHQAcronym>
+        <Name>187th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-mof</Url>
+    <NameNode>187th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>187th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>187th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-mxg</Url>
+        <Id>us/usaf/187-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th MXG</HHQAcronym>
+        <Name>187th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-mdg</Url>
+    <NameNode>187th Medical Group
+                            USAF</NameNode>
+    <FullName>187th Medical Group, USAF</FullName>
+    <SplitName>187th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+        <Id>us/usaf/187-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Fighter Wing</HHQAcronym>
+        <Name>187th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/187-cptf</Url>
+    <NameNode>187th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>187th Comptroller Flight, USAF</FullName>
+    <SplitName>187th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montgomery Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/montgomery-angb</Url>
+        <Id>us/al/montgomery-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/187-fw</Url>
+        <Id>us/usaf/187-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>187th Fighter Wing</HHQAcronym>
+        <Name>187th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/226-ccg</Url>
+    <NameNode>226th Combat Communications Group
+                            USAF</NameNode>
+    <FullName>226th Combat Communications Group, USAF</FullName>
+    <SplitName>226th Combat Communications Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Abston Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/abston-angs</Url>
+        <Id>us/al/abston-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-al/ang-elt</Url>
+        <Id>us/usaf/jfhq-al/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Alabama</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Alabama</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/232-cbcs</Url>
+        <FullName>232nd Combat Communications Squadron</FullName>
+        <Name>232nd Combat Communications Squadron</Name>
+        <Id>us/usaf/232-cbcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/280-cbcs</Url>
+        <FullName>280th Combat Communications Squadron</FullName>
+        <Name>280th Combat Communications Squadron</Name>
+        <Id>us/usaf/280-cbcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/232-cbcs</Url>
+    <NameNode>232nd Combat Communications Squadron
+                            USAF</NameNode>
+    <FullName>232nd Combat Communications Squadron, USAF</FullName>
+    <SplitName>232nd Combat Communications Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Abston Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montgomery, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/abston-angs</Url>
+        <Id>us/al/abston-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/226-ccg</Url>
+        <Id>us/usaf/226-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>226th CCG</HHQAcronym>
+        <Name>226th Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/280-cbcs</Url>
+    <NameNode>280th Combat Communications Squadron
+                            USAF</NameNode>
+    <FullName>280th Combat Communications Squadron, USAF</FullName>
+    <SplitName>280th Combat Communications Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Dothan Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dothan, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/dothan-angs</Url>
+        <Id>us/al/dothan-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/226-ccg</Url>
+        <Id>us/usaf/226-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>226th CCG</HHQAcronym>
+        <Name>226th Combat Communications Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/afsoawc</Url>
+        <Id>us/usaf/afsoawc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>AFSOAWC</HHQAcronym>
+        <Name>Air Force Special Operations Air Warfare Center</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

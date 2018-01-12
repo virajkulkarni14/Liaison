@@ -1,101 +1,13 @@
 <?xml version="1.0"?>
 <ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CurrentOpsObject>
-    <Url>https://currentops.com/unit/us/army/osa</Url>
-    <NameNode>Office of the Secretary of the Army
-                            U.S. Army</NameNode>
-    <FullName>Office of the Secretary of the Army, U.S. Army</FullName>
-    <SplitName>Office of the Secretary of the Army</SplitName>
-    <Service>U.S. Army</Service>
-    <LogoUrl />
-    <Locations>
-      <LocationObject>
-        <DateRange>... - Present</DateRange>
-        <BaseName>Pentagon</BaseName>
-        <Deployment>false</Deployment>
-        <Location>Arlington, Virginia, United States</Location>
-        <IsCurrent>true</IsCurrent>
-        <Url>https://currentops.com/installations/us/va/pentagon</Url>
-        <Id>us/va/pentagon</Id>
-      </LocationObject>
-    </Locations>
-    <HigherHq>
-      <HigherHqObject>
-        <Url>https://currentops.com/unit/us/army/doa</Url>
-        <Id>us/army/doa</Id>
-        <DateRange>... - Present</DateRange>
-        <IsCurrent>true</IsCurrent>
-        <HHQAcronym>Department of the Army</HHQAcronym>
-        <Name>Department of the Army</Name>
-      </HigherHqObject>
-    </HigherHq>
-    <Children>
-      <SubUnitObject>
-        <Url>https://currentops.com/unit/us/army/ceac</Url>
-        <FullName>Cost and Economic Analysis Agency</FullName>
-        <Name>Cost and Economic Analysis Agency</Name>
-        <Id>us/army/ceac</Id>
-        <IsIndirect>false</IsIndirect>
-      </SubUnitObject>
-      <SubUnitObject>
-        <Url>https://currentops.com/unit/us/army/fincom</Url>
-        <FullName>Finance Command</FullName>
-        <Name>Finance Command</Name>
-        <Id>us/army/fincom</Id>
-        <IsIndirect>false</IsIndirect>
-      </SubUnitObject>
-    </Children>
-  </CurrentOpsObject>
-  <CurrentOpsObject>
-    <Url>https://currentops.com/unit/us/army/ceac</Url>
-    <NameNode>Cost and Economic Analysis Agency
-                            U.S. Army</NameNode>
-    <FullName>Cost and Economic Analysis Agency, U.S. Army</FullName>
-    <SplitName>Cost and Economic Analysis Agency</SplitName>
-    <Service>U.S. Army</Service>
-    <LogoUrl />
-    <Locations />
-    <HigherHq>
-      <HigherHqObject>
-        <Url>https://currentops.com/unit/us/army/osa</Url>
-        <Id>us/army/osa</Id>
-        <DateRange>... - Present</DateRange>
-        <IsCurrent>true</IsCurrent>
-        <HHQAcronym>OSA</HHQAcronym>
-        <Name>Office of the Secretary of the Army</Name>
-      </HigherHqObject>
-    </HigherHq>
-    <Children />
-  </CurrentOpsObject>
-  <CurrentOpsObject>
-    <Url>https://currentops.com/unit/us/army/fincom</Url>
-    <NameNode>Finance Command
-                            U.S. Army</NameNode>
-    <FullName>Finance Command, U.S. Army</FullName>
-    <SplitName>Finance Command</SplitName>
-    <Service>U.S. Army</Service>
-    <LogoUrl />
-    <Locations />
-    <HigherHq>
-      <HigherHqObject>
-        <Url>https://currentops.com/unit/us/army/osa</Url>
-        <Id>us/army/osa</Id>
-        <DateRange>... - Present</DateRange>
-        <IsCurrent>true</IsCurrent>
-        <HHQAcronym>OSA</HHQAcronym>
-        <Name>Office of the Secretary of the Army</Name>
-      </HigherHqObject>
-    </HigherHq>
-    <Children />
-  </CurrentOpsObject>
-  <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/tradoc</Url>
     <NameNode>Training and Doctrine Command
                             U.S. Army</NameNode>
     <FullName>Training and Doctrine Command, U.S. Army</FullName>
     <SplitName>Training and Doctrine Command</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVFJBRE9D.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVFJBRE9D.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -196,6 +108,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/cac</Url>
@@ -204,7 +118,7 @@
     <FullName>United States Army Combined Arms Center, U.S. Army</FullName>
     <SplitName>United States Army Combined Arms Center</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQ0FD.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQ0FD.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -263,6 +177,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usaace</Url>
@@ -316,6 +232,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-avn-bde</Url>
@@ -324,7 +242,7 @@
     <FullName>1st Aviation Brigade, U.S. Army</FullName>
     <SplitName>1st Aviation Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMDAx.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMDAx.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -355,6 +273,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/110-avn-bde</Url>
@@ -363,7 +283,7 @@
     <FullName>110th Aviation Brigade, U.S. Army</FullName>
     <SplitName>110th Aviation Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMTEw.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMTEw.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -386,6 +306,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/128-avn-bde</Url>
@@ -394,7 +316,7 @@
     <FullName>128th Aviation Brigade, U.S. Army</FullName>
     <SplitName>128th Aviation Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMTI4.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMTI4.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -417,6 +339,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usaicoe</Url>
@@ -448,6 +372,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/sigcoe</Url>
@@ -479,6 +405,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/mccoe</Url>
@@ -510,6 +438,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usag-fort-leavenworth</Url>
@@ -518,7 +448,7 @@
     <FullName>United States Army Garrison Fort Leavenworth, U.S. Army</FullName>
     <SplitName>United States Army Garrison Fort Leavenworth</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU1DT00.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU1DT00.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -557,6 +487,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/arcic</Url>
@@ -596,6 +528,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/bmc</Url>
@@ -640,6 +574,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct</Url>
@@ -648,7 +584,7 @@
     <FullName>2nd Brigade Combat Team, 1st Armored Division, U.S. Army</FullName>
     <SplitName>2nd Brigade Combat Team, 1st Armored Division</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -730,6 +666,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct/hhc</Url>
@@ -738,7 +676,7 @@
     <FullName>HHC, 2nd BCT, 1st AD, U.S. Army</FullName>
     <SplitName>HHC, 2nd BCT, 1st AD</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -762,6 +700,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-in/1-bn</Url>
@@ -841,6 +781,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-in/1-bn/hhc</Url>
@@ -873,6 +815,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-in/1-bn/co-a</Url>
@@ -905,6 +849,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-in/1-bn/co-b</Url>
@@ -937,6 +883,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-in/1-bn/co-c</Url>
@@ -969,6 +917,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-in/1-bn/co-d</Url>
@@ -1001,6 +951,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-e</Url>
@@ -1042,6 +994,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/35-ar/1-bn</Url>
@@ -1121,6 +1075,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/35-ar/1-bn/hhc</Url>
@@ -1153,6 +1109,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/35-ar/1-bn/co-a</Url>
@@ -1185,6 +1143,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/35-ar/1-bn/co-b</Url>
@@ -1217,6 +1177,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/35-ar/1-bn/co-c</Url>
@@ -1249,6 +1211,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/35-ar/1-bn/co-d</Url>
@@ -1281,6 +1245,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-f</Url>
@@ -1322,6 +1288,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-cav/1-sqdn</Url>
@@ -1411,6 +1379,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-cav/1-sqdn/hht</Url>
@@ -1443,6 +1413,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-cav/1-sqdn/trp-a</Url>
@@ -1475,6 +1447,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-cav/1-sqdn/trp-b</Url>
@@ -1507,6 +1481,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-cav/1-sqdn/trp-c</Url>
@@ -1539,6 +1515,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-d</Url>
@@ -1580,6 +1558,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/27-fa/4-bn</Url>
@@ -1678,6 +1658,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/27-fa/4-bn/hhb</Url>
@@ -1710,6 +1692,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/27-fa/4-bn/btry-a</Url>
@@ -1742,6 +1726,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/27-fa/4-bn/btry-b</Url>
@@ -1774,6 +1760,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-g</Url>
@@ -1815,6 +1803,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb</Url>
@@ -1904,6 +1894,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/hhc</Url>
@@ -1936,6 +1928,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-a</Url>
@@ -1968,6 +1962,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-b</Url>
@@ -2000,6 +1996,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-c</Url>
@@ -2032,6 +2030,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-d</Url>
@@ -2073,6 +2073,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-e</Url>
@@ -2114,6 +2116,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-f</Url>
@@ -2155,6 +2159,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-bsb/co-g</Url>
@@ -2196,6 +2202,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct/stb</Url>
@@ -2204,7 +2212,7 @@
     <FullName>Special Troops Battalion, 2nd BCT, 1st AD, U.S. Army</FullName>
     <SplitName>Special Troops Battalion, 2nd BCT, 1st AD</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -2257,6 +2265,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct/stb/hhc</Url>
@@ -2265,7 +2275,7 @@
     <FullName>HHC, STB, 2nd BCT, 1st AD, U.S. Army</FullName>
     <SplitName>HHC, STB, 2nd BCT, 1st AD</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -2289,6 +2299,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct/stb/co-a</Url>
@@ -2297,7 +2309,7 @@
     <FullName>Company A, Special Troops Battalion, 2nd BCT, 1st AD, U.S. Army</FullName>
     <SplitName>Company A, Special Troops Battalion, 2nd BCT, 1st AD</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -2321,6 +2333,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct/stb/co-b</Url>
@@ -2329,7 +2343,7 @@
     <FullName>Company B, Special Troops Battalion, 2nd BCT, 1st AD, U.S. Army</FullName>
     <SplitName>Company B, Special Troops Battalion, 2nd BCT, 1st AD</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -2353,6 +2367,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-ad/2-bct/stb/co-c</Url>
@@ -2361,7 +2377,7 @@
     <FullName>Company C, Special Troops Battalion, 2nd BCT, 1st AD, U.S. Army</FullName>
     <SplitName>Company C, Special Troops Battalion, 2nd BCT, 1st AD</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQUQgMDAwMQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -2385,6 +2401,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/mcoe</Url>
@@ -2393,7 +2411,7 @@
     <FullName>Maneuver Center of Excellence, U.S. Army</FullName>
     <SplitName>Maneuver Center of Excellence</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTUNPRQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTUNPRQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -2431,6 +2449,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usais</Url>
@@ -2439,7 +2459,7 @@
     <FullName>United States Army Infantry School, U.S. Army</FullName>
     <SplitName>United States Army Infantry School</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBSVM.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBSVM.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -2491,6 +2511,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/198-in-bde</Url>
@@ -2499,7 +2521,7 @@
     <FullName>198th Infantry Brigade, U.S. Army</FullName>
     <SplitName>198th Infantry Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTg.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTg.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -2530,6 +2552,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/199-in-bde</Url>
@@ -2538,7 +2562,7 @@
     <FullName>199th Infantry Brigade, U.S. Army</FullName>
     <SplitName>199th Infantry Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTk.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTk.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -2569,6 +2593,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/artb</Url>
@@ -2629,6 +2655,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/4-rtbn</Url>
@@ -2660,6 +2688,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/5-rtbn</Url>
@@ -2691,6 +2721,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-rtbn</Url>
@@ -2722,6 +2754,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/507-in/1-bn</Url>
@@ -2753,6 +2787,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/amws</Url>
@@ -2784,6 +2820,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usaarms</Url>
@@ -2792,7 +2830,7 @@
     <FullName>United States Army Armor School, U.S. Army</FullName>
     <SplitName>United States Army Armor School</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBQVJNUw.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBQVJNUw.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -2839,6 +2877,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/194-armored-bde</Url>
@@ -2914,6 +2954,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/81-ar/1-bn</Url>
@@ -2945,6 +2987,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/15-cav/5-sqdn</Url>
@@ -2976,6 +3020,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/46-in/1-bn</Url>
@@ -3007,6 +3053,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-in/2-bn</Url>
@@ -3038,6 +3086,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/30-ag-bn</Url>
@@ -3069,6 +3119,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/316-cav-bde</Url>
@@ -3077,7 +3129,7 @@
     <FullName>316th Cavalry Brigade, U.S. Army</FullName>
     <SplitName>316th Cavalry Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQ0FWIEJERSAwMzE2.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQ0FWIEJERSAwMzE2.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -3137,6 +3189,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/16-cav/1-sqdn</Url>
@@ -3168,6 +3222,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/16-cav/3-sqdn</Url>
@@ -3199,6 +3255,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/29-in/1-bn</Url>
@@ -3238,6 +3296,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/29-in/2-bn</Url>
@@ -3277,6 +3337,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/fcoe</Url>
@@ -3285,7 +3347,7 @@
     <FullName>Fires Center of Excellence, U.S. Army</FullName>
     <SplitName>Fires Center of Excellence</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRkNPRQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRkNPRQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -3335,6 +3397,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usafas</Url>
@@ -3366,6 +3430,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usaadasch</Url>
@@ -3397,6 +3463,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/75-fa-bde</Url>
@@ -3405,7 +3473,7 @@
     <FullName>75th Field Artillery Brigade, U.S. Army</FullName>
     <SplitName>75th Field Artillery Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRklCIDAwNzU.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRklCIDAwNzU.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange />
@@ -3488,6 +3556,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/75-fa-bde/hhb</Url>
@@ -3520,6 +3590,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/13-fa/3-bn</Url>
@@ -3606,6 +3678,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/13-fa/3-bn/hhb</Url>
@@ -3638,6 +3712,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/13-fa/3-bn/btry-a</Url>
@@ -3670,6 +3746,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/13-fa/3-bn/btry-b</Url>
@@ -3702,6 +3780,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/66-fsc</Url>
@@ -3734,6 +3814,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/26-fa/btry-c</Url>
@@ -3783,6 +3865,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/15-fmsu/det-d</Url>
@@ -3822,6 +3906,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/18-fa/2-bn</Url>
@@ -3901,6 +3987,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/18-fa/2-bn/hhb</Url>
@@ -3933,6 +4021,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/18-fa/2-bn/btry-a</Url>
@@ -3965,6 +4055,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/18-fa/2-bn/btry-b</Url>
@@ -3997,6 +4089,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/69-fsc</Url>
@@ -4029,6 +4123,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/258-sc-co</Url>
@@ -4078,6 +4174,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-bsb</Url>
@@ -4148,6 +4246,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-bsb/hhc</Url>
@@ -4180,6 +4280,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-bsb/co-a</Url>
@@ -4212,6 +4314,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-bsb/co-b</Url>
@@ -4244,6 +4348,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/15-tc-co</Url>
@@ -4275,6 +4381,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/26-fa/btry-c</Url>
@@ -4324,6 +4432,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/258-sc-co</Url>
@@ -4373,6 +4483,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/mscoe</Url>
@@ -4381,7 +4493,7 @@
     <FullName>MSCoE, U.S. Army</FullName>
     <SplitName>MSCoE</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTVNDT0U.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTVNDT0U.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -4404,6 +4516,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/scoe</Url>
@@ -4412,7 +4526,7 @@
     <FullName>SCoE, U.S. Army</FullName>
     <SplitName>SCoE</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgU0NPRQ.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgU0NPRQ.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -4435,6 +4549,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/usarec</Url>
@@ -4443,7 +4559,7 @@
     <FullName>United States Army Recruiting Command, U.S. Army</FullName>
     <SplitName>United States Army Recruiting Command</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBUkVD.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBUkVD.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -4509,6 +4625,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-rec-bde</Url>
@@ -4540,6 +4658,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/2-rec-bde</Url>
@@ -4571,6 +4691,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/3-rec-bde</Url>
@@ -4602,6 +4724,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/5-rec-bde</Url>
@@ -4633,6 +4757,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-rec-bde</Url>
@@ -4654,6 +4780,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/med-rec-bde</Url>
@@ -4685,6 +4813,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/rotc</Url>
@@ -4693,7 +4823,7 @@
     <FullName>United States Army Cadet Command, U.S. Army</FullName>
     <SplitName>United States Army Cadet Command</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgUk9UQw.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgUk9UQw.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -4773,6 +4903,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-rotc-bde</Url>
@@ -4804,6 +4936,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/2-rotc-bde</Url>
@@ -4835,6 +4969,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/3-rotc-bde</Url>
@@ -4866,6 +5002,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/4-rotc-bde</Url>
@@ -4897,6 +5035,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/5-rotc-bde</Url>
@@ -4928,6 +5068,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/6-rotc-bde</Url>
@@ -4959,6 +5101,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/7-rotc-bde</Url>
@@ -4990,6 +5134,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/8-rotc-bde</Url>
@@ -5021,6 +5167,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/imt-coe</Url>
@@ -5084,6 +5232,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/army-tng-cmd</Url>
@@ -5151,6 +5301,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/194-armored-bde</Url>
@@ -5226,6 +5378,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/81-ar/1-bn</Url>
@@ -5257,6 +5411,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/15-cav/5-sqdn</Url>
@@ -5288,6 +5444,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/46-in/1-bn</Url>
@@ -5319,6 +5477,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/47-in/2-bn</Url>
@@ -5350,6 +5510,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/30-ag-bn</Url>
@@ -5381,6 +5543,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/316-cav-bde</Url>
@@ -5389,7 +5553,7 @@
     <FullName>316th Cavalry Brigade, U.S. Army</FullName>
     <SplitName>316th Cavalry Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQ0FWIEJERSAwMzE2.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQ0FWIEJERSAwMzE2.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -5449,6 +5613,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/16-cav/1-sqdn</Url>
@@ -5480,6 +5646,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/16-cav/3-sqdn</Url>
@@ -5511,6 +5679,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/29-in/1-bn</Url>
@@ -5550,6 +5720,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/29-in/2-bn</Url>
@@ -5589,6 +5761,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/198-in-bde</Url>
@@ -5597,7 +5771,7 @@
     <FullName>198th Infantry Brigade, U.S. Army</FullName>
     <SplitName>198th Infantry Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTg.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTg.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -5628,6 +5802,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/199-in-bde</Url>
@@ -5636,7 +5812,7 @@
     <FullName>199th Infantry Brigade, U.S. Army</FullName>
     <SplitName>199th Infantry Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTk.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxOTk.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -5667,6 +5843,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/1-avn-bde</Url>
@@ -5675,7 +5853,7 @@
     <FullName>1st Aviation Brigade, U.S. Army</FullName>
     <SplitName>1st Aviation Brigade</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMDAx.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMDAx.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -5706,6 +5884,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-tng-cmd</Url>
@@ -5714,7 +5894,7 @@
     <FullName>80th Training Command, U.S. Army</FullName>
     <SplitName>80th Training Command</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVE5HIENNRCAwMDgw.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVE5HIENNRCAwMDgw.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -5768,6 +5948,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/94-tng-div</Url>
@@ -5849,6 +6031,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/94-tng-div/1-bde</Url>
@@ -5916,6 +6100,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-rgt/8-bn</Url>
@@ -5947,6 +6133,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/9-bn</Url>
@@ -5978,6 +6166,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/7-bn</Url>
@@ -6009,6 +6199,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/8-bn</Url>
@@ -6040,6 +6232,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/9-bn</Url>
@@ -6071,6 +6265,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/94-tng-div/2-bde</Url>
@@ -6138,6 +6334,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-rgt/7-bn</Url>
@@ -6169,6 +6367,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/8-bn</Url>
@@ -6190,6 +6390,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/6-bn</Url>
@@ -6221,6 +6423,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/7-bn</Url>
@@ -6252,6 +6456,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/8-bn</Url>
@@ -6283,6 +6489,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/94-tng-div/3-bde</Url>
@@ -6359,6 +6567,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-rgt/5-bn</Url>
@@ -6380,6 +6590,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/14-bn</Url>
@@ -6411,6 +6623,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-rgt/7-bn</Url>
@@ -6442,6 +6656,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/13-bn</Url>
@@ -6473,6 +6689,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/13-bn</Url>
@@ -6504,6 +6722,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/94-tng-div/4-bde</Url>
@@ -6571,6 +6791,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/7-bn</Url>
@@ -6602,6 +6824,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-rgt/8-bn</Url>
@@ -6633,6 +6857,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/5-bn</Url>
@@ -6664,6 +6890,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/6-bn</Url>
@@ -6695,6 +6923,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/7-bn</Url>
@@ -6726,6 +6956,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/94-tng-div/5-bde</Url>
@@ -6757,6 +6989,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/319-rgt/3-bn</Url>
@@ -6788,6 +7022,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/413-rgt/1-bn</Url>
@@ -6828,6 +7064,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-tng-div</Url>
@@ -6895,6 +7133,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-tng-div/1-bde</Url>
@@ -6962,6 +7202,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/6-bn</Url>
@@ -6993,6 +7235,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-rgt/6-bn</Url>
@@ -7024,6 +7268,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/11-bn</Url>
@@ -7055,6 +7301,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/5-bn</Url>
@@ -7086,6 +7334,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/6-bn</Url>
@@ -7117,6 +7367,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-tng-div/2-bde</Url>
@@ -7184,6 +7436,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-rgt/3-bn</Url>
@@ -7205,6 +7459,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/3-bn</Url>
@@ -7236,6 +7492,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/3-bn</Url>
@@ -7276,6 +7534,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/2-bn</Url>
@@ -7307,6 +7567,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/3-bn</Url>
@@ -7338,6 +7600,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-tng-div/3-bde</Url>
@@ -7405,6 +7669,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/5-bn</Url>
@@ -7436,6 +7702,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-rgt/5-bn</Url>
@@ -7467,6 +7735,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/12-bn</Url>
@@ -7498,6 +7768,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/4-bn</Url>
@@ -7529,6 +7801,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/5-bn</Url>
@@ -7560,6 +7834,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-tng-div/4-bde</Url>
@@ -7627,6 +7903,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/10-bn</Url>
@@ -7658,6 +7936,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-rgt/11-bn</Url>
@@ -7689,6 +7969,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/8-bn</Url>
@@ -7720,6 +8002,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/9-bn</Url>
@@ -7751,6 +8035,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/10-bn</Url>
@@ -7782,6 +8068,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/399-rgt/3-bn</Url>
@@ -7813,6 +8101,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div</Url>
@@ -7873,6 +8163,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div/1-bde</Url>
@@ -7940,6 +8232,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div/1-bde/hhc</Url>
@@ -7972,6 +8266,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/1-bn</Url>
@@ -8003,6 +8299,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/1-bn</Url>
@@ -8034,6 +8332,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/12-bn</Url>
@@ -8065,6 +8365,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/1-bn</Url>
@@ -8096,6 +8398,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div/2-bde</Url>
@@ -8170,6 +8474,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div/2-bde/hhc</Url>
@@ -8202,6 +8508,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-rgt/2-bn</Url>
@@ -8233,6 +8541,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/2-bn</Url>
@@ -8264,6 +8574,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/2-bn</Url>
@@ -8295,6 +8607,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/1-bn</Url>
@@ -8326,6 +8640,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/2-bn</Url>
@@ -8357,6 +8673,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div/3-bde</Url>
@@ -8431,6 +8749,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/102-tng-div/3-bde/hhc</Url>
@@ -8463,6 +8783,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/80-rgt/4-bn</Url>
@@ -8494,6 +8816,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-rgt/4-bn</Url>
@@ -8525,6 +8849,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/100-rgt/4-bn</Url>
@@ -8556,6 +8882,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-rgt/3-bn</Url>
@@ -8587,6 +8915,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-rgt/4-bn</Url>
@@ -8618,6 +8948,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/379-rgt/3-bn</Url>
@@ -8649,6 +8981,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/108-tng-cmd</Url>
@@ -8657,7 +8991,7 @@
     <FullName>108th Training Command, U.S. Army</FullName>
     <SplitName>108th Training Command</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVE5HIENNRCAwMTA4.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVE5HIENNRCAwMTA4.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -8711,6 +9045,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-tng-div</Url>
@@ -8771,6 +9107,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-tng-div/1-bde</Url>
@@ -8852,6 +9190,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/354-rgt/1-bn</Url>
@@ -8883,6 +9223,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/354-rgt/2-bn</Url>
@@ -8914,6 +9256,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/355-rgt/1-bn</Url>
@@ -8954,6 +9298,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/377-rgt/2-bn</Url>
@@ -8985,6 +9331,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/378-rgt/2-bn</Url>
@@ -9016,6 +9364,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/378-rgt/3-bn</Url>
@@ -9056,6 +9406,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/379-rgt/2-bn</Url>
@@ -9087,6 +9439,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-tng-div/2-bde</Url>
@@ -9177,6 +9531,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/354-rgt/3-bn</Url>
@@ -9217,6 +9573,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/413-rgt/2-bn</Url>
@@ -9248,6 +9606,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/414-rgt/1-bn</Url>
@@ -9279,6 +9639,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/414-rgt/2-bn</Url>
@@ -9310,6 +9672,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/415-rgt/1-bn</Url>
@@ -9341,6 +9705,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/415-rgt/2-bn</Url>
@@ -9372,6 +9738,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/415-rgt/3-bn</Url>
@@ -9403,6 +9771,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-tng-div/3-bde</Url>
@@ -9484,6 +9854,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/334-rgt/2-bn</Url>
@@ -9515,6 +9887,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/397-rgt/2-bn</Url>
@@ -9546,6 +9920,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/397-rgt/3-sqdn</Url>
@@ -9577,6 +9953,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/398-rgt/1-bn</Url>
@@ -9608,6 +9986,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/398-rgt/3-bn</Url>
@@ -9639,6 +10019,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/398-rgt/2-sqdn</Url>
@@ -9670,6 +10052,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/399-rgt/2-bn</Url>
@@ -9701,6 +10085,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/95-tng-div/4-bde</Url>
@@ -9782,6 +10168,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/329-rgt/1-bn</Url>
@@ -9822,6 +10210,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/330-rgt/1-bn</Url>
@@ -9853,6 +10243,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/330-rgt/2-bn</Url>
@@ -9884,6 +10276,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/330-rgt/3-bn</Url>
@@ -9915,6 +10309,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/334-rgt/1-bn</Url>
@@ -9946,6 +10342,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/334-rgt/3-bn</Url>
@@ -9977,6 +10375,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/339-rgt/3-bn</Url>
@@ -10008,6 +10408,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-tng-div</Url>
@@ -10077,6 +10479,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-tng-div/1-bde</Url>
@@ -10151,6 +10555,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/321-rgt/2-bn</Url>
@@ -10182,6 +10588,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/323-rgt/4-bn</Url>
@@ -10213,6 +10621,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/378-rgt/1-bn</Url>
@@ -10244,6 +10654,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/485-rgt/2-bn</Url>
@@ -10284,6 +10696,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/485-rgt/3-bn</Url>
@@ -10315,6 +10729,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/518-rgt/4-bn</Url>
@@ -10346,6 +10762,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-tng-div/2-bde</Url>
@@ -10427,6 +10845,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/321-rgt/1-bn</Url>
@@ -10458,6 +10878,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/321-rgt/3-bn</Url>
@@ -10489,6 +10911,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/323-rgt/1-bn</Url>
@@ -10520,6 +10944,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/323-rgt/2-bn</Url>
@@ -10551,6 +10977,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/323-rgt/3-bn</Url>
@@ -10582,6 +11010,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/518-rgt/1-bn</Url>
@@ -10613,6 +11043,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/518-rgt/3-bn</Url>
@@ -10644,6 +11076,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-tng-div/3-bde</Url>
@@ -10718,6 +11152,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/317-rgt/1-bn</Url>
@@ -10749,6 +11185,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/317-rgt/2-bn</Url>
@@ -10780,6 +11218,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/318-rgt/3-bn</Url>
@@ -10811,6 +11251,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/319-rgt/2-bn</Url>
@@ -10842,6 +11284,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/320-rgt/1-bn</Url>
@@ -10873,6 +11317,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/417-rgt/1-bn</Url>
@@ -10913,6 +11359,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/98-tng-div/4-bde</Url>
@@ -10994,6 +11442,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/304-rgt/1-bn</Url>
@@ -11025,6 +11475,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/385-rgt/3-bn</Url>
@@ -11056,6 +11508,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/389-rgt/1-bn</Url>
@@ -11087,6 +11541,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/389-rgt/2-bn</Url>
@@ -11118,6 +11574,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/390-rgt/1-bn</Url>
@@ -11149,6 +11607,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/391-rgt/1-bn</Url>
@@ -11180,6 +11640,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/417-rgt/2-bn</Url>
@@ -11220,6 +11682,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-tng-div</Url>
@@ -11273,6 +11737,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-tng-div/hhc</Url>
@@ -11305,6 +11771,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-tng-div/1-bde</Url>
@@ -11358,6 +11826,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/413-rgt/4-bn</Url>
@@ -11389,6 +11859,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/414-rgt/3-bn</Url>
@@ -11428,6 +11900,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/414-rgt/3-bn/co-d</Url>
@@ -11450,6 +11924,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/414-rgt/4-bn</Url>
@@ -11481,6 +11957,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/104-tng-div/3-bde</Url>
@@ -11534,6 +12012,8 @@
         <IsIndirect>false</IsIndirect>
       </SubUnitObject>
     </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/304-rgt/3-bn</Url>
@@ -11565,6 +12045,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/399-rgt/4-bn</Url>
@@ -11596,6 +12078,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/415-rgt/4-bn</Url>
@@ -11627,6 +12111,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/awc</Url>
@@ -11635,7 +12121,7 @@
     <FullName>United States Army War College, U.S. Army</FullName>
     <SplitName>United States Army War College</SplitName>
     <Service>U.S. Army</Service>
-    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVdD.</LogoUrl>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVdD.png</LogoUrl>
     <Locations>
       <LocationObject>
         <DateRange>... - Present</DateRange>
@@ -11658,6 +12144,8 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
   <CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/awg</Url>
@@ -11689,5 +12177,7 @@
       </HigherHqObject>
     </HigherHq>
     <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
 </ArrayOfCurrentOpsObject>
