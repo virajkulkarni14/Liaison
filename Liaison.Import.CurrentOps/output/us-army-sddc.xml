@@ -1,0 +1,4335 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/sddc</Url>
+    <NameNode>SDDC
+                            U.S. Army</NameNode>
+    <FullName>SDDC, U.S. Army</FullName>
+    <SplitName>SDDC</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgU0REQw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Scott Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shiloh, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/scott-afb</Url>
+        <Id>us/il/scott-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/joint/ustranscom</Url>
+        <Id>us/joint/ustranscom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USTRANSCOM</HHQAcronym>
+        <Type>COCOM</Type>
+        <Name>United States Transportation Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/595-tc-bde</Url>
+        <FullName>595th Transportation Brigade</FullName>
+        <Name>595th Transportation Brigade</Name>
+        <Id>us/army/595-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/596-tc-bde</Url>
+        <FullName>596th Transportation Brigade</FullName>
+        <Name>596th Transportation Brigade</Name>
+        <Id>us/army/596-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/597-tc-bde</Url>
+        <FullName>597th Transportation Brigade</FullName>
+        <Name>597th Transportation Brigade</Name>
+        <Id>us/army/597-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/598-tc-bde</Url>
+        <FullName>598th Transportation Brigade</FullName>
+        <Name>598th Transportation Brigade</Name>
+        <Id>us/army/598-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/599-tc-bde</Url>
+        <FullName>599th Transportation Brigade</FullName>
+        <Name>599th Transportation Brigade</Name>
+        <Id>us/army/599-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <FullName>United States Army Reserve Deployment Support Command</FullName>
+        <Name>United States Army Reserve Deployment Support Command
+
+                    (USAR)
+        
+        
+                                    (Operational Control)</Name>
+        <Id>us/army/usardsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/595-tc-bde</Url>
+    <NameNode>595th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>595th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>595th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Arifjan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/kw/camp-arifjan</Url>
+        <Id>kw/camp-arifjan</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/sddc</Url>
+        <Id>us/army/sddc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SDDC</HHQAcronym>
+        <Type>Assigned</Type>
+        <Name>Military Surface Deployment and Distribution Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+        <FullName>831st Transportation Battalion</FullName>
+        <Name>831st Transportation Battalion</Name>
+        <Id>us/army/831-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn</Url>
+        <FullName>840th Transportation Battalion</FullName>
+        <Name>840th Transportation Battalion</Name>
+        <Id>us/army/840-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+    <NameNode>831st Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>831st Transportation Battalion, U.S. Army</FullName>
+    <SplitName>831st Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kandahar Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kandahar, Kandahar, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/af/kan/kandahar-af</Url>
+        <Id>af/kan/kandahar-af</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/595-tc-bde</Url>
+        <Id>us/army/595-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>595th TC Bde</HHQAcronym>
+        <Name>595th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn/bagram-det</Url>
+        <FullName>Bagram Detachment, 831st Transportation Battalion</FullName>
+        <Name>Bagram Detachment</Name>
+        <Id>us/army/831-tc-bn/bagram-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn/bahrain-det</Url>
+        <FullName>Bahrain Detachment, 831st Transportation Battalion</FullName>
+        <Name>Bahrain Detachment</Name>
+        <Id>us/army/831-tc-bn/bahrain-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn/camp-leatherneck-det</Url>
+        <FullName>Camp Leatherneck Detachment, 831st Transportation Battalion</FullName>
+        <Name>Camp Leatherneck Detachment</Name>
+        <Id>us/army/831-tc-bn/camp-leatherneck-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn/hairatan-det</Url>
+        <FullName>Hairatan Detachment, 831st Transportation Battalion</FullName>
+        <Name>Hairatan Detachment</Name>
+        <Id>us/army/831-tc-bn/hairatan-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn/mazar-e-sharif-det</Url>
+        <FullName>Mazar-e Sharif Detachment, 831st Transportation Battalion</FullName>
+        <Name>Mazar-e Sharif Detachment</Name>
+        <Id>us/army/831-tc-bn/mazar-e-sharif-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/831-tc-bn/bagram-det</Url>
+    <NameNode>Bagram Detachment, 831st Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Bagram Detachment, 831st Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Bagram Detachment, 831st Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bagram Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parwan, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/af/par/bagram-af</Url>
+        <Id>af/par/bagram-af</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+        <Id>us/army/831-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>831st TC Bn</HHQAcronym>
+        <Name>831st Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/831-tc-bn/bahrain-det</Url>
+    <NameNode>Bahrain Detachment, 831st TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Bahrain Detachment, 831st TC Bn, U.S. Army</FullName>
+    <SplitName>Bahrain Detachment, 831st TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Naval Support Activity Bahrain</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manamah, Bahrain</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/bh/nsa-bahrain</Url>
+        <Id>bh/nsa-bahrain</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+        <Id>us/army/831-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>831st TC Bn</HHQAcronym>
+        <Name>831st Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/831-tc-bn/camp-leatherneck-det</Url>
+    <NameNode>Camp Leatherneck Detachment, 831st TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Camp Leatherneck Detachment, 831st TC Bn, U.S. Army</FullName>
+    <SplitName>Camp Leatherneck Detachment, 831st TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Leatherneck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Helmand, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/af/hel/camp-leatherneck</Url>
+        <Id>af/hel/camp-leatherneck</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+        <Id>us/army/831-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>831st TC Bn</HHQAcronym>
+        <Name>831st Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/831-tc-bn/hairatan-det</Url>
+    <NameNode>Hairatan Detachment, 831st TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Hairatan Detachment, 831st TC Bn, U.S. Army</FullName>
+    <SplitName>Hairatan Detachment, 831st TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+        <Id>us/army/831-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>831st TC Bn</HHQAcronym>
+        <Name>831st Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/831-tc-bn/mazar-e-sharif-det</Url>
+    <NameNode>Mazar-e Sharif Detachment, 831st TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Mazar-e Sharif Detachment, 831st TC Bn, U.S. Army</FullName>
+    <SplitName>Mazar-e Sharif Detachment, 831st TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Marmal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mazar-e-Sharif, Balkh, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/af/bal/camp-marmal</Url>
+        <Id>af/bal/camp-marmal</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/831-tc-bn</Url>
+        <Id>us/army/831-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>831st TC Bn</HHQAcronym>
+        <Name>831st Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/840-tc-bn</Url>
+    <NameNode>840th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>840th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>840th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/595-tc-bde</Url>
+        <Id>us/army/595-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>595th TC Bde</HHQAcronym>
+        <Name>595th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn/dubai-det</Url>
+        <FullName>Dubai Detachment, 840th Transportation Battalion</FullName>
+        <Name>Dubai Detachment</Name>
+        <Id>us/army/840-tc-bn/dubai-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn/oman-det</Url>
+        <FullName>Oman Detachment, 840th Transportation Battalion</FullName>
+        <Name>Oman Detachment</Name>
+        <Id>us/army/840-tc-bn/oman-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn/qatar-det</Url>
+        <FullName>Qatar Detachment, 840th Transportation Battalion</FullName>
+        <Name>Qatar Detachment</Name>
+        <Id>us/army/840-tc-bn/qatar-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/840-tc-bn/dubai-det</Url>
+    <NameNode>Dubai Detachment, 840th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Dubai Detachment, 840th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Dubai Detachment, 840th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn</Url>
+        <Id>us/army/840-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>840th TC Bn</HHQAcronym>
+        <Name>840th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/840-tc-bn/oman-det</Url>
+    <NameNode>Oman Detachment, 840th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Oman Detachment, 840th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Oman Detachment, 840th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn</Url>
+        <Id>us/army/840-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>840th TC Bn</HHQAcronym>
+        <Name>840th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/840-tc-bn/qatar-det</Url>
+    <NameNode>Qatar Detachment, 840th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Qatar Detachment, 840th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Qatar Detachment, 840th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/840-tc-bn</Url>
+        <Id>us/army/840-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>840th TC Bn</HHQAcronym>
+        <Name>840th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/596-tc-bde</Url>
+    <NameNode>596th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>596th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>596th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Military Ocean Terminal Sunny Point</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Southport, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/mot-sunny-point</Url>
+        <Id>us/nc/mot-sunny-point</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/sddc</Url>
+        <Id>us/army/sddc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SDDC</HHQAcronym>
+        <Type>Assigned</Type>
+        <Name>Military Surface Deployment and Distribution Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/832-tc-bn</Url>
+        <FullName>832nd Transportation Battalion</FullName>
+        <Name>832nd Transportation Battalion</Name>
+        <Id>us/army/832-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/834-tc-bn</Url>
+        <FullName>834th Transportation Battalion</FullName>
+        <Name>834th Transportation Battalion</Name>
+        <Id>us/army/834-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/832-tc-bn</Url>
+    <NameNode>832nd Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>832nd Transportation Battalion, U.S. Army</FullName>
+    <SplitName>832nd Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>832nd Transportation Battalion Headquarters</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jacksonville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/832nd-transportation-battalion-hq</Url>
+        <Id>us/fl/832nd-transportation-battalion-hq</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/596-tc-bde</Url>
+        <Id>us/army/596-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>596th TC Bde</HHQAcronym>
+        <Name>596th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/832-tc-bn/cape-canaveral-det</Url>
+        <FullName>Cape Canaveral Detachment, 832nd Transportation Battalion</FullName>
+        <Name>Cape Canaveral Detachment</Name>
+        <Id>us/army/832-tc-bn/cape-canaveral-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/832-tc-bn/puerto-rico-det</Url>
+        <FullName>Puerto Rico Detachment, 832nd Transportation Battalion</FullName>
+        <Name>Puerto Rico Detachment</Name>
+        <Id>us/army/832-tc-bn/puerto-rico-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/832-tc-bn/cape-canaveral-det</Url>
+    <NameNode>Cape Canaveral Detachment, 832nd TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Cape Canaveral Detachment, 832nd TC Bn, U.S. Army</FullName>
+    <SplitName>Cape Canaveral Detachment, 832nd TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Cape Canaveral Air Force Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cape Canaveral, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/cape-canaveral-afs</Url>
+        <Id>us/fl/cape-canaveral-afs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/832-tc-bn</Url>
+        <Id>us/army/832-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>832nd TC Bn</HHQAcronym>
+        <Name>832nd Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/832-tc-bn/puerto-rico-det</Url>
+    <NameNode>Puerto Rico Detachment, 832nd TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Puerto Rico Detachment, 832nd TC Bn, U.S. Army</FullName>
+    <SplitName>Puerto Rico Detachment, 832nd TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Buchanan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/fort-buchanan</Url>
+        <Id>us/pr/fort-buchanan</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/832-tc-bn</Url>
+        <Id>us/army/832-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>832nd TC Bn</HHQAcronym>
+        <Name>832nd Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/834-tc-bn</Url>
+    <NameNode>834th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>834th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>834th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Military Ocean Terminal Concord</BaseName>
+        <Deployment>false</Deployment>
+        <Location>California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/mot-concord</Url>
+        <Id>us/ca/mot-concord</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/596-tc-bde</Url>
+        <Id>us/army/596-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>596th TC Bde</HHQAcronym>
+        <Name>596th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/597-tc-bde</Url>
+    <NameNode>597th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>597th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>597th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Newport News, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-eustis</Url>
+        <Id>us/va/fort-eustis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/sddc</Url>
+        <Id>us/army/sddc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SDDC</HHQAcronym>
+        <Type>Assigned</Type>
+        <Name>Military Surface Deployment and Distribution Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/833-tc-bn</Url>
+        <FullName>833rd Transportation Battalion</FullName>
+        <Name>833rd Transportation Battalion</Name>
+        <Id>us/army/833-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/841-tc-bn</Url>
+        <FullName>841st Transportation Battalion</FullName>
+        <Name>841st Transportation Battalion</Name>
+        <Id>us/army/841-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/842-tc-bn</Url>
+        <FullName>842nd Transportation Battalion</FullName>
+        <Name>842nd Transportation Battalion</Name>
+        <Id>us/army/842-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/833-tc-bn</Url>
+    <NameNode>833rd Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>833rd Transportation Battalion, U.S. Army</FullName>
+    <SplitName>833rd Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Newport News, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-eustis</Url>
+        <Id>us/va/fort-eustis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/597-tc-bde</Url>
+        <Id>us/army/597-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>597th TC Bde</HHQAcronym>
+        <Name>597th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/833-tc-bn/pacific-northwest-det</Url>
+        <FullName>Pacific Northwest Detachment, 833rd Transportation Battalion</FullName>
+        <Name>Pacific Northwest Detachment</Name>
+        <Id>us/army/833-tc-bn/pacific-northwest-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/688-tc-det</Url>
+        <FullName>688th Transportation Detachment</FullName>
+        <Name>688th Transportation Detachment</Name>
+        <Id>us/army/688-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/689-tc-det</Url>
+        <FullName>689th Transportation Detachment</FullName>
+        <Name>689th Transportation Detachment</Name>
+        <Id>us/army/689-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/690-tc-det</Url>
+        <FullName>690th Transportation Detachment</FullName>
+        <Name>690th Transportation Detachment</Name>
+        <Id>us/army/690-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/833-tc-bn/pacific-northwest-det</Url>
+    <NameNode>Pacific Northwest Detachment, 833rd TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Pacific Northwest Detachment, 833rd TC Bn, U.S. Army</FullName>
+    <SplitName>Pacific Northwest Detachment, 833rd TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/833-tc-bn</Url>
+        <Id>us/army/833-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>833rd TC Bn</HHQAcronym>
+        <Name>833rd Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/688-tc-det</Url>
+    <NameNode>688th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>688th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>688th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Newport News, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-eustis</Url>
+        <Id>us/va/fort-eustis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/833-tc-bn</Url>
+        <Id>us/army/833-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>833rd TC Bn</HHQAcronym>
+        <Name>833rd Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/689-tc-det</Url>
+    <NameNode>689th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>689th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>689th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Newport News, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-eustis</Url>
+        <Id>us/va/fort-eustis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/833-tc-bn</Url>
+        <Id>us/army/833-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>833rd TC Bn</HHQAcronym>
+        <Name>833rd Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/690-tc-det</Url>
+    <NameNode>690th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>690th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>690th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Langley-Eustis | Newport News, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-eustis</Url>
+        <Id>us/va/fort-eustis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/833-tc-bn</Url>
+        <Id>us/army/833-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>833rd TC Bn</HHQAcronym>
+        <Name>833rd Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/841-tc-bn</Url>
+    <NameNode>841st Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>841st Transportation Battalion, U.S. Army</FullName>
+    <SplitName>841st Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Naval Support Activity Charleston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Charleston | North Charleston, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/nsa-charleston</Url>
+        <Id>us/sc/nsa-charleston</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/597-tc-bde</Url>
+        <Id>us/army/597-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>597th TC Bde</HHQAcronym>
+        <Name>597th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/842-tc-bn</Url>
+    <NameNode>842nd Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>842nd Transportation Battalion, U.S. Army</FullName>
+    <SplitName>842nd Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Port of Beaumont</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Beaumont, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/port-of-beaumont</Url>
+        <Id>us/tx/port-of-beaumont</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/597-tc-bde</Url>
+        <Id>us/army/597-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>597th TC Bde</HHQAcronym>
+        <Name>597th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/598-tc-bde</Url>
+    <NameNode>598th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>598th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>598th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sembach Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sembach, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/sembach-kaserne</Url>
+        <Id>de/rp/sembach-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/sddc</Url>
+        <Id>us/army/sddc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SDDC</HHQAcronym>
+        <Type>Assigned</Type>
+        <Name>Military Surface Deployment and Distribution Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <FullName>838th Transportation Battalion</FullName>
+        <Name>838th Transportation Battalion</Name>
+        <Id>us/army/838-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/839-tc-bn</Url>
+        <FullName>839th Transportation Battalion</FullName>
+        <Name>839th Transportation Battalion</Name>
+        <Id>us/army/839-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+    <NameNode>838th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>838th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>838th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kleber Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/kleber-kaserne</Url>
+        <Id>de/rp/kleber-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/598-tc-bde</Url>
+        <Id>us/army/598-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>598th TC Bde</HHQAcronym>
+        <Name>598th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/950-tc-co</Url>
+        <FullName>950th Transportation Company</FullName>
+        <Name>950th Transportation Company</Name>
+        <Id>us/army/950-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn/azores-det</Url>
+        <FullName>Azores Detachment, 838th Transportation Battalion</FullName>
+        <Name>Azores Detachment</Name>
+        <Id>us/army/838-tc-bn/azores-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn/benelux-det</Url>
+        <FullName>Benelux Detachment, 838th Transportation Battalion</FullName>
+        <Name>Benelux Detachment</Name>
+        <Id>us/army/838-tc-bn/benelux-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn/greece-det</Url>
+        <FullName>Greece Detachment, 838th Transportation Battalion</FullName>
+        <Name>Greece Detachment</Name>
+        <Id>us/army/838-tc-bn/greece-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn/rhine-river-det</Url>
+        <FullName>Rhine River Detachment, 838th Transportation Battalion</FullName>
+        <Name>Rhine River Detachment</Name>
+        <Id>us/army/838-tc-bn/rhine-river-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn/united-kingdom-det</Url>
+        <FullName>United Kingdom Detachment, 838th Transportation Battalion</FullName>
+        <Name>United Kingdom Detachment</Name>
+        <Id>us/army/838-tc-bn/united-kingdom-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/950-tc-co</Url>
+    <NameNode>950th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>950th Transportation Company, U.S. Army</FullName>
+    <SplitName>950th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>AFN Station Bremerhaven</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carl Schurz Kaserne | Bremerhaven, Bremen, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/hb/afn-station-bremerhaven</Url>
+        <Id>de/hb/afn-station-bremerhaven</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <Id>us/army/838-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>838th TC Bn</HHQAcronym>
+        <Name>838th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/838-tc-bn/azores-det</Url>
+    <NameNode>Azores Detachment, 838th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Azores Detachment, 838th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Azores Detachment, 838th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <Id>us/army/838-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>838th TC Bn</HHQAcronym>
+        <Name>838th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/838-tc-bn/benelux-det</Url>
+    <NameNode>Benelux Detachment, 838th TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Benelux Detachment, 838th TC Bn, U.S. Army</FullName>
+    <SplitName>Benelux Detachment, 838th TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Van Ghent Kazerne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rotterdam, South Holland, Netherlands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/nl/zh/van-ghent-kazerne</Url>
+        <Id>nl/zh/van-ghent-kazerne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <Id>us/army/838-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>838th TC Bn</HHQAcronym>
+        <Name>838th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/838-tc-bn/greece-det</Url>
+    <NameNode>Greece Detachment, 838th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Greece Detachment, 838th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Greece Detachment, 838th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <Id>us/army/838-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>838th TC Bn</HHQAcronym>
+        <Name>838th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/838-tc-bn/rhine-river-det</Url>
+    <NameNode>Rhine River Detachment, 838th TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Rhine River Detachment, 838th TC Bn, U.S. Army</FullName>
+    <SplitName>Rhine River Detachment, 838th TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Germersheim Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Germersheim, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/germersheim-army-depot</Url>
+        <Id>de/rp/germersheim-army-depot</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <Id>us/army/838-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>838th TC Bn</HHQAcronym>
+        <Name>838th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/838-tc-bn/united-kingdom-det</Url>
+    <NameNode>United Kingdom Detachment, 838th TC Bn
+                            U.S. Army</NameNode>
+    <FullName>United Kingdom Detachment, 838th TC Bn, U.S. Army</FullName>
+    <SplitName>United Kingdom Detachment, 838th TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Royal Air Force Station Mildenhall</BaseName>
+        <Deployment>false</Deployment>
+        <Location>England, United Kingdom</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/gb/raf-mildenhall</Url>
+        <Id>gb/raf-mildenhall</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/838-tc-bn</Url>
+        <Id>us/army/838-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>838th TC Bn</HHQAcronym>
+        <Name>838th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/839-tc-bn</Url>
+    <NameNode>839th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>839th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>839th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/598-tc-bde</Url>
+        <Id>us/army/598-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>598th TC Bde</HHQAcronym>
+        <Name>598th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/839-tc-bn/italy-det</Url>
+        <FullName>Italy Detachment, 839th Transportation Battalion</FullName>
+        <Name>Italy Detachment</Name>
+        <Id>us/army/839-tc-bn/italy-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/839-tc-bn/turkey-det</Url>
+        <FullName>Turkey Detachment, 839th Transportation Battalion</FullName>
+        <Name>Turkey Detachment</Name>
+        <Id>us/army/839-tc-bn/turkey-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/839-tc-bn/italy-det</Url>
+    <NameNode>Italy Detachment, 839th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Italy Detachment, 839th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Italy Detachment, 839th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/839-tc-bn</Url>
+        <Id>us/army/839-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>839th TC Bn</HHQAcronym>
+        <Name>839th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/839-tc-bn/turkey-det</Url>
+    <NameNode>Turkey Detachment, 839th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Turkey Detachment, 839th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Turkey Detachment, 839th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/839-tc-bn</Url>
+        <Id>us/army/839-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>839th TC Bn</HHQAcronym>
+        <Name>839th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/599-tc-bde</Url>
+    <NameNode>599th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>599th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>599th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeler Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Schofield Bks | Wahiawa, Oahu, Hawaii, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/hi/wheeler-aaf</Url>
+        <Id>us/hi/wheeler-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/sddc</Url>
+        <Id>us/army/sddc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SDDC</HHQAcronym>
+        <Type>Assigned</Type>
+        <Name>Military Surface Deployment and Distribution Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/835-tc-bn</Url>
+        <FullName>835th Transportation Battalion</FullName>
+        <Name>835th Transportation Battalion</Name>
+        <Id>us/army/835-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/836-tc-bn</Url>
+        <FullName>836th Transportation Battalion</FullName>
+        <Name>836th Transportation Battalion</Name>
+        <Id>us/army/836-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/837-tc-bn</Url>
+        <FullName>837th Transportation Battalion</FullName>
+        <Name>837th Transportation Battalion</Name>
+        <Id>us/army/837-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/835-tc-bn</Url>
+    <NameNode>835th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>835th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>835th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Naha Military Port</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Okinawa, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/jp/naha-military-port</Url>
+        <Id>jp/naha-military-port</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/599-tc-bde</Url>
+        <Id>us/army/599-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>599th TC Bde</HHQAcronym>
+        <Name>599th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/835-tc-bn/singapore-det</Url>
+        <FullName>Singapore Detachment, 835th Transportation Battalion</FullName>
+        <Name>Singapore Detachment</Name>
+        <Id>us/army/835-tc-bn/singapore-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/835-tc-bn/singapore-det</Url>
+    <NameNode>Singapore Detachment, 835th TC Bn
+                            U.S. Army</NameNode>
+    <FullName>Singapore Detachment, 835th TC Bn, U.S. Army</FullName>
+    <SplitName>Singapore Detachment, 835th TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/835-tc-bn</Url>
+        <Id>us/army/835-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>835th TC Bn</HHQAcronym>
+        <Name>835th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/836-tc-bn</Url>
+    <NameNode>836th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>836th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>836th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Yokohama North Dock</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Honshu, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/jp/yokohama-north-dock</Url>
+        <Id>jp/yokohama-north-dock</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/599-tc-bde</Url>
+        <Id>us/army/599-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>599th TC Bde</HHQAcronym>
+        <Name>599th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/836-tc-bn/alaska-det</Url>
+        <FullName>Alaska Detachment, 836th Transportation Battalion</FullName>
+        <Name>Alaska Detachment</Name>
+        <Id>us/army/836-tc-bn/alaska-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/836-tc-bn/guam-det</Url>
+        <FullName>Guam Detachment, 836th Transportation Battalion</FullName>
+        <Name>Guam Detachment</Name>
+        <Id>us/army/836-tc-bn/guam-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/836-tc-bn/alaska-det</Url>
+    <NameNode>Alaska Detachment, 836th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Alaska Detachment, 836th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Alaska Detachment, 836th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Richardson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Elmendorf-Richardson | Anchorage, Alaska, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ak/fort-richardson</Url>
+        <Id>us/ak/fort-richardson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/836-tc-bn</Url>
+        <Id>us/army/836-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>836th TC Bn</HHQAcronym>
+        <Name>836th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/836-tc-bn/guam-det</Url>
+    <NameNode>Guam Detachment, 836th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Guam Detachment, 836th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>Guam Detachment, 836th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Naval Base Guam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Santa Rita, Guam</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/gu/nb-guam</Url>
+        <Id>us/gu/nb-guam</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/836-tc-bn</Url>
+        <Id>us/army/836-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>836th TC Bn</HHQAcronym>
+        <Name>836th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/837-tc-bn</Url>
+    <NameNode>837th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>837th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>837th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Pier 8</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Busan, Area IV, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/kr/pier-8</Url>
+        <Id>kr/pier-8</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/599-tc-bde</Url>
+        <Id>us/army/599-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>599th TC Bde</HHQAcronym>
+        <Name>599th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usardsc</Url>
+    <NameNode>USARDSC
+                            U.S. Army</NameNode>
+    <FullName>USARDSC, U.S. Army</FullName>
+    <SplitName>USARDSC</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Birmingham Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Birmingham, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/birmingham-afrc</Url>
+        <Id>us/al/birmingham-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/377-sust-cmd</Url>
+        <Id>us/army/377-sust-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>377th Sust Cmd</HHQAcronym>
+        <Name>377th Sustainment Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/sddc</Url>
+        <Id>us/army/sddc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SDDC</HHQAcronym>
+        <Type>OPCON</Type>
+        <Name>Military Surface Deployment and Distribution Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+        <FullName>1179th Transportation Brigade</FullName>
+        <Name>1179th Transportation Brigade</Name>
+        <Id>us/army/1179-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1189-tc-bde</Url>
+        <FullName>1189th Transportation Brigade</FullName>
+        <Name>1189th Transportation Brigade</Name>
+        <Id>us/army/1189-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <FullName>1190th Transportation Brigade</FullName>
+        <Name>1190th Transportation Brigade</Name>
+        <Id>us/army/1190-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <FullName>1394th Transportation Brigade</FullName>
+        <Name>1394th Transportation Brigade</Name>
+        <Id>us/army/1394-tc-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+        <FullName>757th Transportation Battalion</FullName>
+        <Name>757th Transportation Battalion</Name>
+        <Id>us/army/757-tc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/369-tc-det</Url>
+        <FullName>369th Transportation Detachment</FullName>
+        <Name>369th Transportation Detachment</Name>
+        <Id>us/army/369-tc-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+    <NameNode>1179th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>1179th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>1179th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Hamilton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brooklyn, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/fort-hamilton</Url>
+        <Id>us/ny/fort-hamilton</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <Id>us/army/usardsc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USARDSC</HHQAcronym>
+        <Name>United States Army Reserve Deployment Support Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1179th Transportation Brigade</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1179-tc-bde/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1173-ddsb</Url>
+        <FullName>1173rd Deployment and Distribution Support Battalion</FullName>
+        <Name>1173rd Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1173-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1174-ddsb</Url>
+        <FullName>1174th Deployment and Distribution Support Battalion</FullName>
+        <Name>1174th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1174-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1185-ddsb</Url>
+        <FullName>1185th Deployment and Distribution Support Battalion</FullName>
+        <Name>1185th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1185-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1398-ddsb</Url>
+        <FullName>1398th Deployment and Distribution Support Battalion</FullName>
+        <Name>1398th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1398-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1179-tc-bde/hhd</Url>
+    <NameNode>HHD, 1179th TC Bde
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1179th TC Bde, U.S. Army</FullName>
+    <SplitName>HHD, 1179th TC Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Hamilton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brooklyn, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/fort-hamilton</Url>
+        <Id>us/ny/fort-hamilton</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+        <Id>us/army/1179-tc-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1179th TC Bde</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1179th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1173-ddsb</Url>
+    <NameNode>1173rd DDSB
+                            U.S. Army</NameNode>
+    <FullName>1173rd DDSB, U.S. Army</FullName>
+    <SplitName>1173rd DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brockton United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brockton, Massachusetts, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ma/brockton-usarc</Url>
+        <Id>us/ma/brockton-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+        <Id>us/army/1179-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1179th TC Bde</HHQAcronym>
+        <Name>1179th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1173-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1173rd Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1173-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/301-tc-det</Url>
+        <FullName>301st Transportation Detachment</FullName>
+        <Name>301st Transportation Detachment</Name>
+        <Id>us/army/301-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/532-tc-det</Url>
+        <FullName>532nd Transportation Detachment</FullName>
+        <Name>532nd Transportation Detachment</Name>
+        <Id>us/army/532-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1173-ddsb/hhd</Url>
+    <NameNode>HHD, 1173rd DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1173rd DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1173rd DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brockton United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brockton, Massachusetts, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ma/brockton-usarc</Url>
+        <Id>us/ma/brockton-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1173-ddsb</Url>
+        <Id>us/army/1173-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1173rd DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1173rd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/301-tc-det</Url>
+    <NameNode>301st Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>301st Transportation Detachment, U.S. Army</FullName>
+    <SplitName>301st Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Esek Hopkins Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cranston, Rhode Island, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ri/esek-hopkins-afrc</Url>
+        <Id>us/ri/esek-hopkins-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1173-ddsb</Url>
+        <Id>us/army/1173-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1173rd DDSB</HHQAcronym>
+        <Name>1173rd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/532-tc-det</Url>
+    <NameNode>532nd Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>532nd Transportation Detachment, U.S. Army</FullName>
+    <SplitName>532nd Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>PVT Lloyd S. Cooper III United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Warwick, Rhode Island, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/ri/pvt-lloyd-s-cooper-iii-usarc</Url>
+        <Id>us/ri/pvt-lloyd-s-cooper-iii-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1173-ddsb</Url>
+        <Id>us/army/1173-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1173rd DDSB</HHQAcronym>
+        <Name>1173rd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1174-ddsb</Url>
+    <NameNode>1174th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1174th DDSB, U.S. Army</FullName>
+    <SplitName>1174th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ernie Pyle United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Totten, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/ernie-pyle-usarc</Url>
+        <Id>us/ny/ernie-pyle-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+        <Id>us/army/1179-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1179th TC Bde</HHQAcronym>
+        <Name>1179th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1174-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1174th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1174-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/652-tc-det</Url>
+        <FullName>652nd Transportation Detachment</FullName>
+        <Name>652nd Transportation Detachment</Name>
+        <Id>us/army/652-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/873-tc-det</Url>
+        <FullName>873rd Transportation Detachment</FullName>
+        <Name>873rd Transportation Detachment</Name>
+        <Id>us/army/873-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/928-tc-det</Url>
+        <FullName>928th Transportation Detachment</FullName>
+        <Name>928th Transportation Detachment</Name>
+        <Id>us/army/928-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1174-ddsb/hhd</Url>
+    <NameNode>HHD, 1174th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1174th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1174th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ernie Pyle United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Totten, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/ernie-pyle-usarc</Url>
+        <Id>us/ny/ernie-pyle-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1174-ddsb</Url>
+        <Id>us/army/1174-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1174th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1174th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/652-tc-det</Url>
+    <NameNode>652nd Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>652nd Transportation Detachment, U.S. Army</FullName>
+    <SplitName>652nd Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Staten Island United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Staten Island, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/staten-island-usarc</Url>
+        <Id>us/ny/staten-island-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1174-ddsb</Url>
+        <Id>us/army/1174-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1174th DDSB</HHQAcronym>
+        <Name>1174th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/873-tc-det</Url>
+    <NameNode>873rd Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>873rd Transportation Detachment, U.S. Army</FullName>
+    <SplitName>873rd Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Staten Island United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Staten Island, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/staten-island-usarc</Url>
+        <Id>us/ny/staten-island-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1174-ddsb</Url>
+        <Id>us/army/1174-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1174th DDSB</HHQAcronym>
+        <Name>1174th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/928-tc-det</Url>
+    <NameNode>928th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>928th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>928th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Staten Island United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Staten Island, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/staten-island-usarc</Url>
+        <Id>us/ny/staten-island-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1174-ddsb</Url>
+        <Id>us/army/1174-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1174th DDSB</HHQAcronym>
+        <Name>1174th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1185-ddsb</Url>
+    <NameNode>1185th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1185th DDSB, U.S. Army</FullName>
+    <SplitName>1185th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Lancaster United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lancaster, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/lancaster-usarc</Url>
+        <Id>us/pa/lancaster-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+        <Id>us/army/1179-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1179th TC Bde</HHQAcronym>
+        <Name>1179th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1185-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1185th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1185-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1185-ddsb/hhd</Url>
+    <NameNode>HHD, 1185th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1185th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1185th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Lancaster United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lancaster, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/lancaster-usarc</Url>
+        <Id>us/pa/lancaster-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1185-ddsb</Url>
+        <Id>us/army/1185-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1185th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1185th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1398-ddsb</Url>
+    <NameNode>1398th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1398th DDSB, U.S. Army</FullName>
+    <SplitName>1398th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>1SG Adam S. Brandt Memorial United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/1sg-adam-s-brandt-mem-usarc</Url>
+        <Id>us/md/1sg-adam-s-brandt-mem-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1179-tc-bde</Url>
+        <Id>us/army/1179-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1179th TC Bde</HHQAcronym>
+        <Name>1179th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1398-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1398th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1398-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/417-tc-det</Url>
+        <FullName>417th Transportation Detachment</FullName>
+        <Name>417th Transportation Detachment</Name>
+        <Id>us/army/417-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1398-ddsb/hhd</Url>
+    <NameNode>HHD, 1398th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1398th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1398th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>1SG Adam S. Brandt Memorial United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/1sg-adam-s-brandt-mem-usarc</Url>
+        <Id>us/md/1sg-adam-s-brandt-mem-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1398-ddsb</Url>
+        <Id>us/army/1398-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1398th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1398th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/417-tc-det</Url>
+    <NameNode>417th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>417th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>417th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>1SG Adam S. Brandt Memorial United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/1sg-adam-s-brandt-mem-usarc</Url>
+        <Id>us/md/1sg-adam-s-brandt-mem-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1398-ddsb</Url>
+        <Id>us/army/1398-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1398th DDSB</HHQAcronym>
+        <Name>1398th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1189-tc-bde</Url>
+    <NameNode>1189th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>1189th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>1189th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>North Charleston United States Army Reserve Center #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NSA Charleston | JB Charleston | North Charleston, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/north-charleston-usarc-1</Url>
+        <Id>us/sc/north-charleston-usarc-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <Id>us/army/usardsc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USARDSC</HHQAcronym>
+        <Name>United States Army Reserve Deployment Support Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1189-tc-bde/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1189th Transportation Brigade</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1189-tc-bde/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1182-ddsb</Url>
+        <FullName>1182nd Deployment and Distribution Support Battalion</FullName>
+        <Name>1182nd Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1182-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1186-ddsb</Url>
+        <FullName>1186th Deployment and Distribution Support Battalion</FullName>
+        <Name>1186th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1186-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1188-ddsb</Url>
+        <FullName>1188th Deployment and Distribution Support Battalion</FullName>
+        <Name>1188th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1188-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1189-tc-bde/hhd</Url>
+    <NameNode>HHD, 1189th TC Bde
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1189th TC Bde, U.S. Army</FullName>
+    <SplitName>HHD, 1189th TC Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>North Charleston United States Army Reserve Center #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NSA Charleston | JB Charleston | North Charleston, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/north-charleston-usarc-1</Url>
+        <Id>us/sc/north-charleston-usarc-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1189-tc-bde</Url>
+        <Id>us/army/1189-tc-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1189th TC Bde</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1189th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1182-ddsb</Url>
+    <NameNode>1182nd DDSB
+                            U.S. Army</NameNode>
+    <FullName>1182nd DDSB, U.S. Army</FullName>
+    <SplitName>1182nd DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>North Charleston United States Army Reserve Center #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NSA Charleston | JB Charleston | North Charleston, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/north-charleston-usarc-1</Url>
+        <Id>us/sc/north-charleston-usarc-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1189-tc-bde</Url>
+        <Id>us/army/1189-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1189th TC Bde</HHQAcronym>
+        <Name>1189th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1182-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1182nd Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1182-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/629-tc-det</Url>
+        <FullName>629th Transportation Detachment</FullName>
+        <Name>629th Transportation Detachment</Name>
+        <Id>us/army/629-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1182-ddsb/hhd</Url>
+    <NameNode>HHD, 1182nd DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1182nd DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1182nd DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>North Charleston United States Army Reserve Center #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NSA Charleston | JB Charleston | North Charleston, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/north-charleston-usarc-1</Url>
+        <Id>us/sc/north-charleston-usarc-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1182-ddsb</Url>
+        <Id>us/army/1182-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1182nd DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1182nd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/629-tc-det</Url>
+    <NameNode>629th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>629th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>629th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Eustis United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Eustis | JB Langley-Eustis | Newport News, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-eustis/usarc</Url>
+        <Id>us/va/fort-eustis/usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1182-ddsb</Url>
+        <Id>us/army/1182-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1182nd DDSB</HHQAcronym>
+        <Name>1182nd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1186-ddsb</Url>
+    <NameNode>1186th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1186th DDSB, U.S. Army</FullName>
+    <SplitName>1186th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>LTC Robert R. Milam United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jacksonville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/ltc-robert-r-milam-usarc</Url>
+        <Id>us/fl/ltc-robert-r-milam-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1189-tc-bde</Url>
+        <Id>us/army/1189-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1189th TC Bde</HHQAcronym>
+        <Name>1189th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1186-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1186th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1186-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1186-ddsb/hhd</Url>
+    <NameNode>HHD, 1186th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1186th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1186th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>LTC Robert R. Milam United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jacksonville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/ltc-robert-r-milam-usarc</Url>
+        <Id>us/fl/ltc-robert-r-milam-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1186-ddsb</Url>
+        <Id>us/army/1186-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1186th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1186th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1188-ddsb</Url>
+    <NameNode>1188th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1188th DDSB, U.S. Army</FullName>
+    <SplitName>1188th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Decatur United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Decatur, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/decatur-usarc</Url>
+        <Id>us/ga/decatur-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1189-tc-bde</Url>
+        <Id>us/army/1189-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1189th TC Bde</HHQAcronym>
+        <Name>1189th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1188-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1188th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1188-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1188-ddsb/hhd</Url>
+    <NameNode>HHD, 1188th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1188th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1188th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Decatur United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Decatur, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/decatur-usarc</Url>
+        <Id>us/ga/decatur-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1188-ddsb</Url>
+        <Id>us/army/1188-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1188th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1188th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+    <NameNode>1190th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>1190th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>1190th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Baton Rouge Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baton Rouge, Louisiana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/la/baton-rouge-afrc</Url>
+        <Id>us/la/baton-rouge-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <Id>us/army/usardsc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USARDSC</HHQAcronym>
+        <Name>United States Army Reserve Deployment Support Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1190th Transportation Brigade</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1190-tc-bde/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+        <FullName>1181st Deployment and Distribution Support Battalion</FullName>
+        <Name>1181st Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1181-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1184-ddsb</Url>
+        <FullName>1184th Deployment and Distribution Support Battalion</FullName>
+        <Name>1184th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1184-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1192-ddsb</Url>
+        <FullName>1192nd Deployment and Distribution Support Battalion</FullName>
+        <Name>1192nd Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1192-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/370-tc-det</Url>
+        <FullName>370th Transportation Detachment</FullName>
+        <Name>370th Transportation Detachment</Name>
+        <Id>us/army/370-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/455-tc-det</Url>
+        <FullName>455th Transportation Detachment</FullName>
+        <Name>455th Transportation Detachment</Name>
+        <Id>us/army/455-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/526-tc-det</Url>
+        <FullName>526th Transportation Detachment</FullName>
+        <Name>526th Transportation Detachment</Name>
+        <Id>us/army/526-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/554-tc-det</Url>
+        <FullName>554th Transportation Detachment</FullName>
+        <Name>554th Transportation Detachment</Name>
+        <Id>us/army/554-tc-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1190-tc-bde/hhd</Url>
+    <NameNode>HHD, 1190th TC Bde
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1190th TC Bde, U.S. Army</FullName>
+    <SplitName>HHD, 1190th TC Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Baton Rouge Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baton Rouge, Louisiana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/la/baton-rouge-afrc</Url>
+        <Id>us/la/baton-rouge-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+    <NameNode>1181st DDSB
+                            U.S. Army</NameNode>
+    <FullName>1181st DDSB, U.S. Army</FullName>
+    <SplitName>1181st DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Harris-Lockhard United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/harris-lockhard-usarc</Url>
+        <Id>us/ms/harris-lockhard-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1181st Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1181-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/530-tc-det</Url>
+        <FullName>530th Transportation Detachment</FullName>
+        <Name>530th Transportation Detachment</Name>
+        <Id>us/army/530-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/541-tc-det</Url>
+        <FullName>541st Transportation Detachment</FullName>
+        <Name>541st Transportation Detachment</Name>
+        <Id>us/army/541-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/589-tc-det</Url>
+        <FullName>589th Transportation Detachment</FullName>
+        <Name>589th Transportation Detachment</Name>
+        <Id>us/army/589-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/677-tc-det</Url>
+        <FullName>677th Transportation Detachment</FullName>
+        <Name>677th Transportation Detachment</Name>
+        <Id>us/army/677-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1181-ddsb/hhd</Url>
+    <NameNode>HHD, 1181st DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1181st DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1181st DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Harris-Lockhard United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/harris-lockhard-usarc</Url>
+        <Id>us/ms/harris-lockhard-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+        <Id>us/army/1181-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1181st DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1181st Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/530-tc-det</Url>
+    <NameNode>530th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>530th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>530th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>CPL Clifford M. Davis United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Belton, Missouri, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mo/cpl-clifford-m-davis-usarc</Url>
+        <Id>us/mo/cpl-clifford-m-davis-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+        <Id>us/army/1181-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1181st DDSB</HHQAcronym>
+        <Name>1181st Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/541-tc-det</Url>
+    <NameNode>541st Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>541st Transportation Detachment, U.S. Army</FullName>
+    <SplitName>541st Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Manhattan Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manhattan, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/manhattan-afrc</Url>
+        <Id>us/ks/manhattan-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+        <Id>us/army/1181-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1181st DDSB</HHQAcronym>
+        <Name>1181st Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/589-tc-det</Url>
+    <NameNode>589th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>589th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>589th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Manhattan Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manhattan, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/manhattan-afrc</Url>
+        <Id>us/ks/manhattan-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+        <Id>us/army/1181-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1181st DDSB</HHQAcronym>
+        <Name>1181st Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/677-tc-det</Url>
+    <NameNode>677th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>677th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>677th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT James W. Robinson Jr. United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chicago, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/sgt-james-w-robinson-jr-usarc</Url>
+        <Id>us/il/sgt-james-w-robinson-jr-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1181-ddsb</Url>
+        <Id>us/army/1181-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1181st DDSB</HHQAcronym>
+        <Name>1181st Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1184-ddsb</Url>
+    <NameNode>1184th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1184th DDSB, U.S. Army</FullName>
+    <SplitName>1184th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT William W. Seay United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mobile, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/sgt-william-w-seay-usarc</Url>
+        <Id>us/al/sgt-william-w-seay-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1184-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1184th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1184-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1184-ddsb/hhd</Url>
+    <NameNode>HHD, 1184th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1184th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1184th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT William W. Seay United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mobile, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/sgt-william-w-seay-usarc</Url>
+        <Id>us/al/sgt-william-w-seay-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1184-ddsb</Url>
+        <Id>us/army/1184-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1184th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1184th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1192-ddsb</Url>
+    <NameNode>1192nd DDSB
+                            U.S. Army</NameNode>
+    <FullName>1192nd DDSB, U.S. Army</FullName>
+    <SplitName>1192nd DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>James H. Diamond United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Orleans, Louisiana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/la/james-h-diamond-usarc</Url>
+        <Id>us/la/james-h-diamond-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1192-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1192nd Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1192-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/389-tc-det</Url>
+        <FullName>389th Transportation Detachment</FullName>
+        <Name>389th Transportation Detachment</Name>
+        <Id>us/army/389-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/461-tc-det</Url>
+        <FullName>461st Transportation Detachment</FullName>
+        <Name>461st Transportation Detachment</Name>
+        <Id>us/army/461-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/614-tc-det</Url>
+        <FullName>614th Transportation Detachment</FullName>
+        <Name>614th Transportation Detachment</Name>
+        <Id>us/army/614-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1192-ddsb/hhd</Url>
+    <NameNode>HHD, 1192nd DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1192nd DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1192nd DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>James H. Diamond United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Orleans, Louisiana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/la/james-h-diamond-usarc</Url>
+        <Id>us/la/james-h-diamond-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1192-ddsb</Url>
+        <Id>us/army/1192-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1192nd DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1192nd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/389-tc-det</Url>
+    <NameNode>389th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>389th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>389th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Conroe United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Conroe, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/conroe-usarc</Url>
+        <Id>us/tx/conroe-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1192-ddsb</Url>
+        <Id>us/army/1192-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1192nd DDSB</HHQAcronym>
+        <Name>1192nd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/461-tc-det</Url>
+    <NameNode>461st Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>461st Transportation Detachment, U.S. Army</FullName>
+    <SplitName>461st Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>Jun 2013 - Present</DateRange>
+        <BaseName>LT Luis Garcia Memorial United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McAllen, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/lt-luis-garcia-mem-usarc</Url>
+        <Id>us/tx/lt-luis-garcia-mem-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1192-ddsb</Url>
+        <Id>us/army/1192-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1192nd DDSB</HHQAcronym>
+        <Name>1192nd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/614-tc-det</Url>
+    <NameNode>614th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>614th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>614th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Northwest Houston Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Houston, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/northwest-houston-afrc</Url>
+        <Id>us/tx/northwest-houston-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1192-ddsb</Url>
+        <Id>us/army/1192-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1192nd DDSB</HHQAcronym>
+        <Name>1192nd Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/370-tc-det</Url>
+    <NameNode>370th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>370th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>370th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sinton United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sinton, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/sinton-usarc</Url>
+        <Id>us/tx/sinton-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/455-tc-det</Url>
+    <NameNode>455th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>455th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>455th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>St. Louis United States Army Reserve Center #2</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St. Louis, Missouri, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mo/st-louis-usarc-2</Url>
+        <Id>us/mo/st-louis-usarc-2</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/526-tc-det</Url>
+    <NameNode>526th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>526th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>526th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Springfield, Missouri, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mo/springfield-afrc</Url>
+        <Id>us/mo/springfield-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/554-tc-det</Url>
+    <NameNode>554th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>554th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>554th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sinton United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sinton, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/sinton-usarc</Url>
+        <Id>us/tx/sinton-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1190-tc-bde</Url>
+        <Id>us/army/1190-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1190th TC Bde</HHQAcronym>
+        <Name>1190th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+    <NameNode>1394th Transportation Brigade
+                            U.S. Army</NameNode>
+    <FullName>1394th Transportation Brigade, U.S. Army</FullName>
+    <SplitName>1394th Transportation Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT Annund C. Roark Hall United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Del Mar | Camp Pendleton South | MCB Camp Pendleton | California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/sgt-annund-c-roark-hall-usarc</Url>
+        <Id>us/ca/sgt-annund-c-roark-hall-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <Id>us/army/usardsc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USARDSC</HHQAcronym>
+        <Name>United States Army Reserve Deployment Support Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1394th Transportation Brigade</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1394-tc-bde/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1395-ddsb</Url>
+        <FullName>1395th Deployment and Distribution Support Battalion</FullName>
+        <Name>1395th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1395-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1397-ddsb</Url>
+        <FullName>1397th Deployment and Distribution Support Battalion</FullName>
+        <Name>1397th Deployment and Distribution Support Battalion</Name>
+        <Id>us/army/1397-ddsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/502-tc-det</Url>
+        <FullName>502nd Transportation Detachment</FullName>
+        <Name>502nd Transportation Detachment</Name>
+        <Id>us/army/502-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/643-tc-det</Url>
+        <FullName>643rd Transportation Detachment</FullName>
+        <Name>643rd Transportation Detachment</Name>
+        <Id>us/army/643-tc-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/931-tc-det</Url>
+        <FullName>931st Transportation Detachment</FullName>
+        <Name>931st Transportation Detachment</Name>
+        <Id>us/army/931-tc-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1180-tc-det</Url>
+        <FullName>1180th Transportation Detachment</FullName>
+        <Name>1180th Transportation Detachment</Name>
+        <Id>us/army/1180-tc-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1188-tc-det</Url>
+        <FullName>1188th Transportation Detachment</FullName>
+        <Name>1188th Transportation Detachment</Name>
+        <Id>us/army/1188-tc-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1394-tc-bde/hhd</Url>
+    <NameNode>HHD, 1394th TC Bde
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1394th TC Bde, U.S. Army</FullName>
+    <SplitName>HHD, 1394th TC Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT Annund C. Roark Hall United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Del Mar | Camp Pendleton South | MCB Camp Pendleton | California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/sgt-annund-c-roark-hall-usarc</Url>
+        <Id>us/ca/sgt-annund-c-roark-hall-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1395-ddsb</Url>
+    <NameNode>1395th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1395th DDSB, U.S. Army</FullName>
+    <SplitName>1395th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1395-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1395th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1395-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/647-tc-det</Url>
+        <FullName>647th Transportation Detachment</FullName>
+        <Name>647th Transportation Detachment</Name>
+        <Id>us/army/647-tc-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1395-ddsb/hhd</Url>
+    <NameNode>HHD, 1395th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1395th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1395th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1395-ddsb</Url>
+        <Id>us/army/1395-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1395th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1395th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/647-tc-det</Url>
+    <NameNode>647th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>647th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>647th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>1LT Victor L. Kandle Hall United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/1lt-victor-l-kandle-hall-usarc</Url>
+        <Id>us/wa/1lt-victor-l-kandle-hall-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1395-ddsb</Url>
+        <Id>us/army/1395-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1395th DDSB</HHQAcronym>
+        <Name>1395th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1397-ddsb</Url>
+    <NameNode>1397th DDSB
+                            U.S. Army</NameNode>
+    <FullName>1397th DDSB, U.S. Army</FullName>
+    <SplitName>1397th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mare Island United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vallejo, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/mare-island-usarc</Url>
+        <Id>us/ca/mare-island-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1397-ddsb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1397th Deployment and Distribution Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1397-ddsb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1397-ddsb/hhd</Url>
+    <NameNode>HHD, 1397th DDSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1397th DDSB, U.S. Army</FullName>
+    <SplitName>HHD, 1397th DDSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mare Island United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vallejo, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/mare-island-usarc</Url>
+        <Id>us/ca/mare-island-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1397-ddsb</Url>
+        <Id>us/army/1397-ddsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1397th DDSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1397th Deployment and Distribution Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/502-tc-det</Url>
+    <NameNode>502nd Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>502nd Transportation Detachment, U.S. Army</FullName>
+    <SplitName>502nd Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Los Alamitos Joint Forces Training Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Los Alamitos, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/los-alamitos-jftb</Url>
+        <Id>us/ca/los-alamitos-jftb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/643-tc-det</Url>
+    <NameNode>643rd Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>643rd Transportation Detachment, U.S. Army</FullName>
+    <SplitName>643rd Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fairchild Air Force Base Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fairchild AFB | Spokane, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fairchild-afb/afrc</Url>
+        <Id>us/wa/fairchild-afb/afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/931-tc-det</Url>
+    <NameNode>931st Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>931st Transportation Detachment, U.S. Army</FullName>
+    <SplitName>931st Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Daniels Hall United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sherman Oaks, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/daniels-hall-usarc</Url>
+        <Id>us/ca/daniels-hall-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1180-tc-det</Url>
+    <NameNode>1180th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>1180th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>1180th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>El Monte United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>El Monte, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/el-monte-usarc</Url>
+        <Id>us/ca/el-monte-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1188-tc-det</Url>
+    <NameNode>1188th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>1188th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>1188th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Daniels Hall United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sherman Oaks, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/daniels-hall-usarc</Url>
+        <Id>us/ca/daniels-hall-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1394-tc-bde</Url>
+        <Id>us/army/1394-tc-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1394th TC Bde</HHQAcronym>
+        <Name>1394th Transportation Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+    <NameNode>757th Transportation Battalion
+                            U.S. Army</NameNode>
+    <FullName>757th Transportation Battalion, U.S. Army</FullName>
+    <SplitName>757th Transportation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>West Silver Spring Reserve Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milwaukee, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/west-silver-spring-reserve-cplx</Url>
+        <Id>us/wi/west-silver-spring-reserve-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <Id>us/army/usardsc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USARDSC</HHQAcronym>
+        <Name>United States Army Reserve Deployment Support Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 757th Transportation Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/757-tc-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/226-tc-co</Url>
+        <FullName>226th Transportation Company</FullName>
+        <Name>226th Transportation Company</Name>
+        <Id>us/army/226-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1150-tc-co</Url>
+        <FullName>1150th Transportation Company</FullName>
+        <Name>1150th Transportation Company</Name>
+        <Id>us/army/1150-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1151-tc-co</Url>
+        <FullName>1151st Transportation Company</FullName>
+        <Name>1151st Transportation Company</Name>
+        <Id>us/army/1151-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1152-tc-co</Url>
+        <FullName>1152nd Transportation Company</FullName>
+        <Name>1152nd Transportation Company</Name>
+        <Id>us/army/1152-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/757-tc-bn/hhd</Url>
+    <NameNode>HHD, 757th TC Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 757th TC Bn, U.S. Army</FullName>
+    <SplitName>HHD, 757th TC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>West Silver Spring Reserve Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milwaukee, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/west-silver-spring-reserve-cplx</Url>
+        <Id>us/wi/west-silver-spring-reserve-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+        <Id>us/army/757-tc-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>757th TC Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>757th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/226-tc-co</Url>
+    <NameNode>226th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>226th Transportation Company, U.S. Army</FullName>
+    <SplitName>226th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Westover Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westover ARB | Massachusetts, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ma/westover-afrc/new</Url>
+        <Id>us/ma/westover-afrc/new</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Westover Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westover ARB | Massachusetts, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/ma/westover-afrc/old</Url>
+        <Id>us/ma/westover-afrc/old</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+        <Id>us/army/757-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>757th TC Bn</HHQAcronym>
+        <Name>757th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1150-tc-co</Url>
+    <NameNode>1150th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1150th Transportation Company, U.S. Army</FullName>
+    <SplitName>1150th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Sheridan Reserve Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Sheridan, Illinois, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/il/fort-sheridan-reserve-cplx</Url>
+        <Id>us/il/fort-sheridan-reserve-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+        <Id>us/army/757-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>757th TC Bn</HHQAcronym>
+        <Name>757th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1151-tc-co</Url>
+    <NameNode>1151st Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1151st Transportation Company, U.S. Army</FullName>
+    <SplitName>1151st Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT Thomas J. Butler IV Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wilmington, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/sgt-thomas-j-butler-iv-afrc</Url>
+        <Id>us/nc/sgt-thomas-j-butler-iv-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+        <Id>us/army/757-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>757th TC Bn</HHQAcronym>
+        <Name>757th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1151-tc-co/det-2</Url>
+        <FullName>Detachment 2, 1151st Transportation Company</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/1151-tc-co/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1151-tc-co/det-2</Url>
+    <NameNode>Detachment 2, 1151st Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, 1151st Transportation Company, U.S. Army</FullName>
+    <SplitName>Detachment 2, 1151st Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Southport United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MOT Sunny Point | Southport, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/southport-usarc</Url>
+        <Id>us/nc/southport-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1151-tc-co</Url>
+        <Id>us/army/1151-tc-co</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1151st TC Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>1151st Transportation Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1152-tc-co</Url>
+    <NameNode>1152nd Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1152nd Transportation Company, U.S. Army</FullName>
+    <SplitName>1152nd Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>West Silver Spring Reserve Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milwaukee, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/west-silver-spring-reserve-cplx</Url>
+        <Id>us/wi/west-silver-spring-reserve-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/757-tc-bn</Url>
+        <Id>us/army/757-tc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>757th TC Bn</HHQAcronym>
+        <Name>757th Transportation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1152-tc-co/det-1</Url>
+        <FullName>Detachment 1, 1152nd Transportation Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/1152-tc-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1152-tc-co/det-1</Url>
+    <NameNode>Detachment 1, 1152nd Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 1152nd Transportation Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 1152nd Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort McCoy</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/fort-mccoy</Url>
+        <Id>us/wi/fort-mccoy</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1152-tc-co</Url>
+        <Id>us/army/1152-tc-co</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1152nd TC Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>1152nd Transportation Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/369-tc-det</Url>
+    <NameNode>369th Transportation Detachment
+                            U.S. Army</NameNode>
+    <FullName>369th Transportation Detachment, U.S. Army</FullName>
+    <SplitName>369th Transportation Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Northwest Houston Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Houston, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/northwest-houston-afrc</Url>
+        <Id>us/tx/northwest-houston-afrc</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Houston United States Army Reserve Center #3</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Houston, Texas, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/houston-usarc-3</Url>
+        <Id>us/tx/houston-usarc-3</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usardsc</Url>
+        <Id>us/army/usardsc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USARDSC</HHQAcronym>
+        <Name>United States Army Reserve Deployment Support Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

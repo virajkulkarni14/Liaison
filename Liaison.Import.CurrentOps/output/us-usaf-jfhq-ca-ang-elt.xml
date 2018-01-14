@@ -1,0 +1,1905 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ca/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ California
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ California, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ California</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>California Military Department Headquarters</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sacramento, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/ca-mil-dep-hq</Url>
+        <Id>us/ca/ca-mil-dep-hq</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ca</Url>
+        <Id>us/ng/jfhq-ca</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ California</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters California</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/129-rqw</Url>
+        <FullName>129th Rescue Wing</FullName>
+        <Name>129th Rescue Wing</Name>
+        <Id>us/usaf/129-rqw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+        <FullName>144th Fighter Wing</FullName>
+        <Name>144th Fighter Wing</Name>
+        <Id>us/usaf/144-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/146-aw</Url>
+        <FullName>146th Airlift Wing</FullName>
+        <Name>146th Airlift Wing</Name>
+        <Id>us/usaf/146-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <FullName>163rd Reconnaissance Wing</FullName>
+        <Name>163rd Reconnaissance Wing</Name>
+        <Id>us/usaf/163-rw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <FullName>162nd Combat Communications Group</FullName>
+        <Name>162nd Combat Communications Group</Name>
+        <Id>us/usaf/162-ccg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/129-rqw</Url>
+    <NameNode>129th Rescue Wing
+                            USAF</NameNode>
+    <FullName>129th Rescue Wing, USAF</FullName>
+    <SplitName>129th Rescue Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Moffett Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mountain View, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/moffett-field-angb</Url>
+        <Id>us/ca/moffett-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/12-af</Url>
+        <Id>us/usaf/12-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>12th Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>12th Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ca/ang-elt</Url>
+        <Id>us/usaf/jfhq-ca/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ California</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters California</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+    <NameNode>144th Fighter Wing
+                            USAF</NameNode>
+    <FullName>144th Fighter Wing, USAF</FullName>
+    <SplitName>144th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/1-af</Url>
+        <Id>us/usaf/1-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>1st Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ca/ang-elt</Url>
+        <Id>us/usaf/jfhq-ca/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ California</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters California</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-og</Url>
+        <FullName>144th Operations Group</FullName>
+        <Name>144th Operations Group</Name>
+        <Id>us/usaf/144-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+        <FullName>144th Mission Support Group</FullName>
+        <Name>144th Mission Support Group</Name>
+        <Id>us/usaf/144-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mxg</Url>
+        <FullName>144th Maintenance Group</FullName>
+        <Name>144th Maintenance Group</Name>
+        <Id>us/usaf/144-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mdg</Url>
+        <FullName>144th Medical Group</FullName>
+        <Name>144th Medical Group</Name>
+        <Id>us/usaf/144-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-cptf</Url>
+        <FullName>144th Comptroller Flight</FullName>
+        <Name>144th Comptroller Flight</Name>
+        <Id>us/usaf/144-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-og</Url>
+    <NameNode>144th Operations Group
+                            USAF</NameNode>
+    <FullName>144th Operations Group, USAF</FullName>
+    <SplitName>144th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+        <Id>us/usaf/144-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Fighter Wing</HHQAcronym>
+        <Name>144th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/194-fs</Url>
+        <FullName>194th Fighter Squadron</FullName>
+        <Name>194th Fighter Squadron</Name>
+        <Id>us/usaf/194-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-osf</Url>
+        <FullName>144th Operations Support Flight</FullName>
+        <Name>144th Operations Support Flight</Name>
+        <Id>us/usaf/144-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/194-fs</Url>
+    <NameNode>194th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>194th Fighter Squadron, USAF</FullName>
+    <SplitName>194th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-og</Url>
+        <Id>us/usaf/144-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Operations Group</HHQAcronym>
+        <Name>144th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-osf</Url>
+    <NameNode>144th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>144th Operations Support Flight, USAF</FullName>
+    <SplitName>144th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-og</Url>
+        <Id>us/usaf/144-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Operations Group</HHQAcronym>
+        <Name>144th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+    <NameNode>144th Mission Support Group
+                            USAF</NameNode>
+    <FullName>144th Mission Support Group, USAF</FullName>
+    <SplitName>144th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+        <Id>us/usaf/144-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Fighter Wing</HHQAcronym>
+        <Name>144th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-ces</Url>
+        <FullName>144th Civil Engineer Squadron</FullName>
+        <Name>144th Civil Engineer Squadron</Name>
+        <Id>us/usaf/144-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fss</Url>
+        <FullName>144th Force Support Squadron</FullName>
+        <Name>144th Force Support Squadron</Name>
+        <Id>us/usaf/144-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-lrs</Url>
+        <FullName>144th Logistics Readiness Squadron</FullName>
+        <Name>144th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/144-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-sfs</Url>
+        <FullName>144th Security Forces Squadron</FullName>
+        <Name>144th Security Forces Squadron</Name>
+        <Id>us/usaf/144-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-cf</Url>
+        <FullName>144th Communications Flight</FullName>
+        <Name>144th Communications Flight</Name>
+        <Id>us/usaf/144-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-ces</Url>
+    <NameNode>144th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>144th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>144th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+        <Id>us/usaf/144-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MSG</HHQAcronym>
+        <Name>144th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-fss</Url>
+    <NameNode>144th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>144th Force Support Squadron, USAF</FullName>
+    <SplitName>144th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+        <Id>us/usaf/144-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MSG</HHQAcronym>
+        <Name>144th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-lrs</Url>
+    <NameNode>144th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>144th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>144th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+        <Id>us/usaf/144-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MSG</HHQAcronym>
+        <Name>144th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-sfs</Url>
+    <NameNode>144th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>144th Security Forces Squadron, USAF</FullName>
+    <SplitName>144th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+        <Id>us/usaf/144-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MSG</HHQAcronym>
+        <Name>144th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-cf</Url>
+    <NameNode>144th Communications Flight
+                            USAF</NameNode>
+    <FullName>144th Communications Flight, USAF</FullName>
+    <SplitName>144th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-msg</Url>
+        <Id>us/usaf/144-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MSG</HHQAcronym>
+        <Name>144th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-mxg</Url>
+    <NameNode>144th Maintenance Group
+                            USAF</NameNode>
+    <FullName>144th Maintenance Group, USAF</FullName>
+    <SplitName>144th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+        <Id>us/usaf/144-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Fighter Wing</HHQAcronym>
+        <Name>144th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-amxs</Url>
+        <FullName>144th Aircraft Maintenance Squadron</FullName>
+        <Name>144th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/144-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mxs</Url>
+        <FullName>144th Maintenance Squadron</FullName>
+        <Name>144th Maintenance Squadron</Name>
+        <Id>us/usaf/144-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mof</Url>
+        <FullName>144th Maintenance Operations Flight</FullName>
+        <Name>144th Maintenance Operations Flight</Name>
+        <Id>us/usaf/144-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-amxs</Url>
+    <NameNode>144th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>144th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>144th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mxg</Url>
+        <Id>us/usaf/144-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MXG</HHQAcronym>
+        <Name>144th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-mxs</Url>
+    <NameNode>144th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>144th Maintenance Squadron, USAF</FullName>
+    <SplitName>144th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mxg</Url>
+        <Id>us/usaf/144-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MXG</HHQAcronym>
+        <Name>144th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-mof</Url>
+    <NameNode>144th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>144th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>144th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-mxg</Url>
+        <Id>us/usaf/144-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th MXG</HHQAcronym>
+        <Name>144th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-mdg</Url>
+    <NameNode>144th Medical Group
+                            USAF</NameNode>
+    <FullName>144th Medical Group, USAF</FullName>
+    <SplitName>144th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+        <Id>us/usaf/144-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Fighter Wing</HHQAcronym>
+        <Name>144th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/144-cptf</Url>
+    <NameNode>144th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>144th Comptroller Flight, USAF</FullName>
+    <SplitName>144th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fresno Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fresno, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/fresno-angb</Url>
+        <Id>us/ca/fresno-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/144-fw</Url>
+        <Id>us/usaf/144-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>144th Fighter Wing</HHQAcronym>
+        <Name>144th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/146-aw</Url>
+    <NameNode>146th Airlift Wing
+                            USAF</NameNode>
+    <FullName>146th Airlift Wing, USAF</FullName>
+    <SplitName>146th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Channel Islands Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NAS Point Mugu | Oxnard, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/channel-islands-angs</Url>
+        <Id>us/ca/channel-islands-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ca/ang-elt</Url>
+        <Id>us/usaf/jfhq-ca/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ California</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters California</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+    <NameNode>163rd Reconnaissance Wing
+                            USAF</NameNode>
+    <FullName>163rd Reconnaissance Wing, USAF</FullName>
+    <SplitName>163rd Reconnaissance Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/12-af</Url>
+        <Id>us/usaf/12-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>12th Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>12th Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ca/ang-elt</Url>
+        <Id>us/usaf/jfhq-ca/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ California</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters California</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <FullName>163rd Mission Support Group</FullName>
+        <Name>163rd Mission Support Group</Name>
+        <Id>us/usaf/163-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-mxg</Url>
+        <FullName>163rd Maintenance Group</FullName>
+        <Name>163rd Maintenance Group</Name>
+        <Id>us/usaf/163-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-mdg</Url>
+        <FullName>163rd Medical Group</FullName>
+        <Name>163rd Medical Group</Name>
+        <Id>us/usaf/163-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-cptf</Url>
+        <FullName>163rd Comptroller Flight</FullName>
+        <Name>163rd Comptroller Flight</Name>
+        <Id>us/usaf/163-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/196-rs</Url>
+        <FullName>196th Reconnaissance Squadron</FullName>
+        <Name>196th Reconnaissance Squadron</Name>
+        <Id>us/usaf/196-rs</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-osf</Url>
+        <FullName>163rd Operations Support Flight</FullName>
+        <Name>163rd Operations Support Flight</Name>
+        <Id>us/usaf/163-osf</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/210-wf</Url>
+        <FullName>210th Weather Flight</FullName>
+        <Name>210th Weather Flight</Name>
+        <Id>us/usaf/210-wf</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+    <NameNode>163rd Mission Support Group
+                            USAF</NameNode>
+    <FullName>163rd Mission Support Group, USAF</FullName>
+    <SplitName>163rd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-ces</Url>
+        <FullName>163rd Civil Engineer Squadron</FullName>
+        <Name>163rd Civil Engineer Squadron</Name>
+        <Id>us/usaf/163-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-fss</Url>
+        <FullName>163rd Force Support Squadron</FullName>
+        <Name>163rd Force Support Squadron</Name>
+        <Id>us/usaf/163-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-lrs</Url>
+        <FullName>163rd Logistics Readiness Squadron</FullName>
+        <Name>163rd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/163-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-sfs</Url>
+        <FullName>163rd Security Forces Squadron</FullName>
+        <Name>163rd Security Forces Squadron</Name>
+        <Id>us/usaf/163-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-cf</Url>
+        <FullName>163rd Communications Flight</FullName>
+        <Name>163rd Communications Flight</Name>
+        <Id>us/usaf/163-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-svf</Url>
+        <FullName>163rd Services Flight</FullName>
+        <Name>163rd Services Flight</Name>
+        <Id>us/usaf/163-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-ces</Url>
+    <NameNode>163rd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>163rd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>163rd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <Id>us/usaf/163-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MSG</HHQAcronym>
+        <Name>163rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-fss</Url>
+    <NameNode>163rd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>163rd Force Support Squadron, USAF</FullName>
+    <SplitName>163rd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <Id>us/usaf/163-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MSG</HHQAcronym>
+        <Name>163rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-lrs</Url>
+    <NameNode>163rd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>163rd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>163rd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <Id>us/usaf/163-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MSG</HHQAcronym>
+        <Name>163rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-sfs</Url>
+    <NameNode>163rd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>163rd Security Forces Squadron, USAF</FullName>
+    <SplitName>163rd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <Id>us/usaf/163-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MSG</HHQAcronym>
+        <Name>163rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-cf</Url>
+    <NameNode>163rd Communications Flight
+                            USAF</NameNode>
+    <FullName>163rd Communications Flight, USAF</FullName>
+    <SplitName>163rd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <Id>us/usaf/163-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MSG</HHQAcronym>
+        <Name>163rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-svf</Url>
+    <NameNode>163rd Services Flight
+                            USAF</NameNode>
+    <FullName>163rd Services Flight, USAF</FullName>
+    <SplitName>163rd Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-msg</Url>
+        <Id>us/usaf/163-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MSG</HHQAcronym>
+        <Name>163rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-mxg</Url>
+    <NameNode>163rd Maintenance Group
+                            USAF</NameNode>
+    <FullName>163rd Maintenance Group, USAF</FullName>
+    <SplitName>163rd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-amxs</Url>
+        <FullName>163rd Aircraft Maintenance Squadron</FullName>
+        <Name>163rd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/163-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/163-mof</Url>
+        <FullName>163rd Maintenance Operations Flight</FullName>
+        <Name>163rd Maintenance Operations Flight</Name>
+        <Id>us/usaf/163-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-amxs</Url>
+    <NameNode>163rd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>163rd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>163rd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-mxg</Url>
+        <Id>us/usaf/163-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MXG</HHQAcronym>
+        <Name>163rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-mof</Url>
+    <NameNode>163rd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>163rd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>163rd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-mxg</Url>
+        <Id>us/usaf/163-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd MXG</HHQAcronym>
+        <Name>163rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-mdg</Url>
+    <NameNode>163rd Medical Group
+                            USAF</NameNode>
+    <FullName>163rd Medical Group, USAF</FullName>
+    <SplitName>163rd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-cptf</Url>
+    <NameNode>163rd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>163rd Comptroller Flight, USAF</FullName>
+    <SplitName>163rd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/196-rs</Url>
+    <NameNode>196th Reconnaissance Squadron
+                            USAF</NameNode>
+    <FullName>196th Reconnaissance Squadron, USAF</FullName>
+    <SplitName>196th Reconnaissance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/163-osf</Url>
+    <NameNode>163rd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>163rd Operations Support Flight, USAF</FullName>
+    <SplitName>163rd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/210-wf</Url>
+    <NameNode>210th Weather Flight
+                            USAF</NameNode>
+    <FullName>210th Weather Flight, USAF</FullName>
+    <SplitName>210th Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>March Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riverside, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/march-arb</Url>
+        <Id>us/ca/march-arb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/163-rw</Url>
+        <Id>us/usaf/163-rw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>163rd RW</HHQAcronym>
+        <Name>163rd Reconnaissance Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+    <NameNode>162nd Combat Communications Group
+                            USAF</NameNode>
+    <FullName>162nd Combat Communications Group, USAF</FullName>
+    <SplitName>162nd Combat Communications Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>North Highlands Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sacramento, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/north-highlands-angs</Url>
+        <Id>us/ca/north-highlands-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ca/ang-elt</Url>
+        <Id>us/usaf/jfhq-ca/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ California</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters California</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/147-cbcs</Url>
+        <FullName>147th Combat Communications Squadron</FullName>
+        <Name>147th Combat Communications Squadron</Name>
+        <Id>us/usaf/147-cbcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/149-cbcs</Url>
+        <FullName>149th Combat Communications Squadron</FullName>
+        <Name>149th Combat Communications Squadron</Name>
+        <Id>us/usaf/149-cbcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/261-nws</Url>
+        <FullName>261st Network Warfare Squadron</FullName>
+        <Name>261st Network Warfare Squadron</Name>
+        <Id>us/usaf/261-nws</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-sops</Url>
+        <FullName>148th Space Operations Squadron</FullName>
+        <Name>148th Space Operations Squadron</Name>
+        <Id>us/usaf/148-sops</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/216-oss</Url>
+        <FullName>216th Operations Support Squadron</FullName>
+        <Name>216th Operations Support Squadron</Name>
+        <Id>us/usaf/216-oss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/234-is</Url>
+        <FullName>234th Intelligence Squadron</FullName>
+        <Name>234th Intelligence Squadron</Name>
+        <Id>us/usaf/234-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/222-iss</Url>
+        <FullName>222nd Intelligence Support Squadron</FullName>
+        <Name>222nd Intelligence Support Squadron</Name>
+        <Id>us/usaf/222-iss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/222-oss</Url>
+        <FullName>222nd Operations Support Squadron</FullName>
+        <Name>222nd Operations Support Squadron</Name>
+        <Id>us/usaf/222-oss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/222-cmxf</Url>
+        <FullName>222nd Communications Maintenance Flight</FullName>
+        <Name>222nd Communications Maintenance Flight</Name>
+        <Id>us/usaf/222-cmxf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/147-cbcs</Url>
+    <NameNode>147th Combat Communications Squadron
+                            USAF</NameNode>
+    <FullName>147th Combat Communications Squadron, USAF</FullName>
+    <SplitName>147th Combat Communications Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>San Diego Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Diego, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/san-diego-angs</Url>
+        <Id>us/ca/san-diego-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/149-cbcs</Url>
+    <NameNode>149th Combat Communications Squadron
+                            USAF</NameNode>
+    <FullName>149th Combat Communications Squadron, USAF</FullName>
+    <SplitName>149th Combat Communications Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>North Highlands Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sacramento, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/north-highlands-angs</Url>
+        <Id>us/ca/north-highlands-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/261-nws</Url>
+    <NameNode>261st Network Warfare Squadron
+                            USAF</NameNode>
+    <FullName>261st Network Warfare Squadron, USAF</FullName>
+    <SplitName>261st Network Warfare Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sepulveda Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Van Nuys, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/sepulveda-angs</Url>
+        <Id>us/ca/sepulveda-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-sops</Url>
+    <NameNode>148th Space Operations Squadron
+                            USAF</NameNode>
+    <FullName>148th Space Operations Squadron, USAF</FullName>
+    <SplitName>148th Space Operations Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vandenberg Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lompoc, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/vandenberg-afb</Url>
+        <Id>us/ca/vandenberg-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/216-oss</Url>
+    <NameNode>216th Operations Support Squadron
+                            USAF</NameNode>
+    <FullName>216th Operations Support Squadron, USAF</FullName>
+    <SplitName>216th Operations Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vandenberg Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lompoc, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/vandenberg-afb</Url>
+        <Id>us/ca/vandenberg-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/234-is</Url>
+    <NameNode>234th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>234th Intelligence Squadron, USAF</FullName>
+    <SplitName>234th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Beale Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yuba City, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/beale-afb</Url>
+        <Id>us/ca/beale-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/548-isrg</Url>
+        <Id>us/usaf/548-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>548th ISRG</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>548th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/222-iss</Url>
+    <NameNode>222nd Intelligence Support Squadron
+                            USAF</NameNode>
+    <FullName>222nd Intelligence Support Squadron, USAF</FullName>
+    <SplitName>222nd Intelligence Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Beale Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yuba City, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/beale-afb</Url>
+        <Id>us/ca/beale-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/548-isrg</Url>
+        <Id>us/usaf/548-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>548th ISRG</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>548th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/222-oss</Url>
+    <NameNode>222nd Operations Support Squadron
+                            USAF</NameNode>
+    <FullName>222nd Operations Support Squadron, USAF</FullName>
+    <SplitName>222nd Operations Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Beale Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yuba City, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/beale-afb</Url>
+        <Id>us/ca/beale-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/548-isrg</Url>
+        <Id>us/usaf/548-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>548th ISRG</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>548th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/222-cmxf</Url>
+    <NameNode>222nd Communications Maintenance Flight
+                            USAF</NameNode>
+    <FullName>222nd Communications Maintenance Flight, USAF</FullName>
+    <SplitName>222nd Communications Maintenance Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Beale Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yuba City, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/beale-afb</Url>
+        <Id>us/ca/beale-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ccg</Url>
+        <Id>us/usaf/162-ccg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd CCG</HHQAcronym>
+        <Name>162nd Combat Communications Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

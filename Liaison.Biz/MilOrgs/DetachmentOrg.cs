@@ -33,6 +33,8 @@ namespace Liaison.Biz.MilOrgs
 
         public List<ShortForm> ShortForm { get; set; }
 
+        public string USState  { get; set; }
+
         public string GetFullName()
         {
            if (!string.IsNullOrWhiteSpace(Name))

@@ -40,5 +40,9 @@ namespace Liaison.Biz.MilOrgs
         public string Name { get; set; }
 
         public List<ChildOrg> ChildOrgs => throw new NotImplementedException();
+
+        string IMilitaryOrg.USState { get; }
+
+        public string USState =null;
     }
 }

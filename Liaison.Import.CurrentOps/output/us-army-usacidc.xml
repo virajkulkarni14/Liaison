@@ -1,0 +1,1498 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usacidc</Url>
+    <NameNode>USACIDC
+                            U.S. Army</NameNode>
+    <FullName>USACIDC, U.S. Army</FullName>
+    <SplitName>USACIDC</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBQ0lEQw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Marine Corps Base Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Quantico, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/mcb-quantico</Url>
+        <Id>us/va/mcb-quantico</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Type>DRU</Type>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <FullName>3rd Military Police Group</FullName>
+        <Name>3rd Military Police Group</Name>
+        <Id>us/army/3-mp-grp</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/6-mp-grp</Url>
+        <FullName>6th Military Police Group</FullName>
+        <Name>6th Military Police Group</Name>
+        <Id>us/army/6-mp-grp</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/701-mp-grp</Url>
+        <FullName>701st Military Police Group</FullName>
+        <Name>701st Military Police Group</Name>
+        <Id>us/army/701-mp-grp</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usacil</Url>
+        <FullName>United States Army Criminal Investigation Laboratory</FullName>
+        <Name>United States Army Criminal Investigation Laboratory</Name>
+        <Id>us/army/usacil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usacrc</Url>
+        <FullName>United States Army Crime Records Center</FullName>
+        <Name>United States Army Crime Records Center</Name>
+        <Id>us/army/usacrc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+    <NameNode>3rd Military Police Group
+                            U.S. Army</NameNode>
+    <FullName>3rd Military Police Group, U.S. Army</FullName>
+    <SplitName>3rd Military Police Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hunter Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Savannah, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/hunter-aaf</Url>
+        <Id>us/ga/hunter-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usacidc</Url>
+        <Id>us/army/usacidc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USACIDC</HHQAcronym>
+        <Name>United States Army Criminal Investigation Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/5-mp-bn</Url>
+        <FullName>5th Military Police Battalion</FullName>
+        <Name>5th Military Police Battalion</Name>
+        <Id>us/army/5-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 3rd Military Police Group</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/3-mp-grp/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+        <FullName>10th Military Police Battalion</FullName>
+        <Name>10th Military Police Battalion</Name>
+        <Id>us/army/10-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+        <FullName>502nd Military Police Battalion</FullName>
+        <Name>502nd Military Police Battalion</Name>
+        <Id>us/army/502-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/fort-benning-cid-bn</Url>
+        <FullName>Fort Benning Criminal Investigation Battalion</FullName>
+        <Name>Fort Benning Criminal Investigation Battalion</Name>
+        <Id>us/army/fort-benning-cid-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/washington-cid-bn</Url>
+        <FullName>Washington Criminal Investigation Battalion</FullName>
+        <Name>Washington Criminal Investigation Battalion</Name>
+        <Id>us/army/washington-cid-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/5-mp-bn</Url>
+    <NameNode>5th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>5th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>5th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kleber Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/kleber-kaserne</Url>
+        <Id>de/rp/kleber-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <Id>us/army/3-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd MP Grp</HHQAcronym>
+        <Name>3rd Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/5-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 5th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/5-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/5-mp-bn/hhd</Url>
+    <NameNode>HHD, 5th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 5th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 5th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kleber Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/kleber-kaserne</Url>
+        <Id>de/rp/kleber-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/5-mp-bn</Url>
+        <Id>us/army/5-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>5th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>5th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3-mp-grp/hhd</Url>
+    <NameNode>HHD, 3rd MP Grp
+                            U.S. Army</NameNode>
+    <FullName>HHD, 3rd MP Grp, U.S. Army</FullName>
+    <SplitName>HHD, 3rd MP Grp</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hunter Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Savannah, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/hunter-aaf</Url>
+        <Id>us/ga/hunter-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <Id>us/army/3-mp-grp</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>3rd MP Grp</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>3rd Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+    <NameNode>10th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>10th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>10th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fayetteville, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/fort-bragg</Url>
+        <Id>us/nc/fort-bragg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <Id>us/army/3-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd MP Grp</HHQAcronym>
+        <Name>3rd Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 10th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/10-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/30-mp-det</Url>
+        <FullName>30th Military Police Detachment</FullName>
+        <Name>30th Military Police Detachment</Name>
+        <Id>us/army/30-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/32-mp-det</Url>
+        <FullName>32nd Military Police Detachment</FullName>
+        <Name>32nd Military Police Detachment</Name>
+        <Id>us/army/32-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/37-mp-det</Url>
+        <FullName>37th Military Police Detachment</FullName>
+        <Name>37th Military Police Detachment</Name>
+        <Id>us/army/37-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/87-mp-det</Url>
+        <FullName>87th Military Police Detachment</FullName>
+        <Name>87th Military Police Detachment</Name>
+        <Id>us/army/87-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/10-mp-bn/hhd</Url>
+    <NameNode>HHD, 10th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 10th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 10th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fayetteville, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/fort-bragg</Url>
+        <Id>us/nc/fort-bragg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+        <Id>us/army/10-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>10th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>10th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/30-mp-det</Url>
+    <NameNode>30th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>30th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>30th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Stewart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hinesville, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/fort-stewart</Url>
+        <Id>us/ga/fort-stewart</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+        <Id>us/army/10-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>10th MP Bn</HHQAcronym>
+        <Name>10th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/32-mp-det</Url>
+    <NameNode>32nd Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>32nd Military Police Detachment, U.S. Army</FullName>
+    <SplitName>32nd Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fayetteville, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/fort-bragg</Url>
+        <Id>us/nc/fort-bragg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+        <Id>us/army/10-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>10th MP Bn</HHQAcronym>
+        <Name>10th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/37-mp-det</Url>
+    <NameNode>37th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>37th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>37th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/fort-jackson</Url>
+        <Id>us/sc/fort-jackson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+        <Id>us/army/10-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>10th MP Bn</HHQAcronym>
+        <Name>10th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/87-mp-det</Url>
+    <NameNode>87th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>87th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>87th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fayetteville, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/fort-bragg</Url>
+        <Id>us/nc/fort-bragg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-mp-bn</Url>
+        <Id>us/army/10-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>10th MP Bn</HHQAcronym>
+        <Name>10th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+    <NameNode>502nd Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>502nd Military Police Battalion, U.S. Army</FullName>
+    <SplitName>502nd Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Clarksville, Kentucky / Tennessee, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-campbell</Url>
+        <Id>us/ky/fort-campbell</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <Id>us/army/3-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd MP Grp</HHQAcronym>
+        <Name>3rd Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 502nd Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/502-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/24-mp-det</Url>
+        <FullName>24th Military Police Detachment</FullName>
+        <Name>24th Military Police Detachment</Name>
+        <Id>us/army/24-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/31-mp-det</Url>
+        <FullName>31st Military Police Detachment</FullName>
+        <Name>31st Military Police Detachment</Name>
+        <Id>us/army/31-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/62-mp-det</Url>
+        <FullName>62nd Military Police Detachment</FullName>
+        <Name>62nd Military Police Detachment</Name>
+        <Id>us/army/62-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/280-mp-det</Url>
+        <FullName>280th Military Police Detachment</FullName>
+        <Name>280th Military Police Detachment</Name>
+        <Id>us/army/280-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/502-mp-bn/hhd</Url>
+    <NameNode>HHD, 502nd MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 502nd MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 502nd MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Clarksville, Kentucky / Tennessee, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-campbell</Url>
+        <Id>us/ky/fort-campbell</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+        <Id>us/army/502-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>502nd MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>502nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/24-mp-det</Url>
+    <NameNode>24th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>24th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>24th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leonard Wood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Waynesville, Missouri, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mo/fort-leonard-wood</Url>
+        <Id>us/mo/fort-leonard-wood</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+        <Id>us/army/502-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>502nd MP Bn</HHQAcronym>
+        <Name>502nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/31-mp-det</Url>
+    <NameNode>31st Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>31st Military Police Detachment, U.S. Army</FullName>
+    <SplitName>31st Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Clarksville, Kentucky / Tennessee, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-campbell</Url>
+        <Id>us/ky/fort-campbell</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+        <Id>us/army/502-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>502nd MP Bn</HHQAcronym>
+        <Name>502nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/62-mp-det</Url>
+    <NameNode>62nd Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>62nd Military Police Detachment, U.S. Army</FullName>
+    <SplitName>62nd Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Drum</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/fort-drum</Url>
+        <Id>us/ny/fort-drum</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+        <Id>us/army/502-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>502nd MP Bn</HHQAcronym>
+        <Name>502nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/280-mp-det</Url>
+    <NameNode>280th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>280th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>280th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/502-mp-bn</Url>
+        <Id>us/army/502-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>502nd MP Bn</HHQAcronym>
+        <Name>502nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/fort-benning-cid-bn</Url>
+    <NameNode>Fort Benning Criminal Investigation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Fort Benning Criminal Investigation Battalion, U.S. Army</FullName>
+    <SplitName>Fort Benning Criminal Investigation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Benning</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/fort-benning</Url>
+        <Id>us/ga/fort-benning</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <Id>us/army/3-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd MP Grp</HHQAcronym>
+        <Name>3rd Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/71-mp-det</Url>
+        <FullName>71st Military Police Detachment</FullName>
+        <Name>71st Military Police Detachment</Name>
+        <Id>us/army/71-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/86-mp-det</Url>
+        <FullName>86th Military Police Detachment</FullName>
+        <Name>86th Military Police Detachment</Name>
+        <Id>us/army/86-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/90-mp-det</Url>
+        <FullName>90th Military Police Detachment</FullName>
+        <Name>90th Military Police Detachment</Name>
+        <Id>us/army/90-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/71-mp-det</Url>
+    <NameNode>71st Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>71st Military Police Detachment, U.S. Army</FullName>
+    <SplitName>71st Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Rucker</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Daleville, Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/fort-rucker</Url>
+        <Id>us/al/fort-rucker</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/fort-benning-cid-bn</Url>
+        <Id>us/army/fort-benning-cid-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Fort Benning CID Bn</HHQAcronym>
+        <Name>Fort Benning Criminal Investigation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/86-mp-det</Url>
+    <NameNode>86th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>86th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>86th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Benning</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/fort-benning</Url>
+        <Id>us/ga/fort-benning</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/fort-benning-cid-bn</Url>
+        <Id>us/army/fort-benning-cid-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Fort Benning CID Bn</HHQAcronym>
+        <Name>Fort Benning Criminal Investigation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/90-mp-det</Url>
+    <NameNode>90th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>90th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>90th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Polk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leesville, Louisiana, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/la/fort-polk</Url>
+        <Id>us/la/fort-polk</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/fort-benning-cid-bn</Url>
+        <Id>us/army/fort-benning-cid-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Fort Benning CID Bn</HHQAcronym>
+        <Name>Fort Benning Criminal Investigation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/washington-cid-bn</Url>
+    <NameNode>Washington Criminal Investigation Battalion
+                            U.S. Army</NameNode>
+    <FullName>Washington Criminal Investigation Battalion, U.S. Army</FullName>
+    <SplitName>Washington Criminal Investigation Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Myer</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Myer-Henderson Hall | Arlington, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-myer</Url>
+        <Id>us/va/fort-myer</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/3-mp-grp</Url>
+        <Id>us/army/3-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>3rd MP Grp</HHQAcronym>
+        <Name>3rd Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/12-mp-det</Url>
+        <FullName>12th Military Police Detachment</FullName>
+        <Name>12th Military Police Detachment</Name>
+        <Id>us/army/12-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/68-mp-det</Url>
+        <FullName>68th Military Police Detachment</FullName>
+        <Name>68th Military Police Detachment</Name>
+        <Id>us/army/68-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/75-mp-det</Url>
+        <FullName>75th Military Police Detachment</FullName>
+        <Name>75th Military Police Detachment</Name>
+        <Id>us/army/75-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/12-mp-det</Url>
+    <NameNode>12th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>12th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>12th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-lee</Url>
+        <Id>us/va/fort-lee</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/washington-cid-bn</Url>
+        <Id>us/army/washington-cid-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Washington CID Bn</HHQAcronym>
+        <Name>Washington Criminal Investigation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/68-mp-det</Url>
+    <NameNode>68th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>68th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>68th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort George G. Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/fort-george-g-meade</Url>
+        <Id>us/md/fort-george-g-meade</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/washington-cid-bn</Url>
+        <Id>us/army/washington-cid-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Washington CID Bn</HHQAcronym>
+        <Name>Washington Criminal Investigation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/75-mp-det</Url>
+    <NameNode>75th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>75th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>75th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mount Vernon, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-belvoir</Url>
+        <Id>us/va/fort-belvoir</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/washington-cid-bn</Url>
+        <Id>us/army/washington-cid-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Washington CID Bn</HHQAcronym>
+        <Name>Washington Criminal Investigation Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/6-mp-grp</Url>
+    <NameNode>6th Military Police Group
+                            U.S. Army</NameNode>
+    <FullName>6th Military Police Group, U.S. Army</FullName>
+    <SplitName>6th Military Police Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usacidc</Url>
+        <Id>us/army/usacidc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USACIDC</HHQAcronym>
+        <Name>United States Army Criminal Investigation Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/11-mp-bn</Url>
+        <FullName>11th Military Police Battalion</FullName>
+        <Name>11th Military Police Battalion</Name>
+        <Id>us/army/11-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/6-mp-grp/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 6th Military Police Group</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/6-mp-grp/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-mp-bn</Url>
+        <FullName>19th Military Police Battalion</FullName>
+        <Name>19th Military Police Battalion</Name>
+        <Id>us/army/19-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/22-mp-bn</Url>
+        <FullName>22nd Military Police Battalion</FullName>
+        <Name>22nd Military Police Battalion</Name>
+        <Id>us/army/22-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/11-mp-bn</Url>
+    <NameNode>11th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>11th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>11th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Killeen, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/fort-hood</Url>
+        <Id>us/tx/fort-hood</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/6-mp-grp</Url>
+        <Id>us/army/6-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>6th MP Grp</HHQAcronym>
+        <Name>6th Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/11-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 11th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/11-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/11-mp-bn/hhd</Url>
+    <NameNode>HHD, 11th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 11th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 11th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Killeen, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/fort-hood</Url>
+        <Id>us/tx/fort-hood</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/11-mp-bn</Url>
+        <Id>us/army/11-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>11th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>11th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/6-mp-grp/hhd</Url>
+    <NameNode>HHD, 6th MP Grp
+                            U.S. Army</NameNode>
+    <FullName>HHD, 6th MP Grp, U.S. Army</FullName>
+    <SplitName>HHD, 6th MP Grp</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/6-mp-grp</Url>
+        <Id>us/army/6-mp-grp</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>6th MP Grp</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>6th Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-mp-bn</Url>
+    <NameNode>19th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>19th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>19th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeler Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Schofield Bks | Wahiawa, Oahu, Hawaii, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/hi/wheeler-aaf</Url>
+        <Id>us/hi/wheeler-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/6-mp-grp</Url>
+        <Id>us/army/6-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>6th MP Grp</HHQAcronym>
+        <Name>6th Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 19th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/19-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-mp-bn/hhd</Url>
+    <NameNode>HHD, 19th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 19th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 19th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeler Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Schofield Bks | Wahiawa, Oahu, Hawaii, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/hi/wheeler-aaf</Url>
+        <Id>us/hi/wheeler-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-mp-bn</Url>
+        <Id>us/army/19-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>19th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>19th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/22-mp-bn</Url>
+    <NameNode>22nd Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>22nd Military Police Battalion, U.S. Army</FullName>
+    <SplitName>22nd Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/6-mp-grp</Url>
+        <Id>us/army/6-mp-grp</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>6th MP Grp</HHQAcronym>
+        <Name>6th Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/22-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 22nd Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/22-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/22-mp-bn/hhd</Url>
+    <NameNode>HHD, 22nd MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 22nd MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 22nd MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/22-mp-bn</Url>
+        <Id>us/army/22-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>22nd MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>22nd Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/701-mp-grp</Url>
+    <NameNode>701st Military Police Group
+                            U.S. Army</NameNode>
+    <FullName>701st Military Police Group, U.S. Army</FullName>
+    <SplitName>701st Military Police Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Marine Corps Base Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Quantico, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/mcb-quantico</Url>
+        <Id>us/va/mcb-quantico</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usacidc</Url>
+        <Id>us/army/usacidc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USACIDC</HHQAcronym>
+        <Name>United States Army Criminal Investigation Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/701-mp-grp/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 701st Military Police Group</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/701-mp-grp/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/701-mp-grp/hhd</Url>
+    <NameNode>HHD, 701st MP Grp
+                            U.S. Army</NameNode>
+    <FullName>HHD, 701st MP Grp, U.S. Army</FullName>
+    <SplitName>HHD, 701st MP Grp</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Marine Corps Base Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Quantico, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/mcb-quantico</Url>
+        <Id>us/va/mcb-quantico</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/701-mp-grp</Url>
+        <Id>us/army/701-mp-grp</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>701st MP Grp</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>701st Military Police Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usacil</Url>
+    <NameNode>USACIL
+                            U.S. Army</NameNode>
+    <FullName>USACIL, U.S. Army</FullName>
+    <SplitName>USACIL</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Gillem Enclave</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Gillem | Forest Park, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/fort-gillem/enclave</Url>
+        <Id>us/ga/fort-gillem/enclave</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usacidc</Url>
+        <Id>us/army/usacidc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USACIDC</HHQAcronym>
+        <Name>United States Army Criminal Investigation Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usacrc</Url>
+    <NameNode>United States Army Crime Records Center
+                            U.S. Army</NameNode>
+    <FullName>United States Army Crime Records Center, U.S. Army</FullName>
+    <SplitName>United States Army Crime Records Center</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Marine Corps Base Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Quantico, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/mcb-quantico</Url>
+        <Id>us/va/mcb-quantico</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usacidc</Url>
+        <Id>us/army/usacidc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USACIDC</HHQAcronym>
+        <Name>United States Army Criminal Investigation Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

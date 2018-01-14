@@ -1,0 +1,1399 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ia/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Iowa
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Iowa, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Iowa</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ia</Url>
+        <Id>us/ng/jfhq-ia</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Iowa</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Iowa</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <FullName>132nd Fighter Wing</FullName>
+        <Name>132nd Fighter Wing</Name>
+        <Id>us/usaf/132-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+        <FullName>185th Air Refueling Wing</FullName>
+        <Name>185th Air Refueling Wing</Name>
+        <Id>us/usaf/185-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+    <NameNode>132nd Fighter Wing
+                            USAF</NameNode>
+    <FullName>132nd Fighter Wing, USAF</FullName>
+    <SplitName>132nd Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/12-af</Url>
+        <Id>us/usaf/12-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>12th Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>12th Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ia/ang-elt</Url>
+        <Id>us/usaf/jfhq-ia/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Iowa</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Iowa</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw/det-1</Url>
+        <FullName>Detachment 1, 132nd Fighter Wing</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/usaf/132-fw/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-og</Url>
+        <FullName>132nd Operations Group</FullName>
+        <Name>132nd Operations Group</Name>
+        <Id>us/usaf/132-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+        <FullName>132nd Mission Support Group</FullName>
+        <Name>132nd Mission Support Group</Name>
+        <Id>us/usaf/132-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mxg</Url>
+        <FullName>132nd Maintenance Group</FullName>
+        <Name>132nd Maintenance Group</Name>
+        <Id>us/usaf/132-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mdg</Url>
+        <FullName>132nd Medical Group</FullName>
+        <Name>132nd Medical Group</Name>
+        <Id>us/usaf/132-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-cptf</Url>
+        <FullName>132nd Comptroller Flight</FullName>
+        <Name>132nd Comptroller Flight</Name>
+        <Id>us/usaf/132-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-fw/det-1</Url>
+    <NameNode>Detachment 1, 132nd Fighter Wing
+                            USAF</NameNode>
+    <FullName>Detachment 1, 132nd Fighter Wing, USAF</FullName>
+    <SplitName>Detachment 1, 132nd Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <Id>us/usaf/132-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Fighter Wing</HHQAcronym>
+        <Name>132nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-og</Url>
+    <NameNode>132nd Operations Group
+                            USAF</NameNode>
+    <FullName>132nd Operations Group, USAF</FullName>
+    <SplitName>132nd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <Id>us/usaf/132-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Fighter Wing</HHQAcronym>
+        <Name>132nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-fs</Url>
+        <FullName>124th Fighter Squadron</FullName>
+        <Name>124th Fighter Squadron</Name>
+        <Id>us/usaf/124-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-osf</Url>
+        <FullName>132nd Operations Support Flight</FullName>
+        <Name>132nd Operations Support Flight</Name>
+        <Id>us/usaf/132-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-fs</Url>
+    <NameNode>124th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>124th Fighter Squadron, USAF</FullName>
+    <SplitName>124th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-og</Url>
+        <Id>us/usaf/132-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Operations Group</HHQAcronym>
+        <Name>132nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-osf</Url>
+    <NameNode>132nd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>132nd Operations Support Flight, USAF</FullName>
+    <SplitName>132nd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-og</Url>
+        <Id>us/usaf/132-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Operations Group</HHQAcronym>
+        <Name>132nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+    <NameNode>132nd Mission Support Group
+                            USAF</NameNode>
+    <FullName>132nd Mission Support Group, USAF</FullName>
+    <SplitName>132nd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <Id>us/usaf/132-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Fighter Wing</HHQAcronym>
+        <Name>132nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-ces</Url>
+        <FullName>132nd Civil Engineer Squadron</FullName>
+        <Name>132nd Civil Engineer Squadron</Name>
+        <Id>us/usaf/132-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fss</Url>
+        <FullName>132nd Force Support Squadron</FullName>
+        <Name>132nd Force Support Squadron</Name>
+        <Id>us/usaf/132-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-lrs</Url>
+        <FullName>132nd Logistics Readiness Squadron</FullName>
+        <Name>132nd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/132-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-sfs</Url>
+        <FullName>132nd Security Forces Squadron</FullName>
+        <Name>132nd Security Forces Squadron</Name>
+        <Id>us/usaf/132-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-cf</Url>
+        <FullName>132nd Communications Flight</FullName>
+        <Name>132nd Communications Flight</Name>
+        <Id>us/usaf/132-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-ces</Url>
+    <NameNode>132nd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>132nd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>132nd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+        <Id>us/usaf/132-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MSG</HHQAcronym>
+        <Name>132nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-fss</Url>
+    <NameNode>132nd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>132nd Force Support Squadron, USAF</FullName>
+    <SplitName>132nd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+        <Id>us/usaf/132-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MSG</HHQAcronym>
+        <Name>132nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-lrs</Url>
+    <NameNode>132nd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>132nd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>132nd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+        <Id>us/usaf/132-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MSG</HHQAcronym>
+        <Name>132nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-sfs</Url>
+    <NameNode>132nd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>132nd Security Forces Squadron, USAF</FullName>
+    <SplitName>132nd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+        <Id>us/usaf/132-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MSG</HHQAcronym>
+        <Name>132nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-cf</Url>
+    <NameNode>132nd Communications Flight
+                            USAF</NameNode>
+    <FullName>132nd Communications Flight, USAF</FullName>
+    <SplitName>132nd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-msg</Url>
+        <Id>us/usaf/132-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MSG</HHQAcronym>
+        <Name>132nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-mxg</Url>
+    <NameNode>132nd Maintenance Group
+                            USAF</NameNode>
+    <FullName>132nd Maintenance Group, USAF</FullName>
+    <SplitName>132nd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <Id>us/usaf/132-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Fighter Wing</HHQAcronym>
+        <Name>132nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-amxs</Url>
+        <FullName>132nd Aircraft Maintenance Squadron</FullName>
+        <Name>132nd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/132-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mxs</Url>
+        <FullName>132nd Maintenance Squadron</FullName>
+        <Name>132nd Maintenance Squadron</Name>
+        <Id>us/usaf/132-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mof</Url>
+        <FullName>132nd Maintenance Operations Flight</FullName>
+        <Name>132nd Maintenance Operations Flight</Name>
+        <Id>us/usaf/132-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-amxs</Url>
+    <NameNode>132nd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>132nd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>132nd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mxg</Url>
+        <Id>us/usaf/132-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MXG</HHQAcronym>
+        <Name>132nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-mxs</Url>
+    <NameNode>132nd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>132nd Maintenance Squadron, USAF</FullName>
+    <SplitName>132nd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mxg</Url>
+        <Id>us/usaf/132-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MXG</HHQAcronym>
+        <Name>132nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-mof</Url>
+    <NameNode>132nd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>132nd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>132nd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-mxg</Url>
+        <Id>us/usaf/132-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd MXG</HHQAcronym>
+        <Name>132nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-mdg</Url>
+    <NameNode>132nd Medical Group
+                            USAF</NameNode>
+    <FullName>132nd Medical Group, USAF</FullName>
+    <SplitName>132nd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <Id>us/usaf/132-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Fighter Wing</HHQAcronym>
+        <Name>132nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/132-cptf</Url>
+    <NameNode>132nd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>132nd Comptroller Flight, USAF</FullName>
+    <SplitName>132nd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Des Moines Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Des Moines, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/des-moines-angb</Url>
+        <Id>us/ia/des-moines-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/132-fw</Url>
+        <Id>us/usaf/132-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>132nd Fighter Wing</HHQAcronym>
+        <Name>132nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+    <NameNode>185th Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>185th Air Refueling Wing, USAF</FullName>
+    <SplitName>185th Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ia/ang-elt</Url>
+        <Id>us/usaf/jfhq-ia/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Iowa</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Iowa</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-og</Url>
+        <FullName>185th Operations Group</FullName>
+        <Name>185th Operations Group</Name>
+        <Id>us/usaf/185-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+        <FullName>185th Mission Support Group</FullName>
+        <Name>185th Mission Support Group</Name>
+        <Id>us/usaf/185-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-mxg</Url>
+        <FullName>185th Maintenance Group</FullName>
+        <Name>185th Maintenance Group</Name>
+        <Id>us/usaf/185-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-cptf</Url>
+        <FullName>185th Comptroller Flight</FullName>
+        <Name>185th Comptroller Flight</Name>
+        <Id>us/usaf/185-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/133-ts</Url>
+        <FullName>133rd Test Squadron</FullName>
+        <Name>133rd Test Squadron</Name>
+        <Id>us/usaf/133-ts</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-og</Url>
+    <NameNode>185th Operations Group
+                            USAF</NameNode>
+    <FullName>185th Operations Group, USAF</FullName>
+    <SplitName>185th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+        <Id>us/usaf/185-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th ARW</HHQAcronym>
+        <Name>185th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/174-ars</Url>
+        <FullName>174th Air Refueling Squadron</FullName>
+        <Name>174th Air Refueling Squadron</Name>
+        <Id>us/usaf/174-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-osf</Url>
+        <FullName>185th Operations Support Flight</FullName>
+        <Name>185th Operations Support Flight</Name>
+        <Id>us/usaf/185-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/174-ars</Url>
+    <NameNode>174th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>174th Air Refueling Squadron, USAF</FullName>
+    <SplitName>174th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-og</Url>
+        <Id>us/usaf/185-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th Operations Group</HHQAcronym>
+        <Name>185th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-osf</Url>
+    <NameNode>185th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>185th Operations Support Flight, USAF</FullName>
+    <SplitName>185th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-og</Url>
+        <Id>us/usaf/185-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th Operations Group</HHQAcronym>
+        <Name>185th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+    <NameNode>185th Mission Support Group
+                            USAF</NameNode>
+    <FullName>185th Mission Support Group, USAF</FullName>
+    <SplitName>185th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+        <Id>us/usaf/185-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th ARW</HHQAcronym>
+        <Name>185th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-ces</Url>
+        <FullName>185th Civil Engineer Squadron</FullName>
+        <Name>185th Civil Engineer Squadron</Name>
+        <Id>us/usaf/185-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-fss</Url>
+        <FullName>185th Force Support Squadron</FullName>
+        <Name>185th Force Support Squadron</Name>
+        <Id>us/usaf/185-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-lrs</Url>
+        <FullName>185th Logistics Readiness Squadron</FullName>
+        <Name>185th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/185-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-sfs</Url>
+        <FullName>185th Security Forces Squadron</FullName>
+        <Name>185th Security Forces Squadron</Name>
+        <Id>us/usaf/185-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-cf</Url>
+        <FullName>185th Communications Flight</FullName>
+        <Name>185th Communications Flight</Name>
+        <Id>us/usaf/185-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-ces</Url>
+    <NameNode>185th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>185th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>185th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+        <Id>us/usaf/185-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MSG</HHQAcronym>
+        <Name>185th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-fss</Url>
+    <NameNode>185th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>185th Force Support Squadron, USAF</FullName>
+    <SplitName>185th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+        <Id>us/usaf/185-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MSG</HHQAcronym>
+        <Name>185th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-lrs</Url>
+    <NameNode>185th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>185th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>185th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+        <Id>us/usaf/185-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MSG</HHQAcronym>
+        <Name>185th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-sfs</Url>
+    <NameNode>185th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>185th Security Forces Squadron, USAF</FullName>
+    <SplitName>185th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+        <Id>us/usaf/185-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MSG</HHQAcronym>
+        <Name>185th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-cf</Url>
+    <NameNode>185th Communications Flight
+                            USAF</NameNode>
+    <FullName>185th Communications Flight, USAF</FullName>
+    <SplitName>185th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-msg</Url>
+        <Id>us/usaf/185-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MSG</HHQAcronym>
+        <Name>185th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-mxg</Url>
+    <NameNode>185th Maintenance Group
+                            USAF</NameNode>
+    <FullName>185th Maintenance Group, USAF</FullName>
+    <SplitName>185th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+        <Id>us/usaf/185-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th ARW</HHQAcronym>
+        <Name>185th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-amxs</Url>
+        <FullName>185th Aircraft Maintenance Squadron</FullName>
+        <Name>185th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/185-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-mxs</Url>
+        <FullName>185th Maintenance Squadron</FullName>
+        <Name>185th Maintenance Squadron</Name>
+        <Id>us/usaf/185-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-mof</Url>
+        <FullName>185th Maintenance Operations Flight</FullName>
+        <Name>185th Maintenance Operations Flight</Name>
+        <Id>us/usaf/185-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-amxs</Url>
+    <NameNode>185th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>185th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>185th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-mxg</Url>
+        <Id>us/usaf/185-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MXG</HHQAcronym>
+        <Name>185th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-mxs</Url>
+    <NameNode>185th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>185th Maintenance Squadron, USAF</FullName>
+    <SplitName>185th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-mxg</Url>
+        <Id>us/usaf/185-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MXG</HHQAcronym>
+        <Name>185th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-mof</Url>
+    <NameNode>185th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>185th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>185th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-mxg</Url>
+        <Id>us/usaf/185-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th MXG</HHQAcronym>
+        <Name>185th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-cptf</Url>
+    <NameNode>185th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>185th Comptroller Flight, USAF</FullName>
+    <SplitName>185th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux City Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux City, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/sioux-city-angb</Url>
+        <Id>us/ia/sioux-city-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+        <Id>us/usaf/185-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th ARW</HHQAcronym>
+        <Name>185th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/133-ts</Url>
+    <NameNode>133rd Test Squadron
+                            USAF</NameNode>
+    <FullName>133rd Test Squadron, USAF</FullName>
+    <SplitName>133rd Test Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Dodge Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Dodge, Iowa, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ia/fort-dodge-angs</Url>
+        <Id>us/ia/fort-dodge-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/185-arw</Url>
+        <Id>us/usaf/185-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>185th ARW</HHQAcronym>
+        <Name>185th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>IA</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

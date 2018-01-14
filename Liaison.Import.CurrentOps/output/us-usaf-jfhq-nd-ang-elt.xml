@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-nd/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ North Dakota
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ North Dakota, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ North Dakota</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-nd</Url>
+        <Id>us/ng/jfhq-nd</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ North Dakota</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters North Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-nd/acc</Url>
+        <FullName>Air Component Command, Joint Force Headquarters North Dakota</FullName>
+        <Name>Air Component Command</Name>
+        <Id>us/usaf/jfhq-nd/acc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-nd/acc</Url>
+    <NameNode>Air Component Command, JFHQ North Dakota
+                            USAF</NameNode>
+    <FullName>Air Component Command, JFHQ North Dakota, USAF</FullName>
+    <SplitName>Air Component Command, JFHQ North Dakota</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-nd/ang-elt</Url>
+        <Id>us/usaf/jfhq-nd/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ North Dakota</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters North Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+        <FullName>119th Wing</FullName>
+        <Name>119th Wing</Name>
+        <Id>us/usaf/119-wg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+    <NameNode>119th Wing
+                            USAF</NameNode>
+    <FullName>119th Wing, USAF</FullName>
+    <SplitName>119th Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-nd/acc</Url>
+        <Id>us/usaf/jfhq-nd/acc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ACC, JFHQ North Dakota</HHQAcronym>
+        <Name>Air Component Command, Joint Force Headquarters North Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/119-ig</Url>
+        <FullName>119th Intelligence Group</FullName>
+        <Name>119th Intelligence Group</Name>
+        <Id>us/usaf/119-ig</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/119-og</Url>
+        <FullName>119th Operations Group</FullName>
+        <Name>119th Operations Group</Name>
+        <Id>us/usaf/119-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/119-msg</Url>
+        <FullName>119th Mission Support Group</FullName>
+        <Name>119th Mission Support Group</Name>
+        <Id>us/usaf/119-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/119-mdg</Url>
+        <FullName>119th Medical Group</FullName>
+        <Name>119th Medical Group</Name>
+        <Id>us/usaf/119-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/219-sfs</Url>
+        <FullName>219th Security Forces Squadron</FullName>
+        <Name>219th Security Forces Squadron</Name>
+        <Id>us/usaf/219-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/119-ig</Url>
+    <NameNode>119th Intelligence Group
+                            USAF</NameNode>
+    <FullName>119th Intelligence Group, USAF</FullName>
+    <SplitName>119th Intelligence Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+        <Id>us/usaf/119-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>119th Wing</HHQAcronym>
+        <Name>119th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/176-is</Url>
+        <FullName>176th Intelligence Squadron</FullName>
+        <Name>176th Intelligence Squadron</Name>
+        <Id>us/usaf/176-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/177-is</Url>
+        <FullName>177th Intelligence Squadron</FullName>
+        <Name>177th Intelligence Squadron</Name>
+        <Id>us/usaf/177-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/119-iss</Url>
+        <FullName>119th Intelligence Support Squadron</FullName>
+        <Name>119th Intelligence Support Squadron</Name>
+        <Id>us/usaf/119-iss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/176-is</Url>
+    <NameNode>176th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>176th Intelligence Squadron, USAF</FullName>
+    <SplitName>176th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-ig</Url>
+        <Id>us/usaf/119-ig</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>119th IG</HHQAcronym>
+        <Name>119th Intelligence Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/177-is</Url>
+    <NameNode>177th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>177th Intelligence Squadron, USAF</FullName>
+    <SplitName>177th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-ig</Url>
+        <Id>us/usaf/119-ig</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>119th IG</HHQAcronym>
+        <Name>119th Intelligence Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/119-iss</Url>
+    <NameNode>119th Intelligence Support Squadron
+                            USAF</NameNode>
+    <FullName>119th Intelligence Support Squadron, USAF</FullName>
+    <SplitName>119th Intelligence Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-ig</Url>
+        <Id>us/usaf/119-ig</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>119th IG</HHQAcronym>
+        <Name>119th Intelligence Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/119-og</Url>
+    <NameNode>119th Operations Group
+                            USAF</NameNode>
+    <FullName>119th Operations Group, USAF</FullName>
+    <SplitName>119th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+        <Id>us/usaf/119-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>119th Wing</HHQAcronym>
+        <Name>119th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/119-msg</Url>
+    <NameNode>119th Mission Support Group
+                            USAF</NameNode>
+    <FullName>119th Mission Support Group, USAF</FullName>
+    <SplitName>119th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+        <Id>us/usaf/119-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>119th Wing</HHQAcronym>
+        <Name>119th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/119-mdg</Url>
+    <NameNode>119th Medical Group
+                            USAF</NameNode>
+    <FullName>119th Medical Group, USAF</FullName>
+    <SplitName>119th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fargo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fargo, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/fargo-angb</Url>
+        <Id>us/nd/fargo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+        <Id>us/usaf/119-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>119th Wing</HHQAcronym>
+        <Name>119th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/219-sfs</Url>
+    <NameNode>219th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>219th Security Forces Squadron, USAF</FullName>
+    <SplitName>219th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Minot Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot, North Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nd/minot-afb</Url>
+        <Id>us/nd/minot-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/91-sfg</Url>
+        <Id>us/usaf/91-sfg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>91st SFG</HHQAcronym>
+        <Name>91st Security Forces Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/119-wg</Url>
+        <Id>us/usaf/119-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>119th Wing</HHQAcronym>
+        <Name>119th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ND</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

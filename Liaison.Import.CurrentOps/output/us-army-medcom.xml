@@ -1,0 +1,351 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/medcom</Url>
+    <NameNode>United States Army Medical Command
+                            U.S. Army</NameNode>
+    <FullName>United States Army Medical Command, U.S. Army</FullName>
+    <SplitName>United States Army Medical Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTUVEQ09N.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Type>DRU</Type>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/ermc</Url>
+        <FullName>Europe Regional Medical Command</FullName>
+        <Name>Europe Regional Medical Command</Name>
+        <Id>us/army/ermc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/dencom</Url>
+        <FullName>United States Army Dental Command</FullName>
+        <Name>United States Army Dental Command</Name>
+        <Id>us/army/dencom</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usamrmc</Url>
+        <FullName>United States Army Medical Research and Materiel Command</FullName>
+        <Name>United States Army Medical Research and Materiel Command</Name>
+        <Id>us/army/usamrmc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/ermc</Url>
+    <NameNode>Europe Regional Medical Command
+                            U.S. Army</NameNode>
+    <FullName>Europe Regional Medical Command, U.S. Army</FullName>
+    <SplitName>Europe Regional Medical Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgRVJNQw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sembach Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sembach, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/sembach-kaserne</Url>
+        <Id>de/rp/sembach-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usareur</Url>
+        <Id>us/army/usareur</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USAREUR</HHQAcronym>
+        <Name>United States Army Europe</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/medcom</Url>
+        <Id>us/army/medcom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>MEDCOM</HHQAcronym>
+        <Name>United States Army Medical Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/erdc</Url>
+        <FullName>Europe Regional Dental Command</FullName>
+        <Name>Europe Regional Dental Command</Name>
+        <Id>us/army/erdc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usammce</Url>
+        <FullName>United States Army Medical Materiel Center Europe</FullName>
+        <Name>United States Army Medical Materiel Center Europe</Name>
+        <Id>us/army/usammce</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/erdc</Url>
+    <NameNode>Europe Regional Dental Command
+                            U.S. Army</NameNode>
+    <FullName>Europe Regional Dental Command, U.S. Army</FullName>
+    <SplitName>Europe Regional Dental Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sembach Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sembach, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/sembach-kaserne</Url>
+        <Id>de/rp/sembach-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/ermc</Url>
+        <Id>us/army/ermc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ERMC</HHQAcronym>
+        <Name>Europe Regional Medical Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/dencom</Url>
+        <Id>us/army/dencom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>DENCOM</HHQAcronym>
+        <Name>United States Army Dental Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usammce</Url>
+    <NameNode>USAMMCE
+                            U.S. Army</NameNode>
+    <FullName>USAMMCE, U.S. Army</FullName>
+    <SplitName>USAMMCE</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Husterh&amp;ouml;h Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pirmasens, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/husterhoh-kaserne</Url>
+        <Id>de/rp/husterhoh-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/ermc</Url>
+        <Id>us/army/ermc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ERMC</HHQAcronym>
+        <Name>Europe Regional Medical Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usamrmc</Url>
+        <Id>us/army/usamrmc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USAMRMC</HHQAcronym>
+        <Name>United States Army Medical Research and Materiel Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/dencom</Url>
+    <NameNode>United States Army Dental Command
+                            U.S. Army</NameNode>
+    <FullName>United States Army Dental Command, U.S. Army</FullName>
+    <SplitName>United States Army Dental Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Sam Houston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB San Antonio | San Antonio, Texas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tx/fort-sam-houston</Url>
+        <Id>us/tx/fort-sam-houston</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/medcom</Url>
+        <Id>us/army/medcom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>MEDCOM</HHQAcronym>
+        <Name>United States Army Medical Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/erdc</Url>
+        <FullName>Europe Regional Dental Command</FullName>
+        <Name>Europe Regional Dental Command</Name>
+        <Id>us/army/erdc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/erdc</Url>
+    <NameNode>Europe Regional Dental Command
+                            U.S. Army</NameNode>
+    <FullName>Europe Regional Dental Command, U.S. Army</FullName>
+    <SplitName>Europe Regional Dental Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sembach Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sembach, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/sembach-kaserne</Url>
+        <Id>de/rp/sembach-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/ermc</Url>
+        <Id>us/army/ermc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ERMC</HHQAcronym>
+        <Name>Europe Regional Medical Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/dencom</Url>
+        <Id>us/army/dencom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>DENCOM</HHQAcronym>
+        <Name>United States Army Dental Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usamrmc</Url>
+    <NameNode>USAMRMC
+                            U.S. Army</NameNode>
+    <FullName>USAMRMC, U.S. Army</FullName>
+    <SplitName>USAMRMC</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Detrick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Frederick, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/fort-detrick</Url>
+        <Id>us/md/fort-detrick</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/medcom</Url>
+        <Id>us/army/medcom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>MEDCOM</HHQAcronym>
+        <Name>United States Army Medical Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usammce</Url>
+        <FullName>United States Army Medical Materiel Center Europe</FullName>
+        <Name>United States Army Medical Materiel Center Europe</Name>
+        <Id>us/army/usammce</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usammce</Url>
+    <NameNode>USAMMCE
+                            U.S. Army</NameNode>
+    <FullName>USAMMCE, U.S. Army</FullName>
+    <SplitName>USAMMCE</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Husterh&amp;ouml;h Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pirmasens, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/husterhoh-kaserne</Url>
+        <Id>de/rp/husterhoh-kaserne</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/ermc</Url>
+        <Id>us/army/ermc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ERMC</HHQAcronym>
+        <Name>Europe Regional Medical Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usamrmc</Url>
+        <Id>us/army/usamrmc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USAMRMC</HHQAcronym>
+        <Name>United States Army Medical Research and Materiel Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

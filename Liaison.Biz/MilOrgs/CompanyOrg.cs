@@ -64,5 +64,7 @@ namespace Liaison.Biz.MilOrgs
         public string ParentShortForm { get; set; }
 
         public List<ChildOrg> ChildOrgs => throw new NotImplementedException();
+
+        public string USState { get; set; }
     }
 }

@@ -1,0 +1,2926 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-wv/arng-elt</Url>
+    <NameNode>Army National Guard Element, JFHQ West Virginia
+                            U.S. Army</NameNode>
+    <FullName>Army National Guard Element, JFHQ West Virginia, U.S. Army</FullName>
+    <SplitName>Army National Guard Element, JFHQ West Virginia</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBXViBBUk5HIEVMVA.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-wv</Url>
+        <Id>us/ng/jfhq-wv</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ West Virginia</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters West Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-engr-bde</Url>
+        <FullName>111th Engineer Brigade</FullName>
+        <Name>111th Engineer Brigade</Name>
+        <Id>us/army/111-engr-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/77-trp-cmd</Url>
+        <FullName>77th Troop Command</FullName>
+        <Name>77th Troop Command</Name>
+        <Id>us/army/77-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/sod-e</Url>
+        <FullName>Special Operations Detachment - Europe</FullName>
+        <Name>Special Operations Detachment - Europe</Name>
+        <Id>us/army/sod-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/197-rgt</Url>
+        <FullName>197th Regiment</FullName>
+        <Name>197th Regiment</Name>
+        <Id>us/army/197-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/35-cst</Url>
+        <FullName>35th Civil Support Team</FullName>
+        <Name>35th Civil Support Team</Name>
+        <Id>us/army/35-cst</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-engr-bde</Url>
+    <NameNode>111th Engineer Brigade
+                            U.S. Army</NameNode>
+    <FullName>111th Engineer Brigade, U.S. Army</FullName>
+    <SplitName>111th Engineer Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Eleanor Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eleanor, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/eleanor-afrc</Url>
+        <Id>us/wv/eleanor-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wv/arng-elt</Url>
+        <Id>us/army/jfhq-wv/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ West Virginia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters West Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-engr-bde/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 111th Engineer Brigade</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/111-engr-bde/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <FullName>1092nd Engineer Battalion</FullName>
+        <Name>1092nd Engineer Battalion</Name>
+        <Id>us/army/1092-engr-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <FullName>771st Troop Command</FullName>
+        <Name>771st Troop Command</Name>
+        <Id>us/army/771-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <FullName>772nd Aviation Troop Command</FullName>
+        <Name>772nd Aviation Troop Command</Name>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-engr-bde/hhc</Url>
+    <NameNode>HHC, 111th Engr Bde
+                            U.S. Army</NameNode>
+    <FullName>HHC, 111th Engr Bde, U.S. Army</FullName>
+    <SplitName>HHC, 111th Engr Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Eleanor Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eleanor, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/eleanor-afrc</Url>
+        <Id>us/wv/eleanor-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-engr-bde</Url>
+        <Id>us/army/111-engr-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>111th Engineer Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>111th Engineer Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+    <NameNode>1092nd Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>1092nd Engineer Battalion, U.S. Army</FullName>
+    <SplitName>1092nd Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Parkersburg Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parkersburg, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/parkersburg-armory</Url>
+        <Id>us/wv/parkersburg-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-engr-bde</Url>
+        <Id>us/army/111-engr-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>111th Engineer Brigade</HHQAcronym>
+        <Name>111th Engineer Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1092nd Engineer Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/1092-engr-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn/fsc</Url>
+        <FullName>Forward Support Company, 1092nd Engineer Battalion</FullName>
+        <Name>Forward Support Company</Name>
+        <Id>us/army/1092-engr-bn/fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-engr-co</Url>
+        <FullName>115th Engineer Company</FullName>
+        <Name>115th Engineer Company</Name>
+        <Id>us/army/115-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/119-engr-co</Url>
+        <FullName>119th Engineer Company</FullName>
+        <Name>119th Engineer Company</Name>
+        <Id>us/army/119-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/601-engr-co</Url>
+        <FullName>601st Engineer Company</FullName>
+        <Name>601st Engineer Company</Name>
+        <Id>us/army/601-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/821-engr-co</Url>
+        <FullName>821st Engineer Company</FullName>
+        <Name>821st Engineer Company</Name>
+        <Id>us/army/821-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/193-engr-plt</Url>
+        <FullName>193rd Engineer Platoon</FullName>
+        <Name>193rd Engineer Platoon</Name>
+        <Id>us/army/193-engr-plt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-engr-det</Url>
+        <FullName>229th Engineer Detachment</FullName>
+        <Name>229th Engineer Detachment</Name>
+        <Id>us/army/229-engr-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1092-engr-bn/hhc</Url>
+    <NameNode>HHC, 1092nd Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1092nd Engr Bn, U.S. Army</FullName>
+    <SplitName>HHC, 1092nd Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Parkersburg Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parkersburg, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/parkersburg-armory</Url>
+        <Id>us/wv/parkersburg-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1092-engr-bn/fsc</Url>
+    <NameNode>Forward Support Company, 1092nd Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>Forward Support Company, 1092nd Engr Bn, U.S. Army</FullName>
+    <SplitName>Forward Support Company, 1092nd Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Point Pleasant Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Point Pleasant, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/point-pleasant-armory</Url>
+        <Id>us/wv/point-pleasant-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-engr-co</Url>
+    <NameNode>115th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>115th Engineer Company, U.S. Army</FullName>
+    <SplitName>115th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Clarksburg Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Clarksburg, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/clarksburg-armory</Url>
+        <Id>us/wv/clarksburg-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-engr-co/det-1</Url>
+        <FullName>Detachment 1, 115th Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/115-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 115th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 115th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 115th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Dawson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingwood, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/camp-dawson</Url>
+        <Id>us/wv/camp-dawson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-engr-co</Url>
+        <Id>us/army/115-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>115th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>115th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/119-engr-co</Url>
+    <NameNode>119th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>119th Engineer Company, U.S. Army</FullName>
+    <SplitName>119th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Moundsville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Moundsville, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/moundsville-armory</Url>
+        <Id>us/wv/moundsville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/119-engr-co/det-1</Url>
+        <FullName>Detachment 1, 119th Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/119-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/119-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 119th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 119th Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 119th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Parkersburg Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parkersburg, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/parkersburg-armory</Url>
+        <Id>us/wv/parkersburg-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/119-engr-co</Url>
+        <Id>us/army/119-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>119th Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>119th Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/601-engr-co</Url>
+    <NameNode>601st Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>601st Engineer Company, U.S. Army</FullName>
+    <SplitName>601st Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Buckhannon Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buckhannon, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/buckhannon-readiness-ctr</Url>
+        <Id>us/wv/buckhannon-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Buckhannon Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buckhannon, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/buckhannon-armory</Url>
+        <Id>us/wv/buckhannon-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/821-engr-co</Url>
+    <NameNode>821st Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>821st Engineer Company, U.S. Army</FullName>
+    <SplitName>821st Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Summersville Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Summersville, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/summersville-readiness-ctr</Url>
+        <Id>us/wv/summersville-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/821-engr-co/det-1</Url>
+        <FullName>Detachment 1, 821st Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/821-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/821-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 821st Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 821st Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 821st Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Spencer Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Spencer, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/spencer-armory</Url>
+        <Id>us/wv/spencer-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/821-engr-co</Url>
+        <Id>us/army/821-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>821st Engineer Company</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>821st Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/193-engr-plt</Url>
+    <NameNode>193rd Engineer Platoon
+                            U.S. Army</NameNode>
+    <FullName>193rd Engineer Platoon, U.S. Army</FullName>
+    <SplitName>193rd Engineer Platoon</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Moundsville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Moundsville, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/moundsville-armory</Url>
+        <Id>us/wv/moundsville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-engr-det</Url>
+    <NameNode>229th Engineer Detachment
+                            U.S. Army</NameNode>
+    <FullName>229th Engineer Detachment, U.S. Army</FullName>
+    <SplitName>229th Engineer Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Buckhannon Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buckhannon, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/buckhannon-readiness-ctr</Url>
+        <Id>us/wv/buckhannon-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1092-engr-bn</Url>
+        <Id>us/army/1092-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1092nd Engr Bn</HHQAcronym>
+        <Name>1092nd Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+    <NameNode>771st Troop Command
+                            U.S. Army</NameNode>
+    <FullName>771st Troop Command, U.S. Army</FullName>
+    <SplitName>771st Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-engr-bde</Url>
+        <Id>us/army/111-engr-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>111th Engineer Brigade</HHQAcronym>
+        <Name>111th Engineer Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/753-od-co</Url>
+        <FullName>753rd Ordnance Company</FullName>
+        <Name>753rd Ordnance Company</Name>
+        <Id>us/army/753-od-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1257-tc-co</Url>
+        <FullName>1257th Transportation Company</FullName>
+        <Name>1257th Transportation Company</Name>
+        <Id>us/army/1257-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3664-od-co</Url>
+        <FullName>3664th Ordnance Company</FullName>
+        <Name>3664th Ordnance Company</Name>
+        <Id>us/army/3664-od-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/620-sc-co</Url>
+        <FullName>620th Signal Company</FullName>
+        <Name>620th Signal Company</Name>
+        <Id>us/army/620-sc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1935-aq-det</Url>
+        <FullName>1935th Contingency Contracting Team</FullName>
+        <Name>1935th Contingency Contracting Team</Name>
+        <Id>us/army/1935-aq-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/153-pa-det</Url>
+        <FullName>153rd Public Affairs Detachment</FullName>
+        <Name>153rd Public Affairs Detachment</Name>
+        <Id>us/army/153-pa-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-army-band</Url>
+        <FullName>249th Army Band</FullName>
+        <Name>249th Army Band</Name>
+        <Id>us/army/249-army-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/753-od-co</Url>
+    <NameNode>753rd Ordnance Company
+                            U.S. Army</NameNode>
+    <FullName>753rd Ordnance Company, U.S. Army</FullName>
+    <SplitName>753rd Ordnance Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Dawson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingwood, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/camp-dawson</Url>
+        <Id>us/wv/camp-dawson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1257-tc-co</Url>
+    <NameNode>1257th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1257th Transportation Company, U.S. Army</FullName>
+    <SplitName>1257th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Huntington Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Huntington, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/huntington-armory</Url>
+        <Id>us/wv/huntington-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3664-od-co</Url>
+    <NameNode>3664th Ordnance Company
+                            U.S. Army</NameNode>
+    <FullName>3664th Ordnance Company, U.S. Army</FullName>
+    <SplitName>3664th Ordnance Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Eleanor Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eleanor, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/eleanor-afrc</Url>
+        <Id>us/wv/eleanor-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/620-sc-co</Url>
+    <NameNode>620th Signal Company
+                            U.S. Army</NameNode>
+    <FullName>620th Signal Company, U.S. Army</FullName>
+    <SplitName>620th Signal Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Weston Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Weston, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/weston-armory</Url>
+        <Id>us/wv/weston-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/648-meb</Url>
+        <Id>us/army/648-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>648th MEB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>648th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1935-aq-det</Url>
+    <NameNode>1935th Contingency Contracting Team
+                            U.S. Army</NameNode>
+    <FullName>1935th Contingency Contracting Team, U.S. Army</FullName>
+    <SplitName>1935th Contingency Contracting Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Buckhannon Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buckhannon, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/buckhannon-readiness-ctr</Url>
+        <Id>us/wv/buckhannon-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Buckhannon Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buckhannon, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/buckhannon-armory</Url>
+        <Id>us/wv/buckhannon-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/153-pa-det</Url>
+    <NameNode>153rd Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>153rd Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>153rd Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Dunbar Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dunbar, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/dunbar-armory</Url>
+        <Id>us/wv/dunbar-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-army-band</Url>
+    <NameNode>249th Army Band
+                            U.S. Army</NameNode>
+    <FullName>249th Army Band, U.S. Army</FullName>
+    <SplitName>249th Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Morgantown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morgantown, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/morgantown-readiness-ctr</Url>
+        <Id>us/wv/morgantown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morgantown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morgantown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/morgantown-armory</Url>
+        <Id>us/wv/morgantown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/771-trp-cmd</Url>
+        <Id>us/army/771-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>771st Troop Command</HHQAcronym>
+        <Name>771st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+    <NameNode>772nd Aviation Troop Command
+                            U.S. Army</NameNode>
+    <FullName>772nd Aviation Troop Command, U.S. Army</FullName>
+    <SplitName>772nd Aviation Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamstown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamstown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamstown-readiness-ctr</Url>
+        <Id>us/wv/williamstown-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-engr-bde</Url>
+        <Id>us/army/111-engr-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>111th Engineer Brigade</HHQAcronym>
+        <Name>111th Engineer Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/104-avn/2-bn/co-c</Url>
+        <FullName>Company C, 2nd Battalion, 104th Aviation Regiment</FullName>
+        <Name>Company C, 2nd Battalion, 104th Aviation Regiment</Name>
+        <Id>us/army/104-avn/2-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/376-avn/1-bn/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 1st Battalion, 376th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company B, 1st Battalion, 376th Aviation Regiment</Name>
+        <Id>us/army/376-avn/1-bn/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-28</Url>
+        <FullName>Detachment 28, Operational Support Airlift Command</FullName>
+        <Name>Detachment 28, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-28</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/834-asb/co-b/det-3</Url>
+        <FullName>Detachment 3, Company B, 834th Aviation Support Battalion</FullName>
+        <Name>Detachment 3, Company B, 834th Aviation Support Battalion</Name>
+        <Id>us/army/834-asb/co-b/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/104-avn/2-bn/co-c</Url>
+    <NameNode>Company C, 2nd Battalion, 104th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 2nd Battalion, 104th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 2nd Battalion, 104th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamstown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamstown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamstown-readiness-ctr</Url>
+        <Id>us/wv/williamstown-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>772nd Avn Trp Cmd</HHQAcronym>
+        <Name>772nd Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/104-avn/2-bn</Url>
+        <Id>us/army/104-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 104th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 104th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/104-avn/2-bn/co-c/det-1</Url>
+        <FullName>Detachment 1, Company C, 2nd Battalion, 104th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (TN ARNG)</Name>
+        <Id>us/army/104-avn/2-bn/co-c/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/104-avn/2-bn/co-c/det-1</Url>
+    <NameNode>Detachment 1, Company C, 2nd Battalion, 104th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company C, 2nd Battalion, 104th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company C, 2nd Battalion, 104th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/104-avn/2-bn/co-c</Url>
+        <Id>us/army/104-avn/2-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 2nd Bn, 104th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 2nd Battalion, 104th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>TN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 150th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 150th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 150th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>772nd Avn Trp Cmd</HHQAcronym>
+        <Name>772nd Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn</Url>
+        <Id>us/army/150-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 150th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company D</Name>
+        <Id>us/army/150-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-2</Url>
+        <FullName>Detachment 2, Company E, 1st Battalion, 150th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company E</Name>
+        <Id>us/army/150-avn/1-bn/co-e/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-d</Url>
+        <Id>us/army/150-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e/det-2</Url>
+    <NameNode>Detachment 2, Company E, 1st Battalion, 150th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company E, 1st Battalion, 150th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company E, 1st Battalion, 150th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheeling Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeling, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/wheeling-readiness-ctr</Url>
+        <Id>us/wv/wheeling-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-c</Url>
+        <Id>us/army/150-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 150th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-avn/1-bn/co-e</Url>
+        <Id>us/army/150-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 150th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 150th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/376-avn/1-bn/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 1st Battalion, 376th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 1st Battalion, 376th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 1st Battalion, 376th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamstown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamstown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamstown-readiness-ctr</Url>
+        <Id>us/wv/williamstown-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>772nd Avn Trp Cmd</HHQAcronym>
+        <Name>772nd Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/376-avn/1-bn/co-b</Url>
+        <Id>us/army/376-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 376th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 1st Battalion, 376th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-28</Url>
+    <NameNode>Detachment 28, OSACOM
+                            U.S. Army</NameNode>
+    <FullName>Detachment 28, OSACOM, U.S. Army</FullName>
+    <SplitName>Detachment 28, OSACOM</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamstown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamstown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamstown-readiness-ctr</Url>
+        <Id>us/wv/williamstown-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>772nd Avn Trp Cmd</HHQAcronym>
+        <Name>772nd Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/834-asb/co-b/det-3</Url>
+    <NameNode>Detachment 3, Company B, 834th ASB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, Company B, 834th ASB, U.S. Army</FullName>
+    <SplitName>Detachment 3, Company B, 834th ASB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamstown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamstown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamstown-readiness-ctr</Url>
+        <Id>us/wv/williamstown-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/772-avn-trp-cmd</Url>
+        <Id>us/army/772-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>772nd Avn Trp Cmd</HHQAcronym>
+        <Name>772nd Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/834-asb/co-b</Url>
+        <Id>us/army/834-asb/co-b</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company B, 834th ASB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 834th Aviation Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/77-trp-cmd</Url>
+    <NameNode>77th Troop Command
+                            U.S. Army</NameNode>
+    <FullName>77th Troop Command, U.S. Army</FullName>
+    <SplitName>77th Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wv/arng-elt</Url>
+        <Id>us/army/jfhq-wv/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ West Virginia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters West Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+        <FullName>1st Squadron, 150th Cavalry Regiment</FullName>
+        <Name>1st Squadron, 150th Cavalry Regiment</Name>
+        <Id>us/army/150-cav/1-sqdn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+        <FullName>1st Battalion, 201st Field Artillery Regiment</FullName>
+        <Name>1st Battalion, 201st Field Artillery Regiment</Name>
+        <Id>us/army/201-fa/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+        <FullName>2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>2nd Battalion, 19th Special Forces Group</Name>
+        <Id>us/army/19-sfg/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+        <FullName>151st Military Police Battalion</FullName>
+        <Name>151st Military Police Battalion</Name>
+        <Id>us/army/151-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+    <NameNode>1st Squadron, 150th Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Squadron, 150th Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>1st Squadron, 150th Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bluefield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bluefield, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/bluefield-armory</Url>
+        <Id>us/wv/bluefield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/30-armored-bct</Url>
+        <Id>us/army/30-armored-bct</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>30th Armored BCT</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>30th Armored Brigade Combat Team</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/77-trp-cmd</Url>
+        <Id>us/army/77-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>77th Troop Command</HHQAcronym>
+        <Name>77th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/hht</Url>
+        <FullName>Headquarters and Headquarters Troop, 1st Squadron, 150th Cavalry Regiment</FullName>
+        <Name>Headquarters and Headquarters Troop</Name>
+        <Id>us/army/150-cav/1-sqdn/hht</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/trp-a</Url>
+        <FullName>Troop A, 1st Squadron, 150th Cavalry Regiment</FullName>
+        <Name>Troop A</Name>
+        <Id>us/army/150-cav/1-sqdn/trp-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/trp-b</Url>
+        <FullName>Troop B, 1st Squadron, 150th Cavalry Regiment</FullName>
+        <Name>Troop B</Name>
+        <Id>us/army/150-cav/1-sqdn/trp-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/trp-c</Url>
+        <FullName>Troop C, 1st Squadron, 150th Cavalry Regiment</FullName>
+        <Name>Troop C</Name>
+        <Id>us/army/150-cav/1-sqdn/trp-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d</Url>
+        <FullName>Company D, 230th Brigade Support Battalion</FullName>
+        <Name>Company D, 230th Brigade Support Battalion
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/230-bsb/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/hht</Url>
+    <NameNode>HHT, 1st Sqdn, 150th CAV
+                            U.S. Army</NameNode>
+    <FullName>HHT, 1st Sqdn, 150th CAV, U.S. Army</FullName>
+    <SplitName>HHT, 1st Sqdn, 150th CAV</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bluefield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bluefield, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/bluefield-armory</Url>
+        <Id>us/wv/bluefield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+        <Id>us/army/150-cav/1-sqdn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Squadron, 150th CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 150th Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/trp-a</Url>
+    <NameNode>Troop A, 1st Squadron, 150th Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Troop A, 1st Squadron, 150th Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>Troop A, 1st Squadron, 150th Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamson Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamson, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamson-armory</Url>
+        <Id>us/wv/williamson-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+        <Id>us/army/150-cav/1-sqdn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Squadron, 150th CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 150th Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/trp-b</Url>
+    <NameNode>Troop B, 1st Squadron, 150th Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Troop B, 1st Squadron, 150th Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>Troop B, 1st Squadron, 150th Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Eleanor Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eleanor, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/eleanor-afrc</Url>
+        <Id>us/wv/eleanor-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+        <Id>us/army/150-cav/1-sqdn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Squadron, 150th CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 150th Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn/trp-c</Url>
+    <NameNode>Troop C, 1st Squadron, 150th Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>Troop C, 1st Squadron, 150th Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>Troop C, 1st Squadron, 150th Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Glen Jean Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Glen Jean, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/glen-jean-armory</Url>
+        <Id>us/wv/glen-jean-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+        <Id>us/army/150-cav/1-sqdn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Squadron, 150th CAV</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Squadron, 150th Cavalry Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/230-bsb/co-d</Url>
+    <NameNode>Company D, 230th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company D, 230th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company D, 230th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Glen Jean Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Glen Jean, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/glen-jean-armory</Url>
+        <Id>us/wv/glen-jean-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/150-cav/1-sqdn</Url>
+        <Id>us/army/150-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 150th CAV</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Squadron, 150th Cavalry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb</Url>
+        <Id>us/army/230-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>230th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>230th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 230th Brigade Support Battalion</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/230-bsb/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 230th Brigade Support Battalion</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/230-bsb/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-3</Url>
+        <FullName>Detachment 3, Company D, 230th Brigade Support Battalion</FullName>
+        <Name>Detachment 3</Name>
+        <Id>us/army/230-bsb/co-d/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-4</Url>
+        <FullName>Detachment 4, Company D, 230th Brigade Support Battalion</FullName>
+        <Name>Detachment 4</Name>
+        <Id>us/army/230-bsb/co-d/det-4</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 230th BSB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 230th BSB, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 230th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Bluefield Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bluefield, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/bluefield-armory</Url>
+        <Id>us/wv/bluefield-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d</Url>
+        <Id>us/army/230-bsb/co-d</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company D, 230th BSB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 230th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 230th BSB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 230th BSB, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 230th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Williamson Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Williamson, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/williamson-armory</Url>
+        <Id>us/wv/williamson-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d</Url>
+        <Id>us/army/230-bsb/co-d</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company D, 230th BSB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 230th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-3</Url>
+    <NameNode>Detachment 3, Company D, 230th BSB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, Company D, 230th BSB, U.S. Army</FullName>
+    <SplitName>Detachment 3, Company D, 230th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Eleanor Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eleanor, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/eleanor-afrc</Url>
+        <Id>us/wv/eleanor-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d</Url>
+        <Id>us/army/230-bsb/co-d</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company D, 230th BSB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 230th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/230-bsb/co-d/det-4</Url>
+    <NameNode>Detachment 4, Company D, 230th BSB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 4, Company D, 230th BSB, U.S. Army</FullName>
+    <SplitName>Detachment 4, Company D, 230th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Welch Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Welch, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/welch-armory</Url>
+        <Id>us/wv/welch-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/230-bsb/co-d</Url>
+        <Id>us/army/230-bsb/co-d</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company D, 230th BSB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 230th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+    <NameNode>1st Battalion, 201st Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 201st Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 201st Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hershel Woody Williams Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fairmont, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/hershel-woody-williams-afrc</Url>
+        <Id>us/wv/hershel-woody-williams-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/197-fib</Url>
+        <Id>us/army/197-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>197th Fires Brigade</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>197th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/77-trp-cmd</Url>
+        <Id>us/army/77-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>77th Troop Command</HHQAcronym>
+        <Name>77th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 1st Battalion, 201st Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/201-fa/1-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn/btry-a</Url>
+        <FullName>Battery A, 1st Battalion, 201st Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/201-fa/1-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn/btry-b</Url>
+        <FullName>Battery B, 1st Battalion, 201st Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/201-fa/1-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn/btry-c</Url>
+        <FullName>Battery C, 1st Battalion, 201st Field Artillery Regiment</FullName>
+        <Name>Battery C</Name>
+        <Id>us/army/201-fa/1-bn/btry-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1201-fsc</Url>
+        <FullName>1201st Forward Support Company</FullName>
+        <Name>1201st Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/1201-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/201-fa/1-bn/hhb</Url>
+    <NameNode>HHB, 1st Bn, 201st FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 1st Bn, 201st FA, U.S. Army</FullName>
+    <SplitName>HHB, 1st Bn, 201st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Hershel Woody Williams Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fairmont, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/hershel-woody-williams-afrc</Url>
+        <Id>us/wv/hershel-woody-williams-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+        <Id>us/army/201-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 201st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 201st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/201-fa/1-bn/btry-a</Url>
+    <NameNode>Battery A, 1st Battalion, 201st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 1st Battalion, 201st FA, U.S. Army</FullName>
+    <SplitName>Battery A, 1st Battalion, 201st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Randolph County Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/randolph-county-afrc</Url>
+        <Id>us/wv/randolph-county-afrc</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Elkins Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Elkins, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/elkins-armory</Url>
+        <Id>us/wv/elkins-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+        <Id>us/army/201-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 201st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 201st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/201-fa/1-bn/btry-b</Url>
+    <NameNode>Battery B, 1st Battalion, 201st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 1st Battalion, 201st FA, U.S. Army</FullName>
+    <SplitName>Battery B, 1st Battalion, 201st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Morgantown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morgantown, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/morgantown-readiness-ctr</Url>
+        <Id>us/wv/morgantown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morgantown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morgantown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/morgantown-armory</Url>
+        <Id>us/wv/morgantown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+        <Id>us/army/201-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 201st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 201st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/201-fa/1-bn/btry-c</Url>
+    <NameNode>Battery C, 1st Battalion, 201st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery C, 1st Battalion, 201st FA, U.S. Army</FullName>
+    <SplitName>Battery C, 1st Battalion, 201st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Maxwelton Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maxwelton, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/maxwelton-readiness-ctr</Url>
+        <Id>us/wv/maxwelton-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+        <Id>us/army/201-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 201st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 201st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1201-fsc</Url>
+    <NameNode>1201st Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>1201st Forward Support Company, U.S. Army</FullName>
+    <SplitName>1201st Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/201-fa/1-bn</Url>
+        <Id>us/army/201-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 201st FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 201st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1201-fsc/det-3</Url>
+        <FullName>Detachment 3, 1201st Forward Support Company</FullName>
+        <Name>Detachment 3</Name>
+        <Id>us/army/1201-fsc/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1201-fsc/det-5</Url>
+        <FullName>Detachment 5, 1201st Forward Support Company</FullName>
+        <Name>Detachment 5</Name>
+        <Id>us/army/1201-fsc/det-5</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1201-fsc/det-3</Url>
+    <NameNode>Detachment 3, 1201st Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, 1201st Forward Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 3, 1201st Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Morgantown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morgantown, West Virginia, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/morgantown-readiness-ctr</Url>
+        <Id>us/wv/morgantown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Morgantown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Morgantown, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/morgantown-armory</Url>
+        <Id>us/wv/morgantown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1201-fsc</Url>
+        <Id>us/army/1201-fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1201st FSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>1201st Forward Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1201-fsc/det-5</Url>
+    <NameNode>Detachment 5, 1201st Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 5, 1201st Forward Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 5, 1201st Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Maxwelton Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maxwelton, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/maxwelton-readiness-ctr</Url>
+        <Id>us/wv/maxwelton-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1201-fsc</Url>
+        <Id>us/army/1201-fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1201st FSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>1201st Forward Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+    <NameNode>2nd Battalion, 19th Special Forces Group
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 19th Special Forces Group, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 19th Special Forces Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGM Earl R. Biggs Memorial Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kenova, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/sgm-earl-r-biggs-mem-afrc</Url>
+        <Id>us/wv/sgm-earl-r-biggs-mem-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/77-trp-cmd</Url>
+        <Id>us/army/77-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>77th Troop Command</HHQAcronym>
+        <Name>77th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg</Url>
+        <Id>us/army/19-sfg</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>19th SFG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/19-sfg/2-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/co-a</Url>
+        <FullName>Company A, 2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>Company A
+
+                    (RI ARNG)</Name>
+        <Id>us/army/19-sfg/2-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/co-b</Url>
+        <FullName>Company B, 2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>Company B
+
+                    (OH ARNG)</Name>
+        <Id>us/army/19-sfg/2-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/co-c</Url>
+        <FullName>Company C, 2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/19-sfg/2-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/spt-co</Url>
+        <FullName>Support Company, 2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>Support Company</Name>
+        <Id>us/army/19-sfg/2-bn/spt-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/hhd</Url>
+    <NameNode>HHD, 2nd Bn, 19th SFG
+                            U.S. Army</NameNode>
+    <FullName>HHD, 2nd Bn, 19th SFG, U.S. Army</FullName>
+    <SplitName>HHD, 2nd Bn, 19th SFG</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGM Earl R. Biggs Memorial Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kenova, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/sgm-earl-r-biggs-mem-afrc</Url>
+        <Id>us/wv/sgm-earl-r-biggs-mem-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+        <Id>us/army/19-sfg/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 19th SFG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/hhd/det-2</Url>
+        <FullName>Detachment 2, Headquarters and Headquarters Detachment, 2nd Battalion, 19th Special Forces Group</FullName>
+        <Name>Detachment 2
+
+                    (RI ARNG)</Name>
+        <Id>us/army/19-sfg/2-bn/hhd/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/hhd/det-2</Url>
+    <NameNode>Detachment 2, HHD, 2nd Bn, 19th SFG
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, HHD, 2nd Bn, 19th SFG, U.S. Army</FullName>
+    <SplitName>Detachment 2, HHD, 2nd Bn, 19th SFG</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/hhd</Url>
+        <Id>us/army/19-sfg/2-bn/hhd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHD, 2nd Bn, 19th SFG</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Detachment, 2nd Battalion, 19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>RI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/co-a</Url>
+    <NameNode>Company A, 2nd Battalion, 19th Special Forces Group
+                            U.S. Army</NameNode>
+    <FullName>Company A, 2nd Battalion, 19th Special Forces Group, U.S. Army</FullName>
+    <SplitName>Company A, 2nd Battalion, 19th Special Forces Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Middletown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middletown, Rhode Island, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ri/middletown-armory</Url>
+        <Id>us/ri/middletown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/56-trp-cmd</Url>
+        <Id>us/army/56-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>56th Troop Command</HHQAcronym>
+        <Name>56th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+        <Id>us/army/19-sfg/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 19th SFG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>RI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/co-b</Url>
+    <NameNode>Company B, 2nd Battalion, 19th Special Forces Group
+                            U.S. Army</NameNode>
+    <FullName>Company B, 2nd Battalion, 19th Special Forces Group, U.S. Army</FullName>
+    <SplitName>Company B, 2nd Battalion, 19th Special Forces Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+        <Id>us/army/19-sfg/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 19th SFG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/co-c</Url>
+    <NameNode>Company C, 2nd Battalion, 19th Special Forces Group
+                            U.S. Army</NameNode>
+    <FullName>Company C, 2nd Battalion, 19th Special Forces Group, U.S. Army</FullName>
+    <SplitName>Company C, 2nd Battalion, 19th Special Forces Group</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Dawson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingwood, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/camp-dawson</Url>
+        <Id>us/wv/camp-dawson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+        <Id>us/army/19-sfg/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 19th SFG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/19-sfg/2-bn/spt-co</Url>
+    <NameNode>Support Company, 2nd Battalion, 19th SFG
+                            U.S. Army</NameNode>
+    <FullName>Support Company, 2nd Battalion, 19th SFG, U.S. Army</FullName>
+    <SplitName>Support Company, 2nd Battalion, 19th SFG</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGM Earl R. Biggs Memorial Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kenova, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/sgm-earl-r-biggs-mem-afrc</Url>
+        <Id>us/wv/sgm-earl-r-biggs-mem-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/19-sfg/2-bn</Url>
+        <Id>us/army/19-sfg/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 19th SFG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 19th Special Forces Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+    <NameNode>151st Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>151st Military Police Battalion, U.S. Army</FullName>
+    <SplitName>151st Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gassaway Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Gassaway, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/gassaway-armory</Url>
+        <Id>us/wv/gassaway-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/77-trp-cmd</Url>
+        <Id>us/army/77-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>77th Troop Command</HHQAcronym>
+        <Name>77th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 151st Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/151-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/154-mp-co</Url>
+        <FullName>154th Military Police Company</FullName>
+        <Name>154th Military Police Company</Name>
+        <Id>us/army/154-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/157-mp-co</Url>
+        <FullName>157th Military Police Company</FullName>
+        <Name>157th Military Police Company</Name>
+        <Id>us/army/157-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/863-mp-co</Url>
+        <FullName>863rd Military Police Company</FullName>
+        <Name>863rd Military Police Company</Name>
+        <Id>us/army/863-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/156-mp-det</Url>
+        <FullName>156th Military Police Detachment</FullName>
+        <Name>156th Military Police Detachment</Name>
+        <Id>us/army/156-mp-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-mp-bn/hhd</Url>
+    <NameNode>HHD, 151st MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 151st MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 151st MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gassaway Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Gassaway, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/gassaway-armory</Url>
+        <Id>us/wv/gassaway-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+        <Id>us/army/151-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>151st MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>151st Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/154-mp-co</Url>
+    <NameNode>154th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>154th Military Police Company, U.S. Army</FullName>
+    <SplitName>154th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Moundsville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Moundsville, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/moundsville-armory</Url>
+        <Id>us/wv/moundsville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+        <Id>us/army/151-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MP Bn</HHQAcronym>
+        <Name>151st Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/157-mp-co</Url>
+    <NameNode>157th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>157th Military Police Company, U.S. Army</FullName>
+    <SplitName>157th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Martinsburg Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Martinsburg, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/martinsburg-armory</Url>
+        <Id>us/wv/martinsburg-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+        <Id>us/army/151-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MP Bn</HHQAcronym>
+        <Name>151st Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/863-mp-co</Url>
+    <NameNode>863rd Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>863rd Military Police Company, U.S. Army</FullName>
+    <SplitName>863rd Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Glen Jean Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Glen Jean, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/glen-jean-armory</Url>
+        <Id>us/wv/glen-jean-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+        <Id>us/army/151-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MP Bn</HHQAcronym>
+        <Name>151st Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/156-mp-det</Url>
+    <NameNode>156th Military Police Detachment
+                            U.S. Army</NameNode>
+    <FullName>156th Military Police Detachment, U.S. Army</FullName>
+    <SplitName>156th Military Police Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Monaville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Monaville, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/monaville-armory</Url>
+        <Id>us/wv/monaville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-mp-bn</Url>
+        <Id>us/army/151-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>151st MP Bn</HHQAcronym>
+        <Name>151st Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/sod-e</Url>
+    <NameNode>Special Operations Detachment - Europe
+                            U.S. Army</NameNode>
+    <FullName>Special Operations Detachment - Europe, U.S. Army</FullName>
+    <SplitName>Special Operations Detachment - Europe</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Dawson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingwood, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/camp-dawson</Url>
+        <Id>us/wv/camp-dawson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wv/arng-elt</Url>
+        <Id>us/army/jfhq-wv/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ West Virginia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters West Virginia</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/joint/soceur</Url>
+        <Id>us/joint/soceur</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>SOCEUR</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Special Operations Command Europe</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/197-rgt</Url>
+    <NameNode>197th Regiment
+                            U.S. Army</NameNode>
+    <FullName>197th Regiment, U.S. Army</FullName>
+    <SplitName>197th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Dawson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingwood, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/camp-dawson</Url>
+        <Id>us/wv/camp-dawson</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wv/arng-elt</Url>
+        <Id>us/army/jfhq-wv/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ West Virginia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters West Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/35-cst</Url>
+    <NameNode>35th Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>35th Civil Support Team, U.S. Army</FullName>
+    <SplitName>35th Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>St. Albans Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St. Albans, West Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wv/st-albans-armory</Url>
+        <Id>us/wv/st-albans-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wv/arng-elt</Url>
+        <Id>us/army/jfhq-wv/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ West Virginia</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters West Virginia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WV</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

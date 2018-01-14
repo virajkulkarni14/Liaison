@@ -1,0 +1,1646 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-az/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Arizona
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Arizona, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Arizona</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-az</Url>
+        <Id>us/ng/jfhq-az</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Arizona</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Arizona</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+        <FullName>161st Air Refueling Wing</FullName>
+        <Name>161st Air Refueling Wing</Name>
+        <Id>us/usaf/161-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <FullName>162nd Fighter Wing</FullName>
+        <Name>162nd Fighter Wing</Name>
+        <Id>us/usaf/162-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+    <NameNode>161st Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>161st Air Refueling Wing, USAF</FullName>
+    <SplitName>161st Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-az/ang-elt</Url>
+        <Id>us/usaf/jfhq-az/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Arizona</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Arizona</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-og</Url>
+        <FullName>161st Operations Group</FullName>
+        <Name>161st Operations Group</Name>
+        <Id>us/usaf/161-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+        <FullName>161st Mission Support Group</FullName>
+        <Name>161st Mission Support Group</Name>
+        <Id>us/usaf/161-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mxg</Url>
+        <FullName>161st Maintenance Group</FullName>
+        <Name>161st Maintenance Group</Name>
+        <Id>us/usaf/161-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mdg</Url>
+        <FullName>161st Medical Group</FullName>
+        <Name>161st Medical Group</Name>
+        <Id>us/usaf/161-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-cptf</Url>
+        <FullName>161st Comptroller Flight</FullName>
+        <Name>161st Comptroller Flight</Name>
+        <Id>us/usaf/161-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-og</Url>
+    <NameNode>161st Operations Group
+                            USAF</NameNode>
+    <FullName>161st Operations Group, USAF</FullName>
+    <SplitName>161st Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+        <Id>us/usaf/161-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st ARW</HHQAcronym>
+        <Name>161st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/197-ars</Url>
+        <FullName>197th Air Refueling Squadron</FullName>
+        <Name>197th Air Refueling Squadron</Name>
+        <Id>us/usaf/197-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-osf</Url>
+        <FullName>161st Operations Support Flight</FullName>
+        <Name>161st Operations Support Flight</Name>
+        <Id>us/usaf/161-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/197-ars</Url>
+    <NameNode>197th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>197th Air Refueling Squadron, USAF</FullName>
+    <SplitName>197th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-og</Url>
+        <Id>us/usaf/161-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st Operations Group</HHQAcronym>
+        <Name>161st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-osf</Url>
+    <NameNode>161st Operations Support Flight
+                            USAF</NameNode>
+    <FullName>161st Operations Support Flight, USAF</FullName>
+    <SplitName>161st Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-og</Url>
+        <Id>us/usaf/161-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st Operations Group</HHQAcronym>
+        <Name>161st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+    <NameNode>161st Mission Support Group
+                            USAF</NameNode>
+    <FullName>161st Mission Support Group, USAF</FullName>
+    <SplitName>161st Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+        <Id>us/usaf/161-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st ARW</HHQAcronym>
+        <Name>161st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-ces</Url>
+        <FullName>161st Civil Engineer Squadron</FullName>
+        <Name>161st Civil Engineer Squadron</Name>
+        <Id>us/usaf/161-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-fss</Url>
+        <FullName>161st Force Support Squadron</FullName>
+        <Name>161st Force Support Squadron</Name>
+        <Id>us/usaf/161-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-lrs</Url>
+        <FullName>161st Logistics Readiness Squadron</FullName>
+        <Name>161st Logistics Readiness Squadron</Name>
+        <Id>us/usaf/161-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-sfs</Url>
+        <FullName>161st Security Forces Squadron</FullName>
+        <Name>161st Security Forces Squadron</Name>
+        <Id>us/usaf/161-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-cf</Url>
+        <FullName>161st Communications Flight</FullName>
+        <Name>161st Communications Flight</Name>
+        <Id>us/usaf/161-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-ces</Url>
+    <NameNode>161st Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>161st Civil Engineer Squadron, USAF</FullName>
+    <SplitName>161st Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+        <Id>us/usaf/161-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MSG</HHQAcronym>
+        <Name>161st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-fss</Url>
+    <NameNode>161st Force Support Squadron
+                            USAF</NameNode>
+    <FullName>161st Force Support Squadron, USAF</FullName>
+    <SplitName>161st Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+        <Id>us/usaf/161-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MSG</HHQAcronym>
+        <Name>161st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-lrs</Url>
+    <NameNode>161st Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>161st Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>161st Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+        <Id>us/usaf/161-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MSG</HHQAcronym>
+        <Name>161st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-sfs</Url>
+    <NameNode>161st Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>161st Security Forces Squadron, USAF</FullName>
+    <SplitName>161st Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+        <Id>us/usaf/161-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MSG</HHQAcronym>
+        <Name>161st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-cf</Url>
+    <NameNode>161st Communications Flight
+                            USAF</NameNode>
+    <FullName>161st Communications Flight, USAF</FullName>
+    <SplitName>161st Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-msg</Url>
+        <Id>us/usaf/161-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MSG</HHQAcronym>
+        <Name>161st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-mxg</Url>
+    <NameNode>161st Maintenance Group
+                            USAF</NameNode>
+    <FullName>161st Maintenance Group, USAF</FullName>
+    <SplitName>161st Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+        <Id>us/usaf/161-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st ARW</HHQAcronym>
+        <Name>161st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-amxs</Url>
+        <FullName>161st Aircraft Maintenance Squadron</FullName>
+        <Name>161st Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/161-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mxs</Url>
+        <FullName>161st Maintenance Squadron</FullName>
+        <Name>161st Maintenance Squadron</Name>
+        <Id>us/usaf/161-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mof</Url>
+        <FullName>161st Maintenance Operations Flight</FullName>
+        <Name>161st Maintenance Operations Flight</Name>
+        <Id>us/usaf/161-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-amxs</Url>
+    <NameNode>161st Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>161st Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>161st Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mxg</Url>
+        <Id>us/usaf/161-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MXG</HHQAcronym>
+        <Name>161st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-mxs</Url>
+    <NameNode>161st Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>161st Maintenance Squadron, USAF</FullName>
+    <SplitName>161st Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mxg</Url>
+        <Id>us/usaf/161-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MXG</HHQAcronym>
+        <Name>161st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-mof</Url>
+    <NameNode>161st Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>161st Maintenance Operations Flight, USAF</FullName>
+    <SplitName>161st Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-mxg</Url>
+        <Id>us/usaf/161-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st MXG</HHQAcronym>
+        <Name>161st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-mdg</Url>
+    <NameNode>161st Medical Group
+                            USAF</NameNode>
+    <FullName>161st Medical Group, USAF</FullName>
+    <SplitName>161st Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+        <Id>us/usaf/161-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st ARW</HHQAcronym>
+        <Name>161st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/161-cptf</Url>
+    <NameNode>161st Comptroller Flight
+                            USAF</NameNode>
+    <FullName>161st Comptroller Flight, USAF</FullName>
+    <SplitName>161st Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sky Harbor Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/sky-harbor-angb</Url>
+        <Id>us/az/sky-harbor-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/161-arw</Url>
+        <Id>us/usaf/161-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>161st ARW</HHQAcronym>
+        <Name>161st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+    <NameNode>162nd Fighter Wing
+                            USAF</NameNode>
+    <FullName>162nd Fighter Wing, USAF</FullName>
+    <SplitName>162nd Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/aetc</Url>
+        <Id>us/usaf/aetc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>AETC</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Air Education and Training Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-az/ang-elt</Url>
+        <Id>us/usaf/jfhq-az/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Arizona</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Arizona</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+        <FullName>162nd Operations Group</FullName>
+        <Name>162nd Operations Group</Name>
+        <Id>us/usaf/162-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+        <FullName>162nd Mission Support Group</FullName>
+        <Name>162nd Mission Support Group</Name>
+        <Id>us/usaf/162-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mxg</Url>
+        <FullName>162nd Maintenance Group</FullName>
+        <Name>162nd Maintenance Group</Name>
+        <Id>us/usaf/162-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mdg</Url>
+        <FullName>162nd Medical Group</FullName>
+        <Name>162nd Medical Group</Name>
+        <Id>us/usaf/162-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-cptf</Url>
+        <FullName>162nd Comptroller Flight</FullName>
+        <Name>162nd Comptroller Flight</Name>
+        <Id>us/usaf/162-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/214-rg</Url>
+        <FullName>214th Reconnaissance Group</FullName>
+        <Name>214th Reconnaissance Group</Name>
+        <Id>us/usaf/214-rg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-wf</Url>
+        <FullName>162nd Weather Flight</FullName>
+        <Name>162nd Weather Flight</Name>
+        <Id>us/usaf/162-wf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+    <NameNode>162nd Operations Group
+                            USAF</NameNode>
+    <FullName>162nd Operations Group, USAF</FullName>
+    <SplitName>162nd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/148-fs</Url>
+        <FullName>148th Fighter Squadron</FullName>
+        <Name>148th Fighter Squadron</Name>
+        <Id>us/usaf/148-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/152-fs</Url>
+        <FullName>152nd Fighter Squadron</FullName>
+        <Name>152nd Fighter Squadron</Name>
+        <Id>us/usaf/152-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/195-fs</Url>
+        <FullName>195th Fighter Squadron</FullName>
+        <Name>195th Fighter Squadron</Name>
+        <Id>us/usaf/195-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-trs</Url>
+        <FullName>162nd Training Squadron</FullName>
+        <Name>162nd Training Squadron</Name>
+        <Id>us/usaf/162-trs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-osf</Url>
+        <FullName>162nd Operations Support Flight</FullName>
+        <Name>162nd Operations Support Flight</Name>
+        <Id>us/usaf/162-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/148-fs</Url>
+    <NameNode>148th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>148th Fighter Squadron, USAF</FullName>
+    <SplitName>148th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+        <Id>us/usaf/162-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Operations Group</HHQAcronym>
+        <Name>162nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/152-fs</Url>
+    <NameNode>152nd Fighter Squadron
+                            USAF</NameNode>
+    <FullName>152nd Fighter Squadron, USAF</FullName>
+    <SplitName>152nd Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+        <Id>us/usaf/162-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Operations Group</HHQAcronym>
+        <Name>162nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/195-fs</Url>
+    <NameNode>195th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>195th Fighter Squadron, USAF</FullName>
+    <SplitName>195th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+        <Id>us/usaf/162-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Operations Group</HHQAcronym>
+        <Name>162nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-trs</Url>
+    <NameNode>162nd Training Squadron
+                            USAF</NameNode>
+    <FullName>162nd Training Squadron, USAF</FullName>
+    <SplitName>162nd Training Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+        <Id>us/usaf/162-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Operations Group</HHQAcronym>
+        <Name>162nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-osf</Url>
+    <NameNode>162nd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>162nd Operations Support Flight, USAF</FullName>
+    <SplitName>162nd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-og</Url>
+        <Id>us/usaf/162-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Operations Group</HHQAcronym>
+        <Name>162nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+    <NameNode>162nd Mission Support Group
+                            USAF</NameNode>
+    <FullName>162nd Mission Support Group, USAF</FullName>
+    <SplitName>162nd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-ces</Url>
+        <FullName>162nd Civil Engineer Squadron</FullName>
+        <Name>162nd Civil Engineer Squadron</Name>
+        <Id>us/usaf/162-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fss</Url>
+        <FullName>162nd Force Support Squadron</FullName>
+        <Name>162nd Force Support Squadron</Name>
+        <Id>us/usaf/162-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-lrs</Url>
+        <FullName>162nd Logistics Readiness Squadron</FullName>
+        <Name>162nd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/162-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-sfs</Url>
+        <FullName>162nd Security Forces Squadron</FullName>
+        <Name>162nd Security Forces Squadron</Name>
+        <Id>us/usaf/162-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-cf</Url>
+        <FullName>162nd Communications Flight</FullName>
+        <Name>162nd Communications Flight</Name>
+        <Id>us/usaf/162-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-ces</Url>
+    <NameNode>162nd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>162nd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>162nd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+        <Id>us/usaf/162-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MSG</HHQAcronym>
+        <Name>162nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-fss</Url>
+    <NameNode>162nd Force Support Squadron
+                            USAF</NameNode>
+    <FullName>162nd Force Support Squadron, USAF</FullName>
+    <SplitName>162nd Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+        <Id>us/usaf/162-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MSG</HHQAcronym>
+        <Name>162nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-lrs</Url>
+    <NameNode>162nd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>162nd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>162nd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+        <Id>us/usaf/162-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MSG</HHQAcronym>
+        <Name>162nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-sfs</Url>
+    <NameNode>162nd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>162nd Security Forces Squadron, USAF</FullName>
+    <SplitName>162nd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+        <Id>us/usaf/162-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MSG</HHQAcronym>
+        <Name>162nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-cf</Url>
+    <NameNode>162nd Communications Flight
+                            USAF</NameNode>
+    <FullName>162nd Communications Flight, USAF</FullName>
+    <SplitName>162nd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-msg</Url>
+        <Id>us/usaf/162-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MSG</HHQAcronym>
+        <Name>162nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-mxg</Url>
+    <NameNode>162nd Maintenance Group
+                            USAF</NameNode>
+    <FullName>162nd Maintenance Group, USAF</FullName>
+    <SplitName>162nd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-amxs</Url>
+        <FullName>162nd Aircraft Maintenance Squadron</FullName>
+        <Name>162nd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/162-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mxs</Url>
+        <FullName>162nd Maintenance Squadron</FullName>
+        <Name>162nd Maintenance Squadron</Name>
+        <Id>us/usaf/162-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mof</Url>
+        <FullName>162nd Maintenance Operations Flight</FullName>
+        <Name>162nd Maintenance Operations Flight</Name>
+        <Id>us/usaf/162-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-amxs</Url>
+    <NameNode>162nd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>162nd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>162nd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mxg</Url>
+        <Id>us/usaf/162-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MXG</HHQAcronym>
+        <Name>162nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-mxs</Url>
+    <NameNode>162nd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>162nd Maintenance Squadron, USAF</FullName>
+    <SplitName>162nd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mxg</Url>
+        <Id>us/usaf/162-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MXG</HHQAcronym>
+        <Name>162nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-mof</Url>
+    <NameNode>162nd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>162nd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>162nd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-mxg</Url>
+        <Id>us/usaf/162-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd MXG</HHQAcronym>
+        <Name>162nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-mdg</Url>
+    <NameNode>162nd Medical Group
+                            USAF</NameNode>
+    <FullName>162nd Medical Group, USAF</FullName>
+    <SplitName>162nd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-cptf</Url>
+    <NameNode>162nd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>162nd Comptroller Flight, USAF</FullName>
+    <SplitName>162nd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/214-rg</Url>
+    <NameNode>214th Reconnaissance Group
+                            USAF</NameNode>
+    <FullName>214th Reconnaissance Group, USAF</FullName>
+    <SplitName>214th Reconnaissance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davis-Monthan Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tucson, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/davis-monthan-afb</Url>
+        <Id>us/az/davis-monthan-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/214-rs</Url>
+        <FullName>214th Reconnaissance Squadron</FullName>
+        <Name>214th Reconnaissance Squadron</Name>
+        <Id>us/usaf/214-rs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/214-oss</Url>
+        <FullName>214th Operations Support Squadron</FullName>
+        <Name>214th Operations Support Squadron</Name>
+        <Id>us/usaf/214-oss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/214-rs</Url>
+    <NameNode>214th Reconnaissance Squadron
+                            USAF</NameNode>
+    <FullName>214th Reconnaissance Squadron, USAF</FullName>
+    <SplitName>214th Reconnaissance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davis-Monthan Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tucson, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/davis-monthan-afb</Url>
+        <Id>us/az/davis-monthan-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/214-rg</Url>
+        <Id>us/usaf/214-rg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>214th RG</HHQAcronym>
+        <Name>214th Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/214-oss</Url>
+    <NameNode>214th Operations Support Squadron
+                            USAF</NameNode>
+    <FullName>214th Operations Support Squadron, USAF</FullName>
+    <SplitName>214th Operations Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davis-Monthan Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tucson, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/davis-monthan-afb</Url>
+        <Id>us/az/davis-monthan-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/214-rg</Url>
+        <Id>us/usaf/214-rg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>214th RG</HHQAcronym>
+        <Name>214th Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/162-wf</Url>
+    <NameNode>162nd Weather Flight
+                            USAF</NameNode>
+    <FullName>162nd Weather Flight, USAF</FullName>
+    <SplitName>162nd Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tucson Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/tucson-angb</Url>
+        <Id>us/az/tucson-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/162-fw</Url>
+        <Id>us/usaf/162-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>162nd Fighter Wing</HHQAcronym>
+        <Name>162nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

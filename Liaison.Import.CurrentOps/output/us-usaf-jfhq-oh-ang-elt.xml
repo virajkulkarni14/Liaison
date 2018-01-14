@@ -1,0 +1,2927 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-oh/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Ohio
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Ohio, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Ohio</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Beightler Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/beightler-armory</Url>
+        <Id>us/oh/beightler-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-oh</Url>
+        <Id>us/ng/jfhq-oh</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Ohio</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Ohio</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <FullName>121st Air Refueling Wing</FullName>
+        <Name>121st Air Refueling Wing</Name>
+        <Id>us/usaf/121-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+        <FullName>178th Wing</FullName>
+        <Name>178th Wing</Name>
+        <Id>us/usaf/178-wg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <FullName>179th Airlift Wing</FullName>
+        <Name>179th Airlift Wing</Name>
+        <Id>us/usaf/179-aw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+        <FullName>180th Fighter Wing</FullName>
+        <Name>180th Fighter Wing</Name>
+        <Id>us/usaf/180-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/251-ceig</Url>
+        <FullName>251st Cyberspace Engineering Installation Group</FullName>
+        <Name>251st Cyberspace Engineering Installation Group</Name>
+        <Id>us/usaf/251-ceig</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+    <NameNode>121st Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>121st Air Refueling Wing, USAF</FullName>
+    <SplitName>121st Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-oh/ang-elt</Url>
+        <Id>us/usaf/jfhq-oh/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Ohio</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Ohio</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-og</Url>
+        <FullName>121st Operations Group</FullName>
+        <Name>121st Operations Group</Name>
+        <Id>us/usaf/121-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+        <FullName>121st Mission Support Group</FullName>
+        <Name>121st Mission Support Group</Name>
+        <Id>us/usaf/121-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mxg</Url>
+        <FullName>121st Maintenance Group</FullName>
+        <Name>121st Maintenance Group</Name>
+        <Id>us/usaf/121-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mdg</Url>
+        <FullName>121st Medical Group</FullName>
+        <Name>121st Medical Group</Name>
+        <Id>us/usaf/121-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-cptf</Url>
+        <FullName>121st Comptroller Flight</FullName>
+        <Name>121st Comptroller Flight</Name>
+        <Id>us/usaf/121-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/220-eis</Url>
+        <FullName>220th Engineering Installation Squadron</FullName>
+        <Name>220th Engineering Installation Squadron</Name>
+        <Id>us/usaf/220-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/164-wf</Url>
+        <FullName>164th Weather Flight</FullName>
+        <Name>164th Weather Flight</Name>
+        <Id>us/usaf/164-wf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-og</Url>
+    <NameNode>121st Operations Group
+                            USAF</NameNode>
+    <FullName>121st Operations Group, USAF</FullName>
+    <SplitName>121st Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/145-ars</Url>
+        <FullName>145th Air Refueling Squadron</FullName>
+        <Name>145th Air Refueling Squadron</Name>
+        <Id>us/usaf/145-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/166-ars</Url>
+        <FullName>166th Air Refueling Squadron</FullName>
+        <Name>166th Air Refueling Squadron</Name>
+        <Id>us/usaf/166-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-osf</Url>
+        <FullName>121st Operations Support Flight</FullName>
+        <Name>121st Operations Support Flight</Name>
+        <Id>us/usaf/121-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/145-ars</Url>
+    <NameNode>145th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>145th Air Refueling Squadron, USAF</FullName>
+    <SplitName>145th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-og</Url>
+        <Id>us/usaf/121-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st Operations Group</HHQAcronym>
+        <Name>121st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/166-ars</Url>
+    <NameNode>166th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>166th Air Refueling Squadron, USAF</FullName>
+    <SplitName>166th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-og</Url>
+        <Id>us/usaf/121-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st Operations Group</HHQAcronym>
+        <Name>121st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-osf</Url>
+    <NameNode>121st Operations Support Flight
+                            USAF</NameNode>
+    <FullName>121st Operations Support Flight, USAF</FullName>
+    <SplitName>121st Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-og</Url>
+        <Id>us/usaf/121-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st Operations Group</HHQAcronym>
+        <Name>121st Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+    <NameNode>121st Mission Support Group
+                            USAF</NameNode>
+    <FullName>121st Mission Support Group, USAF</FullName>
+    <SplitName>121st Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-ces</Url>
+        <FullName>121st Civil Engineer Squadron</FullName>
+        <Name>121st Civil Engineer Squadron</Name>
+        <Id>us/usaf/121-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-fss</Url>
+        <FullName>121st Force Support Squadron</FullName>
+        <Name>121st Force Support Squadron</Name>
+        <Id>us/usaf/121-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-lrs</Url>
+        <FullName>121st Logistics Readiness Squadron</FullName>
+        <Name>121st Logistics Readiness Squadron</Name>
+        <Id>us/usaf/121-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-sfs</Url>
+        <FullName>121st Security Forces Squadron</FullName>
+        <Name>121st Security Forces Squadron</Name>
+        <Id>us/usaf/121-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-cf</Url>
+        <FullName>121st Communications Flight</FullName>
+        <Name>121st Communications Flight</Name>
+        <Id>us/usaf/121-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-ces</Url>
+    <NameNode>121st Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>121st Civil Engineer Squadron, USAF</FullName>
+    <SplitName>121st Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+        <Id>us/usaf/121-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MSG</HHQAcronym>
+        <Name>121st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-fss</Url>
+    <NameNode>121st Force Support Squadron
+                            USAF</NameNode>
+    <FullName>121st Force Support Squadron, USAF</FullName>
+    <SplitName>121st Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+        <Id>us/usaf/121-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MSG</HHQAcronym>
+        <Name>121st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-lrs</Url>
+    <NameNode>121st Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>121st Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>121st Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+        <Id>us/usaf/121-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MSG</HHQAcronym>
+        <Name>121st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-sfs</Url>
+    <NameNode>121st Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>121st Security Forces Squadron, USAF</FullName>
+    <SplitName>121st Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+        <Id>us/usaf/121-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MSG</HHQAcronym>
+        <Name>121st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-cf</Url>
+    <NameNode>121st Communications Flight
+                            USAF</NameNode>
+    <FullName>121st Communications Flight, USAF</FullName>
+    <SplitName>121st Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-msg</Url>
+        <Id>us/usaf/121-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MSG</HHQAcronym>
+        <Name>121st Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-mxg</Url>
+    <NameNode>121st Maintenance Group
+                            USAF</NameNode>
+    <FullName>121st Maintenance Group, USAF</FullName>
+    <SplitName>121st Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-amxs</Url>
+        <FullName>121st Aircraft Maintenance Squadron</FullName>
+        <Name>121st Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/121-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mxs</Url>
+        <FullName>121st Maintenance Squadron</FullName>
+        <Name>121st Maintenance Squadron</Name>
+        <Id>us/usaf/121-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mof</Url>
+        <FullName>121st Maintenance Operations Flight</FullName>
+        <Name>121st Maintenance Operations Flight</Name>
+        <Id>us/usaf/121-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-amxs</Url>
+    <NameNode>121st Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>121st Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>121st Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mxg</Url>
+        <Id>us/usaf/121-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MXG</HHQAcronym>
+        <Name>121st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-mxs</Url>
+    <NameNode>121st Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>121st Maintenance Squadron, USAF</FullName>
+    <SplitName>121st Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mxg</Url>
+        <Id>us/usaf/121-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MXG</HHQAcronym>
+        <Name>121st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-mof</Url>
+    <NameNode>121st Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>121st Maintenance Operations Flight, USAF</FullName>
+    <SplitName>121st Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-mxg</Url>
+        <Id>us/usaf/121-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st MXG</HHQAcronym>
+        <Name>121st Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-mdg</Url>
+    <NameNode>121st Medical Group
+                            USAF</NameNode>
+    <FullName>121st Medical Group, USAF</FullName>
+    <SplitName>121st Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/121-cptf</Url>
+    <NameNode>121st Comptroller Flight
+                            USAF</NameNode>
+    <FullName>121st Comptroller Flight, USAF</FullName>
+    <SplitName>121st Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/220-eis</Url>
+    <NameNode>220th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>220th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>220th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Zanesville Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Zanesville, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/zanesville-angs</Url>
+        <Id>us/oh/zanesville-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/164-wf</Url>
+    <NameNode>164th Weather Flight
+                            USAF</NameNode>
+    <FullName>164th Weather Flight, USAF</FullName>
+    <SplitName>164th Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rickenbacker Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbus, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/rickenbacker-angb</Url>
+        <Id>us/oh/rickenbacker-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/121-arw</Url>
+        <Id>us/usaf/121-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>121st ARW</HHQAcronym>
+        <Name>121st Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+    <NameNode>178th Wing
+                            USAF</NameNode>
+    <FullName>178th Wing, USAF</FullName>
+    <SplitName>178th Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-oh/ang-elt</Url>
+        <Id>us/usaf/jfhq-oh/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Ohio</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Ohio</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-isrg</Url>
+        <FullName>178th Intelligence, Surveillance and Reconnaissance Group</FullName>
+        <Name>178th Intelligence, Surveillance and Reconnaissance Group</Name>
+        <Id>us/usaf/178-isrg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+        <FullName>178th Mission Support Group</FullName>
+        <Name>178th Mission Support Group</Name>
+        <Id>us/usaf/178-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-mdg</Url>
+        <FullName>178th Medical Group</FullName>
+        <Name>178th Medical Group</Name>
+        <Id>us/usaf/178-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-cptf</Url>
+        <FullName>178th Comptroller Flight</FullName>
+        <Name>178th Comptroller Flight</Name>
+        <Id>us/usaf/178-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-acs</Url>
+        <FullName>123rd Air Control Squadron</FullName>
+        <Name>123rd Air Control Squadron</Name>
+        <Id>us/usaf/123-acs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-isrg</Url>
+    <NameNode>178th ISRG
+                            USAF</NameNode>
+    <FullName>178th ISRG, USAF</FullName>
+    <SplitName>178th ISRG</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+        <Id>us/usaf/178-wg</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>178th Wing</HHQAcronym>
+        <Name>178th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/124-is</Url>
+        <FullName>124th Intelligence Squadron</FullName>
+        <Name>124th Intelligence Squadron</Name>
+        <Id>us/usaf/124-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/125-is</Url>
+        <FullName>125th Intelligence Squadron</FullName>
+        <Name>125th Intelligence Squadron</Name>
+        <Id>us/usaf/125-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/126-is</Url>
+        <FullName>126th Intelligence Squadron</FullName>
+        <Name>126th Intelligence Squadron</Name>
+        <Id>us/usaf/126-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/127-is</Url>
+        <FullName>127th Intelligence Squadron</FullName>
+        <Name>127th Intelligence Squadron</Name>
+        <Id>us/usaf/127-is</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/124-is</Url>
+    <NameNode>124th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>124th Intelligence Squadron, USAF</FullName>
+    <SplitName>124th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-isrg</Url>
+        <Id>us/usaf/178-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th ISRG</HHQAcronym>
+        <Name>178th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/125-is</Url>
+    <NameNode>125th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>125th Intelligence Squadron, USAF</FullName>
+    <SplitName>125th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-isrg</Url>
+        <Id>us/usaf/178-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th ISRG</HHQAcronym>
+        <Name>178th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/126-is</Url>
+    <NameNode>126th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>126th Intelligence Squadron, USAF</FullName>
+    <SplitName>126th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-isrg</Url>
+        <Id>us/usaf/178-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th ISRG</HHQAcronym>
+        <Name>178th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/127-is</Url>
+    <NameNode>127th Intelligence Squadron
+                            USAF</NameNode>
+    <FullName>127th Intelligence Squadron, USAF</FullName>
+    <SplitName>127th Intelligence Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-isrg</Url>
+        <Id>us/usaf/178-isrg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th ISRG</HHQAcronym>
+        <Name>178th Intelligence, Surveillance and Reconnaissance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+    <NameNode>178th Mission Support Group
+                            USAF</NameNode>
+    <FullName>178th Mission Support Group, USAF</FullName>
+    <SplitName>178th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+        <Id>us/usaf/178-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th Wing</HHQAcronym>
+        <Name>178th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-ces</Url>
+        <FullName>178th Civil Engineer Squadron</FullName>
+        <Name>178th Civil Engineer Squadron</Name>
+        <Id>us/usaf/178-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-fss</Url>
+        <FullName>178th Force Support Squadron</FullName>
+        <Name>178th Force Support Squadron</Name>
+        <Id>us/usaf/178-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-lrs</Url>
+        <FullName>178th Logistics Readiness Squadron</FullName>
+        <Name>178th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/178-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-sfs</Url>
+        <FullName>178th Security Forces Squadron</FullName>
+        <Name>178th Security Forces Squadron</Name>
+        <Id>us/usaf/178-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/178-cf</Url>
+        <FullName>178th Communications Flight</FullName>
+        <Name>178th Communications Flight</Name>
+        <Id>us/usaf/178-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-ces</Url>
+    <NameNode>178th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>178th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>178th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+        <Id>us/usaf/178-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th MSG</HHQAcronym>
+        <Name>178th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-fss</Url>
+    <NameNode>178th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>178th Force Support Squadron, USAF</FullName>
+    <SplitName>178th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+        <Id>us/usaf/178-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th MSG</HHQAcronym>
+        <Name>178th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-lrs</Url>
+    <NameNode>178th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>178th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>178th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+        <Id>us/usaf/178-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th MSG</HHQAcronym>
+        <Name>178th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-sfs</Url>
+    <NameNode>178th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>178th Security Forces Squadron, USAF</FullName>
+    <SplitName>178th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+        <Id>us/usaf/178-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th MSG</HHQAcronym>
+        <Name>178th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-cf</Url>
+    <NameNode>178th Communications Flight
+                            USAF</NameNode>
+    <FullName>178th Communications Flight, USAF</FullName>
+    <SplitName>178th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-msg</Url>
+        <Id>us/usaf/178-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th MSG</HHQAcronym>
+        <Name>178th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-mdg</Url>
+    <NameNode>178th Medical Group
+                            USAF</NameNode>
+    <FullName>178th Medical Group, USAF</FullName>
+    <SplitName>178th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+        <Id>us/usaf/178-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th Wing</HHQAcronym>
+        <Name>178th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/178-cptf</Url>
+    <NameNode>178th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>178th Comptroller Flight, USAF</FullName>
+    <SplitName>178th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+        <Id>us/usaf/178-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th Wing</HHQAcronym>
+        <Name>178th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-acs</Url>
+    <NameNode>123rd Air Control Squadron
+                            USAF</NameNode>
+    <FullName>123rd Air Control Squadron, USAF</FullName>
+    <SplitName>123rd Air Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Blue Ash Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cincinnati, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/blue-ash-angs</Url>
+        <Id>us/oh/blue-ash-angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/178-wg</Url>
+        <Id>us/usaf/178-wg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>178th Wing</HHQAcronym>
+        <Name>178th Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+    <NameNode>179th Airlift Wing
+                            USAF</NameNode>
+    <FullName>179th Airlift Wing, USAF</FullName>
+    <SplitName>179th Airlift Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-oh/ang-elt</Url>
+        <Id>us/usaf/jfhq-oh/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Ohio</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Ohio</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-og</Url>
+        <FullName>179th Operations Group</FullName>
+        <Name>179th Operations Group</Name>
+        <Id>us/usaf/179-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+        <FullName>179th Mission Support Group</FullName>
+        <Name>179th Mission Support Group</Name>
+        <Id>us/usaf/179-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mxg</Url>
+        <FullName>179th Maintenance Group</FullName>
+        <Name>179th Maintenance Group</Name>
+        <Id>us/usaf/179-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mdg</Url>
+        <FullName>179th Medical Group</FullName>
+        <Name>179th Medical Group</Name>
+        <Id>us/usaf/179-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-cptf</Url>
+        <FullName>179th Comptroller Flight</FullName>
+        <Name>179th Comptroller Flight</Name>
+        <Id>us/usaf/179-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/200-rhs</Url>
+        <FullName>200th Rapid Engineer Deployable Heavy Operational Repair Squadron</FullName>
+        <Name>200th Rapid Engineer Deployable Heavy Operational Repair Squadron</Name>
+        <Id>us/usaf/200-rhs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-og</Url>
+    <NameNode>179th Operations Group
+                            USAF</NameNode>
+    <FullName>179th Operations Group, USAF</FullName>
+    <SplitName>179th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <Id>us/usaf/179-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Airlift Wing</HHQAcronym>
+        <Name>179th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/164-as</Url>
+        <FullName>164th Airlift Squadron</FullName>
+        <Name>164th Airlift Squadron</Name>
+        <Id>us/usaf/164-as</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-osf</Url>
+        <FullName>179th Operations Support Flight</FullName>
+        <Name>179th Operations Support Flight</Name>
+        <Id>us/usaf/179-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/164-as</Url>
+    <NameNode>164th Airlift Squadron
+                            USAF</NameNode>
+    <FullName>164th Airlift Squadron, USAF</FullName>
+    <SplitName>164th Airlift Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-og</Url>
+        <Id>us/usaf/179-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Operations Group</HHQAcronym>
+        <Name>179th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-osf</Url>
+    <NameNode>179th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>179th Operations Support Flight, USAF</FullName>
+    <SplitName>179th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-og</Url>
+        <Id>us/usaf/179-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Operations Group</HHQAcronym>
+        <Name>179th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+    <NameNode>179th Mission Support Group
+                            USAF</NameNode>
+    <FullName>179th Mission Support Group, USAF</FullName>
+    <SplitName>179th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <Id>us/usaf/179-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Airlift Wing</HHQAcronym>
+        <Name>179th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-ces</Url>
+        <FullName>179th Civil Engineer Squadron</FullName>
+        <Name>179th Civil Engineer Squadron</Name>
+        <Id>us/usaf/179-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-fss</Url>
+        <FullName>179th Force Support Squadron</FullName>
+        <Name>179th Force Support Squadron</Name>
+        <Id>us/usaf/179-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-lrs</Url>
+        <FullName>179th Logistics Readiness Squadron</FullName>
+        <Name>179th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/179-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-sfs</Url>
+        <FullName>179th Security Forces Squadron</FullName>
+        <Name>179th Security Forces Squadron</Name>
+        <Id>us/usaf/179-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-cf</Url>
+        <FullName>179th Communications Flight</FullName>
+        <Name>179th Communications Flight</Name>
+        <Id>us/usaf/179-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-ces</Url>
+    <NameNode>179th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>179th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>179th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+        <Id>us/usaf/179-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MSG</HHQAcronym>
+        <Name>179th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-fss</Url>
+    <NameNode>179th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>179th Force Support Squadron, USAF</FullName>
+    <SplitName>179th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+        <Id>us/usaf/179-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MSG</HHQAcronym>
+        <Name>179th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-lrs</Url>
+    <NameNode>179th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>179th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>179th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+        <Id>us/usaf/179-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MSG</HHQAcronym>
+        <Name>179th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-sfs</Url>
+    <NameNode>179th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>179th Security Forces Squadron, USAF</FullName>
+    <SplitName>179th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+        <Id>us/usaf/179-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MSG</HHQAcronym>
+        <Name>179th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-cf</Url>
+    <NameNode>179th Communications Flight
+                            USAF</NameNode>
+    <FullName>179th Communications Flight, USAF</FullName>
+    <SplitName>179th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-msg</Url>
+        <Id>us/usaf/179-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MSG</HHQAcronym>
+        <Name>179th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-mxg</Url>
+    <NameNode>179th Maintenance Group
+                            USAF</NameNode>
+    <FullName>179th Maintenance Group, USAF</FullName>
+    <SplitName>179th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <Id>us/usaf/179-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Airlift Wing</HHQAcronym>
+        <Name>179th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-amxs</Url>
+        <FullName>179th Aircraft Maintenance Squadron</FullName>
+        <Name>179th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/179-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mxs</Url>
+        <FullName>179th Maintenance Squadron</FullName>
+        <Name>179th Maintenance Squadron</Name>
+        <Id>us/usaf/179-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mof</Url>
+        <FullName>179th Maintenance Operations Flight</FullName>
+        <Name>179th Maintenance Operations Flight</Name>
+        <Id>us/usaf/179-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-amxs</Url>
+    <NameNode>179th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>179th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>179th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mxg</Url>
+        <Id>us/usaf/179-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MXG</HHQAcronym>
+        <Name>179th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-mxs</Url>
+    <NameNode>179th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>179th Maintenance Squadron, USAF</FullName>
+    <SplitName>179th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mxg</Url>
+        <Id>us/usaf/179-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MXG</HHQAcronym>
+        <Name>179th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-mof</Url>
+    <NameNode>179th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>179th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>179th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-mxg</Url>
+        <Id>us/usaf/179-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th MXG</HHQAcronym>
+        <Name>179th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-mdg</Url>
+    <NameNode>179th Medical Group
+                            USAF</NameNode>
+    <FullName>179th Medical Group, USAF</FullName>
+    <SplitName>179th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <Id>us/usaf/179-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Airlift Wing</HHQAcronym>
+        <Name>179th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/179-cptf</Url>
+    <NameNode>179th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>179th Comptroller Flight, USAF</FullName>
+    <SplitName>179th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <Id>us/usaf/179-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Airlift Wing</HHQAcronym>
+        <Name>179th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/200-rhs</Url>
+    <NameNode>200th RHS
+                            USAF</NameNode>
+    <FullName>200th RHS, USAF</FullName>
+    <SplitName>200th RHS</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Perry Air National Guard Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/camp-perry/angs</Url>
+        <Id>us/oh/camp-perry/angs</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/179-aw</Url>
+        <Id>us/usaf/179-aw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>179th Airlift Wing</HHQAcronym>
+        <Name>179th Airlift Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/200-rhs/det-1</Url>
+        <FullName>Detachment 1, 200th Rapid Engineer Deployable Heavy Operational Repair Squadron</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/usaf/200-rhs/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/200-rhs/det-1</Url>
+    <NameNode>Detachment 1, 200th RHS
+                            USAF</NameNode>
+    <FullName>Detachment 1, 200th RHS, USAF</FullName>
+    <SplitName>Detachment 1, 200th RHS</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mansfield Lahm Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/mansfield-lahm-angb</Url>
+        <Id>us/oh/mansfield-lahm-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/200-rhs</Url>
+        <Id>us/usaf/200-rhs</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>200th RHS</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>200th Rapid Engineer Deployable Heavy Operational Repair Squadron</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+    <NameNode>180th Fighter Wing
+                            USAF</NameNode>
+    <FullName>180th Fighter Wing, USAF</FullName>
+    <SplitName>180th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-oh/ang-elt</Url>
+        <Id>us/usaf/jfhq-oh/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Ohio</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Ohio</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-og</Url>
+        <FullName>180th Operations Group</FullName>
+        <Name>180th Operations Group</Name>
+        <Id>us/usaf/180-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+        <FullName>180th Mission Support Group</FullName>
+        <Name>180th Mission Support Group</Name>
+        <Id>us/usaf/180-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mxg</Url>
+        <FullName>180th Maintenance Group</FullName>
+        <Name>180th Maintenance Group</Name>
+        <Id>us/usaf/180-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mdg</Url>
+        <FullName>180th Medical Group</FullName>
+        <Name>180th Medical Group</Name>
+        <Id>us/usaf/180-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-cptf</Url>
+        <FullName>180th Comptroller Flight</FullName>
+        <Name>180th Comptroller Flight</Name>
+        <Id>us/usaf/180-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-og</Url>
+    <NameNode>180th Operations Group
+                            USAF</NameNode>
+    <FullName>180th Operations Group, USAF</FullName>
+    <SplitName>180th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+        <Id>us/usaf/180-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Fighter Wing</HHQAcronym>
+        <Name>180th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/112-fs</Url>
+        <FullName>112th Fighter Squadron</FullName>
+        <Name>112th Fighter Squadron</Name>
+        <Id>us/usaf/112-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-osf</Url>
+        <FullName>180th Operations Support Flight</FullName>
+        <Name>180th Operations Support Flight</Name>
+        <Id>us/usaf/180-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/112-fs</Url>
+    <NameNode>112th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>112th Fighter Squadron, USAF</FullName>
+    <SplitName>112th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-og</Url>
+        <Id>us/usaf/180-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Operations Group</HHQAcronym>
+        <Name>180th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-osf</Url>
+    <NameNode>180th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>180th Operations Support Flight, USAF</FullName>
+    <SplitName>180th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-og</Url>
+        <Id>us/usaf/180-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Operations Group</HHQAcronym>
+        <Name>180th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+    <NameNode>180th Mission Support Group
+                            USAF</NameNode>
+    <FullName>180th Mission Support Group, USAF</FullName>
+    <SplitName>180th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+        <Id>us/usaf/180-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Fighter Wing</HHQAcronym>
+        <Name>180th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-ces</Url>
+        <FullName>180th Civil Engineer Squadron</FullName>
+        <Name>180th Civil Engineer Squadron</Name>
+        <Id>us/usaf/180-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fss</Url>
+        <FullName>180th Force Support Squadron</FullName>
+        <Name>180th Force Support Squadron</Name>
+        <Id>us/usaf/180-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-lrs</Url>
+        <FullName>180th Logistics Readiness Squadron</FullName>
+        <Name>180th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/180-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-sfs</Url>
+        <FullName>180th Security Forces Squadron</FullName>
+        <Name>180th Security Forces Squadron</Name>
+        <Id>us/usaf/180-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-cf</Url>
+        <FullName>180th Communications Flight</FullName>
+        <Name>180th Communications Flight</Name>
+        <Id>us/usaf/180-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-ces</Url>
+    <NameNode>180th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>180th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>180th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+        <Id>us/usaf/180-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MSG</HHQAcronym>
+        <Name>180th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-fss</Url>
+    <NameNode>180th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>180th Force Support Squadron, USAF</FullName>
+    <SplitName>180th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+        <Id>us/usaf/180-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MSG</HHQAcronym>
+        <Name>180th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-lrs</Url>
+    <NameNode>180th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>180th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>180th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+        <Id>us/usaf/180-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MSG</HHQAcronym>
+        <Name>180th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-sfs</Url>
+    <NameNode>180th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>180th Security Forces Squadron, USAF</FullName>
+    <SplitName>180th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+        <Id>us/usaf/180-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MSG</HHQAcronym>
+        <Name>180th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-cf</Url>
+    <NameNode>180th Communications Flight
+                            USAF</NameNode>
+    <FullName>180th Communications Flight, USAF</FullName>
+    <SplitName>180th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-msg</Url>
+        <Id>us/usaf/180-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MSG</HHQAcronym>
+        <Name>180th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-mxg</Url>
+    <NameNode>180th Maintenance Group
+                            USAF</NameNode>
+    <FullName>180th Maintenance Group, USAF</FullName>
+    <SplitName>180th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+        <Id>us/usaf/180-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Fighter Wing</HHQAcronym>
+        <Name>180th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-amxs</Url>
+        <FullName>180th Aircraft Maintenance Squadron</FullName>
+        <Name>180th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/180-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mxs</Url>
+        <FullName>180th Maintenance Squadron</FullName>
+        <Name>180th Maintenance Squadron</Name>
+        <Id>us/usaf/180-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mof</Url>
+        <FullName>180th Maintenance Operations Flight</FullName>
+        <Name>180th Maintenance Operations Flight</Name>
+        <Id>us/usaf/180-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-amxs</Url>
+    <NameNode>180th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>180th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>180th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mxg</Url>
+        <Id>us/usaf/180-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MXG</HHQAcronym>
+        <Name>180th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-mxs</Url>
+    <NameNode>180th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>180th Maintenance Squadron, USAF</FullName>
+    <SplitName>180th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mxg</Url>
+        <Id>us/usaf/180-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MXG</HHQAcronym>
+        <Name>180th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-mof</Url>
+    <NameNode>180th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>180th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>180th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-mxg</Url>
+        <Id>us/usaf/180-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th MXG</HHQAcronym>
+        <Name>180th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-mdg</Url>
+    <NameNode>180th Medical Group
+                            USAF</NameNode>
+    <FullName>180th Medical Group, USAF</FullName>
+    <SplitName>180th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+        <Id>us/usaf/180-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Fighter Wing</HHQAcronym>
+        <Name>180th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/180-cptf</Url>
+    <NameNode>180th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>180th Comptroller Flight, USAF</FullName>
+    <SplitName>180th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Toledo Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Swanton, Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/toledo-angb</Url>
+        <Id>us/oh/toledo-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/180-fw</Url>
+        <Id>us/usaf/180-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>180th Fighter Wing</HHQAcronym>
+        <Name>180th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/251-ceig</Url>
+    <NameNode>251st Cyberspace Engineering Installation Group
+                            USAF</NameNode>
+    <FullName>251st Cyberspace Engineering Installation Group, USAF</FullName>
+    <SplitName>251st Cyberspace Engineering Installation Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-oh/ang-elt</Url>
+        <Id>us/usaf/jfhq-oh/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Ohio</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Ohio</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/269-cbcs</Url>
+        <FullName>269th Combat Communications Squadron</FullName>
+        <Name>269th Combat Communications Squadron</Name>
+        <Id>us/usaf/269-cbcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/269-cbcs</Url>
+    <NameNode>269th Combat Communications Squadron
+                            USAF</NameNode>
+    <FullName>269th Combat Communications Squadron, USAF</FullName>
+    <SplitName>269th Combat Communications Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Springfield Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ohio, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/oh/springfield-angb</Url>
+        <Id>us/oh/springfield-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/251-ceig</Url>
+        <Id>us/usaf/251-ceig</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>251st CEIG</HHQAcronym>
+        <Name>251st Cyberspace Engineering Installation Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OH</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

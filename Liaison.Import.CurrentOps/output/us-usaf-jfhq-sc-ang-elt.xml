@@ -1,0 +1,730 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-sc/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ South Carolina
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ South Carolina, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ South Carolina</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-sc</Url>
+        <Id>us/ng/jfhq-sc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ South Carolina</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters South Carolina</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-fw</Url>
+        <FullName>169th Fighter Wing</FullName>
+        <Name>169th Fighter Wing</Name>
+        <Id>us/usaf/169-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-fw</Url>
+    <NameNode>169th Fighter Wing
+                            USAF</NameNode>
+    <FullName>169th Fighter Wing, USAF</FullName>
+    <SplitName>169th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-sc/ang-elt</Url>
+        <Id>us/usaf/jfhq-sc/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ South Carolina</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters South Carolina</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-og</Url>
+        <FullName>169th Operations Group</FullName>
+        <Name>169th Operations Group</Name>
+        <Id>us/usaf/169-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <FullName>169th Mission Support Group</FullName>
+        <Name>169th Mission Support Group</Name>
+        <Id>us/usaf/169-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mxg</Url>
+        <FullName>169th Maintenance Group</FullName>
+        <Name>169th Maintenance Group</Name>
+        <Id>us/usaf/169-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mdg</Url>
+        <FullName>169th Medical Group</FullName>
+        <Name>169th Medical Group</Name>
+        <Id>us/usaf/169-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-og</Url>
+    <NameNode>169th Operations Group
+                            USAF</NameNode>
+    <FullName>169th Operations Group, USAF</FullName>
+    <SplitName>169th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-fw</Url>
+        <Id>us/usaf/169-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Fighter Wing</HHQAcronym>
+        <Name>169th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/157-fs</Url>
+        <FullName>157th Fighter Squadron</FullName>
+        <Name>157th Fighter Squadron</Name>
+        <Id>us/usaf/157-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-osf</Url>
+        <FullName>169th Operations Support Flight</FullName>
+        <Name>169th Operations Support Flight</Name>
+        <Id>us/usaf/169-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/245-atcs</Url>
+        <FullName>245th Air Traffic Control Squadron</FullName>
+        <Name>245th Air Traffic Control Squadron</Name>
+        <Id>us/usaf/245-atcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/157-fs</Url>
+    <NameNode>157th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>157th Fighter Squadron, USAF</FullName>
+    <SplitName>157th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-og</Url>
+        <Id>us/usaf/169-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Operations Group</HHQAcronym>
+        <Name>169th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-osf</Url>
+    <NameNode>169th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>169th Operations Support Flight, USAF</FullName>
+    <SplitName>169th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-og</Url>
+        <Id>us/usaf/169-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Operations Group</HHQAcronym>
+        <Name>169th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/245-atcs</Url>
+    <NameNode>245th Air Traffic Control Squadron
+                            USAF</NameNode>
+    <FullName>245th Air Traffic Control Squadron, USAF</FullName>
+    <SplitName>245th Air Traffic Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-og</Url>
+        <Id>us/usaf/169-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Operations Group</HHQAcronym>
+        <Name>169th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+    <NameNode>169th Mission Support Group
+                            USAF</NameNode>
+    <FullName>169th Mission Support Group, USAF</FullName>
+    <SplitName>169th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-fw</Url>
+        <Id>us/usaf/169-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Fighter Wing</HHQAcronym>
+        <Name>169th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-ces</Url>
+        <FullName>169th Civil Engineer Squadron</FullName>
+        <Name>169th Civil Engineer Squadron</Name>
+        <Id>us/usaf/169-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-fss</Url>
+        <FullName>169th Force Support Squadron</FullName>
+        <Name>169th Force Support Squadron</Name>
+        <Id>us/usaf/169-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-lrs</Url>
+        <FullName>169th Logistics Readiness Squadron</FullName>
+        <Name>169th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/169-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-sfs</Url>
+        <FullName>169th Security Forces Squadron</FullName>
+        <Name>169th Security Forces Squadron</Name>
+        <Id>us/usaf/169-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-cf</Url>
+        <FullName>169th Communications Flight</FullName>
+        <Name>169th Communications Flight</Name>
+        <Id>us/usaf/169-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msf</Url>
+        <FullName>169th Mission Support Flight</FullName>
+        <Name>169th Mission Support Flight</Name>
+        <Id>us/usaf/169-msf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-ces</Url>
+    <NameNode>169th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>169th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>169th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <Id>us/usaf/169-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MSG</HHQAcronym>
+        <Name>169th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-fss</Url>
+    <NameNode>169th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>169th Force Support Squadron, USAF</FullName>
+    <SplitName>169th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <Id>us/usaf/169-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MSG</HHQAcronym>
+        <Name>169th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-lrs</Url>
+    <NameNode>169th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>169th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>169th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <Id>us/usaf/169-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MSG</HHQAcronym>
+        <Name>169th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-sfs</Url>
+    <NameNode>169th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>169th Security Forces Squadron, USAF</FullName>
+    <SplitName>169th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <Id>us/usaf/169-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MSG</HHQAcronym>
+        <Name>169th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-cf</Url>
+    <NameNode>169th Communications Flight
+                            USAF</NameNode>
+    <FullName>169th Communications Flight, USAF</FullName>
+    <SplitName>169th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <Id>us/usaf/169-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MSG</HHQAcronym>
+        <Name>169th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-msf</Url>
+    <NameNode>169th Mission Support Flight
+                            USAF</NameNode>
+    <FullName>169th Mission Support Flight, USAF</FullName>
+    <SplitName>169th Mission Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-msg</Url>
+        <Id>us/usaf/169-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MSG</HHQAcronym>
+        <Name>169th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-mxg</Url>
+    <NameNode>169th Maintenance Group
+                            USAF</NameNode>
+    <FullName>169th Maintenance Group, USAF</FullName>
+    <SplitName>169th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-fw</Url>
+        <Id>us/usaf/169-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Fighter Wing</HHQAcronym>
+        <Name>169th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-amxs</Url>
+        <FullName>169th Aircraft Maintenance Squadron</FullName>
+        <Name>169th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/169-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mxs</Url>
+        <FullName>169th Maintenance Squadron</FullName>
+        <Name>169th Maintenance Squadron</Name>
+        <Id>us/usaf/169-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mof</Url>
+        <FullName>169th Maintenance Operations Flight</FullName>
+        <Name>169th Maintenance Operations Flight</Name>
+        <Id>us/usaf/169-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-amxs</Url>
+    <NameNode>169th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>169th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>169th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mxg</Url>
+        <Id>us/usaf/169-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MXG</HHQAcronym>
+        <Name>169th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-mxs</Url>
+    <NameNode>169th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>169th Maintenance Squadron, USAF</FullName>
+    <SplitName>169th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mxg</Url>
+        <Id>us/usaf/169-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MXG</HHQAcronym>
+        <Name>169th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-mof</Url>
+    <NameNode>169th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>169th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>169th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-mxg</Url>
+        <Id>us/usaf/169-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th MXG</HHQAcronym>
+        <Name>169th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/169-mdg</Url>
+    <NameNode>169th Medical Group
+                            USAF</NameNode>
+    <FullName>169th Medical Group, USAF</FullName>
+    <SplitName>169th Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>McEntire Joint National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Eastover, South Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sc/mcentire-jngb</Url>
+        <Id>us/sc/mcentire-jngb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/169-fw</Url>
+        <Id>us/usaf/169-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>169th Fighter Wing</HHQAcronym>
+        <Name>169th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SC</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usace</Url>
+    <NameNode>United States Army Corps of Engineers
+                            U.S. Army</NameNode>
+    <FullName>United States Army Corps of Engineers, U.S. Army</FullName>
+    <SplitName>United States Army Corps of Engineers</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgVVNBQ0U.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Type>DRU</Type>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <FullName>249th Engineer Battalion</FullName>
+        <Name>249th Engineer Battalion</Name>
+        <Id>us/army/249-engr-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+    <NameNode>249th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>249th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>249th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mount Vernon, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-belvoir</Url>
+        <Id>us/va/fort-belvoir</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/usace</Url>
+        <Id>us/army/usace</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USACE</HHQAcronym>
+        <Name>United States Army Corps of Engineers</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 249th Engineer Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/249-engr-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn/co-a</Url>
+        <FullName>Company A, 249th Engineer Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/249-engr-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn/co-b</Url>
+        <FullName>Company B, 249th Engineer Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/249-engr-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn/co-c</Url>
+        <FullName>Company C, 249th Engineer Battalion</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/249-engr-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn/co-d</Url>
+        <FullName>Company D, 249th Engineer Battalion</FullName>
+        <Name>Company D
+
+                    (USAR)</Name>
+        <Id>us/army/249-engr-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usapps</Url>
+        <FullName>United States Army Prime Power School</FullName>
+        <Name>United States Army Prime Power School</Name>
+        <Id>us/army/usapps</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-engr-bn/hhc</Url>
+    <NameNode>HHC, 249th Engr Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 249th Engr Bn, U.S. Army</FullName>
+    <SplitName>HHC, 249th Engr Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mount Vernon, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-belvoir</Url>
+        <Id>us/va/fort-belvoir</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <Id>us/army/249-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>249th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>249th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-engr-bn/co-a</Url>
+    <NameNode>Company A, 249th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 249th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 249th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Schofield Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wahiawa, Oahu, Hawaii, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/hi/schofield-bks</Url>
+        <Id>us/hi/schofield-bks</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <Id>us/army/249-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>249th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>249th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-engr-bn/co-b</Url>
+    <NameNode>Company B, 249th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 249th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 249th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fayetteville, North Carolina, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nc/fort-bragg</Url>
+        <Id>us/nc/fort-bragg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <Id>us/army/249-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>249th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>249th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-engr-bn/co-c</Url>
+    <NameNode>Company C, 249th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company C, 249th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Company C, 249th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mount Vernon, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/fort-belvoir</Url>
+        <Id>us/va/fort-belvoir</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <Id>us/army/249-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>249th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>249th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/249-engr-bn/co-d</Url>
+    <NameNode>Company D, 249th Engineer Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company D, 249th Engineer Battalion, U.S. Army</FullName>
+    <SplitName>Company D, 249th Engineer Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Esek Hopkins Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cranston, Rhode Island, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ri/esek-hopkins-afrc</Url>
+        <Id>us/ri/esek-hopkins-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <Id>us/army/249-engr-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>249th Engr Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>249th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usapps</Url>
+    <NameNode>United States Army Prime Power School
+                            U.S. Army</NameNode>
+    <FullName>United States Army Prime Power School, U.S. Army</FullName>
+    <SplitName>United States Army Prime Power School</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leonard Wood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Waynesville, Missouri, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mo/fort-leonard-wood</Url>
+        <Id>us/mo/fort-leonard-wood</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/249-engr-bn</Url>
+        <Id>us/army/249-engr-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>249th Engr Bn</HHQAcronym>
+        <Name>249th Engineer Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

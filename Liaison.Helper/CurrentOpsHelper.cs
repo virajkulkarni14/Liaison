@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Liaison.Helper
 {
-   public static class CurrentOpsHelper
+    public static class RallyPointHelper
+    {
+        public static string rpoint = "https://www.rallypoint.com/units/";
+    }
+    public static class CurrentOpsHelper
     {
         public static string ctops = "https://currentops.com/unit/";
         public static string ctopsUSArmy = "https://currentops.com/unit/us/army/";

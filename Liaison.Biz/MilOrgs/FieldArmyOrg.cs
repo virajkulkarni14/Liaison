@@ -33,6 +33,10 @@ namespace Liaison.Biz.MilOrgs
 
         public List<ChildOrg> ChildOrgs { get; set; }
 
+        string IMilitaryOrg.USState => throw new NotImplementedException();
+
+        public string USState =null;
+
         public string GetFullName()
         {
             StringBuilder sb = new StringBuilder();

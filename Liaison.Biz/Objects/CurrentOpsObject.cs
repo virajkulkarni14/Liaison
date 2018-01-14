@@ -41,7 +41,7 @@ namespace Liaison.Biz.Objects
         public string NameNode { get; set; }
         public string FullName { get; set; }
         public string SplitName { get; set; }
-        public string Service { get; set; }
+        //public string Service { get; set; }
         public string LogoUrl { get; set; }
         public List<LocationObject> Locations { get; set; }
         public List<HigherHqObject> HigherHq { get; set; }
@@ -49,5 +49,6 @@ namespace Liaison.Biz.Objects
         public Services UnitService { get; set; }
         public ServiceType UnitComponent { get; set; }
         public string UnitNGState { get; set; }
+     
     }
 }

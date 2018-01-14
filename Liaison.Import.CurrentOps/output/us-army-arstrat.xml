@@ -1,0 +1,1379 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/arstrat</Url>
+    <NameNode>Army Forces Strategic Command
+                            U.S. Army</NameNode>
+    <FullName>Army Forces Strategic Command, U.S. Army</FullName>
+    <SplitName>Army Forces Strategic Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Alabama, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/al/redstone-ars</Url>
+        <Id>us/al/redstone-ars</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/joint/usstratcom</Url>
+        <Id>us/joint/usstratcom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>USSTRATCOM</HHQAcronym>
+        <Type>COCOM</Type>
+        <Name>United States Strategic Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <FullName>100th Missile Defense Brigade</FullName>
+        <Name>100th Missile Defense Brigade
+
+                    (CO ARNG)</Name>
+        <Id>us/army/100-md-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+        <FullName>1st Space Brigade</FullName>
+        <Name>1st Space Brigade</Name>
+        <Id>us/army/1-space-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+    <NameNode>100th Missile Defense Brigade
+                            U.S. Army</NameNode>
+    <FullName>100th Missile Defense Brigade, U.S. Army</FullName>
+    <SplitName>100th Missile Defense Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgTUQgQkRFIDAxMDA.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-co/arng-elt</Url>
+        <Id>us/army/jfhq-co/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Colorado</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Colorado</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/arstrat</Url>
+        <Id>us/army/arstrat</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARSTRAT</HHQAcronym>
+        <Name>Army Forces Strategic Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde/det-1</Url>
+        <FullName>Detachment 1, 100th Missile Defense Brigade</FullName>
+        <Name>Detachment 1
+
+                    (CA ARNG)</Name>
+        <Id>us/army/100-md-bde/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <FullName>117th Space Battalion</FullName>
+        <Name>117th Space Battalion</Name>
+        <Id>us/army/117-space-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/49-md-bn</Url>
+        <FullName>49th Missile Defense Battalion</FullName>
+        <Name>49th Missile Defense Battalion
+
+                    (AK ARNG)</Name>
+        <Id>us/army/49-md-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/10-mdd</Url>
+        <FullName>10th Missile Defense Detachment</FullName>
+        <Name>10th Missile Defense Detachment
+
+                    (Army [AC])</Name>
+        <Id>us/army/10-mdd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/11-mdd</Url>
+        <FullName>11th Missile Defense Detachment</FullName>
+        <Name>11th Missile Defense Detachment
+
+                    (Army [AC])</Name>
+        <Id>us/army/11-mdd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/12-mdd</Url>
+        <FullName>12th Missile Defense Detachment</FullName>
+        <Name>12th Missile Defense Detachment
+
+                    (Army [AC])</Name>
+        <Id>us/army/12-mdd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/13-mdd</Url>
+        <FullName>13th Missile Defense Detachment</FullName>
+        <Name>13th Missile Defense Detachment
+
+                    (Army [AC])</Name>
+        <Id>us/army/13-mdd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/100-md-bde/det-1</Url>
+    <NameNode>Detachment 1, 100th Missile Defense Brigade
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 100th Missile Defense Brigade, U.S. Army</FullName>
+    <SplitName>Detachment 1, 100th Missile Defense Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vandenberg Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lompoc, California, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ca/vandenberg-afb</Url>
+        <Id>us/ca/vandenberg-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+    <NameNode>117th Space Battalion
+                            U.S. Army</NameNode>
+    <FullName>117th Space Battalion, U.S. Army</FullName>
+    <SplitName>117th Space Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+        <Id>us/army/1-space-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Brigade</HHQAcronym>
+        <Name>1st Space Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 117th Space Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/117-space-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/217-space-co</Url>
+        <FullName>217th Space Company</FullName>
+        <Name>217th Space Company</Name>
+        <Id>us/army/217-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1158-space-co</Url>
+        <FullName>1158th Space Company</FullName>
+        <Name>1158th Space Company</Name>
+        <Id>us/army/1158-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/117-space-bn/hhc</Url>
+    <NameNode>HHC, 117th Space Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 117th Space Bn, U.S. Army</FullName>
+    <SplitName>HHC, 117th Space Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <Id>us/army/117-space-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>117th Space Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>117th Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/217-space-co</Url>
+    <NameNode>217th Space Company
+                            U.S. Army</NameNode>
+    <FullName>217th Space Company, U.S. Army</FullName>
+    <SplitName>217th Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <Id>us/army/117-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th Space Battalion</HHQAcronym>
+        <Name>117th Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1158-space-co</Url>
+    <NameNode>1158th Space Company
+                            U.S. Army</NameNode>
+    <FullName>1158th Space Company, U.S. Army</FullName>
+    <SplitName>1158th Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <Id>us/army/117-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th Space Battalion</HHQAcronym>
+        <Name>117th Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/49-md-bn</Url>
+    <NameNode>49th Missile Defense Battalion
+                            U.S. Army</NameNode>
+    <FullName>49th Missile Defense Battalion, U.S. Army</FullName>
+    <SplitName>49th Missile Defense Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Greely</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Delta Junction, Alaska, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ak/fort-greely</Url>
+        <Id>us/ak/fort-greely</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/38-trp-cmd</Url>
+        <Id>us/army/38-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>38th Troop Command</HHQAcronym>
+        <Name>38th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/49-md-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 49th Missile Defense Battalion</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/49-md-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/49-md-bn/gbi-btry</Url>
+        <FullName>Ground-Based Interceptor Battery, 49th Missile Defense Battalion</FullName>
+        <Name>Ground-Based Interceptor Battery</Name>
+        <Id>us/army/49-md-bn/gbi-btry</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/49-md-bn/hhb</Url>
+    <NameNode>Headquarters and Headquarters Battery, 49th MD Bn
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Battery, 49th MD Bn, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Battery, 49th MD Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Greely</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Delta Junction, Alaska, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ak/fort-greely</Url>
+        <Id>us/ak/fort-greely</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/49-md-bn</Url>
+        <Id>us/army/49-md-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>49th MD Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>49th Missile Defense Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/49-md-bn/gbi-btry</Url>
+    <NameNode>Ground-Based Interceptor Battery, 49th MD Bn
+                            U.S. Army</NameNode>
+    <FullName>Ground-Based Interceptor Battery, 49th MD Bn, U.S. Army</FullName>
+    <SplitName>Ground-Based Interceptor Battery, 49th MD Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Greely</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Delta Junction, Alaska, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ak/fort-greely</Url>
+        <Id>us/ak/fort-greely</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/49-md-bn</Url>
+        <Id>us/army/49-md-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>49th MD Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>49th Missile Defense Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/10-mdd</Url>
+    <NameNode>10th Missile Defense Detachment
+                            U.S. Army</NameNode>
+    <FullName>10th Missile Defense Detachment, U.S. Army</FullName>
+    <SplitName>10th Missile Defense Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Shariki Communications Site</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shariki, Honshu, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/jp/shariki-comm-site</Url>
+        <Id>jp/shariki-comm-site</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/94-aamdc</Url>
+        <Id>us/army/94-aamdc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>94th AAMDC</HHQAcronym>
+        <Name>94th Army Air and Missile Defense Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/11-mdd</Url>
+    <NameNode>11th Missile Defense Detachment
+                            U.S. Army</NameNode>
+    <FullName>11th Missile Defense Detachment, U.S. Army</FullName>
+    <SplitName>11th Missile Defense Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Rhine Ordnance Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/rhine-ordnance-bks</Url>
+        <Id>de/rp/rhine-ordnance-bks</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-aamdc</Url>
+        <Id>us/army/10-aamdc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>10th AAMDC</HHQAcronym>
+        <Name>10th Army Air and Missile Defense Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/357-amdd</Url>
+        <Id>us/army/357-amdd</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>357th AMDD</HHQAcronym>
+        <Name>357th Air and Missile Defense Detachment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/12-mdd</Url>
+    <NameNode>12th Missile Defense Detachment
+                            U.S. Army</NameNode>
+    <FullName>12th Missile Defense Detachment, U.S. Army</FullName>
+    <SplitName>12th Missile Defense Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/13-mdd</Url>
+    <NameNode>13th Missile Defense Detachment
+                            U.S. Army</NameNode>
+    <FullName>13th Missile Defense Detachment, U.S. Army</FullName>
+    <SplitName>13th Missile Defense Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Rhine Ordnance Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/rhine-ordnance-bks</Url>
+        <Id>de/rp/rhine-ordnance-bks</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/10-aamdc</Url>
+        <Id>us/army/10-aamdc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>10th AAMDC</HHQAcronym>
+        <Name>10th Army Air and Missile Defense Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+    <NameNode>1st Space Brigade
+                            U.S. Army</NameNode>
+    <FullName>1st Space Brigade, U.S. Army</FullName>
+    <SplitName>1st Space Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgU1BBQ0UgQkRFIDAwMDE.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/arstrat</Url>
+        <Id>us/army/arstrat</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARSTRAT</HHQAcronym>
+        <Name>Army Forces Strategic Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Space Brigade</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/1-space-bde/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <FullName>1st Space Battalion</FullName>
+        <Name>1st Space Battalion</Name>
+        <Id>us/army/1-space-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <FullName>117th Space Battalion</FullName>
+        <Name>117th Space Battalion
+
+                    (CO ARNG)</Name>
+        <Id>us/army/117-space-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <FullName>53rd Signal Battalion</FullName>
+        <Name>53rd Signal Battalion</Name>
+        <Id>us/army/53-sc-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1-space-bde/hhc</Url>
+    <NameNode>HHC, 1st Space Bde
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Space Bde, U.S. Army</FullName>
+    <SplitName>HHC, 1st Space Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+        <Id>us/army/1-space-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Space Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Space Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+    <NameNode>1st Space Battalion
+                            U.S. Army</NameNode>
+    <FullName>1st Space Battalion, U.S. Army</FullName>
+    <SplitName>1st Space Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+        <Id>us/army/1-space-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Brigade</HHQAcronym>
+        <Name>1st Space Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Space Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/1-space-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1-space-co</Url>
+        <FullName>1st Space Company</FullName>
+        <Name>1st Space Company</Name>
+        <Id>us/army/1-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/2-space-co</Url>
+        <FullName>2nd Space Company</FullName>
+        <Name>2nd Space Company</Name>
+        <Id>us/army/2-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/3-space-co</Url>
+        <FullName>3rd Space Company</FullName>
+        <Name>3rd Space Company</Name>
+        <Id>us/army/3-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/4-space-co</Url>
+        <FullName>4th Space Company</FullName>
+        <Name>4th Space Company</Name>
+        <Id>us/army/4-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/5-space-co</Url>
+        <FullName>5th Space Company</FullName>
+        <Name>5th Space Company</Name>
+        <Id>us/army/5-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1-space-bn/hhc</Url>
+    <NameNode>HHC, 1st Space Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Space Bn, U.S. Army</FullName>
+    <SplitName>HHC, 1st Space Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <Id>us/army/1-space-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Space Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1-space-co</Url>
+    <NameNode>1st Space Company
+                            U.S. Army</NameNode>
+    <FullName>1st Space Company, U.S. Army</FullName>
+    <SplitName>1st Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <Id>us/army/1-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Battalion</HHQAcronym>
+        <Name>1st Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/2-space-co</Url>
+    <NameNode>2nd Space Company
+                            U.S. Army</NameNode>
+    <FullName>2nd Space Company, U.S. Army</FullName>
+    <SplitName>2nd Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <Id>us/army/1-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Battalion</HHQAcronym>
+        <Name>1st Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/3-space-co</Url>
+    <NameNode>3rd Space Company
+                            U.S. Army</NameNode>
+    <FullName>3rd Space Company, U.S. Army</FullName>
+    <SplitName>3rd Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <Id>us/army/1-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Battalion</HHQAcronym>
+        <Name>1st Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/4-space-co</Url>
+    <NameNode>4th Space Company
+                            U.S. Army</NameNode>
+    <FullName>4th Space Company, U.S. Army</FullName>
+    <SplitName>4th Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <Id>us/army/1-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Battalion</HHQAcronym>
+        <Name>1st Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/5-space-co</Url>
+    <NameNode>5th Space Company
+                            U.S. Army</NameNode>
+    <FullName>5th Space Company, U.S. Army</FullName>
+    <SplitName>5th Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bn</Url>
+        <Id>us/army/1-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Battalion</HHQAcronym>
+        <Name>1st Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+    <NameNode>117th Space Battalion
+                            U.S. Army</NameNode>
+    <FullName>117th Space Battalion, U.S. Army</FullName>
+    <SplitName>117th Space Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/100-md-bde</Url>
+        <Id>us/army/100-md-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>100th MD Bde</HHQAcronym>
+        <Name>100th Missile Defense Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+        <Id>us/army/1-space-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Brigade</HHQAcronym>
+        <Name>1st Space Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 117th Space Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/117-space-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/217-space-co</Url>
+        <FullName>217th Space Company</FullName>
+        <Name>217th Space Company</Name>
+        <Id>us/army/217-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1158-space-co</Url>
+        <FullName>1158th Space Company</FullName>
+        <Name>1158th Space Company</Name>
+        <Id>us/army/1158-space-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/117-space-bn/hhc</Url>
+    <NameNode>HHC, 117th Space Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 117th Space Bn, U.S. Army</FullName>
+    <SplitName>HHC, 117th Space Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <Id>us/army/117-space-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>117th Space Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>117th Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/217-space-co</Url>
+    <NameNode>217th Space Company
+                            U.S. Army</NameNode>
+    <FullName>217th Space Company, U.S. Army</FullName>
+    <SplitName>217th Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <Id>us/army/117-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th Space Battalion</HHQAcronym>
+        <Name>117th Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1158-space-co</Url>
+    <NameNode>1158th Space Company
+                            U.S. Army</NameNode>
+    <FullName>1158th Space Company, U.S. Army</FullName>
+    <SplitName>1158th Space Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/117-space-bn</Url>
+        <Id>us/army/117-space-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>117th Space Battalion</HHQAcronym>
+        <Name>117th Space Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+    <NameNode>53rd Signal Battalion
+                            U.S. Army</NameNode>
+    <FullName>53rd Signal Battalion, U.S. Army</FullName>
+    <SplitName>53rd Signal Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Newport Road Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/newport-road-facility</Url>
+        <Id>us/co/newport-road-facility</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1-space-bde</Url>
+        <Id>us/army/1-space-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Space Brigade</HHQAcronym>
+        <Name>1st Space Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 53rd Signal Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/53-sc-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn/co-a</Url>
+        <FullName>Company A, 53rd Signal Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/53-sc-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn/co-b</Url>
+        <FullName>Company B, 53rd Signal Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/53-sc-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn/co-c</Url>
+        <FullName>Company C, 53rd Signal Battalion</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/53-sc-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn/co-d</Url>
+        <FullName>Company D, 53rd Signal Battalion</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/53-sc-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn/co-e</Url>
+        <FullName>Company E, 53rd Signal Battalion</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/53-sc-bn/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 53rd SC Bn
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 53rd SC Bn, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 53rd SC Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Schriever Air Force Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colorado Springs, Colorado, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/co/schriever-afb</Url>
+        <Id>us/co/schriever-afb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <Id>us/army/53-sc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>53rd Signal Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>53rd Signal Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn/co-a</Url>
+    <NameNode>Company A, 53rd Signal Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 53rd Signal Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 53rd Signal Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Detrick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Frederick, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/fort-detrick</Url>
+        <Id>us/md/fort-detrick</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <Id>us/army/53-sc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>53rd Signal Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>53rd Signal Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn/co-b</Url>
+    <NameNode>Company B, 53rd Signal Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 53rd Signal Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 53rd Signal Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort George G. Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/fort-george-g-meade</Url>
+        <Id>us/md/fort-george-g-meade</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <Id>us/army/53-sc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>53rd Signal Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>53rd Signal Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn/co-c</Url>
+    <NameNode>Company C, 53rd Signal Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company C, 53rd Signal Battalion, U.S. Army</FullName>
+    <SplitName>Company C, 53rd Signal Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Landstuhl Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Landstuhl, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/landstuhl-ahp</Url>
+        <Id>de/rp/landstuhl-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <Id>us/army/53-sc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>53rd Signal Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>53rd Signal Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn/co-d</Url>
+    <NameNode>Company D, 53rd Signal Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company D, 53rd Signal Battalion, U.S. Army</FullName>
+    <SplitName>Company D, 53rd Signal Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Joint Base Pearl Harbor-Hickam Wahiawa Annex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Pearl Harbor-Hickam | Wahiawa, Oahu, Hawaii, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/hi/jb-pearl-harbor-hickam/wahiawa-annex</Url>
+        <Id>us/hi/jb-pearl-harbor-hickam/wahiawa-annex</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <Id>us/army/53-sc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>53rd Signal Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>53rd Signal Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/53-sc-bn/co-e</Url>
+    <NameNode>Company E, 53rd Signal Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company E, 53rd Signal Battalion, U.S. Army</FullName>
+    <SplitName>Company E, 53rd Signal Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Buckner</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Okinawa, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/jp/fort-buckner</Url>
+        <Id>jp/fort-buckner</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/53-sc-bn</Url>
+        <Id>us/army/53-sc-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>53rd Signal Battalion</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>53rd Signal Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

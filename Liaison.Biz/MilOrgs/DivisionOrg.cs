@@ -27,6 +27,14 @@ namespace Liaison.Biz.MilOrgs
                     sb.Append(Number.Value + " ");
                 }
             }
+            if (this.ServiceTypeIdx==ServiceType.Reserve)
+            {
+                sb.Append("("+Helper.Constants.ShortForm.Reserve+")");
+            }
+            else if (this.ServiceTypeIdx==ServiceType.Volunteer)
+            {
+                sb.Append("(" + Helper.Constants.ShortForm.Volunteer + ") (" + this.USState + ") ");
+            }
             sb.Append(Mission + " ");
             sb.Append(Helper.Constants.LongForm.Division);
             return sb.ToString();
@@ -47,5 +55,7 @@ namespace Liaison.Biz.MilOrgs
         public string Name { get; set; }
 
         public List<ChildOrg> ChildOrgs { get; set; }
+
+        public string USState { get; set; }
     }
 }

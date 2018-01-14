@@ -1,0 +1,4724 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+    <NameNode>Army National Guard Element, JFHQ Maryland
+                            U.S. Army</NameNode>
+    <FullName>Army National Guard Element, JFHQ Maryland, U.S. Army</FullName>
+    <SplitName>Army National Guard Element, JFHQ Maryland</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBNRCBBUk5HIEVMVA.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-md</Url>
+        <Id>us/ng/jfhq-md</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Maryland</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <FullName>Combat Aviation Brigade, 29th Infantry Division</FullName>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+        <Id>us/army/29-id/cab</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <FullName>58th Battlefield Surveillance Brigade</FullName>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+        <Id>us/army/58-bfsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <FullName>58th Troop Command</FullName>
+        <Name>58th Troop Command</Name>
+        <Id>us/army/58-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/70-rgt</Url>
+        <FullName>70th Regiment</FullName>
+        <Name>70th Regiment</Name>
+        <Id>us/army/70-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/32-cst</Url>
+        <FullName>32nd Civil Support Team</FullName>
+        <Name>32nd Civil Support Team</Name>
+        <Id>us/army/32-cst</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-13</Url>
+        <FullName>Detachment 13, Operational Support Airlift Command</FullName>
+        <Name>Detachment 13, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-13</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+    <NameNode>Combat Aviation Brigade, 29th Infantry Division
+                            U.S. Army</NameNode>
+    <FullName>Combat Aviation Brigade, 29th Infantry Division, U.S. Army</FullName>
+    <SplitName>Combat Aviation Brigade, 29th Infantry Division</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUQgMDAyOQ.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/aberdeen-pg</Url>
+        <Id>us/md/aberdeen-pg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id</Url>
+        <Id>us/army/29-id</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>29th Infantry Division</HHQAcronym>
+        <Name>29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, Combat Aviation Brigade, 29th Infantry Division</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/29-id/cab/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <FullName>1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>1st Battalion, 285th Aviation Regiment
+
+                    (AZ ARNG)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/285-avn/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <FullName>8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>8th Battalion, 229th Aviation Regiment
+
+                    (USAR)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/229-avn/8-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <FullName>2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>2nd Battalion, 224th Aviation Regiment
+
+                    (VA ARNG)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/224-avn/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <FullName>1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>1st Battalion, 111th Aviation Regiment
+
+                    (FL ARNG)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/111-avn/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+        <FullName>1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>1st Battalion, 224th Aviation Regiment</Name>
+        <Id>us/army/224-avn/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1100-tasmg</Url>
+        <FullName>1100th Theater Aviation Sustainment Maintenance Group</FullName>
+        <Name>1100th Theater Aviation Sustainment Maintenance Group</Name>
+        <Id>us/army/1100-tasmg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/29-id/cab/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, CAB, 29th ID
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, CAB, 29th ID, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, CAB, 29th ID</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUQgMDAyOQ.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/aberdeen-pg</Url>
+        <Id>us/md/aberdeen-pg</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+    <NameNode>1st Battalion, 285th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 285th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 285th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Silverbell Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/silverbell-ahp</Url>
+        <Id>us/az/silverbell-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/98-avn-trp-cmd</Url>
+        <Id>us/army/98-avn-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>98th Avn Trp Cmd</HHQAcronym>
+        <Name>98th Aviation Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/285-avn/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/285-avn/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/285-avn/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/285-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/285-avn/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-e</Url>
+        <FullName>Company E, 1st Battalion, 285th Aviation Regiment</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/285-avn/1-bn/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/140-avn/3-bn/co-c/det-1</Url>
+        <FullName>Detachment 1, Company C, 3rd Battalion, 140th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company C, 3rd Battalion, 140th Aviation Regiment</Name>
+        <Id>us/army/140-avn/3-bn/co-c/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/640-asb/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 640th Aviation Support Battalion</FullName>
+        <Name>Detachment 1, Company B, 640th Aviation Support Battalion</Name>
+        <Id>us/army/640-asb/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 285th AVN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 285th AVN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 285th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Silverbell Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/silverbell-ahp</Url>
+        <Id>us/az/silverbell-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 285th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 285th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 285th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arizona Army National Guard Army Aviation Support Facility #2</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Silverbell AHP | Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/az-arng-aasf-2</Url>
+        <Id>us/az/az-arng-aasf-2</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 285th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 285th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 285th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arizona Army National Guard Army Aviation Support Facility #2</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Silverbell AHP | Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/az-arng-aasf-2</Url>
+        <Id>us/az/az-arng-aasf-2</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 285th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 285th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 285th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arizona Army National Guard Army Aviation Support Facility #2</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Silverbell AHP | Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/az-arng-aasf-2</Url>
+        <Id>us/az/az-arng-aasf-2</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 285th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 285th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 285th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Silverbell Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/silverbell-ahp</Url>
+        <Id>us/az/silverbell-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/285-avn/1-bn/co-e</Url>
+    <NameNode>Company E, 1st Battalion, 285th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company E, 1st Battalion, 285th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company E, 1st Battalion, 285th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Silverbell Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/silverbell-ahp</Url>
+        <Id>us/az/silverbell-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/140-avn/3-bn/co-c/det-1</Url>
+    <NameNode>Detachment 1, Company C, 3rd Battalion, 140th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company C, 3rd Battalion, 140th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company C, 3rd Battalion, 140th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Arizona Army National Guard Army Aviation Support Facility #2</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Silverbell AHP | Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/az-arng-aasf-2</Url>
+        <Id>us/az/az-arng-aasf-2</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/140-avn/3-bn/co-c</Url>
+        <Id>us/army/140-avn/3-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 3rd Bn, 140th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 3rd Battalion, 140th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/640-asb/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 640th ASB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 640th ASB, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 640th ASB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Silverbell Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marana, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/silverbell-ahp</Url>
+        <Id>us/az/silverbell-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/285-avn/1-bn</Url>
+        <Id>us/army/285-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 285th AVN</HHQAcronym>
+        <Name>1st Battalion, 285th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/640-asb/co-b</Url>
+        <Id>us/army/640-asb/co-b</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company B, 640th ASB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 640th Aviation Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+    <NameNode>8th Battalion, 229th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>8th Battalion, 229th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>8th Battalion, 229th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/11-avn-cmd</Url>
+        <Id>us/army/11-avn-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>11th Aviation Command</HHQAcronym>
+        <Name>11th Aviation Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/229-avn/8-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-a</Url>
+        <FullName>Company A, 8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/229-avn/8-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-b</Url>
+        <FullName>Company B, 8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/229-avn/8-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-c</Url>
+        <FullName>Company C, 8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/229-avn/8-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-d</Url>
+        <FullName>Company D, 8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/229-avn/8-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-e</Url>
+        <FullName>Company E, 8th Battalion, 229th Aviation Regiment</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/229-avn/8-bn/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn/hhc</Url>
+    <NameNode>HHC, 8th Bn, 229th AVN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 8th Bn, 229th AVN, U.S. Army</FullName>
+    <SplitName>HHC, 8th Bn, 229th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <Id>us/army/229-avn/8-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>8th Battalion, 229th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>8th Battalion, 229th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-a</Url>
+    <NameNode>Company A, 8th Battalion, 229th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 8th Battalion, 229th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 8th Battalion, 229th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <Id>us/army/229-avn/8-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>8th Battalion, 229th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>8th Battalion, 229th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-b</Url>
+    <NameNode>Company B, 8th Battalion, 229th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 8th Battalion, 229th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 8th Battalion, 229th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <Id>us/army/229-avn/8-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>8th Battalion, 229th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>8th Battalion, 229th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-c</Url>
+    <NameNode>Company C, 8th Battalion, 229th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 8th Battalion, 229th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 8th Battalion, 229th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <Id>us/army/229-avn/8-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>8th Battalion, 229th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>8th Battalion, 229th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-d</Url>
+    <NameNode>Company D, 8th Battalion, 229th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 8th Battalion, 229th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 8th Battalion, 229th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <Id>us/army/229-avn/8-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>8th Battalion, 229th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>8th Battalion, 229th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-avn/8-bn/co-e</Url>
+    <NameNode>Company E, 8th Battalion, 229th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company E, 8th Battalion, 229th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company E, 8th Battalion, 229th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radcliff, Kentucky, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ky/fort-knox</Url>
+        <Id>us/ky/fort-knox</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/229-avn/8-bn</Url>
+        <Id>us/army/229-avn/8-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>8th Battalion, 229th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>8th Battalion, 229th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+    <NameNode>2nd Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/91-trp-cmd</Url>
+        <Id>us/army/91-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>91st Troop Command</HHQAcronym>
+        <Name>91st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/224-avn/2-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-a</Url>
+        <FullName>Company A, 2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/224-avn/2-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-b</Url>
+        <FullName>Company B, 2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/224-avn/2-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-c</Url>
+        <FullName>Company C, 2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company C
+
+                    (MD ARNG)</Name>
+        <Id>us/army/224-avn/2-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-d</Url>
+        <FullName>Company D, 2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/224-avn/2-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-e</Url>
+        <FullName>Company E, 2nd Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/224-avn/2-bn/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-avn/2-bn/co-a/det-1</Url>
+        <FullName>Detachment 1, Company A, 2nd Battalion, 151st Aviation Regiment</FullName>
+        <Name>Detachment 1, Company A, 2nd Battalion, 151st Aviation Regiment</Name>
+        <Id>us/army/151-avn/2-bn/co-a/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn/hhc</Url>
+    <NameNode>HHC, 2nd Bn, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 2nd Bn, 224th AVN, U.S. Army</FullName>
+    <SplitName>HHC, 2nd Bn, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-a</Url>
+    <NameNode>Company A, 2nd Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 2nd Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 2nd Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-b</Url>
+    <NameNode>Company B, 2nd Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 2nd Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 2nd Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-c</Url>
+    <NameNode>Company C, 2nd Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 2nd Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 2nd Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Edward J. Weide Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen PG Edgewood Area | Aberdeen PG | Edgewood, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/edward-j-weide-ahp</Url>
+        <Id>us/md/edward-j-weide-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-d</Url>
+    <NameNode>Company D, 2nd Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 2nd Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 2nd Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/2-bn/co-e</Url>
+    <NameNode>Company E, 2nd Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company E, 2nd Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company E, 2nd Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-avn/2-bn/co-a/det-1</Url>
+    <NameNode>Detachment 1, Company A, 2nd Battalion, 151st AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company A, 2nd Battalion, 151st AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company A, 2nd Battalion, 151st AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sandston Army National Guard Aviation Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sandston, Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/sandston-arng-avn-cplx</Url>
+        <Id>us/va/sandston-arng-avn-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/2-bn</Url>
+        <Id>us/army/224-avn/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 224th AVN</HHQAcronym>
+        <Name>2nd Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-avn/2-bn/co-a</Url>
+        <Id>us/army/151-avn/2-bn/co-a</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co A, 2nd Bn, 151st AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 2nd Battalion, 151st Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+    <NameNode>1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/83-trp-cmd</Url>
+        <Id>us/army/83-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>83rd Troop Command</HHQAcronym>
+        <Name>83rd Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/111-avn/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company A
+
+                    (PR ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company B
+
+                    (MS ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/111-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company D</Name>
+        <Id>us/army/111-avn/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e</Url>
+        <FullName>Company E, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company E</Name>
+        <Id>us/army/111-avn/1-bn/co-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-f</Url>
+        <FullName>Company F, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Company F
+
+                    (MD ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-f</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 244th Aviation Regiment</FullName>
+        <Name>Company C, 1st Battalion, 244th Aviation Regiment</Name>
+        <Id>us/army/244-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 111th AVN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc/det-3</Url>
+        <FullName>Detachment 3, Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 3
+
+                    (GA ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/hhc/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc/det-7</Url>
+        <FullName>Detachment 7, Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 7
+
+                    (MS ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/hhc/det-7</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc/det-3</Url>
+    <NameNode>Detachment 3, HHC, 1st Bn, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, HHC, 1st Bn, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 3, HHC, 1st Bn, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>GEN Lucius D. Clay National Guard Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marietta, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/gen-lucius-d-clay-ng-ctr</Url>
+        <Id>us/ga/gen-lucius-d-clay-ng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc</Url>
+        <Id>us/army/111-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>GA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc/det-7</Url>
+    <NameNode>Detachment 7, HHC, 1st Bn, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 7, HHC, 1st Bn, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 7, HHC, 1st Bn, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc</Url>
+        <Id>us/army/111-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Puerto Rico Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Juan, Puerto Rico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pr/pr-arng-aasf</Url>
+        <Id>us/pr/pr-arng-aasf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/101-trp-cmd</Url>
+        <Id>us/army/101-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>101st Troop Command</HHQAcronym>
+        <Name>101st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>PR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (FL ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc/det-7</Url>
+        <FullName>Detachment 7, Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 7, Headquarters and Headquarters Company</Name>
+        <Id>us/army/111-avn/1-bn/hhc/det-7</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company D</Name>
+        <Id>us/army/111-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e/det-2</Url>
+        <FullName>Detachment 2, Company E, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 2, Company E</Name>
+        <Id>us/army/111-avn/1-bn/co-e/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Florida Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cecil Field Armory | Jacksonville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/fl-arng-aasf-1</Url>
+        <Id>us/fl/fl-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc/det-7</Url>
+    <NameNode>Detachment 7, HHC, 1st Bn, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 7, HHC, 1st Bn, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 7, HHC, 1st Bn, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/hhc</Url>
+        <Id>us/army/111-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d</Url>
+        <Id>us/army/111-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e/det-2</Url>
+    <NameNode>Detachment 2, Company E, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company E, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company E, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e</Url>
+        <Id>us/army/111-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Florida Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cecil Field Armory | Jacksonville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/fl-arng-aasf-1</Url>
+        <Id>us/fl/fl-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-c/det-1</Url>
+        <FullName>Detachment 1, Company C, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (GA ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-c/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-c/det-1</Url>
+    <NameNode>Detachment 1, Company C, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company C, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company C, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>GEN Lucius D. Clay National Guard Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marietta, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/gen-lucius-d-clay-ng-ctr</Url>
+        <Id>us/ga/gen-lucius-d-clay-ng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-c</Url>
+        <Id>us/army/111-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>GA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d/det-2</Url>
+        <FullName>Detachment 2, Company D, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (MS ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-d/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d/det-3</Url>
+        <FullName>Detachment 3, Company D, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 3
+
+                    (GA ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-d/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d/det-2</Url>
+    <NameNode>Detachment 2, Company D, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company D, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company D, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d</Url>
+        <Id>us/army/111-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d/det-3</Url>
+    <NameNode>Detachment 3, Company D, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, Company D, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 3, Company D, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>GEN Lucius D. Clay National Guard Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marietta, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/gen-lucius-d-clay-ng-ctr</Url>
+        <Id>us/ga/gen-lucius-d-clay-ng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-d</Url>
+        <Id>us/army/111-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>GA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e</Url>
+    <NameNode>Company E, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company E, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company E, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e/det-2</Url>
+        <FullName>Detachment 2, Company E, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (MS ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-e/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e/det-3</Url>
+        <FullName>Detachment 3, Company E, 1st Battalion, 111th Aviation Regiment</FullName>
+        <Name>Detachment 3
+
+                    (GA ARNG)</Name>
+        <Id>us/army/111-avn/1-bn/co-e/det-3</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e/det-2</Url>
+    <NameNode>Detachment 2, Company E, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company E, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company E, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>G.V. &amp;#039;Sonny&amp;#039; Montgomery National Guard Complex</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Meridian, Mississippi, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ms/gv-sonny-montgomery-ng-cplx</Url>
+        <Id>us/ms/gv-sonny-montgomery-ng-cplx</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-b</Url>
+        <Id>us/army/111-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 111th AVN</HHQAcronym>
+        <Name>Company B, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e</Url>
+        <Id>us/army/111-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MS</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e/det-3</Url>
+    <NameNode>Detachment 3, Company E, 1st Battalion, 111th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, Company E, 1st Battalion, 111th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 3, Company E, 1st Battalion, 111th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>GEN Lucius D. Clay National Guard Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marietta, Georgia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ga/gen-lucius-d-clay-ng-ctr</Url>
+        <Id>us/ga/gen-lucius-d-clay-ng-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-e</Url>
+        <Id>us/army/111-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 111th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>GA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/111-avn/1-bn/co-f</Url>
+    <NameNode>Company F, 1st Battalion, 111th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company F, 1st Battalion, 111th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company F, 1st Battalion, 111th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Aberdeen Proving Ground Edgewood Area</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen PG | Edgewood, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/aberdeen-pg/edgewood-area</Url>
+        <Id>us/md/aberdeen-pg/edgewood-area</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 244th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 244th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 244th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brooksville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brooksville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/brooksville-armory</Url>
+        <Id>us/fl/brooksville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/111-avn/1-bn</Url>
+        <Id>us/army/111-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 111th AVN</HHQAcronym>
+        <Name>1st Battalion, 111th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn</Url>
+        <Id>us/army/244-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 244th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/hhc/det-1</Url>
+        <FullName>Detachment 1, Headquarters and Headquarters Company, 1st Battalion, 244th Aviation Regiment</FullName>
+        <Name>Detachment 1, Headquarters and Headquarters Company</Name>
+        <Id>us/army/244-avn/1-bn/hhc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 1st Battalion, 244th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company D</Name>
+        <Id>us/army/244-avn/1-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-e/det-1</Url>
+        <FullName>Detachment 1, Company E, 1st Battalion, 244th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company E</Name>
+        <Id>us/army/244-avn/1-bn/co-e/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/244-avn/1-bn/hhc/det-1</Url>
+    <NameNode>Detachment 1, HHC, 1st Bn, 244th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, HHC, 1st Bn, 244th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, HHC, 1st Bn, 244th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brooksville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brooksville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/brooksville-armory</Url>
+        <Id>us/fl/brooksville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-c</Url>
+        <Id>us/army/244-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 244th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/hhc</Url>
+        <Id>us/army/244-avn/1-bn/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, 1st Bn, 244th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Headquarters and Headquarters Company, 1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 1st Battalion, 244th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 1st Battalion, 244th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 1st Battalion, 244th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brooksville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brooksville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/brooksville-armory</Url>
+        <Id>us/fl/brooksville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-c</Url>
+        <Id>us/army/244-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 244th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-d</Url>
+        <Id>us/army/244-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 244th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-e/det-1</Url>
+    <NameNode>Detachment 1, Company E, 1st Battalion, 244th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company E, 1st Battalion, 244th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company E, 1st Battalion, 244th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Brooksville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brooksville, Florida, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/fl/brooksville-armory</Url>
+        <Id>us/fl/brooksville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-c</Url>
+        <Id>us/army/244-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 244th AVN</HHQAcronym>
+        <Name>Company C, 1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/244-avn/1-bn/co-e</Url>
+        <Id>us/army/244-avn/1-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 1st Bn, 244th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 1st Battalion, 244th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>FL</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+    <NameNode>1st Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Aberdeen Proving Ground Edgewood Area</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen PG | Edgewood, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/aberdeen-pg/edgewood-area</Url>
+        <Id>us/md/aberdeen-pg/edgewood-area</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-id/cab</Url>
+        <Id>us/army/42-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 42nd ID</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Combat Aviation Brigade, 42nd Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/224-avn/1-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a</Url>
+        <FullName>Company A, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/224-avn/1-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b</Url>
+        <FullName>Company B, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company B
+
+                    (TN ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c</Url>
+        <FullName>Company C, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company C
+
+                    (NJ ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d</Url>
+        <FullName>Company D, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Company D
+
+                    (DC ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-d</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/hhc</Url>
+    <NameNode>HHC, 1st Bn, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>HHC, 1st Bn, 224th AVN, U.S. Army</FullName>
+    <SplitName>HHC, 1st Bn, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Aberdeen Proving Ground Edgewood Area</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen PG | Edgewood, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/aberdeen-pg/edgewood-area</Url>
+        <Id>us/md/aberdeen-pg/edgewood-area</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+        <Id>us/army/224-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a</Url>
+    <NameNode>Company A, 1st Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company A, 1st Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company A, 1st Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Edward J. Weide Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen PG Edgewood Area | Aberdeen PG | Edgewood, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/edward-j-weide-ahp</Url>
+        <Id>us/md/edward-j-weide-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+        <Id>us/army/224-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a/det-1</Url>
+        <FullName>Detachment 1, Company A, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (NY ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-a/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a/det-2</Url>
+        <FullName>Detachment 2, Company A, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (VT ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-a/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a/det-1</Url>
+    <NameNode>Detachment 1, Company A, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company A, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company A, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New York Army National Guard Army Aviation Support Facility #3</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NY DMNA HQ | Latham, New York, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ny/ny-arng-aasf-3</Url>
+        <Id>us/ny/ny-arng-aasf-3</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/42-id/cab/hhc</Url>
+        <Id>us/army/42-id/cab/hhc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>HHC, CAB, 42nd ID</HHQAcronym>
+        <Name>Headquarters and Headquarters Company, Combat Aviation Brigade, 42nd Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a</Url>
+        <Id>us/army/224-avn/1-bn/co-a</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co A, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>NY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a/det-2</Url>
+    <NameNode>Detachment 2, Company A, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company A, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company A, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vermont Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/vt-arng-aasf/new</Url>
+        <Id>us/vt/vt-arng-aasf/new</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/86-trp-cmd</Url>
+        <Id>us/army/86-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>86th Troop Command</HHQAcronym>
+        <Name>86th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-a</Url>
+        <Id>us/army/224-avn/1-bn/co-a</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co A, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VT</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b</Url>
+    <NameNode>Company B, 1st Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company B, 1st Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company B, 1st Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tennessee Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VTS Smyrna | Smyrna, Tennessee, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/tn/tn-arng-aasf-1/old</Url>
+        <Id>us/tn/tn-arng-aasf-1/old</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/230-cav/1-sqdn</Url>
+        <Id>us/army/230-cav/1-sqdn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Squadron, 230th CAV</HHQAcronym>
+        <Name>1st Squadron, 230th Cavalry Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+        <Id>us/army/224-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (DC ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b/det-2</Url>
+        <FullName>Detachment 2, Company B, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (PA ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-b/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>TN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davison Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir | Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/davison-aaf</Url>
+        <Id>us/va/davison-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d</Url>
+        <Id>us/army/224-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 224th AVN</HHQAcronym>
+        <Name>Company D, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b</Url>
+        <Id>us/army/224-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>DC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b/det-2</Url>
+    <NameNode>Detachment 2, Company B, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company B, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company B, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Indiantown Gap</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annville, Pennsylvania, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/pa/fort-indiantown-gap</Url>
+        <Id>us/pa/fort-indiantown-gap</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b</Url>
+        <Id>us/army/224-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>PA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c</Url>
+    <NameNode>Company C, 1st Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 1st Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 1st Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>New Jersey Army National Guard Army Aviation Support Facility #1</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Trenton, New Jersey, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/nj/nj-arng-aasf-1</Url>
+        <Id>us/nj/nj-arng-aasf-1</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+        <Id>us/army/224-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c/det-1</Url>
+        <FullName>Detachment 1, Company C, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (MA ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-c/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c/det-2</Url>
+        <FullName>Detachment 2, Company C, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 2
+
+                    (ME ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-c/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>NJ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c/det-1</Url>
+    <NameNode>Detachment 1, Company C, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company C, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company C, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Barnes Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westfield, Massachusetts, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ma/barnes-angb</Url>
+        <Id>us/ma/barnes-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c</Url>
+        <Id>us/army/224-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MA</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c/det-2</Url>
+    <NameNode>Detachment 2, Company C, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company C, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company C, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Maine Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bangor Armory | Bangor, Maine, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/me/me-arng-aasf</Url>
+        <Id>us/me/me-arng-aasf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-c</Url>
+        <Id>us/army/224-avn/1-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>ME</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d</Url>
+    <NameNode>Company D, 1st Battalion, 224th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company D, 1st Battalion, 224th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company D, 1st Battalion, 224th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davison Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir | Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/davison-aaf</Url>
+        <Id>us/va/davison-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn</Url>
+        <Id>us/army/224-avn/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 224th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (VT ARNG)</Name>
+        <Id>us/army/224-avn/1-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b/det-1</Url>
+        <FullName>Detachment 1, Company B, 1st Battalion, 224th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company B</Name>
+        <Id>us/army/224-avn/1-bn/co-b/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>DC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Vermont Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vermont, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/vt/vt-arng-aasf/new</Url>
+        <Id>us/vt/vt-arng-aasf/new</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/86-trp-cmd</Url>
+        <Id>us/army/86-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>86th Troop Command</HHQAcronym>
+        <Name>86th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d</Url>
+        <Id>us/army/224-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>VT</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b/det-1</Url>
+    <NameNode>Detachment 1, Company B, 1st Battalion, 224th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company B, 1st Battalion, 224th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company B, 1st Battalion, 224th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Davison Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir | Virginia, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/va/davison-aaf</Url>
+        <Id>us/va/davison-aaf</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-d</Url>
+        <Id>us/army/224-avn/1-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 1st Bn, 224th AVN</HHQAcronym>
+        <Name>Company D, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/224-avn/1-bn/co-b</Url>
+        <Id>us/army/224-avn/1-bn/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co B, 1st Bn, 224th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 1st Battalion, 224th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>DC</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1100-tasmg</Url>
+    <NameNode>1100th TASMG
+                            U.S. Army</NameNode>
+    <FullName>1100th TASMG, U.S. Army</FullName>
+    <SplitName>1100th TASMG</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Warren D. Hodges Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Edward J. Weide AHP | Aberdeen PG Edgewood Area | Aberdeen PG | Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-warren-d-hodges-armory</Url>
+        <Id>us/md/mg-warren-d-hodges-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-id/cab</Url>
+        <Id>us/army/29-id/cab</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>CAB, 29th ID</HHQAcronym>
+        <Name>Combat Aviation Brigade, 29th Infantry Division</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1100-tasmg/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1100th Theater Aviation Sustainment Maintenance Group</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1100-tasmg/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1100-tasmg/hhd</Url>
+    <NameNode>HHD, 1100th TASMG
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1100th TASMG, U.S. Army</FullName>
+    <SplitName>HHD, 1100th TASMG</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Warren D. Hodges Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Edward J. Weide AHP | Aberdeen PG Edgewood Area | Aberdeen PG | Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-warren-d-hodges-armory</Url>
+        <Id>us/md/mg-warren-d-hodges-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1100-tasmg</Url>
+        <Id>us/army/1100-tasmg</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1100th TASMG</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1100th Theater Aviation Sustainment Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+    <NameNode>58th Battlefield Surveillance Brigade
+                            U.S. Army</NameNode>
+    <FullName>58th Battlefield Surveillance Brigade, U.S. Army</FullName>
+    <SplitName>58th Battlefield Surveillance Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQkZTQiAwMDU4.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Harry C. Ruhl Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Towson, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-harry-c-ruhl-armory</Url>
+        <Id>us/md/mg-harry-c-ruhl-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 58th Battlefield Surveillance Brigade</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/58-bfsb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/158-cav/1-sqdn</Url>
+        <FullName>1st Squadron, 158th Cavalry Regiment</FullName>
+        <Name>1st Squadron, 158th Cavalry Regiment</Name>
+        <Id>us/army/158-cav/1-sqdn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn</Url>
+        <FullName>325th Military Intelligence Battalion</FullName>
+        <Name>325th Military Intelligence Battalion
+
+                    (USAR)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/325-mi-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/629-sc-co</Url>
+        <FullName>629th Signal Company</FullName>
+        <Name>629th Signal Company</Name>
+        <Id>us/army/629-sc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/729-bsc</Url>
+        <FullName>729th Brigade Support Company</FullName>
+        <Name>729th Brigade Support Company</Name>
+        <Id>us/army/729-bsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/110-io-bn</Url>
+        <FullName>110th Information Operations Battalion</FullName>
+        <Name>110th Information Operations Battalion</Name>
+        <Id>us/army/110-io-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/58-bfsb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 58th BfSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 58th BfSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 58th BfSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Harry C. Ruhl Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Towson, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-harry-c-ruhl-armory</Url>
+        <Id>us/md/mg-harry-c-ruhl-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <Id>us/army/58-bfsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>58th BfSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/158-cav/1-sqdn</Url>
+    <NameNode>1st Squadron, 158th Cavalry Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Squadron, 158th Cavalry Regiment, U.S. Army</FullName>
+    <SplitName>1st Squadron, 158th Cavalry Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>LTC E. Leslie Medford Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Annapolis, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/ltc-e-leslie-medford-armory</Url>
+        <Id>us/md/ltc-e-leslie-medford-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <Id>us/army/58-bfsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th BfSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/325-mi-bn</Url>
+    <NameNode>325th Military Intelligence Battalion
+                            U.S. Army</NameNode>
+    <FullName>325th Military Intelligence Battalion, U.S. Army</FullName>
+    <SplitName>325th Military Intelligence Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG John W. Middleton United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Windsor, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bg-john-w-middleton-usarc</Url>
+        <Id>us/ct/bg-john-w-middleton-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <Id>us/army/58-bfsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th BfSB</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 325th Military Intelligence Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/325-mi-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn/co-a</Url>
+        <FullName>Company A, 325th Military Intelligence Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/325-mi-bn/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn/co-b</Url>
+        <FullName>Company B, 325th Military Intelligence Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/325-mi-bn/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn/co-c</Url>
+        <FullName>Company C, 325th Military Intelligence Battalion</FullName>
+        <Name>Company C</Name>
+        <Id>us/army/325-mi-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/325-mi-bn/hhc</Url>
+    <NameNode>HHC, 325th MI Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 325th MI Bn, U.S. Army</FullName>
+    <SplitName>HHC, 325th MI Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG John W. Middleton United States Army Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>East Windsor, Connecticut, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ct/bg-john-w-middleton-usarc</Url>
+        <Id>us/ct/bg-john-w-middleton-usarc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn</Url>
+        <Id>us/army/325-mi-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>325th MI Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>325th Military Intelligence Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/325-mi-bn/co-a</Url>
+    <NameNode>Company A, 325th Military Intelligence Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 325th Military Intelligence Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 325th Military Intelligence Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn</Url>
+        <Id>us/army/325-mi-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>325th MI Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>325th Military Intelligence Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/325-mi-bn/co-b</Url>
+    <NameNode>Company B, 325th Military Intelligence Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 325th Military Intelligence Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 325th Military Intelligence Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn</Url>
+        <Id>us/army/325-mi-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>325th MI Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>325th Military Intelligence Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/325-mi-bn/co-c</Url>
+    <NameNode>Company C, 325th Military Intelligence Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company C, 325th Military Intelligence Battalion, U.S. Army</FullName>
+    <SplitName>Company C, 325th Military Intelligence Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/325-mi-bn</Url>
+        <Id>us/army/325-mi-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>325th MI Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>325th Military Intelligence Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Reserve</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/629-sc-co</Url>
+    <NameNode>629th Signal Company
+                            U.S. Army</NameNode>
+    <FullName>629th Signal Company, U.S. Army</FullName>
+    <SplitName>629th Signal Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>1st Regiment Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Glen Burnie, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/1st-regiment-armory</Url>
+        <Id>us/md/1st-regiment-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <Id>us/army/58-bfsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th BfSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/729-bsc</Url>
+    <NameNode>729th Brigade Support Company
+                            U.S. Army</NameNode>
+    <FullName>729th Brigade Support Company, U.S. Army</FullName>
+    <SplitName>729th Brigade Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG Thomas B. Baker Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ellicott City, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/bg-thomas-b-baker-armory</Url>
+        <Id>us/md/bg-thomas-b-baker-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <Id>us/army/58-bfsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th BfSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/729-bsc/det-1</Url>
+        <FullName>Detachment 1, 729th Brigade Support Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/729-bsc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/729-bsc/det-1</Url>
+    <NameNode>Detachment 1, 729th Brigade Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 729th Brigade Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 729th Brigade Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG Louis G. Smith Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Easton, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/bg-louis-g-smith-armory</Url>
+        <Id>us/md/bg-louis-g-smith-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/729-bsc</Url>
+        <Id>us/army/729-bsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>729th BSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>729th Brigade Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/110-io-bn</Url>
+    <NameNode>110th Information Operations Battalion
+                            U.S. Army</NameNode>
+    <FullName>110th Information Operations Battalion, U.S. Army</FullName>
+    <SplitName>110th Information Operations Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>PVT Henry Costin Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Laurel, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/pvt-henry-costin-armory</Url>
+        <Id>us/md/pvt-henry-costin-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-bfsb</Url>
+        <Id>us/army/58-bfsb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th BfSB</HHQAcronym>
+        <Name>58th Battlefield Surveillance Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/56-tiog</Url>
+        <Id>us/army/56-tiog</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>56th TIOG</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>56th Theater Information Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+    <NameNode>58th Troop Command
+                            U.S. Army</NameNode>
+    <FullName>58th Troop Command, U.S. Army</FullName>
+    <SplitName>58th Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Adelphi Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Adelphi Laboratory Ctr | Adelphi, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/adelphi-readiness-ctr</Url>
+        <Id>us/md/adelphi-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 58th Troop Command</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/58-trp-cmd/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/291-dld</Url>
+        <FullName>291st Digital Liaison Detachment</FullName>
+        <Name>291st Digital Liaison Detachment</Name>
+        <Id>us/army/291-dld</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/sod-j</Url>
+        <FullName>Special Operations Detachment - Joint</FullName>
+        <Name>Special Operations Detachment - Joint</Name>
+        <Id>us/army/sod-j</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+        <FullName>581st Troop Command</FullName>
+        <Name>581st Troop Command</Name>
+        <Id>us/army/581-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-mp-bn</Url>
+        <FullName>115th Military Police Battalion</FullName>
+        <Name>115th Military Police Battalion</Name>
+        <Id>us/army/115-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <FullName>1297th Combat Sustainment Support Battalion</FullName>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+        <Id>us/army/1297-cssb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/58-trp-cmd/hhd</Url>
+    <NameNode>HHD, 58th Trp Cmd
+                            U.S. Army</NameNode>
+    <FullName>HHD, 58th Trp Cmd, U.S. Army</FullName>
+    <SplitName>HHD, 58th Trp Cmd</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <Id>us/army/58-trp-cmd</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>58th Troop Command</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>58th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/291-dld</Url>
+    <NameNode>291st Digital Liaison Detachment
+                            U.S. Army</NameNode>
+    <FullName>291st Digital Liaison Detachment, U.S. Army</FullName>
+    <SplitName>291st Digital Liaison Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Adelphi Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Adelphi Laboratory Ctr | Adelphi, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/adelphi-readiness-ctr</Url>
+        <Id>us/md/adelphi-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <Id>us/army/58-trp-cmd</Id>
+        <DateRange>2014 - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th Troop Command</HHQAcronym>
+        <Name>58th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - 2014</DateRange>
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/sod-j</Url>
+    <NameNode>Special Operations Detachment - Joint
+                            U.S. Army</NameNode>
+    <FullName>Special Operations Detachment - Joint, U.S. Army</FullName>
+    <SplitName>Special Operations Detachment - Joint</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>PVT Henry Costin Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Laurel, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/pvt-henry-costin-armory</Url>
+        <Id>us/md/pvt-henry-costin-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <Id>us/army/58-trp-cmd</Id>
+        <DateRange>2014 - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th Troop Command</HHQAcronym>
+        <Name>58th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - 2014</DateRange>
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+    <NameNode>581st Troop Command
+                            U.S. Army</NameNode>
+    <FullName>581st Troop Command, U.S. Army</FullName>
+    <SplitName>581st Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG Randolph Millholland Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hagerstown, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/bg-randolph-millholland-armory</Url>
+        <Id>us/md/bg-randolph-millholland-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <Id>us/army/58-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th Troop Command</HHQAcronym>
+        <Name>58th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 581st Troop Command</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/581-trp-cmd/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/244-engr-co</Url>
+        <FullName>244th Engineer Company</FullName>
+        <Name>244th Engineer Company</Name>
+        <Id>us/army/244-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/231-cm-co</Url>
+        <FullName>231st Chemical Company</FullName>
+        <Name>231st Chemical Company</Name>
+        <Id>us/army/231-cm-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/253-engr-co</Url>
+        <FullName>253rd Engineer Company</FullName>
+        <Name>253rd Engineer Company</Name>
+        <Id>us/army/253-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/229-army-band</Url>
+        <FullName>229th Army Band</FullName>
+        <Name>229th Army Band</Name>
+        <Id>us/army/229-army-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/581-trp-cmd/hhd</Url>
+    <NameNode>HHD, 581st Trp Cmd
+                            U.S. Army</NameNode>
+    <FullName>HHD, 581st Trp Cmd, U.S. Army</FullName>
+    <SplitName>HHD, 581st Trp Cmd</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG Randolph Millholland Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hagerstown, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/bg-randolph-millholland-armory</Url>
+        <Id>us/md/bg-randolph-millholland-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+        <Id>us/army/581-trp-cmd</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>581st Troop Command</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>581st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/244-engr-co</Url>
+    <NameNode>244th Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>244th Engineer Company, U.S. Army</FullName>
+    <SplitName>244th Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>LTC Melvin H. Cade Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/ltc-melvin-h-cade-armory</Url>
+        <Id>us/md/ltc-melvin-h-cade-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+        <Id>us/army/581-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>581st Troop Command</HHQAcronym>
+        <Name>581st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/231-cm-co</Url>
+    <NameNode>231st Chemical Company
+                            U.S. Army</NameNode>
+    <FullName>231st Chemical Company, U.S. Army</FullName>
+    <SplitName>231st Chemical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG John R. Kenly Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Greenbelt, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-john-r-kenly-armory</Url>
+        <Id>us/md/mg-john-r-kenly-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+        <Id>us/army/581-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>581st Troop Command</HHQAcronym>
+        <Name>581st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/253-engr-co</Url>
+    <NameNode>253rd Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>253rd Engineer Company, U.S. Army</FullName>
+    <SplitName>253rd Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>BG William Smallwood Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>La Plata, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/bg-william-smallwood-armory</Url>
+        <Id>us/md/bg-william-smallwood-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+        <Id>us/army/581-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>581st Troop Command</HHQAcronym>
+        <Name>581st Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/229-army-band</Url>
+    <NameNode>229th Army Band
+                            U.S. Army</NameNode>
+    <FullName>229th Army Band, U.S. Army</FullName>
+    <SplitName>229th Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>CW4 Melvin Sherr Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parkville, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/cw4-melvin-sherr-armory</Url>
+        <Id>us/md/cw4-melvin-sherr-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/581-trp-cmd</Url>
+        <Id>us/army/581-trp-cmd</Id>
+        <DateRange>2014 - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>581st Troop Command</HHQAcronym>
+        <Name>581st Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - 2014</DateRange>
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-mp-bn</Url>
+    <NameNode>115th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>115th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>115th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Forward Operating Base Walton</BaseName>
+        <Deployment>true</Deployment>
+        <Location />
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/af/kan/fob-walton</Url>
+        <Id>af/kan/fob-walton</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>CSM Blair Lee Crockett Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salisbury, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/csm-blair-lee-crockett-armory</Url>
+        <Id>us/md/csm-blair-lee-crockett-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <Id>us/army/58-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th Troop Command</HHQAcronym>
+        <Name>58th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-mp-bn/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 115th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/115-mp-bn/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/29-mp-co</Url>
+        <FullName>29th Military Police Company</FullName>
+        <Name>29th Military Police Company</Name>
+        <Id>us/army/29-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/200-mp-co</Url>
+        <FullName>200th Military Police Company</FullName>
+        <Name>200th Military Police Company</Name>
+        <Id>us/army/200-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/290-mp-co</Url>
+        <FullName>290th Military Police Company</FullName>
+        <Name>290th Military Police Company</Name>
+        <Id>us/army/290-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-mp-bn/hhd</Url>
+    <NameNode>HHD, 115th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHD, 115th MP Bn, U.S. Army</FullName>
+    <SplitName>HHD, 115th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Forward Operating Base Walton</BaseName>
+        <Deployment>true</Deployment>
+        <Location />
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/af/kan/fob-walton</Url>
+        <Id>af/kan/fob-walton</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>CSM Blair Lee Crockett Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salisbury, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/csm-blair-lee-crockett-armory</Url>
+        <Id>us/md/csm-blair-lee-crockett-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-mp-bn</Url>
+        <Id>us/army/115-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/29-mp-co</Url>
+    <NameNode>29th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>29th Military Police Company, U.S. Army</FullName>
+    <SplitName>29th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Henry C. Evans Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Westminister, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-henry-c-evans-armory</Url>
+        <Id>us/md/mg-henry-c-evans-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-mp-bn</Url>
+        <Id>us/army/115-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th MP Bn</HHQAcronym>
+        <Name>115th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/29-mp-co/det-1</Url>
+        <FullName>Detachment 1, 29th Military Police Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/29-mp-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/29-mp-co/det-1</Url>
+    <NameNode>Detachment 1, 29th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 29th Military Police Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 29th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG Boyd M. Cook Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cascade, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-boyd-m-cook-armory</Url>
+        <Id>us/md/mg-boyd-m-cook-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/29-mp-co</Url>
+        <Id>us/army/29-mp-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>29th MP Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>29th Military Police Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/200-mp-co</Url>
+    <NameNode>200th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>200th Military Police Company, U.S. Army</FullName>
+    <SplitName>200th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>MG William J. Witte Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Catonsville, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/mg-william-j-witte-armory</Url>
+        <Id>us/md/mg-william-j-witte-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-mp-bn</Url>
+        <Id>us/army/115-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th MP Bn</HHQAcronym>
+        <Name>115th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/290-mp-co</Url>
+    <NameNode>290th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>290th Military Police Company, U.S. Army</FullName>
+    <SplitName>290th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>CW4 Melvin Sherr Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Parkville, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/cw4-melvin-sherr-armory</Url>
+        <Id>us/md/cw4-melvin-sherr-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-mp-bn</Url>
+        <Id>us/army/115-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th MP Bn</HHQAcronym>
+        <Name>115th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/290-mp-co/det-1</Url>
+        <FullName>Detachment 1, 290th Military Police Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/290-mp-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/290-mp-co/det-1</Url>
+    <NameNode>Detachment 1, 290th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 290th Military Police Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 290th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>CSM Blair Lee Crockett Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salisbury, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/csm-blair-lee-crockett-armory</Url>
+        <Id>us/md/csm-blair-lee-crockett-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/290-mp-co</Url>
+        <Id>us/army/290-mp-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>290th MP Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>290th Military Police Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+    <NameNode>1297th Combat Sustainment Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>1297th Combat Sustainment Support Battalion, U.S. Army</FullName>
+    <SplitName>1297th Combat Sustainment Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/ZW1ibGVtL1VTIEFSTVkgQ1NTQiAxMjk3.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Havre de Grace Military Reservation</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Havre de Grace, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/havre-de-grace-mil-res</Url>
+        <Id>us/md/havre-de-grace-mil-res</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/58-trp-cmd</Url>
+        <Id>us/army/58-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>58th Troop Command</HHQAcronym>
+        <Name>58th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 1297th Combat Sustainment Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/1297-cssb/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1229-tc-co</Url>
+        <FullName>1229th Transportation Company</FullName>
+        <Name>1229th Transportation Company</Name>
+        <Id>us/army/1229-tc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1729-od-co</Url>
+        <FullName>1729th Ordnance Company</FullName>
+        <Name>1729th Ordnance Company</Name>
+        <Id>us/army/1729-od-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/104-med-co</Url>
+        <FullName>104th Medical Company</FullName>
+        <Name>104th Medical Company</Name>
+        <Id>us/army/104-med-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/224-med-co</Url>
+        <FullName>224th Medical Company</FullName>
+        <Name>224th Medical Company</Name>
+        <Id>us/army/224-med-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/29-pa-det</Url>
+        <FullName>29th Public Affairs Detachment</FullName>
+        <Name>29th Public Affairs Detachment</Name>
+        <Id>us/army/29-pa-det</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1297-cssb/hhd</Url>
+    <NameNode>HHD, 1297th CSSB
+                            U.S. Army</NameNode>
+    <FullName>HHD, 1297th CSSB, U.S. Army</FullName>
+    <SplitName>HHD, 1297th CSSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Havre de Grace Military Reservation</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Havre de Grace, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/havre-de-grace-mil-res</Url>
+        <Id>us/md/havre-de-grace-mil-res</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <Id>us/army/1297-cssb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1297th CSSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1229-tc-co</Url>
+    <NameNode>1229th Transportation Company
+                            U.S. Army</NameNode>
+    <FullName>1229th Transportation Company, U.S. Army</FullName>
+    <SplitName>1229th Transportation Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>LTC Melvin H. Cade Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/ltc-melvin-h-cade-armory</Url>
+        <Id>us/md/ltc-melvin-h-cade-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <Id>us/army/1297-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1297th CSSB</HHQAcronym>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1729-od-co</Url>
+    <NameNode>1729th Ordnance Company
+                            U.S. Army</NameNode>
+    <FullName>1729th Ordnance Company, U.S. Army</FullName>
+    <SplitName>1729th Ordnance Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Havre de Grace Military Reservation</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Havre de Grace, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/havre-de-grace-mil-res</Url>
+        <Id>us/md/havre-de-grace-mil-res</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <Id>us/army/1297-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1297th CSSB</HHQAcronym>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/104-med-co</Url>
+    <NameNode>104th Medical Company
+                            U.S. Army</NameNode>
+    <FullName>104th Medical Company, U.S. Army</FullName>
+    <SplitName>104th Medical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Fretterd</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Reisterstown, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/camp-fretterd</Url>
+        <Id>us/md/camp-fretterd</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <Id>us/army/1297-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1297th CSSB</HHQAcronym>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/224-med-co</Url>
+    <NameNode>224th Medical Company
+                            U.S. Army</NameNode>
+    <FullName>224th Medical Company, U.S. Army</FullName>
+    <SplitName>224th Medical Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>COL Henry A. Cole Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Gaithersburg, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/col-henry-a-cole-readiness-ctr</Url>
+        <Id>us/md/col-henry-a-cole-readiness-ctr</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <Id>us/army/1297-cssb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1297th CSSB</HHQAcronym>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/29-pa-det</Url>
+    <NameNode>29th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>29th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>29th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1297-cssb</Url>
+        <Id>us/army/1297-cssb</Id>
+        <DateRange>2014 - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1297th CSSB</HHQAcronym>
+        <Name>1297th Combat Sustainment Support Battalion</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - 2014</DateRange>
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/70-rgt</Url>
+    <NameNode>70th Regiment
+                            U.S. Army</NameNode>
+    <FullName>70th Regiment, U.S. Army</FullName>
+    <SplitName>70th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Fretterd</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Reisterstown, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/camp-fretterd</Url>
+        <Id>us/md/camp-fretterd</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/70-rgt/1-bn</Url>
+        <FullName>1st Battalion, 70th Regiment</FullName>
+        <Name>1st Battalion</Name>
+        <Id>us/army/70-rgt/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/70-rgt/2-bn</Url>
+        <FullName>2nd Battalion, 70th Regiment</FullName>
+        <Name>2nd Battalion</Name>
+        <Id>us/army/70-rgt/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/70-rgt/1-bn</Url>
+    <NameNode>1st Battalion, 70th Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 70th Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 70th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Fretterd</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Reisterstown, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/camp-fretterd</Url>
+        <Id>us/md/camp-fretterd</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/70-rgt</Url>
+        <Id>us/army/70-rgt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>70th Regiment</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>70th Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/70-rgt/2-bn</Url>
+    <NameNode>2nd Battalion, 70th Regiment
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 70th Regiment, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 70th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Fretterd</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Reisterstown, Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/camp-fretterd</Url>
+        <Id>us/md/camp-fretterd</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/70-rgt</Url>
+        <Id>us/army/70-rgt</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>70th Regiment</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>70th Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/32-cst</Url>
+    <NameNode>32nd Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>32nd Civil Support Team, U.S. Army</FullName>
+    <SplitName>32nd Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort George G. Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maryland, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/fort-george-g-meade</Url>
+        <Id>us/md/fort-george-g-meade</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Pikesville Military Reservation</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, Maryland, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/md/pikesville-mil-res</Url>
+        <Id>us/md/pikesville-mil-res</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-13</Url>
+    <NameNode>Detachment 13, OSACOM
+                            U.S. Army</NameNode>
+    <FullName>Detachment 13, OSACOM, U.S. Army</FullName>
+    <SplitName>Detachment 13, OSACOM</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-md/arng-elt</Url>
+        <Id>us/army/jfhq-md/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Maryland</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Maryland</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MD</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

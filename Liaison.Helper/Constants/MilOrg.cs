@@ -15,6 +15,7 @@ namespace Liaison.Helper.Constants
         public const string Cavalry = "Cavalry";
         public const string HH = "Headquarters and Headquarters";
 
+        public const string Command = "Command";
         public const string FieldArmy = "Army";
         public const string Corps = "Corps";
         public const string Division = "Division";
@@ -30,18 +31,24 @@ namespace Liaison.Helper.Constants
     }
     public class ShortForm
     {
-       
+        public const char Army = 'G';
+        public const char Fleet = 'N';
+        public const char AirForce = 'A';
+        public const char Marine = 'M';
 
+        public const char Reserve = 'R';
+        public const char Volunteer = 'V';
 
-        public const string Army = "G";
-        public const string Fleet = "N";
-        public const string AirForce = "A";
-        public const string Marine = "M";
-
+        //CA
         public const string Infantry = "Inf";
         public const string Armoured = "Arm";
         public const string Cavalry = "Cav";
         public static string HHD = "HHD";
+
+        //CSA
+
+        //CSSA
+        public const string ConSupt = "Con. Supt";
 
         public const string FieldArmy = "Army";
         public const string Corps = "Corps";
@@ -51,6 +58,8 @@ namespace Liaison.Helper.Constants
         public const string Company = "Coy";
         public const string Battalion = "Bn";
         public const string Detachment = "Det";
+
+        
     }
 
     public class Symbol

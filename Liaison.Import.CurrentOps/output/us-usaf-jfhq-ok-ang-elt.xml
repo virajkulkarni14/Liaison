@@ -1,0 +1,1522 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-ok/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Oklahoma
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Oklahoma, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Oklahoma</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-ok</Url>
+        <Id>us/ng/jfhq-ok</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Oklahoma</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Oklahoma</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <FullName>137th Air Refueling Wing</FullName>
+        <Name>137th Air Refueling Wing</Name>
+        <Id>us/usaf/137-arw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <FullName>138th Fighter Wing</FullName>
+        <Name>138th Fighter Wing</Name>
+        <Id>us/usaf/138-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+    <NameNode>137th Air Refueling Wing
+                            USAF</NameNode>
+    <FullName>137th Air Refueling Wing, USAF</FullName>
+    <SplitName>137th Air Refueling Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ok/ang-elt</Url>
+        <Id>us/usaf/jfhq-ok/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Oklahoma</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Oklahoma</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-og</Url>
+        <FullName>137th Operations Group</FullName>
+        <Name>137th Operations Group</Name>
+        <Id>us/usaf/137-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-mxg</Url>
+        <FullName>137th Maintenance Group</FullName>
+        <Name>137th Maintenance Group</Name>
+        <Id>us/usaf/137-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+        <FullName>137th Mission Support Group</FullName>
+        <Name>137th Mission Support Group</Name>
+        <Id>us/usaf/137-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-cptf</Url>
+        <FullName>137th Comptroller Flight</FullName>
+        <Name>137th Comptroller Flight</Name>
+        <Id>us/usaf/137-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/146-asos</Url>
+        <FullName>146th Air Support Operations Squadron</FullName>
+        <Name>146th Air Support Operations Squadron</Name>
+        <Id>us/usaf/146-asos</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/205-eis</Url>
+        <FullName>205th Engineering Installation Squadron</FullName>
+        <Name>205th Engineering Installation Squadron</Name>
+        <Id>us/usaf/205-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-og</Url>
+    <NameNode>137th Operations Group
+                            USAF</NameNode>
+    <FullName>137th Operations Group, USAF</FullName>
+    <SplitName>137th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <Id>us/usaf/137-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th ARW</HHQAcronym>
+        <Name>137th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/185-ars</Url>
+        <FullName>185th Air Refueling Squadron</FullName>
+        <Name>185th Air Refueling Squadron</Name>
+        <Id>us/usaf/185-ars</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-acf</Url>
+        <FullName>137th Airlift Control Flight</FullName>
+        <Name>137th Airlift Control Flight</Name>
+        <Id>us/usaf/137-acf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-osf</Url>
+        <FullName>137th Operations Support Flight</FullName>
+        <Name>137th Operations Support Flight</Name>
+        <Id>us/usaf/137-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/185-ars</Url>
+    <NameNode>185th Air Refueling Squadron
+                            USAF</NameNode>
+    <FullName>185th Air Refueling Squadron, USAF</FullName>
+    <SplitName>185th Air Refueling Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-og</Url>
+        <Id>us/usaf/137-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th Operations Group</HHQAcronym>
+        <Name>137th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-acf</Url>
+    <NameNode>137th Airlift Control Flight
+                            USAF</NameNode>
+    <FullName>137th Airlift Control Flight, USAF</FullName>
+    <SplitName>137th Airlift Control Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-og</Url>
+        <Id>us/usaf/137-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th Operations Group</HHQAcronym>
+        <Name>137th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-osf</Url>
+    <NameNode>137th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>137th Operations Support Flight, USAF</FullName>
+    <SplitName>137th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-og</Url>
+        <Id>us/usaf/137-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th Operations Group</HHQAcronym>
+        <Name>137th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-mxg</Url>
+    <NameNode>137th Maintenance Group
+                            USAF</NameNode>
+    <FullName>137th Maintenance Group, USAF</FullName>
+    <SplitName>137th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <Id>us/usaf/137-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th ARW</HHQAcronym>
+        <Name>137th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-amxs</Url>
+        <FullName>137th Aircraft Maintenance Squadron</FullName>
+        <Name>137th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/137-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-mxs</Url>
+        <FullName>137th Maintenance Squadron</FullName>
+        <Name>137th Maintenance Squadron</Name>
+        <Id>us/usaf/137-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-mof</Url>
+        <FullName>137th Maintenance Operations Flight</FullName>
+        <Name>137th Maintenance Operations Flight</Name>
+        <Id>us/usaf/137-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-amxs</Url>
+    <NameNode>137th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>137th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>137th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-mxg</Url>
+        <Id>us/usaf/137-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MXG</HHQAcronym>
+        <Name>137th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-mxs</Url>
+    <NameNode>137th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>137th Maintenance Squadron, USAF</FullName>
+    <SplitName>137th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-mxg</Url>
+        <Id>us/usaf/137-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MXG</HHQAcronym>
+        <Name>137th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-mof</Url>
+    <NameNode>137th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>137th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>137th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-mxg</Url>
+        <Id>us/usaf/137-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MXG</HHQAcronym>
+        <Name>137th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+    <NameNode>137th Mission Support Group
+                            USAF</NameNode>
+    <FullName>137th Mission Support Group, USAF</FullName>
+    <SplitName>137th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <Id>us/usaf/137-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th ARW</HHQAcronym>
+        <Name>137th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-ces</Url>
+        <FullName>137th Civil Engineer Squadron</FullName>
+        <Name>137th Civil Engineer Squadron</Name>
+        <Id>us/usaf/137-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-fss</Url>
+        <FullName>137th Force Support Squadron</FullName>
+        <Name>137th Force Support Squadron</Name>
+        <Id>us/usaf/137-fss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-lrs</Url>
+        <FullName>137th Logistics Readiness Squadron</FullName>
+        <Name>137th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/137-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-sfs</Url>
+        <FullName>137th Security Forces Squadron</FullName>
+        <Name>137th Security Forces Squadron</Name>
+        <Id>us/usaf/137-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/137-cf</Url>
+        <FullName>137th Communications Flight</FullName>
+        <Name>137th Communications Flight</Name>
+        <Id>us/usaf/137-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-ces</Url>
+    <NameNode>137th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>137th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>137th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+        <Id>us/usaf/137-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MSG</HHQAcronym>
+        <Name>137th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-fss</Url>
+    <NameNode>137th Force Support Squadron
+                            USAF</NameNode>
+    <FullName>137th Force Support Squadron, USAF</FullName>
+    <SplitName>137th Force Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+        <Id>us/usaf/137-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MSG</HHQAcronym>
+        <Name>137th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-lrs</Url>
+    <NameNode>137th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>137th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>137th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+        <Id>us/usaf/137-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MSG</HHQAcronym>
+        <Name>137th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-sfs</Url>
+    <NameNode>137th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>137th Security Forces Squadron, USAF</FullName>
+    <SplitName>137th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+        <Id>us/usaf/137-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MSG</HHQAcronym>
+        <Name>137th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-cf</Url>
+    <NameNode>137th Communications Flight
+                            USAF</NameNode>
+    <FullName>137th Communications Flight, USAF</FullName>
+    <SplitName>137th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-msg</Url>
+        <Id>us/usaf/137-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th MSG</HHQAcronym>
+        <Name>137th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/137-cptf</Url>
+    <NameNode>137th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>137th Comptroller Flight, USAF</FullName>
+    <SplitName>137th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <Id>us/usaf/137-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th ARW</HHQAcronym>
+        <Name>137th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/146-asos</Url>
+    <NameNode>146th Air Support Operations Squadron
+                            USAF</NameNode>
+    <FullName>146th Air Support Operations Squadron, USAF</FullName>
+    <SplitName>146th Air Support Operations Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <Id>us/usaf/137-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th ARW</HHQAcronym>
+        <Name>137th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/205-eis</Url>
+    <NameNode>205th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>205th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>205th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Will Rogers Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oklahoma City, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/will-rogers-angb</Url>
+        <Id>us/ok/will-rogers-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/137-arw</Url>
+        <Id>us/usaf/137-arw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>137th ARW</HHQAcronym>
+        <Name>137th Air Refueling Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+    <NameNode>138th Fighter Wing
+                            USAF</NameNode>
+    <FullName>138th Fighter Wing, USAF</FullName>
+    <SplitName>138th Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/12-af</Url>
+        <Id>us/usaf/12-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>12th Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>12th Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-ok/ang-elt</Url>
+        <Id>us/usaf/jfhq-ok/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Oklahoma</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Oklahoma</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-og</Url>
+        <FullName>138th Operations Group</FullName>
+        <Name>138th Operations Group</Name>
+        <Id>us/usaf/138-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mxg</Url>
+        <FullName>138th Maintenance Group</FullName>
+        <Name>138th Maintenance Group</Name>
+        <Id>us/usaf/138-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-msg</Url>
+        <FullName>138th Mission Support Group</FullName>
+        <Name>138th Mission Support Group</Name>
+        <Id>us/usaf/138-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mds</Url>
+        <FullName>138th Medical Squadron</FullName>
+        <Name>138th Medical Squadron</Name>
+        <Id>us/usaf/138-mds</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-cptf</Url>
+        <FullName>138th Comptroller Flight</FullName>
+        <Name>138th Comptroller Flight</Name>
+        <Id>us/usaf/138-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/219-eis</Url>
+        <FullName>219th Engineering Installation Squadron</FullName>
+        <Name>219th Engineering Installation Squadron</Name>
+        <Id>us/usaf/219-eis</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/125-wf</Url>
+        <FullName>125th Weather Flight</FullName>
+        <Name>125th Weather Flight</Name>
+        <Id>us/usaf/125-wf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-og</Url>
+    <NameNode>138th Operations Group
+                            USAF</NameNode>
+    <FullName>138th Operations Group, USAF</FullName>
+    <SplitName>138th Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/125-fs</Url>
+        <FullName>125th Fighter Squadron</FullName>
+        <Name>125th Fighter Squadron</Name>
+        <Id>us/usaf/125-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-oss</Url>
+        <FullName>138th Operations Support Squadron</FullName>
+        <Name>138th Operations Support Squadron</Name>
+        <Id>us/usaf/138-oss</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-osf</Url>
+        <FullName>138th Operations Support Flight</FullName>
+        <Name>138th Operations Support Flight</Name>
+        <Id>us/usaf/138-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/125-fs</Url>
+    <NameNode>125th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>125th Fighter Squadron, USAF</FullName>
+    <SplitName>125th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-og</Url>
+        <Id>us/usaf/138-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Operations Group</HHQAcronym>
+        <Name>138th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-oss</Url>
+    <NameNode>138th Operations Support Squadron
+                            USAF</NameNode>
+    <FullName>138th Operations Support Squadron, USAF</FullName>
+    <SplitName>138th Operations Support Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-og</Url>
+        <Id>us/usaf/138-og</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>138th Operations Group</HHQAcronym>
+        <Name>138th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-osf</Url>
+    <NameNode>138th Operations Support Flight
+                            USAF</NameNode>
+    <FullName>138th Operations Support Flight, USAF</FullName>
+    <SplitName>138th Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-og</Url>
+        <Id>us/usaf/138-og</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>138th Operations Group</HHQAcronym>
+        <Name>138th Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-mxg</Url>
+    <NameNode>138th Maintenance Group
+                            USAF</NameNode>
+    <FullName>138th Maintenance Group, USAF</FullName>
+    <SplitName>138th Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-amxs</Url>
+        <FullName>138th Aircraft Maintenance Squadron</FullName>
+        <Name>138th Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/138-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mxs</Url>
+        <FullName>138th Maintenance Squadron</FullName>
+        <Name>138th Maintenance Squadron</Name>
+        <Id>us/usaf/138-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mof</Url>
+        <FullName>138th Maintenance Operations Flight</FullName>
+        <Name>138th Maintenance Operations Flight</Name>
+        <Id>us/usaf/138-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-amxs</Url>
+    <NameNode>138th Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>138th Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>138th Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mxg</Url>
+        <Id>us/usaf/138-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MXG</HHQAcronym>
+        <Name>138th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-mxs</Url>
+    <NameNode>138th Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>138th Maintenance Squadron, USAF</FullName>
+    <SplitName>138th Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mxg</Url>
+        <Id>us/usaf/138-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MXG</HHQAcronym>
+        <Name>138th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-mof</Url>
+    <NameNode>138th Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>138th Maintenance Operations Flight, USAF</FullName>
+    <SplitName>138th Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-mxg</Url>
+        <Id>us/usaf/138-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MXG</HHQAcronym>
+        <Name>138th Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-msg</Url>
+    <NameNode>138th Mission Support Group
+                            USAF</NameNode>
+    <FullName>138th Mission Support Group, USAF</FullName>
+    <SplitName>138th Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-ces</Url>
+        <FullName>138th Civil Engineer Squadron</FullName>
+        <Name>138th Civil Engineer Squadron</Name>
+        <Id>us/usaf/138-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-lrs</Url>
+        <FullName>138th Logistics Readiness Squadron</FullName>
+        <Name>138th Logistics Readiness Squadron</Name>
+        <Id>us/usaf/138-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-sfs</Url>
+        <FullName>138th Security Forces Squadron</FullName>
+        <Name>138th Security Forces Squadron</Name>
+        <Id>us/usaf/138-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/138-cf</Url>
+        <FullName>138th Communications Flight</FullName>
+        <Name>138th Communications Flight</Name>
+        <Id>us/usaf/138-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-ces</Url>
+    <NameNode>138th Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>138th Civil Engineer Squadron, USAF</FullName>
+    <SplitName>138th Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-msg</Url>
+        <Id>us/usaf/138-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MSG</HHQAcronym>
+        <Name>138th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-lrs</Url>
+    <NameNode>138th Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>138th Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>138th Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-msg</Url>
+        <Id>us/usaf/138-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MSG</HHQAcronym>
+        <Name>138th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-sfs</Url>
+    <NameNode>138th Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>138th Security Forces Squadron, USAF</FullName>
+    <SplitName>138th Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-msg</Url>
+        <Id>us/usaf/138-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MSG</HHQAcronym>
+        <Name>138th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-cf</Url>
+    <NameNode>138th Communications Flight
+                            USAF</NameNode>
+    <FullName>138th Communications Flight, USAF</FullName>
+    <SplitName>138th Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-msg</Url>
+        <Id>us/usaf/138-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th MSG</HHQAcronym>
+        <Name>138th Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-mds</Url>
+    <NameNode>138th Medical Squadron
+                            USAF</NameNode>
+    <FullName>138th Medical Squadron, USAF</FullName>
+    <SplitName>138th Medical Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/138-cptf</Url>
+    <NameNode>138th Comptroller Flight
+                            USAF</NameNode>
+    <FullName>138th Comptroller Flight, USAF</FullName>
+    <SplitName>138th Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/219-eis</Url>
+    <NameNode>219th Engineering Installation Squadron
+                            USAF</NameNode>
+    <FullName>219th Engineering Installation Squadron, USAF</FullName>
+    <SplitName>219th Engineering Installation Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/125-wf</Url>
+    <NameNode>125th Weather Flight
+                            USAF</NameNode>
+    <FullName>125th Weather Flight, USAF</FullName>
+    <SplitName>125th Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Tulsa Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, Oklahoma, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ok/tulsa-angb</Url>
+        <Id>us/ok/tulsa-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/138-fw</Url>
+        <Id>us/usaf/138-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>138th Fighter Wing</HHQAcronym>
+        <Name>138th Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OK</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

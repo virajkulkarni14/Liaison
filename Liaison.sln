@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison", "Liaison\Liaison.csproj", "{80AC337A-D51C-49DB-B536-FE136F559742}"
 EndProject
@@ -38,6 +38,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Liaison.Data.Files", "Liais
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.Biz.Tests", "Liaison.Biz.Tests\Liaison.Biz.Tests.csproj", "{1BDBEA8A-4B3F-4812-B0FB-5BFC1F59C909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.Import.RallyPoint", "Liaison.Import.RallyPoint\Liaison.Import.RallyPoint.csproj", "{CECFE62F-CD21-4BF2-8200-9B3CC6FFBDA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{1BDBEA8A-4B3F-4812-B0FB-5BFC1F59C909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDBEA8A-4B3F-4812-B0FB-5BFC1F59C909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDBEA8A-4B3F-4812-B0FB-5BFC1F59C909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECFE62F-CD21-4BF2-8200-9B3CC6FFBDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECFE62F-CD21-4BF2-8200-9B3CC6FFBDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECFE62F-CD21-4BF2-8200-9B3CC6FFBDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECFE62F-CD21-4BF2-8200-9B3CC6FFBDA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,6 +97,7 @@ Global
 		{B905AF7B-48CC-49CE-8645-E888C58F5A75} = {7A679C8A-6C66-454D-839F-C9F751699C85}
 		{2A3CA591-E7FF-4199-A4FE-2285FE2D0F90} = {881BF879-1909-4C62-BE0F-EF4A51D3665F}
 		{1BDBEA8A-4B3F-4812-B0FB-5BFC1F59C909} = {D42A8E57-4F95-4C3F-9380-D5AC37AC6F0E}
+		{CECFE62F-CD21-4BF2-8200-9B3CC6FFBDA5} = {A2937079-9579-4853-BEDC-3469DBA5BDF9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4066C976-993D-4F44-90C6-36C10CCD72B3}

@@ -1,0 +1,2169 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+    <NameNode>Army National Guard Element, JFHQ Wyoming
+                            U.S. Army</NameNode>
+    <FullName>Army National Guard Element, JFHQ Wyoming, U.S. Army</FullName>
+    <SplitName>Army National Guard Element, JFHQ Wyoming</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSkZIUSBXWSBBUk5HIEVMVA.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-wy</Url>
+        <Id>us/ng/jfhq-wy</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Wyoming</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <FullName>115th Fires Brigade</FullName>
+        <Name>115th Fires Brigade</Name>
+        <Id>us/army/115-fib</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+        <FullName>94th Troop Command</FullName>
+        <Name>94th Troop Command</Name>
+        <Id>us/army/94-trp-cmd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/213-rgt</Url>
+        <FullName>213th Regiment</FullName>
+        <Name>213th Regiment</Name>
+        <Id>us/army/213-rgt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/84-cst</Url>
+        <FullName>84th Civil Support Team</FullName>
+        <Name>84th Civil Support Team</Name>
+        <Id>us/army/84-cst</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/197-pa-det</Url>
+        <FullName>197th Public Affairs Detachment</FullName>
+        <Name>197th Public Affairs Detachment</Name>
+        <Id>us/army/197-pa-det</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/osacom/det-53</Url>
+        <FullName>Detachment 53, Operational Support Airlift Command</FullName>
+        <Name>Detachment 53, Operational Support Airlift Command</Name>
+        <Id>us/army/osacom/det-53</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-fib</Url>
+    <NameNode>115th Fires Brigade
+                            U.S. Army</NameNode>
+    <FullName>115th Fires Brigade, U.S. Army</FullName>
+    <SplitName>115th Fires Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRkEgQkRFIDAxMTU.png</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/34-id</Url>
+        <Id>us/army/34-id</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>34th Infantry Division</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>34th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+        <Id>us/army/jfhq-wy/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Wyoming</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/115-fib/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 115th Fires Brigade</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/115-fib/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn</Url>
+        <FullName>2nd Battalion, 300th Field Artillery Regiment</FullName>
+        <Name>2nd Battalion, 300th Field Artillery Regiment</Name>
+        <Id>us/army/300-fa/2-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn</Url>
+        <FullName>1st Battalion, 121st Field Artillery Regiment</FullName>
+        <Name>1st Battalion, 121st Field Artillery Regiment
+
+                    (WI ARNG)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/121-fa/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <FullName>1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>1st Battalion, 147th Field Artillery Regiment
+
+                    (SD ARNG)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/147-fa/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <FullName>1st Battalion, 151st Field Artillery Regiment</FullName>
+        <Name>1st Battalion, 151st Field Artillery Regiment
+
+                    (MN ARNG)
+        
+        
+                                    (Aligned)</Name>
+        <Id>us/army/151-fa/1-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb</Url>
+        <FullName>960th Brigade Support Battalion</FullName>
+        <Name>960th Brigade Support Battalion</Name>
+        <Id>us/army/960-bsb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/btry-e</Url>
+        <FullName>Battery E, 151st Field Artillery Regiment</FullName>
+        <Name>Battery E, 151st Field Artillery Regiment
+
+                    (MN ARNG)</Name>
+        <Id>us/army/151-fa/btry-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/148-sc-co</Url>
+        <FullName>148th Signal Company</FullName>
+        <Name>148th Signal Company</Name>
+        <Id>us/army/148-sc-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/115-fib/hhb</Url>
+    <NameNode>Headquarters and Headquarters Battery, 115th FiB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Battery, 115th FiB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Battery, 115th FiB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/300-fa/2-bn</Url>
+    <NameNode>2nd Battalion, 300th Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>2nd Battalion, 300th Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>2nd Battalion, 300th Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sheridan Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sheridan, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/sheridan-armory</Url>
+        <Id>us/wy/sheridan-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 2nd Battalion, 300th Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/300-fa/2-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn/btry-a</Url>
+        <FullName>Battery A, 2nd Battalion, 300th Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/300-fa/2-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn/btry-b</Url>
+        <FullName>Battery B, 2nd Battalion, 300th Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/300-fa/2-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/920-fsc</Url>
+        <FullName>920th Forward Support Company</FullName>
+        <Name>920th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/920-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/300-fa/2-bn/hhb</Url>
+    <NameNode>HHB, 2nd Bn, 300th FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 2nd Bn, 300th FA, U.S. Army</FullName>
+    <SplitName>HHB, 2nd Bn, 300th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sheridan Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sheridan, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/sheridan-armory</Url>
+        <Id>us/wy/sheridan-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn</Url>
+        <Id>us/army/300-fa/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 300th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 300th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/300-fa/2-bn/btry-a</Url>
+    <NameNode>Battery A, 2nd Battalion, 300th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 2nd Battalion, 300th FA, U.S. Army</FullName>
+    <SplitName>Battery A, 2nd Battalion, 300th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Gillette Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Gillette, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/gillette-armory</Url>
+        <Id>us/wy/gillette-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn</Url>
+        <Id>us/army/300-fa/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 300th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 300th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/300-fa/2-bn/btry-b</Url>
+    <NameNode>Battery B, 2nd Battalion, 300th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 2nd Battalion, 300th FA, U.S. Army</FullName>
+    <SplitName>Battery B, 2nd Battalion, 300th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Lander Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lander, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/lander-armory</Url>
+        <Id>us/wy/lander-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn</Url>
+        <Id>us/army/300-fa/2-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>2nd Battalion, 300th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>2nd Battalion, 300th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/920-fsc</Url>
+    <NameNode>920th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>920th Forward Support Company, U.S. Army</FullName>
+    <SplitName>920th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>2012 - Present</DateRange>
+        <BaseName>Powell Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Powell, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/powell-armory</Url>
+        <Id>us/wy/powell-armory</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - 2012</DateRange>
+        <BaseName>Lovell Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lovell, Wyoming, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/lovell-armory</Url>
+        <Id>us/wy/lovell-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/300-fa/2-bn</Url>
+        <Id>us/army/300-fa/2-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>2nd Battalion, 300th FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>2nd Battalion, 300th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/121-fa/1-bn</Url>
+    <NameNode>1st Battalion, 121st Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 121st Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 121st Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Richards Street Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milwaukee, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/richards-street-armory</Url>
+        <Id>us/wi/richards-street-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/157-meb</Url>
+        <Id>us/army/157-meb</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>157th MEB</HHQAcronym>
+        <Name>157th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 1st Battalion, 121st Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/121-fa/1-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn/btry-a</Url>
+        <FullName>Battery A, 1st Battalion, 121st Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/121-fa/1-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn/btry-b</Url>
+        <FullName>Battery B, 1st Battalion, 121st Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/121-fa/1-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/108-fsc</Url>
+        <FullName>108th Forward Support Company</FullName>
+        <Name>108th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/108-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/121-fa/1-bn/hhb</Url>
+    <NameNode>HHB, 1st Bn, 121st FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 1st Bn, 121st FA, U.S. Army</FullName>
+    <SplitName>HHB, 1st Bn, 121st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Richards Street Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milwaukee, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/richards-street-armory</Url>
+        <Id>us/wi/richards-street-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn</Url>
+        <Id>us/army/121-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 121st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 121st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/121-fa/1-bn/btry-a</Url>
+    <NameNode>Battery A, 1st Battalion, 121st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 1st Battalion, 121st FA, U.S. Army</FullName>
+    <SplitName>Battery A, 1st Battalion, 121st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Sussex Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sussex, Wisconsin, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/sussex-armory</Url>
+        <Id>us/wi/sussex-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn</Url>
+        <Id>us/army/121-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 121st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 121st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/121-fa/1-bn/btry-b</Url>
+    <NameNode>Battery B, 1st Battalion, 121st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 1st Battalion, 121st FA, U.S. Army</FullName>
+    <SplitName>Battery B, 1st Battalion, 121st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Plymouth Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Plymouth, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/plymouth-armory</Url>
+        <Id>us/wi/plymouth-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn</Url>
+        <Id>us/army/121-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 121st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 121st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/108-fsc</Url>
+    <NameNode>108th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>108th Forward Support Company, U.S. Army</FullName>
+    <SplitName>108th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sussex Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sussex, Wisconsin, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wi/sussex-armory</Url>
+        <Id>us/wi/sussex-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/121-fa/1-bn</Url>
+        <Id>us/army/121-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 121st FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 121st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WI</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+    <NameNode>1st Battalion, 147th Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 147th Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 147th Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Watertown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-armory</Url>
+        <Id>us/sd/watertown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/196-meb</Url>
+        <Id>us/army/196-meb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>196th MEB</HHQAcronym>
+        <Name>196th Maneuver Enhancement Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/147-fa/1-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-a</Url>
+        <FullName>Battery A, 1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/147-fa/1-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-b</Url>
+        <FullName>Battery B, 1st Battalion, 147th Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/147-fa/1-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+        <FullName>147th Forward Support Company</FullName>
+        <Name>147th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/147-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn/hhb</Url>
+    <NameNode>HHB, 1st Bn, 147th FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 1st Bn, 147th FA, U.S. Army</FullName>
+    <SplitName>HHB, 1st Bn, 147th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Watertown Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-armory</Url>
+        <Id>us/sd/watertown-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-a</Url>
+    <NameNode>Battery A, 1st Battalion, 147th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 1st Battalion, 147th FA, U.S. Army</FullName>
+    <SplitName>Battery A, 1st Battalion, 147th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Charles J. Milbrandt Armed Forces Reserve Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/charles-j-milbrandt-afrc</Url>
+        <Id>us/sd/charles-j-milbrandt-afrc</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fa/1-bn/btry-b</Url>
+    <NameNode>Battery B, 1st Battalion, 147th FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 1st Battalion, 147th FA, U.S. Army</FullName>
+    <SplitName>Battery B, 1st Battalion, 147th FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Yankton Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yankton, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/yankton-armory</Url>
+        <Id>us/sd/yankton-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+    <NameNode>147th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>147th Forward Support Company, U.S. Army</FullName>
+    <SplitName>147th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Mitchell Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mitchell, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/mitchell-armory</Url>
+        <Id>us/sd/mitchell-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fa/1-bn</Url>
+        <Id>us/army/147-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 147th FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 147th Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc/det-1</Url>
+        <FullName>Detachment 1, 147th Forward Support Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/147-fsc/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc/det-2</Url>
+        <FullName>Detachment 2, 147th Forward Support Company</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/147-fsc/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fsc/det-1</Url>
+    <NameNode>Detachment 1, 147th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 147th Forward Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 147th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Sioux Falls Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sioux Falls, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/sioux-falls-armory</Url>
+        <Id>us/sd/sioux-falls-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+        <Id>us/army/147-fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>147th FSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>147th Forward Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/147-fsc/det-2</Url>
+    <NameNode>Detachment 2, 147th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, 147th Forward Support Company, U.S. Army</FullName>
+    <SplitName>Detachment 2, 147th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Watertown Readiness Center</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watertown, South Dakota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/watertown-readiness-ctr</Url>
+        <Id>us/sd/watertown-readiness-ctr</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange />
+        <BaseName>Webster Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Webster, South Dakota, United States</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/us/sd/webster-armory</Url>
+        <Id>us/sd/webster-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/147-fsc</Url>
+        <Id>us/army/147-fsc</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>147th FSC</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>147th Forward Support Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>SD</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+    <NameNode>1st Battalion, 151st Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>1st Battalion, 151st Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>1st Battalion, 151st Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montevideo Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montevideo, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/montevideo-armory</Url>
+        <Id>us/mn/montevideo-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/84-trp-cmd</Url>
+        <Id>us/army/84-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>84th Troop Command</HHQAcronym>
+        <Name>84th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn/hhb</Url>
+        <FullName>Headquarters and Headquarters Battery, 1st Battalion, 151st Field Artillery Regiment</FullName>
+        <Name>Headquarters and Headquarters Battery</Name>
+        <Id>us/army/151-fa/1-bn/hhb</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn/btry-a</Url>
+        <FullName>Battery A, 1st Battalion, 151st Field Artillery Regiment</FullName>
+        <Name>Battery A</Name>
+        <Id>us/army/151-fa/1-bn/btry-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn/btry-b</Url>
+        <FullName>Battery B, 1st Battalion, 151st Field Artillery Regiment</FullName>
+        <Name>Battery B</Name>
+        <Id>us/army/151-fa/1-bn/btry-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn/btry-c</Url>
+        <FullName>Battery C, 1st Battalion, 151st Field Artillery Regiment</FullName>
+        <Name>Battery C</Name>
+        <Id>us/army/151-fa/1-bn/btry-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/175-fsc</Url>
+        <FullName>175th Forward Support Company</FullName>
+        <Name>175th Forward Support Company
+
+        
+        
+                                    (Attached)</Name>
+        <Id>us/army/175-fsc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/btry-e</Url>
+        <FullName>Battery E, 151st Field Artillery Regiment</FullName>
+        <Name>Battery E</Name>
+        <Id>us/army/151-fa/btry-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/1-bn/hhb</Url>
+    <NameNode>HHB, 1st Bn, 151st FA
+                            U.S. Army</NameNode>
+    <FullName>HHB, 1st Bn, 151st FA, U.S. Army</FullName>
+    <SplitName>HHB, 1st Bn, 151st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Montevideo Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montevideo, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/montevideo-armory</Url>
+        <Id>us/mn/montevideo-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/1-bn/btry-a</Url>
+    <NameNode>Battery A, 1st Battalion, 151st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery A, 1st Battalion, 151st FA, U.S. Army</FullName>
+    <SplitName>Battery A, 1st Battalion, 151st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Marshall Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marshall, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/marshall-armory</Url>
+        <Id>us/mn/marshall-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/1-bn/btry-b</Url>
+    <NameNode>Battery B, 1st Battalion, 151st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery B, 1st Battalion, 151st FA, U.S. Army</FullName>
+    <SplitName>Battery B, 1st Battalion, 151st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Madison Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Madison, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/madison-armory</Url>
+        <Id>us/mn/madison-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/1-bn/btry-c</Url>
+    <NameNode>Battery C, 1st Battalion, 151st FA
+                            U.S. Army</NameNode>
+    <FullName>Battery C, 1st Battalion, 151st FA, U.S. Army</FullName>
+    <SplitName>Battery C, 1st Battalion, 151st FA</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Ortonville Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ortonville, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/ortonville-armory</Url>
+        <Id>us/mn/ortonville-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/175-fsc</Url>
+    <NameNode>175th Forward Support Company
+                            U.S. Army</NameNode>
+    <FullName>175th Forward Support Company, U.S. Army</FullName>
+    <SplitName>175th Forward Support Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Type>Attached</Type>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/btry-e</Url>
+    <NameNode>Battery E, 151st Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>Battery E, 151st Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>Battery E, 151st Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Anoka Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anoka, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/anoka-armory</Url>
+        <Id>us/mn/anoka-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/960-bsb</Url>
+    <NameNode>960th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>960th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>960th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Casper Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Casper, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/casper-armory</Url>
+        <Id>us/wy/casper-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 960th Brigade Support Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/960-bsb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/co-a</Url>
+        <FullName>Company A, 960th Brigade Support Battalion</FullName>
+        <Name>Company A</Name>
+        <Id>us/army/960-bsb/co-a</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/co-b</Url>
+        <FullName>Company B, 960th Brigade Support Battalion</FullName>
+        <Name>Company B</Name>
+        <Id>us/army/960-bsb/co-b</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/960-bsb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 960th BSB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 960th BSB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 960th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Casper Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Casper, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/casper-armory</Url>
+        <Id>us/wy/casper-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb</Url>
+        <Id>us/army/960-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>960th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>960th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/960-bsb/co-a</Url>
+    <NameNode>Company A, 960th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company A, 960th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company A, 960th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Casper Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Casper, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/casper-armory</Url>
+        <Id>us/wy/casper-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb</Url>
+        <Id>us/army/960-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>960th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>960th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/co-a/det-1</Url>
+        <FullName>Detachment 1, Company A, 960th Brigade Support Battalion</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/960-bsb/co-a/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/co-a/det-2</Url>
+        <FullName>Detachment 2, Company A, 960th Brigade Support Battalion</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/960-bsb/co-a/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/960-bsb/co-a/det-1</Url>
+    <NameNode>Detachment 1, Company A, 960th BSB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company A, 960th BSB, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company A, 960th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Douglas Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Douglas, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/douglas-armory</Url>
+        <Id>us/wy/douglas-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/co-a</Url>
+        <Id>us/army/960-bsb/co-a</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company A, 960th BSB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 960th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/960-bsb/co-a/det-2</Url>
+    <NameNode>Detachment 2, Company A, 960th BSB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, Company A, 960th BSB, U.S. Army</FullName>
+    <SplitName>Detachment 2, Company A, 960th BSB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>SGT George B. Hittner Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rawlins, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/sgt-george-b-hittner-armory</Url>
+        <Id>us/wy/sgt-george-b-hittner-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb/co-a</Url>
+        <Id>us/army/960-bsb/co-a</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>Company A, 960th BSB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company A, 960th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/960-bsb/co-b</Url>
+    <NameNode>Company B, 960th Brigade Support Battalion
+                            U.S. Army</NameNode>
+    <FullName>Company B, 960th Brigade Support Battalion, U.S. Army</FullName>
+    <SplitName>Company B, 960th Brigade Support Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Torrington Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Torrington, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/torrington-armory</Url>
+        <Id>us/wy/torrington-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/960-bsb</Url>
+        <Id>us/army/960-bsb</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>960th BSB</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>960th Brigade Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/151-fa/btry-e</Url>
+    <NameNode>Battery E, 151st Field Artillery Regiment
+                            U.S. Army</NameNode>
+    <FullName>Battery E, 151st Field Artillery Regiment, U.S. Army</FullName>
+    <SplitName>Battery E, 151st Field Artillery Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Anoka Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anoka, Minnesota, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/mn/anoka-armory</Url>
+        <Id>us/mn/anoka-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/151-fa/1-bn</Url>
+        <Id>us/army/151-fa/1-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Battalion, 151st FA</HHQAcronym>
+        <Name>1st Battalion, 151st Field Artillery Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>MN</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/148-sc-co</Url>
+    <NameNode>148th Signal Company
+                            U.S. Army</NameNode>
+    <FullName>148th Signal Company, U.S. Army</FullName>
+    <SplitName>148th Signal Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Laramie Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Laramie, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/laramie-armory</Url>
+        <Id>us/wy/laramie-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/115-fib</Url>
+        <Id>us/army/115-fib</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>115th Fires Brigade</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>115th Fires Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+    <NameNode>94th Troop Command
+                            U.S. Army</NameNode>
+    <FullName>94th Troop Command, U.S. Army</FullName>
+    <SplitName>94th Troop Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Laramie Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Laramie, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/laramie-armory</Url>
+        <Id>us/wy/laramie-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+        <Id>us/army/jfhq-wy/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Wyoming</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c</Url>
+        <FullName>Company C, 5th Battalion, 159th Aviation Regiment</FullName>
+        <Name>Company C, 5th Battalion, 159th Aviation Regiment</Name>
+        <Id>us/army/159-avn/5-bn/co-c</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/133-engr-co</Url>
+        <FullName>133rd Engineer Company</FullName>
+        <Name>133rd Engineer Company</Name>
+        <Id>us/army/133-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1041-engr-co</Url>
+        <FullName>1041st Engineer Company</FullName>
+        <Name>1041st Engineer Company</Name>
+        <Id>us/army/1041-engr-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/67-army-band</Url>
+        <FullName>67th Army Band</FullName>
+        <Name>67th Army Band</Name>
+        <Id>us/army/67-army-band</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/777-asb/co-b/det-3</Url>
+        <FullName>Detachment 3, Company B, 777th Aviation Support Battalion</FullName>
+        <Name>Detachment 3, Company B, 777th Aviation Support Battalion</Name>
+        <Id>us/army/777-asb/co-b/det-3</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c</Url>
+    <NameNode>Company C, 5th Battalion, 159th Aviation Regiment
+                            U.S. Army</NameNode>
+    <FullName>Company C, 5th Battalion, 159th Aviation Regiment, U.S. Army</FullName>
+    <SplitName>Company C, 5th Battalion, 159th Aviation Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wyoming Army National Guard Army Aviation Support Facility</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Francis E. Warren AFB | Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/wy-arng-aasf/new</Url>
+        <Id>us/wy/wy-arng-aasf/new</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+        <Id>us/army/94-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>94th Troop Command</HHQAcronym>
+        <Name>94th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn</Url>
+        <Id>us/army/159-avn/5-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>5th Battalion, 159th AVN</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>5th Battalion, 159th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c/det-1</Url>
+        <FullName>Detachment 1, Company C, 5th Battalion, 159th Aviation Regiment</FullName>
+        <Name>Detachment 1
+
+                    (AZ ARNG)</Name>
+        <Id>us/army/159-avn/5-bn/co-c/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-d/det-1</Url>
+        <FullName>Detachment 1, Company D, 5th Battalion, 159th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company D</Name>
+        <Id>us/army/159-avn/5-bn/co-d/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-e/det-1</Url>
+        <FullName>Detachment 1, Company E, 5th Battalion, 159th Aviation Regiment</FullName>
+        <Name>Detachment 1, Company E</Name>
+        <Id>us/army/159-avn/5-bn/co-e/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c/det-1</Url>
+    <NameNode>Detachment 1, Company C, 5th Battalion, 159th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company C, 5th Battalion, 159th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company C, 5th Battalion, 159th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Papago Army Heliport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Papago Park Mil Res | Phoenix, Arizona, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/az/papago-ahp</Url>
+        <Id>us/az/papago-ahp</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c</Url>
+        <Id>us/army/159-avn/5-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 5th Bn, 159th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company C, 5th Battalion, 159th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>AZ</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-d/det-1</Url>
+    <NameNode>Detachment 1, Company D, 5th Battalion, 159th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company D, 5th Battalion, 159th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company D, 5th Battalion, 159th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c</Url>
+        <Id>us/army/159-avn/5-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 5th Bn, 159th AVN</HHQAcronym>
+        <Name>Company C, 5th Battalion, 159th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-d</Url>
+        <Id>us/army/159-avn/5-bn/co-d</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co D, 5th Bn, 159th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company D, 5th Battalion, 159th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-e/det-1</Url>
+    <NameNode>Detachment 1, Company E, 5th Battalion, 159th AVN
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, Company E, 5th Battalion, 159th AVN, U.S. Army</FullName>
+    <SplitName>Detachment 1, Company E, 5th Battalion, 159th AVN</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-c</Url>
+        <Id>us/army/159-avn/5-bn/co-c</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co C, 5th Bn, 159th AVN</HHQAcronym>
+        <Name>Company C, 5th Battalion, 159th Aviation Regiment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/159-avn/5-bn/co-e</Url>
+        <Id>us/army/159-avn/5-bn/co-e</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Co E, 5th Bn, 159th AVN</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company E, 5th Battalion, 159th Aviation Regiment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/133-engr-co</Url>
+    <NameNode>133rd Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>133rd Engineer Company, U.S. Army</FullName>
+    <SplitName>133rd Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Laramie Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Laramie, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/laramie-armory</Url>
+        <Id>us/wy/laramie-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+        <Id>us/army/94-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>94th Troop Command</HHQAcronym>
+        <Name>94th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1041-engr-co</Url>
+    <NameNode>1041st Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>1041st Engineer Company, U.S. Army</FullName>
+    <SplitName>1041st Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Rock Springs Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Springs, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/rock-springs-armory</Url>
+        <Id>us/wy/rock-springs-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+        <Id>us/army/94-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>94th Troop Command</HHQAcronym>
+        <Name>94th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1041-engr-co/det-1</Url>
+        <FullName>Detachment 1, 1041st Engineer Company</FullName>
+        <Name>Detachment 1</Name>
+        <Id>us/army/1041-engr-co/det-1</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/1041-engr-co/det-2</Url>
+        <FullName>Detachment 2, 1041st Engineer Company</FullName>
+        <Name>Detachment 2</Name>
+        <Id>us/army/1041-engr-co/det-2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1041-engr-co/det-1</Url>
+    <NameNode>Detachment 1, 1041st Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 1, 1041st Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 1, 1041st Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Afton Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Afton, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/afton-armory</Url>
+        <Id>us/wy/afton-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1041-engr-co</Url>
+        <Id>us/army/1041-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1041st Engr Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>1041st Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/1041-engr-co/det-2</Url>
+    <NameNode>Detachment 2, 1041st Engineer Company
+                            U.S. Army</NameNode>
+    <FullName>Detachment 2, 1041st Engineer Company, U.S. Army</FullName>
+    <SplitName>Detachment 2, 1041st Engineer Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Evanston Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Evanston, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/evanston-armory</Url>
+        <Id>us/wy/evanston-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/1041-engr-co</Url>
+        <Id>us/army/1041-engr-co</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>1041st Engr Co</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>1041st Engineer Company</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/67-army-band</Url>
+    <NameNode>67th Army Band
+                            U.S. Army</NameNode>
+    <FullName>67th Army Band, U.S. Army</FullName>
+    <SplitName>67th Army Band</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Wheatland Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheatland, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/wheatland-armory</Url>
+        <Id>us/wy/wheatland-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+        <Id>us/army/94-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>94th Troop Command</HHQAcronym>
+        <Name>94th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/777-asb/co-b/det-3</Url>
+    <NameNode>Detachment 3, Company B, 777th ASB
+                            U.S. Army</NameNode>
+    <FullName>Detachment 3, Company B, 777th ASB, U.S. Army</FullName>
+    <SplitName>Detachment 3, Company B, 777th ASB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/94-trp-cmd</Url>
+        <Id>us/army/94-trp-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>94th Troop Command</HHQAcronym>
+        <Name>94th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/777-asb/co-b</Url>
+        <Id>us/army/777-asb/co-b</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Company B, 777th ASB</HHQAcronym>
+        <Type>Detached</Type>
+        <Name>Company B, 777th Aviation Support Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/213-rgt</Url>
+    <NameNode>213th Regiment
+                            U.S. Army</NameNode>
+    <FullName>213th Regiment, U.S. Army</FullName>
+    <SplitName>213th Regiment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Guernsey</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Guernsey, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/camp-guernsey</Url>
+        <Id>us/wy/camp-guernsey</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+        <Id>us/army/jfhq-wy/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Wyoming</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/84-cst</Url>
+    <NameNode>84th Civil Support Team
+                            U.S. Army</NameNode>
+    <FullName>84th Civil Support Team, U.S. Army</FullName>
+    <SplitName>84th Civil Support Team</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+        <Id>us/army/jfhq-wy/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Wyoming</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/197-pa-det</Url>
+    <NameNode>197th Public Affairs Detachment
+                            U.S. Army</NameNode>
+    <FullName>197th Public Affairs Detachment, U.S. Army</FullName>
+    <SplitName>197th Public Affairs Detachment</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Casper Armory</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Casper, Wyoming, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wy/casper-armory</Url>
+        <Id>us/wy/casper-armory</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+        <Id>us/army/jfhq-wy/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Wyoming</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/osacom/det-53</Url>
+    <NameNode>Detachment 53, OSACOM
+                            U.S. Army</NameNode>
+    <FullName>Detachment 53, OSACOM, U.S. Army</FullName>
+    <SplitName>Detachment 53, OSACOM</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/jfhq-wy/arng-elt</Url>
+        <Id>us/army/jfhq-wy/arng-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ARNG Elt, JFHQ Wyoming</HHQAcronym>
+        <Name>Army National Guard Element, Joint Force Headquarters Wyoming</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/osacom</Url>
+        <Id>us/army/osacom</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>OSACOM</HHQAcronym>
+        <Name>Operational Support Airlift Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>WY</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

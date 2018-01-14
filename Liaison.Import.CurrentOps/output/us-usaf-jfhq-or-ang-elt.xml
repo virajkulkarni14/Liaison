@@ -1,0 +1,1580 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/jfhq-or/ang-elt</Url>
+    <NameNode>Air National Guard Element, JFHQ Oregon
+                            USAF</NameNode>
+    <FullName>Air National Guard Element, JFHQ Oregon, USAF</FullName>
+    <SplitName>Air National Guard Element, JFHQ Oregon</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/ng/jfhq-or</Url>
+        <Id>us/ng/jfhq-or</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>JFHQ Oregon</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>Joint Force Headquarters Oregon</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <FullName>142nd Fighter Wing</FullName>
+        <Name>142nd Fighter Wing</Name>
+        <Id>us/usaf/142-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+        <FullName>173rd Fighter Wing</FullName>
+        <Name>173rd Fighter Wing</Name>
+        <Id>us/usaf/173-fw</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/116-acs</Url>
+        <FullName>116th Air Control Squadron</FullName>
+        <Name>116th Air Control Squadron</Name>
+        <Id>us/usaf/116-acs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+    <NameNode>142nd Fighter Wing
+                            USAF</NameNode>
+    <FullName>142nd Fighter Wing, USAF</FullName>
+    <SplitName>142nd Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/1-af</Url>
+        <Id>us/usaf/1-af</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>1st Air Force</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>1st Air Force</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-or/ang-elt</Url>
+        <Id>us/usaf/jfhq-or/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Oregon</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Oregon</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-og</Url>
+        <FullName>142nd Operations Group</FullName>
+        <Name>142nd Operations Group</Name>
+        <Id>us/usaf/142-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+        <FullName>142nd Mission Support Group</FullName>
+        <Name>142nd Mission Support Group</Name>
+        <Id>us/usaf/142-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mxg</Url>
+        <FullName>142nd Maintenance Group</FullName>
+        <Name>142nd Maintenance Group</Name>
+        <Id>us/usaf/142-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mdg</Url>
+        <FullName>142nd Medical Group</FullName>
+        <Name>142nd Medical Group</Name>
+        <Id>us/usaf/142-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-cptf</Url>
+        <FullName>142nd Comptroller Flight</FullName>
+        <Name>142nd Comptroller Flight</Name>
+        <Id>us/usaf/142-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/125-sts</Url>
+        <FullName>125th Special Tactics Squadron</FullName>
+        <Name>125th Special Tactics Squadron</Name>
+        <Id>us/usaf/125-sts</Id>
+        <IsIndirect>true</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-wf</Url>
+        <FullName>123rd Weather Flight</FullName>
+        <Name>123rd Weather Flight</Name>
+        <Id>us/usaf/123-wf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-og</Url>
+    <NameNode>142nd Operations Group
+                            USAF</NameNode>
+    <FullName>142nd Operations Group, USAF</FullName>
+    <SplitName>142nd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/123-fs</Url>
+        <FullName>123rd Fighter Squadron</FullName>
+        <Name>123rd Fighter Squadron</Name>
+        <Id>us/usaf/123-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-osf</Url>
+        <FullName>142nd Operations Support Flight</FullName>
+        <Name>142nd Operations Support Flight</Name>
+        <Id>us/usaf/142-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-fs</Url>
+    <NameNode>123rd Fighter Squadron
+                            USAF</NameNode>
+    <FullName>123rd Fighter Squadron, USAF</FullName>
+    <SplitName>123rd Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-og</Url>
+        <Id>us/usaf/142-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Operations Group</HHQAcronym>
+        <Name>142nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-osf</Url>
+    <NameNode>142nd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>142nd Operations Support Flight, USAF</FullName>
+    <SplitName>142nd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-og</Url>
+        <Id>us/usaf/142-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Operations Group</HHQAcronym>
+        <Name>142nd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+    <NameNode>142nd Mission Support Group
+                            USAF</NameNode>
+    <FullName>142nd Mission Support Group, USAF</FullName>
+    <SplitName>142nd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-ces</Url>
+        <FullName>142nd Civil Engineer Squadron</FullName>
+        <Name>142nd Civil Engineer Squadron</Name>
+        <Id>us/usaf/142-ces</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-lrs</Url>
+        <FullName>142nd Logistics Readiness Squadron</FullName>
+        <Name>142nd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/142-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-sfs</Url>
+        <FullName>142nd Security Forces Squadron</FullName>
+        <Name>142nd Security Forces Squadron</Name>
+        <Id>us/usaf/142-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-cf</Url>
+        <FullName>142nd Communications Flight</FullName>
+        <Name>142nd Communications Flight</Name>
+        <Id>us/usaf/142-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-svf</Url>
+        <FullName>142nd Services Flight</FullName>
+        <Name>142nd Services Flight</Name>
+        <Id>us/usaf/142-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-ces</Url>
+    <NameNode>142nd Civil Engineer Squadron
+                            USAF</NameNode>
+    <FullName>142nd Civil Engineer Squadron, USAF</FullName>
+    <SplitName>142nd Civil Engineer Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+        <Id>us/usaf/142-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MSG</HHQAcronym>
+        <Name>142nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-lrs</Url>
+    <NameNode>142nd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>142nd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>142nd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+        <Id>us/usaf/142-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MSG</HHQAcronym>
+        <Name>142nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-sfs</Url>
+    <NameNode>142nd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>142nd Security Forces Squadron, USAF</FullName>
+    <SplitName>142nd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+        <Id>us/usaf/142-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MSG</HHQAcronym>
+        <Name>142nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-cf</Url>
+    <NameNode>142nd Communications Flight
+                            USAF</NameNode>
+    <FullName>142nd Communications Flight, USAF</FullName>
+    <SplitName>142nd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+        <Id>us/usaf/142-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MSG</HHQAcronym>
+        <Name>142nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-svf</Url>
+    <NameNode>142nd Services Flight
+                            USAF</NameNode>
+    <FullName>142nd Services Flight, USAF</FullName>
+    <SplitName>142nd Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-msg</Url>
+        <Id>us/usaf/142-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MSG</HHQAcronym>
+        <Name>142nd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-mxg</Url>
+    <NameNode>142nd Maintenance Group
+                            USAF</NameNode>
+    <FullName>142nd Maintenance Group, USAF</FullName>
+    <SplitName>142nd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-amxs</Url>
+        <FullName>142nd Aircraft Maintenance Squadron</FullName>
+        <Name>142nd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/142-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mxs</Url>
+        <FullName>142nd Maintenance Squadron</FullName>
+        <Name>142nd Maintenance Squadron</Name>
+        <Id>us/usaf/142-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mof</Url>
+        <FullName>142nd Maintenance Operations Flight</FullName>
+        <Name>142nd Maintenance Operations Flight</Name>
+        <Id>us/usaf/142-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-amxs</Url>
+    <NameNode>142nd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>142nd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>142nd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mxg</Url>
+        <Id>us/usaf/142-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MXG</HHQAcronym>
+        <Name>142nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-mxs</Url>
+    <NameNode>142nd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>142nd Maintenance Squadron, USAF</FullName>
+    <SplitName>142nd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mxg</Url>
+        <Id>us/usaf/142-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MXG</HHQAcronym>
+        <Name>142nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-mof</Url>
+    <NameNode>142nd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>142nd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>142nd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-mxg</Url>
+        <Id>us/usaf/142-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd MXG</HHQAcronym>
+        <Name>142nd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-mdg</Url>
+    <NameNode>142nd Medical Group
+                            USAF</NameNode>
+    <FullName>142nd Medical Group, USAF</FullName>
+    <SplitName>142nd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/142-cptf</Url>
+    <NameNode>142nd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>142nd Comptroller Flight, USAF</FullName>
+    <SplitName>142nd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/125-sts</Url>
+    <NameNode>125th Special Tactics Squadron
+                            USAF</NameNode>
+    <FullName>125th Special Tactics Squadron, USAF</FullName>
+    <SplitName>125th Special Tactics Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/720-stg</Url>
+        <Id>us/usaf/720-stg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>720th STG</HHQAcronym>
+        <Name>720th Special Tactics Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/123-wf</Url>
+    <NameNode>123rd Weather Flight
+                            USAF</NameNode>
+    <FullName>123rd Weather Flight, USAF</FullName>
+    <SplitName>123rd Weather Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Portland Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/portland-angb</Url>
+        <Id>us/or/portland-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/142-fw</Url>
+        <Id>us/usaf/142-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>142nd Fighter Wing</HHQAcronym>
+        <Name>142nd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+    <NameNode>173rd Fighter Wing
+                            USAF</NameNode>
+    <FullName>173rd Fighter Wing, USAF</FullName>
+    <SplitName>173rd Fighter Wing</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/aetc</Url>
+        <Id>us/usaf/aetc</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>AETC</HHQAcronym>
+        <Type>Aligned</Type>
+        <Name>Air Education and Training Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-or/ang-elt</Url>
+        <Id>us/usaf/jfhq-or/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Oregon</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Oregon</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-og</Url>
+        <FullName>173rd Operations Group</FullName>
+        <Name>173rd Operations Group</Name>
+        <Id>us/usaf/173-og</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <FullName>173rd Mission Support Group</FullName>
+        <Name>173rd Mission Support Group</Name>
+        <Id>us/usaf/173-msg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mxg</Url>
+        <FullName>173rd Maintenance Group</FullName>
+        <Name>173rd Maintenance Group</Name>
+        <Id>us/usaf/173-mxg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mdg</Url>
+        <FullName>173rd Medical Group</FullName>
+        <Name>173rd Medical Group</Name>
+        <Id>us/usaf/173-mdg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-cptf</Url>
+        <FullName>173rd Comptroller Flight</FullName>
+        <Name>173rd Comptroller Flight</Name>
+        <Id>us/usaf/173-cptf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-og</Url>
+    <NameNode>173rd Operations Group
+                            USAF</NameNode>
+    <FullName>173rd Operations Group, USAF</FullName>
+    <SplitName>173rd Operations Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+        <Id>us/usaf/173-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Fighter Wing</HHQAcronym>
+        <Name>173rd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/114-fs</Url>
+        <FullName>114th Fighter Squadron</FullName>
+        <Name>114th Fighter Squadron</Name>
+        <Id>us/usaf/114-fs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/270-atcs</Url>
+        <FullName>270th Air Traffic Control Squadron</FullName>
+        <Name>270th Air Traffic Control Squadron</Name>
+        <Id>us/usaf/270-atcs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-osf</Url>
+        <FullName>173rd Operations Support Flight</FullName>
+        <Name>173rd Operations Support Flight</Name>
+        <Id>us/usaf/173-osf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/114-fs</Url>
+    <NameNode>114th Fighter Squadron
+                            USAF</NameNode>
+    <FullName>114th Fighter Squadron, USAF</FullName>
+    <SplitName>114th Fighter Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-og</Url>
+        <Id>us/usaf/173-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Operations Group</HHQAcronym>
+        <Name>173rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/270-atcs</Url>
+    <NameNode>270th Air Traffic Control Squadron
+                            USAF</NameNode>
+    <FullName>270th Air Traffic Control Squadron, USAF</FullName>
+    <SplitName>270th Air Traffic Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-og</Url>
+        <Id>us/usaf/173-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Operations Group</HHQAcronym>
+        <Name>173rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-osf</Url>
+    <NameNode>173rd Operations Support Flight
+                            USAF</NameNode>
+    <FullName>173rd Operations Support Flight, USAF</FullName>
+    <SplitName>173rd Operations Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-og</Url>
+        <Id>us/usaf/173-og</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Operations Group</HHQAcronym>
+        <Name>173rd Operations Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+    <NameNode>173rd Mission Support Group
+                            USAF</NameNode>
+    <FullName>173rd Mission Support Group, USAF</FullName>
+    <SplitName>173rd Mission Support Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+        <Id>us/usaf/173-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Fighter Wing</HHQAcronym>
+        <Name>173rd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-lrs</Url>
+        <FullName>173rd Logistics Readiness Squadron</FullName>
+        <Name>173rd Logistics Readiness Squadron</Name>
+        <Id>us/usaf/173-lrs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-sfs</Url>
+        <FullName>173rd Security Forces Squadron</FullName>
+        <Name>173rd Security Forces Squadron</Name>
+        <Id>us/usaf/173-sfs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-cef</Url>
+        <FullName>173rd Civil Engineer Flight</FullName>
+        <Name>173rd Civil Engineer Flight</Name>
+        <Id>us/usaf/173-cef</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-cf</Url>
+        <FullName>173rd Communications Flight</FullName>
+        <Name>173rd Communications Flight</Name>
+        <Id>us/usaf/173-cf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fsf</Url>
+        <FullName>173rd Force Support Flight</FullName>
+        <Name>173rd Force Support Flight</Name>
+        <Id>us/usaf/173-fsf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-svf</Url>
+        <FullName>173rd Services Flight</FullName>
+        <Name>173rd Services Flight</Name>
+        <Id>us/usaf/173-svf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-lrs</Url>
+    <NameNode>173rd Logistics Readiness Squadron
+                            USAF</NameNode>
+    <FullName>173rd Logistics Readiness Squadron, USAF</FullName>
+    <SplitName>173rd Logistics Readiness Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <Id>us/usaf/173-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MSG</HHQAcronym>
+        <Name>173rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-sfs</Url>
+    <NameNode>173rd Security Forces Squadron
+                            USAF</NameNode>
+    <FullName>173rd Security Forces Squadron, USAF</FullName>
+    <SplitName>173rd Security Forces Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <Id>us/usaf/173-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MSG</HHQAcronym>
+        <Name>173rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-cef</Url>
+    <NameNode>173rd Civil Engineer Flight
+                            USAF</NameNode>
+    <FullName>173rd Civil Engineer Flight, USAF</FullName>
+    <SplitName>173rd Civil Engineer Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <Id>us/usaf/173-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MSG</HHQAcronym>
+        <Name>173rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-cf</Url>
+    <NameNode>173rd Communications Flight
+                            USAF</NameNode>
+    <FullName>173rd Communications Flight, USAF</FullName>
+    <SplitName>173rd Communications Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <Id>us/usaf/173-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MSG</HHQAcronym>
+        <Name>173rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-fsf</Url>
+    <NameNode>173rd Force Support Flight
+                            USAF</NameNode>
+    <FullName>173rd Force Support Flight, USAF</FullName>
+    <SplitName>173rd Force Support Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <Id>us/usaf/173-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MSG</HHQAcronym>
+        <Name>173rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-svf</Url>
+    <NameNode>173rd Services Flight
+                            USAF</NameNode>
+    <FullName>173rd Services Flight, USAF</FullName>
+    <SplitName>173rd Services Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-msg</Url>
+        <Id>us/usaf/173-msg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MSG</HHQAcronym>
+        <Name>173rd Mission Support Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-mxg</Url>
+    <NameNode>173rd Maintenance Group
+                            USAF</NameNode>
+    <FullName>173rd Maintenance Group, USAF</FullName>
+    <SplitName>173rd Maintenance Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+        <Id>us/usaf/173-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Fighter Wing</HHQAcronym>
+        <Name>173rd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-amxs</Url>
+        <FullName>173rd Aircraft Maintenance Squadron</FullName>
+        <Name>173rd Aircraft Maintenance Squadron</Name>
+        <Id>us/usaf/173-amxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mxs</Url>
+        <FullName>173rd Maintenance Squadron</FullName>
+        <Name>173rd Maintenance Squadron</Name>
+        <Id>us/usaf/173-mxs</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mof</Url>
+        <FullName>173rd Maintenance Operations Flight</FullName>
+        <Name>173rd Maintenance Operations Flight</Name>
+        <Id>us/usaf/173-mof</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-amxs</Url>
+    <NameNode>173rd Aircraft Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>173rd Aircraft Maintenance Squadron, USAF</FullName>
+    <SplitName>173rd Aircraft Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mxg</Url>
+        <Id>us/usaf/173-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MXG</HHQAcronym>
+        <Name>173rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-mxs</Url>
+    <NameNode>173rd Maintenance Squadron
+                            USAF</NameNode>
+    <FullName>173rd Maintenance Squadron, USAF</FullName>
+    <SplitName>173rd Maintenance Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mxg</Url>
+        <Id>us/usaf/173-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MXG</HHQAcronym>
+        <Name>173rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-mof</Url>
+    <NameNode>173rd Maintenance Operations Flight
+                            USAF</NameNode>
+    <FullName>173rd Maintenance Operations Flight, USAF</FullName>
+    <SplitName>173rd Maintenance Operations Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-mxg</Url>
+        <Id>us/usaf/173-mxg</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd MXG</HHQAcronym>
+        <Name>173rd Maintenance Group</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-mdg</Url>
+    <NameNode>173rd Medical Group
+                            USAF</NameNode>
+    <FullName>173rd Medical Group, USAF</FullName>
+    <SplitName>173rd Medical Group</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+        <Id>us/usaf/173-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Fighter Wing</HHQAcronym>
+        <Name>173rd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/173-cptf</Url>
+    <NameNode>173rd Comptroller Flight
+                            USAF</NameNode>
+    <FullName>173rd Comptroller Flight, USAF</FullName>
+    <SplitName>173rd Comptroller Flight</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Kingsley Field Air National Guard Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Klamath Falls, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/kingsley-field-angb</Url>
+        <Id>us/or/kingsley-field-angb</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/173-fw</Url>
+        <Id>us/usaf/173-fw</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>173rd Fighter Wing</HHQAcronym>
+        <Name>173rd Fighter Wing</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/usaf/116-acs</Url>
+    <NameNode>116th Air Control Squadron
+                            USAF</NameNode>
+    <FullName>116th Air Control Squadron, USAF</FullName>
+    <SplitName>116th Air Control Squadron</SplitName>
+    <Service>USAF</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Rilea</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Warrenton, Oregon, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/or/camp-rilea</Url>
+        <Id>us/or/camp-rilea</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/usaf/jfhq-or/ang-elt</Url>
+        <Id>us/usaf/jfhq-or/ang-elt</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>ANG Elt, JFHQ Oregon</HHQAcronym>
+        <Name>Air National Guard Element, Joint Force Headquarters Oregon</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>OR</UnitNGState>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

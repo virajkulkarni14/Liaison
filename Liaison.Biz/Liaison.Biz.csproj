@@ -43,6 +43,7 @@
     <Compile Include="Converter\ConvertToMilOrg.cs" />
     <Compile Include="MilOrgs\BattalionOrg.cs" />
     <Compile Include="MilOrgs\BrigadeOrg.cs" />
+    <Compile Include="MilOrgs\CommandOrg.cs" />
     <Compile Include="MilOrgs\CompanyOrg.cs" />
     <Compile Include="MilOrgs\DetachmentOrg.cs" />
     <Compile Include="MilOrgs\FieldArmyOrg.cs" />

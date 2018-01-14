@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/us-army-corrections-cmd</Url>
+    <NameNode>United States Army Corrections Command
+                            U.S. Army</NameNode>
+    <FullName>United States Army Corrections Command, U.S. Army</FullName>
+    <SplitName>United States Army Corrections Command</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/doa</Url>
+        <Id>us/army/doa</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>Department of the Army</HHQAcronym>
+        <Name>Department of the Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/15-mp-bde</Url>
+        <FullName>15th Military Police Brigade</FullName>
+        <Name>15th Military Police Brigade</Name>
+        <Id>us/army/15-mp-bde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usacf-e</Url>
+        <FullName>United States Army Corrections Facility Europe</FullName>
+        <Name>United States Army Corrections Facility Europe</Name>
+        <Id>us/army/usacf-e</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usacf-k</Url>
+        <FullName>United States Army Corrections Facility Korea</FullName>
+        <Name>United States Army Corrections Facility Korea</Name>
+        <Id>us/army/usacf-k</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/nwjrcf</Url>
+        <FullName>Northwest Joint Regional Correctional Facility</FullName>
+        <Name>Northwest Joint Regional Correctional Facility</Name>
+        <Id>us/army/nwjrcf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/15-mp-bde</Url>
+    <NameNode>15th Military Police Brigade
+                            U.S. Army</NameNode>
+    <FullName>15th Military Police Brigade, U.S. Army</FullName>
+    <SplitName>15th Military Police Brigade</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/us-army-corrections-cmd</Url>
+        <Id>us/army/us-army-corrections-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>U.S. Army Corrections Cmd</HHQAcronym>
+        <Name>United States Army Corrections Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/15-mp-bde/hhd</Url>
+        <FullName>Headquarters and Headquarters Detachment, 15th Military Police Brigade</FullName>
+        <Name>Headquarters and Headquarters Detachment</Name>
+        <Id>us/army/15-mp-bde/hhd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+        <FullName>40th Military Police Battalion</FullName>
+        <Name>40th Military Police Battalion
+
+        
+        
+                                    (Training and Readiness Authority)</Name>
+        <Id>us/army/40-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/705-mp-bn</Url>
+        <FullName>705th Military Police Battalion</FullName>
+        <Name>705th Military Police Battalion
+
+        
+        
+                                    (Training and Readiness Authority)</Name>
+        <Id>us/army/705-mp-bn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/15-mp-bde/hhd</Url>
+    <NameNode>HHD, 15th MP Bde
+                            U.S. Army</NameNode>
+    <FullName>HHD, 15th MP Bde, U.S. Army</FullName>
+    <SplitName>HHD, 15th MP Bde</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/15-mp-bde</Url>
+        <Id>us/army/15-mp-bde</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>15th MP Bde</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>15th Military Police Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+    <NameNode>40th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>40th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>40th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/15-mp-bde</Url>
+        <Id>us/army/15-mp-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>15th MP Bde</HHQAcronym>
+        <Type>TRA</Type>
+        <Name>15th Military Police Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 40th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/40-mp-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/256-mp-co</Url>
+        <FullName>256th Military Police Company</FullName>
+        <Name>256th Military Police Company</Name>
+        <Id>us/army/256-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/291-mp-co</Url>
+        <FullName>291st Military Police Company</FullName>
+        <Name>291st Military Police Company</Name>
+        <Id>us/army/291-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/526-mp-co</Url>
+        <FullName>526th Military Police Company</FullName>
+        <Name>526th Military Police Company</Name>
+        <Id>us/army/526-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/usdb/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, United States Disciplinary Barracks</FullName>
+        <Name>Headquarters and Headquarters Company, United States Disciplinary Barracks</Name>
+        <Id>us/army/usdb/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/40-mp-bn/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, 40th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, 40th MP Bn, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, 40th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+        <Id>us/army/40-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>40th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>40th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/256-mp-co</Url>
+    <NameNode>256th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>256th Military Police Company, U.S. Army</FullName>
+    <SplitName>256th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+        <Id>us/army/40-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>40th MP Bn</HHQAcronym>
+        <Name>40th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/291-mp-co</Url>
+    <NameNode>291st Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>291st Military Police Company, U.S. Army</FullName>
+    <SplitName>291st Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+        <Id>us/army/40-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>40th MP Bn</HHQAcronym>
+        <Name>40th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/526-mp-co</Url>
+    <NameNode>526th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>526th Military Police Company, U.S. Army</FullName>
+    <SplitName>526th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+        <Id>us/army/40-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>40th MP Bn</HHQAcronym>
+        <Name>40th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usdb/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, USDB
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, USDB, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, USDB</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/40-mp-bn</Url>
+        <Id>us/army/40-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>40th MP Bn</HHQAcronym>
+        <Name>40th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/705-mp-bn</Url>
+    <NameNode>705th Military Police Battalion
+                            U.S. Army</NameNode>
+    <FullName>705th Military Police Battalion, U.S. Army</FullName>
+    <SplitName>705th Military Police Battalion</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/15-mp-bde</Url>
+        <Id>us/army/15-mp-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>15th MP Bde</HHQAcronym>
+        <Type>TRA</Type>
+        <Name>15th Military Police Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/705-mp-bn/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, 705th Military Police Battalion</FullName>
+        <Name>Headquarters and Headquarters Company</Name>
+        <Id>us/army/705-mp-bn/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/165-mp-co</Url>
+        <FullName>165th Military Police Company</FullName>
+        <Name>165th Military Police Company</Name>
+        <Id>us/army/165-mp-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://currentops.com/unit/us/army/jrcf/hhc</Url>
+        <FullName>Headquarters and Headquarters Company, Midwest Joint Regional Correctional Facility</FullName>
+        <Name>Headquarters and Headquarters Company, Midwest Joint Regional Correctional Facility</Name>
+        <Id>us/army/jrcf/hhc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/705-mp-bn/hhc</Url>
+    <NameNode>HHC, 705th MP Bn
+                            U.S. Army</NameNode>
+    <FullName>HHC, 705th MP Bn, U.S. Army</FullName>
+    <SplitName>HHC, 705th MP Bn</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/705-mp-bn</Url>
+        <Id>us/army/705-mp-bn</Id>
+        <DateRange />
+        <IsCurrent>false</IsCurrent>
+        <HHQAcronym>705th MP Bn</HHQAcronym>
+        <Type>Organic</Type>
+        <Name>705th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/165-mp-co</Url>
+    <NameNode>165th Military Police Company
+                            U.S. Army</NameNode>
+    <FullName>165th Military Police Company, U.S. Army</FullName>
+    <SplitName>165th Military Police Company</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/705-mp-bn</Url>
+        <Id>us/army/705-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>705th MP Bn</HHQAcronym>
+        <Name>705th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/jrcf/hhc</Url>
+    <NameNode>Headquarters and Headquarters Company, JRCF
+                            U.S. Army</NameNode>
+    <FullName>Headquarters and Headquarters Company, JRCF, U.S. Army</FullName>
+    <SplitName>Headquarters and Headquarters Company, JRCF</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leavenworth, Kansas, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/ks/fort-leavenworth</Url>
+        <Id>us/ks/fort-leavenworth</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/705-mp-bn</Url>
+        <Id>us/army/705-mp-bn</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>705th MP Bn</HHQAcronym>
+        <Name>705th Military Police Battalion</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usacf-e</Url>
+    <NameNode>United States Army Corrections Facility Europe
+                            U.S. Army</NameNode>
+    <FullName>United States Army Corrections Facility Europe, U.S. Army</FullName>
+    <SplitName>United States Army Corrections Facility Europe</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>2013 - ...</DateRange>
+        <BaseName>Sembach Kaserne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sembach, Rhineland-Palatinate, Germany</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/de/rp/sembach-kaserne</Url>
+        <Id>de/rp/sembach-kaserne</Id>
+      </LocationObject>
+      <LocationObject>
+        <DateRange>... - 2013</DateRange>
+        <BaseName>Coleman Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mannheim, Baden-Württemberg, Germany</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://currentops.com/installations/de/bw/coleman-bks</Url>
+        <Id>de/bw/coleman-bks</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/18-mp-bde</Url>
+        <Id>us/army/18-mp-bde</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>18th MP Bde</HHQAcronym>
+        <Type>OPCON</Type>
+        <Name>18th Military Police Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/us-army-corrections-cmd</Url>
+        <Id>us/army/us-army-corrections-cmd</Id>
+        <DateRange>2010 - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>U.S. Army Corrections Cmd</HHQAcronym>
+        <Name>United States Army Corrections Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/usacf-k</Url>
+    <NameNode>United States Army Corrections Facility Korea
+                            U.S. Army</NameNode>
+    <FullName>United States Army Corrections Facility Korea, U.S. Army</FullName>
+    <SplitName>United States Army Corrections Facility Korea</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Camp Humphreys</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pyongtaek, Area III, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/kr/camp-humphreys</Url>
+        <Id>kr/camp-humphreys</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/us-army-corrections-cmd</Url>
+        <Id>us/army/us-army-corrections-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>U.S. Army Corrections Cmd</HHQAcronym>
+        <Name>United States Army Corrections Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://currentops.com/unit/us/army/nwjrcf</Url>
+    <NameNode>Northwest Joint Regional Correctional Facility
+                            U.S. Army</NameNode>
+    <FullName>Northwest Joint Regional Correctional Facility, U.S. Army</FullName>
+    <SplitName>Northwest Joint Regional Correctional Facility</SplitName>
+    <Service>U.S. Army</Service>
+    <LogoUrl />
+    <Locations>
+      <LocationObject>
+        <DateRange>... - Present</DateRange>
+        <BaseName>Fort Lewis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JB Lewis-McChord | Tacoma, Washington, United States</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://currentops.com/installations/us/wa/fort-lewis</Url>
+        <Id>us/wa/fort-lewis</Id>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://currentops.com/unit/us/army/us-army-corrections-cmd</Url>
+        <Id>us/army/us-army-corrections-cmd</Id>
+        <DateRange>... - Present</DateRange>
+        <IsCurrent>true</IsCurrent>
+        <HHQAcronym>U.S. Army Corrections Cmd</HHQAcronym>
+        <Name>United States Army Corrections Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

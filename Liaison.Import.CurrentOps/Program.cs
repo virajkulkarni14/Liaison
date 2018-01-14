@@ -17,47 +17,50 @@ namespace Liaison.Import.CurrentOps
 
             using (var webClient = new WebClient())
             {
-               // string[] urls = { "https://currentops.com/unit/us/army/doa", "https://currentops.com/unit/us/army/forscom" };
+                // string[] urls = { "https://currentops.com/unit/us/army/doa", "https://currentops.com/unit/us/army/forscom" };
                 // string[] urls = { "https://currentops.com/unit/us/army/forscom" };
                 //var url = "https://currentops.com/unit/us/army/1-id";
                 //var url = "https://currentops.com/unit/us/army/6-cav/1-sqdn";
                 //var url = "https://currentops.com/unit/us/army/228-avn/2-bn";
 
-                    //var url = "https://currentops.com/unit/us/army/usarc";
-                    //var url = "https://currentops.com/unit/us/army/forscom";
-                    //string[] urls = { "https://currentops.com/unit/us/army/1-army" };
+                //var url = "https://currentops.com/unit/us/army/usarc";
+                //var url = "https://currentops.com/unit/us/army/forscom";
+                //string[] urls = { "https://currentops.com/unit/us/army/1-army" };
 
-                    //string[] urls = { "https://currentops.com/unit/us/army/osa",
-                    //    "https://currentops.com/unit/us/army/tradoc",
-                    //    "https://currentops.com/unit/us/army/amc",
-                    //    "https://currentops.com/unit/us/army/usarpac",
-                    //    "https://currentops.com/unit/us/army/usarcent",
-                    //    "https://currentops.com/unit/us/army/usareur",
-                    //    "https://currentops.com/unit/us/army/usarnorth",
-                    //    "https://currentops.com/unit/us/army/usasoc",
-                    //    "https://currentops.com/unit/us/army/arstrat",
-                    //    "https://currentops.com/unit/us/army/arcyber",
-                    //    "https://currentops.com/unit/us/army/usarso",
-                    //    "https://currentops.com/unit/us/army/usaraf",
-                    //    "https://currentops.com/unit/us/army/sddc",
-                    //    "https://currentops.com/unit/us/army/imcom",
-                    //    "https://currentops.com/unit/us/army/usace",
-                    //    "https://currentops.com/unit/us/army/medcom",
-                    //    "https://currentops.com/unit/us/army/usma",
-                    //    "https://currentops.com/unit/us/army/netcom",
-                    //    "https://currentops.com/unit/us/army/inscom",
-                    //    "https://currentops.com/unit/us/army/mdw",
-                    //    "https://currentops.com/unit/us/army/usacidc",
-                    //    "https://currentops.com/unit/us/army/atec",
-                    //    "https://currentops.com/unit/us/army/usaasc",
-                    //    "https://currentops.com/unit/us/army/us-army-corrections-cmd"
-                    //};
-                string[] urls =
-                {
-                  //  "https://currentops.com/unit/us/usn/cno",
-                    "https://currentops.com/unit/us/usmc/usmc"
-                };
-              // string[] urls = GetNationalGuard();
+                //string[] urls = {
+                //        //"https://currentops.com/unit/us/army/osa",
+                //        //"https://currentops.com/unit/us/army/tradoc",
+                //        //"https://currentops.com/unit/us/army/amc",
+                //        //"https://currentops.com/unit/us/army/usarpac",
+                //        //"https://currentops.com/unit/us/army/usarcent",
+
+                //        //"https://currentops.com/unit/us/army/usarnorth",
+                //        //"https://currentops.com/unit/us/army/usasoc",
+                //        //"https://currentops.com/unit/us/army/arstrat",
+                //        //"https://currentops.com/unit/us/army/arcyber",
+                //        "https://currentops.com/unit/us/army/usarso",
+                //        "https://currentops.com/unit/us/army/usaraf",
+                //        "https://currentops.com/unit/us/army/sddc",
+                //        "https://currentops.com/unit/us/army/imcom",
+                //        "https://currentops.com/unit/us/army/usace",
+                //        "https://currentops.com/unit/us/army/medcom",
+                //        "https://currentops.com/unit/us/army/usma",
+                //        "https://currentops.com/unit/us/army/netcom",
+                //        "https://currentops.com/unit/us/army/inscom",
+                //        "https://currentops.com/unit/us/army/mdw",
+                //        "https://currentops.com/unit/us/army/usacidc",
+                //        "https://currentops.com/unit/us/army/atec",
+                //        "https://currentops.com/unit/us/army/usaasc",
+                //        "https://currentops.com/unit/us/army/us-army-corrections-cmd",
+                //         "https://currentops.com/unit/us/army/usareur",
+                //    };
+                // string[] urls =
+                // {
+                //  "https://currentops.com/unit/us/usn/cno",
+                //   "https://currentops.com/unit/us/usmc/usmc"
+                //};
+
+                 string[] urls = GetNationalGuard();
                 //string[] urls = GetUCCs();
 
                 foreach (var url in urls)
@@ -109,7 +112,7 @@ namespace Liaison.Import.CurrentOps
             obj.FullName = fullname;
             var split = SplitService(nameText);
             obj.SplitName = split[0];
-            obj.Service = split[1];
+            //obj.Service = split[1];
             obj.LogoUrl = GetLogoUrl(titleNode.InnerHtml.Trim());
 
             GetServiceAndComponent(componentNode, obj);
@@ -347,6 +350,7 @@ namespace Liaison.Import.CurrentOps
             {
                 returnable[1] = "Multinational";
             }
+            
             processable = nameText.Replace(returnable[1], "");
             returnable[0] = processable.Trim();
 
