@@ -8,7 +8,8 @@ namespace Liaison.Helper.Enumerators
 {
     public enum Services
     {
-        Navy = 1,
+        Unknown,
+        Navy,
         Army,
         AirForce,
         Marines,
@@ -37,7 +38,8 @@ namespace Liaison.Helper.Enumerators
     }
     public enum ServiceType
     {
-        Active = 1,
+        Unknown,
+        Active,
         AC_RC,
         Reserve,//B. Army Reserve, US Army Reserve
         Volunteer, // TA, ANG

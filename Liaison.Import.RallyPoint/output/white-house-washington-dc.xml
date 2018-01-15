@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/white-house-washington-dc</Url>
+    <NameNode>White House</NameNode>
+    <FullName>White House</FullName>
+    <SplitName>White House</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/439/small/whitehouse.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eop-executive-office-of-the-president-washington-dc</Url>
+        <FullName>Executive Office of the President</FullName>
+        <Name>EOP</Name>
+        <Id>eop-executive-office-of-the-president-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/odni-office-of-the-director-of-national-intelligence</Url>
+        <FullName>Office of the Director of National Intelligence</FullName>
+        <Name>ODNI</Name>
+        <Id>odni-office-of-the-director-of-national-intelligence</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eop-executive-office-of-the-president-washington-dc</Url>
+    <NameNode>Executive Office of the President, White House</NameNode>
+    <FullName>Executive Office of the President, White House</FullName>
+    <SplitName>Executive Office of the President, White House</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ondcp-office-of-national-drug-control-policy-washington-dc</Url>
+        <FullName>Office of National Drug Control Policy</FullName>
+        <Name>ONDCP</Name>
+        <Id>ondcp-office-of-national-drug-control-policy-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/nss-national-security-staff-washington-dc</Url>
+        <FullName>National Security Staff</FullName>
+        <Name>NSS</Name>
+        <Id>nss-national-security-staff-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/omb-office-of-management-and-budget-washington-dc</Url>
+        <FullName>Office of Management and Budget</FullName>
+        <Name>OMB</Name>
+        <Id>omb-office-of-management-and-budget-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ostp-office-of-science-and-technology-policy-washington-dc</Url>
+        <FullName>Office of Science and Technology Policy</FullName>
+        <Name>OSTP</Name>
+        <Id>ostp-office-of-science-and-technology-policy-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ovp-office-of-the-vice-president-washington-dc</Url>
+        <FullName>Office of the Vice President</FullName>
+        <Name>OVP</Name>
+        <Id>ovp-office-of-the-vice-president-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/nsa-national-security-advisor-washington-dc</Url>
+        <FullName>National Security Advisor</FullName>
+        <Name>NSA</Name>
+        <Id>nsa-national-security-advisor-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/owhc-office-of-the-white-house-counsel-washington-dc</Url>
+        <FullName>Office of the White House Counsel</FullName>
+        <Name>OWHC</Name>
+        <Id>owhc-office-of-the-white-house-counsel-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/oma-office-of-management-and-administration-washington-dc</Url>
+        <FullName>Office of Management and Administration</FullName>
+        <Name>OMA</Name>
+        <Id>oma-office-of-management-and-administration-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/whmo-white-house-military-office-washington-dc</Url>
+        <FullName>White House Military Office</FullName>
+        <Name>WHMO</Name>
+        <Id>whmo-white-house-military-office-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/nsc-national-security-council-washington-dc</Url>
+        <FullName>National Security Council</FullName>
+        <Name>NSC</Name>
+        <Id>nsc-national-security-council-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/joining-forces-washington-dc</Url>
+        <FullName>Joining Forces</FullName>
+        <Name>Joining Forces</Name>
+        <Id>joining-forces-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ondcp-office-of-national-drug-control-policy-washington-dc</Url>
+    <NameNode>Office of National Drug Control Policy, Executive Office of the President</NameNode>
+    <FullName>Office of National Drug Control Policy, Executive Office of the President</FullName>
+    <SplitName>Office of National Drug Control Policy, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/nss-national-security-staff-washington-dc</Url>
+    <NameNode>National Security Staff, Executive Office of the President</NameNode>
+    <FullName>National Security Staff, Executive Office of the President</FullName>
+    <SplitName>National Security Staff, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/omb-office-of-management-and-budget-washington-dc</Url>
+    <NameNode>Office of Management and Budget, Executive Office of the President</NameNode>
+    <FullName>Office of Management and Budget, Executive Office of the President</FullName>
+    <SplitName>Office of Management and Budget, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ostp-office-of-science-and-technology-policy-washington-dc</Url>
+    <NameNode>Office of Science and Technology Policy, Executive Office of the President</NameNode>
+    <FullName>Office of Science and Technology Policy, Executive Office of the President</FullName>
+    <SplitName>Office of Science and Technology Policy, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ovp-office-of-the-vice-president-washington-dc</Url>
+    <NameNode>Office of the Vice President, Executive Office of the President</NameNode>
+    <FullName>Office of the Vice President, Executive Office of the President</FullName>
+    <SplitName>Office of the Vice President, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/nsa-national-security-advisor-washington-dc</Url>
+    <NameNode>National Security Advisor, Executive Office of the President</NameNode>
+    <FullName>National Security Advisor, Executive Office of the President</FullName>
+    <SplitName>National Security Advisor, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/owhc-office-of-the-white-house-counsel-washington-dc</Url>
+    <NameNode>Office of the White House Counsel, Executive Office of the President</NameNode>
+    <FullName>Office of the White House Counsel, Executive Office of the President</FullName>
+    <SplitName>Office of the White House Counsel, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/oma-office-of-management-and-administration-washington-dc</Url>
+    <NameNode>Office of Management and Administration, Executive Office of the President</NameNode>
+    <FullName>Office of Management and Administration, Executive Office of the President</FullName>
+    <SplitName>Office of Management and Administration, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/whmo-white-house-military-office-washington-dc</Url>
+    <NameNode>White House Military Office, Executive Office of the President</NameNode>
+    <FullName>White House Military Office, Executive Office of the President</FullName>
+    <SplitName>White House Military Office, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/whta-white-house-transportation-agency-washington-dc</Url>
+        <FullName>White House Transportation Agency</FullName>
+        <Name>WHTA</Name>
+        <Id>whta-white-house-transportation-agency-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/whta-white-house-transportation-agency-washington-dc</Url>
+    <NameNode>White House Transportation Agency, White House Military Office</NameNode>
+    <FullName>White House Transportation Agency, White House Military Office</FullName>
+    <SplitName>White House Transportation Agency, White House Military Office</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/nsc-national-security-council-washington-dc</Url>
+    <NameNode>National Security Council, Executive Office of the President</NameNode>
+    <FullName>National Security Council, Executive Office of the President</FullName>
+    <SplitName>National Security Council, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/440/small/president.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/joining-forces-washington-dc</Url>
+    <NameNode>Joining Forces, Executive Office of the President</NameNode>
+    <FullName>Joining Forces, Executive Office of the President</FullName>
+    <SplitName>Joining Forces, Executive Office of the President</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/688/small/joiningforces.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/odni-office-of-the-director-of-national-intelligence</Url>
+    <NameNode>Office of the Director of National Intelligence, White House</NameNode>
+    <FullName>Office of the Director of National Intelligence, White House</FullName>
+    <SplitName>Office of the Director of National Intelligence, White House</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/439/small/whitehouse.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/nctc-national-counter-terrorism-center--2</Url>
+        <FullName>National Counter Terrorism Center</FullName>
+        <Name>NCTC</Name>
+        <Id>nctc-national-counter-terrorism-center--2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/nctc-national-counter-terrorism-center--2</Url>
+    <NameNode>National Counter Terrorism Center, Office of the Director of National Intelligence</NameNode>
+    <FullName>National Counter Terrorism Center, Office of the Director of National Intelligence</FullName>
+    <SplitName>National Counter Terrorism Center, Office of the Director of National Intelligence</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/439/small/whitehouse.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

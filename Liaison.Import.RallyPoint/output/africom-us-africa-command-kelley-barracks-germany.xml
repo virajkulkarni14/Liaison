@@ -1,0 +1,1667 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/africom-us-africa-command-kelley-barracks-germany</Url>
+    <NameNode>US Africa Command</NameNode>
+    <FullName>Africa Command</FullName>
+    <SplitName>US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/028/small/africacmd.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kelley Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kelley Barracks, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kelley-barracks-germany</Url>
+        <Id>kelley-barracks-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/africom-hq-africom-headquarters-kelley-barracks-germany</Url>
+        <FullName>AFRICOM Headquarters</FullName>
+        <Name>AFRICOM HQ</Name>
+        <Id>africom-hq-africom-headquarters-kelley-barracks-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/africom-embassies-africom-regional-embassies</Url>
+        <FullName>AFRICOM Regional Embassies</FullName>
+        <Name>AFRICOM Embassies</Name>
+        <Id>africom-embassies-africom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cjtf-hoa-combined-joint-task-force-horn-of-africa-camp-lemonnier-djibouti</Url>
+        <FullName>Combined Joint Task Force - Horn of Africa</FullName>
+        <Name>CJTF-HOA</Name>
+        <Id>cjtf-hoa-combined-joint-task-force-horn-of-africa-camp-lemonnier-djibouti</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/africom-hq-africom-headquarters-kelley-barracks-germany</Url>
+    <NameNode>AFRICOM Headquarters, US Africa Command</NameNode>
+    <FullName>AFRICOM Headquarters, Africa Command</FullName>
+    <SplitName>AFRICOM Headquarters, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/028/small/africacmd.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kelley Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kelley Barracks, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kelley-barracks-germany</Url>
+        <Id>kelley-barracks-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/africom-embassies-africom-regional-embassies</Url>
+    <NameNode>AFRICOM Regional Embassies, US Africa Command</NameNode>
+    <FullName>AFRICOM Regional Embassies, Africa Command</FullName>
+    <SplitName>AFRICOM Regional Embassies, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/northern-africa-africom-regional-embassies</Url>
+        <FullName />
+        <Name>Northern Africa</Name>
+        <Id>northern-africa-africom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/western-africa-africom-regional-embassies</Url>
+        <FullName />
+        <Name>Western Africa</Name>
+        <Id>western-africa-africom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eastern-africa-africom-regional-embassies</Url>
+        <FullName />
+        <Name>Eastern Africa</Name>
+        <Id>eastern-africa-africom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southern-africa-africom-regional-embassies</Url>
+        <FullName />
+        <Name>Southern Africa</Name>
+        <Id>southern-africa-africom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northern-africa-africom-regional-embassies</Url>
+    <NameNode>AFRICOM Regional Embassies, US Africa Command</NameNode>
+    <FullName>AFRICOM Regional Embassies, Africa Command</FullName>
+    <SplitName>AFRICOM Regional Embassies, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-algiers-us-embassy-algiers-algiers-algeria</Url>
+        <FullName>US Embassy - Algiers</FullName>
+        <Name>USE - Algiers</Name>
+        <Id>use-algiers-us-embassy-algiers-algiers-algeria</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-n-djamena-us-embassy-n-djamena-n-djamena-chad</Url>
+        <FullName>US Embassy - N&amp;#39;Djamena</FullName>
+        <Name>USE - N&amp;#x27;Djamena</Name>
+        <Id>use-n-djamena-us-embassy-n-djamena-n-djamena-chad</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tripoli-us-embassy-tripoli-tripoli-libya</Url>
+        <FullName>US Embassy - Tripoli</FullName>
+        <Name>USE - Tripoli</Name>
+        <Id>use-tripoli-us-embassy-tripoli-tripoli-libya</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-benghazi-us-consulate-general-benghazi-benghazi-libya</Url>
+        <FullName>US Consulate General - Benghazi</FullName>
+        <Name>USCG - Benghazi</Name>
+        <Id>uscg-benghazi-us-consulate-general-benghazi-benghazi-libya</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-rabat-us-embassy-rabat-rabat-morocco</Url>
+        <FullName>US Embassy - Rabat</FullName>
+        <Name>USE - Rabat</Name>
+        <Id>use-rabat-us-embassy-rabat-rabat-morocco</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-niamey-us-embassy-niamey-niamey-niger</Url>
+        <FullName>US Embassy - Niamey</FullName>
+        <Name>USE - Niamey</Name>
+        <Id>use-niamey-us-embassy-niamey-niamey-niger</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-khartoum-us-embassy-khartoum-khartoum-sudan</Url>
+        <FullName>US Embassy - Khartoum</FullName>
+        <Name>USE - Khartoum</Name>
+        <Id>use-khartoum-us-embassy-khartoum-khartoum-sudan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-asmara-us-embassy-asmara-asmara-eritrea</Url>
+        <FullName>US Embassy - Asmara</FullName>
+        <Name>USE - Asmara</Name>
+        <Id>use-asmara-us-embassy-asmara-asmara-eritrea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tunis-us-embassy-tunis-tunis-tunisia</Url>
+        <FullName>US Embassy - Tunis</FullName>
+        <Name>USE - Tunis</Name>
+        <Id>use-tunis-us-embassy-tunis-tunis-tunisia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-casablanca-us-consulate-general-casablanca-casablanca-morocco</Url>
+        <FullName>US Consulate General - Casablanca</FullName>
+        <Name>USCG - Casablanca</Name>
+        <Id>uscg-casablanca-us-consulate-general-casablanca-casablanca-morocco</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-algiers-us-embassy-algiers-algiers-algeria</Url>
+    <NameNode>US Embassy - Algiers, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Algiers, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Algiers, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Algiers</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Algiers, Algeria</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/algiers-algeria</Url>
+        <Id>algiers-algeria</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-n-djamena-us-embassy-n-djamena-n-djamena-chad</Url>
+    <NameNode>US Embassy - N&amp;#x27;Djamena, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - N&amp;#x27;Djamena, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - N&amp;#x27;Djamena, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>N&amp;#x27;Djamena</BaseName>
+        <Deployment>false</Deployment>
+        <Location>N&amp;#x27;Djamena, Chad</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/n-djamena-chad</Url>
+        <Id>n-djamena-chad</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tripoli-us-embassy-tripoli-tripoli-libya</Url>
+    <NameNode>US Embassy - Tripoli, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tripoli, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tripoli, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tripoli</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tripoli, Libya</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tripoli-libya</Url>
+        <Id>tripoli-libya</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-benghazi-us-consulate-general-benghazi-benghazi-libya</Url>
+    <NameNode>US Consulate General - Benghazi, AFRICOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Benghazi, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Benghazi, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Benghazi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Benghazi, Libya</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/benghazi-libya</Url>
+        <Id>benghazi-libya</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-rabat-us-embassy-rabat-rabat-morocco</Url>
+    <NameNode>US Embassy - Rabat, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Rabat, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Rabat, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rabat</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rabat, Morocco</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rabat-morocco</Url>
+        <Id>rabat-morocco</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-niamey-us-embassy-niamey-niamey-niger</Url>
+    <NameNode>US Embassy - Niamey, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Niamey, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Niamey, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Niamey</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Niamey, Niger</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/niamey-niger</Url>
+        <Id>niamey-niger</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-khartoum-us-embassy-khartoum-khartoum-sudan</Url>
+    <NameNode>US Embassy - Khartoum, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Khartoum, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Khartoum, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Khartoum</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Khartoum, Sudan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/khartoum-sudan</Url>
+        <Id>khartoum-sudan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-asmara-us-embassy-asmara-asmara-eritrea</Url>
+    <NameNode>US Embassy - Asmara, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Asmara, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Asmara, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Asmara</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Asmara, Eritrea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/asmara-eritrea</Url>
+        <Id>asmara-eritrea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tunis-us-embassy-tunis-tunis-tunisia</Url>
+    <NameNode>US Embassy - Tunis, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tunis, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tunis, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tunis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tunis, Tunisia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tunis-tunisia</Url>
+        <Id>tunis-tunisia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-casablanca-us-consulate-general-casablanca-casablanca-morocco</Url>
+    <NameNode>US Consulate General - Casablanca, AFRICOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Casablanca, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Casablanca, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Casablanca</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Casablanca, Morocco</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/casablanca-morocco</Url>
+        <Id>casablanca-morocco</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/western-africa-africom-regional-embassies</Url>
+    <NameNode>AFRICOM Regional Embassies, US Africa Command</NameNode>
+    <FullName>AFRICOM Regional Embassies, Africa Command</FullName>
+    <SplitName>AFRICOM Regional Embassies, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-nouakchott-us-embassy-nouakchott-nouakchott-mauritania</Url>
+        <FullName>US Embassy - Nouakchott</FullName>
+        <Name>USE - Nouakchott</Name>
+        <Id>use-nouakchott-us-embassy-nouakchott-nouakchott-mauritania</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-ouagadougou-us-embassy-ouagadougou-ouagadougou-burkina-faso</Url>
+        <FullName>US Embassy - Ouagadougou</FullName>
+        <Name>USE - Ouagadougou</Name>
+        <Id>use-ouagadougou-us-embassy-ouagadougou-ouagadougou-burkina-faso</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-cotonou-us-embassy-cotonou-cotonou-benin</Url>
+        <FullName>US Embassy - Cotonou</FullName>
+        <Name>USE - Cotonou</Name>
+        <Id>use-cotonou-us-embassy-cotonou-cotonou-benin</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-libreville-us-embassy-libreville-libreville-gabon</Url>
+        <FullName>US Embassy - Libreville</FullName>
+        <Name>USE - Libreville</Name>
+        <Id>use-libreville-us-embassy-libreville-libreville-gabon</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-banjul-us-embassy-banjul-banjul-gambia</Url>
+        <FullName>US Embassy - Banjul</FullName>
+        <Name>USE - Banjul</Name>
+        <Id>use-banjul-us-embassy-banjul-banjul-gambia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-accra-us-embassy-accra-accra-ghana</Url>
+        <FullName>US Embassy - Accra</FullName>
+        <Name>USE - Accra</Name>
+        <Id>use-accra-us-embassy-accra-accra-ghana</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-conakry-us-embassy-conakry-conakry-guinea</Url>
+        <FullName>US Embassy - Conakry</FullName>
+        <Name>USE - Conakry</Name>
+        <Id>use-conakry-us-embassy-conakry-conakry-guinea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usebo-bissau-us-embassy-branch-office-bissau-bissau-guinea-bissau</Url>
+        <FullName>US Embassy Branch Office - Bissau</FullName>
+        <Name>USEBO - Bissau</Name>
+        <Id>usebo-bissau-us-embassy-branch-office-bissau-bissau-guinea-bissau</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-abidjan-us-embassy-abidjan-abidjan-ivory-coast</Url>
+        <FullName>US Embassy - Abidjan</FullName>
+        <Name>USE - Abidjan</Name>
+        <Id>use-abidjan-us-embassy-abidjan-abidjan-ivory-coast</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-yaounde-us-embassy-yaounde</Url>
+        <FullName>US Embassy - YaoundÃ©</FullName>
+        <Name>USE - YaoundÃ©</Name>
+        <Id>use-yaounde-us-embassy-yaounde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-praia-us-embassy-praia-praia-cape-verde</Url>
+        <FullName>US Embassy - Praia</FullName>
+        <Name>USE - Praia</Name>
+        <Id>use-praia-us-embassy-praia-praia-cape-verde</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-malabo-us-embassy-malabo-malabo-equatorial-guinea</Url>
+        <FullName>US Embassy - Malabo</FullName>
+        <Name>USE - Malabo</Name>
+        <Id>use-malabo-us-embassy-malabo-malabo-equatorial-guinea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-abuja-us-embassy-abuja-abuja-nigeria</Url>
+        <FullName>US Embassy - Abuja</FullName>
+        <Name>USE - Abuja</Name>
+        <Id>use-abuja-us-embassy-abuja-abuja-nigeria</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-lagos-us-consulate-general-lagos-lagos-nigeria</Url>
+        <FullName>US Consulate General - Lagos</FullName>
+        <Name>USCG - Lagos</Name>
+        <Id>uscg-lagos-us-consulate-general-lagos-lagos-nigeria</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-dakar-us-embassy-dakar-dakar-senegal</Url>
+        <FullName>US Embassy - Dakar</FullName>
+        <Name>USE - Dakar</Name>
+        <Id>use-dakar-us-embassy-dakar-dakar-senegal</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-freetown-us-embassy-freetown-freetown-sierra-leone</Url>
+        <FullName>US Embassy - Freetown</FullName>
+        <Name>USE - Freetown</Name>
+        <Id>use-freetown-us-embassy-freetown-freetown-sierra-leone</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bamako-us-embassy-bamako-bamako-mali</Url>
+        <FullName>US Embassy - Bamako</FullName>
+        <Name>USE - Bamako</Name>
+        <Id>use-bamako-us-embassy-bamako-bamako-mali</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-monrovia-us-embassy-monrovia-monrovia-liberia</Url>
+        <FullName>US Embassy - Monrovia</FullName>
+        <Name>USE - Monrovia</Name>
+        <Id>use-monrovia-us-embassy-monrovia-monrovia-liberia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-lome-us-embassy-lome</Url>
+        <FullName>US Embassy - LomÃ©</FullName>
+        <Name>USE - LomÃ©</Name>
+        <Id>use-lome-us-embassy-lome</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-liberia-us-embassy-liberia-stuttgart-germany</Url>
+        <FullName>US Embassy - Liberia</FullName>
+        <Name>USE - Liberia</Name>
+        <Id>use-liberia-us-embassy-liberia-stuttgart-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-nouakchott-us-embassy-nouakchott-nouakchott-mauritania</Url>
+    <NameNode>US Embassy - Nouakchott, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Nouakchott, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Nouakchott, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nouakchott</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nouakchott, Mauritania</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nouakchott-mauritania</Url>
+        <Id>nouakchott-mauritania</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-ouagadougou-us-embassy-ouagadougou-ouagadougou-burkina-faso</Url>
+    <NameNode>US Embassy - Ouagadougou, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Ouagadougou, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Ouagadougou, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ouagadougou</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ouagadougou, Burkina Faso</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ouagadougou-burkina-faso</Url>
+        <Id>ouagadougou-burkina-faso</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-cotonou-us-embassy-cotonou-cotonou-benin</Url>
+    <NameNode>US Embassy - Cotonou, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Cotonou, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Cotonou, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cotonou</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cotonou, Benin</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cotonou-benin</Url>
+        <Id>cotonou-benin</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-libreville-us-embassy-libreville-libreville-gabon</Url>
+    <NameNode>US Embassy - Libreville, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Libreville, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Libreville, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Libreville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Libreville, Gabon</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/libreville-gabon</Url>
+        <Id>libreville-gabon</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-banjul-us-embassy-banjul-banjul-gambia</Url>
+    <NameNode>US Embassy - Banjul, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Banjul, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Banjul, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Banjul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Banjul, Gambia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/banjul-gambia</Url>
+        <Id>banjul-gambia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-accra-us-embassy-accra-accra-ghana</Url>
+    <NameNode>US Embassy - Accra, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Accra, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Accra, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Accra</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Accra, Ghana</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/accra-ghana</Url>
+        <Id>accra-ghana</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-conakry-us-embassy-conakry-conakry-guinea</Url>
+    <NameNode>US Embassy - Conakry, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Conakry, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Conakry, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Conakry</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Conakry, Guinea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/conakry-guinea</Url>
+        <Id>conakry-guinea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usebo-bissau-us-embassy-branch-office-bissau-bissau-guinea-bissau</Url>
+    <NameNode>US Embassy Branch Office - Bissau, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy Branch Office - Bissau, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy Branch Office - Bissau, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bissau</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bissau, Guinea-Bissau</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bissau-guinea-bissau</Url>
+        <Id>bissau-guinea-bissau</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-abidjan-us-embassy-abidjan-abidjan-ivory-coast</Url>
+    <NameNode>US Embassy - Abidjan, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Abidjan, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Abidjan, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Abidjan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Abidjan, Ivory Coast</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/abidjan-ivory-coast</Url>
+        <Id>abidjan-ivory-coast</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-yaounde-us-embassy-yaounde</Url>
+    <NameNode>US Embassy - YaoundÃ©, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - YaoundÃ©, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - YaoundÃ©, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-praia-us-embassy-praia-praia-cape-verde</Url>
+    <NameNode>US Embassy - Praia, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Praia, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Praia, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Praia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Praia, Cape Verde</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/praia-cape-verde</Url>
+        <Id>praia-cape-verde</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-malabo-us-embassy-malabo-malabo-equatorial-guinea</Url>
+    <NameNode>US Embassy - Malabo, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Malabo, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Malabo, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malabo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malabo, Equatorial Guinea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malabo-equatorial-guinea</Url>
+        <Id>malabo-equatorial-guinea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-abuja-us-embassy-abuja-abuja-nigeria</Url>
+    <NameNode>US Embassy - Abuja, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Abuja, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Abuja, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Abuja</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Abuja, Nigeria</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/abuja-nigeria</Url>
+        <Id>abuja-nigeria</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-lagos-us-consulate-general-lagos-lagos-nigeria</Url>
+    <NameNode>US Consulate General - Lagos, AFRICOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Lagos, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Lagos, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lagos</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lagos, Nigeria</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lagos-nigeria</Url>
+        <Id>lagos-nigeria</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-dakar-us-embassy-dakar-dakar-senegal</Url>
+    <NameNode>US Embassy - Dakar, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Dakar, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Dakar, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dakar</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dakar, Senegal</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dakar-senegal</Url>
+        <Id>dakar-senegal</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-freetown-us-embassy-freetown-freetown-sierra-leone</Url>
+    <NameNode>US Embassy - Freetown, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Freetown, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Freetown, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Freetown</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Freetown, Sierra Leone</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/freetown-sierra-leone</Url>
+        <Id>freetown-sierra-leone</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bamako-us-embassy-bamako-bamako-mali</Url>
+    <NameNode>US Embassy - Bamako, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bamako, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bamako, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bamako</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bamako, Mali</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bamako-mali</Url>
+        <Id>bamako-mali</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-monrovia-us-embassy-monrovia-monrovia-liberia</Url>
+    <NameNode>US Embassy - Monrovia, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Monrovia, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Monrovia, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Monrovia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Monrovia, Liberia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/monrovia-liberia</Url>
+        <Id>monrovia-liberia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-lome-us-embassy-lome</Url>
+    <NameNode>US Embassy - LomÃ©, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - LomÃ©, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - LomÃ©, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-liberia-us-embassy-liberia-stuttgart-germany</Url>
+    <NameNode>US Embassy - Liberia, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Liberia, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Liberia, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Stuttgart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Stuttgart, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/stuttgart-germany</Url>
+        <Id>stuttgart-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eastern-africa-africom-regional-embassies</Url>
+    <NameNode>AFRICOM Regional Embassies, US Africa Command</NameNode>
+    <FullName>AFRICOM Regional Embassies, Africa Command</FullName>
+    <SplitName>AFRICOM Regional Embassies, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bujumbura-us-embassy-bujumbura-bujumbura-burundi</Url>
+        <FullName>US Embassy - Bujumbura</FullName>
+        <Name>USE - Bujumbura</Name>
+        <Id>use-bujumbura-us-embassy-bujumbura-bujumbura-burundi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bangui-us-embassy-bangui-bangui-central-african-republic</Url>
+        <FullName>US Embassy - Bangui</FullName>
+        <Name>USE - Bangui</Name>
+        <Id>use-bangui-us-embassy-bangui-bangui-central-african-republic</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-djibouti-us-embassy-djibouti-djibouti-djibouti</Url>
+        <FullName>US Embassy - Djibouti</FullName>
+        <Name>USE - Djibouti</Name>
+        <Id>use-djibouti-us-embassy-djibouti-djibouti-djibouti</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-addis-ababa-us-embassy-addis-ababa-addis-ababa-ethiopia</Url>
+        <FullName>US Embassy - Addis Ababa</FullName>
+        <Name>USE - Addis Ababa</Name>
+        <Id>use-addis-ababa-us-embassy-addis-ababa-addis-ababa-ethiopia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-nairobi-us-embassy-nairobi-nairobi-kenya</Url>
+        <FullName>US Embassy - Nairobi</FullName>
+        <Name>USE - Nairobi</Name>
+        <Id>use-nairobi-us-embassy-nairobi-nairobi-kenya</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kampala-us-embassy-kampala-kampala-uganda</Url>
+        <FullName>US Embassy - Kampala</FullName>
+        <Name>USE - Kampala</Name>
+        <Id>use-kampala-us-embassy-kampala-kampala-uganda</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-lusaka-us-embassy-lusaka-lusaka-zambia</Url>
+        <FullName>US Embassy - Lusaka</FullName>
+        <Name>USE - Lusaka</Name>
+        <Id>use-lusaka-us-embassy-lusaka-lusaka-zambia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-juba-us-embassy-juba-juba-south-sudan</Url>
+        <FullName>US Embassy - Juba</FullName>
+        <Name>USE - Juba</Name>
+        <Id>use-juba-us-embassy-juba-juba-south-sudan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bujumbura-us-embassy-bujumbura-bujumbura-burundi</Url>
+    <NameNode>US Embassy - Bujumbura, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bujumbura, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bujumbura, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bujumbura</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bujumbura, Burundi</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bujumbura-burundi</Url>
+        <Id>bujumbura-burundi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bangui-us-embassy-bangui-bangui-central-african-republic</Url>
+    <NameNode>US Embassy - Bangui, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bangui, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bangui, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bangui</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bangui, Central African Republic</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bangui-central-african-republic</Url>
+        <Id>bangui-central-african-republic</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-djibouti-us-embassy-djibouti-djibouti-djibouti</Url>
+    <NameNode>US Embassy - Djibouti, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Djibouti, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Djibouti, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Djibouti</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Djibouti, Djibouti</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/djibouti-djibouti</Url>
+        <Id>djibouti-djibouti</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-addis-ababa-us-embassy-addis-ababa-addis-ababa-ethiopia</Url>
+    <NameNode>US Embassy - Addis Ababa, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Addis Ababa, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Addis Ababa, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Addis Ababa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Addis Ababa, Ethiopia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/addis-ababa-ethiopia</Url>
+        <Id>addis-ababa-ethiopia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-nairobi-us-embassy-nairobi-nairobi-kenya</Url>
+    <NameNode>US Embassy - Nairobi, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Nairobi, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Nairobi, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nairobi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nairobi, Kenya</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nairobi-kenya</Url>
+        <Id>nairobi-kenya</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kampala-us-embassy-kampala-kampala-uganda</Url>
+    <NameNode>US Embassy - Kampala, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kampala, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kampala, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kampala</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kampala, Uganda</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kampala-uganda</Url>
+        <Id>kampala-uganda</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-lusaka-us-embassy-lusaka-lusaka-zambia</Url>
+    <NameNode>US Embassy - Lusaka, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Lusaka, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Lusaka, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lusaka</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lusaka, Zambia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lusaka-zambia</Url>
+        <Id>lusaka-zambia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-juba-us-embassy-juba-juba-south-sudan</Url>
+    <NameNode>US Embassy - Juba, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Juba, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Juba, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Juba</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juba, South Sudan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/juba-south-sudan</Url>
+        <Id>juba-south-sudan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southern-africa-africom-regional-embassies</Url>
+    <NameNode>AFRICOM Regional Embassies, US Africa Command</NameNode>
+    <FullName>AFRICOM Regional Embassies, Africa Command</FullName>
+    <SplitName>AFRICOM Regional Embassies, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-luanda-us-embassy-luanda-luanda-angola</Url>
+        <FullName>US Embassy - Luanda</FullName>
+        <Name>USE - Luanda</Name>
+        <Id>use-luanda-us-embassy-luanda-luanda-angola</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-gaborone-us-embassy-gaborone-gaborone-botswana</Url>
+        <FullName>US Embassy - Gaborone</FullName>
+        <Name>USE - Gaborone</Name>
+        <Id>use-gaborone-us-embassy-gaborone-gaborone-botswana</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kinshasa-us-embassy-kinshasa-kinshasa-congo</Url>
+        <FullName>US Embassy - Kinshasa</FullName>
+        <Name>USE - Kinshasa</Name>
+        <Id>use-kinshasa-us-embassy-kinshasa-kinshasa-congo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-brazzaville-us-embassy-brazzaville-brazzaville-congo</Url>
+        <FullName>US Embassy - Brazzaville</FullName>
+        <Name>USE - Brazzaville</Name>
+        <Id>use-brazzaville-us-embassy-brazzaville-brazzaville-congo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-dar-es-salaam-us-embassy-dar-es-salaam-dar-es-salaam-tanzania</Url>
+        <FullName>US Embassy - Dar es Salaam</FullName>
+        <Name>USE - Dar es Salaam</Name>
+        <Id>use-dar-es-salaam-us-embassy-dar-es-salaam-dar-es-salaam-tanzania</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-pretoria-us-embassy-pretoria-pretoria-south-africa</Url>
+        <FullName>US Embassy - Pretoria</FullName>
+        <Name>USE - Pretoria</Name>
+        <Id>use-pretoria-us-embassy-pretoria-pretoria-south-africa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-cape-town-us-consulate-general-cape-town-cape-town-south-africa</Url>
+        <FullName>US Consulate General - Cape Town</FullName>
+        <Name>USCG - Cape Town</Name>
+        <Id>uscg-cape-town-us-consulate-general-cape-town-cape-town-south-africa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-durban-us-consulate-general-durban-durban-south-africa</Url>
+        <FullName>US Consulate General - Durban</FullName>
+        <Name>USCG - Durban</Name>
+        <Id>uscg-durban-us-consulate-general-durban-durban-south-africa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-johannesburg-us-consulate-general-johannesburg-johannesburg-south-africa</Url>
+        <FullName>US Consulate General - Johannesburg</FullName>
+        <Name>USCG - Johannesburg</Name>
+        <Id>uscg-johannesburg-us-consulate-general-johannesburg-johannesburg-south-africa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-maseru-us-embassy-maseru-maseru-lesotho</Url>
+        <FullName>US Embassy - Maseru</FullName>
+        <Name>USE - Maseru</Name>
+        <Id>use-maseru-us-embassy-maseru-maseru-lesotho</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-antananarivo-us-embassy-antananarivo-antananarivo-madagascar</Url>
+        <FullName>US Embassy - Antananarivo</FullName>
+        <Name>USE - Antananarivo</Name>
+        <Id>use-antananarivo-us-embassy-antananarivo-antananarivo-madagascar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-lilongwe-us-embassy-lilongwe-lilongwe-malawi</Url>
+        <FullName>US Embassy - Lilongwe</FullName>
+        <Name>USE - Lilongwe</Name>
+        <Id>use-lilongwe-us-embassy-lilongwe-lilongwe-malawi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-maputo-us-embassy-maputo-maputo-mozambique</Url>
+        <FullName>US Embassy - Maputo</FullName>
+        <Name>USE - Maputo</Name>
+        <Id>use-maputo-us-embassy-maputo-maputo-mozambique</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-windhoek-us-embassy-windhoek-windhoek-namibia</Url>
+        <FullName>US Embassy - Windhoek</FullName>
+        <Name>USE - Windhoek</Name>
+        <Id>use-windhoek-us-embassy-windhoek-windhoek-namibia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kigali-us-embassy-kigali-kigali-rwanda</Url>
+        <FullName>US Embassy - Kigali</FullName>
+        <Name>USE - Kigali</Name>
+        <Id>use-kigali-us-embassy-kigali-kigali-rwanda</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-port-louis-us-embassy-port-louis-port-louis-mauritius</Url>
+        <FullName>US Embassy - Port Louis</FullName>
+        <Name>USE - Port Louis</Name>
+        <Id>use-port-louis-us-embassy-port-louis-port-louis-mauritius</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-mbabane-us-embassy-mbabane-mbabane-swaziland</Url>
+        <FullName>US Embassy - Mbabane</FullName>
+        <Name>USE - Mbabane</Name>
+        <Id>use-mbabane-us-embassy-mbabane-mbabane-swaziland</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-harare-us-embassy-harare-harare-zimbabwe</Url>
+        <FullName>US Embassy - Harare</FullName>
+        <Name>USE - Harare</Name>
+        <Id>use-harare-us-embassy-harare-harare-zimbabwe</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-luanda-us-embassy-luanda-luanda-angola</Url>
+    <NameNode>US Embassy - Luanda, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Luanda, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Luanda, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Luanda</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Luanda, Angola</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/luanda-angola</Url>
+        <Id>luanda-angola</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-gaborone-us-embassy-gaborone-gaborone-botswana</Url>
+    <NameNode>US Embassy - Gaborone, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Gaborone, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Gaborone, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Gaborone</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Gaborone, Botswana</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/gaborone-botswana</Url>
+        <Id>gaborone-botswana</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kinshasa-us-embassy-kinshasa-kinshasa-congo</Url>
+    <NameNode>US Embassy - Kinshasa, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kinshasa, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kinshasa, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kinshasa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kinshasa, Congo</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kinshasa-congo</Url>
+        <Id>kinshasa-congo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-brazzaville-us-embassy-brazzaville-brazzaville-congo</Url>
+    <NameNode>US Embassy - Brazzaville, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Brazzaville, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Brazzaville, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Brazzaville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brazzaville, Congo</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/brazzaville-congo</Url>
+        <Id>brazzaville-congo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-dar-es-salaam-us-embassy-dar-es-salaam-dar-es-salaam-tanzania</Url>
+    <NameNode>US Embassy - Dar es Salaam, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Dar es Salaam, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Dar es Salaam, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dar es Salaam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dar es Salaam, Tanzania</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dar-es-salaam-tanzania</Url>
+        <Id>dar-es-salaam-tanzania</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-pretoria-us-embassy-pretoria-pretoria-south-africa</Url>
+    <NameNode>US Embassy - Pretoria, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Pretoria, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Pretoria, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pretoria</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pretoria, South Africa</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pretoria-south-africa</Url>
+        <Id>pretoria-south-africa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-cape-town-us-consulate-general-cape-town-cape-town-south-africa</Url>
+    <NameNode>US Consulate General - Cape Town, AFRICOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Cape Town, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Cape Town, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cape Town</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cape Town, South Africa</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cape-town-south-africa</Url>
+        <Id>cape-town-south-africa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-durban-us-consulate-general-durban-durban-south-africa</Url>
+    <NameNode>US Consulate General - Durban, AFRICOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Durban, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Durban, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Durban</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Durban, South Africa</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/durban-south-africa</Url>
+        <Id>durban-south-africa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-johannesburg-us-consulate-general-johannesburg-johannesburg-south-africa</Url>
+    <NameNode>US Consulate General - Johannesburg, AFRICOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Johannesburg, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Johannesburg, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Johannesburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Johannesburg, South Africa</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/johannesburg-south-africa</Url>
+        <Id>johannesburg-south-africa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-maseru-us-embassy-maseru-maseru-lesotho</Url>
+    <NameNode>US Embassy - Maseru, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Maseru, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Maseru, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Maseru</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maseru, Lesotho</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/maseru-lesotho</Url>
+        <Id>maseru-lesotho</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-antananarivo-us-embassy-antananarivo-antananarivo-madagascar</Url>
+    <NameNode>US Embassy - Antananarivo, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Antananarivo, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Antananarivo, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Antananarivo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Antananarivo, Madagascar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/antananarivo-madagascar</Url>
+        <Id>antananarivo-madagascar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-lilongwe-us-embassy-lilongwe-lilongwe-malawi</Url>
+    <NameNode>US Embassy - Lilongwe, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Lilongwe, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Lilongwe, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lilongwe</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lilongwe, Malawi</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lilongwe-malawi</Url>
+        <Id>lilongwe-malawi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-maputo-us-embassy-maputo-maputo-mozambique</Url>
+    <NameNode>US Embassy - Maputo, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Maputo, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Maputo, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Maputo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maputo, Mozambique</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/maputo-mozambique</Url>
+        <Id>maputo-mozambique</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-windhoek-us-embassy-windhoek-windhoek-namibia</Url>
+    <NameNode>US Embassy - Windhoek, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Windhoek, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Windhoek, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Windhoek</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Windhoek, Namibia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/windhoek-namibia</Url>
+        <Id>windhoek-namibia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kigali-us-embassy-kigali-kigali-rwanda</Url>
+    <NameNode>US Embassy - Kigali, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kigali, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kigali, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kigali</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kigali, Rwanda</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kigali-rwanda</Url>
+        <Id>kigali-rwanda</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-port-louis-us-embassy-port-louis-port-louis-mauritius</Url>
+    <NameNode>US Embassy - Port Louis, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Port Louis, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Port Louis, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Port Louis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Port Louis, Mauritius</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/port-louis-mauritius</Url>
+        <Id>port-louis-mauritius</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-mbabane-us-embassy-mbabane-mbabane-swaziland</Url>
+    <NameNode>US Embassy - Mbabane, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Mbabane, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Mbabane, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mbabane</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mbabane, Swaziland</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mbabane-swaziland</Url>
+        <Id>mbabane-swaziland</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-harare-us-embassy-harare-harare-zimbabwe</Url>
+    <NameNode>US Embassy - Harare, AFRICOM Regional Embassies</NameNode>
+    <FullName>Embassy - Harare, AFRICOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Harare, AFRICOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Harare</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Harare, Zimbabwe</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/harare-zimbabwe</Url>
+        <Id>harare-zimbabwe</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cjtf-hoa-combined-joint-task-force-horn-of-africa-camp-lemonnier-djibouti</Url>
+    <NameNode>Combined Joint Task Force - Horn of Africa, US Africa Command</NameNode>
+    <FullName>Combined Joint Task Force - Horn of Africa, Africa Command</FullName>
+    <SplitName>Combined Joint Task Force - Horn of Africa, US Africa Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/028/small/africacmd.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lemonnier</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lemonnier, Djibouti</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lemonnier-djibouti</Url>
+        <Id>camp-lemonnier-djibouti</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

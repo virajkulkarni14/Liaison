@@ -1,0 +1,1464 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/centcom-us-central-command-macdill-afb-fl</Url>
+    <NameNode>US Central Command</NameNode>
+    <FullName>Central Command</FullName>
+    <SplitName>US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MacDill AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MacDill AFB, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/macdill-afb-fl</Url>
+        <Id>macdill-afb-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/centcom-hq-centcom-headquarters-macdill-afb-fl</Url>
+        <FullName>CENTCOM Headquarters</FullName>
+        <Name>CENTCOM HQ</Name>
+        <Id>centcom-hq-centcom-headquarters-macdill-afb-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/centcom-embassies-centcom-regional-embassies</Url>
+        <FullName>CENTCOM Regional Embassies</FullName>
+        <Name>CENTCOM Embassies</Name>
+        <Id>centcom-embassies-centcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usmtm-us-military-training-mission-to-the-kingdom-of-saudi-arabia-riyadh-saudi-arabia</Url>
+        <FullName>US Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+        <Name>USMTM</Name>
+        <Id>usmtm-us-military-training-mission-to-the-kingdom-of-saudi-arabia-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usfor-a-us-forces-afghanistan-kabul-afghanistan</Url>
+        <FullName>US Forces - Afghanistan</FullName>
+        <Name>USFOR-A</Name>
+        <Id>usfor-a-us-forces-afghanistan-kabul-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mnf-i-multi-national-force-iraq-baghdad-iraq</Url>
+        <FullName>Multi National Force - Iraq</FullName>
+        <Name>MNF-I</Name>
+        <Id>mnf-i-multi-national-force-iraq-baghdad-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usf-i-united-states-forces-iraq-usfi-baghdad-iraq</Url>
+        <FullName>United States Forces - Iraq (USFI)</FullName>
+        <Name>USF-I</Name>
+        <Id>usf-i-united-states-forces-iraq-usfi-baghdad-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cjtf-oir-combined-joint-task-force-operation-inherent-resolve-kuwait</Url>
+        <FullName>Combined Joint Task Force - Operation: Inherent Resolve</FullName>
+        <Name>CJTF-OIR</Name>
+        <Id>cjtf-oir-combined-joint-task-force-operation-inherent-resolve-kuwait</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/centcom-hq-centcom-headquarters-macdill-afb-fl</Url>
+    <NameNode>CENTCOM Headquarters, US Central Command</NameNode>
+    <FullName>CENTCOM Headquarters, Central Command</FullName>
+    <SplitName>CENTCOM Headquarters, US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MacDill AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MacDill AFB, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/macdill-afb-fl</Url>
+        <Id>macdill-afb-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/centcom-forward-jordan-amman-jordan</Url>
+        <FullName>CENTCOM Forward - Jordan</FullName>
+        <Name>CENTCOM Forward - Jordan</Name>
+        <Id>centcom-forward-jordan-amman-jordan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/centcom-forward-jordan-amman-jordan</Url>
+    <NameNode>CENTCOM Forward - Jordan, CENTCOM Headquarters</NameNode>
+    <FullName>CENTCOM Forward - Jordan, CENTCOM Headquarters</FullName>
+    <SplitName>CENTCOM Forward - Jordan, CENTCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Amman</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Amman, Jordan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/amman-jordan</Url>
+        <Id>amman-jordan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/centcom-embassies-centcom-regional-embassies</Url>
+    <NameNode>CENTCOM Regional Embassies, US Central Command</NameNode>
+    <FullName>CENTCOM Regional Embassies, Central Command</FullName>
+    <SplitName>CENTCOM Regional Embassies, US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/arabian-peninsula-centcom-regional-embassies</Url>
+        <FullName />
+        <Name>Arabian Peninsula</Name>
+        <Id>arabian-peninsula-centcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/non-arabian-peninsula-centcom-regional-embassies</Url>
+        <FullName />
+        <Name>Non-Arabian Peninsula</Name>
+        <Id>non-arabian-peninsula-centcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/arabian-peninsula-centcom-regional-embassies</Url>
+    <NameNode>CENTCOM Regional Embassies, US Central Command</NameNode>
+    <FullName>CENTCOM Regional Embassies, Central Command</FullName>
+    <SplitName>CENTCOM Regional Embassies, US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-damascus-us-embassy-damascus-damascus-syria</Url>
+        <FullName>US Embassy - Damascus</FullName>
+        <Name>USE - Damascus</Name>
+        <Id>use-damascus-us-embassy-damascus-damascus-syria</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-sana-a-us-embassy-sana-a-sana-a-yemen</Url>
+        <FullName>US Embassy - Sana&amp;#39;a</FullName>
+        <Name>USE - Sana&amp;#x27;a</Name>
+        <Id>use-sana-a-us-embassy-sana-a-sana-a-yemen</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-muscat-us-embassy-muscat-muscat-oman</Url>
+        <FullName>US Embassy - Muscat</FullName>
+        <Name>USE - Muscat</Name>
+        <Id>use-muscat-us-embassy-muscat-muscat-oman</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-abu-dhabi-us-embassy-abu-dhabi-abu-dhabi-united-arab-emirates</Url>
+        <FullName>US Embassy - Abu Dhabi</FullName>
+        <Name>USE - Abu Dhabi</Name>
+        <Id>use-abu-dhabi-us-embassy-abu-dhabi-abu-dhabi-united-arab-emirates</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-dubai-us-consulate-general-dubai-dubai-united-arab-emirates</Url>
+        <FullName>US Consulate General - Dubai</FullName>
+        <Name>USCG - Dubai</Name>
+        <Id>uscg-dubai-us-consulate-general-dubai-dubai-united-arab-emirates</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-baghdad-us-embassy-baghdad-baghdad-iraq</Url>
+        <FullName>US Embassy - Baghdad</FullName>
+        <Name>USE - Baghdad</Name>
+        <Id>use-baghdad-us-embassy-baghdad-baghdad-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-basra-us-consulate-general-basra-basra-iraq</Url>
+        <FullName>US Consulate General - Basra</FullName>
+        <Name>USCG - Basra</Name>
+        <Id>uscg-basra-us-consulate-general-basra-basra-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kirkuk-us-embassy-kirkuk-kirkuk-iraq</Url>
+        <FullName>US Embassy - Kirkuk</FullName>
+        <Name>USE - Kirkuk</Name>
+        <Id>use-kirkuk-us-embassy-kirkuk-kirkuk-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-mosul-us-embassy-mosul-mosul-iraq</Url>
+        <FullName>US Embassy - Mosul</FullName>
+        <Name>USE - Mosul</Name>
+        <Id>use-mosul-us-embassy-mosul-mosul-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-doha-us-embassy-doha-doha-qatar</Url>
+        <FullName>US Embassy - Doha</FullName>
+        <Name>USE - Doha</Name>
+        <Id>use-doha-us-embassy-doha-doha-qatar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kuwait-city-us-embassy-kuwait-city-kuwait-city-kuwait</Url>
+        <FullName>US Embassy - Kuwait City</FullName>
+        <Name>USE - Kuwait City</Name>
+        <Id>use-kuwait-city-us-embassy-kuwait-city-kuwait-city-kuwait</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-manama-us-embassy-manama-manama-bahrain</Url>
+        <FullName>US Embassy - Manama</FullName>
+        <Name>USE - Manama</Name>
+        <Id>use-manama-us-embassy-manama-manama-bahrain</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-damascus-us-embassy-damascus-damascus-syria</Url>
+    <NameNode>US Embassy - Damascus, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Damascus, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Damascus, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Damascus</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Damascus, Syria</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/damascus-syria</Url>
+        <Id>damascus-syria</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-sana-a-us-embassy-sana-a-sana-a-yemen</Url>
+    <NameNode>US Embassy - Sana&amp;#x27;a, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Sana&amp;#x27;a, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Sana&amp;#x27;a, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sana&amp;#x27;a</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sana&amp;#x27;a, Yemen</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sana-a-yemen</Url>
+        <Id>sana-a-yemen</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-muscat-us-embassy-muscat-muscat-oman</Url>
+    <NameNode>US Embassy - Muscat, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Muscat, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Muscat, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Muscat</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Muscat, Oman</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/muscat-oman</Url>
+        <Id>muscat-oman</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-abu-dhabi-us-embassy-abu-dhabi-abu-dhabi-united-arab-emirates</Url>
+    <NameNode>US Embassy - Abu Dhabi, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Abu Dhabi, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Abu Dhabi, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Abu Dhabi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Abu Dhabi, United Arab Emirates</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/abu-dhabi-united-arab-emirates</Url>
+        <Id>abu-dhabi-united-arab-emirates</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-dubai-us-consulate-general-dubai-dubai-united-arab-emirates</Url>
+    <NameNode>US Consulate General - Dubai, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Dubai, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Dubai, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dubai</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dubai, United Arab Emirates</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dubai-united-arab-emirates</Url>
+        <Id>dubai-united-arab-emirates</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-baghdad-us-embassy-baghdad-baghdad-iraq</Url>
+    <NameNode>US Embassy - Baghdad, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Baghdad, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Baghdad, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baghdad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baghdad, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baghdad-iraq</Url>
+        <Id>baghdad-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-basra-us-consulate-general-basra-basra-iraq</Url>
+    <NameNode>US Consulate General - Basra, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Basra, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Basra, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Basra</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Basra, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/basra-iraq</Url>
+        <Id>basra-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kirkuk-us-embassy-kirkuk-kirkuk-iraq</Url>
+    <NameNode>US Embassy - Kirkuk, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kirkuk, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kirkuk, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kirkuk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kirkuk, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kirkuk-iraq</Url>
+        <Id>kirkuk-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-mosul-us-embassy-mosul-mosul-iraq</Url>
+    <NameNode>US Embassy - Mosul, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Mosul, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Mosul, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mosul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mosul, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mosul-iraq</Url>
+        <Id>mosul-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-doha-us-embassy-doha-doha-qatar</Url>
+    <NameNode>US Embassy - Doha, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Doha, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Doha, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Doha, Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/doha-qatar</Url>
+        <Id>doha-qatar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kuwait-city-us-embassy-kuwait-city-kuwait-city-kuwait</Url>
+    <NameNode>US Embassy - Kuwait City, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kuwait City, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kuwait City, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kuwait City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait City, Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kuwait-city-kuwait</Url>
+        <Id>kuwait-city-kuwait</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-manama-us-embassy-manama-manama-bahrain</Url>
+    <NameNode>US Embassy - Manama, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Manama, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Manama, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Manama</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manama, Bahrain</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/manama-bahrain</Url>
+        <Id>manama-bahrain</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/non-arabian-peninsula-centcom-regional-embassies</Url>
+    <NameNode>CENTCOM Regional Embassies, US Central Command</NameNode>
+    <FullName>CENTCOM Regional Embassies, Central Command</FullName>
+    <SplitName>CENTCOM Regional Embassies, US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-cairo-us-embassy-cairo-cairo-egypt</Url>
+        <FullName>US Embassy - Cairo</FullName>
+        <Name>USE - Cairo</Name>
+        <Id>use-cairo-us-embassy-cairo-cairo-egypt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-alexandria-us-consulate-alexandria-alexandria-egypt</Url>
+        <FullName>US Consulate - Alexandria</FullName>
+        <Name>USC - Alexandria</Name>
+        <Id>usc-alexandria-us-consulate-alexandria-alexandria-egypt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kabul-us-embassy-kabul-kabul-afghanistan</Url>
+        <FullName>US Embassy - Kabul</FullName>
+        <Name>USE - Kabul</Name>
+        <Id>use-kabul-us-embassy-kabul-kabul-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-herat-us-consulate-herat-herat-afghanistan</Url>
+        <FullName>US Consulate - Herat</FullName>
+        <Name>USC - Herat</Name>
+        <Id>usc-herat-us-consulate-herat-herat-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-amman-us-embassy-amman-amman-jordan</Url>
+        <FullName>US Embassy - Amman</FullName>
+        <Name>USE - Amman</Name>
+        <Id>use-amman-us-embassy-amman-amman-jordan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-astana-us-embassy-astana-astana-kazakhstan</Url>
+        <FullName>US Embassy - Astana</FullName>
+        <Name>USE - Astana</Name>
+        <Id>use-astana-us-embassy-astana-astana-kazakhstan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usebo-almaty-us-embassy-branch-office-almaty-almaty-kazakhstan</Url>
+        <FullName>US Embassy Branch Office - Almaty</FullName>
+        <Name>USEBO - Almaty</Name>
+        <Id>usebo-almaty-us-embassy-branch-office-almaty-almaty-kazakhstan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bishkek-us-embassy-bishkek-bishkek-kyrgyzstan</Url>
+        <FullName>US Embassy - Bishkek</FullName>
+        <Name>USE - Bishkek</Name>
+        <Id>use-bishkek-us-embassy-bishkek-bishkek-kyrgyzstan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-dushanbe-us-embassy-dushanbe-dushanbe-tajikistan</Url>
+        <FullName>US Embassy - Dushanbe</FullName>
+        <Name>USE - Dushanbe</Name>
+        <Id>use-dushanbe-us-embassy-dushanbe-dushanbe-tajikistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-beirut-us-embassy-beirut-beirut-lebanon</Url>
+        <FullName>US Embassy - Beirut</FullName>
+        <Name>USE - Beirut</Name>
+        <Id>use-beirut-us-embassy-beirut-beirut-lebanon</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-islamabad-us-embassy-islamabad-islamabad-pakistan</Url>
+        <FullName>US Embassy - Islamabad</FullName>
+        <Name>USE - Islamabad</Name>
+        <Id>use-islamabad-us-embassy-islamabad-islamabad-pakistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-karachi-us-consulate-general-karachi-karachi-pakistan</Url>
+        <FullName>US Consulate General - Karachi</FullName>
+        <Name>USCG - Karachi</Name>
+        <Id>uscg-karachi-us-consulate-general-karachi-karachi-pakistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-lahore-us-consulate-lahore-lahore-pakistan</Url>
+        <FullName>US Consulate - Lahore</FullName>
+        <Name>USC - Lahore</Name>
+        <Id>usc-lahore-us-consulate-lahore-lahore-pakistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-peshawar-us-consulate-peshawar-peshawar-pakistan</Url>
+        <FullName>US Consulate - Peshawar</FullName>
+        <Name>USC - Peshawar</Name>
+        <Id>usc-peshawar-us-consulate-peshawar-peshawar-pakistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-riyadh-us-embassy-riyadh-riyadh-saudi-arabia</Url>
+        <FullName>US Embassy - Riyadh</FullName>
+        <Name>USE - Riyadh</Name>
+        <Id>use-riyadh-us-embassy-riyadh-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-dhahran-us-consulate-general-dhahran-dhahran-saudi-arabia</Url>
+        <FullName>US Consulate General - Dhahran</FullName>
+        <Name>USCG - Dhahran</Name>
+        <Id>uscg-dhahran-us-consulate-general-dhahran-dhahran-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-jeddah-us-consulate-general-jeddah-jeddah-saudi-arabia</Url>
+        <FullName>US Consulate General - Jeddah</FullName>
+        <Name>USCG - Jeddah</Name>
+        <Id>uscg-jeddah-us-consulate-general-jeddah-jeddah-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-ashgabat-us-embassy-ashgabat-ashgabat-turkmenistan</Url>
+        <FullName>US Embassy - Ashgabat</FullName>
+        <Name>USE - Ashgabat</Name>
+        <Id>use-ashgabat-us-embassy-ashgabat-ashgabat-turkmenistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tashkent-us-embassy-tashkent-tashkent-uzbekistan</Url>
+        <FullName>US Embassy - Tashkent</FullName>
+        <Name>USE - Tashkent</Name>
+        <Id>use-tashkent-us-embassy-tashkent-tashkent-uzbekistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-cairo-us-embassy-cairo-cairo-egypt</Url>
+    <NameNode>US Embassy - Cairo, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Cairo, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Cairo, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cairo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cairo, Egypt</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cairo-egypt</Url>
+        <Id>cairo-egypt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-alexandria-us-consulate-alexandria-alexandria-egypt</Url>
+    <NameNode>US Consulate - Alexandria, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Alexandria, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Alexandria, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Alexandria</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Alexandria, Egypt</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/alexandria-egypt</Url>
+        <Id>alexandria-egypt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kabul-us-embassy-kabul-kabul-afghanistan</Url>
+    <NameNode>US Embassy - Kabul, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kabul, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kabul, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kabul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kabul, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kabul-afghanistan</Url>
+        <Id>kabul-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-herat-us-consulate-herat-herat-afghanistan</Url>
+    <NameNode>US Consulate - Herat, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Herat, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Herat, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Herat</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Herat, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/herat-afghanistan</Url>
+        <Id>herat-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-amman-us-embassy-amman-amman-jordan</Url>
+    <NameNode>US Embassy - Amman, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Amman, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Amman, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Amman</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Amman, Jordan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/amman-jordan</Url>
+        <Id>amman-jordan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-astana-us-embassy-astana-astana-kazakhstan</Url>
+    <NameNode>US Embassy - Astana, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Astana, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Astana, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Astana</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Astana, Kazakhstan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/astana-kazakhstan</Url>
+        <Id>astana-kazakhstan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usebo-almaty-us-embassy-branch-office-almaty-almaty-kazakhstan</Url>
+    <NameNode>US Embassy Branch Office - Almaty, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy Branch Office - Almaty, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy Branch Office - Almaty, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Almaty</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Almaty, Kazakhstan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/almaty-kazakhstan</Url>
+        <Id>almaty-kazakhstan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bishkek-us-embassy-bishkek-bishkek-kyrgyzstan</Url>
+    <NameNode>US Embassy - Bishkek, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bishkek, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bishkek, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bishkek</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bishkek, Kyrgyzstan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bishkek-kyrgyzstan</Url>
+        <Id>bishkek-kyrgyzstan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-dushanbe-us-embassy-dushanbe-dushanbe-tajikistan</Url>
+    <NameNode>US Embassy - Dushanbe, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Dushanbe, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Dushanbe, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dushanbe</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dushanbe, Tajikistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dushanbe-tajikistan</Url>
+        <Id>dushanbe-tajikistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-beirut-us-embassy-beirut-beirut-lebanon</Url>
+    <NameNode>US Embassy - Beirut, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Beirut, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Beirut, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Beirut</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Beirut, Lebanon</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/beirut-lebanon</Url>
+        <Id>beirut-lebanon</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-islamabad-us-embassy-islamabad-islamabad-pakistan</Url>
+    <NameNode>US Embassy - Islamabad, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Islamabad, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Islamabad, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Islamabad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Islamabad, Pakistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/islamabad-pakistan</Url>
+        <Id>islamabad-pakistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-karachi-us-consulate-general-karachi-karachi-pakistan</Url>
+    <NameNode>US Consulate General - Karachi, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Karachi, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Karachi, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Karachi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Karachi, Pakistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/karachi-pakistan</Url>
+        <Id>karachi-pakistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-lahore-us-consulate-lahore-lahore-pakistan</Url>
+    <NameNode>US Consulate - Lahore, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Lahore, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Lahore, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lahore</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lahore, Pakistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lahore-pakistan</Url>
+        <Id>lahore-pakistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-peshawar-us-consulate-peshawar-peshawar-pakistan</Url>
+    <NameNode>US Consulate - Peshawar, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Peshawar, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Peshawar, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Peshawar</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peshawar, Pakistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/peshawar-pakistan</Url>
+        <Id>peshawar-pakistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-riyadh-us-embassy-riyadh-riyadh-saudi-arabia</Url>
+    <NameNode>US Embassy - Riyadh, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Riyadh, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Riyadh, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-dhahran-us-consulate-general-dhahran-dhahran-saudi-arabia</Url>
+    <NameNode>US Consulate General - Dhahran, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Dhahran, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Dhahran, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dhahran</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dhahran, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dhahran-saudi-arabia</Url>
+        <Id>dhahran-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-jeddah-us-consulate-general-jeddah-jeddah-saudi-arabia</Url>
+    <NameNode>US Consulate General - Jeddah, CENTCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Jeddah, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Jeddah, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jeddah</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jeddah, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jeddah-saudi-arabia</Url>
+        <Id>jeddah-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-ashgabat-us-embassy-ashgabat-ashgabat-turkmenistan</Url>
+    <NameNode>US Embassy - Ashgabat, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Ashgabat, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Ashgabat, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ashgabat</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ashgabat, Turkmenistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ashgabat-turkmenistan</Url>
+        <Id>ashgabat-turkmenistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tashkent-us-embassy-tashkent-tashkent-uzbekistan</Url>
+    <NameNode>US Embassy - Tashkent, CENTCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tashkent, CENTCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tashkent, CENTCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tashkent</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tashkent, Uzbekistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tashkent-uzbekistan</Url>
+        <Id>tashkent-uzbekistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usmtm-us-military-training-mission-to-the-kingdom-of-saudi-arabia-riyadh-saudi-arabia</Url>
+    <NameNode>US Military Training Mission to the Kingdom of Saudi Arabia, US Central Command</NameNode>
+    <FullName>Military Training Mission to the Kingdom of Saudi Arabia, Central Command</FullName>
+    <SplitName>US Military Training Mission to the Kingdom of Saudi Arabia, US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jad-joint-advisory-division-riyadh-saudi-arabia</Url>
+        <FullName>Joint Advisory Division</FullName>
+        <Name>JAD</Name>
+        <Id>jad-joint-advisory-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/lfd-land-forces-division-riyadh-saudi-arabia</Url>
+        <FullName>Land Forces Division</FullName>
+        <Name>LFD</Name>
+        <Id>lfd-land-forces-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afd-air-force-division-riyadh-saudi-arabia</Url>
+        <FullName>Air Force Division</FullName>
+        <Name>AFD</Name>
+        <Id>afd-air-force-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/nfd-naval-forces-division-riyadh-saudi-arabia</Url>
+        <FullName>Naval Forces Division</FullName>
+        <Name>NFD</Name>
+        <Id>nfd-naval-forces-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/adf-air-defense-forces-division-riyadh-saudi-arabia</Url>
+        <FullName>Air Defense Forces Division</FullName>
+        <Name>ADF</Name>
+        <Id>adf-air-defense-forces-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mfd-marine-forces-division-riyadh-saudi-arabia</Url>
+        <FullName>Marine Forces Division</FullName>
+        <Name>MFD</Name>
+        <Id>mfd-marine-forces-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/opm-sang-office-of-the-program-manager-saudi-arabian-national-guard-modernization-program-riyadh-saudi-arabia</Url>
+        <FullName>Office of the Program Manager, Saudi Arabian National Guard Modernization Program</FullName>
+        <Name>OPM-SANG</Name>
+        <Id>opm-sang-office-of-the-program-manager-saudi-arabian-national-guard-modernization-program-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/opm-fsf-program-management-ministry-of-interior-facility-security-forces-riyadh-saudi-arabia</Url>
+        <FullName>Program Management Ministry of Interior - Facility Security Forces</FullName>
+        <Name>OPM-FSF</Name>
+        <Id>opm-fsf-program-management-ministry-of-interior-facility-security-forces-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jad-joint-advisory-division-riyadh-saudi-arabia</Url>
+    <NameNode>Joint Advisory Division, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Joint Advisory Division, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Joint Advisory Division, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/lfd-land-forces-division-riyadh-saudi-arabia</Url>
+    <NameNode>Land Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Land Forces Division, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Land Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afd-air-force-division-riyadh-saudi-arabia</Url>
+    <NameNode>Air Force Division, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Air Force Division, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Air Force Division, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/nfd-naval-forces-division-riyadh-saudi-arabia</Url>
+    <NameNode>Naval Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Naval Forces Division, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Naval Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/adf-air-defense-forces-division-riyadh-saudi-arabia</Url>
+    <NameNode>Air Defense Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Air Defense Forces Division, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Air Defense Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mfd-marine-forces-division-riyadh-saudi-arabia</Url>
+    <NameNode>Marine Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Marine Forces Division, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Marine Forces Division, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/opm-sang-office-of-the-program-manager-saudi-arabian-national-guard-modernization-program-riyadh-saudi-arabia</Url>
+    <NameNode>Office of the Program Manager, Saudi Arabian National Guard Modernization Program, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Office of the Program Manager, Saudi Arabian National Guard Modernization Program, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Office of the Program Manager, Saudi Arabian National Guard Modernization Program, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/av-div-aviation-division-riyadh-saudi-arabia</Url>
+        <FullName>Aviation Division</FullName>
+        <Name>AV DIV</Name>
+        <Id>av-div-aviation-division-riyadh-saudi-arabia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/av-div-aviation-division-riyadh-saudi-arabia</Url>
+    <NameNode>Aviation Division, Office of the Program Manager, Saudi Arabian National Guard Modernization Program</NameNode>
+    <FullName>Aviation Division, Office of the Program Manager, Saudi Arabian National Guard Modernization Program</FullName>
+    <SplitName>Aviation Division, Office of the Program Manager, Saudi Arabian National Guard Modernization Program</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/opm-fsf-program-management-ministry-of-interior-facility-security-forces-riyadh-saudi-arabia</Url>
+    <NameNode>Program Management Ministry of Interior - Facility Security Forces, US Military Training Mission to the Kingdom of Saudi Arabia</NameNode>
+    <FullName>Program Management Ministry of Interior - Facility Security Forces, Military Training Mission to the Kingdom of Saudi Arabia</FullName>
+    <SplitName>Program Management Ministry of Interior - Facility Security Forces, US Military Training Mission to the Kingdom of Saudi Arabia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/av-div-aviation-division-riyadh-saudi-arabia--2</Url>
+        <FullName>Aviation Division</FullName>
+        <Name>AV DIV</Name>
+        <Id>av-div-aviation-division-riyadh-saudi-arabia--2</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/av-div-aviation-division-riyadh-saudi-arabia--2</Url>
+    <NameNode>Aviation Division, Program Management Ministry of Interior - Facility Security Forces</NameNode>
+    <FullName>Aviation Division, Program Management Ministry of Interior - Facility Security Forces</FullName>
+    <SplitName>Aviation Division, Program Management Ministry of Interior - Facility Security Forces</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/027/small/centcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riyadh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riyadh, Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riyadh-saudi-arabia</Url>
+        <Id>riyadh-saudi-arabia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usfor-a-us-forces-afghanistan-kabul-afghanistan</Url>
+    <NameNode>US Forces - Afghanistan, US Central Command</NameNode>
+    <FullName>Forces - Afghanistan, Central Command</FullName>
+    <SplitName>US Forces - Afghanistan, US Central Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/721/small/USFOR-A.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kabul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kabul, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kabul-afghanistan</Url>
+        <Id>kabul-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cjiatf-435-combined-joint-interagency-task-force-435-camp-phoenix-afghanistan</Url>
+        <FullName>Combined Joint Interagency Task Force - 435</FullName>
+        <Name>CJIATF-435</Name>
+        <Id>cjiatf-435-combined-joint-interagency-task-force-435-camp-phoenix-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cjiatf-435-combined-joint-interagency-task-force-435-camp-phoenix-afghanistan</Url>
+    <NameNode>Combined Joint Interagency Task Force - 435, US Forces - Afghanistan</NameNode>
+    <FullName>Combined Joint Interagency Task Force - 435, Forces - Afghanistan</FullName>
+    <SplitName>Combined Joint Interagency Task Force - 435, US Forces - Afghanistan</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/701/small/cjiatf435.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Phoenix</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Phoenix, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-phoenix-afghanistan</Url>
+        <Id>camp-phoenix-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mnf-i-multi-national-force-iraq-baghdad-iraq</Url>
+    <NameNode>Multi National Force - Iraq, US Central Command  (Inactive)</NameNode>
+    <FullName>Multi National Force - Iraq, Central Command  (Inactive)</FullName>
+    <SplitName>Multi National Force - Iraq, US Central Command  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/702/small/mnf-i.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baghdad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baghdad, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baghdad-iraq</Url>
+        <Id>baghdad-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mnc-i-multi-national-corps-iraq-baghdad-iraq</Url>
+        <FullName>Multi-National Corps - Iraq</FullName>
+        <Name>MNC-I</Name>
+        <Id>mnc-i-multi-national-corps-iraq-baghdad-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mnstc-i-multi-national-security-transition-command-iraq-baghdad-iraq</Url>
+        <FullName>Multi-National Security Transition Command â€“ Iraq</FullName>
+        <Name>MNSTC-I</Name>
+        <Id>mnstc-i-multi-national-security-transition-command-iraq-baghdad-iraq</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mnc-i-multi-national-corps-iraq-baghdad-iraq</Url>
+    <NameNode>Multi-National Corps - Iraq, Multi National Force - Iraq  (Inactive)</NameNode>
+    <FullName>Multi-National Corps - Iraq, Multi National Force - Iraq  (Inactive)</FullName>
+    <SplitName>Multi-National Corps - Iraq, Multi National Force - Iraq  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/723/small/mnc-i.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baghdad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baghdad, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baghdad-iraq</Url>
+        <Id>baghdad-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mnstc-i-multi-national-security-transition-command-iraq-baghdad-iraq</Url>
+    <NameNode>Multi-National Security Transition Command â€“ Iraq, Multi National Force - Iraq  (Inactive)</NameNode>
+    <FullName>Multi-National Security Transition Command â€“ Iraq, Multi National Force - Iraq  (Inactive)</FullName>
+    <SplitName>Multi-National Security Transition Command â€“ Iraq, Multi National Force - Iraq  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/702/small/mnf-i.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baghdad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baghdad, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baghdad-iraq</Url>
+        <Id>baghdad-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usf-i-united-states-forces-iraq-usfi-baghdad-iraq</Url>
+    <NameNode>United States Forces - Iraq (USFI), US Central Command  (Inactive)</NameNode>
+    <FullName>United States Forces - Iraq (USFI), Central Command  (Inactive)</FullName>
+    <SplitName>United States Forces - Iraq (USFI), US Central Command  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/704/small/usf-i.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baghdad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baghdad, Iraq</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baghdad-iraq</Url>
+        <Id>baghdad-iraq</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cjtf-oir-combined-joint-task-force-operation-inherent-resolve-kuwait</Url>
+    <NameNode>Combined Joint Task Force - Operation: Inherent Resolve, US Central Command</NameNode>
+    <FullName>Combined Joint Task Force - Operation: Inherent Resolve, Central Command</FullName>
+    <SplitName>Combined Joint Task Force - Operation: Inherent Resolve, US Central Command</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kuwait</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kuwait</Url>
+        <Id>kuwait</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

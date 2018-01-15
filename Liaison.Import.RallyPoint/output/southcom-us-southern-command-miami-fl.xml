@@ -1,0 +1,1309 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southcom-us-southern-command-miami-fl</Url>
+    <NameNode>US Southern Command</NameNode>
+    <FullName>Southern Command</FullName>
+    <SplitName>US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/035/small/southcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Miami</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Miami, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/miami-fl</Url>
+        <Id>miami-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southcom-hq-southcom-headquarters-miami-fl</Url>
+        <FullName>SOUTHCOM Headquarters</FullName>
+        <Name>SOUTHCOM HQ</Name>
+        <Id>southcom-hq-southcom-headquarters-miami-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southcom-embassies-southcom-regional-embassies</Url>
+        <FullName>SOUTHCOM Regional Embassies</FullName>
+        <Name>SOUTHCOM Embassies</Name>
+        <Id>southcom-embassies-southcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southcom-hq-southcom-headquarters-miami-fl</Url>
+    <NameNode>SOUTHCOM Headquarters, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Headquarters, Southern Command</FullName>
+    <SplitName>SOUTHCOM Headquarters, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/035/small/southcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Miami</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Miami, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/miami-fl</Url>
+        <Id>miami-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jiatf-s-joint-interagency-task-force-south-key-west-fl</Url>
+        <FullName>Joint Interagency Task Force - South</FullName>
+        <Name>JIATF-S</Name>
+        <Id>jiatf-s-joint-interagency-task-force-south-key-west-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jiatf-s-joint-interagency-task-force-south-key-west-fl</Url>
+    <NameNode>Joint Interagency Task Force - South, SOUTHCOM Headquarters</NameNode>
+    <FullName>Joint Interagency Task Force - South, SOUTHCOM Headquarters</FullName>
+    <SplitName>Joint Interagency Task Force - South, SOUTHCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/035/small/southcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Key West</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Key West, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/key-west-fl</Url>
+        <Id>key-west-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southcom-embassies-southcom-regional-embassies</Url>
+    <NameNode>SOUTHCOM Regional Embassies, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Regional Embassies, Southern Command</FullName>
+    <SplitName>SOUTHCOM Regional Embassies, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/brazil-southcom-regional-embassies</Url>
+        <FullName />
+        <Name>Brazil</Name>
+        <Id>brazil-southcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/northern-south-america-southcom-regional-embassies</Url>
+        <FullName />
+        <Name>Northern South America</Name>
+        <Id>northern-south-america-southcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southern-south-america-southcom-regional-embassies</Url>
+        <FullName />
+        <Name>Southern South America</Name>
+        <Id>southern-south-america-southcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southern-central-america-southcom-regional-embassies</Url>
+        <FullName />
+        <Name>Southern Central America</Name>
+        <Id>southern-central-america-southcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/central-america-islands-southcom-regional-embassies</Url>
+        <FullName />
+        <Name>Central America Islands</Name>
+        <Id>central-america-islands-southcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/brazil-southcom-regional-embassies</Url>
+    <NameNode>SOUTHCOM Regional Embassies, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Regional Embassies, Southern Command</FullName>
+    <SplitName>SOUTHCOM Regional Embassies, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-brasilia-us-embassy-brasilia</Url>
+        <FullName>US Embassy - BrasÃ­lia</FullName>
+        <Name>USE - BrasÃ­lia</Name>
+        <Id>use-brasilia-us-embassy-brasilia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-rio-de-janeiro-us-consulate-general-rio-de-janeiro-rio-de-janeiro-brazil</Url>
+        <FullName>US Consulate General - Rio de Janeiro</FullName>
+        <Name>USCG - Rio de Janeiro</Name>
+        <Id>uscg-rio-de-janeiro-us-consulate-general-rio-de-janeiro-rio-de-janeiro-brazil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-sao-paulo-us-consulate-general-sao-paulo</Url>
+        <FullName>US Consulate General - SÃ£o Paulo</FullName>
+        <Name>USCG - SÃ£o Paulo</Name>
+        <Id>uscg-sao-paulo-us-consulate-general-sao-paulo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-recife-us-consulate-recife-recife-brazil</Url>
+        <FullName>US Consulate - Recife</FullName>
+        <Name>USC - Recife</Name>
+        <Id>usc-recife-us-consulate-recife-recife-brazil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-belem-us-consular-agency-belem</Url>
+        <FullName>US Consular Agency - BelÃ©m</FullName>
+        <Name>USCA - BelÃ©m</Name>
+        <Id>usca-belem-us-consular-agency-belem</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-fortaleza-us-consular-agency-fortaleza-fortaleza-brazil</Url>
+        <FullName>US Consular Agency - Fortaleza</FullName>
+        <Name>USCA - Fortaleza</Name>
+        <Id>usca-fortaleza-us-consular-agency-fortaleza-fortaleza-brazil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-manaus-us-consular-agency-manaus-manaus-brazil</Url>
+        <FullName>US Consular Agency - Manaus</FullName>
+        <Name>USCA - Manaus</Name>
+        <Id>usca-manaus-us-consular-agency-manaus-manaus-brazil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-porto-alegre-us-consular-agency-porto-alegre-porto-alegre-brazil</Url>
+        <FullName>US Consular Agency - Porto Alegre</FullName>
+        <Name>USCA - Porto Alegre</Name>
+        <Id>usca-porto-alegre-us-consular-agency-porto-alegre-porto-alegre-brazil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-salvador-us-consular-agency-salvador-salvador-brazil</Url>
+        <FullName>US Consular Agency - Salvador</FullName>
+        <Name>USCA - Salvador</Name>
+        <Id>usca-salvador-us-consular-agency-salvador-salvador-brazil</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-brasilia-us-embassy-brasilia</Url>
+    <NameNode>US Embassy - BrasÃ­lia, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - BrasÃ­lia, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - BrasÃ­lia, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-rio-de-janeiro-us-consulate-general-rio-de-janeiro-rio-de-janeiro-brazil</Url>
+    <NameNode>US Consulate General - Rio de Janeiro, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Rio de Janeiro, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Rio de Janeiro, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rio de Janeiro</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rio de Janeiro, Brazil</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rio-de-janeiro-brazil</Url>
+        <Id>rio-de-janeiro-brazil</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-sao-paulo-us-consulate-general-sao-paulo</Url>
+    <NameNode>US Consulate General - SÃ£o Paulo, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - SÃ£o Paulo, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - SÃ£o Paulo, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-recife-us-consulate-recife-recife-brazil</Url>
+    <NameNode>US Consulate - Recife, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Recife, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Recife, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Recife</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Recife, Brazil</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/recife-brazil</Url>
+        <Id>recife-brazil</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-belem-us-consular-agency-belem</Url>
+    <NameNode>US Consular Agency - BelÃ©m, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - BelÃ©m, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - BelÃ©m, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-fortaleza-us-consular-agency-fortaleza-fortaleza-brazil</Url>
+    <NameNode>US Consular Agency - Fortaleza, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Fortaleza, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Fortaleza, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fortaleza</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fortaleza, Brazil</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fortaleza-brazil</Url>
+        <Id>fortaleza-brazil</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-manaus-us-consular-agency-manaus-manaus-brazil</Url>
+    <NameNode>US Consular Agency - Manaus, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Manaus, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Manaus, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Manaus</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manaus, Brazil</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/manaus-brazil</Url>
+        <Id>manaus-brazil</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-porto-alegre-us-consular-agency-porto-alegre-porto-alegre-brazil</Url>
+    <NameNode>US Consular Agency - Porto Alegre, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Porto Alegre, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Porto Alegre, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Porto Alegre</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Porto Alegre, Brazil</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/porto-alegre-brazil</Url>
+        <Id>porto-alegre-brazil</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-salvador-us-consular-agency-salvador-salvador-brazil</Url>
+    <NameNode>US Consular Agency - Salvador, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Salvador, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Salvador, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Salvador</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Salvador, Brazil</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/salvador-brazil</Url>
+        <Id>salvador-brazil</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northern-south-america-southcom-regional-embassies</Url>
+    <NameNode>SOUTHCOM Regional Embassies, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Regional Embassies, Southern Command</FullName>
+    <SplitName>SOUTHCOM Regional Embassies, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bogota-us-embassy-bogota-bogota-colombia</Url>
+        <FullName>US Embassy - Bogota</FullName>
+        <Name>USE - Bogota</Name>
+        <Id>use-bogota-us-embassy-bogota-bogota-colombia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usebo-cartagena-us-embassy-branch-office-cartagena-cartagena-colombia</Url>
+        <FullName>US Embassy Branch Office - Cartagena</FullName>
+        <Name>USEBO - Cartagena</Name>
+        <Id>usebo-cartagena-us-embassy-branch-office-cartagena-cartagena-colombia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-quito-us-embassy-quito-quito-ecuador</Url>
+        <FullName>US Embassy - Quito</FullName>
+        <Name>USE - Quito</Name>
+        <Id>use-quito-us-embassy-quito-quito-ecuador</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-guayaquil-us-consulate-general-guayaquil-guayaquil-ecuador</Url>
+        <FullName>US Consulate General - Guayaquil</FullName>
+        <Name>USCG - Guayaquil</Name>
+        <Id>uscg-guayaquil-us-consulate-general-guayaquil-guayaquil-ecuador</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-lima-us-embassy-lima-lima-peru</Url>
+        <FullName>US Embassy - Lima</FullName>
+        <Name>USE - Lima</Name>
+        <Id>use-lima-us-embassy-lima-lima-peru</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-cusco-us-consular-agency-cusco-cusco-peru</Url>
+        <FullName>US Consular Agency - Cusco</FullName>
+        <Name>USCA - Cusco</Name>
+        <Id>usca-cusco-us-consular-agency-cusco-cusco-peru</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-caracas-us-embassy-caracas-caracas-venezuela</Url>
+        <FullName>US Embassy - Caracas</FullName>
+        <Name>USE - Caracas</Name>
+        <Id>use-caracas-us-embassy-caracas-caracas-venezuela</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-maracaibo-us-consular-agency-maracaibo-maracaibo-venezuela</Url>
+        <FullName>US Consular Agency - Maracaibo</FullName>
+        <Name>USCA - Maracaibo</Name>
+        <Id>usca-maracaibo-us-consular-agency-maracaibo-maracaibo-venezuela</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-paramaribo-us-embassy-paramaribo-paramaribo-suriname</Url>
+        <FullName>US Embassy - Paramaribo</FullName>
+        <Name>USE - Paramaribo</Name>
+        <Id>use-paramaribo-us-embassy-paramaribo-paramaribo-suriname</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bogota-us-embassy-bogota-bogota-colombia</Url>
+    <NameNode>US Embassy - Bogota, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bogota, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bogota, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bogota</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bogota, Colombia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bogota-colombia</Url>
+        <Id>bogota-colombia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usebo-cartagena-us-embassy-branch-office-cartagena-cartagena-colombia</Url>
+    <NameNode>US Embassy Branch Office - Cartagena, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy Branch Office - Cartagena, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy Branch Office - Cartagena, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cartagena</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cartagena, Colombia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cartagena-colombia</Url>
+        <Id>cartagena-colombia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-quito-us-embassy-quito-quito-ecuador</Url>
+    <NameNode>US Embassy - Quito, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Quito, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Quito, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Quito</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Quito, Ecuador</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/quito-ecuador</Url>
+        <Id>quito-ecuador</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-guayaquil-us-consulate-general-guayaquil-guayaquil-ecuador</Url>
+    <NameNode>US Consulate General - Guayaquil, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Guayaquil, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Guayaquil, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Guayaquil</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Guayaquil, Ecuador</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/guayaquil-ecuador</Url>
+        <Id>guayaquil-ecuador</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-lima-us-embassy-lima-lima-peru</Url>
+    <NameNode>US Embassy - Lima, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Lima, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Lima, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lima</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lima, Peru</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lima-peru</Url>
+        <Id>lima-peru</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-cusco-us-consular-agency-cusco-cusco-peru</Url>
+    <NameNode>US Consular Agency - Cusco, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Cusco, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Cusco, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cusco</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cusco, Peru</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cusco-peru</Url>
+        <Id>cusco-peru</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-caracas-us-embassy-caracas-caracas-venezuela</Url>
+    <NameNode>US Embassy - Caracas, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Caracas, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Caracas, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Caracas</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caracas, Venezuela</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/caracas-venezuela</Url>
+        <Id>caracas-venezuela</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-maracaibo-us-consular-agency-maracaibo-maracaibo-venezuela</Url>
+    <NameNode>US Consular Agency - Maracaibo, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Maracaibo, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Maracaibo, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Maracaibo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Maracaibo, Venezuela</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/maracaibo-venezuela</Url>
+        <Id>maracaibo-venezuela</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-paramaribo-us-embassy-paramaribo-paramaribo-suriname</Url>
+    <NameNode>US Embassy - Paramaribo, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Paramaribo, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Paramaribo, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Paramaribo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Paramaribo, Suriname</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/paramaribo-suriname</Url>
+        <Id>paramaribo-suriname</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southern-south-america-southcom-regional-embassies</Url>
+    <NameNode>SOUTHCOM Regional Embassies, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Regional Embassies, Southern Command</FullName>
+    <SplitName>SOUTHCOM Regional Embassies, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-la-paz-us-embassy-la-paz-la-paz-bolivia</Url>
+        <FullName>US Embassy - La Paz</FullName>
+        <Name>USE - La Paz</Name>
+        <Id>use-la-paz-us-embassy-la-paz-la-paz-bolivia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-buenos-aires-us-embassy-buenos-aires-buenos-aires-argentina</Url>
+        <FullName>US Embassy - Buenos Aires</FullName>
+        <Name>USE - Buenos Aires</Name>
+        <Id>use-buenos-aires-us-embassy-buenos-aires-buenos-aires-argentina</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-santiago-us-embassy-santiago-santiago-chile</Url>
+        <FullName>US Embassy - Santiago</FullName>
+        <Name>USE - Santiago</Name>
+        <Id>use-santiago-us-embassy-santiago-santiago-chile</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-asuncion-us-embassy-asuncion</Url>
+        <FullName>US Embassy - AsunciÃ³n</FullName>
+        <Name>USE - AsunciÃ³n</Name>
+        <Id>use-asuncion-us-embassy-asuncion</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-montevideo-us-embassy-montevideo-montevideo-uruguay</Url>
+        <FullName>US Embassy - Montevideo</FullName>
+        <Name>USE - Montevideo</Name>
+        <Id>use-montevideo-us-embassy-montevideo-montevideo-uruguay</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-georgetown-us-embassy-georgetown-georgetown-guyana</Url>
+        <FullName>US Embassy - Georgetown</FullName>
+        <Name>USE - Georgetown</Name>
+        <Id>use-georgetown-us-embassy-georgetown-georgetown-guyana</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-la-paz-us-embassy-la-paz-la-paz-bolivia</Url>
+    <NameNode>US Embassy - La Paz, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - La Paz, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - La Paz, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>La Paz</BaseName>
+        <Deployment>false</Deployment>
+        <Location>La Paz, Bolivia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/la-paz-bolivia</Url>
+        <Id>la-paz-bolivia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-buenos-aires-us-embassy-buenos-aires-buenos-aires-argentina</Url>
+    <NameNode>US Embassy - Buenos Aires, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Buenos Aires, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Buenos Aires, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Buenos Aires</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buenos Aires, Argentina</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/buenos-aires-argentina</Url>
+        <Id>buenos-aires-argentina</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-santiago-us-embassy-santiago-santiago-chile</Url>
+    <NameNode>US Embassy - Santiago, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Santiago, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Santiago, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Santiago</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Santiago, Chile</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/santiago-chile</Url>
+        <Id>santiago-chile</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-asuncion-us-embassy-asuncion</Url>
+    <NameNode>US Embassy - AsunciÃ³n, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - AsunciÃ³n, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - AsunciÃ³n, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-montevideo-us-embassy-montevideo-montevideo-uruguay</Url>
+    <NameNode>US Embassy - Montevideo, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Montevideo, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Montevideo, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Montevideo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montevideo, Uruguay</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/montevideo-uruguay</Url>
+        <Id>montevideo-uruguay</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-georgetown-us-embassy-georgetown-georgetown-guyana</Url>
+    <NameNode>US Embassy - Georgetown, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Georgetown, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Georgetown, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Georgetown</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Georgetown, Guyana</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/georgetown-guyana</Url>
+        <Id>georgetown-guyana</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southern-central-america-southcom-regional-embassies</Url>
+    <NameNode>SOUTHCOM Regional Embassies, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Regional Embassies, Southern Command</FullName>
+    <SplitName>SOUTHCOM Regional Embassies, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-belmopan-us-embassy-belmopan-belmopan-belize</Url>
+        <FullName>US Embassy - Belmopan</FullName>
+        <Name>USE - Belmopan</Name>
+        <Id>use-belmopan-us-embassy-belmopan-belmopan-belize</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tegucigalpa-us-embassy-tegucigalpa-tegucigalpa-honduras</Url>
+        <FullName>US Embassy - Tegucigalpa</FullName>
+        <Name>USE - Tegucigalpa</Name>
+        <Id>use-tegucigalpa-us-embassy-tegucigalpa-tegucigalpa-honduras</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-panama-city-us-embassy-panama-city-panama-city-panama</Url>
+        <FullName>US Embassy - Panama City</FullName>
+        <Name>USE - Panama City</Name>
+        <Id>use-panama-city-us-embassy-panama-city-panama-city-panama</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-san-salvador-us-embassy-san-salvador-san-salvador-el-salvador</Url>
+        <FullName>US Embassy - San Salvador</FullName>
+        <Name>USE - San Salvador</Name>
+        <Id>use-san-salvador-us-embassy-san-salvador-san-salvador-el-salvador</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-san-jose-us-embassy-san-jose</Url>
+        <FullName>US Embassy - San JosÃ©</FullName>
+        <Name>USE - San JosÃ©</Name>
+        <Id>use-san-jose-us-embassy-san-jose</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-managua-us-embassy-managua-managua-nicaragua</Url>
+        <FullName>US Embassy - Managua</FullName>
+        <Name>USE - Managua</Name>
+        <Id>use-managua-us-embassy-managua-managua-nicaragua</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-guatemala-city-us-embassy-guatemala-city-guatemala-city-guatemala</Url>
+        <FullName>US Embassy - Guatemala City</FullName>
+        <Name>USE - Guatemala City</Name>
+        <Id>use-guatemala-city-us-embassy-guatemala-city-guatemala-city-guatemala</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-belmopan-us-embassy-belmopan-belmopan-belize</Url>
+    <NameNode>US Embassy - Belmopan, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Belmopan, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Belmopan, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Belmopan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Belmopan, Belize</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/belmopan-belize</Url>
+        <Id>belmopan-belize</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tegucigalpa-us-embassy-tegucigalpa-tegucigalpa-honduras</Url>
+    <NameNode>US Embassy - Tegucigalpa, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tegucigalpa, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tegucigalpa, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tegucigalpa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tegucigalpa, Honduras</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tegucigalpa-honduras</Url>
+        <Id>tegucigalpa-honduras</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-panama-city-us-embassy-panama-city-panama-city-panama</Url>
+    <NameNode>US Embassy - Panama City, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Panama City, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Panama City, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Panama City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Panama City, Panama</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/panama-city-panama</Url>
+        <Id>panama-city-panama</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-san-salvador-us-embassy-san-salvador-san-salvador-el-salvador</Url>
+    <NameNode>US Embassy - San Salvador, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - San Salvador, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - San Salvador, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>San Salvador</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Salvador, El Salvador</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/san-salvador-el-salvador</Url>
+        <Id>san-salvador-el-salvador</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-san-jose-us-embassy-san-jose</Url>
+    <NameNode>US Embassy - San JosÃ©, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - San JosÃ©, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - San JosÃ©, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-managua-us-embassy-managua-managua-nicaragua</Url>
+    <NameNode>US Embassy - Managua, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Managua, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Managua, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Managua</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Managua, Nicaragua</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/managua-nicaragua</Url>
+        <Id>managua-nicaragua</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-guatemala-city-us-embassy-guatemala-city-guatemala-city-guatemala</Url>
+    <NameNode>US Embassy - Guatemala City, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Guatemala City, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Guatemala City, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Guatemala City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Guatemala City, Guatemala</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/guatemala-city-guatemala</Url>
+        <Id>guatemala-city-guatemala</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/central-america-islands-southcom-regional-embassies</Url>
+    <NameNode>SOUTHCOM Regional Embassies, US Southern Command</NameNode>
+    <FullName>SOUTHCOM Regional Embassies, Southern Command</FullName>
+    <SplitName>SOUTHCOM Regional Embassies, US Southern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-st-john-s-us-consular-agency-st-john-s-st-john-s-antigua-and-barbuda</Url>
+        <FullName>US Consular Agency - St John&amp;#39;s</FullName>
+        <Name>USCA - St John&amp;#x27;s</Name>
+        <Id>usca-st-john-s-us-consular-agency-st-john-s-st-john-s-antigua-and-barbuda</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-nassau-us-embassy-nassau-nassau-bahamas</Url>
+        <FullName>US Embassy - Nassau</FullName>
+        <Name>USE - Nassau</Name>
+        <Id>use-nassau-us-embassy-nassau-nassau-bahamas</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bridgetown-us-embassy-bridgetown-bridgetown-barbados</Url>
+        <FullName>US Embassy - Bridgetown</FullName>
+        <Name>USE - Bridgetown</Name>
+        <Id>use-bridgetown-us-embassy-bridgetown-bridgetown-barbados</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-hamilton-us-consulate-general-hamilton-hamilton-bermuda</Url>
+        <FullName>US Consulate General - Hamilton</FullName>
+        <Name>USCG - Hamilton</Name>
+        <Id>uscg-hamilton-us-consulate-general-hamilton-hamilton-bermuda</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usis-havana-us-interests-section-havana-havana-cuba</Url>
+        <FullName>US Interests Section - Havana</FullName>
+        <Name>USIS - Havana</Name>
+        <Id>usis-havana-us-interests-section-havana-havana-cuba</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-santo-domingo-us-embassy-santo-domingo-santo-domingo-dominican-republic</Url>
+        <FullName>US Embassy - Santo Domingo</FullName>
+        <Name>USE - Santo Domingo</Name>
+        <Id>use-santo-domingo-us-embassy-santo-domingo-santo-domingo-dominican-republic</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-st-george-s-us-embassy-st-george-s-st-george-s-grenada</Url>
+        <FullName>US Embassy - St George&amp;#39;s</FullName>
+        <Name>USE - St George&amp;#x27;s</Name>
+        <Id>use-st-george-s-us-embassy-st-george-s-st-george-s-grenada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-port-au-prince-us-embassy-port-au-prince-port-au-prince-haiti</Url>
+        <FullName>US Embassy - Port-au-Prince</FullName>
+        <Name>USE - Port-au-Prince</Name>
+        <Id>use-port-au-prince-us-embassy-port-au-prince-port-au-prince-haiti</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kingston-us-embassy-kingston-kingston-jamaica</Url>
+        <FullName>US Embassy - Kingston</FullName>
+        <Name>USE - Kingston</Name>
+        <Id>use-kingston-us-embassy-kingston-kingston-jamaica</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-montego-bay-us-consular-agency-montego-bay-montego-bay-jamaica</Url>
+        <FullName>US Consular Agency - Montego Bay</FullName>
+        <Name>USCA - Montego Bay</Name>
+        <Id>usca-montego-bay-us-consular-agency-montego-bay-montego-bay-jamaica</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-port-of-spain-us-embassy-port-of-spain-port-of-spain-trinidad-and-tobago</Url>
+        <FullName>US Embassy - Port of Spain</FullName>
+        <Name>USE - Port of Spain</Name>
+        <Id>use-port-of-spain-us-embassy-port-of-spain-port-of-spain-trinidad-and-tobago</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-providenciales-us-consular-agency-providenciales-providenciales-turks-and-caicos-islands</Url>
+        <FullName>US Consular Agency - Providenciales</FullName>
+        <Name>USCA - Providenciales</Name>
+        <Id>usca-providenciales-us-consular-agency-providenciales-providenciales-turks-and-caicos-islands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-st-john-s-us-consular-agency-st-john-s-st-john-s-antigua-and-barbuda</Url>
+    <NameNode>US Consular Agency - St John&amp;#x27;s, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - St John&amp;#x27;s, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - St John&amp;#x27;s, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>St John&amp;#x27;s</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St John&amp;#x27;s, Antigua and Barbuda</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/st-john-s-antigua-and-barbuda</Url>
+        <Id>st-john-s-antigua-and-barbuda</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-nassau-us-embassy-nassau-nassau-bahamas</Url>
+    <NameNode>US Embassy - Nassau, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Nassau, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Nassau, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nassau</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nassau, Bahamas</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nassau-bahamas</Url>
+        <Id>nassau-bahamas</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bridgetown-us-embassy-bridgetown-bridgetown-barbados</Url>
+    <NameNode>US Embassy - Bridgetown, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bridgetown, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bridgetown, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bridgetown</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bridgetown, Barbados</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bridgetown-barbados</Url>
+        <Id>bridgetown-barbados</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-hamilton-us-consulate-general-hamilton-hamilton-bermuda</Url>
+    <NameNode>US Consulate General - Hamilton, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Hamilton, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Hamilton, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hamilton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hamilton, Bermuda</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hamilton-bermuda</Url>
+        <Id>hamilton-bermuda</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usis-havana-us-interests-section-havana-havana-cuba</Url>
+    <NameNode>US Interests Section - Havana, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Interests Section - Havana, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Interests Section - Havana, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Havana</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Havana, Cuba</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/havana-cuba</Url>
+        <Id>havana-cuba</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-santo-domingo-us-embassy-santo-domingo-santo-domingo-dominican-republic</Url>
+    <NameNode>US Embassy - Santo Domingo, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Santo Domingo, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Santo Domingo, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Santo Domingo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Santo Domingo, Dominican Republic</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/santo-domingo-dominican-republic</Url>
+        <Id>santo-domingo-dominican-republic</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-st-george-s-us-embassy-st-george-s-st-george-s-grenada</Url>
+    <NameNode>US Embassy - St George&amp;#x27;s, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - St George&amp;#x27;s, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - St George&amp;#x27;s, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>St George&amp;#x27;s</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St George&amp;#x27;s, Grenada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/st-george-s-grenada</Url>
+        <Id>st-george-s-grenada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-port-au-prince-us-embassy-port-au-prince-port-au-prince-haiti</Url>
+    <NameNode>US Embassy - Port-au-Prince, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Port-au-Prince, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Port-au-Prince, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Port-au-Prince</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Port-au-Prince, Haiti</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/port-au-prince-haiti</Url>
+        <Id>port-au-prince-haiti</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kingston-us-embassy-kingston-kingston-jamaica</Url>
+    <NameNode>US Embassy - Kingston, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kingston, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kingston, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kingston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingston, Jamaica</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kingston-jamaica</Url>
+        <Id>kingston-jamaica</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-montego-bay-us-consular-agency-montego-bay-montego-bay-jamaica</Url>
+    <NameNode>US Consular Agency - Montego Bay, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Montego Bay, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Montego Bay, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Montego Bay</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montego Bay, Jamaica</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/montego-bay-jamaica</Url>
+        <Id>montego-bay-jamaica</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-port-of-spain-us-embassy-port-of-spain-port-of-spain-trinidad-and-tobago</Url>
+    <NameNode>US Embassy - Port of Spain, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Port of Spain, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Port of Spain, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Port of Spain</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Port of Spain, Trinidad and Tobago</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/port-of-spain-trinidad-and-tobago</Url>
+        <Id>port-of-spain-trinidad-and-tobago</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-providenciales-us-consular-agency-providenciales-providenciales-turks-and-caicos-islands</Url>
+    <NameNode>US Consular Agency - Providenciales, SOUTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Providenciales, SOUTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Providenciales, SOUTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Providenciales</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Providenciales, Turks and Caicos Islands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/providenciales-turks-and-caicos-islands</Url>
+        <Id>providenciales-turks-and-caicos-islands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

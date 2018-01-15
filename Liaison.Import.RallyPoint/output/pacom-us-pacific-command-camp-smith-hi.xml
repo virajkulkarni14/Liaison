@@ -1,0 +1,1849 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pacom-us-pacific-command-camp-smith-hi</Url>
+    <NameNode>US Pacific Command</NameNode>
+    <FullName>Pacific Command</FullName>
+    <SplitName>US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/025/small/pacom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Smith</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Smith, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-smith-hi</Url>
+        <Id>camp-smith-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pacom-hq-pacom-headquarters-camp-smith-hi</Url>
+        <FullName>PACOM Headquarters</FullName>
+        <Name>PACOM HQ</Name>
+        <Id>pacom-hq-pacom-headquarters-camp-smith-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usfk-us-forces-korea-yongsan-garrison-south-korea</Url>
+        <FullName>US Forces Korea</FullName>
+        <Name>USFK</Name>
+        <Id>usfk-us-forces-korea-yongsan-garrison-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usfj-us-forces-japan-yokota-ab-japan</Url>
+        <FullName>US Forces Japan</FullName>
+        <Name>USFJ</Name>
+        <Id>usfj-us-forces-japan-yokota-ab-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pacom-embassies-pacom-regional-embassies</Url>
+        <FullName>PACOM Regional Embassies</FullName>
+        <Name>PACOM Embassies</Name>
+        <Id>pacom-embassies-pacom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pacom-hq-pacom-headquarters-camp-smith-hi</Url>
+    <NameNode>PACOM Headquarters, US Pacific Command</NameNode>
+    <FullName>PACOM Headquarters, Pacific Command</FullName>
+    <SplitName>PACOM Headquarters, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/025/small/pacom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Smith</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Smith, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-smith-hi</Url>
+        <Id>camp-smith-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usfk-us-forces-korea-yongsan-garrison-south-korea</Url>
+    <NameNode>US Forces Korea, US Pacific Command</NameNode>
+    <FullName>Forces Korea, Pacific Command</FullName>
+    <SplitName>US Forces Korea, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/373/small/usfk.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yongsan Garrison</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yongsan Garrison, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yongsan-garrison-south-korea</Url>
+        <Id>yongsan-garrison-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usfk-hq-us-forces-korea-headquarters-yongsan-garrison-south-korea</Url>
+        <FullName>US Forces Korea Headquarters</FullName>
+        <Name>USFK HQ</Name>
+        <Id>usfk-hq-us-forces-korea-headquarters-yongsan-garrison-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/suslak-special-us-liaison-activity-korea-yongsan-garrison-south-korea</Url>
+        <FullName>Special US Liaison Activity Korea</FullName>
+        <Name>SUSLAK</Name>
+        <Id>suslak-special-us-liaison-activity-korea-yongsan-garrison-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jcisa-joint-command-information-systems-activity-yongsan-garrison-south-korea</Url>
+        <FullName>Joint Command Information Systems Activity</FullName>
+        <Name>JCISA</Name>
+        <Id>jcisa-joint-command-information-systems-activity-yongsan-garrison-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/stb-usfk-special-troops-battalion-yongsan-garrison-south-korea</Url>
+        <FullName>USFK Special Troops Battalion</FullName>
+        <Name>STB</Name>
+        <Id>stb-usfk-special-troops-battalion-yongsan-garrison-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usfk-hq-us-forces-korea-headquarters-yongsan-garrison-south-korea</Url>
+    <NameNode>US Forces Korea Headquarters, US Forces Korea</NameNode>
+    <FullName>Forces Korea Headquarters, Forces Korea</FullName>
+    <SplitName>US Forces Korea Headquarters, US Forces Korea</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/373/small/usfk.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yongsan Garrison</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yongsan Garrison, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yongsan-garrison-south-korea</Url>
+        <Id>yongsan-garrison-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/suslak-special-us-liaison-activity-korea-yongsan-garrison-south-korea</Url>
+    <NameNode>Special US Liaison Activity Korea, US Forces Korea</NameNode>
+    <FullName>Special Liaison Activity Korea, Forces Korea</FullName>
+    <SplitName>Special US Liaison Activity Korea, US Forces Korea</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/373/small/usfk.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yongsan Garrison</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yongsan Garrison, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yongsan-garrison-south-korea</Url>
+        <Id>yongsan-garrison-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jcisa-joint-command-information-systems-activity-yongsan-garrison-south-korea</Url>
+    <NameNode>Joint Command Information Systems Activity, US Forces Korea</NameNode>
+    <FullName>Joint Command Information Systems Activity, Forces Korea</FullName>
+    <SplitName>Joint Command Information Systems Activity, US Forces Korea</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/373/small/usfk.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yongsan Garrison</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yongsan Garrison, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yongsan-garrison-south-korea</Url>
+        <Id>yongsan-garrison-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/stb-usfk-special-troops-battalion-yongsan-garrison-south-korea</Url>
+    <NameNode>USFK Special Troops Battalion, US Forces Korea</NameNode>
+    <FullName>USFK Special Troops Battalion, Forces Korea</FullName>
+    <SplitName>USFK Special Troops Battalion, US Forces Korea</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/373/small/usfk.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yongsan Garrison</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yongsan Garrison, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yongsan-garrison-south-korea</Url>
+        <Id>yongsan-garrison-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usfj-us-forces-japan-yokota-ab-japan</Url>
+    <NameNode>US Forces Japan, US Pacific Command</NameNode>
+    <FullName>Forces Japan, Pacific Command</FullName>
+    <SplitName>US Forces Japan, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/374/small/usfj.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yokota AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yokota AB, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yokota-ab-japan</Url>
+        <Id>yokota-ab-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usfj-hq-us-forces-japan-headquarters-yokota-ab-japan</Url>
+        <FullName>US Forces Japan Headquarters</FullName>
+        <Name>USFJ HQ</Name>
+        <Id>usfj-hq-us-forces-japan-headquarters-yokota-ab-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/dsrj-department-of-defense-special-representative-japan-yokota-ab-japan</Url>
+        <FullName>Department of Defense Special Representative - Japan</FullName>
+        <Name>DSRJ</Name>
+        <Id>dsrj-department-of-defense-special-representative-japan-yokota-ab-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usfj-hq-us-forces-japan-headquarters-yokota-ab-japan</Url>
+    <NameNode>US Forces Japan Headquarters, US Forces Japan</NameNode>
+    <FullName>Forces Japan Headquarters, Forces Japan</FullName>
+    <SplitName>US Forces Japan Headquarters, US Forces Japan</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/374/small/usfj.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yokota AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yokota AB, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yokota-ab-japan</Url>
+        <Id>yokota-ab-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/dsrj-department-of-defense-special-representative-japan-yokota-ab-japan</Url>
+    <NameNode>Department of Defense Special Representative - Japan, US Forces Japan</NameNode>
+    <FullName>Department of Defense Special Representative - Japan, Forces Japan</FullName>
+    <SplitName>Department of Defense Special Representative - Japan, US Forces Japan</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/374/small/usfj.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yokota AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yokota AB, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yokota-ab-japan</Url>
+        <Id>yokota-ab-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pacom-embassies-pacom-regional-embassies</Url>
+    <NameNode>PACOM Regional Embassies, US Pacific Command</NameNode>
+    <FullName>PACOM Regional Embassies, Pacific Command</FullName>
+    <SplitName>PACOM Regional Embassies, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asia-pacom-regional-embassies-us-pacific-command</Url>
+        <FullName />
+        <Name>Asia</Name>
+        <Id>asia-pacom-regional-embassies-us-pacific-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southern-asia-pacom-regional-embassies</Url>
+        <FullName />
+        <Name>Southern Asia</Name>
+        <Id>southern-asia-pacom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/far-east-pacom-regional-embassies</Url>
+        <FullName />
+        <Name>Far East</Name>
+        <Id>far-east-pacom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/australia-region-pacom-regional-embassies</Url>
+        <FullName />
+        <Name>Australia Region</Name>
+        <Id>australia-region-pacom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asia-pacom-regional-embassies-us-pacific-command</Url>
+    <NameNode>PACOM Regional Embassies, US Pacific Command</NameNode>
+    <FullName>PACOM Regional Embassies, Pacific Command</FullName>
+    <SplitName>PACOM Regional Embassies, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-ulaanbaatar-us-embassy-ulaanbaatar-ulaanbaatar-mongolia</Url>
+        <FullName>US Embassy - Ulaanbaatar</FullName>
+        <Name>USE - Ulaanbaatar</Name>
+        <Id>use-ulaanbaatar-us-embassy-ulaanbaatar-ulaanbaatar-mongolia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-beijing-us-embassy-beijing-beijing-china</Url>
+        <FullName>US Embassy - Beijing</FullName>
+        <Name>USE - Beijing</Name>
+        <Id>use-beijing-us-embassy-beijing-beijing-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-chengdu-us-consulate-general-chengdu-chengdu-china</Url>
+        <FullName>US Consulate General - Chengdu</FullName>
+        <Name>USCG - Chengdu</Name>
+        <Id>uscg-chengdu-us-consulate-general-chengdu-chengdu-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-guangzhou-us-consulate-general-guangzhou-guangzhou-china</Url>
+        <FullName>US Consulate General - Guangzhou</FullName>
+        <Name>USCG - Guangzhou</Name>
+        <Id>uscg-guangzhou-us-consulate-general-guangzhou-guangzhou-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-hong-kong-us-consulate-general-hong-kong-hong-kong-china</Url>
+        <FullName>US Consulate General - Hong Kong</FullName>
+        <Name>USCG - Hong Kong</Name>
+        <Id>uscg-hong-kong-us-consulate-general-hong-kong-hong-kong-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-shanghai-us-consulate-general-shanghai-shanghai-china</Url>
+        <FullName>US Consulate General - Shanghai</FullName>
+        <Name>USCG - Shanghai</Name>
+        <Id>uscg-shanghai-us-consulate-general-shanghai-shanghai-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-shenyang-us-consulate-general-shenyang-shenyang-china</Url>
+        <FullName>US Consulate General - Shenyang</FullName>
+        <Name>USCG - Shenyang</Name>
+        <Id>uscg-shenyang-us-consulate-general-shenyang-shenyang-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-wuhan-us-consulate-general-wuhan-wuhan-china</Url>
+        <FullName>US Consulate General - Wuhan</FullName>
+        <Name>USCG - Wuhan</Name>
+        <Id>uscg-wuhan-us-consulate-general-wuhan-wuhan-china</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-ulaanbaatar-us-embassy-ulaanbaatar-ulaanbaatar-mongolia</Url>
+    <NameNode>US Embassy - Ulaanbaatar, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Ulaanbaatar, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Ulaanbaatar, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ulaanbaatar</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ulaanbaatar, Mongolia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ulaanbaatar-mongolia</Url>
+        <Id>ulaanbaatar-mongolia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-beijing-us-embassy-beijing-beijing-china</Url>
+    <NameNode>US Embassy - Beijing, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Beijing, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Beijing, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Beijing</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Beijing, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/beijing-china</Url>
+        <Id>beijing-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-chengdu-us-consulate-general-chengdu-chengdu-china</Url>
+    <NameNode>US Consulate General - Chengdu, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Chengdu, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Chengdu, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chengdu</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chengdu, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chengdu-china</Url>
+        <Id>chengdu-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-guangzhou-us-consulate-general-guangzhou-guangzhou-china</Url>
+    <NameNode>US Consulate General - Guangzhou, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Guangzhou, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Guangzhou, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Guangzhou</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Guangzhou, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/guangzhou-china</Url>
+        <Id>guangzhou-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-hong-kong-us-consulate-general-hong-kong-hong-kong-china</Url>
+    <NameNode>US Consulate General - Hong Kong, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Hong Kong, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Hong Kong, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hong Kong</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hong Kong, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hong-kong-china</Url>
+        <Id>hong-kong-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-shanghai-us-consulate-general-shanghai-shanghai-china</Url>
+    <NameNode>US Consulate General - Shanghai, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Shanghai, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Shanghai, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Shanghai</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shanghai, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/shanghai-china</Url>
+        <Id>shanghai-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-shenyang-us-consulate-general-shenyang-shenyang-china</Url>
+    <NameNode>US Consulate General - Shenyang, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Shenyang, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Shenyang, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Shenyang</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Shenyang, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/shenyang-china</Url>
+        <Id>shenyang-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-wuhan-us-consulate-general-wuhan-wuhan-china</Url>
+    <NameNode>US Consulate General - Wuhan, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Wuhan, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Wuhan, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Wuhan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wuhan, China</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/wuhan-china</Url>
+        <Id>wuhan-china</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southern-asia-pacom-regional-embassies</Url>
+    <NameNode>PACOM Regional Embassies, US Pacific Command</NameNode>
+    <FullName>PACOM Regional Embassies, Pacific Command</FullName>
+    <SplitName>PACOM Regional Embassies, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bangkok-us-embassy-bangkok-bangkok-thailand</Url>
+        <FullName>US Embassy - Bangkok</FullName>
+        <Name>USE - Bangkok</Name>
+        <Id>use-bangkok-us-embassy-bangkok-bangkok-thailand</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-chiang-mai-us-consulate-general-chiang-mai-chiang-mai-thailand</Url>
+        <FullName>US Consulate General - Chiang Mai</FullName>
+        <Name>USCG - Chiang Mai</Name>
+        <Id>uscg-chiang-mai-us-consulate-general-chiang-mai-chiang-mai-thailand</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-hanoi-us-embassy-hanoi-hanoi-vietnam</Url>
+        <FullName>US Embassy - Hanoi</FullName>
+        <Name>USE - Hanoi</Name>
+        <Id>use-hanoi-us-embassy-hanoi-hanoi-vietnam</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-ho-chi-minh-city-us-consulate-general-ho-chi-minh-city-ho-chi-minh-city-vietnam</Url>
+        <FullName>US Consulate General - Ho Chi Minh City</FullName>
+        <Name>USCG - Ho Chi Minh City</Name>
+        <Id>uscg-ho-chi-minh-city-us-consulate-general-ho-chi-minh-city-ho-chi-minh-city-vietnam</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-vientiane-us-embassy-vientiane-vientiane-laos</Url>
+        <FullName>US Embassy - Vientiane</FullName>
+        <Name>USE - Vientiane</Name>
+        <Id>use-vientiane-us-embassy-vientiane-vientiane-laos</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-phnom-penh-us-embassy-phnom-penh-phnom-penh-cambodia</Url>
+        <FullName>US Embassy - Phnom Penh</FullName>
+        <Name>USE - Phnom Penh</Name>
+        <Id>use-phnom-penh-us-embassy-phnom-penh-phnom-penh-cambodia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-yangon-us-embassy-yangon-yangon-myanmar</Url>
+        <FullName>US Embassy - Yangon</FullName>
+        <Name>USE - Yangon</Name>
+        <Id>use-yangon-us-embassy-yangon-yangon-myanmar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-new-delhi-us-embassy-new-delhi-new-delhi-india</Url>
+        <FullName>US Embassy - New Delhi</FullName>
+        <Name>USE - New Delhi</Name>
+        <Id>use-new-delhi-us-embassy-new-delhi-new-delhi-india</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-chennai-us-consulate-general-chennai-chennai-india</Url>
+        <FullName>US Consulate General - Chennai</FullName>
+        <Name>USCG - Chennai</Name>
+        <Id>uscg-chennai-us-consulate-general-chennai-chennai-india</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-hyderabad-us-consulate-general-hyderabad-hyderabad-india</Url>
+        <FullName>US Consulate General - Hyderabad</FullName>
+        <Name>USCG - Hyderabad</Name>
+        <Id>uscg-hyderabad-us-consulate-general-hyderabad-hyderabad-india</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-kolkata-us-consulate-general-kolkata-kolkata-india</Url>
+        <FullName>US Consulate General - Kolkata</FullName>
+        <Name>USCG - Kolkata</Name>
+        <Id>uscg-kolkata-us-consulate-general-kolkata-kolkata-india</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-mumbai-us-consulate-general-mumbai-mumbai-india</Url>
+        <FullName>US Consulate General - Mumbai</FullName>
+        <Name>USCG - Mumbai</Name>
+        <Id>uscg-mumbai-us-consulate-general-mumbai-mumbai-india</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-colombo-us-embassy-colombo-colombo-sri-lanka</Url>
+        <FullName>US Embassy - Colombo</FullName>
+        <Name>USE - Colombo</Name>
+        <Id>use-colombo-us-embassy-colombo-colombo-sri-lanka</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-dhaka-us-embassy-dhaka-dhaka-bangladesh</Url>
+        <FullName>US Embassy - Dhaka</FullName>
+        <Name>USE - Dhaka</Name>
+        <Id>use-dhaka-us-embassy-dhaka-dhaka-bangladesh</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kathmandu-us-embassy-kathmandu-kathmandu-nepal</Url>
+        <FullName>US Embassy - Kathmandu</FullName>
+        <Name>USE - Kathmandu</Name>
+        <Id>use-kathmandu-us-embassy-kathmandu-kathmandu-nepal</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-singapore-us-embassy-singapore-singapore-singapore</Url>
+        <FullName>US Embassy - Singapore</FullName>
+        <Name>USE - Singapore</Name>
+        <Id>use-singapore-us-embassy-singapore-singapore-singapore</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bangkok-us-embassy-bangkok-bangkok-thailand</Url>
+    <NameNode>US Embassy - Bangkok, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bangkok, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bangkok, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bangkok</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bangkok, Thailand</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bangkok-thailand</Url>
+        <Id>bangkok-thailand</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-chiang-mai-us-consulate-general-chiang-mai-chiang-mai-thailand</Url>
+    <NameNode>US Consulate General - Chiang Mai, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Chiang Mai, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Chiang Mai, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chiang Mai</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chiang Mai, Thailand</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chiang-mai-thailand</Url>
+        <Id>chiang-mai-thailand</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-hanoi-us-embassy-hanoi-hanoi-vietnam</Url>
+    <NameNode>US Embassy - Hanoi, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Hanoi, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Hanoi, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hanoi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hanoi, Vietnam</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hanoi-vietnam</Url>
+        <Id>hanoi-vietnam</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-ho-chi-minh-city-us-consulate-general-ho-chi-minh-city-ho-chi-minh-city-vietnam</Url>
+    <NameNode>US Consulate General - Ho Chi Minh City, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Ho Chi Minh City, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Ho Chi Minh City, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ho Chi Minh City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ho Chi Minh City, Vietnam</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ho-chi-minh-city-vietnam</Url>
+        <Id>ho-chi-minh-city-vietnam</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-vientiane-us-embassy-vientiane-vientiane-laos</Url>
+    <NameNode>US Embassy - Vientiane, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Vientiane, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Vientiane, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vientiane</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vientiane, Laos</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vientiane-laos</Url>
+        <Id>vientiane-laos</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-phnom-penh-us-embassy-phnom-penh-phnom-penh-cambodia</Url>
+    <NameNode>US Embassy - Phnom Penh, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Phnom Penh, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Phnom Penh, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Phnom Penh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Phnom Penh, Cambodia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/phnom-penh-cambodia</Url>
+        <Id>phnom-penh-cambodia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-yangon-us-embassy-yangon-yangon-myanmar</Url>
+    <NameNode>US Embassy - Yangon, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Yangon, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Yangon, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yangon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yangon, Myanmar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yangon-myanmar</Url>
+        <Id>yangon-myanmar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-new-delhi-us-embassy-new-delhi-new-delhi-india</Url>
+    <NameNode>US Embassy - New Delhi, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - New Delhi, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - New Delhi, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>New Delhi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Delhi, India</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/new-delhi-india</Url>
+        <Id>new-delhi-india</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-chennai-us-consulate-general-chennai-chennai-india</Url>
+    <NameNode>US Consulate General - Chennai, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Chennai, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Chennai, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chennai</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chennai, India</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chennai-india</Url>
+        <Id>chennai-india</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-hyderabad-us-consulate-general-hyderabad-hyderabad-india</Url>
+    <NameNode>US Consulate General - Hyderabad, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Hyderabad, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Hyderabad, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hyderabad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hyderabad, India</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hyderabad-india</Url>
+        <Id>hyderabad-india</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-kolkata-us-consulate-general-kolkata-kolkata-india</Url>
+    <NameNode>US Consulate General - Kolkata, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Kolkata, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Kolkata, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kolkata</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kolkata, India</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kolkata-india</Url>
+        <Id>kolkata-india</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-mumbai-us-consulate-general-mumbai-mumbai-india</Url>
+    <NameNode>US Consulate General - Mumbai, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Mumbai, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Mumbai, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mumbai</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mumbai, India</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mumbai-india</Url>
+        <Id>mumbai-india</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-colombo-us-embassy-colombo-colombo-sri-lanka</Url>
+    <NameNode>US Embassy - Colombo, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Colombo, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Colombo, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Colombo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Colombo, Sri Lanka</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/colombo-sri-lanka</Url>
+        <Id>colombo-sri-lanka</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-dhaka-us-embassy-dhaka-dhaka-bangladesh</Url>
+    <NameNode>US Embassy - Dhaka, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Dhaka, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Dhaka, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dhaka</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dhaka, Bangladesh</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dhaka-bangladesh</Url>
+        <Id>dhaka-bangladesh</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kathmandu-us-embassy-kathmandu-kathmandu-nepal</Url>
+    <NameNode>US Embassy - Kathmandu, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kathmandu, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kathmandu, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kathmandu</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kathmandu, Nepal</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kathmandu-nepal</Url>
+        <Id>kathmandu-nepal</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-singapore-us-embassy-singapore-singapore-singapore</Url>
+    <NameNode>US Embassy - Singapore, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Singapore, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Singapore, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Singapore</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Singapore, Singapore</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/singapore-singapore</Url>
+        <Id>singapore-singapore</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/far-east-pacom-regional-embassies</Url>
+    <NameNode>PACOM Regional Embassies, US Pacific Command</NameNode>
+    <FullName>PACOM Regional Embassies, Pacific Command</FullName>
+    <SplitName>PACOM Regional Embassies, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tokyo-us-embassy-tokyo-tokyo-japan</Url>
+        <FullName>US Embassy - Tokyo</FullName>
+        <Name>USE - Tokyo</Name>
+        <Id>use-tokyo-us-embassy-tokyo-tokyo-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-naha-us-consulate-general-naha-naha-japan</Url>
+        <FullName>US Consulate General - Naha</FullName>
+        <Name>USCG - Naha</Name>
+        <Id>uscg-naha-us-consulate-general-naha-naha-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/app-busan-american-presence-post-busan-busan-south-korea</Url>
+        <FullName>American Presence Post - Busan</FullName>
+        <Name>APP - Busan</Name>
+        <Id>app-busan-american-presence-post-busan-busan-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-osaka-us-consulate-general-osaka-osaka-japan</Url>
+        <FullName>US Consulate General - Osaka</FullName>
+        <Name>USCG - Osaka</Name>
+        <Id>uscg-osaka-us-consulate-general-osaka-osaka-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-sapporo-us-consulate-general-sapporo-sapporo-japan</Url>
+        <FullName>US Consulate General - Sapporo</FullName>
+        <Name>USCG - Sapporo</Name>
+        <Id>uscg-sapporo-us-consulate-general-sapporo-sapporo-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-fukuoka-us-consulate-fukuoka-fukuoka-japan</Url>
+        <FullName>US Consulate - Fukuoka</FullName>
+        <Name>USC - Fukuoka</Name>
+        <Id>usc-fukuoka-us-consulate-fukuoka-fukuoka-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-nagoya-us-consulate-nagoya-nagoya-japan</Url>
+        <FullName>US Consulate - Nagoya</FullName>
+        <Name>USC - Nagoya</Name>
+        <Id>usc-nagoya-us-consulate-nagoya-nagoya-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aiit-taipei-american-institute-in-taiwan-taipei-taipei-taiwan</Url>
+        <FullName>American Institute in Taiwan -Taipei</FullName>
+        <Name>AIIT - Taipei</Name>
+        <Id>aiit-taipei-american-institute-in-taiwan-taipei-taipei-taiwan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aiit-kaohsiung-american-institute-in-taiwan-kaohsiung-kaohsiung-taiwan</Url>
+        <FullName>American Institute in Taiwan -Kaohsiung</FullName>
+        <Name>AIIT - Kaohsiung</Name>
+        <Id>aiit-kaohsiung-american-institute-in-taiwan-kaohsiung-kaohsiung-taiwan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-seoul-us-embassy-seoul-seoul-south-korea</Url>
+        <FullName>US Embassy - Seoul</FullName>
+        <Name>USE - Seoul</Name>
+        <Id>use-seoul-us-embassy-seoul-seoul-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tokyo-us-embassy-tokyo-tokyo-japan</Url>
+    <NameNode>US Embassy - Tokyo, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tokyo, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tokyo, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tokyo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tokyo, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tokyo-japan</Url>
+        <Id>tokyo-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-naha-us-consulate-general-naha-naha-japan</Url>
+    <NameNode>US Consulate General - Naha, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Naha, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Naha, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naha, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naha-japan</Url>
+        <Id>naha-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/app-busan-american-presence-post-busan-busan-south-korea</Url>
+    <NameNode>American Presence Post - Busan, PACOM Regional Embassies</NameNode>
+    <FullName>American Presence Post - Busan, PACOM Regional Embassies</FullName>
+    <SplitName>American Presence Post - Busan, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Busan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Busan, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/busan-south-korea</Url>
+        <Id>busan-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-osaka-us-consulate-general-osaka-osaka-japan</Url>
+    <NameNode>US Consulate General - Osaka, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Osaka, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Osaka, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Osaka</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Osaka, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/osaka-japan</Url>
+        <Id>osaka-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-sapporo-us-consulate-general-sapporo-sapporo-japan</Url>
+    <NameNode>US Consulate General - Sapporo, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Sapporo, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Sapporo, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sapporo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sapporo, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sapporo-japan</Url>
+        <Id>sapporo-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-fukuoka-us-consulate-fukuoka-fukuoka-japan</Url>
+    <NameNode>US Consulate - Fukuoka, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate - Fukuoka, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Fukuoka, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fukuoka</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fukuoka, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fukuoka-japan</Url>
+        <Id>fukuoka-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-nagoya-us-consulate-nagoya-nagoya-japan</Url>
+    <NameNode>US Consulate - Nagoya, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate - Nagoya, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Nagoya, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nagoya</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nagoya, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nagoya-japan</Url>
+        <Id>nagoya-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aiit-taipei-american-institute-in-taiwan-taipei-taipei-taiwan</Url>
+    <NameNode>American Institute in Taiwan -Taipei, PACOM Regional Embassies</NameNode>
+    <FullName>American Institute in Taiwan -Taipei, PACOM Regional Embassies</FullName>
+    <SplitName>American Institute in Taiwan -Taipei, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Taipei</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Taipei, Taiwan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/taipei-taiwan</Url>
+        <Id>taipei-taiwan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aiit-kaohsiung-american-institute-in-taiwan-kaohsiung-kaohsiung-taiwan</Url>
+    <NameNode>American Institute in Taiwan -Kaohsiung, PACOM Regional Embassies</NameNode>
+    <FullName>American Institute in Taiwan -Kaohsiung, PACOM Regional Embassies</FullName>
+    <SplitName>American Institute in Taiwan -Kaohsiung, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kaohsiung</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaohsiung, Taiwan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kaohsiung-taiwan</Url>
+        <Id>kaohsiung-taiwan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-seoul-us-embassy-seoul-seoul-south-korea</Url>
+    <NameNode>US Embassy - Seoul, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Seoul, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Seoul, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Seoul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Seoul, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/seoul-south-korea</Url>
+        <Id>seoul-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/australia-region-pacom-regional-embassies</Url>
+    <NameNode>PACOM Regional Embassies, US Pacific Command</NameNode>
+    <FullName>PACOM Regional Embassies, Pacific Command</FullName>
+    <SplitName>PACOM Regional Embassies, US Pacific Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-canberra-us-embassy-canberra-canberra-australia</Url>
+        <FullName>US Embassy - Canberra</FullName>
+        <Name>USE - Canberra</Name>
+        <Id>use-canberra-us-embassy-canberra-canberra-australia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-melbourne-us-consulate-general-melbourne-melbourne-australia</Url>
+        <FullName>US Consulate General - Melbourne</FullName>
+        <Name>USCG - Melbourne</Name>
+        <Id>uscg-melbourne-us-consulate-general-melbourne-melbourne-australia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-perth-us-consulate-general-perth-perth-australia</Url>
+        <FullName>US Consulate General - Perth</FullName>
+        <Name>USCG - Perth</Name>
+        <Id>uscg-perth-us-consulate-general-perth-perth-australia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-sydney-us-consulate-general-sydney-sydney-australia</Url>
+        <FullName>US Consulate General - Sydney</FullName>
+        <Name>USCG - Sydney</Name>
+        <Id>uscg-sydney-us-consulate-general-sydney-sydney-australia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-wellington-us-embassy-wellington-wellington-new-zealand</Url>
+        <FullName>US Embassy - Wellington</FullName>
+        <Name>USE - Wellington</Name>
+        <Id>use-wellington-us-embassy-wellington-wellington-new-zealand</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-auckland-us-consulate-general-auckland-auckland-new-zealand</Url>
+        <FullName>US Consulate General - Auckland</FullName>
+        <Name>USCG - Auckland</Name>
+        <Id>uscg-auckland-us-consulate-general-auckland-auckland-new-zealand</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bandar-seri-begawan-us-embassy-bandar-seri-begawan-bandar-seri-begawan-brunei</Url>
+        <FullName>US Embassy - Bandar Seri Begawan</FullName>
+        <Name>USE - Bandar Seri Begawan</Name>
+        <Id>use-bandar-seri-begawan-us-embassy-bandar-seri-begawan-bandar-seri-begawan-brunei</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kolonia-us-embassy-kolonia-kolonia-micronesia</Url>
+        <FullName>US Embassy - Kolonia</FullName>
+        <Name>USE - Kolonia</Name>
+        <Id>use-kolonia-us-embassy-kolonia-kolonia-micronesia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-jakarta-us-embassy-jakarta-jakarta-indonesia</Url>
+        <FullName>US Embassy - Jakarta</FullName>
+        <Name>USE - Jakarta</Name>
+        <Id>use-jakarta-us-embassy-jakarta-jakarta-indonesia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usco-denpasar-us-consular-office-denpasar-denpasar-indonesia</Url>
+        <FullName>US Consular Office - Denpasar</FullName>
+        <Name>USCO - Denpasar</Name>
+        <Id>usco-denpasar-us-consular-office-denpasar-denpasar-indonesia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-surabaya-us-consulate-general-surabaya-surabaya-indonesia</Url>
+        <FullName>US Consulate General - Surabaya</FullName>
+        <Name>USCG - Surabaya</Name>
+        <Id>uscg-surabaya-us-consulate-general-surabaya-surabaya-indonesia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-manila-us-embassy-manila-manila-philippines</Url>
+        <FullName>US Embassy - Manila</FullName>
+        <Name>USE - Manila</Name>
+        <Id>use-manila-us-embassy-manila-manila-philippines</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-cebu-city-us-consular-agency-cebu-city-cebu-city-philippines</Url>
+        <FullName>US Consular Agency - Cebu City</FullName>
+        <Name>USCA - Cebu City</Name>
+        <Id>usca-cebu-city-us-consular-agency-cebu-city-cebu-city-philippines</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-port-moresby-us-embassy-port-moresby-port-moresby-papua-new-guinea</Url>
+        <FullName>US Embassy - Port Moresby</FullName>
+        <Name>USE - Port Moresby</Name>
+        <Id>use-port-moresby-us-embassy-port-moresby-port-moresby-papua-new-guinea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-suva-us-embassy-suva-suva-fiji</Url>
+        <FullName>US Embassy - Suva</FullName>
+        <Name>USE - Suva</Name>
+        <Id>use-suva-us-embassy-suva-suva-fiji</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-majuro-us-embassy-majuro-majuro-marshall-islands</Url>
+        <FullName>US Embassy - Majuro</FullName>
+        <Name>USE - Majuro</Name>
+        <Id>use-majuro-us-embassy-majuro-majuro-marshall-islands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kuala-lumpur-us-embassy-kuala-lumpur-kuala-lumpur-malaysia</Url>
+        <FullName>US Embassy - Kuala Lumpur</FullName>
+        <Name>USE - Kuala Lumpur</Name>
+        <Id>use-kuala-lumpur-us-embassy-kuala-lumpur-kuala-lumpur-malaysia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-koror-us-embassy-koror-koror-palau</Url>
+        <FullName>US Embassy - Koror</FullName>
+        <Name>USE - Koror</Name>
+        <Id>use-koror-us-embassy-koror-koror-palau</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-apia-us-embassy-apia-apia-samoa</Url>
+        <FullName>US Embassy - Apia</FullName>
+        <Name>USE - Apia</Name>
+        <Id>use-apia-us-embassy-apia-apia-samoa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-honiara-us-consular-agency-honiara-honiara-solomon-islands</Url>
+        <FullName>US Consular Agency - Honiara</FullName>
+        <Name>USCA - Honiara</Name>
+        <Id>usca-honiara-us-consular-agency-honiara-honiara-solomon-islands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-dili-us-embassy-dili-dili-timor-leste</Url>
+        <FullName>US Embassy - Dili</FullName>
+        <Name>USE - Dili</Name>
+        <Id>use-dili-us-embassy-dili-dili-timor-leste</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-canberra-us-embassy-canberra-canberra-australia</Url>
+    <NameNode>US Embassy - Canberra, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Canberra, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Canberra, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Canberra</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Canberra, Australia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/canberra-australia</Url>
+        <Id>canberra-australia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-melbourne-us-consulate-general-melbourne-melbourne-australia</Url>
+    <NameNode>US Consulate General - Melbourne, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Melbourne, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Melbourne, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Melbourne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Melbourne, Australia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/melbourne-australia</Url>
+        <Id>melbourne-australia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-perth-us-consulate-general-perth-perth-australia</Url>
+    <NameNode>US Consulate General - Perth, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Perth, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Perth, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Perth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Perth, Australia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/perth-australia</Url>
+        <Id>perth-australia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-sydney-us-consulate-general-sydney-sydney-australia</Url>
+    <NameNode>US Consulate General - Sydney, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Sydney, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Sydney, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sydney</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sydney, Australia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sydney-australia</Url>
+        <Id>sydney-australia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-wellington-us-embassy-wellington-wellington-new-zealand</Url>
+    <NameNode>US Embassy - Wellington, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Wellington, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Wellington, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Wellington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wellington, New Zealand</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/wellington-new-zealand</Url>
+        <Id>wellington-new-zealand</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-auckland-us-consulate-general-auckland-auckland-new-zealand</Url>
+    <NameNode>US Consulate General - Auckland, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Auckland, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Auckland, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Auckland</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Auckland, New Zealand</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/auckland-new-zealand</Url>
+        <Id>auckland-new-zealand</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bandar-seri-begawan-us-embassy-bandar-seri-begawan-bandar-seri-begawan-brunei</Url>
+    <NameNode>US Embassy - Bandar Seri Begawan, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bandar Seri Begawan, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bandar Seri Begawan, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bandar Seri Begawan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bandar Seri Begawan, Brunei</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bandar-seri-begawan-brunei</Url>
+        <Id>bandar-seri-begawan-brunei</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kolonia-us-embassy-kolonia-kolonia-micronesia</Url>
+    <NameNode>US Embassy - Kolonia, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kolonia, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kolonia, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kolonia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kolonia, Micronesia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kolonia-micronesia</Url>
+        <Id>kolonia-micronesia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-jakarta-us-embassy-jakarta-jakarta-indonesia</Url>
+    <NameNode>US Embassy - Jakarta, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Jakarta, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Jakarta, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jakarta</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jakarta, Indonesia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jakarta-indonesia</Url>
+        <Id>jakarta-indonesia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usco-denpasar-us-consular-office-denpasar-denpasar-indonesia</Url>
+    <NameNode>US Consular Office - Denpasar, PACOM Regional Embassies</NameNode>
+    <FullName>Consular Office - Denpasar, PACOM Regional Embassies</FullName>
+    <SplitName>US Consular Office - Denpasar, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Denpasar</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Denpasar, Indonesia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/denpasar-indonesia</Url>
+        <Id>denpasar-indonesia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-surabaya-us-consulate-general-surabaya-surabaya-indonesia</Url>
+    <NameNode>US Consulate General - Surabaya, PACOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Surabaya, PACOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Surabaya, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Surabaya</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Surabaya, Indonesia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/surabaya-indonesia</Url>
+        <Id>surabaya-indonesia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-manila-us-embassy-manila-manila-philippines</Url>
+    <NameNode>US Embassy - Manila, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Manila, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Manila, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Manila</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manila, Philippines</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/manila-philippines</Url>
+        <Id>manila-philippines</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-cebu-city-us-consular-agency-cebu-city-cebu-city-philippines</Url>
+    <NameNode>US Consular Agency - Cebu City, PACOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Cebu City, PACOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Cebu City, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cebu City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cebu City, Philippines</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cebu-city-philippines</Url>
+        <Id>cebu-city-philippines</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-port-moresby-us-embassy-port-moresby-port-moresby-papua-new-guinea</Url>
+    <NameNode>US Embassy - Port Moresby, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Port Moresby, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Port Moresby, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Port Moresby</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Port Moresby, Papua New Guinea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/port-moresby-papua-new-guinea</Url>
+        <Id>port-moresby-papua-new-guinea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-suva-us-embassy-suva-suva-fiji</Url>
+    <NameNode>US Embassy - Suva, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Suva, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Suva, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Suva</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Suva, Fiji</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/suva-fiji</Url>
+        <Id>suva-fiji</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-majuro-us-embassy-majuro-majuro-marshall-islands</Url>
+    <NameNode>US Embassy - Majuro, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Majuro, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Majuro, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Majuro</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Majuro, Marshall Islands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/majuro-marshall-islands</Url>
+        <Id>majuro-marshall-islands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kuala-lumpur-us-embassy-kuala-lumpur-kuala-lumpur-malaysia</Url>
+    <NameNode>US Embassy - Kuala Lumpur, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kuala Lumpur, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kuala Lumpur, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kuala Lumpur</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuala Lumpur, Malaysia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kuala-lumpur-malaysia</Url>
+        <Id>kuala-lumpur-malaysia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-koror-us-embassy-koror-koror-palau</Url>
+    <NameNode>US Embassy - Koror, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Koror, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Koror, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Koror</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Koror, Palau</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/koror-palau</Url>
+        <Id>koror-palau</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-apia-us-embassy-apia-apia-samoa</Url>
+    <NameNode>US Embassy - Apia, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Apia, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Apia, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Apia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Apia, Samoa</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/apia-samoa</Url>
+        <Id>apia-samoa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-honiara-us-consular-agency-honiara-honiara-solomon-islands</Url>
+    <NameNode>US Consular Agency - Honiara, PACOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Honiara, PACOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Honiara, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Honiara</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Honiara, Solomon Islands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/honiara-solomon-islands</Url>
+        <Id>honiara-solomon-islands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-dili-us-embassy-dili-dili-timor-leste</Url>
+    <NameNode>US Embassy - Dili, PACOM Regional Embassies</NameNode>
+    <FullName>Embassy - Dili, PACOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Dili, PACOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dili</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dili, Timor-Leste</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dili-timor-leste</Url>
+        <Id>dili-timor-leste</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

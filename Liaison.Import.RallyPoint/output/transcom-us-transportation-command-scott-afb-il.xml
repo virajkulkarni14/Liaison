@@ -1,0 +1,2521 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/transcom-us-transportation-command-scott-afb-il</Url>
+    <NameNode>US Transportation Command</NameNode>
+    <FullName>Transportation Command</FullName>
+    <SplitName>US Transportation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/transcom-hq-transcom-headquarters-scott-afb-il</Url>
+        <FullName>TRANSCOM Headquarters</FullName>
+        <Name>TRANSCOM HQ</Name>
+        <Id>transcom-hq-transcom-headquarters-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jecc-joint-enabling-capabilities-command-scott-afb-il</Url>
+        <FullName>Joint Enabling Capabilities Command</FullName>
+        <Name>JECC</Name>
+        <Id>jecc-joint-enabling-capabilities-command-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/transcom-hq-transcom-headquarters-scott-afb-il</Url>
+    <NameNode>TRANSCOM Headquarters, US Transportation Command</NameNode>
+    <FullName>TRANSCOM Headquarters, Transportation Command</FullName>
+    <SplitName>TRANSCOM Headquarters, US Transportation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccc-commander-staff-direct-reporting-elements-scott-afb-il</Url>
+        <FullName>Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+        <Name>TCCC</Name>
+        <Id>tccc-commander-staff-direct-reporting-elements-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcac-joint-distribution-process-analysis-center-scott-afb-il</Url>
+        <FullName>Joint Distribution Process Analysis Center</FullName>
+        <Name>TCAC</Name>
+        <Id>tcac-joint-distribution-process-analysis-center-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-directorate-of-acquisition-scott-afb-il</Url>
+        <FullName>Directorate of Acquisition</FullName>
+        <Name>TCAQ</Name>
+        <Id>tcaq-directorate-of-acquisition-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcja-staff-judge-advocate-scott-afb-il</Url>
+        <FullName>Staff Judge Advocate</FullName>
+        <Name>TCJA</Name>
+        <Id>tcja-staff-judge-advocate-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcsg-command-surgeon-scott-afb-il</Url>
+        <FullName>Command Surgeon</FullName>
+        <Name>TCSG</Name>
+        <Id>tcsg-command-surgeon-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-manpower-personnel-scott-afb-il</Url>
+        <FullName>Manpower &amp;amp; Personnel</FullName>
+        <Name>TCJ1</Name>
+        <Id>tcj1-manpower-personnel-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj2-intelligence-directorate-scott-afb-il</Url>
+        <FullName>Intelligence Directorate</FullName>
+        <Name>TCJ2</Name>
+        <Id>tcj2-intelligence-directorate-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-operations-planning-scott-afb-il</Url>
+        <FullName>Operations &amp;amp; Planning</FullName>
+        <Name>TCJ3</Name>
+        <Id>tcj3-operations-planning-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-strategy-policy-programs-logistics-scott-afb-il</Url>
+        <FullName>Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+        <Name>TCJ5/4</Name>
+        <Id>tcj5-4-strategy-policy-programs-logistics-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-command-control-communications-computer-systems-scott-afb-il</Url>
+        <FullName>Command, Control, Communications &amp;amp; Computer Systems</FullName>
+        <Name>TCJ6</Name>
+        <Id>tcj6-command-control-communications-computer-systems-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj8-program-analysis-financial-management-scott-afb-il</Url>
+        <FullName>Program Analysis &amp;amp; Financial Management</FullName>
+        <Name>TCJ8</Name>
+        <Id>tcj8-program-analysis-financial-management-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj9-reserve-component-directorate-scott-afb-il</Url>
+        <FullName>Reserve Component Directorate</FullName>
+        <Name>TCJ9</Name>
+        <Id>tcj9-reserve-component-directorate-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccc-commander-staff-direct-reporting-elements-scott-afb-il</Url>
+    <NameNode>Commander Staff &amp;amp; Direct Reporting Elements, TRANSCOM Headquarters</NameNode>
+    <FullName>Commander Staff &amp;amp; Direct Reporting Elements, TRANSCOM Headquarters</FullName>
+    <SplitName>Commander Staff &amp;amp; Direct Reporting Elements, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-chief-of-staff-scott-afb-il</Url>
+        <FullName>Chief of Staff</FullName>
+        <Name>TCCS</Name>
+        <Id>tccs-chief-of-staff-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccc-sel-senior-enlisted-leader-scott-afb-il</Url>
+        <FullName>Senior Enlisted Leader</FullName>
+        <Name>TCCC-SEL</Name>
+        <Id>tccc-sel-senior-enlisted-leader-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccc-x-commander-s-action-group-scott-afb-il</Url>
+        <FullName>Commander&amp;#39;s Action Group</FullName>
+        <Name>TCCC-X</Name>
+        <Id>tccc-x-commander-s-action-group-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-fs-command-first-sergeant-scott-afb-il</Url>
+        <FullName>Command First Sergeant</FullName>
+        <Name>TCCS-FS</Name>
+        <Id>tccs-fs-command-first-sergeant-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcch-office-of-the-command-chaplain-scott-afb-il</Url>
+        <FullName>Office of The Command Chaplain</FullName>
+        <Name>TCCH</Name>
+        <Id>tcch-office-of-the-command-chaplain-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-fo-freedom-office-scott-afb-il</Url>
+        <FullName>Freedom Office</FullName>
+        <Name>TCCS-FO</Name>
+        <Id>tccs-fo-freedom-office-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-js-im-joint-secretariat-scott-afb-il</Url>
+        <FullName>Joint Secretariat</FullName>
+        <Name>TCCS-JS/IM</Name>
+        <Id>tccs-js-im-joint-secretariat-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-p-protocol-scott-afb-il</Url>
+        <FullName>Protocol</FullName>
+        <Name>TCCS-P</Name>
+        <Id>tccs-p-protocol-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcpa-public-affairs-scott-afb-il</Url>
+        <FullName>Public Affairs</FullName>
+        <Name>TCPA</Name>
+        <Id>tcpa-public-affairs-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcrc-research-center-scott-afb-il</Url>
+        <FullName>Research Center</FullName>
+        <Name>TCRC</Name>
+        <Id>tcrc-research-center-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcig-inspector-general-scott-afb-il</Url>
+        <FullName>Inspector General</FullName>
+        <Name>TCIG</Name>
+        <Id>tcig-inspector-general-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-orta-technology-transfer-cooperative-research-development-agreements-scott-afb-il</Url>
+        <FullName>Technology Transfer &amp;amp; Cooperative Research &amp;amp; Development Agreements</FullName>
+        <Name>TCCS-ORTA</Name>
+        <Id>tccs-orta-technology-transfer-cooperative-research-development-agreements-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jiacg-joint-inter-agency-coordination-group-scott-afb-il</Url>
+        <FullName>Joint Inter-Agency Coordination Group</FullName>
+        <Name>JIACG</Name>
+        <Id>jiacg-joint-inter-agency-coordination-group-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccc-la-legislative-affairs-scott-afb-il</Url>
+        <FullName>Legislative Affairs</FullName>
+        <Name>TCCC-LA</Name>
+        <Id>tccc-la-legislative-affairs-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tccs-fm-facilities-engineering-management-scott-afb-il</Url>
+        <FullName>Facilities Engineering &amp;amp; Management</FullName>
+        <Name>TCCS-FM</Name>
+        <Id>tccs-fm-facilities-engineering-management-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-chief-of-staff-scott-afb-il</Url>
+    <NameNode>Chief of Staff, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Chief of Staff, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Chief of Staff, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccc-sel-senior-enlisted-leader-scott-afb-il</Url>
+    <NameNode>Senior Enlisted Leader, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Senior Enlisted Leader, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Senior Enlisted Leader, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccc-x-commander-s-action-group-scott-afb-il</Url>
+    <NameNode>Commander&amp;#x27;s Action Group, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Commander&amp;#x27;s Action Group, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Commander&amp;#x27;s Action Group, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-fs-command-first-sergeant-scott-afb-il</Url>
+    <NameNode>Command First Sergeant, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Command First Sergeant, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Command First Sergeant, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcch-office-of-the-command-chaplain-scott-afb-il</Url>
+    <NameNode>Office of The Command Chaplain, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Office of The Command Chaplain, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Office of The Command Chaplain, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-fo-freedom-office-scott-afb-il</Url>
+    <NameNode>Freedom Office, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Freedom Office, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Freedom Office, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-js-im-joint-secretariat-scott-afb-il</Url>
+    <NameNode>Joint Secretariat, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Joint Secretariat, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Joint Secretariat, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-p-protocol-scott-afb-il</Url>
+    <NameNode>Protocol, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Protocol, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Protocol, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcpa-public-affairs-scott-afb-il</Url>
+    <NameNode>Public Affairs, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Public Affairs, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Public Affairs, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcrc-research-center-scott-afb-il</Url>
+    <NameNode>Research Center, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Research Center, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Research Center, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcig-inspector-general-scott-afb-il</Url>
+    <NameNode>Inspector General, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Inspector General, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Inspector General, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-orta-technology-transfer-cooperative-research-development-agreements-scott-afb-il</Url>
+    <NameNode>Technology Transfer &amp;amp; Cooperative Research &amp;amp; Development Agreements, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Technology Transfer &amp;amp; Cooperative Research &amp;amp; Development Agreements, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Technology Transfer &amp;amp; Cooperative Research &amp;amp; Development Agreements, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jiacg-joint-inter-agency-coordination-group-scott-afb-il</Url>
+    <NameNode>Joint Inter-Agency Coordination Group, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Joint Inter-Agency Coordination Group, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Joint Inter-Agency Coordination Group, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccc-la-legislative-affairs-scott-afb-il</Url>
+    <NameNode>Legislative Affairs, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Legislative Affairs, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Legislative Affairs, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tccs-fm-facilities-engineering-management-scott-afb-il</Url>
+    <NameNode>Facilities Engineering &amp;amp; Management, Commander Staff &amp;amp; Direct Reporting Elements</NameNode>
+    <FullName>Facilities Engineering &amp;amp; Management, Commander Staff &amp;amp; Direct Reporting Elements</FullName>
+    <SplitName>Facilities Engineering &amp;amp; Management, Commander Staff &amp;amp; Direct Reporting Elements</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcac-joint-distribution-process-analysis-center-scott-afb-il</Url>
+    <NameNode>Joint Distribution Process Analysis Center, TRANSCOM Headquarters</NameNode>
+    <FullName>Joint Distribution Process Analysis Center, TRANSCOM Headquarters</FullName>
+    <SplitName>Joint Distribution Process Analysis Center, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcac-f-futures-transformation-scott-afb-il</Url>
+        <FullName>Futures/Transformation</FullName>
+        <Name>TCAC-F</Name>
+        <Id>tcac-f-futures-transformation-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcac-i-distribution-infrastructure-scott-afb-il</Url>
+        <FullName>Distribution Infrastructure</FullName>
+        <Name>TCAC-I</Name>
+        <Id>tcac-i-distribution-infrastructure-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcac-o-operations-support-scott-afb-il</Url>
+        <FullName>Operations Support</FullName>
+        <Name>TCAC-O</Name>
+        <Id>tcac-o-operations-support-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcac-p-programmatics-scott-afb-il</Url>
+        <FullName>Programmatics</FullName>
+        <Name>TCAC-P</Name>
+        <Id>tcac-p-programmatics-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcac-s-systems-data-management-scott-afb-il</Url>
+        <FullName>Systems &amp;amp; Data Management</FullName>
+        <Name>TCAC-S</Name>
+        <Id>tcac-s-systems-data-management-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcac-f-futures-transformation-scott-afb-il</Url>
+    <NameNode>Futures/Transformation, Joint Distribution Process Analysis Center</NameNode>
+    <FullName>Futures/Transformation, Joint Distribution Process Analysis Center</FullName>
+    <SplitName>Futures/Transformation, Joint Distribution Process Analysis Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcac-i-distribution-infrastructure-scott-afb-il</Url>
+    <NameNode>Distribution Infrastructure, Joint Distribution Process Analysis Center</NameNode>
+    <FullName>Distribution Infrastructure, Joint Distribution Process Analysis Center</FullName>
+    <SplitName>Distribution Infrastructure, Joint Distribution Process Analysis Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcac-o-operations-support-scott-afb-il</Url>
+    <NameNode>Operations Support, Joint Distribution Process Analysis Center</NameNode>
+    <FullName>Operations Support, Joint Distribution Process Analysis Center</FullName>
+    <SplitName>Operations Support, Joint Distribution Process Analysis Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcac-p-programmatics-scott-afb-il</Url>
+    <NameNode>Programmatics, Joint Distribution Process Analysis Center</NameNode>
+    <FullName>Programmatics, Joint Distribution Process Analysis Center</FullName>
+    <SplitName>Programmatics, Joint Distribution Process Analysis Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcac-s-systems-data-management-scott-afb-il</Url>
+    <NameNode>Systems &amp;amp; Data Management, Joint Distribution Process Analysis Center</NameNode>
+    <FullName>Systems &amp;amp; Data Management, Joint Distribution Process Analysis Center</FullName>
+    <SplitName>Systems &amp;amp; Data Management, Joint Distribution Process Analysis Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-directorate-of-acquisition-scott-afb-il</Url>
+    <NameNode>Directorate of Acquisition, TRANSCOM Headquarters</NameNode>
+    <FullName>Directorate of Acquisition, TRANSCOM Headquarters</FullName>
+    <SplitName>Directorate of Acquisition, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-c-international-charters-scott-afb-il</Url>
+        <FullName>International Charters</FullName>
+        <Name>TCAQ-C</Name>
+        <Id>tcaq-c-international-charters-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-d-distribution-process-owner-scott-afb-il</Url>
+        <FullName>Distribution Process Owner</FullName>
+        <Name>TCAQ-D</Name>
+        <Id>tcaq-d-distribution-process-owner-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-i-international-scheduled-services-dpo-support-scott-afb-il</Url>
+        <FullName>International Scheduled Services (DPO) Support</FullName>
+        <Name>TCAQ-I</Name>
+        <Id>tcaq-i-international-scheduled-services-dpo-support-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-m-program-management-scott-afb-il</Url>
+        <FullName>Program Management</FullName>
+        <Name>TCAQ-M</Name>
+        <Id>tcaq-m-program-management-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-p-business-support-policy-scott-afb-il</Url>
+        <FullName>Business Support/Policy</FullName>
+        <Name>TCAQ-P</Name>
+        <Id>tcaq-p-business-support-policy-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcaq-r-specialized-transportation-support-division-scott-afb-il</Url>
+        <FullName>Specialized Transportation &amp;amp; Support Division</FullName>
+        <Name>TCAQ-R</Name>
+        <Id>tcaq-r-specialized-transportation-support-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/osbp-ustranscom-office-of-small-business-programs-directorate-of-acquisition-scott-afb-il</Url>
+        <FullName>USTRANSCOM Office of Small Business Programs</FullName>
+        <Name>OSBP</Name>
+        <Id>osbp-ustranscom-office-of-small-business-programs-directorate-of-acquisition-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-c-international-charters-scott-afb-il</Url>
+    <NameNode>International Charters, Directorate of Acquisition</NameNode>
+    <FullName>International Charters, Directorate of Acquisition</FullName>
+    <SplitName>International Charters, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-d-distribution-process-owner-scott-afb-il</Url>
+    <NameNode>Distribution Process Owner, Directorate of Acquisition</NameNode>
+    <FullName>Distribution Process Owner, Directorate of Acquisition</FullName>
+    <SplitName>Distribution Process Owner, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-i-international-scheduled-services-dpo-support-scott-afb-il</Url>
+    <NameNode>International Scheduled Services (DPO) Support, Directorate of Acquisition</NameNode>
+    <FullName>International Scheduled Services (DPO) Support, Directorate of Acquisition</FullName>
+    <SplitName>International Scheduled Services (DPO) Support, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-m-program-management-scott-afb-il</Url>
+    <NameNode>Program Management, Directorate of Acquisition</NameNode>
+    <FullName>Program Management, Directorate of Acquisition</FullName>
+    <SplitName>Program Management, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-p-business-support-policy-scott-afb-il</Url>
+    <NameNode>Business Support/Policy, Directorate of Acquisition</NameNode>
+    <FullName>Business Support/Policy, Directorate of Acquisition</FullName>
+    <SplitName>Business Support/Policy, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcaq-r-specialized-transportation-support-division-scott-afb-il</Url>
+    <NameNode>Specialized Transportation &amp;amp; Support Division, Directorate of Acquisition</NameNode>
+    <FullName>Specialized Transportation &amp;amp; Support Division, Directorate of Acquisition</FullName>
+    <SplitName>Specialized Transportation &amp;amp; Support Division, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/osbp-ustranscom-office-of-small-business-programs-directorate-of-acquisition-scott-afb-il</Url>
+    <NameNode>USTRANSCOM Office of Small Business Programs, Directorate of Acquisition</NameNode>
+    <FullName>USTRANSCOM Office of Small Business Programs, Directorate of Acquisition</FullName>
+    <SplitName>USTRANSCOM Office of Small Business Programs, Directorate of Acquisition</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcja-staff-judge-advocate-scott-afb-il</Url>
+    <NameNode>Staff Judge Advocate, TRANSCOM Headquarters</NameNode>
+    <FullName>Staff Judge Advocate, TRANSCOM Headquarters</FullName>
+    <SplitName>Staff Judge Advocate, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcsg-command-surgeon-scott-afb-il</Url>
+    <NameNode>Command Surgeon, TRANSCOM Headquarters</NameNode>
+    <FullName>Command Surgeon, TRANSCOM Headquarters</FullName>
+    <SplitName>Command Surgeon, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tpmrc-a-theater-patient-movement-requirements-center-americas-scott-afb-il</Url>
+        <FullName>Theater Patient Movement Requirements Center - Americas</FullName>
+        <Name>TPMRC-A</Name>
+        <Id>tpmrc-a-theater-patient-movement-requirements-center-americas-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/trac2es-transcom-regulating-command-control-evacuation-system-scott-afb-il</Url>
+        <FullName>TRANSCOM Regulating &amp;amp; Command &amp;amp; Control Evacuation System</FullName>
+        <Name>TRAC2ES</Name>
+        <Id>trac2es-transcom-regulating-command-control-evacuation-system-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tpmrc-a-theater-patient-movement-requirements-center-americas-scott-afb-il</Url>
+    <NameNode>Theater Patient Movement Requirements Center - Americas, Command Surgeon</NameNode>
+    <FullName>Theater Patient Movement Requirements Center - Americas, Command Surgeon</FullName>
+    <SplitName>Theater Patient Movement Requirements Center - Americas, Command Surgeon</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/trac2es-transcom-regulating-command-control-evacuation-system-scott-afb-il</Url>
+    <NameNode>TRANSCOM Regulating &amp;amp; Command &amp;amp; Control Evacuation System, Command Surgeon</NameNode>
+    <FullName>TRANSCOM Regulating &amp;amp; Command &amp;amp; Control Evacuation System, Command Surgeon</FullName>
+    <SplitName>TRANSCOM Regulating &amp;amp; Command &amp;amp; Control Evacuation System, Command Surgeon</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-manpower-personnel-scott-afb-il</Url>
+    <NameNode>Manpower &amp;amp; Personnel, TRANSCOM Headquarters</NameNode>
+    <FullName>Manpower &amp;amp; Personnel, TRANSCOM Headquarters</FullName>
+    <SplitName>Manpower &amp;amp; Personnel, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-c-training-civilian-personnel-division-scott-afb-il</Url>
+        <FullName>Training &amp;amp; Civilian Personnel Division</FullName>
+        <Name>TCJ1-C</Name>
+        <Id>tcj1-c-training-civilian-personnel-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-m-manpower-management-division-scott-afb-il</Url>
+        <FullName>Manpower Management Division</FullName>
+        <Name>TCJ1-M</Name>
+        <Id>tcj1-m-manpower-management-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-o-deployment-operations-division-scott-afb-il</Url>
+        <FullName>Deployment Operations Division</FullName>
+        <Name>TCJ1-O</Name>
+        <Id>tcj1-o-deployment-operations-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-p-military-personnel-programs-scott-afb-il</Url>
+        <FullName>Military Personnel Programs</FullName>
+        <Name>TCJ1-P</Name>
+        <Id>tcj1-p-military-personnel-programs-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-r-awards-recognition-division-scott-afb-il</Url>
+        <FullName>Awards &amp;amp; Recognition Division</FullName>
+        <Name>TCJ1-R</Name>
+        <Id>tcj1-r-awards-recognition-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj1-s-senior-officer-matters-scott-afb-il</Url>
+        <FullName>Senior Officer Matters</FullName>
+        <Name>TCJ1-S</Name>
+        <Id>tcj1-s-senior-officer-matters-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-c-training-civilian-personnel-division-scott-afb-il</Url>
+    <NameNode>Training &amp;amp; Civilian Personnel Division, Manpower &amp;amp; Personnel</NameNode>
+    <FullName>Training &amp;amp; Civilian Personnel Division, Manpower &amp;amp; Personnel</FullName>
+    <SplitName>Training &amp;amp; Civilian Personnel Division, Manpower &amp;amp; Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-m-manpower-management-division-scott-afb-il</Url>
+    <NameNode>Manpower Management Division, Manpower &amp;amp; Personnel</NameNode>
+    <FullName>Manpower Management Division, Manpower &amp;amp; Personnel</FullName>
+    <SplitName>Manpower Management Division, Manpower &amp;amp; Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-o-deployment-operations-division-scott-afb-il</Url>
+    <NameNode>Deployment Operations Division, Manpower &amp;amp; Personnel</NameNode>
+    <FullName>Deployment Operations Division, Manpower &amp;amp; Personnel</FullName>
+    <SplitName>Deployment Operations Division, Manpower &amp;amp; Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-p-military-personnel-programs-scott-afb-il</Url>
+    <NameNode>Military Personnel Programs, Manpower &amp;amp; Personnel</NameNode>
+    <FullName>Military Personnel Programs, Manpower &amp;amp; Personnel</FullName>
+    <SplitName>Military Personnel Programs, Manpower &amp;amp; Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-r-awards-recognition-division-scott-afb-il</Url>
+    <NameNode>Awards &amp;amp; Recognition Division, Manpower &amp;amp; Personnel</NameNode>
+    <FullName>Awards &amp;amp; Recognition Division, Manpower &amp;amp; Personnel</FullName>
+    <SplitName>Awards &amp;amp; Recognition Division, Manpower &amp;amp; Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj1-s-senior-officer-matters-scott-afb-il</Url>
+    <NameNode>Senior Officer Matters, Manpower &amp;amp; Personnel</NameNode>
+    <FullName>Senior Officer Matters, Manpower &amp;amp; Personnel</FullName>
+    <SplitName>Senior Officer Matters, Manpower &amp;amp; Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj2-intelligence-directorate-scott-afb-il</Url>
+    <NameNode>Intelligence Directorate, TRANSCOM Headquarters</NameNode>
+    <FullName>Intelligence Directorate, TRANSCOM Headquarters</FullName>
+    <SplitName>Intelligence Directorate, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj2-o-intelligence-operations-scott-afb-il</Url>
+        <FullName>Intelligence Operations</FullName>
+        <Name>TCJ2-O</Name>
+        <Id>tcj2-o-intelligence-operations-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj2-p-intelligence-plans-programs-scott-afb-il</Url>
+        <FullName>Intelligence Plans &amp;amp; Programs</FullName>
+        <Name>TCJ2-P</Name>
+        <Id>tcj2-p-intelligence-plans-programs-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj2-w-current-intelligence-scott-afb-il</Url>
+        <FullName>Current Intelligence</FullName>
+        <Name>TCJ2-W</Name>
+        <Id>tcj2-w-current-intelligence-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj2-x-counterintelligence-humint-scott-afb-il</Url>
+        <FullName>Counterintelligence &amp;amp; HUMINT</FullName>
+        <Name>TCJ2-X</Name>
+        <Id>tcj2-x-counterintelligence-humint-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj2-o-intelligence-operations-scott-afb-il</Url>
+    <NameNode>Intelligence Operations, Intelligence Directorate</NameNode>
+    <FullName>Intelligence Operations, Intelligence Directorate</FullName>
+    <SplitName>Intelligence Operations, Intelligence Directorate</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj2-p-intelligence-plans-programs-scott-afb-il</Url>
+    <NameNode>Intelligence Plans &amp;amp; Programs, Intelligence Directorate</NameNode>
+    <FullName>Intelligence Plans &amp;amp; Programs, Intelligence Directorate</FullName>
+    <SplitName>Intelligence Plans &amp;amp; Programs, Intelligence Directorate</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj2-w-current-intelligence-scott-afb-il</Url>
+    <NameNode>Current Intelligence, Intelligence Directorate</NameNode>
+    <FullName>Current Intelligence, Intelligence Directorate</FullName>
+    <SplitName>Current Intelligence, Intelligence Directorate</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj2-x-counterintelligence-humint-scott-afb-il</Url>
+    <NameNode>Counterintelligence &amp;amp; HUMINT, Intelligence Directorate</NameNode>
+    <FullName>Counterintelligence &amp;amp; HUMINT, Intelligence Directorate</FullName>
+    <SplitName>Counterintelligence &amp;amp; HUMINT, Intelligence Directorate</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-operations-planning-scott-afb-il</Url>
+    <NameNode>Operations &amp;amp; Planning, TRANSCOM Headquarters</NameNode>
+    <FullName>Operations &amp;amp; Planning, TRANSCOM Headquarters</FullName>
+    <SplitName>Operations &amp;amp; Planning, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-c-defense-courier-division-scott-afb-il</Url>
+        <FullName>Defense Courier Division</FullName>
+        <Name>TCJ3-C</Name>
+        <Id>tcj3-c-defense-courier-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-d-deputy-director-of-operations-scott-afb-il</Url>
+        <FullName>Deputy Director of Operations</FullName>
+        <Name>TCJ3-D</Name>
+        <Id>tcj3-d-deputy-director-of-operations-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-e-east-ops-scott-afb-il</Url>
+        <FullName>East Ops</FullName>
+        <Name>TCJ3-E</Name>
+        <Id>tcj3-e-east-ops-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-f-force-protection-division-scott-afb-il</Url>
+        <FullName>Force Protection Division</FullName>
+        <Name>TCJ3-F</Name>
+        <Id>tcj3-f-force-protection-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-g-sustainment-division-scott-afb-il</Url>
+        <FullName>Sustainment Division</FullName>
+        <Name>TCJ3-G</Name>
+        <Id>tcj3-g-sustainment-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-i-ops-integration-scott-afb-il</Url>
+        <FullName>Ops Integration</FullName>
+        <Name>TCJ3-I</Name>
+        <Id>tcj3-i-ops-integration-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-j-joint-operational-support-airlift-center-josac-scott-afb-il</Url>
+        <FullName>Joint Operational Support Airlift Center (JOSAC)</FullName>
+        <Name>TCJ3-J</Name>
+        <Id>tcj3-j-joint-operational-support-airlift-center-josac-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-m-mobilization-advisor-scott-afb-il</Url>
+        <FullName>Mobilization Advisor</FullName>
+        <Name>TCJ3-M</Name>
+        <Id>tcj3-m-mobilization-advisor-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-o-deployment-distribution-operations-center-scott-afb-il</Url>
+        <FullName>Deployment Distribution Operations Center</FullName>
+        <Name>TCJ3-O</Name>
+        <Id>tcj3-o-deployment-distribution-operations-center-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-s-support-ops-scott-afb-il</Url>
+        <FullName>Support Ops</FullName>
+        <Name>TCJ3-S</Name>
+        <Id>tcj3-s-support-ops-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-t-joint-training-exercises-division-scott-afb-il</Url>
+        <FullName>Joint Training &amp;amp; Exercises Division</FullName>
+        <Name>TCJ3-T</Name>
+        <Id>tcj3-t-joint-training-exercises-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-w-west-ops-scott-afb-il</Url>
+        <FullName>West Ops</FullName>
+        <Name>TCJ3-W</Name>
+        <Id>tcj3-w-west-ops-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj3-xa-administrative-office-scott-afb-il</Url>
+        <FullName>Administrative Office</FullName>
+        <Name>TCJ3-XA</Name>
+        <Id>tcj3-xa-administrative-office-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-c-defense-courier-division-scott-afb-il</Url>
+    <NameNode>Defense Courier Division, Operations &amp;amp; Planning</NameNode>
+    <FullName>Defense Courier Division, Operations &amp;amp; Planning</FullName>
+    <SplitName>Defense Courier Division, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-d-deputy-director-of-operations-scott-afb-il</Url>
+    <NameNode>Deputy Director of Operations, Operations &amp;amp; Planning</NameNode>
+    <FullName>Deputy Director of Operations, Operations &amp;amp; Planning</FullName>
+    <SplitName>Deputy Director of Operations, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-e-east-ops-scott-afb-il</Url>
+    <NameNode>East Ops, Operations &amp;amp; Planning</NameNode>
+    <FullName>East Ops, Operations &amp;amp; Planning</FullName>
+    <SplitName>East Ops, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-f-force-protection-division-scott-afb-il</Url>
+    <NameNode>Force Protection Division, Operations &amp;amp; Planning</NameNode>
+    <FullName>Force Protection Division, Operations &amp;amp; Planning</FullName>
+    <SplitName>Force Protection Division, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-g-sustainment-division-scott-afb-il</Url>
+    <NameNode>Sustainment Division, Operations &amp;amp; Planning</NameNode>
+    <FullName>Sustainment Division, Operations &amp;amp; Planning</FullName>
+    <SplitName>Sustainment Division, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-i-ops-integration-scott-afb-il</Url>
+    <NameNode>Ops Integration, Operations &amp;amp; Planning</NameNode>
+    <FullName>Ops Integration, Operations &amp;amp; Planning</FullName>
+    <SplitName>Ops Integration, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-j-joint-operational-support-airlift-center-josac-scott-afb-il</Url>
+    <NameNode>Joint Operational Support Airlift Center (JOSAC), Operations &amp;amp; Planning</NameNode>
+    <FullName>Joint Operational Support Airlift Center (JOSAC), Operations &amp;amp; Planning</FullName>
+    <SplitName>Joint Operational Support Airlift Center (JOSAC), Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-m-mobilization-advisor-scott-afb-il</Url>
+    <NameNode>Mobilization Advisor, Operations &amp;amp; Planning</NameNode>
+    <FullName>Mobilization Advisor, Operations &amp;amp; Planning</FullName>
+    <SplitName>Mobilization Advisor, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-o-deployment-distribution-operations-center-scott-afb-il</Url>
+    <NameNode>Deployment Distribution Operations Center, Operations &amp;amp; Planning</NameNode>
+    <FullName>Deployment Distribution Operations Center, Operations &amp;amp; Planning</FullName>
+    <SplitName>Deployment Distribution Operations Center, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-s-support-ops-scott-afb-il</Url>
+    <NameNode>Support Ops, Operations &amp;amp; Planning</NameNode>
+    <FullName>Support Ops, Operations &amp;amp; Planning</FullName>
+    <SplitName>Support Ops, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-t-joint-training-exercises-division-scott-afb-il</Url>
+    <NameNode>Joint Training &amp;amp; Exercises Division, Operations &amp;amp; Planning</NameNode>
+    <FullName>Joint Training &amp;amp; Exercises Division, Operations &amp;amp; Planning</FullName>
+    <SplitName>Joint Training &amp;amp; Exercises Division, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-w-west-ops-scott-afb-il</Url>
+    <NameNode>West Ops, Operations &amp;amp; Planning</NameNode>
+    <FullName>West Ops, Operations &amp;amp; Planning</FullName>
+    <SplitName>West Ops, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj3-xa-administrative-office-scott-afb-il</Url>
+    <NameNode>Administrative Office, Operations &amp;amp; Planning</NameNode>
+    <FullName>Administrative Office, Operations &amp;amp; Planning</FullName>
+    <SplitName>Administrative Office, Operations &amp;amp; Planning</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-strategy-policy-programs-logistics-scott-afb-il</Url>
+    <NameNode>Strategy, Policy, Programs &amp;amp; Logistics, TRANSCOM Headquarters</NameNode>
+    <FullName>Strategy, Policy, Programs &amp;amp; Logistics, TRANSCOM Headquarters</FullName>
+    <SplitName>Strategy, Policy, Programs &amp;amp; Logistics, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-d-deputy-director-strategy-policy-programs-logistics-scott-afb-il</Url>
+        <FullName>Deputy Director, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+        <Name>TCJ5/4-D</Name>
+        <Id>tcj5-4-d-deputy-director-strategy-policy-programs-logistics-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-g-plans-capabilities-division-scott-afb-il</Url>
+        <FullName>Plans &amp;amp; Capabilities Division</FullName>
+        <Name>TCJ5/4-G</Name>
+        <Id>tcj5-4-g-plans-capabilities-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-i-intermodal-programs-division-scott-afb-il</Url>
+        <FullName>Intermodal Programs Division</FullName>
+        <Name>TCJ5/4-I</Name>
+        <Id>tcj5-4-i-intermodal-programs-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-l-logistic-sustainment-division-scott-afb-il</Url>
+        <FullName>Logistic Sustainment Division</FullName>
+        <Name>TCJ5/4-L</Name>
+        <Id>tcj5-4-l-logistic-sustainment-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-p-policy-doctrine-division-scott-afb-il</Url>
+        <FullName>Policy &amp;amp; Doctrine Division</FullName>
+        <Name>TCJ5/4-P</Name>
+        <Id>tcj5-4-p-policy-doctrine-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-r-resources-administration-division-scott-afb-il</Url>
+        <FullName>Resources &amp;amp; Administration Division</FullName>
+        <Name>TCJ5/4-R</Name>
+        <Id>tcj5-4-r-resources-administration-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-s-strategy-governance-division-scott-afb-il</Url>
+        <FullName>Strategy &amp;amp; Governance Division</FullName>
+        <Name>TCJ5/4-S</Name>
+        <Id>tcj5-4-s-strategy-governance-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj5-4-t-in-transit-visibility-integration-division-scott-afb-il</Url>
+        <FullName>In-Transit Visibility Integration Division</FullName>
+        <Name>TCJ5/4-T</Name>
+        <Id>tcj5-4-t-in-transit-visibility-integration-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-d-deputy-director-strategy-policy-programs-logistics-scott-afb-il</Url>
+    <NameNode>Deputy Director, Strategy, Policy, Programs &amp;amp; Logistics, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Deputy Director, Strategy, Policy, Programs &amp;amp; Logistics, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Deputy Director, Strategy, Policy, Programs &amp;amp; Logistics, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-g-plans-capabilities-division-scott-afb-il</Url>
+    <NameNode>Plans &amp;amp; Capabilities Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Plans &amp;amp; Capabilities Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Plans &amp;amp; Capabilities Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-i-intermodal-programs-division-scott-afb-il</Url>
+    <NameNode>Intermodal Programs Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Intermodal Programs Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Intermodal Programs Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-l-logistic-sustainment-division-scott-afb-il</Url>
+    <NameNode>Logistic Sustainment Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Logistic Sustainment Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Logistic Sustainment Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-p-policy-doctrine-division-scott-afb-il</Url>
+    <NameNode>Policy &amp;amp; Doctrine Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Policy &amp;amp; Doctrine Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Policy &amp;amp; Doctrine Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-r-resources-administration-division-scott-afb-il</Url>
+    <NameNode>Resources &amp;amp; Administration Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Resources &amp;amp; Administration Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Resources &amp;amp; Administration Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-s-strategy-governance-division-scott-afb-il</Url>
+    <NameNode>Strategy &amp;amp; Governance Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>Strategy &amp;amp; Governance Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>Strategy &amp;amp; Governance Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj5-4-t-in-transit-visibility-integration-division-scott-afb-il</Url>
+    <NameNode>In-Transit Visibility Integration Division, Strategy, Policy, Programs &amp;amp; Logistics</NameNode>
+    <FullName>In-Transit Visibility Integration Division, Strategy, Policy, Programs &amp;amp; Logistics</FullName>
+    <SplitName>In-Transit Visibility Integration Division, Strategy, Policy, Programs &amp;amp; Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-command-control-communications-computer-systems-scott-afb-il</Url>
+    <NameNode>Command, Control, Communications &amp;amp; Computer Systems, TRANSCOM Headquarters</NameNode>
+    <FullName>Command, Control, Communications &amp;amp; Computer Systems, TRANSCOM Headquarters</FullName>
+    <SplitName>Command, Control, Communications &amp;amp; Computer Systems, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/disa-fo-disa-fo-field-office-scott-afb-il</Url>
+        <FullName>DISA-FO (Field Office)</FullName>
+        <Name>DISA-FO</Name>
+        <Id>disa-fo-disa-fo-field-office-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-a-distribution-enterprise-architectures-division-scott-afb-il</Url>
+        <FullName>Distribution Enterprise Architectures Division</FullName>
+        <Name>TCJ6-A</Name>
+        <Id>tcj6-a-distribution-enterprise-architectures-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-d-distribution-portfolio-management-scott-afb-il</Url>
+        <FullName>Distribution Portfolio Management</FullName>
+        <Name>TCJ6-D</Name>
+        <Id>tcj6-d-distribution-portfolio-management-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-ea-executive-administration-scott-afb-il</Url>
+        <FullName>Executive Administration</FullName>
+        <Name>TCJ6-EA</Name>
+        <Id>tcj6-ea-executive-administration-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-i-cio-dpfm-division-scott-afb-il</Url>
+        <FullName>CIO &amp;amp; DPfM Division</FullName>
+        <Name>TCJ6-I</Name>
+        <Id>tcj6-i-cio-dpfm-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-o-operations-readiness-division-scott-afb-il</Url>
+        <FullName>Operations &amp;amp; Readiness Division</FullName>
+        <Name>TCJ6-O</Name>
+        <Id>tcj6-o-operations-readiness-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-p-ustranscom-program-management-office-scott-afb-il</Url>
+        <FullName>USTRANSCOM Program Management Office</FullName>
+        <Name>TCJ6-P</Name>
+        <Id>tcj6-p-ustranscom-program-management-office-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-s-joint-information-technology-transformation-project-office-jittpo-scott-afb-il</Url>
+        <FullName>Joint Information Technology Transformation Project Office (JITTPO)</FullName>
+        <Name>TCJ6-S</Name>
+        <Id>tcj6-s-joint-information-technology-transformation-project-office-jittpo-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj6-x-distribution-capabilities-support-division-scott-afb-il</Url>
+        <FullName>Distribution Capabilities &amp;amp; Support Division</FullName>
+        <Name>TCJ6-X</Name>
+        <Id>tcj6-x-distribution-capabilities-support-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/disa-fo-disa-fo-field-office-scott-afb-il</Url>
+    <NameNode>DISA-FO (Field Office), Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>DISA-FO (Field Office), Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>DISA-FO (Field Office), Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-a-distribution-enterprise-architectures-division-scott-afb-il</Url>
+    <NameNode>Distribution Enterprise Architectures Division, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>Distribution Enterprise Architectures Division, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>Distribution Enterprise Architectures Division, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-d-distribution-portfolio-management-scott-afb-il</Url>
+    <NameNode>Distribution Portfolio Management, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>Distribution Portfolio Management, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>Distribution Portfolio Management, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-ea-executive-administration-scott-afb-il</Url>
+    <NameNode>Executive Administration, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>Executive Administration, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>Executive Administration, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-i-cio-dpfm-division-scott-afb-il</Url>
+    <NameNode>CIO &amp;amp; DPfM Division, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>CIO &amp;amp; DPfM Division, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>CIO &amp;amp; DPfM Division, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-o-operations-readiness-division-scott-afb-il</Url>
+    <NameNode>Operations &amp;amp; Readiness Division, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>Operations &amp;amp; Readiness Division, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>Operations &amp;amp; Readiness Division, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-p-ustranscom-program-management-office-scott-afb-il</Url>
+    <NameNode>USTRANSCOM Program Management Office, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>USTRANSCOM Program Management Office, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>USTRANSCOM Program Management Office, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-s-joint-information-technology-transformation-project-office-jittpo-scott-afb-il</Url>
+    <NameNode>Joint Information Technology Transformation Project Office (JITTPO), Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>Joint Information Technology Transformation Project Office (JITTPO), Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>Joint Information Technology Transformation Project Office (JITTPO), Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj6-x-distribution-capabilities-support-division-scott-afb-il</Url>
+    <NameNode>Distribution Capabilities &amp;amp; Support Division, Command, Control, Communications &amp;amp; Computer Systems</NameNode>
+    <FullName>Distribution Capabilities &amp;amp; Support Division, Command, Control, Communications &amp;amp; Computer Systems</FullName>
+    <SplitName>Distribution Capabilities &amp;amp; Support Division, Command, Control, Communications &amp;amp; Computer Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj8-program-analysis-financial-management-scott-afb-il</Url>
+    <NameNode>Program Analysis &amp;amp; Financial Management, TRANSCOM Headquarters</NameNode>
+    <FullName>Program Analysis &amp;amp; Financial Management, TRANSCOM Headquarters</FullName>
+    <SplitName>Program Analysis &amp;amp; Financial Management, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj8-a-accounting-division-scott-afb-il</Url>
+        <FullName>Accounting Division</FullName>
+        <Name>TCJ8-A</Name>
+        <Id>tcj8-a-accounting-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj8-b-budget-division-scott-afb-il</Url>
+        <FullName>Budget Division</FullName>
+        <Name>TCJ8-B</Name>
+        <Id>tcj8-b-budget-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj8-e-administration-division-scott-afb-il</Url>
+        <FullName>Administration Division</FullName>
+        <Name>TCJ8-E</Name>
+        <Id>tcj8-e-administration-division-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj8-a-accounting-division-scott-afb-il</Url>
+    <NameNode>Accounting Division, Program Analysis &amp;amp; Financial Management</NameNode>
+    <FullName>Accounting Division, Program Analysis &amp;amp; Financial Management</FullName>
+    <SplitName>Accounting Division, Program Analysis &amp;amp; Financial Management</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj8-b-budget-division-scott-afb-il</Url>
+    <NameNode>Budget Division, Program Analysis &amp;amp; Financial Management</NameNode>
+    <FullName>Budget Division, Program Analysis &amp;amp; Financial Management</FullName>
+    <SplitName>Budget Division, Program Analysis &amp;amp; Financial Management</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj8-e-administration-division-scott-afb-il</Url>
+    <NameNode>Administration Division, Program Analysis &amp;amp; Financial Management</NameNode>
+    <FullName>Administration Division, Program Analysis &amp;amp; Financial Management</FullName>
+    <SplitName>Administration Division, Program Analysis &amp;amp; Financial Management</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj9-reserve-component-directorate-scott-afb-il</Url>
+    <NameNode>Reserve Component Directorate, TRANSCOM Headquarters</NameNode>
+    <FullName>Reserve Component Directorate, TRANSCOM Headquarters</FullName>
+    <SplitName>Reserve Component Directorate, TRANSCOM Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jtru-joint-transportation-reserve-unit-scott-afb-il</Url>
+        <FullName>Joint Transportation Reserve Unit</FullName>
+        <Name>JTRU</Name>
+        <Id>jtru-joint-transportation-reserve-unit-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tcj9-ra-reserve-affairs-scott-afb-il</Url>
+        <FullName>Reserve Affairs</FullName>
+        <Name>TCJ9-RA</Name>
+        <Id>tcj9-ra-reserve-affairs-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jtru-joint-transportation-reserve-unit-scott-afb-il</Url>
+    <NameNode>Joint Transportation Reserve Unit, Reserve Component Directorate</NameNode>
+    <FullName>Joint Transportation Reserve Unit, Reserve Component Directorate</FullName>
+    <SplitName>Joint Transportation Reserve Unit, Reserve Component Directorate</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tcj9-ra-reserve-affairs-scott-afb-il</Url>
+    <NameNode>Reserve Affairs, Reserve Component Directorate</NameNode>
+    <FullName>Reserve Affairs, Reserve Component Directorate</FullName>
+    <SplitName>Reserve Affairs, Reserve Component Directorate</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/057/small/transcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jecc-joint-enabling-capabilities-command-scott-afb-il</Url>
+    <NameNode>Joint Enabling Capabilities Command, US Transportation Command</NameNode>
+    <FullName>Joint Enabling Capabilities Command, Transportation Command</FullName>
+    <SplitName>Joint Enabling Capabilities Command, US Transportation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/058/small/jecc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jcse-joint-communications-support-element-scott-afb-il</Url>
+        <FullName>Joint Communications Support Element</FullName>
+        <Name>JCSE</Name>
+        <Id>jcse-joint-communications-support-element-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jpse-joint-planning-support-element-scott-afb-il</Url>
+        <FullName>Joint Planning Support Element</FullName>
+        <Name>JPSE</Name>
+        <Id>jpse-joint-planning-support-element-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jpase-joint-public-affairs-support-element-scott-afb-il</Url>
+        <FullName>Joint Public Affairs Support Element</FullName>
+        <Name>JPASE</Name>
+        <Id>jpase-joint-public-affairs-support-element-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jpmrc-joint-patient-movement-requirements-center-scott-afb-il</Url>
+        <FullName>Joint Patient Movement Requirements Center</FullName>
+        <Name>JPMRC</Name>
+        <Id>jpmrc-joint-patient-movement-requirements-center-scott-afb-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jcse-joint-communications-support-element-scott-afb-il</Url>
+    <NameNode>Joint Communications Support Element, Joint Enabling Capabilities Command</NameNode>
+    <FullName>Joint Communications Support Element, Joint Enabling Capabilities Command</FullName>
+    <SplitName>Joint Communications Support Element, Joint Enabling Capabilities Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/058/small/jecc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jpse-joint-planning-support-element-scott-afb-il</Url>
+    <NameNode>Joint Planning Support Element, Joint Enabling Capabilities Command</NameNode>
+    <FullName>Joint Planning Support Element, Joint Enabling Capabilities Command</FullName>
+    <SplitName>Joint Planning Support Element, Joint Enabling Capabilities Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/058/small/jecc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jpase-joint-public-affairs-support-element-scott-afb-il</Url>
+    <NameNode>Joint Public Affairs Support Element, Joint Enabling Capabilities Command</NameNode>
+    <FullName>Joint Public Affairs Support Element, Joint Enabling Capabilities Command</FullName>
+    <SplitName>Joint Public Affairs Support Element, Joint Enabling Capabilities Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/058/small/jecc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jpmrc-joint-patient-movement-requirements-center-scott-afb-il</Url>
+    <NameNode>Joint Patient Movement Requirements Center, Joint Enabling Capabilities Command</NameNode>
+    <FullName>Joint Patient Movement Requirements Center, Joint Enabling Capabilities Command</FullName>
+    <SplitName>Joint Patient Movement Requirements Center, Joint Enabling Capabilities Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/058/small/jecc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scott AFB, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scott-afb-il</Url>
+        <Id>scott-afb-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

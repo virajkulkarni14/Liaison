@@ -1,0 +1,1211 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northcom-us-northern-command-peterson-afb-co</Url>
+    <NameNode>US Northern Command</NameNode>
+    <FullName>Northern Command</FullName>
+    <SplitName>US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/029/small/northerncmd.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Peterson AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peterson AFB, CO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/peterson-afb-co</Url>
+        <Id>peterson-afb-co</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/northcom-hq-peterson-afb-co</Url>
+        <FullName>NORTHCOM HQ</FullName>
+        <Name>NORTHCOM HQ</Name>
+        <Id>northcom-hq-peterson-afb-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jfhq-ncr-joint-force-headquarters-national-capital-region-fort-mcnair-dc</Url>
+        <FullName>Joint Force Headquarters National Capital Region</FullName>
+        <Name>JFHQ-NCR</Name>
+        <Id>jfhq-ncr-joint-force-headquarters-national-capital-region-fort-mcnair-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jtf-ak-joint-task-force-alaska-joint-base-elmendorf-richardson-jber-ak</Url>
+        <FullName>Joint Task Force Alaska</FullName>
+        <Name>JTF-AK</Name>
+        <Id>jtf-ak-joint-task-force-alaska-joint-base-elmendorf-richardson-jber-ak</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jtf-cs-joint-task-force-civil-support-fort-monroe-va</Url>
+        <FullName>Joint Task Force Civil Support</FullName>
+        <Name>JTF-CS</Name>
+        <Id>jtf-cs-joint-task-force-civil-support-fort-monroe-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jtf-north-joint-task-force-north-fort-bliss-tx</Url>
+        <FullName>Joint Task Force North</FullName>
+        <Name>JTF-North</Name>
+        <Id>jtf-north-joint-task-force-north-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/norad-north-american-aerospace-defense-command-peterson-afb-co</Url>
+        <FullName>North American Aerospace Defense Command</FullName>
+        <Name>NORAD</Name>
+        <Id>norad-north-american-aerospace-defense-command-peterson-afb-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/northcom-embassies-northcom-regional-embassies</Url>
+        <FullName>NORTHCOM Regional Embassies</FullName>
+        <Name>NORTHCOM Embassies</Name>
+        <Id>northcom-embassies-northcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northcom-hq-peterson-afb-co</Url>
+    <NameNode>NORTHCOM HQ, US Northern Command</NameNode>
+    <FullName>NORTHCOM HQ, Northern Command</FullName>
+    <SplitName>NORTHCOM HQ, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/029/small/northerncmd.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Peterson AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peterson AFB, CO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/peterson-afb-co</Url>
+        <Id>peterson-afb-co</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jfhq-ncr-joint-force-headquarters-national-capital-region-fort-mcnair-dc</Url>
+    <NameNode>Joint Force Headquarters National Capital Region, US Northern Command</NameNode>
+    <FullName>Joint Force Headquarters National Capital Region, Northern Command</FullName>
+    <SplitName>Joint Force Headquarters National Capital Region, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort McNair</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort McNair, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-mcnair-dc</Url>
+        <Id>fort-mcnair-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jtf-capmed-joint-task-force-national-capital-region-medical-bethesda-md</Url>
+        <FullName>Joint Task Force National Capital Region Medical</FullName>
+        <Name>JTF CapMed</Name>
+        <Id>jtf-capmed-joint-task-force-national-capital-region-medical-bethesda-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jtf-capmed-joint-task-force-national-capital-region-medical-bethesda-md</Url>
+    <NameNode>Joint Task Force National Capital Region Medical, Joint Force Headquarters National Capital Region</NameNode>
+    <FullName>Joint Task Force National Capital Region Medical, Joint Force Headquarters National Capital Region</FullName>
+    <SplitName>Joint Task Force National Capital Region Medical, Joint Force Headquarters National Capital Region</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bethesda</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bethesda, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bethesda-md</Url>
+        <Id>bethesda-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fbch-fort-belvoir-community-hospital-fort-belvoir-va</Url>
+        <FullName>Fort Belvoir Community Hospital</FullName>
+        <Name>FBCH</Name>
+        <Id>fbch-fort-belvoir-community-hospital-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/wrnmmc-walter-reed-national-military-medical-center-bethesda-md</Url>
+        <FullName>Walter Reed National Military Medical Center</FullName>
+        <Name>WRNMMC</Name>
+        <Id>wrnmmc-walter-reed-national-military-medical-center-bethesda-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fbch-fort-belvoir-community-hospital-fort-belvoir-va</Url>
+    <NameNode>Fort Belvoir Community Hospital, Joint Task Force National Capital Region Medical</NameNode>
+    <FullName>Fort Belvoir Community Hospital, Joint Task Force National Capital Region Medical</FullName>
+    <SplitName>Fort Belvoir Community Hospital, Joint Task Force National Capital Region Medical</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usa-eb-usa-element-belvoir-fort-belvoir-va</Url>
+        <FullName>USA Element Belvoir</FullName>
+        <Name>USA-EB</Name>
+        <Id>usa-eb-usa-element-belvoir-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usa-eb-usa-element-belvoir-fort-belvoir-va</Url>
+    <NameNode>USA Element Belvoir, Fort Belvoir Community Hospital</NameNode>
+    <FullName>USA Element Belvoir, Fort Belvoir Community Hospital</FullName>
+    <SplitName>USA Element Belvoir, Fort Belvoir Community Hospital</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-usa-element-belvoir-fort-belvoir-va</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-usa-element-belvoir-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-usa-element-belvoir-fort-belvoir-va</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-usa-element-belvoir-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-usa-element-belvoir-fort-belvoir-va</Url>
+    <NameNode>A Company, USA Element Belvoir</NameNode>
+    <FullName>A Company, USA Element Belvoir</FullName>
+    <SplitName>A Company, USA Element Belvoir</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-usa-element-belvoir-fort-belvoir-va</Url>
+    <NameNode>B Company, USA Element Belvoir</NameNode>
+    <FullName>B Company, USA Element Belvoir</FullName>
+    <SplitName>B Company, USA Element Belvoir</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/wrnmmc-walter-reed-national-military-medical-center-bethesda-md</Url>
+    <NameNode>Walter Reed National Military Medical Center, Joint Task Force National Capital Region Medical</NameNode>
+    <FullName>Walter Reed National Military Medical Center, Joint Task Force National Capital Region Medical</FullName>
+    <SplitName>Walter Reed National Military Medical Center, Joint Task Force National Capital Region Medical</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/030/small/jfhqncr.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bethesda</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bethesda, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bethesda-md</Url>
+        <Id>bethesda-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jtf-ak-joint-task-force-alaska-joint-base-elmendorf-richardson-jber-ak</Url>
+    <NameNode>Joint Task Force Alaska, US Northern Command</NameNode>
+    <FullName>Joint Task Force Alaska, Northern Command</FullName>
+    <SplitName>Joint Task Force Alaska, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/031/small/jtfak.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Elmendorf-Richardson (JBER)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Elmendorf-Richardson (JBER), AK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-elmendorf-richardson-jber-ak</Url>
+        <Id>joint-base-elmendorf-richardson-jber-ak</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jtf-cs-joint-task-force-civil-support-fort-monroe-va</Url>
+    <NameNode>Joint Task Force Civil Support, US Northern Command</NameNode>
+    <FullName>Joint Task Force Civil Support, Northern Command</FullName>
+    <SplitName>Joint Task Force Civil Support, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/032/small/jtfcs.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Monroe</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Monroe, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-monroe-va</Url>
+        <Id>fort-monroe-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jtf-north-joint-task-force-north-fort-bliss-tx</Url>
+    <NameNode>Joint Task Force North, US Northern Command</NameNode>
+    <FullName>Joint Task Force North, Northern Command</FullName>
+    <SplitName>Joint Task Force North, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/033/small/jtfn.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/norad-north-american-aerospace-defense-command-peterson-afb-co</Url>
+    <NameNode>North American Aerospace Defense Command, US Northern Command</NameNode>
+    <FullName>North American Aerospace Defense Command, Northern Command</FullName>
+    <SplitName>North American Aerospace Defense Command, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/034/small/norad.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Peterson AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Peterson AFB, CO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/peterson-afb-co</Url>
+        <Id>peterson-afb-co</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northcom-embassies-northcom-regional-embassies</Url>
+    <NameNode>NORTHCOM Regional Embassies, US Northern Command</NameNode>
+    <FullName>NORTHCOM Regional Embassies, Northern Command</FullName>
+    <SplitName>NORTHCOM Regional Embassies, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/canada-northcom-regional-embassies</Url>
+        <FullName />
+        <Name>Canada</Name>
+        <Id>canada-northcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/northern-mexico-northcom-regional-embassies</Url>
+        <FullName />
+        <Name>Northern Mexico</Name>
+        <Id>northern-mexico-northcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southern-mexico-northcom-regional-embassies</Url>
+        <FullName />
+        <Name>Southern Mexico</Name>
+        <Id>southern-mexico-northcom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/canada-northcom-regional-embassies</Url>
+    <NameNode>NORTHCOM Regional Embassies, US Northern Command</NameNode>
+    <FullName>NORTHCOM Regional Embassies, Northern Command</FullName>
+    <SplitName>NORTHCOM Regional Embassies, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-ottawa-us-embassy-ottawa-ottawa-canada</Url>
+        <FullName>US Embassy - Ottawa</FullName>
+        <Name>USE - Ottawa</Name>
+        <Id>use-ottawa-us-embassy-ottawa-ottawa-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-calgary-us-consulate-general-calgary-calgary-canada</Url>
+        <FullName>US Consulate General - Calgary</FullName>
+        <Name>USCG - Calgary</Name>
+        <Id>uscg-calgary-us-consulate-general-calgary-calgary-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-halifax-us-consulate-general-halifax-halifax-canada</Url>
+        <FullName>US Consulate General - Halifax</FullName>
+        <Name>USCG - Halifax</Name>
+        <Id>uscg-halifax-us-consulate-general-halifax-halifax-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-montreal-us-consulate-general-montreal-montreal-canada</Url>
+        <FullName>US Consulate General - Montreal</FullName>
+        <Name>USCG - Montreal</Name>
+        <Id>uscg-montreal-us-consulate-general-montreal-montreal-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-quebec-city-us-consulate-general-quebec-city-quebec-city-canada</Url>
+        <FullName>US Consulate General - Quebec City</FullName>
+        <Name>USCG - Quebec City</Name>
+        <Id>uscg-quebec-city-us-consulate-general-quebec-city-quebec-city-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-toronto-us-consulate-general-toronto-toronto-canada</Url>
+        <FullName>US Consulate General - Toronto</FullName>
+        <Name>USCG - Toronto</Name>
+        <Id>uscg-toronto-us-consulate-general-toronto-toronto-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-vancouver-us-consulate-general-vancouver-vancouver-canada</Url>
+        <FullName>US Consulate General - Vancouver</FullName>
+        <Name>USCG - Vancouver</Name>
+        <Id>uscg-vancouver-us-consulate-general-vancouver-vancouver-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-winnipeg-us-consulate-winnipeg-winnipeg-canada</Url>
+        <FullName>US Consulate - Winnipeg</FullName>
+        <Name>USC - Winnipeg</Name>
+        <Id>usc-winnipeg-us-consulate-winnipeg-winnipeg-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-ottawa-us-embassy-ottawa-ottawa-canada</Url>
+    <NameNode>US Embassy - Ottawa, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Ottawa, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Ottawa, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ottawa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ottawa, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ottawa-canada</Url>
+        <Id>ottawa-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-calgary-us-consulate-general-calgary-calgary-canada</Url>
+    <NameNode>US Consulate General - Calgary, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Calgary, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Calgary, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Calgary</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Calgary, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/calgary-canada</Url>
+        <Id>calgary-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-halifax-us-consulate-general-halifax-halifax-canada</Url>
+    <NameNode>US Consulate General - Halifax, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Halifax, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Halifax, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Halifax</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Halifax, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/halifax-canada</Url>
+        <Id>halifax-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-montreal-us-consulate-general-montreal-montreal-canada</Url>
+    <NameNode>US Consulate General - Montreal, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Montreal, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Montreal, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Montreal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Montreal, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/montreal-canada</Url>
+        <Id>montreal-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-quebec-city-us-consulate-general-quebec-city-quebec-city-canada</Url>
+    <NameNode>US Consulate General - Quebec City, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Quebec City, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Quebec City, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Quebec City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Quebec City, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/quebec-city-canada</Url>
+        <Id>quebec-city-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-toronto-us-consulate-general-toronto-toronto-canada</Url>
+    <NameNode>US Consulate General - Toronto, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Toronto, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Toronto, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Toronto</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Toronto, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/toronto-canada</Url>
+        <Id>toronto-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-vancouver-us-consulate-general-vancouver-vancouver-canada</Url>
+    <NameNode>US Consulate General - Vancouver, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Vancouver, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Vancouver, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vancouver</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vancouver, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vancouver-canada</Url>
+        <Id>vancouver-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-winnipeg-us-consulate-winnipeg-winnipeg-canada</Url>
+    <NameNode>US Consulate - Winnipeg, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Winnipeg, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Winnipeg, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Winnipeg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Winnipeg, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/winnipeg-canada</Url>
+        <Id>winnipeg-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northern-mexico-northcom-regional-embassies</Url>
+    <NameNode>NORTHCOM Regional Embassies, US Northern Command</NameNode>
+    <FullName>NORTHCOM Regional Embassies, Northern Command</FullName>
+    <SplitName>NORTHCOM Regional Embassies, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-ciudad-juarez-us-consulate-general-ciudad-juarez</Url>
+        <FullName>US Consulate General - Ciudad JuÃ¡rez</FullName>
+        <Name>USCG - Ciudad JuÃ¡rez</Name>
+        <Id>uscg-ciudad-juarez-us-consulate-general-ciudad-juarez</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-hermosillo-us-consulate-general-hermosillo-hermosillo-mexico</Url>
+        <FullName>US Consulate General - Hermosillo</FullName>
+        <Name>USCG - Hermosillo</Name>
+        <Id>uscg-hermosillo-us-consulate-general-hermosillo-hermosillo-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-matamoros-us-consulate-general-matamoros-matamoros-mexico</Url>
+        <FullName>US Consulate General - Matamoros</FullName>
+        <Name>USCG - Matamoros</Name>
+        <Id>uscg-matamoros-us-consulate-general-matamoros-matamoros-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-monterrey-us-consulate-general-monterrey-monterrey-mexico</Url>
+        <FullName>US Consulate General - Monterrey</FullName>
+        <Name>USCG - Monterrey</Name>
+        <Id>uscg-monterrey-us-consulate-general-monterrey-monterrey-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-tijuana-us-consulate-general-tijuana-tijuana-mexico</Url>
+        <FullName>US Consulate General - Tijuana</FullName>
+        <Name>USCG - Tijuana</Name>
+        <Id>uscg-tijuana-us-consulate-general-tijuana-tijuana-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-nogales-us-consulate-nogales-nogales-mexico</Url>
+        <FullName>US Consulate - Nogales</FullName>
+        <Name>USC - Nogales</Name>
+        <Id>usc-nogales-us-consulate-nogales-nogales-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-nuevo-laredo-us-consulate-nuevo-laredo-nuevo-laredo-mexico</Url>
+        <FullName>US Consulate - Nuevo Laredo</FullName>
+        <Name>USC - Nuevo Laredo</Name>
+        <Id>usc-nuevo-laredo-us-consulate-nuevo-laredo-nuevo-laredo-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-cabo-san-lucas-us-consular-agency-cabo-san-lucas-cabo-san-lucas-mexico</Url>
+        <FullName>US Consular Agency - Cabo San Lucas</FullName>
+        <Name>USCA - Cabo San Lucas</Name>
+        <Id>usca-cabo-san-lucas-us-consular-agency-cabo-san-lucas-cabo-san-lucas-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-ciudad-acuna-us-consular-agency-ciudad-acuna</Url>
+        <FullName>US Consular Agency - Ciudad AcuÃ±a</FullName>
+        <Name>USCA - Ciudad AcuÃ±a</Name>
+        <Id>usca-ciudad-acuna-us-consular-agency-ciudad-acuna</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-mazatlan-us-consular-agency-mazatlan</Url>
+        <FullName>US Consular Agency - MazatlÃ¡n</FullName>
+        <Name>USCA - MazatlÃ¡n</Name>
+        <Id>usca-mazatlan-us-consular-agency-mazatlan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-piedras-negras-us-consular-agency-piedras-negras-piedras-negras-mexico</Url>
+        <FullName>US Consular Agency - Piedras Negras</FullName>
+        <Name>USCA - Piedras Negras</Name>
+        <Id>usca-piedras-negras-us-consular-agency-piedras-negras-piedras-negras-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-reynosa-us-consular-agency-reynosa-reynosa-mexico</Url>
+        <FullName>US Consular Agency - Reynosa</FullName>
+        <Name>USCA - Reynosa</Name>
+        <Id>usca-reynosa-us-consular-agency-reynosa-reynosa-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-san-luis-potosi-us-consular-agency-san-luis-potosi</Url>
+        <FullName>US Consular Agency - San Luis PotosÃ­</FullName>
+        <Name>USCA - San Luis PotosÃ­</Name>
+        <Id>usca-san-luis-potosi-us-consular-agency-san-luis-potosi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-ciudad-juarez-us-consulate-general-ciudad-juarez</Url>
+    <NameNode>US Consulate General - Ciudad JuÃ¡rez, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Ciudad JuÃ¡rez, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Ciudad JuÃ¡rez, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-hermosillo-us-consulate-general-hermosillo-hermosillo-mexico</Url>
+    <NameNode>US Consulate General - Hermosillo, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Hermosillo, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Hermosillo, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hermosillo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hermosillo, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hermosillo-mexico</Url>
+        <Id>hermosillo-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-matamoros-us-consulate-general-matamoros-matamoros-mexico</Url>
+    <NameNode>US Consulate General - Matamoros, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Matamoros, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Matamoros, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Matamoros</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Matamoros, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/matamoros-mexico</Url>
+        <Id>matamoros-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-monterrey-us-consulate-general-monterrey-monterrey-mexico</Url>
+    <NameNode>US Consulate General - Monterrey, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Monterrey, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Monterrey, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Monterrey</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Monterrey, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/monterrey-mexico</Url>
+        <Id>monterrey-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-tijuana-us-consulate-general-tijuana-tijuana-mexico</Url>
+    <NameNode>US Consulate General - Tijuana, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Tijuana, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Tijuana, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tijuana</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tijuana, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tijuana-mexico</Url>
+        <Id>tijuana-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-nogales-us-consulate-nogales-nogales-mexico</Url>
+    <NameNode>US Consulate - Nogales, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Nogales, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Nogales, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nogales</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nogales, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nogales-mexico</Url>
+        <Id>nogales-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-nuevo-laredo-us-consulate-nuevo-laredo-nuevo-laredo-mexico</Url>
+    <NameNode>US Consulate - Nuevo Laredo, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Nuevo Laredo, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Nuevo Laredo, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nuevo Laredo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nuevo Laredo, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nuevo-laredo-mexico</Url>
+        <Id>nuevo-laredo-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-cabo-san-lucas-us-consular-agency-cabo-san-lucas-cabo-san-lucas-mexico</Url>
+    <NameNode>US Consular Agency - Cabo San Lucas, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Cabo San Lucas, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Cabo San Lucas, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cabo San Lucas</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cabo San Lucas, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cabo-san-lucas-mexico</Url>
+        <Id>cabo-san-lucas-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-ciudad-acuna-us-consular-agency-ciudad-acuna</Url>
+    <NameNode>US Consular Agency - Ciudad AcuÃ±a, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Ciudad AcuÃ±a, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Ciudad AcuÃ±a, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-mazatlan-us-consular-agency-mazatlan</Url>
+    <NameNode>US Consular Agency - MazatlÃ¡n, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - MazatlÃ¡n, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - MazatlÃ¡n, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-piedras-negras-us-consular-agency-piedras-negras-piedras-negras-mexico</Url>
+    <NameNode>US Consular Agency - Piedras Negras, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Piedras Negras, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Piedras Negras, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Piedras Negras</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Piedras Negras, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/piedras-negras-mexico</Url>
+        <Id>piedras-negras-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-reynosa-us-consular-agency-reynosa-reynosa-mexico</Url>
+    <NameNode>US Consular Agency - Reynosa, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Reynosa, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Reynosa, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Reynosa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Reynosa, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/reynosa-mexico</Url>
+        <Id>reynosa-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-san-luis-potosi-us-consular-agency-san-luis-potosi</Url>
+    <NameNode>US Consular Agency - San Luis PotosÃ­, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - San Luis PotosÃ­, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - San Luis PotosÃ­, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southern-mexico-northcom-regional-embassies</Url>
+    <NameNode>NORTHCOM Regional Embassies, US Northern Command</NameNode>
+    <FullName>NORTHCOM Regional Embassies, Northern Command</FullName>
+    <SplitName>NORTHCOM Regional Embassies, US Northern Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-guadalajara-us-consulate-general-guadalajara-guadalajara-mexico</Url>
+        <FullName>US Consulate General - Guadalajara</FullName>
+        <Name>USCG - Guadalajara</Name>
+        <Id>uscg-guadalajara-us-consulate-general-guadalajara-guadalajara-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-merida-us-consulate-merida</Url>
+        <FullName>US Consulate - MÃ©rida</FullName>
+        <Name>USC - MÃ©rida</Name>
+        <Id>usc-merida-us-consulate-merida</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-acapulco-us-consular-agency-acapulco-acapulco-mexico</Url>
+        <FullName>US Consular Agency - Acapulco</FullName>
+        <Name>USCA - Acapulco</Name>
+        <Id>usca-acapulco-us-consular-agency-acapulco-acapulco-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-cancun-us-consular-agency-cancun</Url>
+        <FullName>US Consular Agency - CancÃºn</FullName>
+        <Name>USCA - CancÃºn</Name>
+        <Id>usca-cancun-us-consular-agency-cancun</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-cozumel-us-consular-agency-cozumel-cozumel-mexico</Url>
+        <FullName>US Consular Agency - Cozumel</FullName>
+        <Name>USCA - Cozumel</Name>
+        <Id>usca-cozumel-us-consular-agency-cozumel-cozumel-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-ixtapa-us-consular-agency-ixtapa-ixtapa-mexico</Url>
+        <FullName>US Consular Agency - Ixtapa</FullName>
+        <Name>USCA - Ixtapa</Name>
+        <Id>usca-ixtapa-us-consular-agency-ixtapa-ixtapa-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-oaxaca-us-consular-agency-oaxaca-oaxaca-mexico</Url>
+        <FullName>US Consular Agency - Oaxaca</FullName>
+        <Name>USCA - Oaxaca</Name>
+        <Id>usca-oaxaca-us-consular-agency-oaxaca-oaxaca-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-puerto-vallarta-us-consular-agency-puerto-vallarta-puerto-vallarta-mexico</Url>
+        <FullName>US Consular Agency - Puerto Vallarta</FullName>
+        <Name>USCA - Puerto Vallarta</Name>
+        <Id>usca-puerto-vallarta-us-consular-agency-puerto-vallarta-puerto-vallarta-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-san-miguel-de-allende-us-consular-agency-san-miguel-de-allende-san-miguel-de-allende-mexico</Url>
+        <FullName>US Consular Agency - San Miguel de Allende</FullName>
+        <Name>USCA - San Miguel de Allende</Name>
+        <Id>usca-san-miguel-de-allende-us-consular-agency-san-miguel-de-allende-san-miguel-de-allende-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-mexico-city-us-embassy-mexico-city-mexico-city-mexico</Url>
+        <FullName>US Embassy - Mexico City</FullName>
+        <Name>USE - Mexico City</Name>
+        <Id>use-mexico-city-us-embassy-mexico-city-mexico-city-mexico</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-guadalajara-us-consulate-general-guadalajara-guadalajara-mexico</Url>
+    <NameNode>US Consulate General - Guadalajara, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Guadalajara, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Guadalajara, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Guadalajara</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Guadalajara, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/guadalajara-mexico</Url>
+        <Id>guadalajara-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-merida-us-consulate-merida</Url>
+    <NameNode>US Consulate - MÃ©rida, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consulate - MÃ©rida, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - MÃ©rida, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-acapulco-us-consular-agency-acapulco-acapulco-mexico</Url>
+    <NameNode>US Consular Agency - Acapulco, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Acapulco, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Acapulco, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Acapulco</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Acapulco, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/acapulco-mexico</Url>
+        <Id>acapulco-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-cancun-us-consular-agency-cancun</Url>
+    <NameNode>US Consular Agency - CancÃºn, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - CancÃºn, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - CancÃºn, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-cozumel-us-consular-agency-cozumel-cozumel-mexico</Url>
+    <NameNode>US Consular Agency - Cozumel, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Cozumel, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Cozumel, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cozumel</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cozumel, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cozumel-mexico</Url>
+        <Id>cozumel-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-ixtapa-us-consular-agency-ixtapa-ixtapa-mexico</Url>
+    <NameNode>US Consular Agency - Ixtapa, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Ixtapa, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Ixtapa, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ixtapa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ixtapa, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ixtapa-mexico</Url>
+        <Id>ixtapa-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-oaxaca-us-consular-agency-oaxaca-oaxaca-mexico</Url>
+    <NameNode>US Consular Agency - Oaxaca, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Oaxaca, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Oaxaca, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Oaxaca</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oaxaca, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/oaxaca-mexico</Url>
+        <Id>oaxaca-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-puerto-vallarta-us-consular-agency-puerto-vallarta-puerto-vallarta-mexico</Url>
+    <NameNode>US Consular Agency - Puerto Vallarta, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Puerto Vallarta, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Puerto Vallarta, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Puerto Vallarta</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Puerto Vallarta, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/puerto-vallarta-mexico</Url>
+        <Id>puerto-vallarta-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-san-miguel-de-allende-us-consular-agency-san-miguel-de-allende-san-miguel-de-allende-mexico</Url>
+    <NameNode>US Consular Agency - San Miguel de Allende, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - San Miguel de Allende, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - San Miguel de Allende, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>San Miguel de Allende</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Miguel de Allende, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/san-miguel-de-allende-mexico</Url>
+        <Id>san-miguel-de-allende-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-mexico-city-us-embassy-mexico-city-mexico-city-mexico</Url>
+    <NameNode>US Embassy - Mexico City, NORTHCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Mexico City, NORTHCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Mexico City, NORTHCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mexico City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mexico City, Mexico</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mexico-city-mexico</Url>
+        <Id>mexico-city-mexico</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

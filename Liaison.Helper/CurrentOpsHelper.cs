@@ -8,7 +8,9 @@ namespace Liaison.Helper
 {
     public static class RallyPointHelper
     {
-        public static string rpoint = "https://www.rallypoint.com/units/";
+        public static string rpoint = "https://www.rallypoint.com"; // do not add closing /'/'!!!
+        public static string rpointunits = "https://www.rallypoint.com/units/";
+        public static string rpointlocs = "https://www.rallypoint.com/locations/";
     }
     public static class CurrentOpsHelper
     {

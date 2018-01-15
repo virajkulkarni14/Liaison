@@ -1,0 +1,2424 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eucom-us-european-command-patch-barracks-germany</Url>
+    <NameNode>US European Command</NameNode>
+    <FullName>European Command</FullName>
+    <SplitName>US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/026/small/eurcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Patch Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Patch Barracks, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/patch-barracks-germany</Url>
+        <Id>patch-barracks-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eucom-hq-eucom-headquarters-patch-barracks-germany</Url>
+        <FullName>EUCOM Headquarters</FullName>
+        <Name>EUCOM HQ</Name>
+        <Id>eucom-hq-eucom-headquarters-patch-barracks-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eucom-embassies-eucom-regional-embassies</Url>
+        <FullName>EUCOM Regional Embassies</FullName>
+        <Name>EUCOM Embassies</Name>
+        <Id>eucom-embassies-eucom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marshall-center-george-c-marshall-european-center-for-security-studies-garmisch-germany</Url>
+        <FullName>George C. Marshall European Center for Security Studies</FullName>
+        <Name>Marshall Center</Name>
+        <Id>marshall-center-george-c-marshall-european-center-for-security-studies-garmisch-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eucom-hq-eucom-headquarters-patch-barracks-germany</Url>
+    <NameNode>EUCOM Headquarters, US European Command</NameNode>
+    <FullName>EUCOM Headquarters, European Command</FullName>
+    <SplitName>EUCOM Headquarters, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/026/small/eurcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Patch Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Patch Barracks, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/patch-barracks-germany</Url>
+        <Id>patch-barracks-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eucom-embassies-eucom-regional-embassies</Url>
+    <NameNode>EUCOM Regional Embassies, US European Command</NameNode>
+    <FullName>EUCOM Regional Embassies, European Command</FullName>
+    <SplitName>EUCOM Regional Embassies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/western-europe-eucom-regional-embassies</Url>
+        <FullName />
+        <Name>Western Europe</Name>
+        <Id>western-europe-eucom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/central-europe-eucom-regional-embassies</Url>
+        <FullName />
+        <Name>Central Europe</Name>
+        <Id>central-europe-eucom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eastern-europe-eucom-regional-embassies</Url>
+        <FullName />
+        <Name>Eastern Europe</Name>
+        <Id>eastern-europe-eucom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southern-europe-eucom-regional-embassies</Url>
+        <FullName />
+        <Name>Southern Europe</Name>
+        <Id>southern-europe-eucom-regional-embassies</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asia-eucom-regional-embassies-us-european-command</Url>
+        <FullName />
+        <Name>Asia</Name>
+        <Id>asia-eucom-regional-embassies-us-european-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/western-europe-eucom-regional-embassies</Url>
+    <NameNode>EUCOM Regional Embassies, US European Command</NameNode>
+    <FullName>EUCOM Regional Embassies, European Command</FullName>
+    <SplitName>EUCOM Regional Embassies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-dublin-us-embassy-dublin-dublin-ireland</Url>
+        <FullName>US Embassy - Dublin</FullName>
+        <Name>USE - Dublin</Name>
+        <Id>use-dublin-us-embassy-dublin-dublin-ireland</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-brussels-us-embassy-brussels-brussels-belgium</Url>
+        <FullName>US Embassy - Brussels</FullName>
+        <Name>USE - Brussels</Name>
+        <Id>use-brussels-us-embassy-brussels-brussels-belgium</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-the-hague-us-embassy-the-hague-the-hague-netherlands</Url>
+        <FullName>US Embassy - The Hague</FullName>
+        <Name>USE - The Hague</Name>
+        <Id>use-the-hague-us-embassy-the-hague-the-hague-netherlands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-amsterdam-us-consulate-general-amsterdam-amsterdam-netherlands</Url>
+        <FullName>US Consulate General - Amsterdam</FullName>
+        <Name>USCG - Amsterdam</Name>
+        <Id>uscg-amsterdam-us-consulate-general-amsterdam-amsterdam-netherlands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-willemstad-us-consulate-general-willemstad-willemstad-netherlands</Url>
+        <FullName>US Consulate General - Willemstad</FullName>
+        <Name>USCG - Willemstad</Name>
+        <Id>uscg-willemstad-us-consulate-general-willemstad-willemstad-netherlands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-london-us-embassy-london</Url>
+        <FullName>US Embassy - London</FullName>
+        <Name>USE - London</Name>
+        <Id>use-london-us-embassy-london</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-belfast-us-consulate-general-belfast-belfast-uk</Url>
+        <FullName>US Consulate General - Belfast</FullName>
+        <Name>USCG - Belfast</Name>
+        <Id>uscg-belfast-us-consulate-general-belfast-belfast-uk</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-edinburgh-us-consulate-general-edinburgh-edinburgh-uk</Url>
+        <FullName>US Consulate General - Edinburgh</FullName>
+        <Name>USCG - Edinburgh</Name>
+        <Id>uscg-edinburgh-us-consulate-general-edinburgh-edinburgh-uk</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-hamilton-us-consulate-general-hamilton-hamilton-uk</Url>
+        <FullName>US Consulate General - Hamilton</FullName>
+        <Name>USCG - Hamilton</Name>
+        <Id>uscg-hamilton-us-consulate-general-hamilton-hamilton-uk</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bern-us-embassy-bern-bern-switzerland</Url>
+        <FullName>US Embassy - Bern</FullName>
+        <Name>USE - Bern</Name>
+        <Id>use-bern-us-embassy-bern-bern-switzerland</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-geneva-us-consular-agency-geneva-geneva-switzerland</Url>
+        <FullName>US Consular Agency - Geneva</FullName>
+        <Name>USCA - Geneva</Name>
+        <Id>usca-geneva-us-consular-agency-geneva-geneva-switzerland</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-zurich-us-consular-agency-zurich</Url>
+        <FullName>US Consular Agency - ZÃ¼rich</FullName>
+        <Name>USCA - ZÃ¼rich</Name>
+        <Id>usca-zurich-us-consular-agency-zurich</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-copenhagen-us-embassy-copenhagen-copenhagen-denmark</Url>
+        <FullName>US Embassy - Copenhagen</FullName>
+        <Name>USE - Copenhagen</Name>
+        <Id>use-copenhagen-us-embassy-copenhagen-copenhagen-denmark</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-reykjavik-us-embassy-reykjavik</Url>
+        <FullName>US Embassy - ReykjavÃ­k</FullName>
+        <Name>USE - ReykjavÃ­k</Name>
+        <Id>use-reykjavik-us-embassy-reykjavik</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-paris-us-embassy-paris-paris-france</Url>
+        <FullName>US Embassy - Paris</FullName>
+        <Name>USE - Paris</Name>
+        <Id>use-paris-us-embassy-paris-paris-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-marseille-us-consulate-general-marseille-marseille-france</Url>
+        <FullName>US Consulate General - Marseille</FullName>
+        <Name>USCG - Marseille</Name>
+        <Id>uscg-marseille-us-consulate-general-marseille-marseille-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-strasbourg-us-consulate-general-strasbourg-strasbourg-france</Url>
+        <FullName>US Consulate General - Strasbourg</FullName>
+        <Name>USCG - Strasbourg</Name>
+        <Id>uscg-strasbourg-us-consulate-general-strasbourg-strasbourg-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/app-bordeaux-american-presence-post-bordeaux-bordeaux-france</Url>
+        <FullName>American Presence Post - Bordeaux</FullName>
+        <Name>APP - Bordeaux</Name>
+        <Id>app-bordeaux-american-presence-post-bordeaux-bordeaux-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/app-lyon-american-presence-post-lyon-lyon-france</Url>
+        <FullName>American Presence Post - Lyon</FullName>
+        <Name>APP - Lyon</Name>
+        <Id>app-lyon-american-presence-post-lyon-lyon-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/app-rennes-american-presence-post-rennes-rennes-france</Url>
+        <FullName>American Presence Post - Rennes</FullName>
+        <Name>APP - Rennes</Name>
+        <Id>app-rennes-american-presence-post-rennes-rennes-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/app-toulouse-american-presence-post-toulouse-toulouse-france</Url>
+        <FullName>American Presence Post - Toulouse</FullName>
+        <Name>APP - Toulouse</Name>
+        <Id>app-toulouse-american-presence-post-toulouse-toulouse-france</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-dublin-us-embassy-dublin-dublin-ireland</Url>
+    <NameNode>US Embassy - Dublin, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Dublin, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Dublin, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dublin</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dublin, Ireland</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dublin-ireland</Url>
+        <Id>dublin-ireland</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-brussels-us-embassy-brussels-brussels-belgium</Url>
+    <NameNode>US Embassy - Brussels, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Brussels, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Brussels, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Brussels</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Brussels, Belgium</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/brussels-belgium</Url>
+        <Id>brussels-belgium</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-the-hague-us-embassy-the-hague-the-hague-netherlands</Url>
+    <NameNode>US Embassy - The Hague, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - The Hague, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - The Hague, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>The Hague</BaseName>
+        <Deployment>false</Deployment>
+        <Location>The Hague, Netherlands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/the-hague-netherlands</Url>
+        <Id>the-hague-netherlands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-amsterdam-us-consulate-general-amsterdam-amsterdam-netherlands</Url>
+    <NameNode>US Consulate General - Amsterdam, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Amsterdam, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Amsterdam, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Amsterdam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Amsterdam, Netherlands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/amsterdam-netherlands</Url>
+        <Id>amsterdam-netherlands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-willemstad-us-consulate-general-willemstad-willemstad-netherlands</Url>
+    <NameNode>US Consulate General - Willemstad, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Willemstad, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Willemstad, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Willemstad</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Willemstad, Netherlands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/willemstad-netherlands</Url>
+        <Id>willemstad-netherlands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-london-us-embassy-london</Url>
+    <NameNode>US Embassy - London, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - London, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - London, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-belfast-us-consulate-general-belfast-belfast-uk</Url>
+    <NameNode>US Consulate General - Belfast, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Belfast, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Belfast, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Belfast</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Belfast, UK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/belfast-uk</Url>
+        <Id>belfast-uk</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-edinburgh-us-consulate-general-edinburgh-edinburgh-uk</Url>
+    <NameNode>US Consulate General - Edinburgh, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Edinburgh, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Edinburgh, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Edinburgh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Edinburgh, UK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/edinburgh-uk</Url>
+        <Id>edinburgh-uk</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-hamilton-us-consulate-general-hamilton-hamilton-uk</Url>
+    <NameNode>US Consulate General - Hamilton, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Hamilton, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Hamilton, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hamilton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hamilton, UK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hamilton-uk</Url>
+        <Id>hamilton-uk</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bern-us-embassy-bern-bern-switzerland</Url>
+    <NameNode>US Embassy - Bern, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bern, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bern, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bern</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bern, Switzerland</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bern-switzerland</Url>
+        <Id>bern-switzerland</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-geneva-us-consular-agency-geneva-geneva-switzerland</Url>
+    <NameNode>US Consular Agency - Geneva, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Geneva, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Geneva, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Geneva</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Geneva, Switzerland</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/geneva-switzerland</Url>
+        <Id>geneva-switzerland</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-zurich-us-consular-agency-zurich</Url>
+    <NameNode>US Consular Agency - ZÃ¼rich, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - ZÃ¼rich, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - ZÃ¼rich, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-copenhagen-us-embassy-copenhagen-copenhagen-denmark</Url>
+    <NameNode>US Embassy - Copenhagen, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Copenhagen, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Copenhagen, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Copenhagen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Copenhagen, Denmark</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/copenhagen-denmark</Url>
+        <Id>copenhagen-denmark</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-reykjavik-us-embassy-reykjavik</Url>
+    <NameNode>US Embassy - ReykjavÃ­k, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - ReykjavÃ­k, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - ReykjavÃ­k, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-paris-us-embassy-paris-paris-france</Url>
+    <NameNode>US Embassy - Paris, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Paris, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Paris, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Paris</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Paris, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/paris-france</Url>
+        <Id>paris-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-marseille-us-consulate-general-marseille-marseille-france</Url>
+    <NameNode>US Consulate General - Marseille, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Marseille, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Marseille, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Marseille</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Marseille, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/marseille-france</Url>
+        <Id>marseille-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-strasbourg-us-consulate-general-strasbourg-strasbourg-france</Url>
+    <NameNode>US Consulate General - Strasbourg, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Strasbourg, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Strasbourg, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Strasbourg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Strasbourg, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/strasbourg-france</Url>
+        <Id>strasbourg-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/app-bordeaux-american-presence-post-bordeaux-bordeaux-france</Url>
+    <NameNode>American Presence Post - Bordeaux, EUCOM Regional Embassies</NameNode>
+    <FullName>American Presence Post - Bordeaux, EUCOM Regional Embassies</FullName>
+    <SplitName>American Presence Post - Bordeaux, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bordeaux</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bordeaux, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bordeaux-france</Url>
+        <Id>bordeaux-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/app-lyon-american-presence-post-lyon-lyon-france</Url>
+    <NameNode>American Presence Post - Lyon, EUCOM Regional Embassies</NameNode>
+    <FullName>American Presence Post - Lyon, EUCOM Regional Embassies</FullName>
+    <SplitName>American Presence Post - Lyon, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lyon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lyon, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lyon-france</Url>
+        <Id>lyon-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/app-rennes-american-presence-post-rennes-rennes-france</Url>
+    <NameNode>American Presence Post - Rennes, EUCOM Regional Embassies</NameNode>
+    <FullName>American Presence Post - Rennes, EUCOM Regional Embassies</FullName>
+    <SplitName>American Presence Post - Rennes, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rennes</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rennes, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rennes-france</Url>
+        <Id>rennes-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/app-toulouse-american-presence-post-toulouse-toulouse-france</Url>
+    <NameNode>American Presence Post - Toulouse, EUCOM Regional Embassies</NameNode>
+    <FullName>American Presence Post - Toulouse, EUCOM Regional Embassies</FullName>
+    <SplitName>American Presence Post - Toulouse, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Toulouse</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Toulouse, France</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/toulouse-france</Url>
+        <Id>toulouse-france</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/central-europe-eucom-regional-embassies</Url>
+    <NameNode>EUCOM Regional Embassies, US European Command</NameNode>
+    <FullName>EUCOM Regional Embassies, European Command</FullName>
+    <SplitName>EUCOM Regional Embassies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-berlin-us-embassy-berlin-berlin-germany</Url>
+        <FullName>US Embassy - Berlin</FullName>
+        <Name>USE - Berlin</Name>
+        <Id>use-berlin-us-embassy-berlin-berlin-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-bremen-us-consular-agency-bremen-bremen-germany</Url>
+        <FullName>US Consular Agency - Bremen</FullName>
+        <Name>USCA - Bremen</Name>
+        <Id>usca-bremen-us-consular-agency-bremen-bremen-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-dusseldorf-us-consulate-general-dusseldorf</Url>
+        <FullName>US Consulate General - DÃ¼sseldorf</FullName>
+        <Name>USCG - DÃ¼sseldorf</Name>
+        <Id>uscg-dusseldorf-us-consulate-general-dusseldorf</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-frankfurt-us-consulate-general-frankfurt</Url>
+        <FullName>US Consulate General - Frankfurt</FullName>
+        <Name>USCG - Frankfurt</Name>
+        <Id>uscg-frankfurt-us-consulate-general-frankfurt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-hamburg-us-consulate-general-hamburg-hamburg-germany</Url>
+        <FullName>US Consulate General - Hamburg</FullName>
+        <Name>USCG - Hamburg</Name>
+        <Id>uscg-hamburg-us-consulate-general-hamburg-hamburg-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-leipzig-us-consulate-general-leipzig-leipzig-germany</Url>
+        <FullName>US Consulate General - Leipzig</FullName>
+        <Name>USCG - Leipzig</Name>
+        <Id>uscg-leipzig-us-consulate-general-leipzig-leipzig-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-munich-us-consulate-general-munich-munich-germany</Url>
+        <FullName>US Consulate General - Munich</FullName>
+        <Name>USCG - Munich</Name>
+        <Id>uscg-munich-us-consulate-general-munich-munich-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-warsaw-us-embassy-warsaw-warsaw-poland</Url>
+        <FullName>US Embassy - Warsaw</FullName>
+        <Name>USE - Warsaw</Name>
+        <Id>use-warsaw-us-embassy-warsaw-warsaw-poland</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-krakow-us-consulate-general-krakow</Url>
+        <FullName>US Consulate General - KrakÃ³w</FullName>
+        <Name>USCG - KrakÃ³w</Name>
+        <Id>uscg-krakow-us-consulate-general-krakow</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-sofia-us-embassy-sofia-sofia-bulgaria</Url>
+        <FullName>US Embassy - Sofia</FullName>
+        <Name>USE - Sofia</Name>
+        <Id>use-sofia-us-embassy-sofia-sofia-bulgaria</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-zagreb-us-embassy-zagreb-zagreb-croatia</Url>
+        <FullName>US Embassy - Zagreb</FullName>
+        <Name>USE - Zagreb</Name>
+        <Id>use-zagreb-us-embassy-zagreb-zagreb-croatia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-prague-us-embassy-prague-prague-czech-republic</Url>
+        <FullName>US Embassy - Prague</FullName>
+        <Name>USE - Prague</Name>
+        <Id>use-prague-us-embassy-prague-prague-czech-republic</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-vienna-us-embassy-vienna-vienna-austria</Url>
+        <FullName>US Embassy - Vienna</FullName>
+        <Name>USE - Vienna</Name>
+        <Id>use-vienna-us-embassy-vienna-vienna-austria</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-oslo-us-embassy-oslo-oslo-norway</Url>
+        <FullName>US Embassy - Oslo</FullName>
+        <Name>USE - Oslo</Name>
+        <Id>use-oslo-us-embassy-oslo-oslo-norway</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-stockholm-us-embassy-stockholm-stockholm-sweden</Url>
+        <FullName>US Embassy - Stockholm</FullName>
+        <Name>USE - Stockholm</Name>
+        <Id>use-stockholm-us-embassy-stockholm-stockholm-sweden</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-budapest-us-embassy-budapest-budapest-hungary</Url>
+        <FullName>US Embassy - Budapest</FullName>
+        <Name>USE - Budapest</Name>
+        <Id>use-budapest-us-embassy-budapest-budapest-hungary</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-luxembourg-us-embassy-luxembourg-luxembourg-luxembourg</Url>
+        <FullName>US Embassy - Luxembourg</FullName>
+        <Name>USE - Luxembourg</Name>
+        <Id>use-luxembourg-us-embassy-luxembourg-luxembourg-luxembourg</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-berlin-us-embassy-berlin-berlin-germany</Url>
+    <NameNode>US Embassy - Berlin, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Berlin, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Berlin, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Berlin</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Berlin, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/berlin-germany</Url>
+        <Id>berlin-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-bremen-us-consular-agency-bremen-bremen-germany</Url>
+    <NameNode>US Consular Agency - Bremen, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Bremen, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Bremen, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bremen</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bremen, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bremen-germany</Url>
+        <Id>bremen-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-dusseldorf-us-consulate-general-dusseldorf</Url>
+    <NameNode>US Consulate General - DÃ¼sseldorf, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - DÃ¼sseldorf, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - DÃ¼sseldorf, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-frankfurt-us-consulate-general-frankfurt</Url>
+    <NameNode>US Consulate General - Frankfurt, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Frankfurt, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Frankfurt, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-hamburg-us-consulate-general-hamburg-hamburg-germany</Url>
+    <NameNode>US Consulate General - Hamburg, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Hamburg, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Hamburg, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hamburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hamburg, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hamburg-germany</Url>
+        <Id>hamburg-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-leipzig-us-consulate-general-leipzig-leipzig-germany</Url>
+    <NameNode>US Consulate General - Leipzig, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Leipzig, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Leipzig, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Leipzig</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Leipzig, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/leipzig-germany</Url>
+        <Id>leipzig-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-munich-us-consulate-general-munich-munich-germany</Url>
+    <NameNode>US Consulate General - Munich, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Munich, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Munich, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Munich</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Munich, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/munich-germany</Url>
+        <Id>munich-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-warsaw-us-embassy-warsaw-warsaw-poland</Url>
+    <NameNode>US Embassy - Warsaw, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Warsaw, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Warsaw, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Warsaw</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Warsaw, Poland</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/warsaw-poland</Url>
+        <Id>warsaw-poland</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-krakow-us-consulate-general-krakow</Url>
+    <NameNode>US Consulate General - KrakÃ³w, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - KrakÃ³w, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - KrakÃ³w, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-sofia-us-embassy-sofia-sofia-bulgaria</Url>
+    <NameNode>US Embassy - Sofia, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Sofia, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Sofia, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sofia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sofia, Bulgaria</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sofia-bulgaria</Url>
+        <Id>sofia-bulgaria</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-zagreb-us-embassy-zagreb-zagreb-croatia</Url>
+    <NameNode>US Embassy - Zagreb, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Zagreb, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Zagreb, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Zagreb</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Zagreb, Croatia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/zagreb-croatia</Url>
+        <Id>zagreb-croatia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-prague-us-embassy-prague-prague-czech-republic</Url>
+    <NameNode>US Embassy - Prague, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Prague, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Prague, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Prague</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Prague, Czech Republic</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/prague-czech-republic</Url>
+        <Id>prague-czech-republic</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-vienna-us-embassy-vienna-vienna-austria</Url>
+    <NameNode>US Embassy - Vienna, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Vienna, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Vienna, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vienna</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vienna, Austria</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vienna-austria</Url>
+        <Id>vienna-austria</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-oslo-us-embassy-oslo-oslo-norway</Url>
+    <NameNode>US Embassy - Oslo, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Oslo, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Oslo, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Oslo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oslo, Norway</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/oslo-norway</Url>
+        <Id>oslo-norway</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-stockholm-us-embassy-stockholm-stockholm-sweden</Url>
+    <NameNode>US Embassy - Stockholm, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Stockholm, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Stockholm, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Stockholm</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Stockholm, Sweden</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/stockholm-sweden</Url>
+        <Id>stockholm-sweden</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-budapest-us-embassy-budapest-budapest-hungary</Url>
+    <NameNode>US Embassy - Budapest, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Budapest, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Budapest, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Budapest</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Budapest, Hungary</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/budapest-hungary</Url>
+        <Id>budapest-hungary</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-luxembourg-us-embassy-luxembourg-luxembourg-luxembourg</Url>
+    <NameNode>US Embassy - Luxembourg, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Luxembourg, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Luxembourg, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Luxembourg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Luxembourg, Luxembourg</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/luxembourg-luxembourg</Url>
+        <Id>luxembourg-luxembourg</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eastern-europe-eucom-regional-embassies</Url>
+    <NameNode>EUCOM Regional Embassies, US European Command</NameNode>
+    <FullName>EUCOM Regional Embassies, European Command</FullName>
+    <SplitName>EUCOM Regional Embassies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-ankara-us-embassy-ankara-ankara-turkey</Url>
+        <FullName>US Embassy - Ankara</FullName>
+        <Name>USE - Ankara</Name>
+        <Id>use-ankara-us-embassy-ankara-ankara-turkey</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-istanbul-us-consulate-general-istanbul-istanbul-turkey</Url>
+        <FullName>US Consulate General - Istanbul</FullName>
+        <Name>USCG - Istanbul</Name>
+        <Id>uscg-istanbul-us-consulate-general-istanbul-istanbul-turkey</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-adana-us-consulate-adana-adana-turkey</Url>
+        <FullName>US Consulate - Adana</FullName>
+        <Name>USC - Adana</Name>
+        <Id>usc-adana-us-consulate-adana-adana-turkey</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-izmir-us-consular-agency-izmir-izmir-turkey</Url>
+        <FullName>US Consular Agency - Izmir</FullName>
+        <Name>USCA - Izmir</Name>
+        <Id>usca-izmir-us-consular-agency-izmir-izmir-turkey</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-athens-us-embassy-athens-athens-greece</Url>
+        <FullName>US Embassy - Athens</FullName>
+        <Name>USE - Athens</Name>
+        <Id>use-athens-us-embassy-athens-athens-greece</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-thessaloniki-us-consulate-general-thessaloniki-thessaloniki-greece</Url>
+        <FullName>US Consulate General - Thessaloniki</FullName>
+        <Name>USCG - Thessaloniki</Name>
+        <Id>uscg-thessaloniki-us-consulate-general-thessaloniki-thessaloniki-greece</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-belgrade-us-embassy-belgrade-belgrade-serbia</Url>
+        <FullName>US Embassy - Belgrade</FullName>
+        <Name>USE - Belgrade</Name>
+        <Id>use-belgrade-us-embassy-belgrade-belgrade-serbia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-vilnius-us-embassy-vilnius-vilnius-lithuania</Url>
+        <FullName>US Embassy - Vilnius</FullName>
+        <Name>USE - Vilnius</Name>
+        <Id>use-vilnius-us-embassy-vilnius-vilnius-lithuania</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-minsk-us-embassy-minsk-minsk-belarus</Url>
+        <FullName>US Embassy - Minsk</FullName>
+        <Name>USE - Minsk</Name>
+        <Id>use-minsk-us-embassy-minsk-minsk-belarus</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-yerevan-us-embassy-yerevan-yerevan-armenia</Url>
+        <FullName>US Embassy - Yerevan</FullName>
+        <Name>USE - Yerevan</Name>
+        <Id>use-yerevan-us-embassy-yerevan-yerevan-armenia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-baku-us-embassy-baku-baku-azerbaijan</Url>
+        <FullName>US Embassy - Baku</FullName>
+        <Name>USE - Baku</Name>
+        <Id>use-baku-us-embassy-baku-baku-azerbaijan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-sarajevo-us-embassy-sarajevo-sarajevo-bosnia-and-herzegovina</Url>
+        <FullName>US Embassy - Sarajevo</FullName>
+        <Name>USE - Sarajevo</Name>
+        <Id>use-sarajevo-us-embassy-sarajevo-sarajevo-bosnia-and-herzegovina</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usebo-banja-luka-us-embassy-branch-office-banja-luka-banja-luka-bosnia-and-herzegovina</Url>
+        <FullName>US Embassy Branch Office - Banja Luka</FullName>
+        <Name>USEBO - Banja Luka</Name>
+        <Id>usebo-banja-luka-us-embassy-branch-office-banja-luka-banja-luka-bosnia-and-herzegovina</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usebo-mostar-us-embassy-branch-office-mostar-mostar-bosnia-and-herzegovina</Url>
+        <FullName>US Embassy Branch Office - Mostar</FullName>
+        <Name>USEBO - Mostar</Name>
+        <Id>usebo-mostar-us-embassy-branch-office-mostar-mostar-bosnia-and-herzegovina</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-helsinki-us-embassy-helsinki-helsinki-finland</Url>
+        <FullName>US Embassy - Helsinki</FullName>
+        <Name>USE - Helsinki</Name>
+        <Id>use-helsinki-us-embassy-helsinki-helsinki-finland</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tallinn-us-embassy-tallinn-tallinn-estonia</Url>
+        <FullName>US Embassy - Tallinn</FullName>
+        <Name>USE - Tallinn</Name>
+        <Id>use-tallinn-us-embassy-tallinn-tallinn-estonia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tbilisi-us-embassy-tbilisi-tbilisi-georgia</Url>
+        <FullName>US Embassy - Tbilisi</FullName>
+        <Name>USE - Tbilisi</Name>
+        <Id>use-tbilisi-us-embassy-tbilisi-tbilisi-georgia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-riga-us-embassy-riga-riga-latvia</Url>
+        <FullName>US Embassy - Riga</FullName>
+        <Name>USE - Riga</Name>
+        <Id>use-riga-us-embassy-riga-riga-latvia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-chisinau-us-embassy-chisinau</Url>
+        <FullName>US Embassy - ChiÅŸinÄƒu</FullName>
+        <Name>USE - ChiÅŸinÄƒu</Name>
+        <Id>use-chisinau-us-embassy-chisinau</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-kiev-us-embassy-kiev-kiev-ukraine</Url>
+        <FullName>US Embassy - Kiev</FullName>
+        <Name>USE - Kiev</Name>
+        <Id>use-kiev-us-embassy-kiev-kiev-ukraine</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-ankara-us-embassy-ankara-ankara-turkey</Url>
+    <NameNode>US Embassy - Ankara, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Ankara, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Ankara, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ankara</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ankara, Turkey</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ankara-turkey</Url>
+        <Id>ankara-turkey</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-istanbul-us-consulate-general-istanbul-istanbul-turkey</Url>
+    <NameNode>US Consulate General - Istanbul, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Istanbul, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Istanbul, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Istanbul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Istanbul, Turkey</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/istanbul-turkey</Url>
+        <Id>istanbul-turkey</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-adana-us-consulate-adana-adana-turkey</Url>
+    <NameNode>US Consulate - Adana, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Adana, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Adana, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Adana</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Adana, Turkey</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/adana-turkey</Url>
+        <Id>adana-turkey</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-izmir-us-consular-agency-izmir-izmir-turkey</Url>
+    <NameNode>US Consular Agency - Izmir, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Izmir, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Izmir, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Izmir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Izmir, Turkey</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/izmir-turkey</Url>
+        <Id>izmir-turkey</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-athens-us-embassy-athens-athens-greece</Url>
+    <NameNode>US Embassy - Athens, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Athens, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Athens, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Athens</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Athens, Greece</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/athens-greece</Url>
+        <Id>athens-greece</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-thessaloniki-us-consulate-general-thessaloniki-thessaloniki-greece</Url>
+    <NameNode>US Consulate General - Thessaloniki, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Thessaloniki, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Thessaloniki, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Thessaloniki</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Thessaloniki, Greece</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/thessaloniki-greece</Url>
+        <Id>thessaloniki-greece</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-belgrade-us-embassy-belgrade-belgrade-serbia</Url>
+    <NameNode>US Embassy - Belgrade, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Belgrade, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Belgrade, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Belgrade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Belgrade, Serbia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/belgrade-serbia</Url>
+        <Id>belgrade-serbia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-vilnius-us-embassy-vilnius-vilnius-lithuania</Url>
+    <NameNode>US Embassy - Vilnius, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Vilnius, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Vilnius, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vilnius</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vilnius, Lithuania</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vilnius-lithuania</Url>
+        <Id>vilnius-lithuania</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-minsk-us-embassy-minsk-minsk-belarus</Url>
+    <NameNode>US Embassy - Minsk, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Minsk, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Minsk, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minsk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minsk, Belarus</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minsk-belarus</Url>
+        <Id>minsk-belarus</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-yerevan-us-embassy-yerevan-yerevan-armenia</Url>
+    <NameNode>US Embassy - Yerevan, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Yerevan, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Yerevan, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yerevan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yerevan, Armenia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yerevan-armenia</Url>
+        <Id>yerevan-armenia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-baku-us-embassy-baku-baku-azerbaijan</Url>
+    <NameNode>US Embassy - Baku, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Baku, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Baku, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baku</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baku, Azerbaijan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baku-azerbaijan</Url>
+        <Id>baku-azerbaijan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-sarajevo-us-embassy-sarajevo-sarajevo-bosnia-and-herzegovina</Url>
+    <NameNode>US Embassy - Sarajevo, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Sarajevo, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Sarajevo, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sarajevo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sarajevo, Bosnia and Herzegovina</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sarajevo-bosnia-and-herzegovina</Url>
+        <Id>sarajevo-bosnia-and-herzegovina</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usebo-banja-luka-us-embassy-branch-office-banja-luka-banja-luka-bosnia-and-herzegovina</Url>
+    <NameNode>US Embassy Branch Office - Banja Luka, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy Branch Office - Banja Luka, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy Branch Office - Banja Luka, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Banja Luka</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Banja Luka, Bosnia and Herzegovina</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/banja-luka-bosnia-and-herzegovina</Url>
+        <Id>banja-luka-bosnia-and-herzegovina</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usebo-mostar-us-embassy-branch-office-mostar-mostar-bosnia-and-herzegovina</Url>
+    <NameNode>US Embassy Branch Office - Mostar, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy Branch Office - Mostar, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy Branch Office - Mostar, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mostar</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mostar, Bosnia and Herzegovina</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mostar-bosnia-and-herzegovina</Url>
+        <Id>mostar-bosnia-and-herzegovina</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-helsinki-us-embassy-helsinki-helsinki-finland</Url>
+    <NameNode>US Embassy - Helsinki, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Helsinki, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Helsinki, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Helsinki</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Helsinki, Finland</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/helsinki-finland</Url>
+        <Id>helsinki-finland</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tallinn-us-embassy-tallinn-tallinn-estonia</Url>
+    <NameNode>US Embassy - Tallinn, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tallinn, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tallinn, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tallinn</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tallinn, Estonia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tallinn-estonia</Url>
+        <Id>tallinn-estonia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tbilisi-us-embassy-tbilisi-tbilisi-georgia</Url>
+    <NameNode>US Embassy - Tbilisi, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tbilisi, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tbilisi, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tbilisi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tbilisi, Georgia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tbilisi-georgia</Url>
+        <Id>tbilisi-georgia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-riga-us-embassy-riga-riga-latvia</Url>
+    <NameNode>US Embassy - Riga, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Riga, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Riga, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riga</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Riga, Latvia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/riga-latvia</Url>
+        <Id>riga-latvia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-chisinau-us-embassy-chisinau</Url>
+    <NameNode>US Embassy - ChiÅŸinÄƒu, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - ChiÅŸinÄƒu, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - ChiÅŸinÄƒu, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-kiev-us-embassy-kiev-kiev-ukraine</Url>
+    <NameNode>US Embassy - Kiev, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Kiev, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Kiev, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kiev</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kiev, Ukraine</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kiev-ukraine</Url>
+        <Id>kiev-ukraine</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southern-europe-eucom-regional-embassies</Url>
+    <NameNode>EUCOM Regional Embassies, US European Command</NameNode>
+    <FullName>EUCOM Regional Embassies, European Command</FullName>
+    <SplitName>EUCOM Regional Embassies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-madrid-us-embassy-madrid-madrid-spain</Url>
+        <FullName>US Embassy - Madrid</FullName>
+        <Name>USE - Madrid</Name>
+        <Id>use-madrid-us-embassy-madrid-madrid-spain</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-barcelona-us-consulate-general-barcelona-barcelona-spain</Url>
+        <FullName>US Consulate General - Barcelona</FullName>
+        <Name>USCG - Barcelona</Name>
+        <Id>uscg-barcelona-us-consulate-general-barcelona-barcelona-spain</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-lisbon-us-embassy-lisbon-lisbon-portugal</Url>
+        <FullName>US Embassy - Lisbon</FullName>
+        <Name>USE - Lisbon</Name>
+        <Id>use-lisbon-us-embassy-lisbon-lisbon-portugal</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usc-ponta-delgada-us-consulate-ponta-delgada-ponta-delgada-portugal</Url>
+        <FullName>US Consulate - Ponta Delgada</FullName>
+        <Name>USC - Ponta Delgada</Name>
+        <Id>usc-ponta-delgada-us-consulate-ponta-delgada-ponta-delgada-portugal</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-rome-us-embassy-rome-rome-italy</Url>
+        <FullName>US Embassy - Rome</FullName>
+        <Name>USE - Rome</Name>
+        <Id>use-rome-us-embassy-rome-rome-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-florence-us-consulate-general-florence-florence-italy</Url>
+        <FullName>US Consulate General - Florence</FullName>
+        <Name>USCG - Florence</Name>
+        <Id>uscg-florence-us-consulate-general-florence-florence-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-milan-us-consulate-general-milan-milan-italy</Url>
+        <FullName>US Consulate General - Milan</FullName>
+        <Name>USCG - Milan</Name>
+        <Id>uscg-milan-us-consulate-general-milan-milan-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-naples-us-consulate-general-naples-naples-italy</Url>
+        <FullName>US Consulate General - Naples</FullName>
+        <Name>USCG - Naples</Name>
+        <Id>uscg-naples-us-consulate-general-naples-naples-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-genoa-us-consular-agency-genoa-genoa-italy</Url>
+        <FullName>US Consular Agency - Genoa</FullName>
+        <Name>USCA - Genoa</Name>
+        <Id>usca-genoa-us-consular-agency-genoa-genoa-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-palermo-us-consular-agency-palermo-palermo-italy</Url>
+        <FullName>US Consular Agency - Palermo</FullName>
+        <Name>USCA - Palermo</Name>
+        <Id>usca-palermo-us-consular-agency-palermo-palermo-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usca-venice-us-consular-agency-venice-venice-italy</Url>
+        <FullName>US Consular Agency - Venice</FullName>
+        <Name>USCA - Venice</Name>
+        <Id>usca-venice-us-consular-agency-venice-venice-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tirana-us-embassy-tirana-tirana-albania</Url>
+        <FullName>US Embassy - Tirana</FullName>
+        <Name>USE - Tirana</Name>
+        <Id>use-tirana-us-embassy-tirana-tirana-albania</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-pristina-us-embassy-pristina-pristina-kosovo</Url>
+        <FullName>US Embassy - Pristina</FullName>
+        <Name>USE - Pristina</Name>
+        <Id>use-pristina-us-embassy-pristina-pristina-kosovo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-skopje-us-embassy-skopje-skopje-macedonia</Url>
+        <FullName>US Embassy - Skopje</FullName>
+        <Name>USE - Skopje</Name>
+        <Id>use-skopje-us-embassy-skopje-skopje-macedonia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-valletta-us-embassy-valletta-valletta-malta</Url>
+        <FullName>US Embassy - Valletta</FullName>
+        <Name>USE - Valletta</Name>
+        <Id>use-valletta-us-embassy-valletta-valletta-malta</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-podgorica-us-embassy-podgorica-podgorica-montenegro</Url>
+        <FullName>US Embassy - Podgorica</FullName>
+        <Name>USE - Podgorica</Name>
+        <Id>use-podgorica-us-embassy-podgorica-podgorica-montenegro</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-nicosia-us-embassy-nicosia-nicosia-cyprus</Url>
+        <FullName>US Embassy - Nicosia</FullName>
+        <Name>USE - Nicosia</Name>
+        <Id>use-nicosia-us-embassy-nicosia-nicosia-cyprus</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-madrid-us-embassy-madrid-madrid-spain</Url>
+    <NameNode>US Embassy - Madrid, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Madrid, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Madrid, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Madrid</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Madrid, Spain</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/madrid-spain</Url>
+        <Id>madrid-spain</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-barcelona-us-consulate-general-barcelona-barcelona-spain</Url>
+    <NameNode>US Consulate General - Barcelona, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Barcelona, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Barcelona, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barcelona</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barcelona, Spain</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barcelona-spain</Url>
+        <Id>barcelona-spain</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-lisbon-us-embassy-lisbon-lisbon-portugal</Url>
+    <NameNode>US Embassy - Lisbon, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Lisbon, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Lisbon, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lisbon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Lisbon, Portugal</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/lisbon-portugal</Url>
+        <Id>lisbon-portugal</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usc-ponta-delgada-us-consulate-ponta-delgada-ponta-delgada-portugal</Url>
+    <NameNode>US Consulate - Ponta Delgada, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate - Ponta Delgada, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate - Ponta Delgada, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ponta Delgada</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ponta Delgada, Portugal</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ponta-delgada-portugal</Url>
+        <Id>ponta-delgada-portugal</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-rome-us-embassy-rome-rome-italy</Url>
+    <NameNode>US Embassy - Rome, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Rome, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Rome, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rome</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rome, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rome-italy</Url>
+        <Id>rome-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-florence-us-consulate-general-florence-florence-italy</Url>
+    <NameNode>US Consulate General - Florence, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Florence, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Florence, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Florence</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Florence, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/florence-italy</Url>
+        <Id>florence-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-milan-us-consulate-general-milan-milan-italy</Url>
+    <NameNode>US Consulate General - Milan, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Milan, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Milan, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Milan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milan, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/milan-italy</Url>
+        <Id>milan-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-naples-us-consulate-general-naples-naples-italy</Url>
+    <NameNode>US Consulate General - Naples, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Naples, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Naples, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naples</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naples, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naples-italy</Url>
+        <Id>naples-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-genoa-us-consular-agency-genoa-genoa-italy</Url>
+    <NameNode>US Consular Agency - Genoa, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Genoa, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Genoa, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Genoa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Genoa, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/genoa-italy</Url>
+        <Id>genoa-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-palermo-us-consular-agency-palermo-palermo-italy</Url>
+    <NameNode>US Consular Agency - Palermo, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Palermo, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Palermo, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Palermo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Palermo, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/palermo-italy</Url>
+        <Id>palermo-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usca-venice-us-consular-agency-venice-venice-italy</Url>
+    <NameNode>US Consular Agency - Venice, EUCOM Regional Embassies</NameNode>
+    <FullName>Consular Agency - Venice, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consular Agency - Venice, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Venice</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Venice, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/venice-italy</Url>
+        <Id>venice-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tirana-us-embassy-tirana-tirana-albania</Url>
+    <NameNode>US Embassy - Tirana, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tirana, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tirana, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tirana</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tirana, Albania</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tirana-albania</Url>
+        <Id>tirana-albania</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-pristina-us-embassy-pristina-pristina-kosovo</Url>
+    <NameNode>US Embassy - Pristina, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Pristina, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Pristina, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pristina</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pristina, Kosovo</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pristina-kosovo</Url>
+        <Id>pristina-kosovo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-skopje-us-embassy-skopje-skopje-macedonia</Url>
+    <NameNode>US Embassy - Skopje, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Skopje, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Skopje, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Skopje</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Skopje, Macedonia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/skopje-macedonia</Url>
+        <Id>skopje-macedonia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-valletta-us-embassy-valletta-valletta-malta</Url>
+    <NameNode>US Embassy - Valletta, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Valletta, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Valletta, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Valletta</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Valletta, Malta</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/valletta-malta</Url>
+        <Id>valletta-malta</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-podgorica-us-embassy-podgorica-podgorica-montenegro</Url>
+    <NameNode>US Embassy - Podgorica, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Podgorica, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Podgorica, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Podgorica</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Podgorica, Montenegro</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/podgorica-montenegro</Url>
+        <Id>podgorica-montenegro</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-nicosia-us-embassy-nicosia-nicosia-cyprus</Url>
+    <NameNode>US Embassy - Nicosia, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Nicosia, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Nicosia, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nicosia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nicosia, Cyprus</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nicosia-cyprus</Url>
+        <Id>nicosia-cyprus</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asia-eucom-regional-embassies-us-european-command</Url>
+    <NameNode>EUCOM Regional Embassies, US European Command</NameNode>
+    <FullName>EUCOM Regional Embassies, European Command</FullName>
+    <SplitName>EUCOM Regional Embassies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bucharest-us-embassy-bucharest-bucharest-romania</Url>
+        <FullName>US Embassy - Bucharest</FullName>
+        <Name>USE - Bucharest</Name>
+        <Id>use-bucharest-us-embassy-bucharest-bucharest-romania</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-moscow-us-embassy-moscow-moscow-russia</Url>
+        <FullName>US Embassy - Moscow</FullName>
+        <Name>USE - Moscow</Name>
+        <Id>use-moscow-us-embassy-moscow-moscow-russia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-saint-petersburg-us-consulate-general-saint-petersburg-st-petersburg-russia</Url>
+        <FullName>US Consulate General - Saint Petersburg</FullName>
+        <Name>USCG - Saint Petersburg</Name>
+        <Id>uscg-saint-petersburg-us-consulate-general-saint-petersburg-st-petersburg-russia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-vladivostok-us-consulate-general-vladivostok-vladivostok-russia</Url>
+        <FullName>US Consulate General - Vladivostok</FullName>
+        <Name>USCG - Vladivostok</Name>
+        <Id>uscg-vladivostok-us-consulate-general-vladivostok-vladivostok-russia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-yekaterinburg-us-consulate-general-yekaterinburg-yekaterinburg-russia</Url>
+        <FullName>US Consulate General - Yekaterinburg</FullName>
+        <Name>USCG - Yekaterinburg</Name>
+        <Id>uscg-yekaterinburg-us-consulate-general-yekaterinburg-yekaterinburg-russia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-bratislava-us-embassy-bratislava-bratislava-slovakia</Url>
+        <FullName>US Embassy - Bratislava</FullName>
+        <Name>USE - Bratislava</Name>
+        <Id>use-bratislava-us-embassy-bratislava-bratislava-slovakia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-ljubljana-us-embassy-ljubljana-ljubljana-slovenia</Url>
+        <FullName>US Embassy - Ljubljana</FullName>
+        <Name>USE - Ljubljana</Name>
+        <Id>use-ljubljana-us-embassy-ljubljana-ljubljana-slovenia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/use-tel-aviv-us-embassy-tel-aviv-tel-aviv-israel</Url>
+        <FullName>US Embassy - Tel Aviv</FullName>
+        <Name>USE - Tel Aviv</Name>
+        <Id>use-tel-aviv-us-embassy-tel-aviv-tel-aviv-israel</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscg-jerusalem-us-consulate-general-jerusalem-jerusalem-israel</Url>
+        <FullName>US Consulate General - Jerusalem</FullName>
+        <Name>USCG - Jerusalem</Name>
+        <Id>uscg-jerusalem-us-consulate-general-jerusalem-jerusalem-israel</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ussc-united-states-security-coordinator-jerusalem-israel</Url>
+        <FullName>United States Security Coordinator</FullName>
+        <Name>USSC</Name>
+        <Id>ussc-united-states-security-coordinator-jerusalem-israel</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bucharest-us-embassy-bucharest-bucharest-romania</Url>
+    <NameNode>US Embassy - Bucharest, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bucharest, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bucharest, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bucharest</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bucharest, Romania</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bucharest-romania</Url>
+        <Id>bucharest-romania</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-moscow-us-embassy-moscow-moscow-russia</Url>
+    <NameNode>US Embassy - Moscow, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Moscow, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Moscow, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Moscow</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Moscow, Russia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/moscow-russia</Url>
+        <Id>moscow-russia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-saint-petersburg-us-consulate-general-saint-petersburg-st-petersburg-russia</Url>
+    <NameNode>US Consulate General - Saint Petersburg, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Saint Petersburg, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Saint Petersburg, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>St. Petersburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St. Petersburg, Russia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/st-petersburg-russia</Url>
+        <Id>st-petersburg-russia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-vladivostok-us-consulate-general-vladivostok-vladivostok-russia</Url>
+    <NameNode>US Consulate General - Vladivostok, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Vladivostok, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Vladivostok, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vladivostok</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vladivostok, Russia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vladivostok-russia</Url>
+        <Id>vladivostok-russia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-yekaterinburg-us-consulate-general-yekaterinburg-yekaterinburg-russia</Url>
+    <NameNode>US Consulate General - Yekaterinburg, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Yekaterinburg, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Yekaterinburg, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yekaterinburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yekaterinburg, Russia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yekaterinburg-russia</Url>
+        <Id>yekaterinburg-russia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-bratislava-us-embassy-bratislava-bratislava-slovakia</Url>
+    <NameNode>US Embassy - Bratislava, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Bratislava, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Bratislava, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bratislava</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bratislava, Slovakia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bratislava-slovakia</Url>
+        <Id>bratislava-slovakia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-ljubljana-us-embassy-ljubljana-ljubljana-slovenia</Url>
+    <NameNode>US Embassy - Ljubljana, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Ljubljana, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Ljubljana, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ljubljana</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Ljubljana, Slovenia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/ljubljana-slovenia</Url>
+        <Id>ljubljana-slovenia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/use-tel-aviv-us-embassy-tel-aviv-tel-aviv-israel</Url>
+    <NameNode>US Embassy - Tel Aviv, EUCOM Regional Embassies</NameNode>
+    <FullName>Embassy - Tel Aviv, EUCOM Regional Embassies</FullName>
+    <SplitName>US Embassy - Tel Aviv, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tel Aviv</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tel Aviv, Israel</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tel-aviv-israel</Url>
+        <Id>tel-aviv-israel</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscg-jerusalem-us-consulate-general-jerusalem-jerusalem-israel</Url>
+    <NameNode>US Consulate General - Jerusalem, EUCOM Regional Embassies</NameNode>
+    <FullName>Consulate General - Jerusalem, EUCOM Regional Embassies</FullName>
+    <SplitName>US Consulate General - Jerusalem, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jerusalem</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jerusalem, Israel</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jerusalem-israel</Url>
+        <Id>jerusalem-israel</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ussc-united-states-security-coordinator-jerusalem-israel</Url>
+    <NameNode>United States Security Coordinator, EUCOM Regional Embassies</NameNode>
+    <FullName>United States Security Coordinator, EUCOM Regional Embassies</FullName>
+    <SplitName>United States Security Coordinator, EUCOM Regional Embassies</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/441/small/statedept.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jerusalem</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jerusalem, Israel</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jerusalem-israel</Url>
+        <Id>jerusalem-israel</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marshall-center-george-c-marshall-european-center-for-security-studies-garmisch-germany</Url>
+    <NameNode>George C. Marshall European Center for Security Studies, US European Command</NameNode>
+    <FullName>George C. Marshall European Center for Security Studies, European Command</FullName>
+    <SplitName>George C. Marshall European Center for Security Studies, US European Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/026/small/eurcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Garmisch</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Garmisch, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/garmisch-germany</Url>
+        <Id>garmisch-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>
