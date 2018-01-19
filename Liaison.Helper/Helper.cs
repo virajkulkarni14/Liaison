@@ -8,6 +8,10 @@ namespace Liaison.Helper
 {
     public class Helper
     {
+        public static string AddOrdinal (string num)
+        {
+            return AddOrdinal(int.Parse(num));
+        }
         public static string AddOrdinal(int num)
         {
             if (num <= 0) return num.ToString();

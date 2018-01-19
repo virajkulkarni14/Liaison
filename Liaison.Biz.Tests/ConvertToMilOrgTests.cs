@@ -176,7 +176,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(null, hhqbn.Number);
             Assert.IsFalse(hhqbn.UseOrdinal);
             Assert.AreEqual("Headquarters and Headquarters", hhqbn.Mission);
-            Assert.AreEqual("Headquarters and Headquarters Bn., ____1 Inf. Div.", hhqbn.GetFullName());
+            Assert.AreEqual("Headquarters and Headquarters Bn., ____1st Inf. Div.", hhqbn.GetFullName());
             Assert.AreEqual("us/army/1-id/hhbn", hhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1-id/hhbn", hhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hhqbn.CurrentOpsLogo);
@@ -634,7 +634,7 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(3, bct_76.ShortForm.Count);
 
-            Assert.AreEqual("___76 Inf. BCT", bct_76.ShortForm[0].Text);
+            Assert.AreEqual("___76 (V) INF. BCT", bct_76.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, bct_76.ShortForm[0].Type);
 
             Assert.AreEqual("G*INF___76", bct_76.ShortForm[1].Text);
@@ -742,7 +742,7 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.AC_RC, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
 
             Assert.AreEqual(1, army1.Bases.Count);
 
@@ -829,7 +829,7 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.AC_RC, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
             Assert.AreEqual(null, army1.USState);
 
             Assert.AreEqual(1, army1.Bases.Count);

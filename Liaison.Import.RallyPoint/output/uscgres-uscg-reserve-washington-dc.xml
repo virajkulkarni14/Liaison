@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscgres-uscg-reserve-washington-dc</Url>
+    <NameNode>USCG Reserve</NameNode>
+    <FullName>USCG Reserve</FullName>
+    <SplitName>USCG Reserve</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/481/small/cgreserve.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

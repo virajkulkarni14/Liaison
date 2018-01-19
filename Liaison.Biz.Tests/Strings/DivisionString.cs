@@ -19,7 +19,7 @@ Division West, 1st Army U.S. Army
 <SplitName>Division West, 1st Army</SplitName>
 <Service>U.S. Army</Service>
 <LogoUrl>
-https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.
+https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.png
 </LogoUrl>
 <Locations>
 <LocationObject>
@@ -109,6 +109,8 @@ Headquarters and Headquarters Detachment, Division West, 1st Army
 <IsIndirect>false</IsIndirect>
 </SubUnitObject>
 </Children>
+<UnitService>Army</UnitService>
+<UnitComponent>Active</UnitComponent>
 </CurrentOpsObject>";
         public static string army_1_div_east = @"<CurrentOpsObject>
 <Url>
@@ -121,7 +123,7 @@ Division East, 1st Army U.S. Army
 <SplitName>Division East, 1st Army</SplitName>
 <Service>U.S. Army</Service>
 <LogoUrl>
-https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.
+https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.png
 </LogoUrl>
 <Locations>
 <LocationObject>
@@ -227,6 +229,8 @@ https://currentops.com/unit/us/army/177-armored-bde
 <IsIndirect>false</IsIndirect>
 </SubUnitObject>
 </Children>
+<UnitService>Army</UnitService>
+<UnitComponent>Active</UnitComponent>
 </CurrentOpsObject>";
         public static string infantrydivision_38id = @"<CurrentOpsObject><Url>https://currentops.com/unit/us/army/38-id</Url><NameNode>38th Infantry Division
                             U.S. Army</NameNode><FullName>38th Infantry Division, U.S. Army</FullName><SplitName>38th Infantry Division</SplitName><Service>U.S. Army</Service><LogoUrl>https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUQgMDAzOA.png</LogoUrl><Locations><LocationObject><DateRange>... - Present</DateRange><BaseName>Division Armory</BaseName><Deployment>false</Deployment><Location>Indianapolis, Indiana, United States</Location><IsCurrent>true</IsCurrent><Url>https://currentops.com/installations/us/in/division-armory</Url><Id>us/in/division-armory</Id></LocationObject></Locations><HigherHq><HigherHqObject><Url>https://currentops.com/unit/us/army/jfhq-in/arng-elt</Url><Id>us/army/jfhq-in/arng-elt</Id><DateRange/><IsCurrent>false</IsCurrent><HHQAcronym>ARNG Elt, JFHQ Indiana</HHQAcronym><Name>Army National Guard Element, Joint Force Headquarters Indiana</Name></HigherHqObject></HigherHq><Children><SubUnitObject><Url>https://currentops.com/unit/us/army/38-id/hhbn</Url><FullName>Headquarters and Headquarters Battalion, 38th Infantry Division</FullName><Name>Headquarters and Headquarters Battalion</Name><Id>us/army/38-id/hhbn</Id><IsIndirect>false</IsIndirect></SubUnitObject><SubUnitObject><Url>https://currentops.com/unit/us/army/76-ibct</Url><FullName>76th Infantry Brigade Combat Team</FullName><Name>76th Infantry Brigade Combat Team</Name><Id>us/army/76-ibct</Id><IsIndirect>false</IsIndirect></SubUnitObject><SubUnitObject><Url>https://currentops.com/unit/us/army/37-ibct</Url><FullName>37th Infantry Brigade Combat Team</FullName><Name>37th Infantry Brigade Combat Team

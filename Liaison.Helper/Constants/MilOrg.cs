@@ -14,6 +14,7 @@ namespace Liaison.Helper.Constants
         public const string Armoured = "Armoured";
         public const string Cavalry = "Cavalry";
         public const string HH = "Headquarters and Headquarters";
+        public const string HS = "Headquarters and Support";
 
         public const string Command = "Command";
         public const string FieldArmy = "Army";
@@ -29,6 +30,17 @@ namespace Liaison.Helper.Constants
         public const string DetachmentHHD = HH + " " + Detachment;
 
     }
+    public class Initials
+    {
+        public static string HH = "HH";
+        public static string HS = "HS";
+
+        public static string HHD = HH + ShortForm.Detachment.First().ToString();
+        public static string HHC = HH + ShortForm.Company.First().ToString();
+        public static string HHB = HH + ShortForm.Battalion.First().ToString();
+
+        public static string HSC = HS + ShortForm.Company.First().ToString();
+    }
     public class ShortForm
     {
         public const char Army = 'G';
@@ -43,7 +55,14 @@ namespace Liaison.Helper.Constants
         public const string Infantry = "Inf";
         public const string Armoured = "Arm";
         public const string Cavalry = "Cav";
-        public static string HHD = "HHD";
+        public const string HH = "HQ & HQ";
+        public const string HS = "HQ & Supt";
+
+
+        public static string HHC = HH + " " + Company;
+        public static string HHD = HH + " " + Detachment;
+        public static string HSC = HS + ". " + Company;
+        
 
         //CSA
 

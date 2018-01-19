@@ -17,11 +17,12 @@ namespace Liaison.Biz.MilOrgs
             {
                 sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
             }
+
             sb.Append(Mission + " ");
             sb.Append(Helper.Constants.ShortForm.Battalion + "., ");
             if (!string.IsNullOrEmpty(ParentShortForm))
             {
-                sb.Append(ParentShortForm.ToUpper());
+                sb.Append(ParentShortForm);
             }
             return sb.ToString();
         }
@@ -36,13 +37,10 @@ namespace Liaison.Biz.MilOrgs
         public List<BaseOrg> Bases { get; set; }
         public List<HigherHqOrg> HigherHqs { get; set; }
         public ServiceType ServiceTypeIdx { get; set; }
-       public List<ShortForm> ShortForm { get; set; }
+        public List<ShortForm> ShortForm { get; set; }
         public string Name { get; set; }
-
-        public List<ChildOrg> ChildOrgs => throw new NotImplementedException();
-
-        string IMilitaryOrg.USState { get; }
-
-        public string USState =null;
+        public List<ChildOrg> ChildOrgs { get; set; }
+        public string USState { get; set; }
     }
 }
+

@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/lantarea-uscg-atlantic-area-command-portsmouth-va</Url>
+    <NameNode>USCG Atlantic Area Command</NameNode>
+    <FullName>USCG Atlantic Area Command</FullName>
+    <SplitName>USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/447/small/cgatlantic.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Portsmouth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/portsmouth-va</Url>
+        <Id>portsmouth-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1st-district-uscg-1st-district-boston-ma</Url>
+        <FullName>USCG 1st District</FullName>
+        <Name>1st District</Name>
+        <Id>1st-district-uscg-1st-district-boston-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5th-district-uscg-5th-district-portsmouth-va</Url>
+        <FullName>USCG 5th District</FullName>
+        <Name>5th District</Name>
+        <Id>5th-district-uscg-5th-district-portsmouth-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/7th-district-uscg-7th-district-miami-fl</Url>
+        <FullName>USCG 7th District</FullName>
+        <Name>7th District</Name>
+        <Id>7th-district-uscg-7th-district-miami-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/8th-district-uscg-8th-district-new-orleans-la</Url>
+        <FullName>USCG 8th District</FullName>
+        <Name>8th District</Name>
+        <Id>8th-district-uscg-8th-district-new-orleans-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/9th-district-uscg-9th-district-cleveland-oh</Url>
+        <FullName>USCG 9th District</FullName>
+        <Name>9th District</Name>
+        <Id>9th-district-uscg-9th-district-cleveland-oh</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/acteur-uscg-activities-europe-rotterdam-netherlands</Url>
+        <FullName>USCG Activities Europe</FullName>
+        <Name>ACTEUR</Name>
+        <Id>acteur-uscg-activities-europe-rotterdam-netherlands</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/patforswa-uscg-patrol-forces-southwest-asia-portsmouth-va</Url>
+        <FullName>USCG Patrol Forces Southwest Asia</FullName>
+        <Name>PATFORSWA</Name>
+        <Id>patforswa-uscg-patrol-forces-southwest-asia-portsmouth-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hitron-helicopter-interdiction-tactical-squadron</Url>
+        <FullName>Helicopter Interdiction Tactical Squadron</FullName>
+        <Name>HITRON</Name>
+        <Id>hitron-helicopter-interdiction-tactical-squadron</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1st-district-uscg-1st-district-boston-ma</Url>
+    <NameNode>USCG 1st District, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG 1st District, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG 1st District, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/449/small/cg1stdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Boston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boston, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/boston-ma</Url>
+        <Id>boston-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5th-district-uscg-5th-district-portsmouth-va</Url>
+    <NameNode>USCG 5th District, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG 5th District, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG 5th District, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/450/small/cg5thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Portsmouth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/portsmouth-va</Url>
+        <Id>portsmouth-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/7th-district-uscg-7th-district-miami-fl</Url>
+    <NameNode>USCG 7th District, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG 7th District, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG 7th District, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/451/small/cg7thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Miami</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Miami, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/miami-fl</Url>
+        <Id>miami-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/8th-district-uscg-8th-district-new-orleans-la</Url>
+    <NameNode>USCG 8th District, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG 8th District, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG 8th District, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/452/small/cg8thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>New Orleans</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Orleans, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/new-orleans-la</Url>
+        <Id>new-orleans-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/9th-district-uscg-9th-district-cleveland-oh</Url>
+    <NameNode>USCG 9th District, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG 9th District, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG 9th District, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/453/small/cg9thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cleveland</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cleveland, OH</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cleveland-oh</Url>
+        <Id>cleveland-oh</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/acteur-uscg-activities-europe-rotterdam-netherlands</Url>
+    <NameNode>USCG Activities Europe, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG Activities Europe, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG Activities Europe, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/479/small/acteur.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rotterdam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rotterdam, Netherlands</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rotterdam-netherlands</Url>
+        <Id>rotterdam-netherlands</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/patforswa-uscg-patrol-forces-southwest-asia-portsmouth-va</Url>
+    <NameNode>USCG Patrol Forces Southwest Asia, USCG Atlantic Area Command</NameNode>
+    <FullName>USCG Patrol Forces Southwest Asia, USCG Atlantic Area Command</FullName>
+    <SplitName>USCG Patrol Forces Southwest Asia, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/570/small/patforswa.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Portsmouth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/portsmouth-va</Url>
+        <Id>portsmouth-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tte-training-team-east-portsmouth-va</Url>
+        <FullName>Training Team East</FullName>
+        <Name>TTE</Name>
+        <Id>tte-training-team-east-portsmouth-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/comslant-communications-area-master-station-atlantic-chesapeake-va</Url>
+        <FullName>Communications Area Master Station Atlantic</FullName>
+        <Name>COMSLANT</Name>
+        <Id>comslant-communications-area-master-station-atlantic-chesapeake-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uscgc-aquidneck-wpb-1309-uscgc-aquidneck-wpb-1309-patforswa-lantarea-usa</Url>
+        <FullName>USCGC Aquidneck (WPB-1309), PATFORSWA, LANTAREA, USA</FullName>
+        <Name>USCGC Aquidneck (WPB-1309)</Name>
+        <Id>uscgc-aquidneck-wpb-1309-uscgc-aquidneck-wpb-1309-patforswa-lantarea-usa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tte-training-team-east-portsmouth-va</Url>
+    <NameNode>Training Team East, USCG Patrol Forces Southwest Asia</NameNode>
+    <FullName>Training Team East, USCG Patrol Forces Southwest Asia</FullName>
+    <SplitName>Training Team East, USCG Patrol Forces Southwest Asia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/570/small/patforswa.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Portsmouth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portsmouth, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/portsmouth-va</Url>
+        <Id>portsmouth-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/comslant-communications-area-master-station-atlantic-chesapeake-va</Url>
+    <NameNode>Communications Area Master Station Atlantic, USCG Patrol Forces Southwest Asia</NameNode>
+    <FullName>Communications Area Master Station Atlantic, USCG Patrol Forces Southwest Asia</FullName>
+    <SplitName>Communications Area Master Station Atlantic, USCG Patrol Forces Southwest Asia</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/570/small/patforswa.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chesapeake</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chesapeake, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chesapeake-va</Url>
+        <Id>chesapeake-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscgc-aquidneck-wpb-1309-uscgc-aquidneck-wpb-1309-patforswa-lantarea-usa</Url>
+    <NameNode>USCGC Aquidneck (WPB-1309), PATFORSWA, LANTAREA, USA, USCG Patrol Forces Southwest Asia</NameNode>
+    <FullName>USCGC Aquidneck (WPB-1309), PATFORSWA, LANTAREA, USA, USCG Patrol Forces Southwest Asia</FullName>
+    <SplitName>USCGC Aquidneck (WPB-1309), PATFORSWA, LANTAREA, USA, USCG Patrol Forces Southwest Asia</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Manama</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Manama, Bahrain</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/manama-bahrain</Url>
+        <Id>manama-bahrain</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hitron-helicopter-interdiction-tactical-squadron</Url>
+    <NameNode>Helicopter Interdiction Tactical Squadron, USCG Atlantic Area Command</NameNode>
+    <FullName>Helicopter Interdiction Tactical Squadron, USCG Atlantic Area Command</FullName>
+    <SplitName>Helicopter Interdiction Tactical Squadron, USCG Atlantic Area Command</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jacksonville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jacksonville, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jacksonville-fl</Url>
+        <Id>jacksonville-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

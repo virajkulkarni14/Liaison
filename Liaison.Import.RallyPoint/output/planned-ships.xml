@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/planned-ships</Url>
+    <NameNode>Planned Ships</NameNode>
+    <FullName>Planned Ships</FullName>
+    <SplitName>Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uss-gerald-r-ford-cvn-78</Url>
+        <FullName>USS Gerald R. Ford (CVN-78)</FullName>
+        <Name>USS Gerald R. Ford (CVN-78)</Name>
+        <Id>uss-gerald-r-ford-cvn-78</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uss-little-rock-lcs-9</Url>
+        <FullName>USS Little Rock (LCS-9)</FullName>
+        <Name>USS Little Rock (LCS-9)</Name>
+        <Id>uss-little-rock-lcs-9</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uss-portland-lpd-27</Url>
+        <FullName>USS Portland (LPD-27)</FullName>
+        <Name>USS Portland (LPD-27)</Name>
+        <Id>uss-portland-lpd-27</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uss-carl-m-levin-ddg-120-uss-carl-m-levin-ddg-11x-bath-me</Url>
+        <FullName>USS Carl M. Levin (DDG-120)</FullName>
+        <Name>USS Carl M. Levin (DDG-120)</Name>
+        <Id>uss-carl-m-levin-ddg-120-uss-carl-m-levin-ddg-11x-bath-me</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uss-wichita-lcs-13</Url>
+        <FullName>USS Wichita (LCS-13)</FullName>
+        <Name>USS Wichita (LCS-13)</Name>
+        <Id>uss-wichita-lcs-13</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/uss-michael-monsoor-ddg-1001</Url>
+        <FullName>USS Michael Monsoor (DDG-1001)</FullName>
+        <Name>USS Michael Monsoor (DDG-1001)</Name>
+        <Id>uss-michael-monsoor-ddg-1001</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uss-gerald-r-ford-cvn-78</Url>
+    <NameNode>USS Gerald R. Ford (CVN-78), Planned Ships</NameNode>
+    <FullName>USS Gerald R. Ford (CVN-78), Planned Ships</FullName>
+    <SplitName>USS Gerald R. Ford (CVN-78), Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uss-little-rock-lcs-9</Url>
+    <NameNode>USS Little Rock (LCS-9), Planned Ships</NameNode>
+    <FullName>USS Little Rock (LCS-9), Planned Ships</FullName>
+    <SplitName>USS Little Rock (LCS-9), Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uss-portland-lpd-27</Url>
+    <NameNode>USS Portland (LPD-27), Planned Ships</NameNode>
+    <FullName>USS Portland (LPD-27), Planned Ships</FullName>
+    <SplitName>USS Portland (LPD-27), Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uss-carl-m-levin-ddg-120-uss-carl-m-levin-ddg-11x-bath-me</Url>
+    <NameNode>USS Carl M. Levin (DDG-120), Planned Ships</NameNode>
+    <FullName>USS Carl M. Levin (DDG-120), Planned Ships</FullName>
+    <SplitName>USS Carl M. Levin (DDG-120), Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bath</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bath, ME</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bath-me</Url>
+        <Id>bath-me</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uss-wichita-lcs-13</Url>
+    <NameNode>USS Wichita (LCS-13), Planned Ships</NameNode>
+    <FullName>USS Wichita (LCS-13), Planned Ships</FullName>
+    <SplitName>USS Wichita (LCS-13), Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uss-michael-monsoor-ddg-1001</Url>
+    <NameNode>USS Michael Monsoor (DDG-1001), Planned Ships</NameNode>
+    <FullName>USS Michael Monsoor (DDG-1001), Planned Ships</FullName>
+    <SplitName>USS Michael Monsoor (DDG-1001), Planned Ships</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bath</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bath, ME</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bath-me</Url>
+        <Id>bath-me</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

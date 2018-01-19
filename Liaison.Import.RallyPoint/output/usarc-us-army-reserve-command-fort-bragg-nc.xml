@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarc-us-army-reserve-command-fort-bragg-nc</Url>
+    <NameNode>US Army Reserve Command</NameNode>
+    <FullName>Army Reserve Command</FullName>
+    <SplitName>US Army Reserve Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/group_logo_images/images/000/053/527/medium/a63729ae.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usarc-hq-us-army-reserve-command-headquarters-fort-bragg-nc</Url>
+        <FullName>US Army Reserve Command Headquarters</FullName>
+        <Name>USARC HQ</Name>
+        <Id>usarc-hq-us-army-reserve-command-headquarters-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarc-hq-us-army-reserve-command-headquarters-fort-bragg-nc</Url>
+    <NameNode>US Army Reserve Command Headquarters, US Army Reserve Command</NameNode>
+    <FullName>Army Reserve Command Headquarters, Army Reserve Command</FullName>
+    <SplitName>US Army Reserve Command Headquarters, US Army Reserve Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/383/small/usarc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

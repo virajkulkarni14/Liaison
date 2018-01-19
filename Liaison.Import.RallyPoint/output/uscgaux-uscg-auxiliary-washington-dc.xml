@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/uscgaux-uscg-auxiliary-washington-dc</Url>
+    <NameNode>USCG Auxiliary</NameNode>
+    <FullName>USCG Auxiliary</FullName>
+    <SplitName>USCG Auxiliary</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/480/small/cgaux.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

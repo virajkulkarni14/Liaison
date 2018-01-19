@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pacarea-uscg-pacific-area-command-alameda-ca</Url>
+    <NameNode>USCG Pacific Area Command</NameNode>
+    <FullName>USCG Pacific Area Command</FullName>
+    <SplitName>USCG Pacific Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/448/small/cgpacific.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Alameda</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Alameda, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/alameda-ca</Url>
+        <Id>alameda-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/11th-district-uscg-11th-district-alameda-ca</Url>
+        <FullName>USCG 11th District</FullName>
+        <Name>11th District</Name>
+        <Id>11th-district-uscg-11th-district-alameda-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/13th-district-uscg-13th-district-seattle-wa</Url>
+        <FullName>USCG 13th District</FullName>
+        <Name>13th District</Name>
+        <Id>13th-district-uscg-13th-district-seattle-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/14th-district-uscg-14th-district-honolulu-hi</Url>
+        <FullName>USCG 14th District</FullName>
+        <Name>14th District</Name>
+        <Id>14th-district-uscg-14th-district-honolulu-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/17th-district-uscg-17th-district-juneau-ak</Url>
+        <FullName>USCG 17th District</FullName>
+        <Name>17th District</Name>
+        <Id>17th-district-uscg-17th-district-juneau-ak</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/feact-uscg-activities-far-east-yokota-ab-japan</Url>
+        <FullName>USCG Activities Far East</FullName>
+        <Name>FEACT</Name>
+        <Id>feact-uscg-activities-far-east-yokota-ab-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/11th-district-uscg-11th-district-alameda-ca</Url>
+    <NameNode>USCG 11th District, USCG Pacific Area Command</NameNode>
+    <FullName>USCG 11th District, USCG Pacific Area Command</FullName>
+    <SplitName>USCG 11th District, USCG Pacific Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/454/small/cg11thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Alameda</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Alameda, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/alameda-ca</Url>
+        <Id>alameda-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/13th-district-uscg-13th-district-seattle-wa</Url>
+    <NameNode>USCG 13th District, USCG Pacific Area Command</NameNode>
+    <FullName>USCG 13th District, USCG Pacific Area Command</FullName>
+    <SplitName>USCG 13th District, USCG Pacific Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/455/small/cg13thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Seattle</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Seattle, WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/seattle-wa</Url>
+        <Id>seattle-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/14th-district-uscg-14th-district-honolulu-hi</Url>
+    <NameNode>USCG 14th District, USCG Pacific Area Command</NameNode>
+    <FullName>USCG 14th District, USCG Pacific Area Command</FullName>
+    <SplitName>USCG 14th District, USCG Pacific Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/456/small/cg14thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Honolulu</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Honolulu, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/honolulu-hi</Url>
+        <Id>honolulu-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/17th-district-uscg-17th-district-juneau-ak</Url>
+    <NameNode>USCG 17th District, USCG Pacific Area Command</NameNode>
+    <FullName>USCG 17th District, USCG Pacific Area Command</FullName>
+    <SplitName>USCG 17th District, USCG Pacific Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/457/small/cg17thdist.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Juneau</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Juneau, AK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/juneau-ak</Url>
+        <Id>juneau-ak</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/feact-uscg-activities-far-east-yokota-ab-japan</Url>
+    <NameNode>USCG Activities Far East, USCG Pacific Area Command</NameNode>
+    <FullName>USCG Activities Far East, USCG Pacific Area Command</FullName>
+    <SplitName>USCG Activities Far East, USCG Pacific Area Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/478/small/feact.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yokota AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yokota AB, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yokota-ab-japan</Url>
+        <Id>yokota-ab-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/midet-marine-inspection-detachment-yokota-ab-japan</Url>
+        <FullName>Marine Inspection Detachment</FullName>
+        <Name>MIDET</Name>
+        <Id>midet-marine-inspection-detachment-yokota-ab-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fedet-seoul-feact-detachment-seoul-seoul-south-korea</Url>
+        <FullName>FEACT Detachment Seoul</FullName>
+        <Name>FEDET Seoul</Name>
+        <Id>fedet-seoul-feact-detachment-seoul-seoul-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/midet-marine-inspection-detachment-yokota-ab-japan</Url>
+    <NameNode>Marine Inspection Detachment, USCG Activities Far East</NameNode>
+    <FullName>Marine Inspection Detachment, USCG Activities Far East</FullName>
+    <SplitName>Marine Inspection Detachment, USCG Activities Far East</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/478/small/feact.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yokota AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yokota AB, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yokota-ab-japan</Url>
+        <Id>yokota-ab-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fedet-seoul-feact-detachment-seoul-seoul-south-korea</Url>
+    <NameNode>FEACT Detachment Seoul, USCG Activities Far East</NameNode>
+    <FullName>FEACT Detachment Seoul, USCG Activities Far East</FullName>
+    <SplitName>FEACT Detachment Seoul, USCG Activities Far East</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/478/small/feact.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Seoul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Seoul, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/seoul-south-korea</Url>
+        <Id>seoul-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

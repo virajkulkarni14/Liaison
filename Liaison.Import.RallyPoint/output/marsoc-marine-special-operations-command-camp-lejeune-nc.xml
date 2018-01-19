@@ -1,0 +1,731 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marsoc-marine-special-operations-command-camp-lejeune-nc</Url>
+    <NameNode>Marine Special Operations Command</NameNode>
+    <FullName>Marine Special Operations Command</FullName>
+    <SplitName>Marine Special Operations Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/group_logo_images/images/000/029/288/medium/542be449.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mrsb-marine-raider-support-group-camp-lejeune-nc</Url>
+        <FullName>Marine Raider Support Battalion</FullName>
+        <Name>MRSB</Name>
+        <Id>mrsb-marine-raider-support-group-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/msos-marine-special-operations-school-camp-lejeune-nc</Url>
+        <FullName>Marine Special Operations School</FullName>
+        <Name>MSOS</Name>
+        <Id>msos-marine-special-operations-school-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mrr-marine-raider-regiment-camp-lejeune-nc</Url>
+        <FullName>Marine Raider Regiment</FullName>
+        <Name>MRR</Name>
+        <Id>mrr-marine-raider-regiment-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mrsb-marine-raider-support-group-camp-lejeune-nc</Url>
+    <NameNode>Marine Raider Support Battalion, Marine Special Operations Command</NameNode>
+    <FullName>Marine Raider Support Battalion, Marine Special Operations Command</FullName>
+    <SplitName>Marine Raider Support Battalion, Marine Special Operations Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1st-mrsb-combat-support-battalion-camp-lejeune-nc</Url>
+        <FullName>1st Raider Support Battalion</FullName>
+        <Name>1st MRSB</Name>
+        <Id>1st-mrsb-combat-support-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2nd-mrsb-marine-corps-augmentation-and-training-support-unit-mcb-quantico-va</Url>
+        <FullName>2nd Marine Raider Support Battalion</FullName>
+        <Name>2nd MRSB</Name>
+        <Id>2nd-mrsb-marine-corps-augmentation-and-training-support-unit-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csb-marine-raider-support-battalion</Url>
+        <FullName>Combat Support Battalion</FullName>
+        <Name>CSB</Name>
+        <Id>csb-marine-raider-support-battalion</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-mrsb-marine-special-operations-intelligence-battalion-camp-lejeune-nc</Url>
+        <FullName>3rd Marine Raider Support Battalion</FullName>
+        <Name>3rd MRSB</Name>
+        <Id>3rd-mrsb-marine-special-operations-intelligence-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mcatsu-marine-raider-support-battalion</Url>
+        <FullName>Marine Corps Action Task Support Unit</FullName>
+        <Name>MCATSU</Name>
+        <Id>mcatsu-marine-raider-support-battalion</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/msoib-marine-raider-support-battalion</Url>
+        <FullName>Marine Special Operations Intelligence Battalion</FullName>
+        <Name>MSOIB</Name>
+        <Id>msoib-marine-raider-support-battalion</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1st-mrsb-combat-support-battalion-camp-lejeune-nc</Url>
+    <NameNode>1st Raider Support Battalion, Marine Raider Support Battalion</NameNode>
+    <FullName>1st Raider Support Battalion, Marine Raider Support Battalion</FullName>
+    <SplitName>1st Raider Support Battalion, Marine Raider Support Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2nd-mrsb-marine-corps-augmentation-and-training-support-unit-mcb-quantico-va</Url>
+    <NameNode>2nd Marine Raider Support Battalion, Marine Raider Support Battalion</NameNode>
+    <FullName>2nd Marine Raider Support Battalion, Marine Raider Support Battalion</FullName>
+    <SplitName>2nd Marine Raider Support Battalion, Marine Raider Support Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csb-marine-raider-support-battalion</Url>
+    <NameNode>Combat Support Battalion, Marine Raider Support Battalion  (Inactive)</NameNode>
+    <FullName>Combat Support Battalion, Marine Raider Support Battalion  (Inactive)</FullName>
+    <SplitName>Combat Support Battalion, Marine Raider Support Battalion  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-mrsb-marine-special-operations-intelligence-battalion-camp-lejeune-nc</Url>
+    <NameNode>3rd Marine Raider Support Battalion, Marine Raider Support Battalion</NameNode>
+    <FullName>3rd Marine Raider Support Battalion, Marine Raider Support Battalion</FullName>
+    <SplitName>3rd Marine Raider Support Battalion, Marine Raider Support Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mcatsu-marine-raider-support-battalion</Url>
+    <NameNode>Marine Corps Action Task Support Unit, Marine Raider Support Battalion  (Inactive)</NameNode>
+    <FullName>Marine Corps Action Task Support Unit, Marine Raider Support Battalion  (Inactive)</FullName>
+    <SplitName>Marine Corps Action Task Support Unit, Marine Raider Support Battalion  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/msoib-marine-raider-support-battalion</Url>
+    <NameNode>Marine Special Operations Intelligence Battalion, Marine Raider Support Battalion  (Inactive)</NameNode>
+    <FullName>Marine Special Operations Intelligence Battalion, Marine Raider Support Battalion  (Inactive)</FullName>
+    <SplitName>Marine Special Operations Intelligence Battalion, Marine Raider Support Battalion  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/560/small/marsoc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/msos-marine-special-operations-school-camp-lejeune-nc</Url>
+    <NameNode>Marine Special Operations School, Marine Special Operations Command</NameNode>
+    <FullName>Marine Special Operations School, Marine Special Operations Command</FullName>
+    <SplitName>Marine Special Operations School, Marine Special Operations Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/562/small/msos.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mrr-marine-raider-regiment-camp-lejeune-nc</Url>
+    <NameNode>Marine Raider Regiment, Marine Special Operations Command</NameNode>
+    <FullName>Marine Raider Regiment, Marine Special Operations Command</FullName>
+    <SplitName>Marine Raider Regiment, Marine Special Operations Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1st-mrb-1st-marine-raider-battalion-camp-pendleton-ca</Url>
+        <FullName>1st Marine Raider Battalion</FullName>
+        <Name>1st MRB</Name>
+        <Id>1st-mrb-1st-marine-raider-battalion-camp-pendleton-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2nd-mrb-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>2nd Marine Raider Battalion</FullName>
+        <Name>2nd MRB</Name>
+        <Id>2nd-mrb-2nd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-mrb-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>3rd Marine Raider Battalion</FullName>
+        <Name>3rd MRB</Name>
+        <Id>3rd-mrb-3rd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1st-mrb-1st-marine-raider-battalion-camp-pendleton-ca</Url>
+    <NameNode>1st Marine Raider Battalion, Marine Raider Regiment</NameNode>
+    <FullName>1st Marine Raider Battalion, Marine Raider Regiment</FullName>
+    <SplitName>1st Marine Raider Battalion, Marine Raider Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Pendleton, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-pendleton-ca</Url>
+        <Id>camp-pendleton-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/h-s-co-headquarters-services-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+        <FullName>Headquarters &amp;amp; Services Company</FullName>
+        <Name>H&amp;amp;S Co</Name>
+        <Id>h-s-co-headquarters-services-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/h-s-co-headquarters-services-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+    <NameNode>Headquarters &amp;amp; Services Company, 1st Marine Raider Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Services Company, 1st Marine Raider Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Services Company, 1st Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Pendleton, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-pendleton-ca</Url>
+        <Id>camp-pendleton-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+    <NameNode>A Company, 1st Marine Raider Battalion</NameNode>
+    <FullName>A Company, 1st Marine Raider Battalion</FullName>
+    <SplitName>A Company, 1st Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Pendleton, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-pendleton-ca</Url>
+        <Id>camp-pendleton-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+    <NameNode>B Company, 1st Marine Raider Battalion</NameNode>
+    <FullName>B Company, 1st Marine Raider Battalion</FullName>
+    <SplitName>B Company, 1st Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Pendleton, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-pendleton-ca</Url>
+        <Id>camp-pendleton-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+    <NameNode>C Company, 1st Marine Raider Battalion</NameNode>
+    <FullName>C Company, 1st Marine Raider Battalion</FullName>
+    <SplitName>C Company, 1st Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Pendleton, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-pendleton-ca</Url>
+        <Id>camp-pendleton-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-1st-marine-special-operations-battalion-camp-pendleton-ca</Url>
+    <NameNode>D Company, 1st Marine Raider Battalion</NameNode>
+    <FullName>D Company, 1st Marine Raider Battalion</FullName>
+    <SplitName>D Company, 1st Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Pendleton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Pendleton, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-pendleton-ca</Url>
+        <Id>camp-pendleton-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2nd-mrb-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>2nd Marine Raider Battalion, Marine Raider Regiment</NameNode>
+    <FullName>2nd Marine Raider Battalion, Marine Raider Regiment</FullName>
+    <SplitName>2nd Marine Raider Battalion, Marine Raider Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/h-s-co-headquarters-services-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>Headquarters &amp;amp; Services Company</FullName>
+        <Name>H&amp;amp;S Co</Name>
+        <Id>h-s-co-headquarters-services-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/h-s-co-headquarters-services-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>Headquarters &amp;amp; Services Company, 2nd Marine Raider Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Services Company, 2nd Marine Raider Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Services Company, 2nd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>A Company, 2nd Marine Raider Battalion</NameNode>
+    <FullName>A Company, 2nd Marine Raider Battalion</FullName>
+    <SplitName>A Company, 2nd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>B Company, 2nd Marine Raider Battalion</NameNode>
+    <FullName>B Company, 2nd Marine Raider Battalion</FullName>
+    <SplitName>B Company, 2nd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>C Company, 2nd Marine Raider Battalion</NameNode>
+    <FullName>C Company, 2nd Marine Raider Battalion</FullName>
+    <SplitName>C Company, 2nd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-2nd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>D Company, 2nd Marine Raider Battalion</NameNode>
+    <FullName>D Company, 2nd Marine Raider Battalion</FullName>
+    <SplitName>D Company, 2nd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-mrb-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>3rd Marine Raider Battalion, Marine Raider Regiment</NameNode>
+    <FullName>3rd Marine Raider Battalion, Marine Raider Regiment</FullName>
+    <SplitName>3rd Marine Raider Battalion, Marine Raider Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/h-s-co-headquarters-services-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>Headquarters &amp;amp; Services Company</FullName>
+        <Name>H&amp;amp;S Co</Name>
+        <Id>h-s-co-headquarters-services-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/h-s-co-headquarters-services-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>Headquarters &amp;amp; Services Company, 3rd Marine Raider Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Services Company, 3rd Marine Raider Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Services Company, 3rd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>A Company, 3rd Marine Raider Battalion</NameNode>
+    <FullName>A Company, 3rd Marine Raider Battalion</FullName>
+    <SplitName>A Company, 3rd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>B Company, 3rd Marine Raider Battalion</NameNode>
+    <FullName>B Company, 3rd Marine Raider Battalion</FullName>
+    <SplitName>B Company, 3rd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>C Company, 3rd Marine Raider Battalion</NameNode>
+    <FullName>C Company, 3rd Marine Raider Battalion</FullName>
+    <SplitName>C Company, 3rd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-3rd-marine-special-operations-battalion-camp-lejeune-nc</Url>
+    <NameNode>D Company, 3rd Marine Raider Battalion</NameNode>
+    <FullName>D Company, 3rd Marine Raider Battalion</FullName>
+    <SplitName>D Company, 3rd Marine Raider Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/561/small/msor.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Lejeune, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-lejeune-nc</Url>
+        <Id>camp-lejeune-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

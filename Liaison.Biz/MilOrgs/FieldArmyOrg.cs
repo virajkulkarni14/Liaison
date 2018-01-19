@@ -32,11 +32,9 @@ namespace Liaison.Biz.MilOrgs
         public List<ShortForm> ShortForm { get; set; }
 
         public List<ChildOrg> ChildOrgs { get; set; }
+        public string USState { get; }
 
-        string IMilitaryOrg.USState => throw new NotImplementedException();
-
-        public string USState =null;
-
+        
         public string GetFullName()
         {
             StringBuilder sb = new StringBuilder();

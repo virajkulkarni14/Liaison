@@ -1,0 +1,1275 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarsouth-us-army-south-sixth-army-joint-base-san-antonio-tx</Url>
+    <NameNode>US Army South (Sixth Army)</NameNode>
+    <FullName>Army South (Sixth Army)</FullName>
+    <SplitName>US Army South (Sixth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/153/small/usarmysouth.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usarsouth-hq-usarsouth-headquarters-joint-base-san-antonio-tx</Url>
+        <FullName>USARSOUTH Headquarters</FullName>
+        <Name>USARSOUTH HQ</Name>
+        <Id>usarsouth-hq-usarsouth-headquarters-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/470th-mi-bde-470th-military-intelligence-brigade-joint-base-san-antonio-tx</Url>
+        <FullName>470th Military Intelligence Brigade</FullName>
+        <Name>470th MI BDE</Name>
+        <Id>470th-mi-bde-470th-military-intelligence-brigade-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/193rd-in-bde-193rd-infantry-brigade</Url>
+        <FullName>193rd Infantry Brigade</FullName>
+        <Name>193rd IN BDE</Name>
+        <Id>193rd-in-bde-193rd-infantry-brigade</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarsouth-hq-usarsouth-headquarters-joint-base-san-antonio-tx</Url>
+    <NameNode>USARSOUTH Headquarters, US Army South (Sixth Army)</NameNode>
+    <FullName>USARSOUTH Headquarters, Army South (Sixth Army)</FullName>
+    <SplitName>USARSOUTH Headquarters, US Army South (Sixth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/153/small/usarmysouth.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/470th-mi-bde-470th-military-intelligence-brigade-joint-base-san-antonio-tx</Url>
+    <NameNode>470th Military Intelligence Brigade, US Army South (Sixth Army)</NameNode>
+    <FullName>470th Military Intelligence Brigade, Army South (Sixth Army)</FullName>
+    <SplitName>470th Military Intelligence Brigade, US Army South (Sixth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/14th-mi-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>14th Military Intelligence Battalion</FullName>
+        <Name>14th MI</Name>
+        <Id>14th-mi-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/201st-mi-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>201st Military Intelligence Battalion</FullName>
+        <Name>201st MI</Name>
+        <Id>201st-mi-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/204th-mi-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+        <FullName>204th Military Intelligence Battalion</FullName>
+        <Name>204th MI</Name>
+        <Id>204th-mi-204th-military-intelligence-battalion-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/206th-mi-206th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>206th Military Intelligence Battalion</FullName>
+        <Name>206th MI</Name>
+        <Id>206th-mi-206th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/306th-mi-306th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>306th Military Intelligence Battalion</FullName>
+        <Name>306th MI</Name>
+        <Id>306th-mi-306th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/377th-mi-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>377th Military Intelligence Battalion</FullName>
+        <Name>377th MI</Name>
+        <Id>377th-mi-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/717th-mi-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>717th Military Intelligence Battalion</FullName>
+        <Name>717th MI</Name>
+        <Id>717th-mi-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/14th-mi-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>14th Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>14th Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>14th Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>A Company, 14th Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 14th Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 14th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>B Company, 14th Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 14th Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 14th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>C Company, 14th Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 14th Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 14th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>D Company, 14th Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 14th Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 14th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-14th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 14th Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 14th Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 14th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/201st-mi-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>201st Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>201st Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>201st Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>A Company, 201st Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 201st Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 201st Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>B Company, 201st Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 201st Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 201st Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>C Company, 201st Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 201st Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 201st Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>D Company, 201st Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 201st Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 201st Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-201st-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 201st Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 201st Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 201st Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/204th-mi-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+    <NameNode>204th Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>204th Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>204th Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-204th-military-intelligence-battalion-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-204th-military-intelligence-battalion-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-204th-military-intelligence-battalion-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-204th-military-intelligence-battalion-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-204th-military-intelligence-battalion-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+    <NameNode>A Company, 204th Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 204th Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 204th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+    <NameNode>B Company, 204th Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 204th Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 204th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+    <NameNode>C Company, 204th Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 204th Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 204th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+    <NameNode>D Company, 204th Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 204th Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 204th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-204th-military-intelligence-battalion-fort-bliss-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 204th Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 204th Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 204th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/206th-mi-206th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>206th Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>206th Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>206th Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-206th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-206th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-206th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-206th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-206th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-206th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>A Company, 206th Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 206th Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 206th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>B Company, 206th Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 206th Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 206th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>C Company, 206th Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 206th Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 206th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-206th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>D Company, 206th Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 206th Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 206th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-206th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 206th Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 206th Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 206th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/306th-mi-306th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>306th Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>306th Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>306th Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-306th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-306th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-306th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-306th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-306th-military-intelligence-battalion-fort-hood-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-306th-military-intelligence-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>A Company, 306th Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 306th Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 306th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>B Company, 306th Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 306th Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 306th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>C Company, 306th Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 306th Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 306th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-306th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>D Company, 306th Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 306th Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 306th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-306th-military-intelligence-battalion-fort-hood-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 306th Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 306th Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 306th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/377th-mi-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>377th Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>377th Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>377th Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>A Company, 377th Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 377th Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 377th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>B Company, 377th Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 377th Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 377th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>C Company, 377th Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 377th Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 377th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>D Company, 377th Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 377th Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 377th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-377th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 377th Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 377th Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 377th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/717th-mi-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>717th Military Intelligence Battalion, 470th Military Intelligence Brigade</NameNode>
+    <FullName>717th Military Intelligence Battalion, 470th Military Intelligence Brigade</FullName>
+    <SplitName>717th Military Intelligence Battalion, 470th Military Intelligence Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>A Company, 717th Military Intelligence Battalion</NameNode>
+    <FullName>A Company, 717th Military Intelligence Battalion</FullName>
+    <SplitName>A Company, 717th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>B Company, 717th Military Intelligence Battalion</NameNode>
+    <FullName>B Company, 717th Military Intelligence Battalion</FullName>
+    <SplitName>B Company, 717th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>C Company, 717th Military Intelligence Battalion</NameNode>
+    <FullName>C Company, 717th Military Intelligence Battalion</FullName>
+    <SplitName>C Company, 717th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>D Company, 717th Military Intelligence Battalion</NameNode>
+    <FullName>D Company, 717th Military Intelligence Battalion</FullName>
+    <SplitName>D Company, 717th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-717th-military-intelligence-battalion-joint-base-san-antonio-tx</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 717th Military Intelligence Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 717th Military Intelligence Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 717th Military Intelligence Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/154/small/470thmi.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/193rd-in-bde-193rd-infantry-brigade</Url>
+    <NameNode>193rd Infantry Brigade, US Army South (Sixth Army)</NameNode>
+    <FullName>193rd Infantry Brigade, Army South (Sixth Army)</FullName>
+    <SplitName>193rd Infantry Brigade, US Army South (Sixth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/208/small/193rdin.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Jackson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-jackson-sc</Url>
+        <Id>fort-jackson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-87-in-5th-battalion-87th-infantry-regiment</Url>
+        <FullName>5th Battalion, 87th Infantry Regiment</FullName>
+        <Name>5-87 IN</Name>
+        <Id>5-87-in-5th-battalion-87th-infantry-regiment</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-87-in-5th-battalion-87th-infantry-regiment</Url>
+    <NameNode>5th Battalion, 87th Infantry Regiment, 193rd Infantry Brigade</NameNode>
+    <FullName>5th Battalion, 87th Infantry Regiment, 193rd Infantry Brigade</FullName>
+    <SplitName>5th Battalion, 87th Infantry Regiment, 193rd Infantry Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/208/small/193rdin.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Kobbe</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Kobbe, Panama</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-kobbe-panama</Url>
+        <Id>fort-kobbe-panama</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

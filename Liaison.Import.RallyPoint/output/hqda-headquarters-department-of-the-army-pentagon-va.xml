@@ -1,0 +1,3326 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hqda-headquarters-department-of-the-army-pentagon-va</Url>
+    <NameNode>Headquarters Department of the Army</NameNode>
+    <FullName>Headquarters Department of the Army</FullName>
+    <SplitName>Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/army-secretariat-headquarters-department-of-the-army</Url>
+        <FullName />
+        <Name>Army Secretariat</Name>
+        <Id>army-secretariat-headquarters-department-of-the-army</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/command-offices-headquarters-department-of-the-army</Url>
+        <FullName />
+        <Name>Command Offices</Name>
+        <Id>command-offices-headquarters-department-of-the-army</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/general-staff-headquarters-department-of-the-army</Url>
+        <FullName>General Staff</FullName>
+        <Name>General Staff</Name>
+        <Id>general-staff-headquarters-department-of-the-army</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/field-operation-agencies-headquarters-department-of-the-army</Url>
+        <FullName />
+        <Name>Field Operation Agencies</Name>
+        <Id>field-operation-agencies-headquarters-department-of-the-army</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/army-secretariat-headquarters-department-of-the-army</Url>
+    <NameNode>Headquarters Department of the Army</NameNode>
+    <FullName>Headquarters Department of the Army</FullName>
+    <SplitName>Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/osa-office-of-the-secretary-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Secretary of the Army</FullName>
+        <Name>OSA</Name>
+        <Id>osa-office-of-the-secretary-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/iosa-immediate-office-of-the-secretary-of-the-army-pentagon-va</Url>
+        <FullName>Immediate Office of the Secretary of the Army</FullName>
+        <Name>IOSA</Name>
+        <Id>iosa-immediate-office-of-the-secretary-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usa-office-of-the-under-secretary-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Under Secretary of the Army</FullName>
+        <Name>USA</Name>
+        <Id>usa-office-of-the-under-secretary-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aasa-administrative-assistant-to-the-secretary-of-the-army-pentagon-va</Url>
+        <FullName>Administrative Assistant to the Secretary of the Army</FullName>
+        <Name>AASA</Name>
+        <Id>aasa-administrative-assistant-to-the-secretary-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asa-alt-office-of-the-assistant-secretary-of-the-army-for-acquisition-logistics-technology-pentagon-va</Url>
+        <FullName>Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology</FullName>
+        <Name>ASA (ALT)</Name>
+        <Id>asa-alt-office-of-the-assistant-secretary-of-the-army-for-acquisition-logistics-technology-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asa-cw-office-of-the-assistant-secretary-of-the-army-for-civil-works-pentagon-va</Url>
+        <FullName>Office of the Assistant Secretary of the Army for Civil Works</FullName>
+        <Name>ASA (CW)</Name>
+        <Id>asa-cw-office-of-the-assistant-secretary-of-the-army-for-civil-works-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asa-fm-c-office-of-the-assistant-secretary-of-the-army-for-financial-management-comptroller-pentagon-va</Url>
+        <FullName>Office of the Assistant Secretary of the Army for Financial Management &amp;amp; Comptroller</FullName>
+        <Name>ASA (FM&amp;amp;C)</Name>
+        <Id>asa-fm-c-office-of-the-assistant-secretary-of-the-army-for-financial-management-comptroller-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asa-i-e-office-of-the-assistant-secretary-of-the-army-for-installations-environment-pentagon-va</Url>
+        <FullName>Office of the Assistant Secretary of the Army for Installations &amp;amp; Environment</FullName>
+        <Name>ASA (I&amp;amp;E)</Name>
+        <Id>asa-i-e-office-of-the-assistant-secretary-of-the-army-for-installations-environment-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asa-m-ra-office-of-the-assistant-secretary-of-the-army-for-manpower-reserve-affairs-pentagon-va</Url>
+        <FullName>Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs</FullName>
+        <Name>ASA (M&amp;amp;RA)</Name>
+        <Id>asa-m-ra-office-of-the-assistant-secretary-of-the-army-for-manpower-reserve-affairs-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/dusa-bt-office-of-the-deputy-under-secretary-of-the-army-for-business-transformation-pentagon-va</Url>
+        <FullName>Office of the Deputy Under Secretary of the Army for Business Transformation</FullName>
+        <Name>DUSA (BT)</Name>
+        <Id>dusa-bt-office-of-the-deputy-under-secretary-of-the-army-for-business-transformation-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sadbu-office-of-the-small-disadvantaged-business-utilization-office-pentagon-va</Url>
+        <FullName>Office of the Small &amp;amp; Disadvantaged Business Utilization Office</FullName>
+        <Name>SADBU</Name>
+        <Id>sadbu-office-of-the-small-disadvantaged-business-utilization-office-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/osa-office-of-the-secretary-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Secretary of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Secretary of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Secretary of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/iosa-immediate-office-of-the-secretary-of-the-army-pentagon-va</Url>
+    <NameNode>Immediate Office of the Secretary of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Immediate Office of the Secretary of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Immediate Office of the Secretary of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usa-office-of-the-under-secretary-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Under Secretary of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Under Secretary of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Under Secretary of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aasa-administrative-assistant-to-the-secretary-of-the-army-pentagon-va</Url>
+    <NameNode>Administrative Assistant to the Secretary of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Administrative Assistant to the Secretary of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Administrative Assistant to the Secretary of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/oaa-office-of-the-administrative-assistant-to-the-secretary-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Administrative Assistant to the Secretary of the Army</FullName>
+        <Name>OAA</Name>
+        <Id>oaa-office-of-the-administrative-assistant-to-the-secretary-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/oaa-office-of-the-administrative-assistant-to-the-secretary-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Administrative Assistant to the Secretary of the Army, Administrative Assistant to the Secretary of the Army</NameNode>
+    <FullName>Office of the Administrative Assistant to the Secretary of the Army, Administrative Assistant to the Secretary of the Army</FullName>
+    <SplitName>Office of the Administrative Assistant to the Secretary of the Army, Administrative Assistant to the Secretary of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asa-alt-office-of-the-assistant-secretary-of-the-army-for-acquisition-logistics-technology-pentagon-va</Url>
+    <NameNode>Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaasc-us-army-acquisition-support-center-fort-belvoir-va</Url>
+        <FullName>US Army Acquisition Support Center</FullName>
+        <Name>USAASC</Name>
+        <Id>usaasc-us-army-acquisition-support-center-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaasc-us-army-acquisition-support-center-fort-belvoir-va</Url>
+    <NameNode>US Army Acquisition Support Center, Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology</NameNode>
+    <FullName>Army Acquisition Support Center, Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology</FullName>
+    <SplitName>US Army Acquisition Support Center, Office of the Assistant Secretary of the Army for Acquisition, Logistics &amp;amp; Technology</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-aviation-program-executive-office-aviation-redstone-arsenal-al</Url>
+        <FullName>Program Executive Office - Aviation</FullName>
+        <Name>PEO Aviation</Name>
+        <Id>peo-aviation-program-executive-office-aviation-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-ammunition-program-executive-office-ammunition</Url>
+        <FullName>Program Executive Office - Ammunition</FullName>
+        <Name>PEO Ammunition</Name>
+        <Id>peo-ammunition-program-executive-office-ammunition</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-c3t-program-executive-office-command-control-communications-tactical</Url>
+        <FullName>Program Executive Office - Command Control Communications Tactical</FullName>
+        <Name>PEO C3T</Name>
+        <Id>peo-c3t-program-executive-office-command-control-communications-tactical</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-eis-program-executive-office-enterprise-information-systems</Url>
+        <FullName>Program Executive Office - Enterprise Information Systems</FullName>
+        <Name>PEO EIS</Name>
+        <Id>peo-eis-program-executive-office-enterprise-information-systems</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-cs-css-program-executive-office-combat-support-combat-service-support-detroit-arsenal-mi</Url>
+        <FullName>Program Executive Office - Combat Support &amp;amp; Combat Service Support</FullName>
+        <Name>PEO CS &amp;amp; CSS</Name>
+        <Id>peo-cs-css-program-executive-office-combat-support-combat-service-support-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-gcs-program-executive-office-ground-combat-systems-detroit-arsenal-mi</Url>
+        <FullName>Program Executive Office - Ground Combat Systems</FullName>
+        <Name>PEO GCS</Name>
+        <Id>peo-gcs-program-executive-office-ground-combat-systems-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-stri-program-executive-office-simulation-training-instrumentation-orlando-fl</Url>
+        <FullName>Program Executive Office - Simulation, Training &amp;amp; Instrumentation</FullName>
+        <Name>PEO STRI</Name>
+        <Id>peo-stri-program-executive-office-simulation-training-instrumentation-orlando-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-iew-s-program-executive-office-intelligence-electronic-warfare-sensor</Url>
+        <FullName>Program Executive Office - Intelligence, Electronic Warfare &amp;amp; Sensor</FullName>
+        <Name>PEO IEW&amp;amp;S</Name>
+        <Id>peo-iew-s-program-executive-office-intelligence-electronic-warfare-sensor</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-missiles-and-space-program-executive-office-missiles-and-space</Url>
+        <FullName>Program Executive Office - Missiles and Space</FullName>
+        <Name>PEO Missiles and Space</Name>
+        <Id>peo-missiles-and-space-program-executive-office-missiles-and-space</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-stri-program-executive-office-simulation-training-instrumentation</Url>
+        <FullName>Program Executive Office - Simulation, Training &amp;amp; Instrumentation</FullName>
+        <Name>PEO STRI</Name>
+        <Id>peo-stri-program-executive-office-simulation-training-instrumentation</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peo-soldier-program-executive-office-soldier-natick-ma</Url>
+        <FullName>Program Executive Office - Soldier</FullName>
+        <Name>PEO Soldier</Name>
+        <Id>peo-soldier-program-executive-office-soldier-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-aviation-program-executive-office-aviation-redstone-arsenal-al</Url>
+    <NameNode>Program Executive Office - Aviation, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Aviation, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Aviation, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-ammunition-program-executive-office-ammunition</Url>
+    <NameNode>Program Executive Office - Ammunition, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Ammunition, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Ammunition, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-c3t-program-executive-office-command-control-communications-tactical</Url>
+    <NameNode>Program Executive Office - Command Control Communications Tactical, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Command Control Communications Tactical, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Command Control Communications Tactical, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/group_logo_images/images/000/015/885/medium/c3t-banner-logo.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-eis-program-executive-office-enterprise-information-systems</Url>
+    <NameNode>Program Executive Office - Enterprise Information Systems, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Enterprise Information Systems, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Enterprise Information Systems, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-cs-css-program-executive-office-combat-support-combat-service-support-detroit-arsenal-mi</Url>
+    <NameNode>Program Executive Office - Combat Support &amp;amp; Combat Service Support, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Combat Support &amp;amp; Combat Service Support, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Combat Support &amp;amp; Combat Service Support, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fp-pm-force-protection-program-executive-office-combat-support-combat-service-support-detroit-arsenal-mi</Url>
+        <FullName>PM Force Protection</FullName>
+        <Name>FP</Name>
+        <Id>fp-pm-force-protection-program-executive-office-combat-support-combat-service-support-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ts-pm-transportation-systems-detroit-arsenal-mi</Url>
+        <FullName>PM Transportation Systems</FullName>
+        <Name>TS</Name>
+        <Id>ts-pm-transportation-systems-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mrap-apo-mine-resistant-ambush-protected-vehicle-detroit-arsenal-mi</Url>
+        <FullName>APO Mine Resistant Ambush Protected Vehicle</FullName>
+        <Name>MRAP</Name>
+        <Id>mrap-apo-mine-resistant-ambush-protected-vehicle-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mep-pm-mobile-electric-power-detroit-arsenal-mi</Url>
+        <FullName>PM Mobile Electric Power</FullName>
+        <Name>MEP</Name>
+        <Id>mep-pm-mobile-electric-power-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jltv-jpo-joint-light-tactical-vehicles-detroit-arsenal-mi</Url>
+        <FullName>JPO Joint Light Tactical Vehicles</FullName>
+        <Name>JLTV</Name>
+        <Id>jltv-jpo-joint-light-tactical-vehicles-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fp-pm-force-protection-program-executive-office-combat-support-combat-service-support-detroit-arsenal-mi</Url>
+    <NameNode>PM Force Protection, Program Executive Office - Combat Support &amp;amp; Combat Service Support</NameNode>
+    <FullName>PM Force Protection, Program Executive Office - Combat Support &amp;amp; Combat Service Support</FullName>
+    <SplitName>PM Force Protection, Program Executive Office - Combat Support &amp;amp; Combat Service Support</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ts-pm-transportation-systems-detroit-arsenal-mi</Url>
+    <NameNode>PM Transportation Systems, Program Executive Office - Combat Support &amp;amp; Combat Service Support</NameNode>
+    <FullName>PM Transportation Systems, Program Executive Office - Combat Support &amp;amp; Combat Service Support</FullName>
+    <SplitName>PM Transportation Systems, Program Executive Office - Combat Support &amp;amp; Combat Service Support</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mrap-apo-mine-resistant-ambush-protected-vehicle-detroit-arsenal-mi</Url>
+    <NameNode>APO Mine Resistant Ambush Protected Vehicle, Program Executive Office - Combat Support &amp;amp; Combat Service Support</NameNode>
+    <FullName>APO Mine Resistant Ambush Protected Vehicle, Program Executive Office - Combat Support &amp;amp; Combat Service Support</FullName>
+    <SplitName>APO Mine Resistant Ambush Protected Vehicle, Program Executive Office - Combat Support &amp;amp; Combat Service Support</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mep-pm-mobile-electric-power-detroit-arsenal-mi</Url>
+    <NameNode>PM Mobile Electric Power, Program Executive Office - Combat Support &amp;amp; Combat Service Support</NameNode>
+    <FullName>PM Mobile Electric Power, Program Executive Office - Combat Support &amp;amp; Combat Service Support</FullName>
+    <SplitName>PM Mobile Electric Power, Program Executive Office - Combat Support &amp;amp; Combat Service Support</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jltv-jpo-joint-light-tactical-vehicles-detroit-arsenal-mi</Url>
+    <NameNode>JPO Joint Light Tactical Vehicles, Program Executive Office - Combat Support &amp;amp; Combat Service Support</NameNode>
+    <FullName>JPO Joint Light Tactical Vehicles, Program Executive Office - Combat Support &amp;amp; Combat Service Support</FullName>
+    <SplitName>JPO Joint Light Tactical Vehicles, Program Executive Office - Combat Support &amp;amp; Combat Service Support</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-gcs-program-executive-office-ground-combat-systems-detroit-arsenal-mi</Url>
+    <NameNode>Program Executive Office - Ground Combat Systems, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Ground Combat Systems, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Ground Combat Systems, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pm-gcv-program-management-ground-combat-vehicle-detroit-arsenal-mi</Url>
+        <FullName>Program Management - Ground Combat Vehicle</FullName>
+        <Name>PM GCV</Name>
+        <Id>pm-gcv-program-management-ground-combat-vehicle-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pm-hbct-program-management-heavy-brigade-combat-team-detroit-arsenal-mi</Url>
+        <FullName>Program Management - Heavy Brigade Combat Team</FullName>
+        <Name>PM HBCT</Name>
+        <Id>pm-hbct-program-management-heavy-brigade-combat-team-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pm-sbct-program-management-stryker-brigade-combat-team-detroit-arsenal-mi</Url>
+        <FullName>Program Management - Stryker Brigade Combat Team</FullName>
+        <Name>PM SBCT</Name>
+        <Id>pm-sbct-program-management-stryker-brigade-combat-team-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pm-rsjpo-program-management-robotic-systems-joint-project-office-detroit-arsenal-mi</Url>
+        <FullName>Program Management - Robotic Systems Joint Project Office</FullName>
+        <Name>PM RSJPO</Name>
+        <Id>pm-rsjpo-program-management-robotic-systems-joint-project-office-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pm-gcv-program-management-ground-combat-vehicle-detroit-arsenal-mi</Url>
+    <NameNode>Program Management - Ground Combat Vehicle, Program Executive Office - Ground Combat Systems</NameNode>
+    <FullName>Program Management - Ground Combat Vehicle, Program Executive Office - Ground Combat Systems</FullName>
+    <SplitName>Program Management - Ground Combat Vehicle, Program Executive Office - Ground Combat Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pm-hbct-program-management-heavy-brigade-combat-team-detroit-arsenal-mi</Url>
+    <NameNode>Program Management - Heavy Brigade Combat Team, Program Executive Office - Ground Combat Systems</NameNode>
+    <FullName>Program Management - Heavy Brigade Combat Team, Program Executive Office - Ground Combat Systems</FullName>
+    <SplitName>Program Management - Heavy Brigade Combat Team, Program Executive Office - Ground Combat Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pm-sbct-program-management-stryker-brigade-combat-team-detroit-arsenal-mi</Url>
+    <NameNode>Program Management - Stryker Brigade Combat Team, Program Executive Office - Ground Combat Systems</NameNode>
+    <FullName>Program Management - Stryker Brigade Combat Team, Program Executive Office - Ground Combat Systems</FullName>
+    <SplitName>Program Management - Stryker Brigade Combat Team, Program Executive Office - Ground Combat Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pm-rsjpo-program-management-robotic-systems-joint-project-office-detroit-arsenal-mi</Url>
+    <NameNode>Program Management - Robotic Systems Joint Project Office, Program Executive Office - Ground Combat Systems</NameNode>
+    <FullName>Program Management - Robotic Systems Joint Project Office, Program Executive Office - Ground Combat Systems</FullName>
+    <SplitName>Program Management - Robotic Systems Joint Project Office, Program Executive Office - Ground Combat Systems</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-stri-program-executive-office-simulation-training-instrumentation-orlando-fl</Url>
+    <NameNode>Program Executive Office - Simulation, Training &amp;amp; Instrumentation, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Simulation, Training &amp;amp; Instrumentation, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Simulation, Training &amp;amp; Instrumentation, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Orlando</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Orlando, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/orlando-fl</Url>
+        <Id>orlando-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sttc-simulation-training-technology-center-joint-base-langley-eustis-jble-va</Url>
+        <FullName>Simulation &amp;amp; Training Technology Center</FullName>
+        <Name>STTC</Name>
+        <Id>sttc-simulation-training-technology-center-joint-base-langley-eustis-jble-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sttc-simulation-training-technology-center-joint-base-langley-eustis-jble-va</Url>
+    <NameNode>Simulation &amp;amp; Training Technology Center, Program Executive Office - Simulation, Training &amp;amp; Instrumentation</NameNode>
+    <FullName>Simulation &amp;amp; Training Technology Center, Program Executive Office - Simulation, Training &amp;amp; Instrumentation</FullName>
+    <SplitName>Simulation &amp;amp; Training Technology Center, Program Executive Office - Simulation, Training &amp;amp; Instrumentation</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Langley-Eustis (JBLE)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Langley-Eustis (JBLE), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-langley-eustis-jble-va</Url>
+        <Id>joint-base-langley-eustis-jble-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-iew-s-program-executive-office-intelligence-electronic-warfare-sensor</Url>
+    <NameNode>Program Executive Office - Intelligence, Electronic Warfare &amp;amp; Sensor, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Intelligence, Electronic Warfare &amp;amp; Sensor, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Intelligence, Electronic Warfare &amp;amp; Sensor, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-missiles-and-space-program-executive-office-missiles-and-space</Url>
+    <NameNode>Program Executive Office - Missiles and Space, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Missiles and Space, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Missiles and Space, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-stri-program-executive-office-simulation-training-instrumentation</Url>
+    <NameNode>Program Executive Office - Simulation, Training &amp;amp; Instrumentation, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Simulation, Training &amp;amp; Instrumentation, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Simulation, Training &amp;amp; Instrumentation, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peo-soldier-program-executive-office-soldier-natick-ma</Url>
+    <NameNode>Program Executive Office - Soldier, US Army Acquisition Support Center</NameNode>
+    <FullName>Program Executive Office - Soldier, Army Acquisition Support Center</FullName>
+    <SplitName>Program Executive Office - Soldier, US Army Acquisition Support Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/717/small/usaasc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asa-cw-office-of-the-assistant-secretary-of-the-army-for-civil-works-pentagon-va</Url>
+    <NameNode>Office of the Assistant Secretary of the Army for Civil Works, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Assistant Secretary of the Army for Civil Works, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Assistant Secretary of the Army for Civil Works, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asa-fm-c-office-of-the-assistant-secretary-of-the-army-for-financial-management-comptroller-pentagon-va</Url>
+    <NameNode>Office of the Assistant Secretary of the Army for Financial Management &amp;amp; Comptroller, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Assistant Secretary of the Army for Financial Management &amp;amp; Comptroller, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Assistant Secretary of the Army for Financial Management &amp;amp; Comptroller, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asa-i-e-office-of-the-assistant-secretary-of-the-army-for-installations-environment-pentagon-va</Url>
+    <NameNode>Office of the Assistant Secretary of the Army for Installations &amp;amp; Environment, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Assistant Secretary of the Army for Installations &amp;amp; Environment, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Assistant Secretary of the Army for Installations &amp;amp; Environment, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asa-m-ra-office-of-the-assistant-secretary-of-the-army-for-manpower-reserve-affairs-pentagon-va</Url>
+    <NameNode>Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/dmdc-defense-manpower-data-center-washington-dc</Url>
+        <FullName>Defense Manpower Data Center</FullName>
+        <Name>DMDC</Name>
+        <Id>dmdc-defense-manpower-data-center-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/dmdc-defense-manpower-data-center-washington-dc</Url>
+    <NameNode>Defense Manpower Data Center, Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs</NameNode>
+    <FullName>Defense Manpower Data Center, Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs</FullName>
+    <SplitName>Defense Manpower Data Center, Office of the Assistant Secretary of the Army for Manpower &amp;amp; Reserve Affairs</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/436/small/dmdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/dusa-bt-office-of-the-deputy-under-secretary-of-the-army-for-business-transformation-pentagon-va</Url>
+    <NameNode>Office of the Deputy Under Secretary of the Army for Business Transformation, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Deputy Under Secretary of the Army for Business Transformation, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Deputy Under Secretary of the Army for Business Transformation, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sadbu-office-of-the-small-disadvantaged-business-utilization-office-pentagon-va</Url>
+    <NameNode>Office of the Small &amp;amp; Disadvantaged Business Utilization Office, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Small &amp;amp; Disadvantaged Business Utilization Office, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Small &amp;amp; Disadvantaged Business Utilization Office, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/command-offices-headquarters-department-of-the-army</Url>
+    <NameNode>Headquarters Department of the Army</NameNode>
+    <FullName>Headquarters Department of the Army</FullName>
+    <SplitName>Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ocsa-office-of-the-chief-of-staff-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Chief of Staff of the Army</FullName>
+        <Name>OCSA</Name>
+        <Id>ocsa-office-of-the-chief-of-staff-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ovcsa-office-of-the-vice-chief-of-staff-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Vice Chief of Staff of the Army</FullName>
+        <Name>OVCSA</Name>
+        <Id>ovcsa-office-of-the-vice-chief-of-staff-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sma-office-of-the-sergeant-major-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Sergeant Major of the Army</FullName>
+        <Name>SMA</Name>
+        <Id>sma-office-of-the-sergeant-major-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/coe-office-of-the-chief-of-engineers-headquarters-department-of-the-army-pentagon-va</Url>
+        <FullName>Office of the Chief of Engineers</FullName>
+        <Name>COE</Name>
+        <Id>coe-office-of-the-chief-of-engineers-headquarters-department-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/acsim-office-of-the-assistant-chief-of-staff-for-installation-management-pentagon-va</Url>
+        <FullName>Office of the Assistant Chief of Staff for Installation Management</FullName>
+        <Name>ACSIM</Name>
+        <Id>acsim-office-of-the-assistant-chief-of-staff-for-installation-management-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cch-office-of-the-chief-of-chaplains-pentagon-va</Url>
+        <FullName>Office of the Chief of Chaplains</FullName>
+        <Name>CCH</Name>
+        <Id>cch-office-of-the-chief-of-chaplains-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/otjag-office-of-the-judge-advocate-general-pentagon-va</Url>
+        <FullName>Office of the Judge Advocate General</FullName>
+        <Name>OTJAG</Name>
+        <Id>otjag-office-of-the-judge-advocate-general-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ocar-office-of-the-chief-of-the-army-reserve-pentagon-va</Url>
+        <FullName>Office of the Chief of the Army Reserve</FullName>
+        <Name>OCAR</Name>
+        <Id>ocar-office-of-the-chief-of-the-army-reserve-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cngb-office-of-the-chief-national-guard-bureau-pentagon-va</Url>
+        <FullName>Office of the Chief, National Guard Bureau</FullName>
+        <Name>CNGB</Name>
+        <Id>cngb-office-of-the-chief-national-guard-bureau-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/otsg-office-of-the-surgeon-general-pentagon-va</Url>
+        <FullName>Office of the Surgeon General</FullName>
+        <Name>OTSG</Name>
+        <Id>otsg-office-of-the-surgeon-general-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ref-rapid-equipping-force-fort-belvoir-va</Url>
+        <FullName>Rapid Equipping Force</FullName>
+        <Name>REF</Name>
+        <Id>ref-rapid-equipping-force-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ogc-office-of-the-general-counsel-pentagon-va</Url>
+        <FullName>Office of the General Counsel</FullName>
+        <Name>OGC</Name>
+        <Id>ogc-office-of-the-general-counsel-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/daig-office-of-the-inspector-general-pentagon-va</Url>
+        <FullName>Office of the Inspector General</FullName>
+        <Name>DAIG</Name>
+        <Id>daig-office-of-the-inspector-general-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ocpa-office-of-public-affairs-pentagon-va</Url>
+        <FullName>Office of Public Affairs</FullName>
+        <Name>OCPA</Name>
+        <Id>ocpa-office-of-public-affairs-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/provost-office-of-the-provost-marshal-pentagon-va</Url>
+        <FullName>Office of the Provost Marshal</FullName>
+        <Name>PROVOST</Name>
+        <Id>provost-office-of-the-provost-marshal-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ocll-office-of-the-chief-legislative-liaison-pentagon-va</Url>
+        <FullName>Office of the Chief Legislative Liaison</FullName>
+        <Name>OCLL</Name>
+        <Id>ocll-office-of-the-chief-legislative-liaison-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cio-g-6-office-of-the-chief-information-officer-pentagon-va</Url>
+        <FullName>Office of the Chief Information Officer</FullName>
+        <Name>CIO / G-6</Name>
+        <Id>cio-g-6-office-of-the-chief-information-officer-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/das-office-of-the-director-of-the-army-staff-pentagon-va</Url>
+        <FullName>Office of the Director of the Army Staff</FullName>
+        <Name>DAS</Name>
+        <Id>das-office-of-the-director-of-the-army-staff-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ocsa-office-of-the-chief-of-staff-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Chief of Staff of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief of Staff of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief of Staff of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/167/small/armylogo.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/strategic-studies-group-pentagon-va</Url>
+        <FullName>Strategic Studies Group</FullName>
+        <Name>Strategic Studies Group</Name>
+        <Id>strategic-studies-group-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sld-como-senior-leader-development-colonel-officers-management-office-pentagon-va</Url>
+        <FullName>Senior Leader Development - Colonel Officers Management Office</FullName>
+        <Name>SLD-COMO</Name>
+        <Id>sld-como-senior-leader-development-colonel-officers-management-office-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usawc-us-army-war-college-carlisle-barracks-pa</Url>
+        <FullName>US Army War College</FullName>
+        <Name>USAWC</Name>
+        <Id>usawc-us-army-war-college-carlisle-barracks-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/strategic-studies-group-pentagon-va</Url>
+    <NameNode>Strategic Studies Group, Office of the Chief of Staff of the Army</NameNode>
+    <FullName>Strategic Studies Group, Office of the Chief of Staff of the Army</FullName>
+    <SplitName>Strategic Studies Group, Office of the Chief of Staff of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/167/small/armylogo.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sld-como-senior-leader-development-colonel-officers-management-office-pentagon-va</Url>
+    <NameNode>Senior Leader Development - Colonel Officers Management Office, Office of the Chief of Staff of the Army</NameNode>
+    <FullName>Senior Leader Development - Colonel Officers Management Office, Office of the Chief of Staff of the Army</FullName>
+    <SplitName>Senior Leader Development - Colonel Officers Management Office, Office of the Chief of Staff of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/167/small/armylogo.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usawc-us-army-war-college-carlisle-barracks-pa</Url>
+    <NameNode>US Army War College, Office of the Chief of Staff of the Army</NameNode>
+    <FullName>Army War College, Office of the Chief of Staff of the Army</FullName>
+    <SplitName>US Army War College, Office of the Chief of Staff of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/169/small/warcollege.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Carlisle Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carlisle Barracks, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/carlisle-barracks-pa</Url>
+        <Id>carlisle-barracks-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/bsap-basic-strategic-arts-program-carlisle-barracks-pa</Url>
+        <FullName>Basic Strategic Arts Program</FullName>
+        <Name>BSAP</Name>
+        <Id>bsap-basic-strategic-arts-program-carlisle-barracks-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csld-center-for-strategic-leadership-development-carlisle-barracks-pa</Url>
+        <FullName>Center for Strategic Leadership &amp;amp; Development</FullName>
+        <Name>CSLD</Name>
+        <Id>csld-center-for-strategic-leadership-development-carlisle-barracks-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/dde-department-of-distance-education-us-army-war-college-carlisle-barracks-pa</Url>
+        <FullName>Department of Distance Education</FullName>
+        <Name>DDE</Name>
+        <Id>dde-department-of-distance-education-us-army-war-college-carlisle-barracks-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pksoi-peacekeeping-stability-operations-institute-pksoi-carlisle-barracks-pa</Url>
+        <FullName>Peacekeeping &amp;amp; Stability Operations Institute (PKSOI)</FullName>
+        <Name>PKSOI</Name>
+        <Id>pksoi-peacekeeping-stability-operations-institute-pksoi-carlisle-barracks-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/bsap-basic-strategic-arts-program-carlisle-barracks-pa</Url>
+    <NameNode>Basic Strategic Arts Program, US Army War College</NameNode>
+    <FullName>Basic Strategic Arts Program, Army War College</FullName>
+    <SplitName>Basic Strategic Arts Program, US Army War College</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/169/small/warcollege.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Carlisle Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carlisle Barracks, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/carlisle-barracks-pa</Url>
+        <Id>carlisle-barracks-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csld-center-for-strategic-leadership-development-carlisle-barracks-pa</Url>
+    <NameNode>Center for Strategic Leadership &amp;amp; Development, US Army War College</NameNode>
+    <FullName>Center for Strategic Leadership &amp;amp; Development, Army War College</FullName>
+    <SplitName>Center for Strategic Leadership &amp;amp; Development, US Army War College</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/169/small/warcollege.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Carlisle Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carlisle Barracks, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/carlisle-barracks-pa</Url>
+        <Id>carlisle-barracks-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/dde-department-of-distance-education-us-army-war-college-carlisle-barracks-pa</Url>
+    <NameNode>Department of Distance Education, US Army War College</NameNode>
+    <FullName>Department of Distance Education, Army War College</FullName>
+    <SplitName>Department of Distance Education, US Army War College</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/169/small/warcollege.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Carlisle Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carlisle Barracks, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/carlisle-barracks-pa</Url>
+        <Id>carlisle-barracks-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pksoi-peacekeeping-stability-operations-institute-pksoi-carlisle-barracks-pa</Url>
+    <NameNode>Peacekeeping &amp;amp; Stability Operations Institute (PKSOI), US Army War College</NameNode>
+    <FullName>Peacekeeping &amp;amp; Stability Operations Institute (PKSOI), Army War College</FullName>
+    <SplitName>Peacekeeping &amp;amp; Stability Operations Institute (PKSOI), US Army War College</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/169/small/warcollege.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Carlisle Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carlisle Barracks, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/carlisle-barracks-pa</Url>
+        <Id>carlisle-barracks-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ovcsa-office-of-the-vice-chief-of-staff-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Vice Chief of Staff of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Vice Chief of Staff of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Vice Chief of Staff of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sma-office-of-the-sergeant-major-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Sergeant Major of the Army, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Sergeant Major of the Army, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Sergeant Major of the Army, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/coe-office-of-the-chief-of-engineers-headquarters-department-of-the-army-pentagon-va</Url>
+    <NameNode>Office of the Chief of Engineers, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief of Engineers, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief of Engineers, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/acsim-office-of-the-assistant-chief-of-staff-for-installation-management-pentagon-va</Url>
+    <NameNode>Office of the Assistant Chief of Staff for Installation Management, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Assistant Chief of Staff for Installation Management, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Assistant Chief of Staff for Installation Management, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cch-office-of-the-chief-of-chaplains-pentagon-va</Url>
+    <NameNode>Office of the Chief of Chaplains, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief of Chaplains, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief of Chaplains, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/otjag-office-of-the-judge-advocate-general-pentagon-va</Url>
+    <NameNode>Office of the Judge Advocate General, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Judge Advocate General, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Judge Advocate General, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ocar-office-of-the-chief-of-the-army-reserve-pentagon-va</Url>
+    <NameNode>Office of the Chief of the Army Reserve, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief of the Army Reserve, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief of the Army Reserve, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cngb-office-of-the-chief-national-guard-bureau-pentagon-va</Url>
+    <NameNode>Office of the Chief, National Guard Bureau, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief, National Guard Bureau, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief, National Guard Bureau, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/otsg-office-of-the-surgeon-general-pentagon-va</Url>
+    <NameNode>Office of the Surgeon General, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Surgeon General, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Surgeon General, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ref-rapid-equipping-force-fort-belvoir-va</Url>
+    <NameNode>Rapid Equipping Force, Headquarters Department of the Army</NameNode>
+    <FullName>Rapid Equipping Force, Headquarters Department of the Army</FullName>
+    <SplitName>Rapid Equipping Force, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ogc-office-of-the-general-counsel-pentagon-va</Url>
+    <NameNode>Office of the General Counsel, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the General Counsel, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the General Counsel, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/daig-office-of-the-inspector-general-pentagon-va</Url>
+    <NameNode>Office of the Inspector General, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Inspector General, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Inspector General, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ocpa-office-of-public-affairs-pentagon-va</Url>
+    <NameNode>Office of Public Affairs, Headquarters Department of the Army</NameNode>
+    <FullName>Office of Public Affairs, Headquarters Department of the Army</FullName>
+    <SplitName>Office of Public Affairs, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/provost-office-of-the-provost-marshal-pentagon-va</Url>
+    <NameNode>Office of the Provost Marshal, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Provost Marshal, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Provost Marshal, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usacc-us-army-corrections-command-office-of-the-provost-marshal-pentagon-va</Url>
+        <FullName>US Army Corrections Command</FullName>
+        <Name>USACC</Name>
+        <Id>usacc-us-army-corrections-command-office-of-the-provost-marshal-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usacc-us-army-corrections-command-office-of-the-provost-marshal-pentagon-va</Url>
+    <NameNode>US Army Corrections Command, Office of the Provost Marshal</NameNode>
+    <FullName>Army Corrections Command, Office of the Provost Marshal</FullName>
+    <SplitName>US Army Corrections Command, Office of the Provost Marshal</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usdb-united-states-disciplinary-barracks-fort-leavenworth-ks</Url>
+        <FullName>United States Disciplinary Barracks</FullName>
+        <Name>USDB</Name>
+        <Id>usdb-united-states-disciplinary-barracks-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/njrcf-northwest-joint-regional-correctional-facility-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>Northwest Joint Regional Correctional Facility</FullName>
+        <Name>NJRCF</Name>
+        <Id>njrcf-northwest-joint-regional-correctional-facility-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mjrcf-midwest-joint-regional-correctional-facility-fort-leavenworth-ks</Url>
+        <FullName>Midwest Joint Regional Correctional Facility</FullName>
+        <Name>MJRCF</Name>
+        <Id>mjrcf-midwest-joint-regional-correctional-facility-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usarcf-europe-united-states-army-regional-corrections-facility-europe-coleman-barracks-germany</Url>
+        <FullName>United States Army Regional Corrections Facility-Europe</FullName>
+        <Name>USARCF-Europe</Name>
+        <Id>usarcf-europe-united-states-army-regional-corrections-facility-europe-coleman-barracks-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usarcf-korea-united-states-army-regional-corrections-facility-korea-camp-humphreys-south-korea</Url>
+        <FullName>United States Army Regional Corrections Facility-Korea</FullName>
+        <Name>USARCF-Korea</Name>
+        <Id>usarcf-korea-united-states-army-regional-corrections-facility-korea-camp-humphreys-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/15th-mp-bde-15th-military-police-brigade-fort-leavenworth-ks</Url>
+        <FullName>15th Military Police Brigade</FullName>
+        <Name>15th MP BDE</Name>
+        <Id>15th-mp-bde-15th-military-police-brigade-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usdb-united-states-disciplinary-barracks-fort-leavenworth-ks</Url>
+    <NameNode>United States Disciplinary Barracks, US Army Corrections Command</NameNode>
+    <FullName>United States Disciplinary Barracks, Army Corrections Command</FullName>
+    <SplitName>United States Disciplinary Barracks, US Army Corrections Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-united-states-disciplinary-barracks-fort-leavenworth-ks</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-united-states-disciplinary-barracks-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-united-states-disciplinary-barracks-fort-leavenworth-ks</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, United States Disciplinary Barracks</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, United States Disciplinary Barracks</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, United States Disciplinary Barracks</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/njrcf-northwest-joint-regional-correctional-facility-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>Northwest Joint Regional Correctional Facility, US Army Corrections Command</NameNode>
+    <FullName>Northwest Joint Regional Correctional Facility, Army Corrections Command</FullName>
+    <SplitName>Northwest Joint Regional Correctional Facility, US Army Corrections Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mjrcf-midwest-joint-regional-correctional-facility-fort-leavenworth-ks</Url>
+    <NameNode>Midwest Joint Regional Correctional Facility, US Army Corrections Command</NameNode>
+    <FullName>Midwest Joint Regional Correctional Facility, Army Corrections Command</FullName>
+    <SplitName>Midwest Joint Regional Correctional Facility, US Army Corrections Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarcf-europe-united-states-army-regional-corrections-facility-europe-coleman-barracks-germany</Url>
+    <NameNode>United States Army Regional Corrections Facility-Europe, US Army Corrections Command</NameNode>
+    <FullName>United States Army Regional Corrections Facility-Europe, Army Corrections Command</FullName>
+    <SplitName>United States Army Regional Corrections Facility-Europe, US Army Corrections Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Coleman Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Coleman Barracks, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/coleman-barracks-germany</Url>
+        <Id>coleman-barracks-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarcf-korea-united-states-army-regional-corrections-facility-korea-camp-humphreys-south-korea</Url>
+    <NameNode>United States Army Regional Corrections Facility-Korea, US Army Corrections Command</NameNode>
+    <FullName>United States Army Regional Corrections Facility-Korea, Army Corrections Command</FullName>
+    <SplitName>United States Army Regional Corrections Facility-Korea, US Army Corrections Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/435/small/corrections.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Humphreys</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Humphreys, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-humphreys-south-korea</Url>
+        <Id>camp-humphreys-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/15th-mp-bde-15th-military-police-brigade-fort-leavenworth-ks</Url>
+    <NameNode>15th Military Police Brigade, US Army Corrections Command</NameNode>
+    <FullName>15th Military Police Brigade, Army Corrections Command</FullName>
+    <SplitName>15th Military Police Brigade, US Army Corrections Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-15th-military-police-brigade-fort-leavenworth-ks</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Detachment</FullName>
+        <Name>HHD</Name>
+        <Id>hhd-headquarters-headquarters-detachment-15th-military-police-brigade-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/40th-mp-i-r-40th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+        <FullName>40th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+        <Name>40th MP (I/R)</Name>
+        <Id>40th-mp-i-r-40th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/705th-mp-i-r-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+        <FullName>705th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+        <Name>705th MP (I/R)</Name>
+        <Id>705th-mp-i-r-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhd-headquarters-headquarters-detachment-15th-military-police-brigade-fort-leavenworth-ks</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Detachment, 15th Military Police Brigade</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Detachment, 15th Military Police Brigade</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Detachment, 15th Military Police Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/40th-mp-i-r-40th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+    <NameNode>40th Military Police Battalion (Internment &amp;amp; Resettlement), 15th Military Police Brigade</NameNode>
+    <FullName>40th Military Police Battalion (Internment &amp;amp; Resettlement), 15th Military Police Brigade</FullName>
+    <SplitName>40th Military Police Battalion (Internment &amp;amp; Resettlement), 15th Military Police Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-40th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-40th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/256-mp-256th-military-police-company-fort-leavenworth-ks</Url>
+        <FullName>256th Military Police Company</FullName>
+        <Name>256 MP</Name>
+        <Id>256-mp-256th-military-police-company-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/291-mp-291st-military-police-company-fort-leavenworth-ks</Url>
+        <FullName>291st Military Police Company</FullName>
+        <Name>291 MP</Name>
+        <Id>291-mp-291st-military-police-company-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/526th-mp-526th-military-police-company-fort-leavenworth-ks</Url>
+        <FullName>526th Military Police Company</FullName>
+        <Name>526th MP</Name>
+        <Id>526th-mp-526th-military-police-company-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-usdb-headquarters-headquarters-company-united-states-disciplinary-barracks-fort-leavenworth-ks</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company (United States Disciplinary Barracks)</FullName>
+        <Name>HHC USDB</Name>
+        <Id>hhc-usdb-headquarters-headquarters-company-united-states-disciplinary-barracks-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-40th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/256-mp-256th-military-police-company-fort-leavenworth-ks</Url>
+    <NameNode>256th Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>256th Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>256th Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/291-mp-291st-military-police-company-fort-leavenworth-ks</Url>
+    <NameNode>291st Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>291st Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>291st Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/526th-mp-526th-military-police-company-fort-leavenworth-ks</Url>
+    <NameNode>526th Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>526th Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>526th Military Police Company, 40th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-usdb-headquarters-headquarters-company-united-states-disciplinary-barracks-fort-leavenworth-ks</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company (United States Disciplinary Barracks), 40th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company (United States Disciplinary Barracks), 40th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company (United States Disciplinary Barracks), 40th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/705th-mp-i-r-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+    <NameNode>705th Military Police Battalion (Internment &amp;amp; Resettlement), 15th Military Police Brigade</NameNode>
+    <FullName>705th Military Police Battalion (Internment &amp;amp; Resettlement), 15th Military Police Brigade</FullName>
+    <SplitName>705th Military Police Battalion (Internment &amp;amp; Resettlement), 15th Military Police Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/165-mp-165th-military-police-company-fort-leavenworth-ks</Url>
+        <FullName>165th Military Police Company</FullName>
+        <Name>165 MP</Name>
+        <Id>165-mp-165th-military-police-company-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-jrcf-headquarters-headquarters-company-joint-regional-correctional-facility-fort-leavenworth-ks</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company (Joint Regional Correctional Facility)</FullName>
+        <Name>HHC JRCF</Name>
+        <Id>hhc-jrcf-headquarters-headquarters-company-joint-regional-correctional-facility-fort-leavenworth-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/165-mp-165th-military-police-company-fort-leavenworth-ks</Url>
+    <NameNode>165th Military Police Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>165th Military Police Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>165th Military Police Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+    <NameNode>B Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>B Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>B Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-705th-military-police-battalion-internment-resettlement-fort-leavenworth-ks</Url>
+    <NameNode>C Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>C Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>C Company, 705th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-jrcf-headquarters-headquarters-company-joint-regional-correctional-facility-fort-leavenworth-ks</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company (Joint Regional Correctional Facility), 705th Military Police Battalion (Internment &amp;amp; Resettlement)</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company (Joint Regional Correctional Facility), 705th Military Police Battalion (Internment &amp;amp; Resettlement)</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company (Joint Regional Correctional Facility), 705th Military Police Battalion (Internment &amp;amp; Resettlement)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/719/small/15thMP.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leavenworth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leavenworth, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leavenworth-ks</Url>
+        <Id>fort-leavenworth-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ocll-office-of-the-chief-legislative-liaison-pentagon-va</Url>
+    <NameNode>Office of the Chief Legislative Liaison, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief Legislative Liaison, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief Legislative Liaison, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cio-g-6-office-of-the-chief-information-officer-pentagon-va</Url>
+    <NameNode>Office of the Chief Information Officer, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Chief Information Officer, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Chief Information Officer, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/das-office-of-the-director-of-the-army-staff-pentagon-va</Url>
+    <NameNode>Office of the Director of the Army Staff, Headquarters Department of the Army</NameNode>
+    <FullName>Office of the Director of the Army Staff, Headquarters Department of the Army</FullName>
+    <SplitName>Office of the Director of the Army Staff, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/general-staff-headquarters-department-of-the-army</Url>
+    <NameNode>General Staff, Headquarters Department of the Army</NameNode>
+    <FullName>General Staff, Headquarters Department of the Army</FullName>
+    <SplitName>General Staff, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/g-1-odcsper-office-of-the-deputy-chief-of-staff-for-personnel-pentagon-va</Url>
+        <FullName>Office of the Deputy Chief of Staff for Personnel</FullName>
+        <Name>G-1 (ODCSPER)</Name>
+        <Id>g-1-odcsper-office-of-the-deputy-chief-of-staff-for-personnel-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/g-2-odcsint-office-of-the-deputy-chief-of-staff-for-intelligence-pentagon-va</Url>
+        <FullName>Office of the Deputy Chief of Staff for Intelligence</FullName>
+        <Name>G-2 (ODCSINT)</Name>
+        <Id>g-2-odcsint-office-of-the-deputy-chief-of-staff-for-intelligence-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/g-3-5-7-dcs-office-of-the-army-deputy-chief-of-staff-g-3-5-7-operations-and-plans-pentagon-va</Url>
+        <FullName>Office of the Army Deputy Chief of Staff (Operations and Plans)</FullName>
+        <Name>G-3/5/7 DCS</Name>
+        <Id>g-3-5-7-dcs-office-of-the-army-deputy-chief-of-staff-g-3-5-7-operations-and-plans-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/g-4-odcslog-office-of-the-deputy-chief-of-staff-for-logistics-pentagon-va</Url>
+        <FullName>Office of the Deputy Chief of Staff for Logistics</FullName>
+        <Name>G-4 (ODCSLOG)</Name>
+        <Id>g-4-odcslog-office-of-the-deputy-chief-of-staff-for-logistics-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/g-8-dcs-office-of-the-deputy-chief-of-staff-for-programs-g-8-pentagon-va</Url>
+        <FullName>Office of the Deputy Chief of Staff for Programs</FullName>
+        <Name>G-8 DCS</Name>
+        <Id>g-8-dcs-office-of-the-deputy-chief-of-staff-for-programs-g-8-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/g-6-cio-sais-office-of-the-deputy-chief-of-information-officer-g6-pentagon-va</Url>
+        <FullName>Office of the Deputy Chief of Information Officer</FullName>
+        <Name>G-6 (CIO/SAIS)</Name>
+        <Id>g-6-cio-sais-office-of-the-deputy-chief-of-information-officer-g6-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/g-1-odcsper-office-of-the-deputy-chief-of-staff-for-personnel-pentagon-va</Url>
+    <NameNode>Office of the Deputy Chief of Staff for Personnel, General Staff</NameNode>
+    <FullName>Office of the Deputy Chief of Staff for Personnel, General Staff</FullName>
+    <SplitName>Office of the Deputy Chief of Staff for Personnel, General Staff</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hrc-us-army-human-resources-command-fort-knox-ky</Url>
+        <FullName>US Army Human Resources Command</FullName>
+        <Name>HRC</Name>
+        <Id>hrc-us-army-human-resources-command-fort-knox-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/peb-us-army-physical-evaluation-board-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>US Army Physical Evaluation Board</FullName>
+        <Name>PEB</Name>
+        <Id>peb-us-army-physical-evaluation-board-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hrc-us-army-human-resources-command-fort-knox-ky</Url>
+    <NameNode>US Army Human Resources Command, Office of the Deputy Chief of Staff for Personnel</NameNode>
+    <FullName>Army Human Resources Command, Office of the Deputy Chief of Staff for Personnel</FullName>
+    <SplitName>US Army Human Resources Command, Office of the Deputy Chief of Staff for Personnel</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Knox, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-knox-ky</Url>
+        <Id>fort-knox-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cmaoc-casualty-mortuary-affairs-operations-center-fort-knox-ky</Url>
+        <FullName>Casualty &amp;amp; Mortuary Affairs Operations Center</FullName>
+        <Name>CMAOC</Name>
+        <Id>cmaoc-casualty-mortuary-affairs-operations-center-fort-knox-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cmaoc-casualty-mortuary-affairs-operations-center-fort-knox-ky</Url>
+    <NameNode>Casualty &amp;amp; Mortuary Affairs Operations Center, US Army Human Resources Command</NameNode>
+    <FullName>Casualty &amp;amp; Mortuary Affairs Operations Center, Army Human Resources Command</FullName>
+    <SplitName>Casualty &amp;amp; Mortuary Affairs Operations Center, US Army Human Resources Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Knox, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-knox-ky</Url>
+        <Id>fort-knox-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/peb-us-army-physical-evaluation-board-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>US Army Physical Evaluation Board, Office of the Deputy Chief of Staff for Personnel</NameNode>
+    <FullName>Army Physical Evaluation Board, Office of the Deputy Chief of Staff for Personnel</FullName>
+    <SplitName>US Army Physical Evaluation Board, Office of the Deputy Chief of Staff for Personnel</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/g-2-odcsint-office-of-the-deputy-chief-of-staff-for-intelligence-pentagon-va</Url>
+    <NameNode>Office of the Deputy Chief of Staff for Intelligence, General Staff</NameNode>
+    <FullName>Office of the Deputy Chief of Staff for Intelligence, General Staff</FullName>
+    <SplitName>Office of the Deputy Chief of Staff for Intelligence, General Staff</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/g-3-5-7-dcs-office-of-the-army-deputy-chief-of-staff-g-3-5-7-operations-and-plans-pentagon-va</Url>
+    <NameNode>Office of the Army Deputy Chief of Staff (Operations and Plans), General Staff</NameNode>
+    <FullName>Office of the Army Deputy Chief of Staff (Operations and Plans), General Staff</FullName>
+    <SplitName>Office of the Army Deputy Chief of Staff (Operations and Plans), General Staff</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/damo-od-department-of-the-army-management-office-operations-contingency-plans-division-pentagon-va</Url>
+        <FullName>Department of the Army Management Office - Operations &amp;amp; Contingency Plans Division</FullName>
+        <Name>DAMO-OD</Name>
+        <Id>damo-od-department-of-the-army-management-office-operations-contingency-plans-division-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/damo-tr-department-of-the-army-management-office-training-simulations-pentagon-va</Url>
+        <FullName>Department of the Army Management Office - Training Simulations</FullName>
+        <Name>DAMO-TR</Name>
+        <Id>damo-tr-department-of-the-army-management-office-training-simulations-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/damo-fm-department-of-the-army-management-office-force-management-pentagon-va</Url>
+        <FullName>Department of the Army Management Office - Force Management</FullName>
+        <Name>DAMO-FM</Name>
+        <Id>damo-fm-department-of-the-army-management-office-force-management-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaoms-us-army-office-of-military-support-washington-dc</Url>
+        <FullName>US Army Office of Military Support</FullName>
+        <Name>USAOMS</Name>
+        <Id>usaoms-us-army-office-of-military-support-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usafmsa-us-army-force-management-support-agency-fort-lee-va</Url>
+        <FullName>US Army Force Management Support Agency</FullName>
+        <Name>USAFMSA</Name>
+        <Id>usafmsa-us-army-force-management-support-agency-fort-lee-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/damo-od-department-of-the-army-management-office-operations-contingency-plans-division-pentagon-va</Url>
+    <NameNode>Department of the Army Management Office - Operations &amp;amp; Contingency Plans Division, Office of the Army Deputy Chief of Staff (Operations and Plans)</NameNode>
+    <FullName>Department of the Army Management Office - Operations &amp;amp; Contingency Plans Division, Office of the Army Deputy Chief of Staff (Operations and Plans)</FullName>
+    <SplitName>Department of the Army Management Office - Operations &amp;amp; Contingency Plans Division, Office of the Army Deputy Chief of Staff (Operations and Plans)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/damo-tr-department-of-the-army-management-office-training-simulations-pentagon-va</Url>
+    <NameNode>Department of the Army Management Office - Training Simulations, Office of the Army Deputy Chief of Staff (Operations and Plans)</NameNode>
+    <FullName>Department of the Army Management Office - Training Simulations, Office of the Army Deputy Chief of Staff (Operations and Plans)</FullName>
+    <SplitName>Department of the Army Management Office - Training Simulations, Office of the Army Deputy Chief of Staff (Operations and Plans)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/damo-fm-department-of-the-army-management-office-force-management-pentagon-va</Url>
+    <NameNode>Department of the Army Management Office - Force Management, Office of the Army Deputy Chief of Staff (Operations and Plans)</NameNode>
+    <FullName>Department of the Army Management Office - Force Management, Office of the Army Deputy Chief of Staff (Operations and Plans)</FullName>
+    <SplitName>Department of the Army Management Office - Force Management, Office of the Army Deputy Chief of Staff (Operations and Plans)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaoms-us-army-office-of-military-support-washington-dc</Url>
+    <NameNode>US Army Office of Military Support, Office of the Army Deputy Chief of Staff (Operations and Plans)</NameNode>
+    <FullName>Army Office of Military Support, Office of the Army Deputy Chief of Staff (Operations and Plans)</FullName>
+    <SplitName>US Army Office of Military Support, Office of the Army Deputy Chief of Staff (Operations and Plans)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usafmsa-us-army-force-management-support-agency-fort-lee-va</Url>
+    <NameNode>US Army Force Management Support Agency, Office of the Army Deputy Chief of Staff (Operations and Plans)</NameNode>
+    <FullName>Army Force Management Support Agency, Office of the Army Deputy Chief of Staff (Operations and Plans)</FullName>
+    <SplitName>US Army Force Management Support Agency, Office of the Army Deputy Chief of Staff (Operations and Plans)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Lee, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-lee-va</Url>
+        <Id>fort-lee-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afms-army-force-management-school-fort-belvoir-va</Url>
+        <FullName>Army Force Management School</FullName>
+        <Name>AFMS</Name>
+        <Id>afms-army-force-management-school-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afms-army-force-management-school-fort-belvoir-va</Url>
+    <NameNode>Army Force Management School, US Army Force Management Support Agency</NameNode>
+    <FullName>Army Force Management School, Army Force Management Support Agency</FullName>
+    <SplitName>Army Force Management School, US Army Force Management Support Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/g-4-odcslog-office-of-the-deputy-chief-of-staff-for-logistics-pentagon-va</Url>
+    <NameNode>Office of the Deputy Chief of Staff for Logistics, General Staff</NameNode>
+    <FullName>Office of the Deputy Chief of Staff for Logistics, General Staff</FullName>
+    <SplitName>Office of the Deputy Chief of Staff for Logistics, General Staff</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/149th-ima-det-149th-individual-mobilization-augmentee-detachment</Url>
+        <FullName>149th Individual Mobilization Augmentee Detachment</FullName>
+        <Name>149th IMA DET</Name>
+        <Id>149th-ima-det-149th-individual-mobilization-augmentee-detachment</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/149th-ima-det-149th-individual-mobilization-augmentee-detachment</Url>
+    <NameNode>149th Individual Mobilization Augmentee Detachment, Office of the Deputy Chief of Staff for Logistics</NameNode>
+    <FullName>149th Individual Mobilization Augmentee Detachment, Office of the Deputy Chief of Staff for Logistics</FullName>
+    <SplitName>149th Individual Mobilization Augmentee Detachment, Office of the Deputy Chief of Staff for Logistics</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/g-8-dcs-office-of-the-deputy-chief-of-staff-for-programs-g-8-pentagon-va</Url>
+    <NameNode>Office of the Deputy Chief of Staff for Programs, General Staff</NameNode>
+    <FullName>Office of the Deputy Chief of Staff for Programs, General Staff</FullName>
+    <SplitName>Office of the Deputy Chief of Staff for Programs, General Staff</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/caa-center-for-army-analysis-fort-belvoir-va</Url>
+        <FullName>Center for Army Analysis</FullName>
+        <Name>CAA</Name>
+        <Id>caa-center-for-army-analysis-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/caa-center-for-army-analysis-fort-belvoir-va</Url>
+    <NameNode>Center for Army Analysis, Office of the Deputy Chief of Staff for Programs</NameNode>
+    <FullName>Center for Army Analysis, Office of the Deputy Chief of Staff for Programs</FullName>
+    <SplitName>Center for Army Analysis, Office of the Deputy Chief of Staff for Programs</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-im-information-management-fort-belvoir-va</Url>
+        <FullName>Information Management</FullName>
+        <Name>CSCA-IM</Name>
+        <Id>csca-im-information-management-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-rd-resources-fort-belvoir-va</Url>
+        <FullName>Resources</FullName>
+        <Name>CSCA-RD</Name>
+        <Id>csca-rd-resources-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-md-mobilization-deployment-fort-belvoir-va</Url>
+        <FullName>Mobilization &amp;amp; Deployment</FullName>
+        <Name>CSCA-MD</Name>
+        <Id>csca-md-mobilization-deployment-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-ms-modeling-simulation-fort-belvoir-va</Url>
+        <FullName>Modeling &amp;amp; Simulation</FullName>
+        <Name>CSCA-MS</Name>
+        <Id>csca-ms-modeling-simulation-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-oa-operations-analysis-fort-belvoir-va</Url>
+        <FullName>Operations Analysis</FullName>
+        <Name>CSCA-OA</Name>
+        <Id>csca-oa-operations-analysis-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-sp-simulation-proponent-fort-belvoir-va</Url>
+        <FullName>Simulation Proponent</FullName>
+        <Name>CSCA-SP</Name>
+        <Id>csca-sp-simulation-proponent-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-ra-resource-analysis-fort-belvoir-va</Url>
+        <FullName>Resource Analysis</FullName>
+        <Name>CSCA-RA</Name>
+        <Id>csca-ra-resource-analysis-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-fs-force-strategy-fort-belvoir-va</Url>
+        <FullName>Force Strategy</FullName>
+        <Name>CSCA-FS</Name>
+        <Id>csca-fs-force-strategy-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-fe-force-enablers-fort-belvoir-va</Url>
+        <FullName>Force Enablers</FullName>
+        <Name>CSCA-FE</Name>
+        <Id>csca-fe-force-enablers-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/csca-ca-campaign-analysis-fort-belvoir-va</Url>
+        <FullName>Campaign Analysis</FullName>
+        <Name>CSCA-CA</Name>
+        <Id>csca-ca-campaign-analysis-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-im-information-management-fort-belvoir-va</Url>
+    <NameNode>Information Management, Center for Army Analysis</NameNode>
+    <FullName>Information Management, Center for Army Analysis</FullName>
+    <SplitName>Information Management, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-rd-resources-fort-belvoir-va</Url>
+    <NameNode>Resources, Center for Army Analysis</NameNode>
+    <FullName>Resources, Center for Army Analysis</FullName>
+    <SplitName>Resources, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-md-mobilization-deployment-fort-belvoir-va</Url>
+    <NameNode>Mobilization &amp;amp; Deployment, Center for Army Analysis</NameNode>
+    <FullName>Mobilization &amp;amp; Deployment, Center for Army Analysis</FullName>
+    <SplitName>Mobilization &amp;amp; Deployment, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-ms-modeling-simulation-fort-belvoir-va</Url>
+    <NameNode>Modeling &amp;amp; Simulation, Center for Army Analysis</NameNode>
+    <FullName>Modeling &amp;amp; Simulation, Center for Army Analysis</FullName>
+    <SplitName>Modeling &amp;amp; Simulation, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-oa-operations-analysis-fort-belvoir-va</Url>
+    <NameNode>Operations Analysis, Center for Army Analysis</NameNode>
+    <FullName>Operations Analysis, Center for Army Analysis</FullName>
+    <SplitName>Operations Analysis, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-sp-simulation-proponent-fort-belvoir-va</Url>
+    <NameNode>Simulation Proponent, Center for Army Analysis</NameNode>
+    <FullName>Simulation Proponent, Center for Army Analysis</FullName>
+    <SplitName>Simulation Proponent, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-ra-resource-analysis-fort-belvoir-va</Url>
+    <NameNode>Resource Analysis, Center for Army Analysis</NameNode>
+    <FullName>Resource Analysis, Center for Army Analysis</FullName>
+    <SplitName>Resource Analysis, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-fs-force-strategy-fort-belvoir-va</Url>
+    <NameNode>Force Strategy, Center for Army Analysis</NameNode>
+    <FullName>Force Strategy, Center for Army Analysis</FullName>
+    <SplitName>Force Strategy, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-fe-force-enablers-fort-belvoir-va</Url>
+    <NameNode>Force Enablers, Center for Army Analysis</NameNode>
+    <FullName>Force Enablers, Center for Army Analysis</FullName>
+    <SplitName>Force Enablers, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/csca-ca-campaign-analysis-fort-belvoir-va</Url>
+    <NameNode>Campaign Analysis, Center for Army Analysis</NameNode>
+    <FullName>Campaign Analysis, Center for Army Analysis</FullName>
+    <SplitName>Campaign Analysis, Center for Army Analysis</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/g-6-cio-sais-office-of-the-deputy-chief-of-information-officer-g6-pentagon-va</Url>
+    <NameNode>Office of the Deputy Chief of Information Officer, General Staff</NameNode>
+    <FullName>Office of the Deputy Chief of Information Officer, General Staff</FullName>
+    <SplitName>Office of the Deputy Chief of Information Officer, General Staff</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/field-operation-agencies-headquarters-department-of-the-army</Url>
+    <NameNode>Headquarters Department of the Army</NameNode>
+    <FullName>Headquarters Department of the Army</FullName>
+    <SplitName>Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aaa-army-audit-agency-pentagon-va</Url>
+        <FullName>Army Audit Agency</FullName>
+        <Name>AAA</Name>
+        <Id>aaa-army-audit-agency-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aca-army-contracting-agency-pentagon-va</Url>
+        <FullName>Army Contracting Agency</FullName>
+        <Name>ACA</Name>
+        <Id>aca-army-contracting-agency-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ceaa-cost-economic-analysis-agency-fort-meade-md</Url>
+        <FullName>Cost &amp;amp; Economic Analysis Agency</FullName>
+        <Name>CEAA</Name>
+        <Id>ceaa-cost-economic-analysis-agency-fort-meade-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cmh-center-of-military-history-washington-dc</Url>
+        <FullName>Center of Military History</FullName>
+        <Name>CMH</Name>
+        <Id>cmh-center-of-military-history-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/crc-us-army-combat-readiness-center-headquarters-department-of-the-army-fort-rucker-al</Url>
+        <FullName>US Army Combat Readiness Center</FullName>
+        <Name>CRC</Name>
+        <Id>crc-us-army-combat-readiness-center-headquarters-department-of-the-army-fort-rucker-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eeo-equal-employment-opportunity-agency-headquarters-department-of-the-army-pentagon-va</Url>
+        <FullName>Equal Employment Opportunity Agency</FullName>
+        <Name>EEO</Name>
+        <Id>eeo-equal-employment-opportunity-agency-headquarters-department-of-the-army-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/eeoccr-eeo-compliance-complaints-review-agency-pentagon-va</Url>
+        <FullName>EEO Compliance &amp;amp; Complaints Review Agency</FullName>
+        <Name>EEOCCR</Name>
+        <Id>eeoccr-eeo-compliance-complaints-review-agency-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fincom-finance-command-pentagon-va</Url>
+        <FullName>Finance Command</FullName>
+        <Name>FINCOM</Name>
+        <Id>fincom-finance-command-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/heraldry-institute-of-heraldry-fort-belvoir-va</Url>
+        <FullName>Institute of Heraldry</FullName>
+        <Name>Heraldry</Name>
+        <Id>heraldry-institute-of-heraldry-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/lia-logistics-innovation-agency-pentagon-va</Url>
+        <FullName>Logistics Innovation Agency</FullName>
+        <Name>LIA</Name>
+        <Id>lia-logistics-innovation-agency-pentagon-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usatema-us-army-test-evaluation-management-agency-washington-dc</Url>
+        <FullName>US Army Test &amp;amp; Evaluation Management Agency</FullName>
+        <Name>USATEMA</Name>
+        <Id>usatema-us-army-test-evaluation-management-agency-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usalsa-us-army-legal-services-agency-fort-belvoir-va</Url>
+        <FullName>US Army Legal Services Agency</FullName>
+        <Name>USALSA</Name>
+        <Id>usalsa-us-army-legal-services-agency-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/osaa-operational-support-airlift-agency</Url>
+        <FullName>Operational Support Airlift Agency</FullName>
+        <Name>OSAA</Name>
+        <Id>osaa-operational-support-airlift-agency</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aaa-army-audit-agency-pentagon-va</Url>
+    <NameNode>Army Audit Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Army Audit Agency, Headquarters Department of the Army</FullName>
+    <SplitName>Army Audit Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aca-army-contracting-agency-pentagon-va</Url>
+    <NameNode>Army Contracting Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Army Contracting Agency, Headquarters Department of the Army</FullName>
+    <SplitName>Army Contracting Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ceaa-cost-economic-analysis-agency-fort-meade-md</Url>
+    <NameNode>Cost &amp;amp; Economic Analysis Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Cost &amp;amp; Economic Analysis Agency, Headquarters Department of the Army</FullName>
+    <SplitName>Cost &amp;amp; Economic Analysis Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Meade, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-meade-md</Url>
+        <Id>fort-meade-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cmh-center-of-military-history-washington-dc</Url>
+    <NameNode>Center of Military History, Headquarters Department of the Army</NameNode>
+    <FullName>Center of Military History, Headquarters Department of the Army</FullName>
+    <SplitName>Center of Military History, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/crc-us-army-combat-readiness-center-headquarters-department-of-the-army-fort-rucker-al</Url>
+    <NameNode>US Army Combat Readiness Center, Headquarters Department of the Army</NameNode>
+    <FullName>Army Combat Readiness Center, Headquarters Department of the Army</FullName>
+    <SplitName>US Army Combat Readiness Center, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Rucker</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Rucker, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-rucker-al</Url>
+        <Id>fort-rucker-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eeo-equal-employment-opportunity-agency-headquarters-department-of-the-army-pentagon-va</Url>
+    <NameNode>Equal Employment Opportunity Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Equal Employment Opportunity Agency, Headquarters Department of the Army</FullName>
+    <SplitName>Equal Employment Opportunity Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/eeoccr-eeo-compliance-complaints-review-agency-pentagon-va</Url>
+    <NameNode>EEO Compliance &amp;amp; Complaints Review Agency, Headquarters Department of the Army</NameNode>
+    <FullName>EEO Compliance &amp;amp; Complaints Review Agency, Headquarters Department of the Army</FullName>
+    <SplitName>EEO Compliance &amp;amp; Complaints Review Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fincom-finance-command-pentagon-va</Url>
+    <NameNode>Finance Command, Headquarters Department of the Army</NameNode>
+    <FullName>Finance Command, Headquarters Department of the Army</FullName>
+    <SplitName>Finance Command, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/heraldry-institute-of-heraldry-fort-belvoir-va</Url>
+    <NameNode>Institute of Heraldry, Headquarters Department of the Army</NameNode>
+    <FullName>Institute of Heraldry, Headquarters Department of the Army</FullName>
+    <SplitName>Institute of Heraldry, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/lia-logistics-innovation-agency-pentagon-va</Url>
+    <NameNode>Logistics Innovation Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Logistics Innovation Agency, Headquarters Department of the Army</FullName>
+    <SplitName>Logistics Innovation Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pentagon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pentagon, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pentagon-va</Url>
+        <Id>pentagon-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usatema-us-army-test-evaluation-management-agency-washington-dc</Url>
+    <NameNode>US Army Test &amp;amp; Evaluation Management Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Army Test &amp;amp; Evaluation Management Agency, Headquarters Department of the Army</FullName>
+    <SplitName>US Army Test &amp;amp; Evaluation Management Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usalsa-us-army-legal-services-agency-fort-belvoir-va</Url>
+    <NameNode>US Army Legal Services Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Army Legal Services Agency, Headquarters Department of the Army</FullName>
+    <SplitName>US Army Legal Services Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/732/small/USALSA.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/osaa-operational-support-airlift-agency</Url>
+    <NameNode>Operational Support Airlift Agency, Headquarters Department of the Army</NameNode>
+    <FullName>Operational Support Airlift Agency, Headquarters Department of the Army</FullName>
+    <SplitName>Operational Support Airlift Agency, Headquarters Department of the Army</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/060/small/armyhq.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

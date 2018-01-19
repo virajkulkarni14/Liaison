@@ -22,7 +22,7 @@ namespace Liaison.Biz
         string CurrentOpsLogo { get; }
         ServiceType ServiceTypeIdx { get;  }
         Services ServiceId { get; }
-      string USState { get; }
+        string USState { get; }
         List<BaseOrg> Bases { get; }
         List<HigherHqOrg> HigherHqs { get; }
         List<ChildOrg> ChildOrgs { get; }

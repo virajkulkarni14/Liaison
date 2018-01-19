@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cne-cna-c6f-navy-europe-navy-africa-naval-support-activity-naples-italy</Url>
+    <NameNode>Navy Europe - Navy Africa</NameNode>
+    <FullName>Navy Europe - Navy Africa</FullName>
+    <SplitName>Navy Europe - Navy Africa</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Support Activity Naples</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Support Activity Naples, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-support-activity-naples-italy</Url>
+        <Id>naval-support-activity-naples-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pep-hq-personnel-exchange-program-headquarters-naval-support-activity-naples-italy</Url>
+        <FullName>Personnel Exchange Program Headquarters</FullName>
+        <Name>PEP HQ</Name>
+        <Id>pep-hq-personnel-exchange-program-headquarters-naval-support-activity-naples-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pep-hq-personnel-exchange-program-headquarters-naval-support-activity-naples-italy</Url>
+    <NameNode>Personnel Exchange Program Headquarters, Navy Europe - Navy Africa</NameNode>
+    <FullName>Personnel Exchange Program Headquarters, Navy Europe - Navy Africa</FullName>
+    <SplitName>Personnel Exchange Program Headquarters, Navy Europe - Navy Africa</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/572/small/navy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Support Activity Naples</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Support Activity Naples, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-support-activity-naples-italy</Url>
+        <Id>naval-support-activity-naples-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

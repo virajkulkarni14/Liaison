@@ -35,7 +35,7 @@ namespace Liaison.Biz.MilOrgs
             sb.Append(" " + Helper.Constants.ShortForm.Company + "., ");
             if (!string.IsNullOrEmpty(ParentShortForm))
             {
-                sb.Append(ParentShortForm.ToUpper());
+                sb.Append(ParentShortForm);
             }
             return sb.ToString();
         }

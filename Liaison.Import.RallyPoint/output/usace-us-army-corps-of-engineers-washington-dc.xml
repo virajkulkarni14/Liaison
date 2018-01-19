@@ -1,0 +1,1728 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usace-us-army-corps-of-engineers-washington-dc</Url>
+    <NameNode>US Army Corps of Engineers, Direct Reporting Units</NameNode>
+    <FullName>Army Corps of Engineers, Direct Reporting Units</FullName>
+    <SplitName>US Army Corps of Engineers, Direct Reporting Units</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usace-hq-usace-headquarters-washington-dc</Url>
+        <FullName>USACE Headquarters</FullName>
+        <Name>USACE HQ</Name>
+        <Id>usace-hq-usace-headquarters-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/divisions-districts-us-army-corps-of-engineers</Url>
+        <FullName />
+        <Name>Divisions &amp;amp; Districts</Name>
+        <Id>divisions-districts-us-army-corps-of-engineers</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/centers-of-excellence-us-army-corps-of-engineers</Url>
+        <FullName />
+        <Name>Centers of Excellence</Name>
+        <Id>centers-of-excellence-us-army-corps-of-engineers</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usace-hq-usace-headquarters-washington-dc</Url>
+    <NameNode>USACE Headquarters, US Army Corps of Engineers</NameNode>
+    <FullName>USACE Headquarters, Army Corps of Engineers</FullName>
+    <SplitName>USACE Headquarters, US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/249th-en-249th-engineer-battalion-fort-belvoir-va</Url>
+        <FullName>249th Engineer Battalion</FullName>
+        <Name>249th EN</Name>
+        <Id>249th-en-249th-engineer-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/249th-en-249th-engineer-battalion-fort-belvoir-va</Url>
+    <NameNode>249th Engineer Battalion, USACE Headquarters</NameNode>
+    <FullName>249th Engineer Battalion, USACE Headquarters</FullName>
+    <SplitName>249th Engineer Battalion, USACE Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-249th-engineer-battalion-schofield-barracks-hi</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-249th-engineer-battalion-schofield-barracks-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-249th-engineer-battalion-fort-bragg-nc</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-249th-engineer-battalion-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-249th-engineer-battalion-fort-belvoir-va</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-249th-engineer-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-249th-engineer-battalion-cranston-ri</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-249th-engineer-battalion-cranston-ri</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-249th-engineer-battalion-fort-belvoir-va</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-249th-engineer-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usapps-u-s-army-prime-power-school-fort-leonard-wood-mo</Url>
+        <FullName>U.S. Army Prime Power School</FullName>
+        <Name>USAPPS</Name>
+        <Id>usapps-u-s-army-prime-power-school-fort-leonard-wood-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-249th-engineer-battalion-schofield-barracks-hi</Url>
+    <NameNode>A Company, 249th Engineer Battalion</NameNode>
+    <FullName>A Company, 249th Engineer Battalion</FullName>
+    <SplitName>A Company, 249th Engineer Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Schofield Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Schofield Barracks, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/schofield-barracks-hi</Url>
+        <Id>schofield-barracks-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-249th-engineer-battalion-fort-bragg-nc</Url>
+    <NameNode>B Company, 249th Engineer Battalion</NameNode>
+    <FullName>B Company, 249th Engineer Battalion</FullName>
+    <SplitName>B Company, 249th Engineer Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-249th-engineer-battalion-fort-belvoir-va</Url>
+    <NameNode>C Company, 249th Engineer Battalion</NameNode>
+    <FullName>C Company, 249th Engineer Battalion</FullName>
+    <SplitName>C Company, 249th Engineer Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-249th-engineer-battalion-cranston-ri</Url>
+    <NameNode>D Company, 249th Engineer Battalion</NameNode>
+    <FullName>D Company, 249th Engineer Battalion</FullName>
+    <SplitName>D Company, 249th Engineer Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cranston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cranston, RI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cranston-ri</Url>
+        <Id>cranston-ri</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-249th-engineer-battalion-fort-belvoir-va</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 249th Engineer Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 249th Engineer Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 249th Engineer Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usapps-u-s-army-prime-power-school-fort-leonard-wood-mo</Url>
+    <NameNode>U.S. Army Prime Power School, 249th Engineer Battalion</NameNode>
+    <FullName>U.S. Army Prime Power School, 249th Engineer Battalion</FullName>
+    <SplitName>U.S. Army Prime Power School, 249th Engineer Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/180/small/engineerschool.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Leonard Wood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Leonard Wood, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-leonard-wood-mo</Url>
+        <Id>fort-leonard-wood-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/divisions-districts-us-army-corps-of-engineers</Url>
+    <NameNode>US Army Corps of Engineers, Direct Reporting Units</NameNode>
+    <FullName>Army Corps of Engineers, Direct Reporting Units</FullName>
+    <SplitName>US Army Corps of Engineers, Direct Reporting Units</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/great-lakes-ohio-river-div-great-lakes-ohio-river-division-usace-cincinnati-oh</Url>
+        <FullName>Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+        <Name>Great Lakes &amp;amp; Ohio River Div</Name>
+        <Id>great-lakes-ohio-river-div-great-lakes-ohio-river-division-usace-cincinnati-oh</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mississippi-valley-div-mississippi-valley-division-usace-vicksburg-ms</Url>
+        <FullName>Mississippi Valley Division (USACE)</FullName>
+        <Name>Mississippi Valley Div</Name>
+        <Id>mississippi-valley-div-mississippi-valley-division-usace-vicksburg-ms</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/north-atlantic-div-north-atlantic-division-usace-fort-hamilton-ny</Url>
+        <FullName>North Atlantic Division (USACE)</FullName>
+        <Name>North Atlantic Div</Name>
+        <Id>north-atlantic-div-north-atlantic-division-usace-fort-hamilton-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/northwestern-div-northwestern-division-usace-potland-or</Url>
+        <FullName>Northwestern Division (USACE)</FullName>
+        <Name>Northwestern Div</Name>
+        <Id>northwestern-div-northwestern-division-usace-potland-or</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pacific-ocean-div-pacific-ocean-division-usace-fort-shafter-hi</Url>
+        <FullName>Pacific Ocean Division (USACE)</FullName>
+        <Name>Pacific Ocean Div</Name>
+        <Id>pacific-ocean-div-pacific-ocean-division-usace-fort-shafter-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/south-atlantic-div-south-atlantic-division-usace-atlanta-ga</Url>
+        <FullName>South Atlantic Division (USACE)</FullName>
+        <Name>South Atlantic Div</Name>
+        <Id>south-atlantic-div-south-atlantic-division-usace-atlanta-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/south-pacific-div-south-pacific-division-usace-san-francisco-ca</Url>
+        <FullName>South Pacific Division (USACE)</FullName>
+        <Name>South Pacific Div</Name>
+        <Id>south-pacific-div-south-pacific-division-usace-san-francisco-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/southwestern-div-southwestern-division-usace-dallas-tx</Url>
+        <FullName>Southwestern Division (USACE)</FullName>
+        <Name>Southwestern Div</Name>
+        <Id>southwestern-div-southwestern-division-usace-dallas-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/transatlantic-div-transatlantic-division-usace-winchester-va</Url>
+        <FullName>Transatlantic Division (USACE)</FullName>
+        <Name>Transatlantic Div</Name>
+        <Id>transatlantic-div-transatlantic-division-usace-winchester-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usace-fed-far-east-division</Url>
+        <FullName>Far East Division</FullName>
+        <Name>USACE-FED</Name>
+        <Id>usace-fed-far-east-division</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/great-lakes-ohio-river-div-great-lakes-ohio-river-division-usace-cincinnati-oh</Url>
+    <NameNode>Great Lakes &amp;amp; Ohio River Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>Great Lakes &amp;amp; Ohio River Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>Great Lakes &amp;amp; Ohio River Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cincinnati</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cincinnati, OH</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/cincinnati-oh</Url>
+        <Id>cincinnati-oh</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/buffalo-district-buffalo-district-usace-buffalo-ny</Url>
+        <FullName>Buffalo District (USACE)</FullName>
+        <Name>Buffalo District</Name>
+        <Id>buffalo-district-buffalo-district-usace-buffalo-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/chicago-district-chicago-district-usace-chicago-il</Url>
+        <FullName>Chicago District (USACE)</FullName>
+        <Name>Chicago District</Name>
+        <Id>chicago-district-chicago-district-usace-chicago-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/detroit-district-detroit-district-usace-detroit-mi</Url>
+        <FullName>Detroit District (USACE)</FullName>
+        <Name>Detroit District</Name>
+        <Id>detroit-district-detroit-district-usace-detroit-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/huntington-district-huntington-district-usace-huntington-wv</Url>
+        <FullName>Huntington District (USACE)</FullName>
+        <Name>Huntington District</Name>
+        <Id>huntington-district-huntington-district-usace-huntington-wv</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/louisville-district-louisville-district-usace-louisville-ky</Url>
+        <FullName>Louisville District (USACE)</FullName>
+        <Name>Louisville District</Name>
+        <Id>louisville-district-louisville-district-usace-louisville-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/nashville-district-nashville-district-usace-nashville-tn</Url>
+        <FullName>Nashville District (USACE)</FullName>
+        <Name>Nashville District</Name>
+        <Id>nashville-district-nashville-district-usace-nashville-tn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pittsburgh-district-pittsburgh-district-usace-pittsburgh-pa</Url>
+        <FullName>Pittsburgh District (USACE)</FullName>
+        <Name>Pittsburgh District</Name>
+        <Id>pittsburgh-district-pittsburgh-district-usace-pittsburgh-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/buffalo-district-buffalo-district-usace-buffalo-ny</Url>
+    <NameNode>Buffalo District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Buffalo District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Buffalo District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Buffalo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Buffalo, NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/buffalo-ny</Url>
+        <Id>buffalo-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/chicago-district-chicago-district-usace-chicago-il</Url>
+    <NameNode>Chicago District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Chicago District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Chicago District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chicago</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chicago, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chicago-il</Url>
+        <Id>chicago-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/detroit-district-detroit-district-usace-detroit-mi</Url>
+    <NameNode>Detroit District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Detroit District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Detroit District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-mi</Url>
+        <Id>detroit-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/huntington-district-huntington-district-usace-huntington-wv</Url>
+    <NameNode>Huntington District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Huntington District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Huntington District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Huntington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Huntington, WV</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/huntington-wv</Url>
+        <Id>huntington-wv</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/louisville-district-louisville-district-usace-louisville-ky</Url>
+    <NameNode>Louisville District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Louisville District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Louisville District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Louisville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Louisville, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/louisville-ky</Url>
+        <Id>louisville-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/nashville-district-nashville-district-usace-nashville-tn</Url>
+    <NameNode>Nashville District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Nashville District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Nashville District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Nashville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Nashville, TN</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nashville-tn</Url>
+        <Id>nashville-tn</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pittsburgh-district-pittsburgh-district-usace-pittsburgh-pa</Url>
+    <NameNode>Pittsburgh District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</NameNode>
+    <FullName>Pittsburgh District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</FullName>
+    <SplitName>Pittsburgh District (USACE), Great Lakes &amp;amp; Ohio River Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pittsburgh</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pittsburgh, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pittsburgh-pa</Url>
+        <Id>pittsburgh-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mississippi-valley-div-mississippi-valley-division-usace-vicksburg-ms</Url>
+    <NameNode>Mississippi Valley Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>Mississippi Valley Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>Mississippi Valley Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vicksburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vicksburg, MS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vicksburg-ms</Url>
+        <Id>vicksburg-ms</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/memphis-district-memphis-district-usace-memphis-tn</Url>
+        <FullName>Memphis District (USACE)</FullName>
+        <Name>Memphis District</Name>
+        <Id>memphis-district-memphis-district-usace-memphis-tn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/new-orleans-district-new-orleans-district-usace-new-orleans-la</Url>
+        <FullName>New Orleans District (USACE)</FullName>
+        <Name>New Orleans District</Name>
+        <Id>new-orleans-district-new-orleans-district-usace-new-orleans-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/rock-island-district-rock-island-district-usace-rock-island-arsenal-il</Url>
+        <FullName>Rock Island District (USACE)</FullName>
+        <Name>Rock Island District</Name>
+        <Id>rock-island-district-rock-island-district-usace-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/st-louis-district-st-louis-district-usace-st-louis-mo</Url>
+        <FullName>St. Louis District (USACE)</FullName>
+        <Name>St. Louis District</Name>
+        <Id>st-louis-district-st-louis-district-usace-st-louis-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/st-paul-district-st-paul-district-usace-st-paul-mn</Url>
+        <FullName>St. Paul District (USACE)</FullName>
+        <Name>St. Paul District</Name>
+        <Id>st-paul-district-st-paul-district-usace-st-paul-mn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/vicksburg-district-vicksburg-district-usace-vicksburg-ms</Url>
+        <FullName>Vicksburg District (USACE)</FullName>
+        <Name>Vicksburg District</Name>
+        <Id>vicksburg-district-vicksburg-district-usace-vicksburg-ms</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/memphis-district-memphis-district-usace-memphis-tn</Url>
+    <NameNode>Memphis District (USACE), Mississippi Valley Division (USACE)</NameNode>
+    <FullName>Memphis District (USACE), Mississippi Valley Division (USACE)</FullName>
+    <SplitName>Memphis District (USACE), Mississippi Valley Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Memphis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Memphis, TN</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/memphis-tn</Url>
+        <Id>memphis-tn</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/new-orleans-district-new-orleans-district-usace-new-orleans-la</Url>
+    <NameNode>New Orleans District (USACE), Mississippi Valley Division (USACE)</NameNode>
+    <FullName>New Orleans District (USACE), Mississippi Valley Division (USACE)</FullName>
+    <SplitName>New Orleans District (USACE), Mississippi Valley Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>New Orleans</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New Orleans, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/new-orleans-la</Url>
+        <Id>new-orleans-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/rock-island-district-rock-island-district-usace-rock-island-arsenal-il</Url>
+    <NameNode>Rock Island District (USACE), Mississippi Valley Division (USACE)</NameNode>
+    <FullName>Rock Island District (USACE), Mississippi Valley Division (USACE)</FullName>
+    <SplitName>Rock Island District (USACE), Mississippi Valley Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/st-louis-district-st-louis-district-usace-st-louis-mo</Url>
+    <NameNode>St. Louis District (USACE), Mississippi Valley Division (USACE)</NameNode>
+    <FullName>St. Louis District (USACE), Mississippi Valley Division (USACE)</FullName>
+    <SplitName>St. Louis District (USACE), Mississippi Valley Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>St. Louis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St. Louis, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/st-louis-mo--2</Url>
+        <Id>st-louis-mo--2</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/st-paul-district-st-paul-district-usace-st-paul-mn</Url>
+    <NameNode>St. Paul District (USACE), Mississippi Valley Division (USACE)</NameNode>
+    <FullName>St. Paul District (USACE), Mississippi Valley Division (USACE)</FullName>
+    <SplitName>St. Paul District (USACE), Mississippi Valley Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>St. Paul</BaseName>
+        <Deployment>false</Deployment>
+        <Location>St. Paul, MN</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/st-paul-mn</Url>
+        <Id>st-paul-mn</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/vicksburg-district-vicksburg-district-usace-vicksburg-ms</Url>
+    <NameNode>Vicksburg District (USACE), Mississippi Valley Division (USACE)</NameNode>
+    <FullName>Vicksburg District (USACE), Mississippi Valley Division (USACE)</FullName>
+    <SplitName>Vicksburg District (USACE), Mississippi Valley Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vicksburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vicksburg, MS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vicksburg-ms</Url>
+        <Id>vicksburg-ms</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/north-atlantic-div-north-atlantic-division-usace-fort-hamilton-ny</Url>
+    <NameNode>North Atlantic Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>North Atlantic Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>North Atlantic Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hamilton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hamilton, NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hamilton-ny</Url>
+        <Id>fort-hamilton-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/baltimore-district-baltimore-district-usace-baltimore-md</Url>
+        <FullName>Baltimore District (USACE)</FullName>
+        <Name>Baltimore District</Name>
+        <Id>baltimore-district-baltimore-district-usace-baltimore-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/europe-district-europe-district-usace-wiesbaden-germany</Url>
+        <FullName>Europe District (USACE)</FullName>
+        <Name>Europe District</Name>
+        <Id>europe-district-europe-district-usace-wiesbaden-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/new-england-district-new-england-district-usace-boston-ma</Url>
+        <FullName>New England District (USACE)</FullName>
+        <Name>New England District</Name>
+        <Id>new-england-district-new-england-district-usace-boston-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/new-york-district-new-york-district-usace-new-york-city-ny</Url>
+        <FullName>New York District (USACE)</FullName>
+        <Name>New York District</Name>
+        <Id>new-york-district-new-york-district-usace-new-york-city-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/norfolk-district-norfolk-district-usace-naval-station-norfolk-va</Url>
+        <FullName>Norfolk District (USACE)</FullName>
+        <Name>Norfolk District</Name>
+        <Id>norfolk-district-norfolk-district-usace-naval-station-norfolk-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/philadelphia-district-philadelphia-district-usace-philadelphia-pa</Url>
+        <FullName>Philadelphia District (USACE)</FullName>
+        <Name>Philadelphia District</Name>
+        <Id>philadelphia-district-philadelphia-district-usace-philadelphia-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/baltimore-district-baltimore-district-usace-baltimore-md</Url>
+    <NameNode>Baltimore District (USACE), North Atlantic Division (USACE)</NameNode>
+    <FullName>Baltimore District (USACE), North Atlantic Division (USACE)</FullName>
+    <SplitName>Baltimore District (USACE), North Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Baltimore</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Baltimore, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/baltimore-md</Url>
+        <Id>baltimore-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/europe-district-europe-district-usace-wiesbaden-germany</Url>
+    <NameNode>Europe District (USACE), North Atlantic Division (USACE)</NameNode>
+    <FullName>Europe District (USACE), North Atlantic Division (USACE)</FullName>
+    <SplitName>Europe District (USACE), North Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Wiesbaden</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wiesbaden, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/wiesbaden-germany</Url>
+        <Id>wiesbaden-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/new-england-district-new-england-district-usace-boston-ma</Url>
+    <NameNode>New England District (USACE), North Atlantic Division (USACE)</NameNode>
+    <FullName>New England District (USACE), North Atlantic Division (USACE)</FullName>
+    <SplitName>New England District (USACE), North Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Boston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boston, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/boston-ma</Url>
+        <Id>boston-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/new-york-district-new-york-district-usace-new-york-city-ny</Url>
+    <NameNode>New York District (USACE), North Atlantic Division (USACE)</NameNode>
+    <FullName>New York District (USACE), North Atlantic Division (USACE)</FullName>
+    <SplitName>New York District (USACE), North Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>New York City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>New York City, NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/new-york-city-ny</Url>
+        <Id>new-york-city-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/norfolk-district-norfolk-district-usace-naval-station-norfolk-va</Url>
+    <NameNode>Norfolk District (USACE), North Atlantic Division (USACE)</NameNode>
+    <FullName>Norfolk District (USACE), North Atlantic Division (USACE)</FullName>
+    <SplitName>Norfolk District (USACE), North Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Station Norfolk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Station Norfolk, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-station-norfolk-va</Url>
+        <Id>naval-station-norfolk-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/philadelphia-district-philadelphia-district-usace-philadelphia-pa</Url>
+    <NameNode>Philadelphia District (USACE), North Atlantic Division (USACE)</NameNode>
+    <FullName>Philadelphia District (USACE), North Atlantic Division (USACE)</FullName>
+    <SplitName>Philadelphia District (USACE), North Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Philadelphia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Philadelphia, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/philadelphia-pa</Url>
+        <Id>philadelphia-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/northwestern-div-northwestern-division-usace-potland-or</Url>
+    <NameNode>Northwestern Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>Northwestern Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>Northwestern Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Potland</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Potland, OR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/potland-or</Url>
+        <Id>potland-or</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/kansas-city-district-kansas-city-district-usace-kansas-city-mo</Url>
+        <FullName>Kansas City District (USACE)</FullName>
+        <Name>Kansas City District</Name>
+        <Id>kansas-city-district-kansas-city-district-usace-kansas-city-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/omaha-district-omaha-district-usace-omaha-ne</Url>
+        <FullName>Omaha District (USACE)</FullName>
+        <Name>Omaha District</Name>
+        <Id>omaha-district-omaha-district-usace-omaha-ne</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/portand-district-portand-district-usace-portland-or</Url>
+        <FullName>Portand District (USACE)</FullName>
+        <Name>Portand District</Name>
+        <Id>portand-district-portand-district-usace-portland-or</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/seattle-district-seattle-district-usace-seattle-wa</Url>
+        <FullName>Seattle District (USACE)</FullName>
+        <Name>Seattle District</Name>
+        <Id>seattle-district-seattle-district-usace-seattle-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/walla-walla-district-walla-walla-district-usace-walla-walla-wa</Url>
+        <FullName>Walla Walla District (USACE)</FullName>
+        <Name>Walla Walla District</Name>
+        <Id>walla-walla-district-walla-walla-district-usace-walla-walla-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/kansas-city-district-kansas-city-district-usace-kansas-city-mo</Url>
+    <NameNode>Kansas City District (USACE), Northwestern Division (USACE)</NameNode>
+    <FullName>Kansas City District (USACE), Northwestern Division (USACE)</FullName>
+    <SplitName>Kansas City District (USACE), Northwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kansas City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kansas City, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kansas-city-mo</Url>
+        <Id>kansas-city-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/omaha-district-omaha-district-usace-omaha-ne</Url>
+    <NameNode>Omaha District (USACE), Northwestern Division (USACE)</NameNode>
+    <FullName>Omaha District (USACE), Northwestern Division (USACE)</FullName>
+    <SplitName>Omaha District (USACE), Northwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Omaha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Omaha, NE</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/omaha-ne</Url>
+        <Id>omaha-ne</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/portand-district-portand-district-usace-portland-or</Url>
+    <NameNode>Portand District (USACE), Northwestern Division (USACE)</NameNode>
+    <FullName>Portand District (USACE), Northwestern Division (USACE)</FullName>
+    <SplitName>Portand District (USACE), Northwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Portland</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Portland, OR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/portland-or</Url>
+        <Id>portland-or</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/seattle-district-seattle-district-usace-seattle-wa</Url>
+    <NameNode>Seattle District (USACE), Northwestern Division (USACE)</NameNode>
+    <FullName>Seattle District (USACE), Northwestern Division (USACE)</FullName>
+    <SplitName>Seattle District (USACE), Northwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Seattle</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Seattle, WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/seattle-wa</Url>
+        <Id>seattle-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/walla-walla-district-walla-walla-district-usace-walla-walla-wa</Url>
+    <NameNode>Walla Walla District (USACE), Northwestern Division (USACE)</NameNode>
+    <FullName>Walla Walla District (USACE), Northwestern Division (USACE)</FullName>
+    <SplitName>Walla Walla District (USACE), Northwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Walla Walla</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Walla Walla, WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/walla-walla-wa</Url>
+        <Id>walla-walla-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pacific-ocean-div-pacific-ocean-division-usace-fort-shafter-hi</Url>
+    <NameNode>Pacific Ocean Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>Pacific Ocean Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>Pacific Ocean Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Shafter</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Shafter, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-shafter-hi</Url>
+        <Id>fort-shafter-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/alaska-district-alaska-district-usace-joint-base-elmendorf-richardson-jber-ak</Url>
+        <FullName>Alaska District (USACE)</FullName>
+        <Name>Alaska District</Name>
+        <Id>alaska-district-alaska-district-usace-joint-base-elmendorf-richardson-jber-ak</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/far-east-district-far-east-district-usace-yongsan-garrison-south-korea</Url>
+        <FullName>Far East District (USACE)</FullName>
+        <Name>Far East District</Name>
+        <Id>far-east-district-far-east-district-usace-yongsan-garrison-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/honolulu-district-honolulu-district-usace-fort-shafter-hi</Url>
+        <FullName>Honolulu District (USACE)</FullName>
+        <Name>Honolulu District</Name>
+        <Id>honolulu-district-honolulu-district-usace-fort-shafter-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/japan-eng-district-japan-engineer-district-usace-camp-zama-japan</Url>
+        <FullName>Japan Engineer District (USACE)</FullName>
+        <Name>Japan Eng District</Name>
+        <Id>japan-eng-district-japan-engineer-district-usace-camp-zama-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/alaska-district-alaska-district-usace-joint-base-elmendorf-richardson-jber-ak</Url>
+    <NameNode>Alaska District (USACE), Pacific Ocean Division (USACE)</NameNode>
+    <FullName>Alaska District (USACE), Pacific Ocean Division (USACE)</FullName>
+    <SplitName>Alaska District (USACE), Pacific Ocean Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Elmendorf-Richardson (JBER)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Elmendorf-Richardson (JBER), AK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-elmendorf-richardson-jber-ak</Url>
+        <Id>joint-base-elmendorf-richardson-jber-ak</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/far-east-district-far-east-district-usace-yongsan-garrison-south-korea</Url>
+    <NameNode>Far East District (USACE), Pacific Ocean Division (USACE)</NameNode>
+    <FullName>Far East District (USACE), Pacific Ocean Division (USACE)</FullName>
+    <SplitName>Far East District (USACE), Pacific Ocean Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/group_logo_images/images/000/026/862/medium/14c07a83.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yongsan Garrison</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Yongsan Garrison, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/yongsan-garrison-south-korea</Url>
+        <Id>yongsan-garrison-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/honolulu-district-honolulu-district-usace-fort-shafter-hi</Url>
+    <NameNode>Honolulu District (USACE), Pacific Ocean Division (USACE)</NameNode>
+    <FullName>Honolulu District (USACE), Pacific Ocean Division (USACE)</FullName>
+    <SplitName>Honolulu District (USACE), Pacific Ocean Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Shafter</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Shafter, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-shafter-hi</Url>
+        <Id>fort-shafter-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/japan-eng-district-japan-engineer-district-usace-camp-zama-japan</Url>
+    <NameNode>Japan Engineer District (USACE), Pacific Ocean Division (USACE)</NameNode>
+    <FullName>Japan Engineer District (USACE), Pacific Ocean Division (USACE)</FullName>
+    <SplitName>Japan Engineer District (USACE), Pacific Ocean Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Zama</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Zama, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-zama-japan</Url>
+        <Id>camp-zama-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/south-atlantic-div-south-atlantic-division-usace-atlanta-ga</Url>
+    <NameNode>South Atlantic Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>South Atlantic Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>South Atlantic Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Atlanta</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Atlanta, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/atlanta-ga</Url>
+        <Id>atlanta-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/charleston-district-charleston-district-usace-joint-base-charleston-sc</Url>
+        <FullName>Charleston District (USACE)</FullName>
+        <Name>Charleston District</Name>
+        <Id>charleston-district-charleston-district-usace-joint-base-charleston-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jacksonville-district-jacksonville-district-usace-jacksonville-fl</Url>
+        <FullName>Jacksonville District (USACE)</FullName>
+        <Name>Jacksonville District</Name>
+        <Id>jacksonville-district-jacksonville-district-usace-jacksonville-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mobile-district-mobile-district-usace-mobile-al</Url>
+        <FullName>Mobile District (USACE)</FullName>
+        <Name>Mobile District</Name>
+        <Id>mobile-district-mobile-district-usace-mobile-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/savannah-district-savannah-district-usace-savannah-ga</Url>
+        <FullName>Savannah District (USACE)</FullName>
+        <Name>Savannah District</Name>
+        <Id>savannah-district-savannah-district-usace-savannah-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/wilmington-district-wilmington-district-usace-wilmington-nc</Url>
+        <FullName>Wilmington District (USACE)</FullName>
+        <Name>Wilmington District</Name>
+        <Id>wilmington-district-wilmington-district-usace-wilmington-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/charleston-district-charleston-district-usace-joint-base-charleston-sc</Url>
+    <NameNode>Charleston District (USACE), South Atlantic Division (USACE)</NameNode>
+    <FullName>Charleston District (USACE), South Atlantic Division (USACE)</FullName>
+    <SplitName>Charleston District (USACE), South Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Charleston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Charleston, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-charleston-sc</Url>
+        <Id>joint-base-charleston-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jacksonville-district-jacksonville-district-usace-jacksonville-fl</Url>
+    <NameNode>Jacksonville District (USACE), South Atlantic Division (USACE)</NameNode>
+    <FullName>Jacksonville District (USACE), South Atlantic Division (USACE)</FullName>
+    <SplitName>Jacksonville District (USACE), South Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jacksonville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Jacksonville, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jacksonville-fl</Url>
+        <Id>jacksonville-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mobile-district-mobile-district-usace-mobile-al</Url>
+    <NameNode>Mobile District (USACE), South Atlantic Division (USACE)</NameNode>
+    <FullName>Mobile District (USACE), South Atlantic Division (USACE)</FullName>
+    <SplitName>Mobile District (USACE), South Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mobile</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mobile, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mobile-al</Url>
+        <Id>mobile-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/savannah-district-savannah-district-usace-savannah-ga</Url>
+    <NameNode>Savannah District (USACE), South Atlantic Division (USACE)</NameNode>
+    <FullName>Savannah District (USACE), South Atlantic Division (USACE)</FullName>
+    <SplitName>Savannah District (USACE), South Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Savannah</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Savannah, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/savannah-ga</Url>
+        <Id>savannah-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/wilmington-district-wilmington-district-usace-wilmington-nc</Url>
+    <NameNode>Wilmington District (USACE), South Atlantic Division (USACE)</NameNode>
+    <FullName>Wilmington District (USACE), South Atlantic Division (USACE)</FullName>
+    <SplitName>Wilmington District (USACE), South Atlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Wilmington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wilmington, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/wilmington-nc</Url>
+        <Id>wilmington-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/south-pacific-div-south-pacific-division-usace-san-francisco-ca</Url>
+    <NameNode>South Pacific Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>South Pacific Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>South Pacific Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>San Francisco</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Francisco, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/san-francisco-ca</Url>
+        <Id>san-francisco-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/albuquerque-district-albuquerque-district-usace-albuquerque-nm</Url>
+        <FullName>Albuquerque District (USACE)</FullName>
+        <Name>Albuquerque District</Name>
+        <Id>albuquerque-district-albuquerque-district-usace-albuquerque-nm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/los-angeles-district-los-angeles-district-usace-los-angeles-ca</Url>
+        <FullName>Los Angeles District (USACE)</FullName>
+        <Name>Los Angeles District</Name>
+        <Id>los-angeles-district-los-angeles-district-usace-los-angeles-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sacramento-district-sacramento-district-usace-sacramento-ca</Url>
+        <FullName>Sacramento District (USACE)</FullName>
+        <Name>Sacramento District</Name>
+        <Id>sacramento-district-sacramento-district-usace-sacramento-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/san-francisco-district-san-francisco-district-usace-san-francisco-ca</Url>
+        <FullName>San Francisco District (USACE)</FullName>
+        <Name>San Francisco District</Name>
+        <Id>san-francisco-district-san-francisco-district-usace-san-francisco-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/albuquerque-district-albuquerque-district-usace-albuquerque-nm</Url>
+    <NameNode>Albuquerque District (USACE), South Pacific Division (USACE)</NameNode>
+    <FullName>Albuquerque District (USACE), South Pacific Division (USACE)</FullName>
+    <SplitName>Albuquerque District (USACE), South Pacific Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Albuquerque</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Albuquerque, NM</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/albuquerque-nm</Url>
+        <Id>albuquerque-nm</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/los-angeles-district-los-angeles-district-usace-los-angeles-ca</Url>
+    <NameNode>Los Angeles District (USACE), South Pacific Division (USACE)</NameNode>
+    <FullName>Los Angeles District (USACE), South Pacific Division (USACE)</FullName>
+    <SplitName>Los Angeles District (USACE), South Pacific Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Los Angeles</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Los Angeles, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/los-angeles-ca</Url>
+        <Id>los-angeles-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sacramento-district-sacramento-district-usace-sacramento-ca</Url>
+    <NameNode>Sacramento District (USACE), South Pacific Division (USACE)</NameNode>
+    <FullName>Sacramento District (USACE), South Pacific Division (USACE)</FullName>
+    <SplitName>Sacramento District (USACE), South Pacific Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sacramento</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sacramento, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sacramento-ca</Url>
+        <Id>sacramento-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/san-francisco-district-san-francisco-district-usace-san-francisco-ca</Url>
+    <NameNode>San Francisco District (USACE), South Pacific Division (USACE)</NameNode>
+    <FullName>San Francisco District (USACE), South Pacific Division (USACE)</FullName>
+    <SplitName>San Francisco District (USACE), South Pacific Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>San Francisco</BaseName>
+        <Deployment>false</Deployment>
+        <Location>San Francisco, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/san-francisco-ca</Url>
+        <Id>san-francisco-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/southwestern-div-southwestern-division-usace-dallas-tx</Url>
+    <NameNode>Southwestern Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>Southwestern Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>Southwestern Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dallas</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Dallas, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/dallas-tx</Url>
+        <Id>dallas-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fort-worth-district-fort-worth-district-usace-fort-worth-tx</Url>
+        <FullName>Fort Worth District (USACE)</FullName>
+        <Name>Fort Worth District</Name>
+        <Id>fort-worth-district-fort-worth-district-usace-fort-worth-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/galveston-district-galveston-district-usace-galveston-tx</Url>
+        <FullName>Galveston District (USACE)</FullName>
+        <Name>Galveston District</Name>
+        <Id>galveston-district-galveston-district-usace-galveston-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/little-rock-district-little-rock-district-usace-little-rock-ar</Url>
+        <FullName>Little Rock District (USACE)</FullName>
+        <Name>Little Rock District</Name>
+        <Id>little-rock-district-little-rock-district-usace-little-rock-ar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tulsa-district-tulsa-district-usace-tulsa-ok</Url>
+        <FullName>Tulsa District (USACE)</FullName>
+        <Name>Tulsa District</Name>
+        <Id>tulsa-district-tulsa-district-usace-tulsa-ok</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fort-worth-district-fort-worth-district-usace-fort-worth-tx</Url>
+    <NameNode>Fort Worth District (USACE), Southwestern Division (USACE)</NameNode>
+    <FullName>Fort Worth District (USACE), Southwestern Division (USACE)</FullName>
+    <SplitName>Fort Worth District (USACE), Southwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/galveston-district-galveston-district-usace-galveston-tx</Url>
+    <NameNode>Galveston District (USACE), Southwestern Division (USACE)</NameNode>
+    <FullName>Galveston District (USACE), Southwestern Division (USACE)</FullName>
+    <SplitName>Galveston District (USACE), Southwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Galveston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Galveston, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/galveston-tx</Url>
+        <Id>galveston-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/little-rock-district-little-rock-district-usace-little-rock-ar</Url>
+    <NameNode>Little Rock District (USACE), Southwestern Division (USACE)</NameNode>
+    <FullName>Little Rock District (USACE), Southwestern Division (USACE)</FullName>
+    <SplitName>Little Rock District (USACE), Southwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Little Rock</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Little Rock, AR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/little-rock-ar</Url>
+        <Id>little-rock-ar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tulsa-district-tulsa-district-usace-tulsa-ok</Url>
+    <NameNode>Tulsa District (USACE), Southwestern Division (USACE)</NameNode>
+    <FullName>Tulsa District (USACE), Southwestern Division (USACE)</FullName>
+    <SplitName>Tulsa District (USACE), Southwestern Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tulsa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tulsa, OK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tulsa-ok</Url>
+        <Id>tulsa-ok</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/transatlantic-div-transatlantic-division-usace-winchester-va</Url>
+    <NameNode>Transatlantic Division (USACE), US Army Corps of Engineers</NameNode>
+    <FullName>Transatlantic Division (USACE), Army Corps of Engineers</FullName>
+    <SplitName>Transatlantic Division (USACE), US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Winchester</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Winchester, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/winchester-va</Url>
+        <Id>winchester-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/middle-east-district-middle-east-district-usace-winchester-va</Url>
+        <FullName>Middle East District (USACE)</FullName>
+        <Name>Middle East District</Name>
+        <Id>middle-east-district-middle-east-district-usace-winchester-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afghanistan-eng-district-north-afghanistan-engineer-district-north-usace-winchester-va</Url>
+        <FullName>Afghanistan Engineer District, North (USACE)</FullName>
+        <Name>Afghanistan Eng District, North</Name>
+        <Id>afghanistan-eng-district-north-afghanistan-engineer-district-north-usace-winchester-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afghanistan-eng-district-south-afghanistan-engineer-district-south-usace-winchester-va</Url>
+        <FullName>Afghanistan Engineer District, South (USACE)</FullName>
+        <Name>Afghanistan Eng District, South</Name>
+        <Id>afghanistan-eng-district-south-afghanistan-engineer-district-south-usace-winchester-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/middle-east-district-middle-east-district-usace-winchester-va</Url>
+    <NameNode>Middle East District (USACE), Transatlantic Division (USACE)</NameNode>
+    <FullName>Middle East District (USACE), Transatlantic Division (USACE)</FullName>
+    <SplitName>Middle East District (USACE), Transatlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Winchester</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Winchester, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/winchester-va</Url>
+        <Id>winchester-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afghanistan-eng-district-north-afghanistan-engineer-district-north-usace-winchester-va</Url>
+    <NameNode>Afghanistan Engineer District, North (USACE), Transatlantic Division (USACE)</NameNode>
+    <FullName>Afghanistan Engineer District, North (USACE), Transatlantic Division (USACE)</FullName>
+    <SplitName>Afghanistan Engineer District, North (USACE), Transatlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Winchester</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Winchester, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/winchester-va</Url>
+        <Id>winchester-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afghanistan-eng-district-south-afghanistan-engineer-district-south-usace-winchester-va</Url>
+    <NameNode>Afghanistan Engineer District, South (USACE), Transatlantic Division (USACE)</NameNode>
+    <FullName>Afghanistan Engineer District, South (USACE), Transatlantic Division (USACE)</FullName>
+    <SplitName>Afghanistan Engineer District, South (USACE), Transatlantic Division (USACE)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Winchester</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Winchester, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/winchester-va</Url>
+        <Id>winchester-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usace-fed-far-east-division</Url>
+    <NameNode>Far East Division, US Army Corps of Engineers</NameNode>
+    <FullName>Far East Division, Army Corps of Engineers</FullName>
+    <SplitName>Far East Division, US Army Corps of Engineers</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/centers-of-excellence-us-army-corps-of-engineers</Url>
+    <NameNode>US Army Corps of Engineers, Direct Reporting Units</NameNode>
+    <FullName>Army Corps of Engineers, Direct Reporting Units</FullName>
+    <SplitName>US Army Corps of Engineers, Direct Reporting Units</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/481/small/usace.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -1,0 +1,3700 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afgsc-air-force-global-strike-command-barksdale-afb-la</Url>
+    <NameNode>Air Force Global Strike Command</NameNode>
+    <FullName>Air Force Global Strike Command</FullName>
+    <SplitName>Air Force Global Strike Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/061/small/afgsc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-afgsc-headquarters-air-force-global-strike-command-barksdale-afb-la</Url>
+        <FullName>Headquarters Air Force Global Strike Command</FullName>
+        <Name>HQ AFGSC</Name>
+        <Id>hq-afgsc-headquarters-air-force-global-strike-command-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/8th-af-8th-air-force-barksdale-afb-la</Url>
+        <FullName>8th Air Force</FullName>
+        <Name>8th AF</Name>
+        <Id>8th-af-8th-air-force-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/20th-af-20th-air-force-fe-warren-afb-wy</Url>
+        <FullName>20th Air Force</FullName>
+        <Name>20th AF</Name>
+        <Id>20th-af-20th-air-force-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/576-fts-576th-flight-test-squadron-vandenberg-afb-ca</Url>
+        <FullName>576th Flight Test Squadron</FullName>
+        <Name>576 FTS</Name>
+        <Id>576-fts-576th-flight-test-squadron-vandenberg-afb-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-afgsc-headquarters-air-force-global-strike-command-barksdale-afb-la</Url>
+    <NameNode>Headquarters Air Force Global Strike Command, Air Force Global Strike Command</NameNode>
+    <FullName>Headquarters Air Force Global Strike Command, Air Force Global Strike Command</FullName>
+    <SplitName>Headquarters Air Force Global Strike Command, Air Force Global Strike Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/061/small/afgsc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/8th-af-8th-air-force-barksdale-afb-la</Url>
+    <NameNode>8th Air Force, Air Force Global Strike Command</NameNode>
+    <FullName>8th Air Force, Air Force Global Strike Command</FullName>
+    <SplitName>8th Air Force, Air Force Global Strike Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/062/small/8af.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-8th-af-headquarters-8th-air-force-barksdale-afb-la</Url>
+        <FullName>Headquarters 8th Air Force</FullName>
+        <Name>HQ 8th AF</Name>
+        <Id>hq-8th-af-headquarters-8th-air-force-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-bw-2nd-bomb-wing-barksdale-afb-la</Url>
+        <FullName>2nd Bomb Wing</FullName>
+        <Name>2 BW</Name>
+        <Id>2-bw-2nd-bomb-wing-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-bw-5th-bomb-wing-minot-afb-nd</Url>
+        <FullName>5th Bomb Wing</FullName>
+        <Name>5 BW</Name>
+        <Id>5-bw-5th-bomb-wing-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-bw-509th-bomb-wing-whiteman-afb-mo</Url>
+        <FullName>509th Bomb Wing</FullName>
+        <Name>509 BW</Name>
+        <Id>509-bw-509th-bomb-wing-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/608-aoc-608th-air-and-space-operations-center-barksdale-afb-la</Url>
+        <FullName>608th Air and Space Operations Center</FullName>
+        <Name>608 AOC</Name>
+        <Id>608-aoc-608th-air-and-space-operations-center-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-8th-af-headquarters-8th-air-force-barksdale-afb-la</Url>
+    <NameNode>Headquarters 8th Air Force, 8th Air Force</NameNode>
+    <FullName>Headquarters 8th Air Force, 8th Air Force</FullName>
+    <SplitName>Headquarters 8th Air Force, 8th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/062/small/8af.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-bw-2nd-bomb-wing-barksdale-afb-la</Url>
+    <NameNode>2nd Bomb Wing, 8th Air Force</NameNode>
+    <FullName>2nd Bomb Wing, 8th Air Force</FullName>
+    <SplitName>2nd Bomb Wing, 8th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-2-bw-headquarters-2nd-bomb-wing-barksdale-afb-la</Url>
+        <FullName>Headquarters 2nd Bomb Wing</FullName>
+        <Name>HQ 2 BW</Name>
+        <Id>hq-2-bw-headquarters-2nd-bomb-wing-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-mxg-2nd-maintenance-group-barksdale-afb-la</Url>
+        <FullName>2nd Maintenance Group</FullName>
+        <Name>2 MXG</Name>
+        <Id>2-mxg-2nd-maintenance-group-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-mdg-2nd-medical-group-barksdale-afb-la</Url>
+        <FullName>2nd Medical Group</FullName>
+        <Name>2 MDG</Name>
+        <Id>2-mdg-2nd-medical-group-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-og-2nd-operations-group-barksdale-afb-la</Url>
+        <FullName>2nd Operations Group</FullName>
+        <Name>2 OG</Name>
+        <Id>2-og-2nd-operations-group-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-msg-2nd-mission-support-group-barksdale-afb-la</Url>
+        <FullName>2nd Mission Support Group</FullName>
+        <Name>2 MSG</Name>
+        <Id>2-msg-2nd-mission-support-group-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-2-bw-headquarters-2nd-bomb-wing-barksdale-afb-la</Url>
+    <NameNode>Headquarters 2nd Bomb Wing, 2nd Bomb Wing</NameNode>
+    <FullName>Headquarters 2nd Bomb Wing, 2nd Bomb Wing</FullName>
+    <SplitName>Headquarters 2nd Bomb Wing, 2nd Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-mxg-2nd-maintenance-group-barksdale-afb-la</Url>
+    <NameNode>2nd Maintenance Group, 2nd Bomb Wing</NameNode>
+    <FullName>2nd Maintenance Group, 2nd Bomb Wing</FullName>
+    <SplitName>2nd Maintenance Group, 2nd Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-mxs-2nd-maintenance-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Maintenance Squadron</FullName>
+        <Name>2 MXS</Name>
+        <Id>2-mxs-2nd-maintenance-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-mxos-2nd-maintenance-operations-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Maintenance Operations Squadron</FullName>
+        <Name>2 MXOS</Name>
+        <Id>2-mxos-2nd-maintenance-operations-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-amxs-2nd-aircraft-maintenance-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Aircraft Maintenance Squadron</FullName>
+        <Name>2 AMXS</Name>
+        <Id>2-amxs-2nd-aircraft-maintenance-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-muns-2nd-munitions-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Munitions Squadron</FullName>
+        <Name>2 MUNS</Name>
+        <Id>2-muns-2nd-munitions-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-mxs-2nd-maintenance-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Maintenance Squadron, 2nd Maintenance Group</NameNode>
+    <FullName>2nd Maintenance Squadron, 2nd Maintenance Group</FullName>
+    <SplitName>2nd Maintenance Squadron, 2nd Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-mxos-2nd-maintenance-operations-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Maintenance Operations Squadron, 2nd Maintenance Group</NameNode>
+    <FullName>2nd Maintenance Operations Squadron, 2nd Maintenance Group</FullName>
+    <SplitName>2nd Maintenance Operations Squadron, 2nd Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-amxs-2nd-aircraft-maintenance-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Aircraft Maintenance Squadron, 2nd Maintenance Group</NameNode>
+    <FullName>2nd Aircraft Maintenance Squadron, 2nd Maintenance Group</FullName>
+    <SplitName>2nd Aircraft Maintenance Squadron, 2nd Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/96-amu-96th-aircraft-maintenance-unit-barksdale-afb-la</Url>
+        <FullName>96th Aircraft Maintenance Unit</FullName>
+        <Name>96 AMU</Name>
+        <Id>96-amu-96th-aircraft-maintenance-unit-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/96-amu-96th-aircraft-maintenance-unit-barksdale-afb-la</Url>
+    <NameNode>96th Aircraft Maintenance Unit, 2nd Aircraft Maintenance Squadron</NameNode>
+    <FullName>96th Aircraft Maintenance Unit, 2nd Aircraft Maintenance Squadron</FullName>
+    <SplitName>96th Aircraft Maintenance Unit, 2nd Aircraft Maintenance Squadron</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-muns-2nd-munitions-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Munitions Squadron, 2nd Maintenance Group</NameNode>
+    <FullName>2nd Munitions Squadron, 2nd Maintenance Group</FullName>
+    <SplitName>2nd Munitions Squadron, 2nd Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-mdg-2nd-medical-group-barksdale-afb-la</Url>
+    <NameNode>2nd Medical Group, 2nd Bomb Wing</NameNode>
+    <FullName>2nd Medical Group, 2nd Bomb Wing</FullName>
+    <SplitName>2nd Medical Group, 2nd Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-og-2nd-operations-group-barksdale-afb-la</Url>
+    <NameNode>2nd Operations Group, 2nd Bomb Wing</NameNode>
+    <FullName>2nd Operations Group, 2nd Bomb Wing</FullName>
+    <SplitName>2nd Operations Group, 2nd Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-oss-2nd-operations-support-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Operations Support Squadron</FullName>
+        <Name>2 OSS</Name>
+        <Id>2-oss-2nd-operations-support-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/11-bs-11th-bomb-squadron-barksdale-afb-la</Url>
+        <FullName>11th Bomb Squadron</FullName>
+        <Name>11 BS</Name>
+        <Id>11-bs-11th-bomb-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/20-bs-20th-bomb-squadron-barksdale-afb-la</Url>
+        <FullName>20th Bomb Squadron</FullName>
+        <Name>20 BS</Name>
+        <Id>20-bs-20th-bomb-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/96-bs-96th-bomb-squadron-barksdale-afb-la</Url>
+        <FullName>96th Bomb Squadron</FullName>
+        <Name>96 BS</Name>
+        <Id>96-bs-96th-bomb-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-oss-2nd-operations-support-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Operations Support Squadron, 2nd Operations Group</NameNode>
+    <FullName>2nd Operations Support Squadron, 2nd Operations Group</FullName>
+    <SplitName>2nd Operations Support Squadron, 2nd Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/11-bs-11th-bomb-squadron-barksdale-afb-la</Url>
+    <NameNode>11th Bomb Squadron, 2nd Operations Group</NameNode>
+    <FullName>11th Bomb Squadron, 2nd Operations Group</FullName>
+    <SplitName>11th Bomb Squadron, 2nd Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/20-bs-20th-bomb-squadron-barksdale-afb-la</Url>
+    <NameNode>20th Bomb Squadron, 2nd Operations Group</NameNode>
+    <FullName>20th Bomb Squadron, 2nd Operations Group</FullName>
+    <SplitName>20th Bomb Squadron, 2nd Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/96-bs-96th-bomb-squadron-barksdale-afb-la</Url>
+    <NameNode>96th Bomb Squadron, 2nd Operations Group</NameNode>
+    <FullName>96th Bomb Squadron, 2nd Operations Group</FullName>
+    <SplitName>96th Bomb Squadron, 2nd Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-msg-2nd-mission-support-group-barksdale-afb-la</Url>
+    <NameNode>2nd Mission Support Group, 2nd Bomb Wing</NameNode>
+    <FullName>2nd Mission Support Group, 2nd Bomb Wing</FullName>
+    <SplitName>2nd Mission Support Group, 2nd Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-cons-2nd-contracting-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Contracting Squadron</FullName>
+        <Name>2 CONS</Name>
+        <Id>2-cons-2nd-contracting-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-cs-2nd-communications-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Communications Squadron</FullName>
+        <Name>2 CS</Name>
+        <Id>2-cs-2nd-communications-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-ces-2nd-civil-engineer-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Civil Engineer Squadron</FullName>
+        <Name>2 CES</Name>
+        <Id>2-ces-2nd-civil-engineer-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-lrs-2nd-logistics-readiness-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Logistics Readiness Squadron</FullName>
+        <Name>2 LRS</Name>
+        <Id>2-lrs-2nd-logistics-readiness-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-fss-2nd-force-support-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Force Support Squadron</FullName>
+        <Name>2 FSS</Name>
+        <Id>2-fss-2nd-force-support-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-sfs-2nd-security-forces-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Security Forces Squadron</FullName>
+        <Name>2 SFS</Name>
+        <Id>2-sfs-2nd-security-forces-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-ss-2nd-services-squadron-barksdale-afb-la</Url>
+        <FullName>2nd Services Squadron</FullName>
+        <Name>2 SS</Name>
+        <Id>2-ss-2nd-services-squadron-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/343-bs-343rd-bomb-squadron-2nd-mission-support-group-barksdale-afb-la</Url>
+        <FullName>343rd Bomb Squadron</FullName>
+        <Name>343 BS</Name>
+        <Id>343-bs-343rd-bomb-squadron-2nd-mission-support-group-barksdale-afb-la</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-cons-2nd-contracting-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Contracting Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Contracting Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Contracting Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-cs-2nd-communications-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Communications Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Communications Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Communications Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-ces-2nd-civil-engineer-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Civil Engineer Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Civil Engineer Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Civil Engineer Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-lrs-2nd-logistics-readiness-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Logistics Readiness Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Logistics Readiness Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Logistics Readiness Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-fss-2nd-force-support-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Force Support Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Force Support Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Force Support Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-sfs-2nd-security-forces-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Security Forces Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Security Forces Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Security Forces Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-ss-2nd-services-squadron-barksdale-afb-la</Url>
+    <NameNode>2nd Services Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>2nd Services Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>2nd Services Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/343-bs-343rd-bomb-squadron-2nd-mission-support-group-barksdale-afb-la</Url>
+    <NameNode>343rd Bomb Squadron, 2nd Mission Support Group</NameNode>
+    <FullName>343rd Bomb Squadron, 2nd Mission Support Group</FullName>
+    <SplitName>343rd Bomb Squadron, 2nd Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/063/small/2bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-bw-5th-bomb-wing-minot-afb-nd</Url>
+    <NameNode>5th Bomb Wing, 8th Air Force</NameNode>
+    <FullName>5th Bomb Wing, 8th Air Force</FullName>
+    <SplitName>5th Bomb Wing, 8th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-5-bw-headquarters-5th-bomb-wing-minot-afb-nd</Url>
+        <FullName>Headquarters 5th Bomb Wing</FullName>
+        <Name>HQ 5 BW</Name>
+        <Id>hq-5-bw-headquarters-5th-bomb-wing-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-og-5th-operations-group-minot-afb-nd</Url>
+        <FullName>5th Operations Group</FullName>
+        <Name>5 OG</Name>
+        <Id>5-og-5th-operations-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-mxg-5th-maintenance-group-minot-afb-nd</Url>
+        <FullName>5th Maintenance Group</FullName>
+        <Name>5 MXG</Name>
+        <Id>5-mxg-5th-maintenance-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-mdg-5th-medical-group-minot-afb-nd</Url>
+        <FullName>5th Medical Group</FullName>
+        <Name>5 MDG</Name>
+        <Id>5-mdg-5th-medical-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-msg-5th-mission-support-group-minot-afb-nd</Url>
+        <FullName>5th Mission Support Group</FullName>
+        <Name>5 MSG</Name>
+        <Id>5-msg-5th-mission-support-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-5-bw-headquarters-5th-bomb-wing-minot-afb-nd</Url>
+    <NameNode>Headquarters 5th Bomb Wing, 5th Bomb Wing</NameNode>
+    <FullName>Headquarters 5th Bomb Wing, 5th Bomb Wing</FullName>
+    <SplitName>Headquarters 5th Bomb Wing, 5th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-og-5th-operations-group-minot-afb-nd</Url>
+    <NameNode>5th Operations Group, 5th Bomb Wing</NameNode>
+    <FullName>5th Operations Group, 5th Bomb Wing</FullName>
+    <SplitName>5th Operations Group, 5th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/23-bs-23rd-bomb-squadron-minot-afb-nd</Url>
+        <FullName>23rd Bomb Squadron</FullName>
+        <Name>23 BS</Name>
+        <Id>23-bs-23rd-bomb-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/69-bs-69th-bomb-squadron-minot-afb-nd</Url>
+        <FullName>69th Bomb Squadron</FullName>
+        <Name>69 BS</Name>
+        <Id>69-bs-69th-bomb-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-oss-5th-operations-support-squadron-minot-afb-nd</Url>
+        <FullName>5th Operations Support Squadron</FullName>
+        <Name>5 OSS</Name>
+        <Id>5-oss-5th-operations-support-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/23-bs-23rd-bomb-squadron-minot-afb-nd</Url>
+    <NameNode>23rd Bomb Squadron, 5th Operations Group</NameNode>
+    <FullName>23rd Bomb Squadron, 5th Operations Group</FullName>
+    <SplitName>23rd Bomb Squadron, 5th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/69-bs-69th-bomb-squadron-minot-afb-nd</Url>
+    <NameNode>69th Bomb Squadron, 5th Operations Group</NameNode>
+    <FullName>69th Bomb Squadron, 5th Operations Group</FullName>
+    <SplitName>69th Bomb Squadron, 5th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-oss-5th-operations-support-squadron-minot-afb-nd</Url>
+    <NameNode>5th Operations Support Squadron, 5th Operations Group</NameNode>
+    <FullName>5th Operations Support Squadron, 5th Operations Group</FullName>
+    <SplitName>5th Operations Support Squadron, 5th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-mxg-5th-maintenance-group-minot-afb-nd</Url>
+    <NameNode>5th Maintenance Group, 5th Bomb Wing</NameNode>
+    <FullName>5th Maintenance Group, 5th Bomb Wing</FullName>
+    <SplitName>5th Maintenance Group, 5th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-muns-5th-munitions-squadron-minot-afb-nd</Url>
+        <FullName>5th Munitions Squadron</FullName>
+        <Name>5 MUNS</Name>
+        <Id>5-muns-5th-munitions-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-mxs-5th-maintenance-squadron-minot-afb-nd</Url>
+        <FullName>5th Maintenance Squadron</FullName>
+        <Name>5 MXS</Name>
+        <Id>5-mxs-5th-maintenance-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-mxos-5th-maintenance-operations-squadron-minot-afb-nd</Url>
+        <FullName>5th Maintenance Operations Squadron</FullName>
+        <Name>5 MXOS</Name>
+        <Id>5-mxos-5th-maintenance-operations-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-amxs-5th-aircraft-maintenance-squadron-minot-afb-nd</Url>
+        <FullName>5th Aircraft Maintenance Squadron</FullName>
+        <Name>5 AMXS</Name>
+        <Id>5-amxs-5th-aircraft-maintenance-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/705-muns-705th-munitions-squadron-minot-afb-nd</Url>
+        <FullName>705th Munitions Squadron</FullName>
+        <Name>705 MUNS</Name>
+        <Id>705-muns-705th-munitions-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-muns-5th-munitions-squadron-minot-afb-nd</Url>
+    <NameNode>5th Munitions Squadron, 5th Maintenance Group</NameNode>
+    <FullName>5th Munitions Squadron, 5th Maintenance Group</FullName>
+    <SplitName>5th Munitions Squadron, 5th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-mxs-5th-maintenance-squadron-minot-afb-nd</Url>
+    <NameNode>5th Maintenance Squadron, 5th Maintenance Group</NameNode>
+    <FullName>5th Maintenance Squadron, 5th Maintenance Group</FullName>
+    <SplitName>5th Maintenance Squadron, 5th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-mxos-5th-maintenance-operations-squadron-minot-afb-nd</Url>
+    <NameNode>5th Maintenance Operations Squadron, 5th Maintenance Group</NameNode>
+    <FullName>5th Maintenance Operations Squadron, 5th Maintenance Group</FullName>
+    <SplitName>5th Maintenance Operations Squadron, 5th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-amxs-5th-aircraft-maintenance-squadron-minot-afb-nd</Url>
+    <NameNode>5th Aircraft Maintenance Squadron, 5th Maintenance Group</NameNode>
+    <FullName>5th Aircraft Maintenance Squadron, 5th Maintenance Group</FullName>
+    <SplitName>5th Aircraft Maintenance Squadron, 5th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/705-muns-705th-munitions-squadron-minot-afb-nd</Url>
+    <NameNode>705th Munitions Squadron, 5th Maintenance Group</NameNode>
+    <FullName>705th Munitions Squadron, 5th Maintenance Group</FullName>
+    <SplitName>705th Munitions Squadron, 5th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-mdg-5th-medical-group-minot-afb-nd</Url>
+    <NameNode>5th Medical Group, 5th Bomb Wing</NameNode>
+    <FullName>5th Medical Group, 5th Bomb Wing</FullName>
+    <SplitName>5th Medical Group, 5th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-mos-5th-medical-operations-squadron-minot-afb-nd</Url>
+        <FullName>5th Medical Operations Squadron</FullName>
+        <Name>5 MOS</Name>
+        <Id>5-mos-5th-medical-operations-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-mss-5th-medical-support-squadron-minot-afb-nd</Url>
+        <FullName>5th Medical Support Squadron</FullName>
+        <Name>5 MSS</Name>
+        <Id>5-mss-5th-medical-support-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-mos-5th-medical-operations-squadron-minot-afb-nd</Url>
+    <NameNode>5th Medical Operations Squadron, 5th Medical Group</NameNode>
+    <FullName>5th Medical Operations Squadron, 5th Medical Group</FullName>
+    <SplitName>5th Medical Operations Squadron, 5th Medical Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-mss-5th-medical-support-squadron-minot-afb-nd</Url>
+    <NameNode>5th Medical Support Squadron, 5th Medical Group</NameNode>
+    <FullName>5th Medical Support Squadron, 5th Medical Group</FullName>
+    <SplitName>5th Medical Support Squadron, 5th Medical Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-msg-5th-mission-support-group-minot-afb-nd</Url>
+    <NameNode>5th Mission Support Group, 5th Bomb Wing</NameNode>
+    <FullName>5th Mission Support Group, 5th Bomb Wing</FullName>
+    <SplitName>5th Mission Support Group, 5th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-ces-5th-civil-engineer-squadron-minot-afb-nd</Url>
+        <FullName>5th Civil Engineer Squadron</FullName>
+        <Name>5 CES</Name>
+        <Id>5-ces-5th-civil-engineer-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-cs-5th-communications-squadron-minot-afb-nd</Url>
+        <FullName>5th Communications Squadron</FullName>
+        <Name>5 CS</Name>
+        <Id>5-cs-5th-communications-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-fss-5th-force-support-squadron-minot-afb-nd</Url>
+        <FullName>5th Force Support Squadron</FullName>
+        <Name>5 FSS</Name>
+        <Id>5-fss-5th-force-support-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-sfs-5th-security-forces-squadron-minot-afb-nd</Url>
+        <FullName>5th Security Forces Squadron</FullName>
+        <Name>5 SFS</Name>
+        <Id>5-sfs-5th-security-forces-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-cons-5th-contracting-squadron-minot-afb-nd</Url>
+        <FullName>5th Contracting Squadron</FullName>
+        <Name>5 CONS</Name>
+        <Id>5-cons-5th-contracting-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5-lrs-5th-logistics-readiness-squadron-minot-afb-nd</Url>
+        <FullName>5th Logistics Readiness Squadron</FullName>
+        <Name>5 LRS</Name>
+        <Id>5-lrs-5th-logistics-readiness-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-ces-5th-civil-engineer-squadron-minot-afb-nd</Url>
+    <NameNode>5th Civil Engineer Squadron, 5th Mission Support Group</NameNode>
+    <FullName>5th Civil Engineer Squadron, 5th Mission Support Group</FullName>
+    <SplitName>5th Civil Engineer Squadron, 5th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-cs-5th-communications-squadron-minot-afb-nd</Url>
+    <NameNode>5th Communications Squadron, 5th Mission Support Group</NameNode>
+    <FullName>5th Communications Squadron, 5th Mission Support Group</FullName>
+    <SplitName>5th Communications Squadron, 5th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-fss-5th-force-support-squadron-minot-afb-nd</Url>
+    <NameNode>5th Force Support Squadron, 5th Mission Support Group</NameNode>
+    <FullName>5th Force Support Squadron, 5th Mission Support Group</FullName>
+    <SplitName>5th Force Support Squadron, 5th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-sfs-5th-security-forces-squadron-minot-afb-nd</Url>
+    <NameNode>5th Security Forces Squadron, 5th Mission Support Group</NameNode>
+    <FullName>5th Security Forces Squadron, 5th Mission Support Group</FullName>
+    <SplitName>5th Security Forces Squadron, 5th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-cons-5th-contracting-squadron-minot-afb-nd</Url>
+    <NameNode>5th Contracting Squadron, 5th Mission Support Group</NameNode>
+    <FullName>5th Contracting Squadron, 5th Mission Support Group</FullName>
+    <SplitName>5th Contracting Squadron, 5th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5-lrs-5th-logistics-readiness-squadron-minot-afb-nd</Url>
+    <NameNode>5th Logistics Readiness Squadron, 5th Mission Support Group</NameNode>
+    <FullName>5th Logistics Readiness Squadron, 5th Mission Support Group</FullName>
+    <SplitName>5th Logistics Readiness Squadron, 5th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/064/small/5bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-bw-509th-bomb-wing-whiteman-afb-mo</Url>
+    <NameNode>509th Bomb Wing, 8th Air Force</NameNode>
+    <FullName>509th Bomb Wing, 8th Air Force</FullName>
+    <SplitName>509th Bomb Wing, 8th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-509-bw-headquarters-509th-bomb-wing-whiteman-afb-mo</Url>
+        <FullName>Headquarters 509th Bomb Wing</FullName>
+        <Name>HQ 509 BW</Name>
+        <Id>hq-509-bw-headquarters-509th-bomb-wing-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-og-509th-operations-group-whiteman-afb-mo</Url>
+        <FullName>509th Operations Group</FullName>
+        <Name>509 OG</Name>
+        <Id>509-og-509th-operations-group-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-mxg-509th-maintenance-group-whiteman-afb-mo</Url>
+        <FullName>509th Maintenance Group</FullName>
+        <Name>509 MXG</Name>
+        <Id>509-mxg-509th-maintenance-group-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-msg-509th-mission-support-group-whiteman-afb-mo</Url>
+        <FullName>509th Mission Support Group</FullName>
+        <Name>509 MSG</Name>
+        <Id>509-msg-509th-mission-support-group-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-mdg-509th-medical-group-whiteman-afb-mo</Url>
+        <FullName>509th Medical Group</FullName>
+        <Name>509 MDG</Name>
+        <Id>509-mdg-509th-medical-group-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-509-bw-headquarters-509th-bomb-wing-whiteman-afb-mo</Url>
+    <NameNode>Headquarters 509th Bomb Wing, 509th Bomb Wing</NameNode>
+    <FullName>Headquarters 509th Bomb Wing, 509th Bomb Wing</FullName>
+    <SplitName>Headquarters 509th Bomb Wing, 509th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-og-509th-operations-group-whiteman-afb-mo</Url>
+    <NameNode>509th Operations Group, 509th Bomb Wing</NameNode>
+    <FullName>509th Operations Group, 509th Bomb Wing</FullName>
+    <SplitName>509th Operations Group, 509th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/13-bs-13th-bomb-squadron-whiteman-afb-mo</Url>
+        <FullName>13th Bomb Squadron</FullName>
+        <Name>13 BS</Name>
+        <Id>13-bs-13th-bomb-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/393-bs-393rd-bomb-squadron-whiteman-afb-mo</Url>
+        <FullName>393rd Bomb Squadron</FullName>
+        <Name>393 BS</Name>
+        <Id>393-bs-393rd-bomb-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/394-cts-394th-combat-training-squadron-whiteman-afb-mo</Url>
+        <FullName>394th Combat Training Squadron</FullName>
+        <Name>394 CTS</Name>
+        <Id>394-cts-394th-combat-training-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-oss-509th-operations-support-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Operations Support Squadron</FullName>
+        <Name>509 OSS</Name>
+        <Id>509-oss-509th-operations-support-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/13-bs-13th-bomb-squadron-whiteman-afb-mo</Url>
+    <NameNode>13th Bomb Squadron, 509th Operations Group</NameNode>
+    <FullName>13th Bomb Squadron, 509th Operations Group</FullName>
+    <SplitName>13th Bomb Squadron, 509th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/393-bs-393rd-bomb-squadron-whiteman-afb-mo</Url>
+    <NameNode>393rd Bomb Squadron, 509th Operations Group</NameNode>
+    <FullName>393rd Bomb Squadron, 509th Operations Group</FullName>
+    <SplitName>393rd Bomb Squadron, 509th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/394-cts-394th-combat-training-squadron-whiteman-afb-mo</Url>
+    <NameNode>394th Combat Training Squadron, 509th Operations Group</NameNode>
+    <FullName>394th Combat Training Squadron, 509th Operations Group</FullName>
+    <SplitName>394th Combat Training Squadron, 509th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-oss-509th-operations-support-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Operations Support Squadron, 509th Operations Group</NameNode>
+    <FullName>509th Operations Support Squadron, 509th Operations Group</FullName>
+    <SplitName>509th Operations Support Squadron, 509th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-mxg-509th-maintenance-group-whiteman-afb-mo</Url>
+    <NameNode>509th Maintenance Group, 509th Bomb Wing</NameNode>
+    <FullName>509th Maintenance Group, 509th Bomb Wing</FullName>
+    <SplitName>509th Maintenance Group, 509th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-ms-509th-munitions-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Munitions Squadron</FullName>
+        <Name>509 MS</Name>
+        <Id>509-ms-509th-munitions-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-mos-509th-maintenance-operations-squadron-509th-maintenance-group-whiteman-afb-mo</Url>
+        <FullName>509th Maintenance Operations Squadron</FullName>
+        <Name>509 MOS</Name>
+        <Id>509-mos-509th-maintenance-operations-squadron-509th-maintenance-group-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-mxs-509th-maintenance-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Maintenance Squadron</FullName>
+        <Name>509 MXS</Name>
+        <Id>509-mxs-509th-maintenance-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-amxs-509th-aircraft-maintenance-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Aircraft Maintenance Squadron</FullName>
+        <Name>509 AMXS</Name>
+        <Id>509-amxs-509th-aircraft-maintenance-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-ms-509th-munitions-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Munitions Squadron, 509th Maintenance Group</NameNode>
+    <FullName>509th Munitions Squadron, 509th Maintenance Group</FullName>
+    <SplitName>509th Munitions Squadron, 509th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-mos-509th-maintenance-operations-squadron-509th-maintenance-group-whiteman-afb-mo</Url>
+    <NameNode>509th Maintenance Operations Squadron, 509th Maintenance Group</NameNode>
+    <FullName>509th Maintenance Operations Squadron, 509th Maintenance Group</FullName>
+    <SplitName>509th Maintenance Operations Squadron, 509th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-mxs-509th-maintenance-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Maintenance Squadron, 509th Maintenance Group</NameNode>
+    <FullName>509th Maintenance Squadron, 509th Maintenance Group</FullName>
+    <SplitName>509th Maintenance Squadron, 509th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-amxs-509th-aircraft-maintenance-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Aircraft Maintenance Squadron, 509th Maintenance Group</NameNode>
+    <FullName>509th Aircraft Maintenance Squadron, 509th Maintenance Group</FullName>
+    <SplitName>509th Aircraft Maintenance Squadron, 509th Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-msg-509th-mission-support-group-whiteman-afb-mo</Url>
+    <NameNode>509th Mission Support Group, 509th Bomb Wing</NameNode>
+    <FullName>509th Mission Support Group, 509th Bomb Wing</FullName>
+    <SplitName>509th Mission Support Group, 509th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-fss-509th-force-support-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Force Support Squadron</FullName>
+        <Name>509 FSS</Name>
+        <Id>509-fss-509th-force-support-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-ces-509th-civil-engineering-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Civil Engineering Squadron</FullName>
+        <Name>509 CES</Name>
+        <Id>509-ces-509th-civil-engineering-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-lrs-509th-logistics-readiness-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Logistics Readiness Squadron</FullName>
+        <Name>509 LRS</Name>
+        <Id>509-lrs-509th-logistics-readiness-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-sfs-509th-security-forces-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Security Forces Squadron</FullName>
+        <Name>509 SFS</Name>
+        <Id>509-sfs-509th-security-forces-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-cons-509th-contracting-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Contracting Squadron</FullName>
+        <Name>509 CONS</Name>
+        <Id>509-cons-509th-contracting-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-cs-509th-communications-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Communications Squadron</FullName>
+        <Name>509 CS</Name>
+        <Id>509-cs-509th-communications-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-fss-509th-force-support-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Force Support Squadron, 509th Mission Support Group</NameNode>
+    <FullName>509th Force Support Squadron, 509th Mission Support Group</FullName>
+    <SplitName>509th Force Support Squadron, 509th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-ces-509th-civil-engineering-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Civil Engineering Squadron, 509th Mission Support Group</NameNode>
+    <FullName>509th Civil Engineering Squadron, 509th Mission Support Group</FullName>
+    <SplitName>509th Civil Engineering Squadron, 509th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-lrs-509th-logistics-readiness-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Logistics Readiness Squadron, 509th Mission Support Group</NameNode>
+    <FullName>509th Logistics Readiness Squadron, 509th Mission Support Group</FullName>
+    <SplitName>509th Logistics Readiness Squadron, 509th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-sfs-509th-security-forces-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Security Forces Squadron, 509th Mission Support Group</NameNode>
+    <FullName>509th Security Forces Squadron, 509th Mission Support Group</FullName>
+    <SplitName>509th Security Forces Squadron, 509th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-cons-509th-contracting-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Contracting Squadron, 509th Mission Support Group</NameNode>
+    <FullName>509th Contracting Squadron, 509th Mission Support Group</FullName>
+    <SplitName>509th Contracting Squadron, 509th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-cs-509th-communications-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Communications Squadron, 509th Mission Support Group</NameNode>
+    <FullName>509th Communications Squadron, 509th Mission Support Group</FullName>
+    <SplitName>509th Communications Squadron, 509th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-mdg-509th-medical-group-whiteman-afb-mo</Url>
+    <NameNode>509th Medical Group, 509th Bomb Wing</NameNode>
+    <FullName>509th Medical Group, 509th Bomb Wing</FullName>
+    <SplitName>509th Medical Group, 509th Bomb Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-mos-509th-medical-operations-squadron-509th-medical-group-whiteman-afb-mo</Url>
+        <FullName>509th Medical Operations Squadron</FullName>
+        <Name>509 MOS</Name>
+        <Id>509-mos-509th-medical-operations-squadron-509th-medical-group-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/509-mss-509th-medical-support-squadron-whiteman-afb-mo</Url>
+        <FullName>509th Medical Support Squadron</FullName>
+        <Name>509 MSS</Name>
+        <Id>509-mss-509th-medical-support-squadron-whiteman-afb-mo</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-mos-509th-medical-operations-squadron-509th-medical-group-whiteman-afb-mo</Url>
+    <NameNode>509th Medical Operations Squadron, 509th Medical Group</NameNode>
+    <FullName>509th Medical Operations Squadron, 509th Medical Group</FullName>
+    <SplitName>509th Medical Operations Squadron, 509th Medical Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/509-mss-509th-medical-support-squadron-whiteman-afb-mo</Url>
+    <NameNode>509th Medical Support Squadron, 509th Medical Group</NameNode>
+    <FullName>509th Medical Support Squadron, 509th Medical Group</FullName>
+    <SplitName>509th Medical Support Squadron, 509th Medical Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/065/small/509bw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Whiteman AFB, MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/whiteman-afb-mo</Url>
+        <Id>whiteman-afb-mo</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/608-aoc-608th-air-and-space-operations-center-barksdale-afb-la</Url>
+    <NameNode>608th Air and Space Operations Center, 8th Air Force</NameNode>
+    <FullName>608th Air and Space Operations Center, 8th Air Force</FullName>
+    <SplitName>608th Air and Space Operations Center, 8th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/620/small/608aoc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Barksdale AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Barksdale AFB, LA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/barksdale-afb-la</Url>
+        <Id>barksdale-afb-la</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/20th-af-20th-air-force-fe-warren-afb-wy</Url>
+    <NameNode>20th Air Force, Air Force Global Strike Command</NameNode>
+    <FullName>20th Air Force, Air Force Global Strike Command</FullName>
+    <SplitName>20th Air Force, Air Force Global Strike Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/066/small/20af.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-20th-af-headquarters-20th-air-force-fe-warren-afb-wy</Url>
+        <FullName>Headquarters 20th Air Force</FullName>
+        <Name>HQ 20th AF</Name>
+        <Id>hq-20th-af-headquarters-20th-air-force-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-mw-341st-missile-wing-malmstrom-afb-mt</Url>
+        <FullName>341st Missile Wing</FullName>
+        <Name>341 MW</Name>
+        <Id>341-mw-341st-missile-wing-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-mw-90th-missile-wing-fe-warren-afb-wy</Url>
+        <FullName>90th Missile Wing</FullName>
+        <Name>90 MW</Name>
+        <Id>90-mw-90th-missile-wing-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-mw-91st-missile-wing-minot-afb-nd</Url>
+        <FullName>91st Missile Wing</FullName>
+        <Name>91 MW</Name>
+        <Id>91-mw-91st-missile-wing-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-20th-af-headquarters-20th-air-force-fe-warren-afb-wy</Url>
+    <NameNode>Headquarters 20th Air Force, 20th Air Force</NameNode>
+    <FullName>Headquarters 20th Air Force, 20th Air Force</FullName>
+    <SplitName>Headquarters 20th Air Force, 20th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/066/small/20af.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-mw-341st-missile-wing-malmstrom-afb-mt</Url>
+    <NameNode>341st Missile Wing, 20th Air Force</NameNode>
+    <FullName>341st Missile Wing, 20th Air Force</FullName>
+    <SplitName>341st Missile Wing, 20th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-341-mw-headquarters-341st-missile-wing-malmstrom-afb-mt</Url>
+        <FullName>Headquarters 341st Missile Wing</FullName>
+        <Name>HQ 341 MW</Name>
+        <Id>hq-341-mw-headquarters-341st-missile-wing-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-og-341st-operations-group-malmstrom-afb-mt</Url>
+        <FullName>341st Operations Group</FullName>
+        <Name>341 OG</Name>
+        <Id>341-og-341st-operations-group-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-sfg-341st-security-forces-group-malmstrom-afb-mt</Url>
+        <FullName>341st Security Forces Group</FullName>
+        <Name>341 SFG</Name>
+        <Id>341-sfg-341st-security-forces-group-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-msg-341st-mission-support-group-malmstrom-afb-mt</Url>
+        <FullName>341st Mission Support Group</FullName>
+        <Name>341 MSG</Name>
+        <Id>341-msg-341st-mission-support-group-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-mxg-341st-maintenance-group-malmstrom-afb-mt</Url>
+        <FullName>341st Maintenance Group</FullName>
+        <Name>341 MXG</Name>
+        <Id>341-mxg-341st-maintenance-group-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-mdg-341st-medical-group-malmstrom-afb-mt</Url>
+        <FullName>341ST Medical Group</FullName>
+        <Name>341 MDG</Name>
+        <Id>341-mdg-341st-medical-group-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-cpts-341st-comptroller-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Comptroller Squadron</FullName>
+        <Name>341 CPTS</Name>
+        <Id>341-cpts-341st-comptroller-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-341-mw-headquarters-341st-missile-wing-malmstrom-afb-mt</Url>
+    <NameNode>Headquarters 341st Missile Wing, 341st Missile Wing</NameNode>
+    <FullName>Headquarters 341st Missile Wing, 341st Missile Wing</FullName>
+    <SplitName>Headquarters 341st Missile Wing, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-og-341st-operations-group-malmstrom-afb-mt</Url>
+    <NameNode>341st Operations Group, 341st Missile Wing</NameNode>
+    <FullName>341st Operations Group, 341st Missile Wing</FullName>
+    <SplitName>341st Operations Group, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/10-ms-10th-missile-squadron-malmstrom-afb-mt</Url>
+        <FullName>10th Missile Squadron</FullName>
+        <Name>10 MS</Name>
+        <Id>10-ms-10th-missile-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/12-ms-12th-missile-squadron-malmstrom-afb-mt</Url>
+        <FullName>12th Missile Squadron</FullName>
+        <Name>12 MS</Name>
+        <Id>12-ms-12th-missile-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/490-ms-490th-missile-squadron-malmstrom-afb-mt</Url>
+        <FullName>490th Missile Squadron</FullName>
+        <Name>490 MS</Name>
+        <Id>490-ms-490th-missile-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-oss-341st-operations-support-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Operations Support Squadron</FullName>
+        <Name>341 OSS</Name>
+        <Id>341-oss-341st-operations-support-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/40-hs-40th-helicopter-squadron-malmstrom-afb-mt</Url>
+        <FullName>40th Helicopter Squadron</FullName>
+        <Name>40 HS</Name>
+        <Id>40-hs-40th-helicopter-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/10-ms-10th-missile-squadron-malmstrom-afb-mt</Url>
+    <NameNode>10th Missile Squadron, 341st Operations Group</NameNode>
+    <FullName>10th Missile Squadron, 341st Operations Group</FullName>
+    <SplitName>10th Missile Squadron, 341st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/12-ms-12th-missile-squadron-malmstrom-afb-mt</Url>
+    <NameNode>12th Missile Squadron, 341st Operations Group</NameNode>
+    <FullName>12th Missile Squadron, 341st Operations Group</FullName>
+    <SplitName>12th Missile Squadron, 341st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/490-ms-490th-missile-squadron-malmstrom-afb-mt</Url>
+    <NameNode>490th Missile Squadron, 341st Operations Group</NameNode>
+    <FullName>490th Missile Squadron, 341st Operations Group</FullName>
+    <SplitName>490th Missile Squadron, 341st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-oss-341st-operations-support-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Operations Support Squadron, 341st Operations Group</NameNode>
+    <FullName>341st Operations Support Squadron, 341st Operations Group</FullName>
+    <SplitName>341st Operations Support Squadron, 341st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/40-hs-40th-helicopter-squadron-malmstrom-afb-mt</Url>
+    <NameNode>40th Helicopter Squadron, 341st Operations Group</NameNode>
+    <FullName>40th Helicopter Squadron, 341st Operations Group</FullName>
+    <SplitName>40th Helicopter Squadron, 341st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-sfg-341st-security-forces-group-malmstrom-afb-mt</Url>
+    <NameNode>341st Security Forces Group, 341st Missile Wing</NameNode>
+    <FullName>341st Security Forces Group, 341st Missile Wing</FullName>
+    <SplitName>341st Security Forces Group, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-msfs-341st-missile-security-forces-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Missile Security Forces Squadron</FullName>
+        <Name>341 MSFS</Name>
+        <Id>341-msfs-341st-missile-security-forces-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/741-msfs-741st-missile-security-forces-squadron-malmstrom-afb-mt</Url>
+        <FullName>741st Missile Security Forces Squadron</FullName>
+        <Name>741 MSFS</Name>
+        <Id>741-msfs-741st-missile-security-forces-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-sfs-341st-security-forces-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Security Forces Squadron</FullName>
+        <Name>341 SFS</Name>
+        <Id>341-sfs-341st-security-forces-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-sss-341st-security-support-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Security Support Squadron</FullName>
+        <Name>341 SSS</Name>
+        <Id>341-sss-341st-security-support-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/819-rhs-819th-red-horse-squadron-malmstrom-afb-mt</Url>
+        <FullName>819TH RED HORSE SQUADRON</FullName>
+        <Name>819 RHS</Name>
+        <Id>819-rhs-819th-red-horse-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-msfs-341st-missile-security-forces-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Missile Security Forces Squadron, 341st Security Forces Group</NameNode>
+    <FullName>341st Missile Security Forces Squadron, 341st Security Forces Group</FullName>
+    <SplitName>341st Missile Security Forces Squadron, 341st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/741-msfs-741st-missile-security-forces-squadron-malmstrom-afb-mt</Url>
+    <NameNode>741st Missile Security Forces Squadron, 341st Security Forces Group</NameNode>
+    <FullName>741st Missile Security Forces Squadron, 341st Security Forces Group</FullName>
+    <SplitName>741st Missile Security Forces Squadron, 341st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-sfs-341st-security-forces-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Security Forces Squadron, 341st Security Forces Group</NameNode>
+    <FullName>341st Security Forces Squadron, 341st Security Forces Group</FullName>
+    <SplitName>341st Security Forces Squadron, 341st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-sss-341st-security-support-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Security Support Squadron, 341st Security Forces Group</NameNode>
+    <FullName>341st Security Support Squadron, 341st Security Forces Group</FullName>
+    <SplitName>341st Security Support Squadron, 341st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/819-rhs-819th-red-horse-squadron-malmstrom-afb-mt</Url>
+    <NameNode>819TH RED HORSE SQUADRON, 341st Security Forces Group</NameNode>
+    <FullName>819TH RED HORSE SQUADRON, 341st Security Forces Group</FullName>
+    <SplitName>819TH RED HORSE SQUADRON, 341st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-msg-341st-mission-support-group-malmstrom-afb-mt</Url>
+    <NameNode>341st Mission Support Group, 341st Missile Wing</NameNode>
+    <FullName>341st Mission Support Group, 341st Missile Wing</FullName>
+    <SplitName>341st Mission Support Group, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-ces-341st-civil-engineer-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Civil Engineer Squadron</FullName>
+        <Name>341 CES</Name>
+        <Id>341-ces-341st-civil-engineer-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-cs-341st-communications-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Communications Squadron</FullName>
+        <Name>341 CS</Name>
+        <Id>341-cs-341st-communications-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-lrs-341st-logistic-readiness-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Logistic Readiness Squadron</FullName>
+        <Name>341 LRS</Name>
+        <Id>341-lrs-341st-logistic-readiness-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-fss-341st-force-support-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Force Support Squadron</FullName>
+        <Name>341 FSS</Name>
+        <Id>341-fss-341st-force-support-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-cons-341st-contracting-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Contracting Squadron</FullName>
+        <Name>341 CONS</Name>
+        <Id>341-cons-341st-contracting-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-ces-341st-civil-engineer-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Civil Engineer Squadron, 341st Mission Support Group</NameNode>
+    <FullName>341st Civil Engineer Squadron, 341st Mission Support Group</FullName>
+    <SplitName>341st Civil Engineer Squadron, 341st Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-cs-341st-communications-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Communications Squadron, 341st Mission Support Group</NameNode>
+    <FullName>341st Communications Squadron, 341st Mission Support Group</FullName>
+    <SplitName>341st Communications Squadron, 341st Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-lrs-341st-logistic-readiness-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Logistic Readiness Squadron, 341st Mission Support Group</NameNode>
+    <FullName>341st Logistic Readiness Squadron, 341st Mission Support Group</FullName>
+    <SplitName>341st Logistic Readiness Squadron, 341st Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-fss-341st-force-support-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Force Support Squadron, 341st Mission Support Group</NameNode>
+    <FullName>341st Force Support Squadron, 341st Mission Support Group</FullName>
+    <SplitName>341st Force Support Squadron, 341st Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-cons-341st-contracting-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Contracting Squadron, 341st Mission Support Group</NameNode>
+    <FullName>341st Contracting Squadron, 341st Mission Support Group</FullName>
+    <SplitName>341st Contracting Squadron, 341st Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-mxg-341st-maintenance-group-malmstrom-afb-mt</Url>
+    <NameNode>341st Maintenance Group, 341st Missile Wing</NameNode>
+    <FullName>341st Maintenance Group, 341st Missile Wing</FullName>
+    <SplitName>341st Maintenance Group, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-mmxs-341st-missile-maintenance-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Missile Maintenance Squadron</FullName>
+        <Name>341 MMXS</Name>
+        <Id>341-mmxs-341st-missile-maintenance-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/341-mxos-341st-maintenance-operation-squadron-malmstrom-afb-mt</Url>
+        <FullName>341st Maintenance Operation Squadron</FullName>
+        <Name>341 MXOS</Name>
+        <Id>341-mxos-341st-maintenance-operation-squadron-malmstrom-afb-mt</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-mmxs-341st-missile-maintenance-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Missile Maintenance Squadron, 341st Maintenance Group</NameNode>
+    <FullName>341st Missile Maintenance Squadron, 341st Maintenance Group</FullName>
+    <SplitName>341st Missile Maintenance Squadron, 341st Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-mxos-341st-maintenance-operation-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Maintenance Operation Squadron, 341st Maintenance Group</NameNode>
+    <FullName>341st Maintenance Operation Squadron, 341st Maintenance Group</FullName>
+    <SplitName>341st Maintenance Operation Squadron, 341st Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-mdg-341st-medical-group-malmstrom-afb-mt</Url>
+    <NameNode>341ST Medical Group, 341st Missile Wing</NameNode>
+    <FullName>341ST Medical Group, 341st Missile Wing</FullName>
+    <SplitName>341ST Medical Group, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/625-sos-625th-strategic-operations-squadron-offutt-afb-ne</Url>
+        <FullName>625th Strategic Operations Squadron</FullName>
+        <Name>625 SOS</Name>
+        <Id>625-sos-625th-strategic-operations-squadron-offutt-afb-ne</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/625-sos-625th-strategic-operations-squadron-offutt-afb-ne</Url>
+    <NameNode>625th Strategic Operations Squadron, 341ST Medical Group</NameNode>
+    <FullName>625th Strategic Operations Squadron, 341ST Medical Group</FullName>
+    <SplitName>625th Strategic Operations Squadron, 341ST Medical Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Offutt AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Offutt AFB, NE</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/offutt-afb-ne</Url>
+        <Id>offutt-afb-ne</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/341-cpts-341st-comptroller-squadron-malmstrom-afb-mt</Url>
+    <NameNode>341st Comptroller Squadron, 341st Missile Wing</NameNode>
+    <FullName>341st Comptroller Squadron, 341st Missile Wing</FullName>
+    <SplitName>341st Comptroller Squadron, 341st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/069/small/341mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Malmstrom AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Malmstrom AFB, MT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/malmstrom-afb-mt</Url>
+        <Id>malmstrom-afb-mt</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-mw-90th-missile-wing-fe-warren-afb-wy</Url>
+    <NameNode>90th Missile Wing, 20th Air Force</NameNode>
+    <FullName>90th Missile Wing, 20th Air Force</FullName>
+    <SplitName>90th Missile Wing, 20th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-90-mw-headquarters-90th-missile-wing-fe-warren-afb-wy</Url>
+        <FullName>Headquarters 90th Missile Wing</FullName>
+        <Name>HQ 90 MW</Name>
+        <Id>hq-90-mw-headquarters-90th-missile-wing-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-msg-90th-mission-support-group-fe-warren-afb-wy</Url>
+        <FullName>90th Mission Support Group</FullName>
+        <Name>90 MSG</Name>
+        <Id>90-msg-90th-mission-support-group-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-sfg-90th-security-forces-group-fe-warren-afb-wy</Url>
+        <FullName>90th Security Forces Group</FullName>
+        <Name>90 SFG</Name>
+        <Id>90-sfg-90th-security-forces-group-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-mxg-90th-maintenance-group-fe-warren-afb-wy</Url>
+        <FullName>90th Maintenance Group</FullName>
+        <Name>90 MXG</Name>
+        <Id>90-mxg-90th-maintenance-group-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-og-90th-operations-group-fe-warren-afb-wy</Url>
+        <FullName>90th Operations Group</FullName>
+        <Name>90 OG</Name>
+        <Id>90-og-90th-operations-group-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-mdg-90th-medical-group-fe-warren-afb-wy</Url>
+        <FullName>90th Medical Group</FullName>
+        <Name>90 MDG</Name>
+        <Id>90-mdg-90th-medical-group-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-90-mw-headquarters-90th-missile-wing-fe-warren-afb-wy</Url>
+    <NameNode>Headquarters 90th Missile Wing, 90th Missile Wing</NameNode>
+    <FullName>Headquarters 90th Missile Wing, 90th Missile Wing</FullName>
+    <SplitName>Headquarters 90th Missile Wing, 90th Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-msg-90th-mission-support-group-fe-warren-afb-wy</Url>
+    <NameNode>90th Mission Support Group, 90th Missile Wing</NameNode>
+    <FullName>90th Mission Support Group, 90th Missile Wing</FullName>
+    <SplitName>90th Mission Support Group, 90th Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-fss-90th-force-support-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Force Support Squadron</FullName>
+        <Name>90 FSS</Name>
+        <Id>90-fss-90th-force-support-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-ces-90th-civil-engineering-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Civil Engineering Squadron</FullName>
+        <Name>90 CES</Name>
+        <Id>90-ces-90th-civil-engineering-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-cs-90th-communications-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Communications Squadron</FullName>
+        <Name>90  CS</Name>
+        <Id>90-cs-90th-communications-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-cons-90th-contracting-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Contracting Squadron</FullName>
+        <Name>90 CONS</Name>
+        <Id>90-cons-90th-contracting-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-lrs-90th-logistics-readiness-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Logistics Readiness Squadron</FullName>
+        <Name>90 LRS</Name>
+        <Id>90-lrs-90th-logistics-readiness-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-fss-90th-force-support-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Force Support Squadron, 90th Mission Support Group</NameNode>
+    <FullName>90th Force Support Squadron, 90th Mission Support Group</FullName>
+    <SplitName>90th Force Support Squadron, 90th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-ces-90th-civil-engineering-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Civil Engineering Squadron, 90th Mission Support Group</NameNode>
+    <FullName>90th Civil Engineering Squadron, 90th Mission Support Group</FullName>
+    <SplitName>90th Civil Engineering Squadron, 90th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-cs-90th-communications-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Communications Squadron, 90th Mission Support Group</NameNode>
+    <FullName>90th Communications Squadron, 90th Mission Support Group</FullName>
+    <SplitName>90th Communications Squadron, 90th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-cons-90th-contracting-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Contracting Squadron, 90th Mission Support Group</NameNode>
+    <FullName>90th Contracting Squadron, 90th Mission Support Group</FullName>
+    <SplitName>90th Contracting Squadron, 90th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-lrs-90th-logistics-readiness-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Logistics Readiness Squadron, 90th Mission Support Group</NameNode>
+    <FullName>90th Logistics Readiness Squadron, 90th Mission Support Group</FullName>
+    <SplitName>90th Logistics Readiness Squadron, 90th Mission Support Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-sfg-90th-security-forces-group-fe-warren-afb-wy</Url>
+    <NameNode>90th Security Forces Group, 90th Missile Wing</NameNode>
+    <FullName>90th Security Forces Group, 90th Missile Wing</FullName>
+    <SplitName>90th Security Forces Group, 90th Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-msfs-90th-missile-security-forces-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Missile Security Forces Squadron</FullName>
+        <Name>90 MSFS</Name>
+        <Id>90-msfs-90th-missile-security-forces-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-msfs-90th-missile-security-forces-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Missile Security Forces Squadron, 90th Security Forces Group</NameNode>
+    <FullName>90th Missile Security Forces Squadron, 90th Security Forces Group</FullName>
+    <SplitName>90th Missile Security Forces Squadron, 90th Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-mxg-90th-maintenance-group-fe-warren-afb-wy</Url>
+    <NameNode>90th Maintenance Group, 90th Missile Wing</NameNode>
+    <FullName>90th Maintenance Group, 90th Missile Wing</FullName>
+    <SplitName>90th Maintenance Group, 90th Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-og-90th-operations-group-fe-warren-afb-wy</Url>
+    <NameNode>90th Operations Group, 90th Missile Wing</NameNode>
+    <FullName>90th Operations Group, 90th Missile Wing</FullName>
+    <SplitName>90th Operations Group, 90th Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/90-oss-90th-operations-support-squadron-fe-warren-afb-wy</Url>
+        <FullName>90th Operations Support Squadron,</FullName>
+        <Name>90 OSS</Name>
+        <Id>90-oss-90th-operations-support-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/319-ms-319th-missile-squadron-fe-warren-afb-wy</Url>
+        <FullName>319th Missile Squadron</FullName>
+        <Name>319 MS</Name>
+        <Id>319-ms-319th-missile-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/320-ms-320th-missile-squadron-fe-warren-afb-wy</Url>
+        <FullName>320th Missile Squadron</FullName>
+        <Name>320 MS</Name>
+        <Id>320-ms-320th-missile-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/321-ms-321st-missile-squadron-fe-warren-afb-wy</Url>
+        <FullName>321st Missile Squadron</FullName>
+        <Name>321 MS</Name>
+        <Id>321-ms-321st-missile-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/37-hs-37th-helicopter-squadron-fe-warren-afb-wy</Url>
+        <FullName>37th Helicopter Squadron</FullName>
+        <Name>37 HS</Name>
+        <Id>37-hs-37th-helicopter-squadron-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/153-ccs-153rd-command-control-squadron-90th-operations-group-fe-warren-afb-wy</Url>
+        <FullName>153rd Command &amp;amp; Control Squadron</FullName>
+        <Name>153 CCS</Name>
+        <Id>153-ccs-153rd-command-control-squadron-90th-operations-group-fe-warren-afb-wy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-oss-90th-operations-support-squadron-fe-warren-afb-wy</Url>
+    <NameNode>90th Operations Support Squadron,, 90th Operations Group</NameNode>
+    <FullName>90th Operations Support Squadron,, 90th Operations Group</FullName>
+    <SplitName>90th Operations Support Squadron,, 90th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/319-ms-319th-missile-squadron-fe-warren-afb-wy</Url>
+    <NameNode>319th Missile Squadron, 90th Operations Group</NameNode>
+    <FullName>319th Missile Squadron, 90th Operations Group</FullName>
+    <SplitName>319th Missile Squadron, 90th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/320-ms-320th-missile-squadron-fe-warren-afb-wy</Url>
+    <NameNode>320th Missile Squadron, 90th Operations Group</NameNode>
+    <FullName>320th Missile Squadron, 90th Operations Group</FullName>
+    <SplitName>320th Missile Squadron, 90th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/321-ms-321st-missile-squadron-fe-warren-afb-wy</Url>
+    <NameNode>321st Missile Squadron, 90th Operations Group</NameNode>
+    <FullName>321st Missile Squadron, 90th Operations Group</FullName>
+    <SplitName>321st Missile Squadron, 90th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/37-hs-37th-helicopter-squadron-fe-warren-afb-wy</Url>
+    <NameNode>37th Helicopter Squadron, 90th Operations Group</NameNode>
+    <FullName>37th Helicopter Squadron, 90th Operations Group</FullName>
+    <SplitName>37th Helicopter Squadron, 90th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/153-ccs-153rd-command-control-squadron-90th-operations-group-fe-warren-afb-wy</Url>
+    <NameNode>153rd Command &amp;amp; Control Squadron, 90th Operations Group</NameNode>
+    <FullName>153rd Command &amp;amp; Control Squadron, 90th Operations Group</FullName>
+    <SplitName>153rd Command &amp;amp; Control Squadron, 90th Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/90-mdg-90th-medical-group-fe-warren-afb-wy</Url>
+    <NameNode>90th Medical Group, 90th Missile Wing</NameNode>
+    <FullName>90th Medical Group, 90th Missile Wing</FullName>
+    <SplitName>90th Medical Group, 90th Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/067/small/90mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>FE Warren AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FE Warren AFB, WY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fe-warren-afb-wy</Url>
+        <Id>fe-warren-afb-wy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-mw-91st-missile-wing-minot-afb-nd</Url>
+    <NameNode>91st Missile Wing, 20th Air Force</NameNode>
+    <FullName>91st Missile Wing, 20th Air Force</FullName>
+    <SplitName>91st Missile Wing, 20th Air Force</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-91-mw-headquarters-91st-missile-wing-minot-afb-nd</Url>
+        <FullName>Headquarters 91st Missile Wing</FullName>
+        <Name>HQ 91 MW</Name>
+        <Id>hq-91-mw-headquarters-91st-missile-wing-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-og-91st-operations-group-minot-afb-nd</Url>
+        <FullName>91st Operations Group</FullName>
+        <Name>91 OG</Name>
+        <Id>91-og-91st-operations-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-mxg-91st-maintenance-group-minot-afb-nd</Url>
+        <FullName>91st Maintenance Group</FullName>
+        <Name>91 MXG</Name>
+        <Id>91-mxg-91st-maintenance-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-sfg-91st-security-forces-group-minot-afb-nd</Url>
+        <FullName>91st Security Forces Group</FullName>
+        <Name>91 SFG</Name>
+        <Id>91-sfg-91st-security-forces-group-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-91-mw-headquarters-91st-missile-wing-minot-afb-nd</Url>
+    <NameNode>Headquarters 91st Missile Wing, 91st Missile Wing</NameNode>
+    <FullName>Headquarters 91st Missile Wing, 91st Missile Wing</FullName>
+    <SplitName>Headquarters 91st Missile Wing, 91st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-og-91st-operations-group-minot-afb-nd</Url>
+    <NameNode>91st Operations Group, 91st Missile Wing</NameNode>
+    <FullName>91st Operations Group, 91st Missile Wing</FullName>
+    <SplitName>91st Operations Group, 91st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/740-ms-740th-missile-squadron-minot-afb-nd</Url>
+        <FullName>740th Missile Squadron</FullName>
+        <Name>740 MS</Name>
+        <Id>740-ms-740th-missile-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/741-ms-741st-missile-squadron-minot-afb-nd</Url>
+        <FullName>741st Missile Squadron</FullName>
+        <Name>741 MS</Name>
+        <Id>741-ms-741st-missile-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/742-ms-742nd-missile-squadron-minot-afb-nd</Url>
+        <FullName>742nd Missile Squadron</FullName>
+        <Name>742 MS</Name>
+        <Id>742-ms-742nd-missile-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-oss-91st-operations-support-squadron-minot-afb-nd</Url>
+        <FullName>91st Operations Support Squadron</FullName>
+        <Name>91 OSS</Name>
+        <Id>91-oss-91st-operations-support-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/54-hs-54th-helicopter-squadron-minot-afb-nd</Url>
+        <FullName>54th Helicopter Squadron</FullName>
+        <Name>54 HS</Name>
+        <Id>54-hs-54th-helicopter-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/740-ms-740th-missile-squadron-minot-afb-nd</Url>
+    <NameNode>740th Missile Squadron, 91st Operations Group</NameNode>
+    <FullName>740th Missile Squadron, 91st Operations Group</FullName>
+    <SplitName>740th Missile Squadron, 91st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/741-ms-741st-missile-squadron-minot-afb-nd</Url>
+    <NameNode>741st Missile Squadron, 91st Operations Group</NameNode>
+    <FullName>741st Missile Squadron, 91st Operations Group</FullName>
+    <SplitName>741st Missile Squadron, 91st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/742-ms-742nd-missile-squadron-minot-afb-nd</Url>
+    <NameNode>742nd Missile Squadron, 91st Operations Group</NameNode>
+    <FullName>742nd Missile Squadron, 91st Operations Group</FullName>
+    <SplitName>742nd Missile Squadron, 91st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-oss-91st-operations-support-squadron-minot-afb-nd</Url>
+    <NameNode>91st Operations Support Squadron, 91st Operations Group</NameNode>
+    <FullName>91st Operations Support Squadron, 91st Operations Group</FullName>
+    <SplitName>91st Operations Support Squadron, 91st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/54-hs-54th-helicopter-squadron-minot-afb-nd</Url>
+    <NameNode>54th Helicopter Squadron, 91st Operations Group</NameNode>
+    <FullName>54th Helicopter Squadron, 91st Operations Group</FullName>
+    <SplitName>54th Helicopter Squadron, 91st Operations Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-mxg-91st-maintenance-group-minot-afb-nd</Url>
+    <NameNode>91st Maintenance Group, 91st Missile Wing</NameNode>
+    <FullName>91st Maintenance Group, 91st Missile Wing</FullName>
+    <SplitName>91st Maintenance Group, 91st Missile Wing</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-mmxs-91st-missile-maintenance-squadron-minot-afb-nd</Url>
+        <FullName>91st Missile Maintenance Squadron</FullName>
+        <Name>91 MMXS</Name>
+        <Id>91-mmxs-91st-missile-maintenance-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-mos-91st-maintenance-operations-squadron-minot-afb-nd</Url>
+        <FullName>91st Maintenance Operations Squadron.</FullName>
+        <Name>91 MOS</Name>
+        <Id>91-mos-91st-maintenance-operations-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/791-ms-791st-maintenance-squadron</Url>
+        <FullName>791st Maintenance Squadron</FullName>
+        <Name>791 MS</Name>
+        <Id>791-ms-791st-maintenance-squadron</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-mmxs-91st-missile-maintenance-squadron-minot-afb-nd</Url>
+    <NameNode>91st Missile Maintenance Squadron, 91st Maintenance Group</NameNode>
+    <FullName>91st Missile Maintenance Squadron, 91st Maintenance Group</FullName>
+    <SplitName>91st Missile Maintenance Squadron, 91st Maintenance Group</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-mos-91st-maintenance-operations-squadron-minot-afb-nd</Url>
+    <NameNode>91st Maintenance Operations Squadron., 91st Maintenance Group  (Inactive)</NameNode>
+    <FullName>91st Maintenance Operations Squadron., 91st Maintenance Group  (Inactive)</FullName>
+    <SplitName>91st Maintenance Operations Squadron., 91st Maintenance Group  (Inactive)</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/791-ms-791st-maintenance-squadron</Url>
+    <NameNode>791st Maintenance Squadron, 91st Maintenance Group</NameNode>
+    <FullName>791st Maintenance Squadron, 91st Maintenance Group</FullName>
+    <SplitName>791st Maintenance Squadron, 91st Maintenance Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/group_logo_images/images/000/046/332/medium/68680f3a.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-sfg-91st-security-forces-group-minot-afb-nd</Url>
+    <NameNode>91st Security Forces Group, 91st Missile Wing</NameNode>
+    <FullName>91st Security Forces Group, 91st Missile Wing</FullName>
+    <SplitName>91st Security Forces Group, 91st Missile Wing</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/791-msfs-791st-missile-security-forces-squadron-minot-afb-nd</Url>
+        <FullName>791st Missile Security Forces Squadron</FullName>
+        <Name>791 MSFS</Name>
+        <Id>791-msfs-791st-missile-security-forces-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-msfs-91st-missile-security-forces-squadron-minot-afb-nd</Url>
+        <FullName>91st Missile Security Forces Squadron</FullName>
+        <Name>91 MSFS</Name>
+        <Id>91-msfs-91st-missile-security-forces-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/91-sss-91st-security-support-squadron-minot-afb-nd</Url>
+        <FullName>91st Security Support Squadron</FullName>
+        <Name>91 SSS</Name>
+        <Id>91-sss-91st-security-support-squadron-minot-afb-nd</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/791-msfs-791st-missile-security-forces-squadron-minot-afb-nd</Url>
+    <NameNode>791st Missile Security Forces Squadron, 91st Security Forces Group</NameNode>
+    <FullName>791st Missile Security Forces Squadron, 91st Security Forces Group</FullName>
+    <SplitName>791st Missile Security Forces Squadron, 91st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-msfs-91st-missile-security-forces-squadron-minot-afb-nd</Url>
+    <NameNode>91st Missile Security Forces Squadron, 91st Security Forces Group</NameNode>
+    <FullName>91st Missile Security Forces Squadron, 91st Security Forces Group</FullName>
+    <SplitName>91st Missile Security Forces Squadron, 91st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/91-sss-91st-security-support-squadron-minot-afb-nd</Url>
+    <NameNode>91st Security Support Squadron, 91st Security Forces Group</NameNode>
+    <FullName>91st Security Support Squadron, 91st Security Forces Group</FullName>
+    <SplitName>91st Security Support Squadron, 91st Security Forces Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/068/small/91mw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Minot AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Minot AFB, ND</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/minot-afb-nd</Url>
+        <Id>minot-afb-nd</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/576-fts-576th-flight-test-squadron-vandenberg-afb-ca</Url>
+    <NameNode>576th Flight Test Squadron, Air Force Global Strike Command</NameNode>
+    <FullName>576th Flight Test Squadron, Air Force Global Strike Command</FullName>
+    <SplitName>576th Flight Test Squadron, Air Force Global Strike Command</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Vandenberg AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Vandenberg AFB, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/vandenberg-afb-ca</Url>
+        <Id>vandenberg-afb-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

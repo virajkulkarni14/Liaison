@@ -1,0 +1,1792 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usacidc-us-army-criminal-investigation-command-mcb-quantico-va</Url>
+    <NameNode>US Army Criminal Investigation Command, Direct Reporting Units</NameNode>
+    <FullName>Army Criminal Investigation Command, Direct Reporting Units</FullName>
+    <SplitName>US Army Criminal Investigation Command, Direct Reporting Units</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cioc-command-intelligence-operations-center-mcb-quantico-va</Url>
+        <FullName>Command Intelligence Operations Center</FullName>
+        <Name>CIOC</Name>
+        <Id>cioc-command-intelligence-operations-center-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cidso-cid-safety-office-mcb-quantico-va</Url>
+        <FullName>CID Safety Office</FullName>
+        <Name>CIDSO</Name>
+        <Id>cidso-cid-safety-office-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-mp-grp-3rd-military-police-group-hunter-aaf-ga</Url>
+        <FullName>3rd Military Police Group</FullName>
+        <Name>3rd MP Grp</Name>
+        <Id>3rd-mp-grp-3rd-military-police-group-hunter-aaf-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/202nd-mp-grp-202nd-military-police-group-us-army-criminal-investigation-command-kaiserslautern-germany</Url>
+        <FullName>202nd Military Police Group</FullName>
+        <Name>202nd MP Grp</Name>
+        <Id>202nd-mp-grp-202nd-military-police-group-us-army-criminal-investigation-command-kaiserslautern-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/6th-mp-grp-6th-military-police-group-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>6th Military Police Group</FullName>
+        <Name>6th MP Grp</Name>
+        <Id>6th-mp-grp-6th-military-police-group-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/701st-mp-grp-701st-military-police-group-mcb-quantico-va</Url>
+        <FullName>701st Military Police Group</FullName>
+        <Name>701st MP Grp</Name>
+        <Id>701st-mp-grp-701st-military-police-group-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usacrc-crime-records-center-mcb-quantico-va</Url>
+        <FullName>Crime Records Center</FullName>
+        <Name>USACRC</Name>
+        <Id>usacrc-crime-records-center-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usacil-us-army-criminal-investigation-laboratory-forest-park-ga</Url>
+        <FullName>US Army Criminal Investigation Laboratory</FullName>
+        <Name>USACIL</Name>
+        <Id>usacil-us-army-criminal-investigation-laboratory-forest-park-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cioc-command-intelligence-operations-center-mcb-quantico-va</Url>
+    <NameNode>Command Intelligence Operations Center, US Army Criminal Investigation Command</NameNode>
+    <FullName>Command Intelligence Operations Center, Army Criminal Investigation Command</FullName>
+    <SplitName>Command Intelligence Operations Center, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/iab-investigative-analysis-branch-mcb-quantico-va</Url>
+        <FullName>Investigative Analysis Branch</FullName>
+        <Name>IAB</Name>
+        <Id>iab-investigative-analysis-branch-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sab-strategic-analysis-branch-command-intelligence-operations-center-mcb-quantico-va</Url>
+        <FullName>Strategic Analysis Branch</FullName>
+        <Name>SAB</Name>
+        <Id>sab-strategic-analysis-branch-command-intelligence-operations-center-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tab-threat-analysis-branch-command-intelligence-operations-center-mcb-quantico-va</Url>
+        <FullName>Threat Analysis Branch</FullName>
+        <Name>TAB</Name>
+        <Id>tab-threat-analysis-branch-command-intelligence-operations-center-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-3rd-grp-field-analysis-branch-3rd-group-mcb-quantico-va</Url>
+        <FullName>Field Analysis Branch - 3rd Group</FullName>
+        <Name>FAB - 3rd Grp</Name>
+        <Id>fab-3rd-grp-field-analysis-branch-3rd-group-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-6th-grp-field-analysis-branch-6th-group-mcb-quantico-va</Url>
+        <FullName>Field Analysis Branch - 6th Group</FullName>
+        <Name>FAB - 6th Grp</Name>
+        <Id>fab-6th-grp-field-analysis-branch-6th-group-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/iab-investigative-analysis-branch-mcb-quantico-va</Url>
+    <NameNode>Investigative Analysis Branch, Command Intelligence Operations Center</NameNode>
+    <FullName>Investigative Analysis Branch, Command Intelligence Operations Center</FullName>
+    <SplitName>Investigative Analysis Branch, Command Intelligence Operations Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sab-strategic-analysis-branch-command-intelligence-operations-center-mcb-quantico-va</Url>
+    <NameNode>Strategic Analysis Branch, Command Intelligence Operations Center</NameNode>
+    <FullName>Strategic Analysis Branch, Command Intelligence Operations Center</FullName>
+    <SplitName>Strategic Analysis Branch, Command Intelligence Operations Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tab-threat-analysis-branch-command-intelligence-operations-center-mcb-quantico-va</Url>
+    <NameNode>Threat Analysis Branch, Command Intelligence Operations Center</NameNode>
+    <FullName>Threat Analysis Branch, Command Intelligence Operations Center</FullName>
+    <SplitName>Threat Analysis Branch, Command Intelligence Operations Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-3rd-grp-field-analysis-branch-3rd-group-mcb-quantico-va</Url>
+    <NameNode>Field Analysis Branch - 3rd Group, Command Intelligence Operations Center</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group, Command Intelligence Operations Center</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group, Command Intelligence Operations Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-gillem-field-analysis-branch-3rd-group-fort-gillem-fort-gillem-ga</Url>
+        <FullName>Field Analysis Branch - 3rd Group - Fort Gillem</FullName>
+        <Name>FAB - Fort Gillem</Name>
+        <Id>fab-fort-gillem-field-analysis-branch-3rd-group-fort-gillem-fort-gillem-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-lee-field-analysis-branch-3rd-group-fort-lee-fort-lee-va</Url>
+        <FullName>Field Analysis Branch - 3rd Group - Fort Lee</FullName>
+        <Name>FAB - Fort Lee</Name>
+        <Id>fab-fort-lee-field-analysis-branch-3rd-group-fort-lee-fort-lee-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-jb-langley-eustis-field-analysis-branch-3rd-group-joint-base-langley-eustis-joint-base-langley-eustis-jble-va</Url>
+        <FullName>Field Analysis Branch - 3rd Group - Joint Base Langley-Eustis</FullName>
+        <Name>FAB - JB Langley-Eustis</Name>
+        <Id>fab-jb-langley-eustis-field-analysis-branch-3rd-group-joint-base-langley-eustis-joint-base-langley-eustis-jble-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-bragg-field-analysis-branch-3rd-group-fort-bragg-fort-bragg-nc</Url>
+        <FullName>Field Analysis Branch - 3rd Group - Fort Bragg</FullName>
+        <Name>FAB - Fort Bragg</Name>
+        <Id>fab-fort-bragg-field-analysis-branch-3rd-group-fort-bragg-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-jackson-field-analysis-branch-3rd-group-fort-jackson-fort-jackson-sc</Url>
+        <FullName>Field Analysis Branch - 3rd Group - Fort Jackson</FullName>
+        <Name>FAB - Fort Jackson</Name>
+        <Id>fab-fort-jackson-field-analysis-branch-3rd-group-fort-jackson-fort-jackson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-gordon-field-analysis-branch-3rd-group-fort-gordon-fort-gordon-ga</Url>
+        <FullName>Field Analysis Branch - 3rd Group - Fort Gordon</FullName>
+        <Name>FAB - Fort Gordon</Name>
+        <Id>fab-fort-gordon-field-analysis-branch-3rd-group-fort-gordon-fort-gordon-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-gillem-field-analysis-branch-3rd-group-fort-gillem-fort-gillem-ga</Url>
+    <NameNode>Field Analysis Branch - 3rd Group - Fort Gillem, Field Analysis Branch - 3rd Group</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group - Fort Gillem, Field Analysis Branch - 3rd Group</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group - Fort Gillem, Field Analysis Branch - 3rd Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gillem</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Gillem, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-gillem-ga</Url>
+        <Id>fort-gillem-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-lee-field-analysis-branch-3rd-group-fort-lee-fort-lee-va</Url>
+    <NameNode>Field Analysis Branch - 3rd Group - Fort Lee, Field Analysis Branch - 3rd Group</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group - Fort Lee, Field Analysis Branch - 3rd Group</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group - Fort Lee, Field Analysis Branch - 3rd Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Lee, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-lee-va</Url>
+        <Id>fort-lee-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-jb-langley-eustis-field-analysis-branch-3rd-group-joint-base-langley-eustis-joint-base-langley-eustis-jble-va</Url>
+    <NameNode>Field Analysis Branch - 3rd Group - Joint Base Langley-Eustis, Field Analysis Branch - 3rd Group</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group - Joint Base Langley-Eustis, Field Analysis Branch - 3rd Group</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group - Joint Base Langley-Eustis, Field Analysis Branch - 3rd Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Langley-Eustis (JBLE)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Langley-Eustis (JBLE), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-langley-eustis-jble-va</Url>
+        <Id>joint-base-langley-eustis-jble-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-bragg-field-analysis-branch-3rd-group-fort-bragg-fort-bragg-nc</Url>
+    <NameNode>Field Analysis Branch - 3rd Group - Fort Bragg, Field Analysis Branch - 3rd Group</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group - Fort Bragg, Field Analysis Branch - 3rd Group</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group - Fort Bragg, Field Analysis Branch - 3rd Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-jackson-field-analysis-branch-3rd-group-fort-jackson-fort-jackson-sc</Url>
+    <NameNode>Field Analysis Branch - 3rd Group - Fort Jackson, Field Analysis Branch - 3rd Group</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group - Fort Jackson, Field Analysis Branch - 3rd Group</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group - Fort Jackson, Field Analysis Branch - 3rd Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Jackson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-jackson-sc</Url>
+        <Id>fort-jackson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-gordon-field-analysis-branch-3rd-group-fort-gordon-fort-gordon-ga</Url>
+    <NameNode>Field Analysis Branch - 3rd Group - Fort Gordon, Field Analysis Branch - 3rd Group</NameNode>
+    <FullName>Field Analysis Branch - 3rd Group - Fort Gordon, Field Analysis Branch - 3rd Group</FullName>
+    <SplitName>Field Analysis Branch - 3rd Group - Fort Gordon, Field Analysis Branch - 3rd Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Gordon, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-gordon-ga</Url>
+        <Id>fort-gordon-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-6th-grp-field-analysis-branch-6th-group-mcb-quantico-va</Url>
+    <NameNode>Field Analysis Branch - 6th Group, Command Intelligence Operations Center</NameNode>
+    <FullName>Field Analysis Branch - 6th Group, Command Intelligence Operations Center</FullName>
+    <SplitName>Field Analysis Branch - 6th Group, Command Intelligence Operations Center</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-jb-lewis-mcchord-field-analysis-branch-6th-group-joint-base-lewis-mcchord-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>Field Analysis Branch - 6th Group - Joint Base Lewis-McChord</FullName>
+        <Name>FAB - JB Lewis-McChord</Name>
+        <Id>fab-jb-lewis-mcchord-field-analysis-branch-6th-group-joint-base-lewis-mcchord-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-huachuca-field-analysis-branch-6th-group-fort-huachuca-fort-huachuca-az</Url>
+        <FullName>Field Analysis Branch - 6th Group - Fort Huachuca</FullName>
+        <Name>FAB - Fort Huachuca</Name>
+        <Id>fab-fort-huachuca-field-analysis-branch-6th-group-fort-huachuca-fort-huachuca-az</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-bliss-field-analysis-branch-6th-group-fort-bliss-fort-bliss-tx</Url>
+        <FullName>Field Analysis Branch - 6th Group - Fort Bliss</FullName>
+        <Name>FAB - Fort Bliss</Name>
+        <Id>fab-fort-bliss-field-analysis-branch-6th-group-fort-bliss-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-sam-houston-field-analysis-branch-6th-group-fort-sam-houston-joint-base-san-antonio-tx</Url>
+        <FullName>Field Analysis Branch - 6th Group - Fort Sam Houston</FullName>
+        <Name>FAB - Fort Sam Houston</Name>
+        <Id>fab-fort-sam-houston-field-analysis-branch-6th-group-fort-sam-houston-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fab-fort-hood-field-analysis-branch-6th-group-fort-hood-fort-hood-tx</Url>
+        <FullName>Field Analysis Branch - 6th Group - Fort Hood</FullName>
+        <Name>FAB - Fort Hood</Name>
+        <Id>fab-fort-hood-field-analysis-branch-6th-group-fort-hood-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-jb-lewis-mcchord-field-analysis-branch-6th-group-joint-base-lewis-mcchord-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>Field Analysis Branch - 6th Group - Joint Base Lewis-McChord, Field Analysis Branch - 6th Group</NameNode>
+    <FullName>Field Analysis Branch - 6th Group - Joint Base Lewis-McChord, Field Analysis Branch - 6th Group</FullName>
+    <SplitName>Field Analysis Branch - 6th Group - Joint Base Lewis-McChord, Field Analysis Branch - 6th Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-huachuca-field-analysis-branch-6th-group-fort-huachuca-fort-huachuca-az</Url>
+    <NameNode>Field Analysis Branch - 6th Group - Fort Huachuca, Field Analysis Branch - 6th Group</NameNode>
+    <FullName>Field Analysis Branch - 6th Group - Fort Huachuca, Field Analysis Branch - 6th Group</FullName>
+    <SplitName>Field Analysis Branch - 6th Group - Fort Huachuca, Field Analysis Branch - 6th Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Huachuca</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Huachuca, AZ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-huachuca-az</Url>
+        <Id>fort-huachuca-az</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-bliss-field-analysis-branch-6th-group-fort-bliss-fort-bliss-tx</Url>
+    <NameNode>Field Analysis Branch - 6th Group - Fort Bliss, Field Analysis Branch - 6th Group</NameNode>
+    <FullName>Field Analysis Branch - 6th Group - Fort Bliss, Field Analysis Branch - 6th Group</FullName>
+    <SplitName>Field Analysis Branch - 6th Group - Fort Bliss, Field Analysis Branch - 6th Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-sam-houston-field-analysis-branch-6th-group-fort-sam-houston-joint-base-san-antonio-tx</Url>
+    <NameNode>Field Analysis Branch - 6th Group - Fort Sam Houston, Field Analysis Branch - 6th Group</NameNode>
+    <FullName>Field Analysis Branch - 6th Group - Fort Sam Houston, Field Analysis Branch - 6th Group</FullName>
+    <SplitName>Field Analysis Branch - 6th Group - Fort Sam Houston, Field Analysis Branch - 6th Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fab-fort-hood-field-analysis-branch-6th-group-fort-hood-fort-hood-tx</Url>
+    <NameNode>Field Analysis Branch - 6th Group - Fort Hood, Field Analysis Branch - 6th Group</NameNode>
+    <FullName>Field Analysis Branch - 6th Group - Fort Hood, Field Analysis Branch - 6th Group</FullName>
+    <SplitName>Field Analysis Branch - 6th Group - Fort Hood, Field Analysis Branch - 6th Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cidso-cid-safety-office-mcb-quantico-va</Url>
+    <NameNode>CID Safety Office, US Army Criminal Investigation Command</NameNode>
+    <FullName>CID Safety Office, Army Criminal Investigation Command</FullName>
+    <SplitName>CID Safety Office, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-mp-grp-3rd-military-police-group-hunter-aaf-ga</Url>
+    <NameNode>3rd Military Police Group, US Army Criminal Investigation Command</NameNode>
+    <FullName>3rd Military Police Group, Army Criminal Investigation Command</FullName>
+    <SplitName>3rd Military Police Group, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hunter AAF</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hunter AAF, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hunter-aaf-ga</Url>
+        <Id>hunter-aaf-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-mp-grp-hhc-3rd-mp-grp-headquarters-headquarters-company-hunter-aaf-ga</Url>
+        <FullName>3rd MP Grp Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>3rd MP Grp HHC</Name>
+        <Id>3rd-mp-grp-hhc-3rd-mp-grp-headquarters-headquarters-company-hunter-aaf-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/5th-mp-cid-5th-military-police-battalion-kaiserslautern-germany</Url>
+        <FullName>5th Military Police Battalion</FullName>
+        <Name>5th MP (CID)</Name>
+        <Id>5th-mp-cid-5th-military-police-battalion-kaiserslautern-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/10th-mp-10th-military-police-battalion-fort-bragg-nc</Url>
+        <FullName>10th Military Police Battalion</FullName>
+        <Name>10th MP</Name>
+        <Id>10th-mp-10th-military-police-battalion-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/502nd-mp-502nd-military-police-battalion-fort-campbell-ky</Url>
+        <FullName>502nd Military Police Battalion</FullName>
+        <Name>502nd MP</Name>
+        <Id>502nd-mp-502nd-military-police-battalion-fort-campbell-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/benning-cid-fort-benning-criminal-investigation-division-battalion-fort-benning-ga</Url>
+        <FullName>Fort Benning Criminal Investigation Division Battalion</FullName>
+        <Name>Benning CID</Name>
+        <Id>benning-cid-fort-benning-criminal-investigation-division-battalion-fort-benning-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/washington-cid-washington-criminal-investigation-division-battalion-washington-dc</Url>
+        <FullName>Washington Criminal Investigation Division Battalion</FullName>
+        <Name>Washington CID</Name>
+        <Id>washington-cid-washington-criminal-investigation-division-battalion-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-mp-grp-hhc-3rd-mp-grp-headquarters-headquarters-company-hunter-aaf-ga</Url>
+    <NameNode>3rd MP Grp Headquarters &amp;amp; Headquarters Company, 3rd Military Police Group</NameNode>
+    <FullName>3rd MP Grp Headquarters &amp;amp; Headquarters Company, 3rd Military Police Group</FullName>
+    <SplitName>3rd MP Grp Headquarters &amp;amp; Headquarters Company, 3rd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hunter AAF</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hunter AAF, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hunter-aaf-ga</Url>
+        <Id>hunter-aaf-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/5th-mp-cid-5th-military-police-battalion-kaiserslautern-germany</Url>
+    <NameNode>5th Military Police Battalion, 3rd Military Police Group</NameNode>
+    <FullName>5th Military Police Battalion, 3rd Military Police Group</FullName>
+    <SplitName>5th Military Police Battalion, 3rd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kaiserslautern</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kaiserslautern-germany</Url>
+        <Id>kaiserslautern-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/10th-mp-10th-military-police-battalion-fort-bragg-nc</Url>
+    <NameNode>10th Military Police Battalion, 3rd Military Police Group</NameNode>
+    <FullName>10th Military Police Battalion, 3rd Military Police Group</FullName>
+    <SplitName>10th Military Police Battalion, 3rd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/30th-mp-30th-military-police-detachment-10th-military-police-battalion-fort-stewart-ga</Url>
+        <FullName>30th Military Police Detachment</FullName>
+        <Name>30th MP</Name>
+        <Id>30th-mp-30th-military-police-detachment-10th-military-police-battalion-fort-stewart-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/32nd-mp-32nd-military-police-detachment-10th-military-police-battalion-fort-bragg-nc</Url>
+        <FullName>32nd Military Police Detachment</FullName>
+        <Name>32nd MP</Name>
+        <Id>32nd-mp-32nd-military-police-detachment-10th-military-police-battalion-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/37th-mp-37th-military-police-detachment-fort-jackson-sc</Url>
+        <FullName>37th Military Police Detachment</FullName>
+        <Name>37th MP</Name>
+        <Id>37th-mp-37th-military-police-detachment-fort-jackson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/87th-mp-87th-military-police-detachment-fort-bragg-nc</Url>
+        <FullName>87th Military Police Detachment</FullName>
+        <Name>87th MP</Name>
+        <Id>87th-mp-87th-military-police-detachment-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/30th-mp-30th-military-police-detachment-10th-military-police-battalion-fort-stewart-ga</Url>
+    <NameNode>30th Military Police Detachment, 10th Military Police Battalion</NameNode>
+    <FullName>30th Military Police Detachment, 10th Military Police Battalion</FullName>
+    <SplitName>30th Military Police Detachment, 10th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Stewart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Stewart, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-stewart-ga</Url>
+        <Id>fort-stewart-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/32nd-mp-32nd-military-police-detachment-10th-military-police-battalion-fort-bragg-nc</Url>
+    <NameNode>32nd Military Police Detachment, 10th Military Police Battalion</NameNode>
+    <FullName>32nd Military Police Detachment, 10th Military Police Battalion</FullName>
+    <SplitName>32nd Military Police Detachment, 10th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/37th-mp-37th-military-police-detachment-fort-jackson-sc</Url>
+    <NameNode>37th Military Police Detachment, 10th Military Police Battalion</NameNode>
+    <FullName>37th Military Police Detachment, 10th Military Police Battalion</FullName>
+    <SplitName>37th Military Police Detachment, 10th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Jackson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-jackson-sc</Url>
+        <Id>fort-jackson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/87th-mp-87th-military-police-detachment-fort-bragg-nc</Url>
+    <NameNode>87th Military Police Detachment, 10th Military Police Battalion</NameNode>
+    <FullName>87th Military Police Detachment, 10th Military Police Battalion</FullName>
+    <SplitName>87th Military Police Detachment, 10th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/502nd-mp-502nd-military-police-battalion-fort-campbell-ky</Url>
+    <NameNode>502nd Military Police Battalion, 3rd Military Police Group</NameNode>
+    <FullName>502nd Military Police Battalion, 3rd Military Police Group</FullName>
+    <SplitName>502nd Military Police Battalion, 3rd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Campbell, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-campbell-ky</Url>
+        <Id>fort-campbell-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/31st-mp-31st-military-police-detachment-fort-campbell-ky</Url>
+        <FullName>31st Military Police Detachment</FullName>
+        <Name>31st MP</Name>
+        <Id>31st-mp-31st-military-police-detachment-fort-campbell-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/78th-mp-78th-military-police-detachment-fort-campbell-ky</Url>
+        <FullName>78th Military Police Detachment</FullName>
+        <Name>78th MP</Name>
+        <Id>78th-mp-78th-military-police-detachment-fort-campbell-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/211th-mp-211th-military-police-company-502nd-military-police-battalion-clyde-nc</Url>
+        <FullName>211th Military Police Company</FullName>
+        <Name>211th MP</Name>
+        <Id>211th-mp-211th-military-police-company-502nd-military-police-battalion-clyde-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/280th-mp-280th-military-police-detachment-fort-campbell-ky</Url>
+        <FullName>280th Military Police Detachment</FullName>
+        <Name>280th MP</Name>
+        <Id>280th-mp-280th-military-police-detachment-fort-campbell-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mccoy-cid-fort-mccoy-criminal-investigation-division-office-fort-mccoy-wi</Url>
+        <FullName>Fort McCoy Criminal Investigation Division Office</FullName>
+        <Name>McCoy CID</Name>
+        <Id>mccoy-cid-fort-mccoy-criminal-investigation-division-office-fort-mccoy-wi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/redstone-cid-redstone-arsenal-criminal-investigation-division-office-redstone-arsenal-al</Url>
+        <FullName>Redstone Arsenal Criminal Investigation Division Office</FullName>
+        <Name>Redstone CID</Name>
+        <Id>redstone-cid-redstone-arsenal-criminal-investigation-division-office-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/31st-mp-31st-military-police-detachment-fort-campbell-ky</Url>
+    <NameNode>31st Military Police Detachment, 502nd Military Police Battalion</NameNode>
+    <FullName>31st Military Police Detachment, 502nd Military Police Battalion</FullName>
+    <SplitName>31st Military Police Detachment, 502nd Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Campbell, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-campbell-ky</Url>
+        <Id>fort-campbell-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/78th-mp-78th-military-police-detachment-fort-campbell-ky</Url>
+    <NameNode>78th Military Police Detachment, 502nd Military Police Battalion</NameNode>
+    <FullName>78th Military Police Detachment, 502nd Military Police Battalion</FullName>
+    <SplitName>78th Military Police Detachment, 502nd Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Campbell, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-campbell-ky</Url>
+        <Id>fort-campbell-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/211th-mp-211th-military-police-company-502nd-military-police-battalion-clyde-nc</Url>
+    <NameNode>211th Military Police Company, 502nd Military Police Battalion</NameNode>
+    <FullName>211th Military Police Company, 502nd Military Police Battalion</FullName>
+    <SplitName>211th Military Police Company, 502nd Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Clyde</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Clyde, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/clyde-nc</Url>
+        <Id>clyde-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/280th-mp-280th-military-police-detachment-fort-campbell-ky</Url>
+    <NameNode>280th Military Police Detachment, 502nd Military Police Battalion</NameNode>
+    <FullName>280th Military Police Detachment, 502nd Military Police Battalion</FullName>
+    <SplitName>280th Military Police Detachment, 502nd Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Campbell, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-campbell-ky</Url>
+        <Id>fort-campbell-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mccoy-cid-fort-mccoy-criminal-investigation-division-office-fort-mccoy-wi</Url>
+    <NameNode>Fort McCoy Criminal Investigation Division Office, 502nd Military Police Battalion</NameNode>
+    <FullName>Fort McCoy Criminal Investigation Division Office, 502nd Military Police Battalion</FullName>
+    <SplitName>Fort McCoy Criminal Investigation Division Office, 502nd Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort McCoy</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort McCoy, WI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-mccoy-wi</Url>
+        <Id>fort-mccoy-wi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/redstone-cid-redstone-arsenal-criminal-investigation-division-office-redstone-arsenal-al</Url>
+    <NameNode>Redstone Arsenal Criminal Investigation Division Office, 502nd Military Police Battalion</NameNode>
+    <FullName>Redstone Arsenal Criminal Investigation Division Office, 502nd Military Police Battalion</FullName>
+    <SplitName>Redstone Arsenal Criminal Investigation Division Office, 502nd Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/benning-cid-fort-benning-criminal-investigation-division-battalion-fort-benning-ga</Url>
+    <NameNode>Fort Benning Criminal Investigation Division Battalion, 3rd Military Police Group</NameNode>
+    <FullName>Fort Benning Criminal Investigation Division Battalion, 3rd Military Police Group</FullName>
+    <SplitName>Fort Benning Criminal Investigation Division Battalion, 3rd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Benning</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Benning, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-benning-ga</Url>
+        <Id>fort-benning-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/24th-mp-24th-military-police-detachment-fort-rucker-al</Url>
+        <FullName>24th Military Police Detachment</FullName>
+        <Name>24th MP</Name>
+        <Id>24th-mp-24th-military-police-detachment-fort-rucker-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/30th-mp-30th-military-police-detachment-fort-benning-criminal-investigation-division-battalion-fort-stewart-ga</Url>
+        <FullName>30th Military Police Detachment</FullName>
+        <Name>30th MP</Name>
+        <Id>30th-mp-30th-military-police-detachment-fort-benning-criminal-investigation-division-battalion-fort-stewart-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/86th-mp-86th-military-police-detachment-fort-benning-ga</Url>
+        <FullName>86th Military Police Detachment</FullName>
+        <Name>86th MP</Name>
+        <Id>86th-mp-86th-military-police-detachment-fort-benning-ga</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/24th-mp-24th-military-police-detachment-fort-rucker-al</Url>
+    <NameNode>24th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</NameNode>
+    <FullName>24th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</FullName>
+    <SplitName>24th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Rucker</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Rucker, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-rucker-al</Url>
+        <Id>fort-rucker-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/30th-mp-30th-military-police-detachment-fort-benning-criminal-investigation-division-battalion-fort-stewart-ga</Url>
+    <NameNode>30th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</NameNode>
+    <FullName>30th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</FullName>
+    <SplitName>30th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Stewart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Stewart, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-stewart-ga</Url>
+        <Id>fort-stewart-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/86th-mp-86th-military-police-detachment-fort-benning-ga</Url>
+    <NameNode>86th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</NameNode>
+    <FullName>86th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</FullName>
+    <SplitName>86th Military Police Detachment, Fort Benning Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Benning</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Benning, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-benning-ga</Url>
+        <Id>fort-benning-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/washington-cid-washington-criminal-investigation-division-battalion-washington-dc</Url>
+    <NameNode>Washington Criminal Investigation Division Battalion, 3rd Military Police Group</NameNode>
+    <FullName>Washington Criminal Investigation Division Battalion, 3rd Military Police Group</FullName>
+    <SplitName>Washington Criminal Investigation Division Battalion, 3rd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/62nd-mp-62nd-military-police-detachment-washington-dc</Url>
+        <FullName>62nd Military Police Detachment</FullName>
+        <Name>62nd MP</Name>
+        <Id>62nd-mp-62nd-military-police-detachment-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/68th-mp-68th-military-police-detachment-washington-dc</Url>
+        <FullName>68th Military Police Detachment</FullName>
+        <Name>68th MP</Name>
+        <Id>68th-mp-68th-military-police-detachment-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/75thmp-75th-military-police-detachment-washington-dc</Url>
+        <FullName>75th Military Police Detachment</FullName>
+        <Name>75thMP</Name>
+        <Id>75thmp-75th-military-police-detachment-washington-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aberdeen-proving-ground-cid-aberdeen-proving-ground-criminal-investigation-division-office-aberdeen-proving-ground-md</Url>
+        <FullName>Aberdeen Proving Ground Criminal Investigation Division Office</FullName>
+        <Name>Aberdeen Proving Ground CID</Name>
+        <Id>aberdeen-proving-ground-cid-aberdeen-proving-ground-criminal-investigation-division-office-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/carlisle-barracks-cid-carlisle-barracks-criminal-investigation-division-office-carlisle-barracks-pa</Url>
+        <FullName>Carlisle Barracks Criminal Investigation Division Office</FullName>
+        <Name>Carlisle Barracks CID</Name>
+        <Id>carlisle-barracks-cid-carlisle-barracks-criminal-investigation-division-office-carlisle-barracks-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fort-hamilton-cid-fort-hamilton-criminal-investigation-division-office-fort-hamilton-ny</Url>
+        <FullName>Fort Hamilton Criminal Investigation Division Office</FullName>
+        <Name>Fort Hamilton CID</Name>
+        <Id>fort-hamilton-cid-fort-hamilton-criminal-investigation-division-office-fort-hamilton-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fort-myer-cid-fort-myer-criminal-investigation-division-office-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>Fort Myer Criminal Investigation Division Office</FullName>
+        <Name>Fort Myer CID</Name>
+        <Id>fort-myer-cid-fort-myer-criminal-investigation-division-office-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/west-point-cid-west-point-criminal-investigation-division-office-west-point-ny</Url>
+        <FullName>West Point Criminal Investigation Division Office</FullName>
+        <Name>West Point CID</Name>
+        <Id>west-point-cid-west-point-criminal-investigation-division-office-west-point-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jb-mcguire-dix-lakehurst-cid-joint-base-mcguire-dix-lakehurst-criminal-investigation-division-office-joint-base-mcguire-dix-lakehurst-jbmdl-nj</Url>
+        <FullName>Joint Base McGuire-Dix-Lakehurst Criminal Investigation Division Office</FullName>
+        <Name>JB McGuire-Dix-Lakehurst CID</Name>
+        <Id>jb-mcguire-dix-lakehurst-cid-joint-base-mcguire-dix-lakehurst-criminal-investigation-division-office-joint-base-mcguire-dix-lakehurst-jbmdl-nj</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/62nd-mp-62nd-military-police-detachment-washington-dc</Url>
+    <NameNode>62nd Military Police Detachment, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>62nd Military Police Detachment, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>62nd Military Police Detachment, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/68th-mp-68th-military-police-detachment-washington-dc</Url>
+    <NameNode>68th Military Police Detachment, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>68th Military Police Detachment, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>68th Military Police Detachment, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/75thmp-75th-military-police-detachment-washington-dc</Url>
+    <NameNode>75th Military Police Detachment, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>75th Military Police Detachment, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>75th Military Police Detachment, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Washington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Washington, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/washington-dc</Url>
+        <Id>washington-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aberdeen-proving-ground-cid-aberdeen-proving-ground-criminal-investigation-division-office-aberdeen-proving-ground-md</Url>
+    <NameNode>Aberdeen Proving Ground Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>Aberdeen Proving Ground Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>Aberdeen Proving Ground Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/carlisle-barracks-cid-carlisle-barracks-criminal-investigation-division-office-carlisle-barracks-pa</Url>
+    <NameNode>Carlisle Barracks Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>Carlisle Barracks Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>Carlisle Barracks Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Carlisle Barracks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Carlisle Barracks, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/carlisle-barracks-pa</Url>
+        <Id>carlisle-barracks-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fort-hamilton-cid-fort-hamilton-criminal-investigation-division-office-fort-hamilton-ny</Url>
+    <NameNode>Fort Hamilton Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>Fort Hamilton Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>Fort Hamilton Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hamilton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hamilton, NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hamilton-ny</Url>
+        <Id>fort-hamilton-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fort-myer-cid-fort-myer-criminal-investigation-division-office-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>Fort Myer Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>Fort Myer Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>Fort Myer Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/west-point-cid-west-point-criminal-investigation-division-office-west-point-ny</Url>
+    <NameNode>West Point Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>West Point Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>West Point Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>West Point (Duty Station)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>West Point (Duty Station), NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/west-point-duty-station-ny</Url>
+        <Id>west-point-duty-station-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jb-mcguire-dix-lakehurst-cid-joint-base-mcguire-dix-lakehurst-criminal-investigation-division-office-joint-base-mcguire-dix-lakehurst-jbmdl-nj</Url>
+    <NameNode>Joint Base McGuire-Dix-Lakehurst Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</NameNode>
+    <FullName>Joint Base McGuire-Dix-Lakehurst Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</FullName>
+    <SplitName>Joint Base McGuire-Dix-Lakehurst Criminal Investigation Division Office, Washington Criminal Investigation Division Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base McGuire-Dix-Lakehurst (JBMDL)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base McGuire-Dix-Lakehurst (JBMDL), NJ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-mcguire-dix-lakehurst-jbmdl-nj</Url>
+        <Id>joint-base-mcguire-dix-lakehurst-jbmdl-nj</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/202nd-mp-grp-202nd-military-police-group-us-army-criminal-investigation-command-kaiserslautern-germany</Url>
+    <NameNode>202nd Military Police Group, US Army Criminal Investigation Command</NameNode>
+    <FullName>202nd Military Police Group, Army Criminal Investigation Command</FullName>
+    <SplitName>202nd Military Police Group, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kaiserslautern</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kaiserslautern-germany</Url>
+        <Id>kaiserslautern-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/202nd-mp-grp-hhc-202nd-mp-grp-headquarters-headquarters-company-202nd-military-police-group-kaiserslautern-germany--203</Url>
+        <FullName>202nd MP Grp Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>202nd MP Grp HHC</Name>
+        <Id>202nd-mp-grp-hhc-202nd-mp-grp-headquarters-headquarters-company-202nd-military-police-group-kaiserslautern-germany--203</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/202nd-mp-grp-hhc-202nd-mp-grp-headquarters-headquarters-company-202nd-military-police-group-kaiserslautern-germany--203</Url>
+    <NameNode>202nd MP Grp Headquarters &amp;amp; Headquarters Company, 202nd Military Police Group</NameNode>
+    <FullName>202nd MP Grp Headquarters &amp;amp; Headquarters Company, 202nd Military Police Group</FullName>
+    <SplitName>202nd MP Grp Headquarters &amp;amp; Headquarters Company, 202nd Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kaiserslautern</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kaiserslautern-germany</Url>
+        <Id>kaiserslautern-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/6th-mp-grp-6th-military-police-group-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>6th Military Police Group, US Army Criminal Investigation Command</NameNode>
+    <FullName>6th Military Police Group, Army Criminal Investigation Command</FullName>
+    <SplitName>6th Military Police Group, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/202nd-mp-grp-hhc-202nd-mp-grp-headquarters-headquarters-company-6th-military-police-group-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>202nd MP Grp Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>202nd MP Grp HHC</Name>
+        <Id>202nd-mp-grp-hhc-202nd-mp-grp-headquarters-headquarters-company-6th-military-police-group-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/11th-mp-11th-military-police-battalion-fort-hood-tx</Url>
+        <FullName>11th Military Police Battalion</FullName>
+        <Name>11th MP</Name>
+        <Id>11th-mp-11th-military-police-battalion-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/19th-mp-19th-military-police-battalion-wheeler-aaf-hi</Url>
+        <FullName>19th Military Police Battalion</FullName>
+        <Name>19th MP</Name>
+        <Id>19th-mp-19th-military-police-battalion-wheeler-aaf-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/22nd-mp-22nd-military-police-battalion-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>22nd Military Police Battalion</FullName>
+        <Name>22nd MP</Name>
+        <Id>22nd-mp-22nd-military-police-battalion-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1001st-mp-1001st-military-police-battalion-fort-riley-ks</Url>
+        <FullName>1001st Military Police Battalion</FullName>
+        <Name>1001st MP</Name>
+        <Id>1001st-mp-1001st-military-police-battalion-fort-riley-ks</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/202nd-mp-grp-hhc-202nd-mp-grp-headquarters-headquarters-company-6th-military-police-group-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>202nd MP Grp Headquarters &amp;amp; Headquarters Company, 6th Military Police Group</NameNode>
+    <FullName>202nd MP Grp Headquarters &amp;amp; Headquarters Company, 6th Military Police Group</FullName>
+    <SplitName>202nd MP Grp Headquarters &amp;amp; Headquarters Company, 6th Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/11th-mp-11th-military-police-battalion-fort-hood-tx</Url>
+    <NameNode>11th Military Police Battalion, 6th Military Police Group</NameNode>
+    <FullName>11th Military Police Battalion, 6th Military Police Group</FullName>
+    <SplitName>11th Military Police Battalion, 6th Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/bliss-cid-fort-bliss-cid-office-fort-bliss-tx</Url>
+        <FullName>Fort Bliss CID Office</FullName>
+        <Name>Bliss CID</Name>
+        <Id>bliss-cid-fort-bliss-cid-office-fort-bliss-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/bliss-cid-fort-bliss-cid-office-fort-bliss-tx</Url>
+    <NameNode>Fort Bliss CID Office, 11th Military Police Battalion</NameNode>
+    <FullName>Fort Bliss CID Office, 11th Military Police Battalion</FullName>
+    <SplitName>Fort Bliss CID Office, 11th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bliss, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bliss-tx</Url>
+        <Id>fort-bliss-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/19th-mp-19th-military-police-battalion-wheeler-aaf-hi</Url>
+    <NameNode>19th Military Police Battalion, 6th Military Police Group</NameNode>
+    <FullName>19th Military Police Battalion, 6th Military Police Group</FullName>
+    <SplitName>19th Military Police Battalion, 6th Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Wheeler AAF</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Wheeler AAF, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/wheeler-aaf-hi</Url>
+        <Id>wheeler-aaf-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/okinawa-cid-okinawa-cid-office-torii-station-japan</Url>
+        <FullName>Okinawa CID Office</FullName>
+        <Name>Okinawa CID</Name>
+        <Id>okinawa-cid-okinawa-cid-office-torii-station-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/japan-cid-japan-cid-office-camp-zama-japan</Url>
+        <FullName>Japan CID Office</FullName>
+        <Name>Japan CID</Name>
+        <Id>japan-cid-japan-cid-office-camp-zama-japan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/okinawa-cid-okinawa-cid-office-torii-station-japan</Url>
+    <NameNode>Okinawa CID Office, 19th Military Police Battalion</NameNode>
+    <FullName>Okinawa CID Office, 19th Military Police Battalion</FullName>
+    <SplitName>Okinawa CID Office, 19th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Torii Station</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Torii Station, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/torii-station-japan</Url>
+        <Id>torii-station-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/japan-cid-japan-cid-office-camp-zama-japan</Url>
+    <NameNode>Japan CID Office, 19th Military Police Battalion</NameNode>
+    <FullName>Japan CID Office, 19th Military Police Battalion</FullName>
+    <SplitName>Japan CID Office, 19th Military Police Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Zama</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Zama, Japan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-zama-japan</Url>
+        <Id>camp-zama-japan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/22nd-mp-22nd-military-police-battalion-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>22nd Military Police Battalion, 6th Military Police Group</NameNode>
+    <FullName>22nd Military Police Battalion, 6th Military Police Group</FullName>
+    <SplitName>22nd Military Police Battalion, 6th Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1001st-mp-1001st-military-police-battalion-fort-riley-ks</Url>
+    <NameNode>1001st Military Police Battalion, 6th Military Police Group</NameNode>
+    <FullName>1001st Military Police Battalion, 6th Military Police Group</FullName>
+    <SplitName>1001st Military Police Battalion, 6th Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Riley</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Riley, KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-riley-ks</Url>
+        <Id>fort-riley-ks</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/701st-mp-grp-701st-military-police-group-mcb-quantico-va</Url>
+    <NameNode>701st Military Police Group, US Army Criminal Investigation Command</NameNode>
+    <FullName>701st Military Police Group, Army Criminal Investigation Command</FullName>
+    <SplitName>701st Military Police Group, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fiu-field-investigative-unit-mcb-quantico-va</Url>
+        <FullName>Field Investigative Unit</FullName>
+        <Name>FIU</Name>
+        <Id>fiu-field-investigative-unit-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mpfu-major-procurement-fraud-unit-mcb-quantico-va</Url>
+        <FullName>Major Procurement Fraud Unit</FullName>
+        <Name>MPFU</Name>
+        <Id>mpfu-major-procurement-fraud-unit-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/psb-us-army-protective-services-battalion-mcb-quantico-va</Url>
+        <FullName>US Army Protective Services Battalion</FullName>
+        <Name>PSB</Name>
+        <Id>psb-us-army-protective-services-battalion-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cciu-computer-crime-investigative-unit-mcb-quantico-va</Url>
+        <FullName>Computer Crime Investigative Unit</FullName>
+        <Name>CCIU</Name>
+        <Id>cciu-computer-crime-investigative-unit-mcb-quantico-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fiu-field-investigative-unit-mcb-quantico-va</Url>
+    <NameNode>Field Investigative Unit, 701st Military Police Group</NameNode>
+    <FullName>Field Investigative Unit, 701st Military Police Group</FullName>
+    <SplitName>Field Investigative Unit, 701st Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mpfu-major-procurement-fraud-unit-mcb-quantico-va</Url>
+    <NameNode>Major Procurement Fraud Unit, 701st Military Police Group</NameNode>
+    <FullName>Major Procurement Fraud Unit, 701st Military Police Group</FullName>
+    <SplitName>Major Procurement Fraud Unit, 701st Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/psb-us-army-protective-services-battalion-mcb-quantico-va</Url>
+    <NameNode>US Army Protective Services Battalion, 701st Military Police Group</NameNode>
+    <FullName>Army Protective Services Battalion, 701st Military Police Group</FullName>
+    <SplitName>US Army Protective Services Battalion, 701st Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cciu-computer-crime-investigative-unit-mcb-quantico-va</Url>
+    <NameNode>Computer Crime Investigative Unit, 701st Military Police Group</NameNode>
+    <FullName>Computer Crime Investigative Unit, 701st Military Police Group</FullName>
+    <SplitName>Computer Crime Investigative Unit, 701st Military Police Group</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usacrc-crime-records-center-mcb-quantico-va</Url>
+    <NameNode>Crime Records Center, US Army Criminal Investigation Command</NameNode>
+    <FullName>Crime Records Center, Army Criminal Investigation Command</FullName>
+    <SplitName>Crime Records Center, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MCB Quantico</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MCB Quantico, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcb-quantico-va</Url>
+        <Id>mcb-quantico-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usacil-us-army-criminal-investigation-laboratory-forest-park-ga</Url>
+    <NameNode>US Army Criminal Investigation Laboratory, US Army Criminal Investigation Command</NameNode>
+    <FullName>Army Criminal Investigation Laboratory, Army Criminal Investigation Command</FullName>
+    <SplitName>US Army Criminal Investigation Laboratory, US Army Criminal Investigation Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/471/small/cid.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Forest Park</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Forest Park, GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/forest-park-ga</Url>
+        <Id>forest-park-ga</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

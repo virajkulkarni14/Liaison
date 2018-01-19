@@ -1,0 +1,3065 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/amc-us-army-materiel-command-army-redstone-arsenal-al</Url>
+    <NameNode>US Army Materiel Command</NameNode>
+    <FullName>Army Materiel Command</FullName>
+    <SplitName>US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/acc-us-army-contracting-command-us-army-materiel-command-redstone-arsenal-al</Url>
+        <FullName>US Army Contracting Command</FullName>
+        <Name>ACC</Name>
+        <Id>acc-us-army-contracting-command-us-army-materiel-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/asc-us-army-sustainment-command-rock-island-arsenal-il</Url>
+        <FullName>US Army Sustainment Command</FullName>
+        <Name>ASC</Name>
+        <Id>asc-us-army-sustainment-command-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/amcom-lcmc-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>US Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+        <Name>AMCOM LCMC</Name>
+        <Id>amcom-lcmc-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cecom-lcmc-us-army-communications-electronics-life-cycle-management-command-tobyhanna-army-depot-pa</Url>
+        <FullName>US Army Communications-Electronics Life Cycle Management Command</FullName>
+        <Name>CECOM LCMC</Name>
+        <Id>cecom-lcmc-us-army-communications-electronics-life-cycle-management-command-tobyhanna-army-depot-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/amscm-us-army-chemical-materials-agency-aberdeen-proving-ground-md</Url>
+        <FullName>US Army Chemical Materials Agency</FullName>
+        <Name>AMSCM</Name>
+        <Id>amscm-us-army-chemical-materials-agency-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/jmc-us-army-joint-munitions-lethality-life-cycle-management-command-rock-island-arsenal-il</Url>
+        <FullName>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+        <Name>JMC</Name>
+        <Id>jmc-us-army-joint-munitions-lethality-life-cycle-management-command-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/rdecom-us-army-research-development-engineering-command-aberdeen-proving-ground-md</Url>
+        <FullName>US Army Research, Development &amp;amp; Engineering Command</FullName>
+        <Name>RDECOM</Name>
+        <Id>rdecom-us-army-research-development-engineering-command-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tacom-lcmc-us-army-tank-automotive-armaments-life-cycle-management-command-detroit-arsenal-mi</Url>
+        <FullName>US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+        <Name>TACOM LCMC</Name>
+        <Id>tacom-lcmc-us-army-tank-automotive-armaments-life-cycle-management-command-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usasac-us-army-security-assistance-command-redstone-arsenal-al</Url>
+        <FullName>US Army Security Assistance Command</FullName>
+        <Name>USASAC</Name>
+        <Id>usasac-us-army-security-assistance-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aclc-aviation-center-logistics-command-fort-rucker-al</Url>
+        <FullName>Aviation Center Logistics Command</FullName>
+        <Name>ACLC</Name>
+        <Id>aclc-aviation-center-logistics-command-fort-rucker-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/acc-us-army-contracting-command-us-army-materiel-command-redstone-arsenal-al</Url>
+    <NameNode>US Army Contracting Command, US Army Materiel Command</NameNode>
+    <FullName>Army Contracting Command, Army Materiel Command</FullName>
+    <SplitName>US Army Contracting Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ecc-expeditionary-contracting-command-redstone-arsenal-al</Url>
+        <FullName>Expeditionary Contracting Command</FullName>
+        <Name>ECC</Name>
+        <Id>ecc-expeditionary-contracting-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/micc-mission-installation-contracting-command-joint-base-san-antonio-tx</Url>
+        <FullName>Mission &amp;amp; Installation Contracting Command</FullName>
+        <Name>MICC</Name>
+        <Id>micc-mission-installation-contracting-command-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaca-us-army-construction-agency</Url>
+        <FullName>US Army Construction Agency</FullName>
+        <Name>USACA</Name>
+        <Id>usaca-us-army-construction-agency</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ecc-expeditionary-contracting-command-redstone-arsenal-al</Url>
+    <NameNode>Expeditionary Contracting Command, US Army Contracting Command</NameNode>
+    <FullName>Expeditionary Contracting Command, Army Contracting Command</FullName>
+    <SplitName>Expeditionary Contracting Command, US Army Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/408th-csb-408th-contracting-support-brigade-camp-arifjan-kuwait</Url>
+        <FullName>408th Contracting Support Brigade</FullName>
+        <Name>408th CSB</Name>
+        <Id>408th-csb-408th-contracting-support-brigade-camp-arifjan-kuwait</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/409th-csb-409th-contracting-support-brigade-kaiserslautern-germany</Url>
+        <FullName>409th Contracting Support Brigade</FullName>
+        <Name>409th CSB</Name>
+        <Id>409th-csb-409th-contracting-support-brigade-kaiserslautern-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/410th-csb-410th-contracting-support-brigade-joint-base-san-antonio-tx</Url>
+        <FullName>410th Contracting Support Brigade</FullName>
+        <Name>410th CSB</Name>
+        <Id>410th-csb-410th-contracting-support-brigade-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/411th-csb-411th-contracting-support-brigade-camp-coiner-south-korea</Url>
+        <FullName>411th Contracting Support Brigade</FullName>
+        <Name>411th CSB</Name>
+        <Id>411th-csb-411th-contracting-support-brigade-camp-coiner-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/412th-csb-412th-contracting-support-brigade-joint-base-san-antonio-tx</Url>
+        <FullName>412th Contracting Support Brigade</FullName>
+        <Name>412th CSB</Name>
+        <Id>412th-csb-412th-contracting-support-brigade-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/413th-csb-413th-contracting-support-brigade-fort-shafter-hi</Url>
+        <FullName>413th Contracting Support Brigade</FullName>
+        <Name>413th CSB</Name>
+        <Id>413th-csb-413th-contracting-support-brigade-fort-shafter-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/414th-csb-414th-contracting-support-brigade-caserma-del-din-italy</Url>
+        <FullName>414th Contracting Support Brigade</FullName>
+        <Name>414th CSB</Name>
+        <Id>414th-csb-414th-contracting-support-brigade-caserma-del-din-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/408th-csb-408th-contracting-support-brigade-camp-arifjan-kuwait</Url>
+    <NameNode>408th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>408th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>408th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/214/small/408thcsb.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Arifjan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Arifjan, Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-arifjan-kuwait</Url>
+        <Id>camp-arifjan-kuwait</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/409th-csb-409th-contracting-support-brigade-kaiserslautern-germany</Url>
+    <NameNode>409th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>409th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>409th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/215/small/409csb.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kaiserslautern</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kaiserslautern-germany</Url>
+        <Id>kaiserslautern-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/410th-csb-410th-contracting-support-brigade-joint-base-san-antonio-tx</Url>
+    <NameNode>410th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>410th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>410th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/216/small/410csb.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/411th-csb-411th-contracting-support-brigade-camp-coiner-south-korea</Url>
+    <NameNode>411th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>411th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>411th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/217/small/411csb.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Coiner</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Coiner, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-coiner-south-korea</Url>
+        <Id>camp-coiner-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/412th-csb-412th-contracting-support-brigade-joint-base-san-antonio-tx</Url>
+    <NameNode>412th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>412th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>412th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/218/small/412csb.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/413th-csb-413th-contracting-support-brigade-fort-shafter-hi</Url>
+    <NameNode>413th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>413th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>413th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/219/small/413csb.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Shafter</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Shafter, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-shafter-hi</Url>
+        <Id>fort-shafter-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/414th-csb-414th-contracting-support-brigade-caserma-del-din-italy</Url>
+    <NameNode>414th Contracting Support Brigade, Expeditionary Contracting Command</NameNode>
+    <FullName>414th Contracting Support Brigade, Expeditionary Contracting Command</FullName>
+    <SplitName>414th Contracting Support Brigade, Expeditionary Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Caserma Del Din</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caserma Del Din, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/caserma-del-din-italy</Url>
+        <Id>caserma-del-din-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/micc-mission-installation-contracting-command-joint-base-san-antonio-tx</Url>
+    <NameNode>Mission &amp;amp; Installation Contracting Command, US Army Contracting Command</NameNode>
+    <FullName>Mission &amp;amp; Installation Contracting Command, Army Contracting Command</FullName>
+    <SplitName>Mission &amp;amp; Installation Contracting Command, US Army Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/419th-csb-419th-contracting-support-brigade</Url>
+        <FullName>419th Contracting Support Brigade</FullName>
+        <Name>419th CSB</Name>
+        <Id>419th-csb-419th-contracting-support-brigade</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/419th-csb-419th-contracting-support-brigade</Url>
+    <NameNode>419th Contracting Support Brigade, Mission &amp;amp; Installation Contracting Command</NameNode>
+    <FullName>419th Contracting Support Brigade, Mission &amp;amp; Installation Contracting Command</FullName>
+    <SplitName>419th Contracting Support Brigade, Mission &amp;amp; Installation Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/918th-ccbn-918th-contingency-contracting-battalion</Url>
+        <FullName>918th Contingency Contracting Battalion</FullName>
+        <Name>918th CCBN</Name>
+        <Id>918th-ccbn-918th-contingency-contracting-battalion</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/918th-ccbn-918th-contingency-contracting-battalion</Url>
+    <NameNode>918th Contingency Contracting Battalion, 419th Contracting Support Brigade</NameNode>
+    <FullName>918th Contingency Contracting Battalion, 419th Contracting Support Brigade</FullName>
+    <SplitName>918th Contingency Contracting Battalion, 419th Contracting Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaca-us-army-construction-agency</Url>
+    <NameNode>US Army Construction Agency, US Army Contracting Command</NameNode>
+    <FullName>Army Construction Agency, Army Contracting Command</FullName>
+    <SplitName>US Army Construction Agency, US Army Contracting Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaca-k-us-army-construction-agency-korea-camp-humphreys-south-korea</Url>
+        <FullName>US Army Construction Agency - Korea</FullName>
+        <Name>USACA-K</Name>
+        <Id>usaca-k-us-army-construction-agency-korea-camp-humphreys-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaca-e-us-army-construction-agency-europe-mannheim-germany</Url>
+        <FullName>US Army Construction Agency - Europe</FullName>
+        <Name>USACA-E</Name>
+        <Id>usaca-e-us-army-construction-agency-europe-mannheim-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaca-k-us-army-construction-agency-korea-camp-humphreys-south-korea</Url>
+    <NameNode>US Army Construction Agency - Korea, US Army Construction Agency</NameNode>
+    <FullName>Army Construction Agency - Korea, Army Construction Agency</FullName>
+    <SplitName>US Army Construction Agency - Korea, US Army Construction Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Humphreys</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Humphreys, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-humphreys-south-korea</Url>
+        <Id>camp-humphreys-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaca-e-us-army-construction-agency-europe-mannheim-germany</Url>
+    <NameNode>US Army Construction Agency - Europe, US Army Construction Agency</NameNode>
+    <FullName>Army Construction Agency - Europe, Army Construction Agency</FullName>
+    <SplitName>US Army Construction Agency - Europe, US Army Construction Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Mannheim</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Mannheim, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mannheim-germany</Url>
+        <Id>mannheim-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/asc-us-army-sustainment-command-rock-island-arsenal-il</Url>
+    <NameNode>US Army Sustainment Command, US Army Materiel Command</NameNode>
+    <FullName>Army Sustainment Command, Army Materiel Command</FullName>
+    <SplitName>US Army Sustainment Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-us-army-sustainment-command-rock-island-arsenal-il</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-us-army-sustainment-command-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/401st-afsb-401st-army-field-support-brigade-bagram-airfield-afghanistan</Url>
+        <FullName>401st Army Field Support Brigade</FullName>
+        <Name>401st AFSB</Name>
+        <Id>401st-afsb-401st-army-field-support-brigade-bagram-airfield-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/402nd-afsb-402nd-army-field-support-brigade-camp-arifjan-kuwait</Url>
+        <FullName>402nd Army Field Support Brigade</FullName>
+        <Name>402nd AFSB</Name>
+        <Id>402nd-afsb-402nd-army-field-support-brigade-camp-arifjan-kuwait</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/403rd-afsb-403rd-army-field-support-brigade-camp-walker-south-korea</Url>
+        <FullName>403rd Army Field Support Brigade</FullName>
+        <Name>403rd AFSB</Name>
+        <Id>403rd-afsb-403rd-army-field-support-brigade-camp-walker-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/404th-afsb-404th-army-field-support-brigade-joint-base-lewis-mcchord-jblm-wa</Url>
+        <FullName>404th Army Field Support Brigade</FullName>
+        <Name>404th AFSB</Name>
+        <Id>404th-afsb-404th-army-field-support-brigade-joint-base-lewis-mcchord-jblm-wa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/405th-afsb-405th-army-field-support-brigade-us-army-sustainment-command-kaiserslautern-germany</Url>
+        <FullName>405th Army Field Support Brigade</FullName>
+        <Name>405th AFSB</Name>
+        <Id>405th-afsb-405th-army-field-support-brigade-us-army-sustainment-command-kaiserslautern-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/406th-afsb-406th-army-field-support-brigade-fort-bragg-nc</Url>
+        <FullName>406th Army Field Support Brigade</FullName>
+        <Name>406th AFSB</Name>
+        <Id>406th-afsb-406th-army-field-support-brigade-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/407th-afsb-407th-army-field-support-brigade-joint-base-san-antonio-tx</Url>
+        <FullName>407th Army Field Support Brigade</FullName>
+        <Name>407th AFSB</Name>
+        <Id>407th-afsb-407th-army-field-support-brigade-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/dmc-distribution-management-center-rock-island-arsenal-il</Url>
+        <FullName>Distribution Management Center</FullName>
+        <Name>DMC</Name>
+        <Id>dmc-distribution-management-center-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/are-army-reserve-element-rock-island-arsenal-il</Url>
+        <FullName>Army Reserve Element</FullName>
+        <Name>ARE</Name>
+        <Id>are-army-reserve-element-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-us-army-sustainment-command-rock-island-arsenal-il</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, US Army Sustainment Command</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, Army Sustainment Command</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/401st-afsb-401st-army-field-support-brigade-bagram-airfield-afghanistan</Url>
+    <NameNode>401st Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>401st Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>401st Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bagram Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bagram Airfield, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bagram-airfield-afghanistan</Url>
+        <Id>bagram-airfield-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-bn-3rd-battalion-401st-army-field-support-brigade-bagram-airfield-afghanistan</Url>
+        <FullName>3rd Battalion</FullName>
+        <Name>3rd BN</Name>
+        <Id>3rd-bn-3rd-battalion-401st-army-field-support-brigade-bagram-airfield-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/4th-bn-4th-battalion-401st-army-field-support-brigade-kandahar-afghanistan</Url>
+        <FullName>4th Battalion</FullName>
+        <Name>4th BN</Name>
+        <Id>4th-bn-4th-battalion-401st-army-field-support-brigade-kandahar-afghanistan</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/stryker-bdrf-stryker-battle-damage-repair-facility-camp-as-sayliyah-qatar</Url>
+        <FullName>Stryker Battle Damage Repair Facility</FullName>
+        <Name>Stryker BDRF</Name>
+        <Id>stryker-bdrf-stryker-battle-damage-repair-facility-camp-as-sayliyah-qatar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-bn-3rd-battalion-401st-army-field-support-brigade-bagram-airfield-afghanistan</Url>
+    <NameNode>3rd Battalion, 401st Army Field Support Brigade</NameNode>
+    <FullName>3rd Battalion, 401st Army Field Support Brigade</FullName>
+    <SplitName>3rd Battalion, 401st Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bagram Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bagram Airfield, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/bagram-airfield-afghanistan</Url>
+        <Id>bagram-airfield-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/4th-bn-4th-battalion-401st-army-field-support-brigade-kandahar-afghanistan</Url>
+    <NameNode>4th Battalion, 401st Army Field Support Brigade</NameNode>
+    <FullName>4th Battalion, 401st Army Field Support Brigade</FullName>
+    <SplitName>4th Battalion, 401st Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kandahar</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kandahar, Afghanistan</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kandahar-afghanistan</Url>
+        <Id>kandahar-afghanistan</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/stryker-bdrf-stryker-battle-damage-repair-facility-camp-as-sayliyah-qatar</Url>
+    <NameNode>Stryker Battle Damage Repair Facility, 401st Army Field Support Brigade</NameNode>
+    <FullName>Stryker Battle Damage Repair Facility, 401st Army Field Support Brigade</FullName>
+    <SplitName>Stryker Battle Damage Repair Facility, 401st Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp As Sayliyah</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp As Sayliyah, Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-as-sayliyah-qatar</Url>
+        <Id>camp-as-sayliyah-qatar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/402nd-afsb-402nd-army-field-support-brigade-camp-arifjan-kuwait</Url>
+    <NameNode>402nd Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>402nd Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>402nd Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Arifjan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Arifjan, Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-arifjan-kuwait</Url>
+        <Id>camp-arifjan-kuwait</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/403rd-afsb-403rd-army-field-support-brigade-camp-walker-south-korea</Url>
+    <NameNode>403rd Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>403rd Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>403rd Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Walker</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Walker, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-walker-south-korea</Url>
+        <Id>camp-walker-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afsbn-nea-army-field-support-battalion-northeast-asia-camp-carroll-south-korea</Url>
+        <FullName>Army Field Support Battalion - Northeast Asia</FullName>
+        <Name>AFSBn - NEA</Name>
+        <Id>afsbn-nea-army-field-support-battalion-northeast-asia-camp-carroll-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afsbn-2id-army-field-support-battalion-korea</Url>
+        <FullName>Army Field Support Battalion - Korea</FullName>
+        <Name>AFSBn - 2ID</Name>
+        <Id>afsbn-2id-army-field-support-battalion-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afsbn-nea-army-field-support-battalion-northeast-asia-camp-carroll-south-korea</Url>
+    <NameNode>Army Field Support Battalion - Northeast Asia, 403rd Army Field Support Brigade</NameNode>
+    <FullName>Army Field Support Battalion - Northeast Asia, 403rd Army Field Support Brigade</FullName>
+    <SplitName>Army Field Support Battalion - Northeast Asia, 403rd Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Carroll</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Carroll, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-carroll-south-korea</Url>
+        <Id>camp-carroll-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afsbn-2id-army-field-support-battalion-korea</Url>
+    <NameNode>Army Field Support Battalion - Korea, 403rd Army Field Support Brigade</NameNode>
+    <FullName>Army Field Support Battalion - Korea, 403rd Army Field Support Brigade</FullName>
+    <SplitName>Army Field Support Battalion - Korea, 403rd Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/404th-afsb-404th-army-field-support-brigade-joint-base-lewis-mcchord-jblm-wa</Url>
+    <NameNode>404th Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>404th Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>404th Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Lewis-McChord (JBLM)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Lewis-McChord (JBLM), WA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-lewis-mcchord-jblm-wa</Url>
+        <Id>joint-base-lewis-mcchord-jblm-wa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/405th-afsb-405th-army-field-support-brigade-us-army-sustainment-command-kaiserslautern-germany</Url>
+    <NameNode>405th Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>405th Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>405th Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kaiserslautern</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kaiserslautern, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kaiserslautern-germany</Url>
+        <Id>kaiserslautern-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afsbn-italy-army-field-support-battalion-italy</Url>
+        <FullName>Army Field Support Battalion - Italy</FullName>
+        <Name>AFSBn - Italy</Name>
+        <Id>afsbn-italy-army-field-support-battalion-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afsbn-germany-army-field-support-battalion-germany</Url>
+        <FullName>Army Field Support Battalion - Germany</FullName>
+        <Name>AFSBn - Germany</Name>
+        <Id>afsbn-germany-army-field-support-battalion-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afsbn-italy-army-field-support-battalion-italy</Url>
+    <NameNode>Army Field Support Battalion - Italy, 405th Army Field Support Brigade</NameNode>
+    <FullName>Army Field Support Battalion - Italy, 405th Army Field Support Brigade</FullName>
+    <SplitName>Army Field Support Battalion - Italy, 405th Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afsbn-germany-army-field-support-battalion-germany</Url>
+    <NameNode>Army Field Support Battalion - Germany, 405th Army Field Support Brigade</NameNode>
+    <FullName>Army Field Support Battalion - Germany, 405th Army Field Support Brigade</FullName>
+    <SplitName>Army Field Support Battalion - Germany, 405th Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/406th-afsb-406th-army-field-support-brigade-fort-bragg-nc</Url>
+    <NameNode>406th Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>406th Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>406th Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/afsbn-campbell-army-field-support-battalion-fort-campbell-fort-campbell-ky</Url>
+        <FullName>Army Field Support Battalion - Fort Campbell</FullName>
+        <Name>AFSBn - Campbell</Name>
+        <Id>afsbn-campbell-army-field-support-battalion-fort-campbell-fort-campbell-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/afsbn-campbell-army-field-support-battalion-fort-campbell-fort-campbell-ky</Url>
+    <NameNode>Army Field Support Battalion - Fort Campbell, 406th Army Field Support Brigade</NameNode>
+    <FullName>Army Field Support Battalion - Fort Campbell, 406th Army Field Support Brigade</FullName>
+    <SplitName>Army Field Support Battalion - Fort Campbell, 406th Army Field Support Brigade</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Campbell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Campbell, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-campbell-ky</Url>
+        <Id>fort-campbell-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/407th-afsb-407th-army-field-support-brigade-joint-base-san-antonio-tx</Url>
+    <NameNode>407th Army Field Support Brigade, US Army Sustainment Command</NameNode>
+    <FullName>407th Army Field Support Brigade, Army Sustainment Command</FullName>
+    <SplitName>407th Army Field Support Brigade, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/dmc-distribution-management-center-rock-island-arsenal-il</Url>
+    <NameNode>Distribution Management Center, US Army Sustainment Command</NameNode>
+    <FullName>Distribution Management Center, Army Sustainment Command</FullName>
+    <SplitName>Distribution Management Center, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/are-army-reserve-element-rock-island-arsenal-il</Url>
+    <NameNode>Army Reserve Element, US Army Sustainment Command</NameNode>
+    <FullName>Army Reserve Element, Army Sustainment Command</FullName>
+    <SplitName>Army Reserve Element, US Army Sustainment Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/amcom-lcmc-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>US Army Aviation &amp;amp; Missile Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Aviation &amp;amp; Missile Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Aviation &amp;amp; Missile Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ltpo-us-army-lower-tier-project-office-formerly-patriot-redstone-arsenal-al</Url>
+        <FullName>US Army Lower Tier Project Office (formerly PATRIOT)</FullName>
+        <Name>LTPO</Name>
+        <Id>ltpo-us-army-lower-tier-project-office-formerly-patriot-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/divisions-us-army-aviation-missile-life-cycle-management-command-us-army-materiel-command</Url>
+        <FullName />
+        <Name>Divisions</Name>
+        <Id>divisions-us-army-aviation-missile-life-cycle-management-command-us-army-materiel-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ltpo-us-army-lower-tier-project-office-formerly-patriot-redstone-arsenal-al</Url>
+    <NameNode>US Army Lower Tier Project Office (formerly PATRIOT), US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Army Lower Tier Project Office (formerly PATRIOT), Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>US Army Lower Tier Project Office (formerly PATRIOT), US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/divisions-us-army-aviation-missile-life-cycle-management-command-us-army-materiel-command</Url>
+    <NameNode>US Army Aviation &amp;amp; Missile Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Aviation &amp;amp; Missile Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Aviation &amp;amp; Missile Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/public-affairs-public-affairs-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>Public Affairs Office</FullName>
+        <Name>Public Affairs</Name>
+        <Id>public-affairs-public-affairs-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ombudman-office-of-the-ombudman-redstone-arsenal-al</Url>
+        <FullName>Office of the Ombudman</FullName>
+        <Name>Ombudman</Name>
+        <Id>ombudman-office-of-the-ombudman-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/small-business-office-of-small-business-programs-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>Office of Small Business Programs</FullName>
+        <Name>Small Business</Name>
+        <Id>small-business-office-of-small-business-programs-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/legal-legal-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>Legal Office</FullName>
+        <Name>Legal</Name>
+        <Id>legal-legal-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ig-inspector-general-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>Inspector General Office</FullName>
+        <Name>IG</Name>
+        <Id>ig-inspector-general-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/history-history-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>History Office</FullName>
+        <Name>History</Name>
+        <Id>history-history-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cmo-competition-management-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+        <FullName>Competition Management Office</FullName>
+        <Name>CMO</Name>
+        <Id>cmo-competition-management-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/lead-letterkenny-army-depot-chambersburg-pa</Url>
+        <FullName>Letterkenny Army Depot</FullName>
+        <Name>LEAD</Name>
+        <Id>lead-letterkenny-army-depot-chambersburg-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ccad-corpus-christi-army-depot-corpus-christi-tx</Url>
+        <FullName>Corpus Christi Army Depot</FullName>
+        <Name>CCAD</Name>
+        <Id>ccad-corpus-christi-army-depot-corpus-christi-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tmdea-test-measurement-diagnostic-equipment-activity-redstone-arsenal-al</Url>
+        <FullName>Test Measurement &amp;amp; Diagnostic Equipment Activity</FullName>
+        <Name>TMDEA</Name>
+        <Id>tmdea-test-measurement-diagnostic-equipment-activity-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/immc-integrated-material-management-center-redstone-arsenal-al</Url>
+        <FullName>Integrated Material Management Center</FullName>
+        <Name>IMMC</Name>
+        <Id>immc-integrated-material-management-center-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/amcom-cc-amcom-contracting-center-redstone-arsenal-al</Url>
+        <FullName>AMCOM Contracting Center</FullName>
+        <Name>AMCOM-CC</Name>
+        <Id>amcom-cc-amcom-contracting-center-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/public-affairs-public-affairs-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>Public Affairs Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Public Affairs Office, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Public Affairs Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ombudman-office-of-the-ombudman-redstone-arsenal-al</Url>
+    <NameNode>Office of the Ombudman, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Office of the Ombudman, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Office of the Ombudman, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/small-business-office-of-small-business-programs-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>Office of Small Business Programs, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Office of Small Business Programs, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Office of Small Business Programs, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/legal-legal-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>Legal Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Legal Office, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Legal Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ig-inspector-general-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>Inspector General Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Inspector General Office, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Inspector General Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/history-history-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>History Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>History Office, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>History Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cmo-competition-management-office-us-army-aviation-missile-life-cycle-management-command-redstone-arsenal-al</Url>
+    <NameNode>Competition Management Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Competition Management Office, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Competition Management Office, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/lead-letterkenny-army-depot-chambersburg-pa</Url>
+    <NameNode>Letterkenny Army Depot, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Letterkenny Army Depot, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Letterkenny Army Depot, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chambersburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chambersburg, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chambersburg-pa</Url>
+        <Id>chambersburg-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ccad-corpus-christi-army-depot-corpus-christi-tx</Url>
+    <NameNode>Corpus Christi Army Depot, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Corpus Christi Army Depot, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Corpus Christi Army Depot, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Corpus Christi</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Corpus Christi, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/corpus-christi-tx</Url>
+        <Id>corpus-christi-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tmdea-test-measurement-diagnostic-equipment-activity-redstone-arsenal-al</Url>
+    <NameNode>Test Measurement &amp;amp; Diagnostic Equipment Activity, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Test Measurement &amp;amp; Diagnostic Equipment Activity, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Test Measurement &amp;amp; Diagnostic Equipment Activity, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/95th-maint-95th-maintenance-company-tmde-redstone-arsenal-al</Url>
+        <FullName>95th Maintenance Company TMDE</FullName>
+        <Name>95th Maint</Name>
+        <Id>95th-maint-95th-maintenance-company-tmde-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/95th-maint-95th-maintenance-company-tmde-redstone-arsenal-al</Url>
+    <NameNode>95th Maintenance Company TMDE, Test Measurement &amp;amp; Diagnostic Equipment Activity  (Inactive)</NameNode>
+    <FullName>95th Maintenance Company TMDE, Test Measurement &amp;amp; Diagnostic Equipment Activity  (Inactive)</FullName>
+    <SplitName>95th Maintenance Company TMDE, Test Measurement &amp;amp; Diagnostic Equipment Activity  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/immc-integrated-material-management-center-redstone-arsenal-al</Url>
+    <NameNode>Integrated Material Management Center, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>Integrated Material Management Center, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>Integrated Material Management Center, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/amcom-cc-amcom-contracting-center-redstone-arsenal-al</Url>
+    <NameNode>AMCOM Contracting Center, US Army Aviation &amp;amp; Missile Life Cycle Management Command</NameNode>
+    <FullName>AMCOM Contracting Center, Army Aviation &amp;amp; Missile Life Cycle Management Command</FullName>
+    <SplitName>AMCOM Contracting Center, US Army Aviation &amp;amp; Missile Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cecom-lcmc-us-army-communications-electronics-life-cycle-management-command-tobyhanna-army-depot-pa</Url>
+    <NameNode>US Army Communications-Electronics Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Communications-Electronics Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Communications-Electronics Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/divisions-us-army-communications-electronics-life-cycle-management-command</Url>
+        <FullName />
+        <Name>Divisions</Name>
+        <Id>divisions-us-army-communications-electronics-life-cycle-management-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/divisions-us-army-communications-electronics-life-cycle-management-command</Url>
+    <NameNode>US Army Communications-Electronics Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Communications-Electronics Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Communications-Electronics Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ctsf-central-technical-support-facility-fort-hood-tx</Url>
+        <FullName>Central Technical Support Facility</FullName>
+        <Name>CTSF</Name>
+        <Id>ctsf-central-technical-support-facility-fort-hood-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/lrc-logistics-readness-center-aberdeen-proving-ground-md</Url>
+        <FullName>Logistics &amp;amp; Readness Center</FullName>
+        <Name>LRC</Name>
+        <Id>lrc-logistics-readness-center-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sec-software-engineering-center-aberdeen-proving-ground-md</Url>
+        <FullName>Software Engineering Center</FullName>
+        <Name>SEC</Name>
+        <Id>sec-software-engineering-center-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tyad-tobyhanna-army-depot-tobyhanna-army-depot-pa</Url>
+        <FullName>Tobyhanna Army Depot</FullName>
+        <Name>TYAD</Name>
+        <Id>tyad-tobyhanna-army-depot-tobyhanna-army-depot-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaisec-us-army-information-systems-engineering-command-fort-huachuca-az</Url>
+        <FullName>US Army Information Systems Engineering Command</FullName>
+        <Name>USAISEC</Name>
+        <Id>usaisec-us-army-information-systems-engineering-command-fort-huachuca-az</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ctsf-central-technical-support-facility-fort-hood-tx</Url>
+    <NameNode>Central Technical Support Facility, US Army Communications-Electronics Life Cycle Management Command</NameNode>
+    <FullName>Central Technical Support Facility, Army Communications-Electronics Life Cycle Management Command</FullName>
+    <SplitName>Central Technical Support Facility, US Army Communications-Electronics Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Hood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Hood, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-hood-tx</Url>
+        <Id>fort-hood-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/lrc-logistics-readness-center-aberdeen-proving-ground-md</Url>
+    <NameNode>Logistics &amp;amp; Readness Center, US Army Communications-Electronics Life Cycle Management Command</NameNode>
+    <FullName>Logistics &amp;amp; Readness Center, Army Communications-Electronics Life Cycle Management Command</FullName>
+    <SplitName>Logistics &amp;amp; Readness Center, US Army Communications-Electronics Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sec-software-engineering-center-aberdeen-proving-ground-md</Url>
+    <NameNode>Software Engineering Center, US Army Communications-Electronics Life Cycle Management Command</NameNode>
+    <FullName>Software Engineering Center, Army Communications-Electronics Life Cycle Management Command</FullName>
+    <SplitName>Software Engineering Center, US Army Communications-Electronics Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tyad-tobyhanna-army-depot-tobyhanna-army-depot-pa</Url>
+    <NameNode>Tobyhanna Army Depot, US Army Communications-Electronics Life Cycle Management Command</NameNode>
+    <FullName>Tobyhanna Army Depot, Army Communications-Electronics Life Cycle Management Command</FullName>
+    <SplitName>Tobyhanna Army Depot, US Army Communications-Electronics Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tobyhanna Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tobyhanna Army Depot, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tobyhanna-army-depot-pa</Url>
+        <Id>tobyhanna-army-depot-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaisec-us-army-information-systems-engineering-command-fort-huachuca-az</Url>
+    <NameNode>US Army Information Systems Engineering Command, US Army Communications-Electronics Life Cycle Management Command</NameNode>
+    <FullName>Army Information Systems Engineering Command, Army Communications-Electronics Life Cycle Management Command</FullName>
+    <SplitName>US Army Information Systems Engineering Command, US Army Communications-Electronics Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Huachuca</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Huachuca, AZ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-huachuca-az</Url>
+        <Id>fort-huachuca-az</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/amscm-us-army-chemical-materials-agency-aberdeen-proving-ground-md</Url>
+    <NameNode>US Army Chemical Materials Agency, US Army Materiel Command</NameNode>
+    <FullName>Army Chemical Materials Agency, Army Materiel Command</FullName>
+    <SplitName>US Army Chemical Materials Agency, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/facilities-us-army-chemical-materials-agency</Url>
+        <FullName />
+        <Name>Facilities</Name>
+        <Id>facilities-us-army-chemical-materials-agency</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/facilities-us-army-chemical-materials-agency</Url>
+    <NameNode>US Army Chemical Materials Agency, US Army Materiel Command</NameNode>
+    <FullName>Army Chemical Materials Agency, Army Materiel Command</FullName>
+    <SplitName>US Army Chemical Materials Agency, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/newport-cadf-newport-chemical-agent-disposal-facility-newport-in</Url>
+        <FullName>Newport Chemical Agent Disposal Facility</FullName>
+        <Name>Newport CADF</Name>
+        <Id>newport-cadf-newport-chemical-agent-disposal-facility-newport-in</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/anniston-cadf-anniston-army-depot-chemical-agent-disposal-facility-anniston-army-depot-al</Url>
+        <FullName>Anniston Army Depot Chemical Agent Disposal Facility</FullName>
+        <Name>Anniston CADF</Name>
+        <Id>anniston-cadf-anniston-army-depot-chemical-agent-disposal-facility-anniston-army-depot-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pine-bluff-cadf-pine-bluff-chemical-agent-disposal-facility-pine-bluff-arsenal-ar</Url>
+        <FullName>Pine Bluff Chemical Agent Disposal Facility</FullName>
+        <Name>Pine Bluff CADF</Name>
+        <Id>pine-bluff-cadf-pine-bluff-chemical-agent-disposal-facility-pine-bluff-arsenal-ar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pueblo-cadf-pueblo-chemical-agent-disposal-facility-pueblo-co</Url>
+        <FullName>Pueblo Chemical Agent Disposal Facility</FullName>
+        <Name>Pueblo CADF</Name>
+        <Id>pueblo-cadf-pueblo-chemical-agent-disposal-facility-pueblo-co</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tooele-cadf-tooele-chemical-agent-disposal-facility-tooele-army-depot-ut</Url>
+        <FullName>Tooele Chemical Agent Disposal Facility</FullName>
+        <Name>Tooele CADF</Name>
+        <Id>tooele-cadf-tooele-chemical-agent-disposal-facility-tooele-army-depot-ut</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/umatilla-cadf-umatilla-chemical-agent-disposal-facility-umatilla-or</Url>
+        <FullName>Umatilla Chemical Agent Disposal Facility</FullName>
+        <Name>Umatilla CADF</Name>
+        <Id>umatilla-cadf-umatilla-chemical-agent-disposal-facility-umatilla-or</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/newport-cadf-newport-chemical-agent-disposal-facility-newport-in</Url>
+    <NameNode>Newport Chemical Agent Disposal Facility, US Army Chemical Materials Agency</NameNode>
+    <FullName>Newport Chemical Agent Disposal Facility, Army Chemical Materials Agency</FullName>
+    <SplitName>Newport Chemical Agent Disposal Facility, US Army Chemical Materials Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Newport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Newport, IN</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/newport-in</Url>
+        <Id>newport-in</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/anniston-cadf-anniston-army-depot-chemical-agent-disposal-facility-anniston-army-depot-al</Url>
+    <NameNode>Anniston Army Depot Chemical Agent Disposal Facility, US Army Chemical Materials Agency</NameNode>
+    <FullName>Anniston Army Depot Chemical Agent Disposal Facility, Army Chemical Materials Agency</FullName>
+    <SplitName>Anniston Army Depot Chemical Agent Disposal Facility, US Army Chemical Materials Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anniston Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anniston Army Depot, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anniston-army-depot-al</Url>
+        <Id>anniston-army-depot-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pine-bluff-cadf-pine-bluff-chemical-agent-disposal-facility-pine-bluff-arsenal-ar</Url>
+    <NameNode>Pine Bluff Chemical Agent Disposal Facility, US Army Chemical Materials Agency</NameNode>
+    <FullName>Pine Bluff Chemical Agent Disposal Facility, Army Chemical Materials Agency</FullName>
+    <SplitName>Pine Bluff Chemical Agent Disposal Facility, US Army Chemical Materials Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pine Bluff Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pine Bluff Arsenal, AR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pine-bluff-arsenal-ar</Url>
+        <Id>pine-bluff-arsenal-ar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pueblo-cadf-pueblo-chemical-agent-disposal-facility-pueblo-co</Url>
+    <NameNode>Pueblo Chemical Agent Disposal Facility, US Army Chemical Materials Agency</NameNode>
+    <FullName>Pueblo Chemical Agent Disposal Facility, Army Chemical Materials Agency</FullName>
+    <SplitName>Pueblo Chemical Agent Disposal Facility, US Army Chemical Materials Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pueblo</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pueblo, CO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pueblo-co</Url>
+        <Id>pueblo-co</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tooele-cadf-tooele-chemical-agent-disposal-facility-tooele-army-depot-ut</Url>
+    <NameNode>Tooele Chemical Agent Disposal Facility, US Army Chemical Materials Agency</NameNode>
+    <FullName>Tooele Chemical Agent Disposal Facility, Army Chemical Materials Agency</FullName>
+    <SplitName>Tooele Chemical Agent Disposal Facility, US Army Chemical Materials Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tooele Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tooele Army Depot, UT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tooele-army-depot-ut</Url>
+        <Id>tooele-army-depot-ut</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/umatilla-cadf-umatilla-chemical-agent-disposal-facility-umatilla-or</Url>
+    <NameNode>Umatilla Chemical Agent Disposal Facility, US Army Chemical Materials Agency</NameNode>
+    <FullName>Umatilla Chemical Agent Disposal Facility, Army Chemical Materials Agency</FullName>
+    <SplitName>Umatilla Chemical Agent Disposal Facility, US Army Chemical Materials Agency</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Umatilla</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Umatilla, OR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/umatilla-or</Url>
+        <Id>umatilla-or</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/jmc-us-army-joint-munitions-lethality-life-cycle-management-command-rock-island-arsenal-il</Url>
+    <NameNode>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/centers-us-army-joint-munitions-lethality-life-cycle-management-command</Url>
+        <FullName />
+        <Name>Centers</Name>
+        <Id>centers-us-army-joint-munitions-lethality-life-cycle-management-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/facilities-us-army-joint-munitions-lethality-life-cycle-management-command</Url>
+        <FullName />
+        <Name>Facilities</Name>
+        <Id>facilities-us-army-joint-munitions-lethality-life-cycle-management-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/centers-us-army-joint-munitions-lethality-life-cycle-management-command</Url>
+    <NameNode>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/watervliet-watervliet-jm-l-lcmc-watervliet-arsenal-ny</Url>
+        <FullName>Watervliet (JM&amp;amp;L LCMC)</FullName>
+        <Name>Watervliet</Name>
+        <Id>watervliet-watervliet-jm-l-lcmc-watervliet-arsenal-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/rock-island-rock-island-jm-l-lcmc-us-army-joint-munitions-lethality-life-cycle-management-command-rock-island-arsenal-il</Url>
+        <FullName>Rock Island (JM&amp;amp;L LCMC)</FullName>
+        <Name>Rock Island</Name>
+        <Id>rock-island-rock-island-jm-l-lcmc-us-army-joint-munitions-lethality-life-cycle-management-command-rock-island-arsenal-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/picatinny-picatinny-jm-l-lcmc-picatinny-arsenal-nj</Url>
+        <FullName>Picatinny (JM&amp;amp;L LCMC)</FullName>
+        <Name>Picatinny</Name>
+        <Id>picatinny-picatinny-jm-l-lcmc-picatinny-arsenal-nj</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/watervliet-watervliet-jm-l-lcmc-watervliet-arsenal-ny</Url>
+    <NameNode>Watervliet (JM&amp;amp;L LCMC), US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Watervliet (JM&amp;amp;L LCMC), Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Watervliet (JM&amp;amp;L LCMC), US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Watervliet Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watervliet Arsenal, NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/watervliet-arsenal-ny</Url>
+        <Id>watervliet-arsenal-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/rock-island-rock-island-jm-l-lcmc-us-army-joint-munitions-lethality-life-cycle-management-command-rock-island-arsenal-il</Url>
+    <NameNode>Rock Island (JM&amp;amp;L LCMC), US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Rock Island (JM&amp;amp;L LCMC), Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Rock Island (JM&amp;amp;L LCMC), US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rock Island Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Rock Island Arsenal, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/rock-island-arsenal-il</Url>
+        <Id>rock-island-arsenal-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/picatinny-picatinny-jm-l-lcmc-picatinny-arsenal-nj</Url>
+    <NameNode>Picatinny (JM&amp;amp;L LCMC), US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Picatinny (JM&amp;amp;L LCMC), Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Picatinny (JM&amp;amp;L LCMC), US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Picatinny Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Picatinny Arsenal, NJ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/picatinny-arsenal-nj</Url>
+        <Id>picatinny-arsenal-nj</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/facilities-us-army-joint-munitions-lethality-life-cycle-management-command</Url>
+    <NameNode>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/crane-aaa-crane-army-ammunition-activity-crane-aap-il</Url>
+        <FullName>Crane Army Ammunition Activity</FullName>
+        <Name>Crane AAA</Name>
+        <Id>crane-aaa-crane-army-ammunition-activity-crane-aap-il</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mcalester-aap-mcalester-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-mcalester-ok</Url>
+        <FullName>McAlester Army Ammunition Plant</FullName>
+        <Name>McAlester AAP</Name>
+        <Id>mcalester-aap-mcalester-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-mcalester-ok</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/holston-aap-holston-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-kingsport-tn</Url>
+        <FullName>Holston Army Ammunition Plant</FullName>
+        <Name>Holston AAP</Name>
+        <Id>holston-aap-holston-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-kingsport-tn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/iowa-aap-iowa-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-middletown-ia</Url>
+        <FullName>Iowa Army Ammunition Plant</FullName>
+        <Name>Iowa AAP</Name>
+        <Id>iowa-aap-iowa-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-middletown-ia</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/milan-aap-milan-army-ammunition-plant-milan-tn</Url>
+        <FullName>Milan Army Ammunition Plant</FullName>
+        <Name>Milan AAP</Name>
+        <Id>milan-aap-milan-army-ammunition-plant-milan-tn</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pine-bluff-arsenal-pine-bluff-arsenal-ar</Url>
+        <FullName>Pine Bluff Arsenal</FullName>
+        <Name>Pine Bluff Arsenal</Name>
+        <Id>pine-bluff-arsenal-pine-bluff-arsenal-ar</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/radford-aap-radford-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-radford-va</Url>
+        <FullName>Radford Army Ammunition Plant</FullName>
+        <Name>Radford AAP</Name>
+        <Id>radford-aap-radford-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-radford-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/scranton-aap-scranton-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-scranton-pa</Url>
+        <FullName>Scranton Army Ammunition Plant</FullName>
+        <Name>Scranton AAP</Name>
+        <Id>scranton-aap-scranton-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-scranton-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/anniston-mc-anniston-munitions-center-anniston-al</Url>
+        <FullName>Anniston Munitions Center</FullName>
+        <Name>Anniston MC</Name>
+        <Id>anniston-mc-anniston-munitions-center-anniston-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/blue-grass-ad-blue-grass-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-richmond-ky</Url>
+        <FullName>Blue Grass Army Depot</FullName>
+        <Name>Blue Grass AD</Name>
+        <Id>blue-grass-ad-blue-grass-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-richmond-ky</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hawthorne-ad-hawthorne-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-hawthorne-nv</Url>
+        <FullName>Hawthorne Army Depot</FullName>
+        <Name>Hawthorne AD</Name>
+        <Id>hawthorne-ad-hawthorne-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-hawthorne-nv</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/letterkenny-mc-letterkenny-munitions-center-chambersburg-pa</Url>
+        <FullName>Letterkenny Munitions Center</FullName>
+        <Name>Letterkenny MC</Name>
+        <Id>letterkenny-mc-letterkenny-munitions-center-chambersburg-pa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tooele-ad-tooele-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-tooele-army-depot-ut</Url>
+        <FullName>Tooele Army Depot</FullName>
+        <Name>Tooele AD</Name>
+        <Id>tooele-ad-tooele-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-tooele-army-depot-ut</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/defense-ac-defense-ammunition-center-mcalester-ok</Url>
+        <FullName>Defense Ammunition Center</FullName>
+        <Name>Defense AC</Name>
+        <Id>defense-ac-defense-ammunition-center-mcalester-ok</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/crane-aaa-crane-army-ammunition-activity-crane-aap-il</Url>
+    <NameNode>Crane Army Ammunition Activity, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Crane Army Ammunition Activity, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Crane Army Ammunition Activity, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Crane AAP</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Crane AAP, IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/crane-aap-il</Url>
+        <Id>crane-aap-il</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mcalester-aap-mcalester-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-mcalester-ok</Url>
+    <NameNode>McAlester Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>McAlester Army Ammunition Plant, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>McAlester Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McAlester</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McAlester, OK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcalester-ok</Url>
+        <Id>mcalester-ok</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/holston-aap-holston-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-kingsport-tn</Url>
+    <NameNode>Holston Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Holston Army Ammunition Plant, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Holston Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kingsport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingsport, TN</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kingsport-tn</Url>
+        <Id>kingsport-tn</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/iowa-aap-iowa-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-middletown-ia</Url>
+    <NameNode>Iowa Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Iowa Army Ammunition Plant, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Iowa Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Middletown</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Middletown, IA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/middletown-ia</Url>
+        <Id>middletown-ia</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/milan-aap-milan-army-ammunition-plant-milan-tn</Url>
+    <NameNode>Milan Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Milan Army Ammunition Plant, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Milan Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Milan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Milan, TN</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/milan-tn</Url>
+        <Id>milan-tn</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pine-bluff-arsenal-pine-bluff-arsenal-ar</Url>
+    <NameNode>Pine Bluff Arsenal, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Pine Bluff Arsenal, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Pine Bluff Arsenal, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pine Bluff Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pine Bluff Arsenal, AR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pine-bluff-arsenal-ar</Url>
+        <Id>pine-bluff-arsenal-ar</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/radford-aap-radford-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-radford-va</Url>
+    <NameNode>Radford Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Radford Army Ammunition Plant, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Radford Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Radford</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Radford, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/radford-va</Url>
+        <Id>radford-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/scranton-aap-scranton-army-ammunition-plant-us-army-joint-munitions-lethality-life-cycle-management-command-scranton-pa</Url>
+    <NameNode>Scranton Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Scranton Army Ammunition Plant, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Scranton Army Ammunition Plant, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scranton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Scranton, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/scranton-pa</Url>
+        <Id>scranton-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/anniston-mc-anniston-munitions-center-anniston-al</Url>
+    <NameNode>Anniston Munitions Center, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Anniston Munitions Center, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Anniston Munitions Center, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anniston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anniston, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anniston-al</Url>
+        <Id>anniston-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/blue-grass-ad-blue-grass-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-richmond-ky</Url>
+    <NameNode>Blue Grass Army Depot, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Blue Grass Army Depot, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Blue Grass Army Depot, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Richmond</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Richmond, KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/richmond-ky</Url>
+        <Id>richmond-ky</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hawthorne-ad-hawthorne-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-hawthorne-nv</Url>
+    <NameNode>Hawthorne Army Depot, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Hawthorne Army Depot, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Hawthorne Army Depot, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Hawthorne</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Hawthorne, NV</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/hawthorne-nv</Url>
+        <Id>hawthorne-nv</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/letterkenny-mc-letterkenny-munitions-center-chambersburg-pa</Url>
+    <NameNode>Letterkenny Munitions Center, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Letterkenny Munitions Center, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Letterkenny Munitions Center, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Chambersburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Chambersburg, PA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/chambersburg-pa</Url>
+        <Id>chambersburg-pa</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tooele-ad-tooele-army-depot-us-army-joint-munitions-lethality-life-cycle-management-command-tooele-army-depot-ut</Url>
+    <NameNode>Tooele Army Depot, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Tooele Army Depot, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Tooele Army Depot, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Tooele Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Tooele Army Depot, UT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/tooele-army-depot-ut</Url>
+        <Id>tooele-army-depot-ut</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/defense-ac-defense-ammunition-center-mcalester-ok</Url>
+    <NameNode>Defense Ammunition Center, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</NameNode>
+    <FullName>Defense Ammunition Center, Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</FullName>
+    <SplitName>Defense Ammunition Center, US Army Joint Munitions &amp;amp; Lethality Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McAlester</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McAlester, OK</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcalester-ok</Url>
+        <Id>mcalester-ok</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/rdecom-us-army-research-development-engineering-command-aberdeen-proving-ground-md</Url>
+    <NameNode>US Army Research, Development &amp;amp; Engineering Command, US Army Materiel Command</NameNode>
+    <FullName>Army Research, Development &amp;amp; Engineering Command, Army Materiel Command</FullName>
+    <SplitName>US Army Research, Development &amp;amp; Engineering Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/aatd-aviation-applied-technology-directorate-joint-base-langley-eustis-jble-va</Url>
+        <FullName>Aviation Applied Technology Directorate</FullName>
+        <Name>AATD</Name>
+        <Id>aatd-aviation-applied-technology-directorate-joint-base-langley-eustis-jble-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/arl-army-research-laboratory-natick-ma</Url>
+        <FullName>Army Research Laboratory</FullName>
+        <Name>ARL</Name>
+        <Id>arl-army-research-laboratory-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/soldier-rdec-natick-soldier-research-development-engineering-center-natick-ma</Url>
+        <FullName>Natick Soldier Research, Development &amp;amp; Engineering Center</FullName>
+        <Name>Soldier RDEC</Name>
+        <Id>soldier-rdec-natick-soldier-research-development-engineering-center-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/armament-rdec-armament-research-development-engineering-center-picatinny-arsenal-nj</Url>
+        <FullName>Armament Research, Development &amp;amp; Engineering Center</FullName>
+        <Name>Armament RDEC</Name>
+        <Id>armament-rdec-armament-research-development-engineering-center-picatinny-arsenal-nj</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tardec-tank-automotive-research-development-engineering-center-warren-mi</Url>
+        <FullName>Tank Automotive Research, Development &amp;amp; Engineering Center</FullName>
+        <Name>TARDEC</Name>
+        <Id>tardec-tank-automotive-research-development-engineering-center-warren-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cerdec-communications-electronics-research-development-engineering-center-aberdeen-proving-ground-md</Url>
+        <FullName>Communications-Electronics Research, Development &amp;amp; Engineering Center</FullName>
+        <Name>CERDEC</Name>
+        <Id>cerdec-communications-electronics-research-development-engineering-center-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/amrdec-aviation-missile-research-development-engineering-center-redstone-arsenal-al</Url>
+        <FullName>Aviation &amp;amp; Missile Research, Development &amp;amp; Engineering Center</FullName>
+        <Name>AMRDEC</Name>
+        <Id>amrdec-aviation-missile-research-development-engineering-center-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/ecbc-edgewood-chemical-biological-center-aberdeen-proving-ground-md</Url>
+        <FullName>Edgewood Chemical Biological Center</FullName>
+        <Name>ECBC</Name>
+        <Id>ecbc-edgewood-chemical-biological-center-aberdeen-proving-ground-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aatd-aviation-applied-technology-directorate-joint-base-langley-eustis-jble-va</Url>
+    <NameNode>Aviation Applied Technology Directorate, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Aviation Applied Technology Directorate, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Aviation Applied Technology Directorate, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Langley-Eustis (JBLE)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Langley-Eustis (JBLE), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-langley-eustis-jble-va</Url>
+        <Id>joint-base-langley-eustis-jble-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/arl-army-research-laboratory-natick-ma</Url>
+    <NameNode>Army Research Laboratory, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Army Research Laboratory, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Army Research Laboratory, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/cisd-computational-information-sciences-directorate-natick-ma</Url>
+        <FullName>Computational &amp;amp; Information Sciences Directorate</FullName>
+        <Name>CISD</Name>
+        <Id>cisd-computational-information-sciences-directorate-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hred-human-research-engineering-directorate-natick-ma</Url>
+        <FullName>Human Research &amp;amp; Engineering Directorate</FullName>
+        <Name>HRED</Name>
+        <Id>hred-human-research-engineering-directorate-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sedd-sensors-electron-devices-directorate-natick-ma</Url>
+        <FullName>Sensors &amp;amp; Electron Devices Directorate</FullName>
+        <Name>SEDD</Name>
+        <Id>sedd-sensors-electron-devices-directorate-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/slad-survivability-lethality-analysis-directorate-natick-ma</Url>
+        <FullName>Survivability/Lethality Analysis Directorate</FullName>
+        <Name>SLAD</Name>
+        <Id>slad-survivability-lethality-analysis-directorate-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/vtd-vehicle-technology-directorate-natick-ma</Url>
+        <FullName>Vehicle Technology Directorate</FullName>
+        <Name>VTD</Name>
+        <Id>vtd-vehicle-technology-directorate-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/wmrd-weapons-materials-research-directorate-natick-ma</Url>
+        <FullName>Weapons &amp;amp; Materials Research Directorate</FullName>
+        <Name>WMRD</Name>
+        <Id>wmrd-weapons-materials-research-directorate-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cisd-computational-information-sciences-directorate-natick-ma</Url>
+    <NameNode>Computational &amp;amp; Information Sciences Directorate, Army Research Laboratory</NameNode>
+    <FullName>Computational &amp;amp; Information Sciences Directorate, Army Research Laboratory</FullName>
+    <SplitName>Computational &amp;amp; Information Sciences Directorate, Army Research Laboratory</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hred-human-research-engineering-directorate-natick-ma</Url>
+    <NameNode>Human Research &amp;amp; Engineering Directorate, Army Research Laboratory</NameNode>
+    <FullName>Human Research &amp;amp; Engineering Directorate, Army Research Laboratory</FullName>
+    <SplitName>Human Research &amp;amp; Engineering Directorate, Army Research Laboratory</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sedd-sensors-electron-devices-directorate-natick-ma</Url>
+    <NameNode>Sensors &amp;amp; Electron Devices Directorate, Army Research Laboratory</NameNode>
+    <FullName>Sensors &amp;amp; Electron Devices Directorate, Army Research Laboratory</FullName>
+    <SplitName>Sensors &amp;amp; Electron Devices Directorate, Army Research Laboratory</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/slad-survivability-lethality-analysis-directorate-natick-ma</Url>
+    <NameNode>Survivability/Lethality Analysis Directorate, Army Research Laboratory</NameNode>
+    <FullName>Survivability/Lethality Analysis Directorate, Army Research Laboratory</FullName>
+    <SplitName>Survivability/Lethality Analysis Directorate, Army Research Laboratory</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/vtd-vehicle-technology-directorate-natick-ma</Url>
+    <NameNode>Vehicle Technology Directorate, Army Research Laboratory</NameNode>
+    <FullName>Vehicle Technology Directorate, Army Research Laboratory</FullName>
+    <SplitName>Vehicle Technology Directorate, Army Research Laboratory</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/wmrd-weapons-materials-research-directorate-natick-ma</Url>
+    <NameNode>Weapons &amp;amp; Materials Research Directorate, Army Research Laboratory</NameNode>
+    <FullName>Weapons &amp;amp; Materials Research Directorate, Army Research Laboratory</FullName>
+    <SplitName>Weapons &amp;amp; Materials Research Directorate, Army Research Laboratory</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/soldier-rdec-natick-soldier-research-development-engineering-center-natick-ma</Url>
+    <NameNode>Natick Soldier Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Natick Soldier Research, Development &amp;amp; Engineering Center, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Natick Soldier Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/armament-rdec-armament-research-development-engineering-center-picatinny-arsenal-nj</Url>
+    <NameNode>Armament Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Armament Research, Development &amp;amp; Engineering Center, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Armament Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Picatinny Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Picatinny Arsenal, NJ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/picatinny-arsenal-nj</Url>
+        <Id>picatinny-arsenal-nj</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tardec-tank-automotive-research-development-engineering-center-warren-mi</Url>
+    <NameNode>Tank Automotive Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Tank Automotive Research, Development &amp;amp; Engineering Center, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Tank Automotive Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Warren</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Warren, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/warren-mi</Url>
+        <Id>warren-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/cerdec-communications-electronics-research-development-engineering-center-aberdeen-proving-ground-md</Url>
+    <NameNode>Communications-Electronics Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Communications-Electronics Research, Development &amp;amp; Engineering Center, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Communications-Electronics Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/amrdec-aviation-missile-research-development-engineering-center-redstone-arsenal-al</Url>
+    <NameNode>Aviation &amp;amp; Missile Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Aviation &amp;amp; Missile Research, Development &amp;amp; Engineering Center, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Aviation &amp;amp; Missile Research, Development &amp;amp; Engineering Center, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/ecbc-edgewood-chemical-biological-center-aberdeen-proving-ground-md</Url>
+    <NameNode>Edgewood Chemical Biological Center, US Army Research, Development &amp;amp; Engineering Command</NameNode>
+    <FullName>Edgewood Chemical Biological Center, Army Research, Development &amp;amp; Engineering Command</FullName>
+    <SplitName>Edgewood Chemical Biological Center, US Army Research, Development &amp;amp; Engineering Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Aberdeen Proving Ground, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/aberdeen-proving-ground-md</Url>
+        <Id>aberdeen-proving-ground-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tacom-lcmc-us-army-tank-automotive-armaments-life-cycle-management-command-detroit-arsenal-mi</Url>
+    <NameNode>US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-and-headquarters-company-us-army-tank-automotive-armaments-life-cycle-management-command-detroit-arsenal-mi</Url>
+        <FullName>Headquarters and Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-and-headquarters-company-us-army-tank-automotive-armaments-life-cycle-management-command-detroit-arsenal-mi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/tacom-centers-us-army-tank-automotive-armaments-life-cycle-management-command</Url>
+        <FullName />
+        <Name>TACOM Centers</Name>
+        <Id>tacom-centers-us-army-tank-automotive-armaments-life-cycle-management-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-and-headquarters-company-us-army-tank-automotive-armaments-life-cycle-management-command-detroit-arsenal-mi</Url>
+    <NameNode>Headquarters and Headquarters Company, US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</NameNode>
+    <FullName>Headquarters and Headquarters Company, Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+    <SplitName>Headquarters and Headquarters Company, US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Detroit Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Detroit Arsenal, MI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/detroit-arsenal-mi</Url>
+        <Id>detroit-arsenal-mi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/tacom-centers-us-army-tank-automotive-armaments-life-cycle-management-command</Url>
+    <NameNode>US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command, US Army Materiel Command</NameNode>
+    <FullName>Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command, Army Materiel Command</FullName>
+    <SplitName>US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/natick-sc-natick-soldier-center-tacom-remote-site-natick-ma</Url>
+        <FullName>Natick Soldier Center (TACOM Remote Site)</FullName>
+        <Name>Natick SC</Name>
+        <Id>natick-sc-natick-soldier-center-tacom-remote-site-natick-ma</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/watervliet-arsenal-watervliet-arsenal-tacom-remote-site-us-army-tank-automotive-armaments-life-cycle-management-command-watervliet-arsenal-ny</Url>
+        <FullName>Watervliet Arsenal (TACOM Remote Site)</FullName>
+        <Name>Watervliet Arsenal</Name>
+        <Id>watervliet-arsenal-watervliet-arsenal-tacom-remote-site-us-army-tank-automotive-armaments-life-cycle-management-command-watervliet-arsenal-ny</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sierra-army-depot-sierra-army-depot-tacom-remote-site-sierra-army-depot-ca</Url>
+        <FullName>Sierra Army Depot (TACOM Remote Site)</FullName>
+        <Name>Sierra Army Depot</Name>
+        <Id>sierra-army-depot-sierra-army-depot-tacom-remote-site-sierra-army-depot-ca</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/red-river-army-depot-red-river-army-depot-tacom-remote-site-red-river-army-depot-tx</Url>
+        <FullName>Red River Army Depot (TACOM Remote Site)</FullName>
+        <Name>Red River Army Depot</Name>
+        <Id>red-river-army-depot-red-river-army-depot-tacom-remote-site-red-river-army-depot-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/anniston-army-depot-anniston-army-depot-tacom-remote-site-anniston-army-depot-al</Url>
+        <FullName>Anniston Army Depot (TACOM Remote Site)</FullName>
+        <Name>Anniston Army Depot</Name>
+        <Id>anniston-army-depot-anniston-army-depot-tacom-remote-site-anniston-army-depot-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/natick-sc-natick-soldier-center-tacom-remote-site-natick-ma</Url>
+    <NameNode>Natick Soldier Center (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</NameNode>
+    <FullName>Natick Soldier Center (TACOM Remote Site), Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+    <SplitName>Natick Soldier Center (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Natick</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Natick, MA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/natick-ma</Url>
+        <Id>natick-ma</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/watervliet-arsenal-watervliet-arsenal-tacom-remote-site-us-army-tank-automotive-armaments-life-cycle-management-command-watervliet-arsenal-ny</Url>
+    <NameNode>Watervliet Arsenal (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</NameNode>
+    <FullName>Watervliet Arsenal (TACOM Remote Site), Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+    <SplitName>Watervliet Arsenal (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Watervliet Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Watervliet Arsenal, NY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/watervliet-arsenal-ny</Url>
+        <Id>watervliet-arsenal-ny</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sierra-army-depot-sierra-army-depot-tacom-remote-site-sierra-army-depot-ca</Url>
+    <NameNode>Sierra Army Depot (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</NameNode>
+    <FullName>Sierra Army Depot (TACOM Remote Site), Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+    <SplitName>Sierra Army Depot (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sierra Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Sierra Army Depot, CA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/sierra-army-depot-ca</Url>
+        <Id>sierra-army-depot-ca</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/red-river-army-depot-red-river-army-depot-tacom-remote-site-red-river-army-depot-tx</Url>
+    <NameNode>Red River Army Depot (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</NameNode>
+    <FullName>Red River Army Depot (TACOM Remote Site), Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+    <SplitName>Red River Army Depot (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Red River Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Red River Army Depot, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/red-river-army-depot-tx</Url>
+        <Id>red-river-army-depot-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/anniston-army-depot-anniston-army-depot-tacom-remote-site-anniston-army-depot-al</Url>
+    <NameNode>Anniston Army Depot (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</NameNode>
+    <FullName>Anniston Army Depot (TACOM Remote Site), Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</FullName>
+    <SplitName>Anniston Army Depot (TACOM Remote Site), US Army Tank-Automotive &amp;amp; Armaments Life Cycle Management Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anniston Army Depot</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anniston Army Depot, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anniston-army-depot-al</Url>
+        <Id>anniston-army-depot-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usasac-us-army-security-assistance-command-redstone-arsenal-al</Url>
+    <NameNode>US Army Security Assistance Command, US Army Materiel Command</NameNode>
+    <FullName>Army Security Assistance Command, Army Materiel Command</FullName>
+    <SplitName>US Army Security Assistance Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/regions-us-army-security-assistance-command</Url>
+        <FullName />
+        <Name>Regions</Name>
+        <Id>regions-us-army-security-assistance-command</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usasatmo-u-s-army-security-assistance-training-management-organization-fort-bragg-nc</Url>
+        <FullName>U.S. Army Security Assistance Training Management Organization</FullName>
+        <Name>USASATMO</Name>
+        <Id>usasatmo-u-s-army-security-assistance-training-management-organization-fort-bragg-nc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/regions-us-army-security-assistance-command</Url>
+    <NameNode>US Army Security Assistance Command, US Army Materiel Command</NameNode>
+    <FullName>Army Security Assistance Command, Army Materiel Command</FullName>
+    <SplitName>US Army Security Assistance Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usasac-centcom-usasac-centcom-region-redstone-arsenal-al</Url>
+        <FullName>USASAC - CENTCOM Region</FullName>
+        <Name>USASAC - CENTCOM</Name>
+        <Id>usasac-centcom-usasac-centcom-region-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usasac-imo-af-pk-usasac-imo-af-pk-region-redstone-arsenal-al</Url>
+        <FullName>USASAC - IMO AF/PK Region</FullName>
+        <Name>USASAC - IMO AF/PK</Name>
+        <Id>usasac-imo-af-pk-usasac-imo-af-pk-region-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usasac-eucom-africom-usasac-eucom-africom-region-redstone-arsenal-al</Url>
+        <FullName>USASAC - EUCOM/AFRICOM Region</FullName>
+        <Name>USASAC - EUCOM/AFRICOM</Name>
+        <Id>usasac-eucom-africom-usasac-eucom-africom-region-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usasac-pacom-southcom-usasac-pacom-southcom-region-redstone-arsenal-al</Url>
+        <FullName>USASAC - PACOM/SOUTHCOM Region</FullName>
+        <Name>USASAC - PACOM/SOUTHCOM</Name>
+        <Id>usasac-pacom-southcom-usasac-pacom-southcom-region-redstone-arsenal-al</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usasac-centcom-usasac-centcom-region-redstone-arsenal-al</Url>
+    <NameNode>USASAC - CENTCOM Region, US Army Security Assistance Command</NameNode>
+    <FullName>USASAC - CENTCOM Region, Army Security Assistance Command</FullName>
+    <SplitName>USASAC - CENTCOM Region, US Army Security Assistance Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usasac-imo-af-pk-usasac-imo-af-pk-region-redstone-arsenal-al</Url>
+    <NameNode>USASAC - IMO AF/PK Region, US Army Security Assistance Command</NameNode>
+    <FullName>USASAC - IMO AF/PK Region, Army Security Assistance Command</FullName>
+    <SplitName>USASAC - IMO AF/PK Region, US Army Security Assistance Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usasac-eucom-africom-usasac-eucom-africom-region-redstone-arsenal-al</Url>
+    <NameNode>USASAC - EUCOM/AFRICOM Region, US Army Security Assistance Command</NameNode>
+    <FullName>USASAC - EUCOM/AFRICOM Region, Army Security Assistance Command</FullName>
+    <SplitName>USASAC - EUCOM/AFRICOM Region, US Army Security Assistance Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usasac-pacom-southcom-usasac-pacom-southcom-region-redstone-arsenal-al</Url>
+    <NameNode>USASAC - PACOM/SOUTHCOM Region, US Army Security Assistance Command</NameNode>
+    <FullName>USASAC - PACOM/SOUTHCOM Region, Army Security Assistance Command</FullName>
+    <SplitName>USASAC - PACOM/SOUTHCOM Region, US Army Security Assistance Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Redstone Arsenal</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Redstone Arsenal, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/redstone-arsenal-al</Url>
+        <Id>redstone-arsenal-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usasatmo-u-s-army-security-assistance-training-management-organization-fort-bragg-nc</Url>
+    <NameNode>U.S. Army Security Assistance Training Management Organization, US Army Security Assistance Command</NameNode>
+    <FullName>U.S. Army Security Assistance Training Management Organization, Army Security Assistance Command</FullName>
+    <SplitName>Army Security Assistance Training Management Organization, US Army Security Assistance Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/228/small/usasac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Bragg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Bragg, NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-bragg-nc</Url>
+        <Id>fort-bragg-nc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/aclc-aviation-center-logistics-command-fort-rucker-al</Url>
+    <NameNode>Aviation Center Logistics Command, US Army Materiel Command</NameNode>
+    <FullName>Aviation Center Logistics Command, Army Materiel Command</FullName>
+    <SplitName>Aviation Center Logistics Command, US Army Materiel Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/128/small/materiel.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Rucker</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Rucker, AL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-rucker-al</Url>
+        <Id>fort-rucker-al</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaraf-setaf-us-army-africa-southern-european-task-force-caserma-ederle-italy</Url>
+    <NameNode>US Army Africa (Southern European Task Force)</NameNode>
+    <FullName>Army Africa (Southern European Task Force)</FullName>
+    <SplitName>US Army Africa (Southern European Task Force)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/156/small/armyafrica.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Caserma Ederle</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caserma Ederle, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/caserma-ederle-italy</Url>
+        <Id>caserma-ederle-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usaraf-hq-usaraf-headquarters-caserma-ederle-italy</Url>
+        <FullName>USARAF Headquarters</FullName>
+        <Name>USARAF HQ</Name>
+        <Id>usaraf-hq-usaraf-headquarters-caserma-ederle-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usaraf-hq-usaraf-headquarters-caserma-ederle-italy</Url>
+    <NameNode>USARAF Headquarters, US Army Africa (Southern European Task Force)</NameNode>
+    <FullName>USARAF Headquarters, Army Africa (Southern European Task Force)</FullName>
+    <SplitName>USARAF Headquarters, US Army Africa (Southern European Task Force)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/156/small/armyafrica.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Caserma Ederle</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Caserma Ederle, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/caserma-ederle-italy</Url>
+        <Id>caserma-ederle-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

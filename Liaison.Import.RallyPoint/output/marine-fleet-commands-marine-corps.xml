@@ -1,0 +1,655 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marine-fleet-commands-marine-corps</Url>
+    <NameNode />
+    <FullName />
+    <SplitName />
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/487/small/mchq.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fmf-pacific-fleet-marine-forces-pacific-camp-smith-hi</Url>
+        <FullName>Fleet Marine Forces Pacific</FullName>
+        <Name>FMF Pacific</Name>
+        <Id>fmf-pacific-fleet-marine-forces-pacific-camp-smith-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fmf-atlantic-marine-forces-atlantic-naval-station-norfolk-va</Url>
+        <FullName>Marine Forces Atlantic</FullName>
+        <Name>FMF Atlantic</Name>
+        <Id>fmf-atlantic-marine-forces-atlantic-naval-station-norfolk-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fmf-pacific-fleet-marine-forces-pacific-camp-smith-hi</Url>
+    <NameNode>Fleet Marine Forces Pacific</NameNode>
+    <FullName>Fleet Marine Forces Pacific</FullName>
+    <SplitName>Fleet Marine Forces Pacific</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/563/small/fmfpac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Smith</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Smith, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-smith-hi</Url>
+        <Id>camp-smith-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforpac-marine-forces-pacific-camp-smith-hi</Url>
+        <FullName>Marine Forces Pacific</FullName>
+        <Name>MARFORPAC</Name>
+        <Id>marforpac-marine-forces-pacific-camp-smith-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforcent-marine-corps-forces-central-macdill-afb-fl</Url>
+        <FullName>Marine Corps Forces Central</FullName>
+        <Name>MARFORCENT</Name>
+        <Id>marforcent-marine-corps-forces-central-macdill-afb-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marfork-marine-forces-korea-camp-mujuk-south-korea</Url>
+        <FullName>Marine Forces Korea</FullName>
+        <Name>MARFORK</Name>
+        <Id>marfork-marine-forces-korea-camp-mujuk-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforpac-marine-forces-pacific-camp-smith-hi</Url>
+    <NameNode>Marine Forces Pacific, Fleet Marine Forces Pacific</NameNode>
+    <FullName>Marine Forces Pacific, Fleet Marine Forces Pacific</FullName>
+    <SplitName>Marine Forces Pacific, Fleet Marine Forces Pacific</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/564/small/marforpac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Smith</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Smith, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-smith-hi</Url>
+        <Id>camp-smith-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforpac-hq-marine-forces-pacific-headquarters-camp-smith-hi</Url>
+        <FullName>Marine Forces Pacific Headquarters</FullName>
+        <Name>MARFORPAC HQ</Name>
+        <Id>marforpac-hq-marine-forces-pacific-headquarters-camp-smith-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-forces-pacific</Url>
+        <FullName>Personnel Exchange Program</FullName>
+        <Name>PEP</Name>
+        <Id>pep-personnel-exchange-program-marine-forces-pacific</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforpac-hq-marine-forces-pacific-headquarters-camp-smith-hi</Url>
+    <NameNode>Marine Forces Pacific Headquarters, Marine Forces Pacific</NameNode>
+    <FullName>Marine Forces Pacific Headquarters, Marine Forces Pacific</FullName>
+    <SplitName>Marine Forces Pacific Headquarters, Marine Forces Pacific</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/564/small/marforpac.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Smith</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Smith, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-smith-hi</Url>
+        <Id>camp-smith-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-forces-pacific</Url>
+    <NameNode>Personnel Exchange Program, Marine Forces Pacific</NameNode>
+    <FullName>Personnel Exchange Program, Marine Forces Pacific</FullName>
+    <SplitName>Personnel Exchange Program, Marine Forces Pacific</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/564/small/marforpac.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforcent-marine-corps-forces-central-macdill-afb-fl</Url>
+    <NameNode>Marine Corps Forces Central, Fleet Marine Forces Pacific</NameNode>
+    <FullName>Marine Corps Forces Central, Fleet Marine Forces Pacific</FullName>
+    <SplitName>Marine Corps Forces Central, Fleet Marine Forces Pacific</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/565/small/marforcent.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MacDill AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MacDill AFB, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/macdill-afb-fl</Url>
+        <Id>macdill-afb-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforcent-hq-marine-forces-central-headquarters-macdill-afb-fl</Url>
+        <FullName>Marine Forces Central Headquarters</FullName>
+        <Name>MARFORCENT HQ</Name>
+        <Id>marforcent-hq-marine-forces-central-headquarters-macdill-afb-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-central-macdill-afb-fl</Url>
+        <FullName>Personnel Exchange Program</FullName>
+        <Name>PEP</Name>
+        <Id>pep-personnel-exchange-program-marine-corps-forces-central-macdill-afb-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforcent-fwd-marine-forces-central-headquarters-forward</Url>
+        <FullName>Marine Forces Central Headquarters (Forward)</FullName>
+        <Name>MARFORCENT (FWD)</Name>
+        <Id>marforcent-fwd-marine-forces-central-headquarters-forward</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforcent-hq-marine-forces-central-headquarters-macdill-afb-fl</Url>
+    <NameNode>Marine Forces Central Headquarters, Marine Corps Forces Central</NameNode>
+    <FullName>Marine Forces Central Headquarters, Marine Corps Forces Central</FullName>
+    <SplitName>Marine Forces Central Headquarters, Marine Corps Forces Central</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/565/small/marforcent.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MacDill AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MacDill AFB, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/macdill-afb-fl</Url>
+        <Id>macdill-afb-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-central-macdill-afb-fl</Url>
+    <NameNode>Personnel Exchange Program, Marine Corps Forces Central</NameNode>
+    <FullName>Personnel Exchange Program, Marine Corps Forces Central</FullName>
+    <SplitName>Personnel Exchange Program, Marine Corps Forces Central</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/565/small/marforcent.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>MacDill AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MacDill AFB, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/macdill-afb-fl</Url>
+        <Id>macdill-afb-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforcent-fwd-marine-forces-central-headquarters-forward</Url>
+    <NameNode>Marine Forces Central Headquarters (Forward), Marine Corps Forces Central</NameNode>
+    <FullName>Marine Forces Central Headquarters (Forward), Marine Corps Forces Central</FullName>
+    <SplitName>Marine Forces Central Headquarters (Forward), Marine Corps Forces Central</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/565/small/marforcent.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marfork-marine-forces-korea-camp-mujuk-south-korea</Url>
+    <NameNode>Marine Forces Korea, Fleet Marine Forces Pacific</NameNode>
+    <FullName>Marine Forces Korea, Fleet Marine Forces Pacific</FullName>
+    <SplitName>Marine Forces Korea, Fleet Marine Forces Pacific</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/566/small/marfork.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Mujuk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Mujuk, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-mujuk-south-korea</Url>
+        <Id>camp-mujuk-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marfork-hq-marine-forces-korea-headquarters-camp-mujuk-south-korea</Url>
+        <FullName>Marine Forces Korea Headquarters</FullName>
+        <Name>MARFORK HQ</Name>
+        <Id>marfork-hq-marine-forces-korea-headquarters-camp-mujuk-south-korea</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marfork-hq-marine-forces-korea-headquarters-camp-mujuk-south-korea</Url>
+    <NameNode>Marine Forces Korea Headquarters, Marine Forces Korea</NameNode>
+    <FullName>Marine Forces Korea Headquarters, Marine Forces Korea</FullName>
+    <SplitName>Marine Forces Korea Headquarters, Marine Forces Korea</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/566/small/marfork.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Mujuk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Camp Mujuk, South Korea</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/camp-mujuk-south-korea</Url>
+        <Id>camp-mujuk-south-korea</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fmf-atlantic-marine-forces-atlantic-naval-station-norfolk-va</Url>
+    <NameNode>Marine Forces Atlantic</NameNode>
+    <FullName>Marine Forces Atlantic</FullName>
+    <SplitName>Marine Forces Atlantic</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/567/small/fmflant.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Station Norfolk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Station Norfolk, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-station-norfolk-va</Url>
+        <Id>naval-station-norfolk-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforcom-marine-corps-forces-command-naval-station-norfolk-va</Url>
+        <FullName>Marine Corps Forces Command</FullName>
+        <Name>MARFORCOM</Name>
+        <Id>marforcom-marine-corps-forces-command-naval-station-norfolk-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforeur-marine-corps-forces-europe-stuttgart-germany</Url>
+        <FullName>Marine Corps Forces Europe</FullName>
+        <Name>MARFOREUR</Name>
+        <Id>marforeur-marine-corps-forces-europe-stuttgart-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforaf-marine-corps-forces-africa-stuttgart-germany</Url>
+        <FullName>Marine Corps Forces Africa</FullName>
+        <Name>MARFORAF</Name>
+        <Id>marforaf-marine-corps-forces-africa-stuttgart-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforsouth-marine-corps-forces-south-miami-fl</Url>
+        <FullName>Marine Corps Forces South</FullName>
+        <Name>MARFORSOUTH</Name>
+        <Id>marforsouth-marine-corps-forces-south-miami-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforcom-marine-corps-forces-command-naval-station-norfolk-va</Url>
+    <NameNode>Marine Corps Forces Command, Marine Forces Atlantic</NameNode>
+    <FullName>Marine Corps Forces Command, Marine Forces Atlantic</FullName>
+    <SplitName>Marine Corps Forces Command, Marine Forces Atlantic</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/568/small/marforcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Station Norfolk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Station Norfolk, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-station-norfolk-va</Url>
+        <Id>naval-station-norfolk-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforcom-hq-marine-corps-forces-command-headquarters-naval-station-norfolk-va</Url>
+        <FullName>Marine Corps Forces Command Headquarters</FullName>
+        <Name>MARFORCOM HQ</Name>
+        <Id>marforcom-hq-marine-corps-forces-command-headquarters-naval-station-norfolk-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mcscg-marine-corps-security-cooperation-group-jeb-little-creek-fort-story-va</Url>
+        <FullName>Marine Corps Security Cooperation Group</FullName>
+        <Name>MCSCG</Name>
+        <Id>mcscg-marine-corps-security-cooperation-group-jeb-little-creek-fort-story-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforcom-hq-marine-corps-forces-command-headquarters-naval-station-norfolk-va</Url>
+    <NameNode>Marine Corps Forces Command Headquarters, Marine Corps Forces Command</NameNode>
+    <FullName>Marine Corps Forces Command Headquarters, Marine Corps Forces Command</FullName>
+    <SplitName>Marine Corps Forces Command Headquarters, Marine Corps Forces Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/568/small/marforcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Station Norfolk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Station Norfolk, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-station-norfolk-va</Url>
+        <Id>naval-station-norfolk-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/h-s-bn-headquarters-service-battalion-naval-station-norfolk-va</Url>
+        <FullName>Headquarters &amp;amp; Service Battalion</FullName>
+        <Name>H&amp;amp;S Bn</Name>
+        <Id>h-s-bn-headquarters-service-battalion-naval-station-norfolk-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/h-s-bn-headquarters-service-battalion-naval-station-norfolk-va</Url>
+    <NameNode>Headquarters &amp;amp; Service Battalion, Marine Corps Forces Command Headquarters</NameNode>
+    <FullName>Headquarters &amp;amp; Service Battalion, Marine Corps Forces Command Headquarters</FullName>
+    <SplitName>Headquarters &amp;amp; Service Battalion, Marine Corps Forces Command Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/568/small/marforcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Naval Station Norfolk</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Naval Station Norfolk, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/naval-station-norfolk-va</Url>
+        <Id>naval-station-norfolk-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mcscg-marine-corps-security-cooperation-group-jeb-little-creek-fort-story-va</Url>
+    <NameNode>Marine Corps Security Cooperation Group, Marine Corps Forces Command</NameNode>
+    <FullName>Marine Corps Security Cooperation Group, Marine Corps Forces Command</FullName>
+    <SplitName>Marine Corps Security Cooperation Group, Marine Corps Forces Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/568/small/marforcom.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JEB Little Creek-Fort Story</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JEB Little Creek-Fort Story, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jeb-little-creek-fort-story-va</Url>
+        <Id>jeb-little-creek-fort-story-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforeur-marine-corps-forces-europe-stuttgart-germany</Url>
+    <NameNode>Marine Corps Forces Europe, Marine Forces Atlantic</NameNode>
+    <FullName>Marine Corps Forces Europe, Marine Forces Atlantic</FullName>
+    <SplitName>Marine Corps Forces Europe, Marine Forces Atlantic</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/569/small/marforeur.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Stuttgart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Stuttgart, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/stuttgart-germany</Url>
+        <Id>stuttgart-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforeur-hq-marine-forces-europe-headquarters-stuttgart-germany</Url>
+        <FullName>Marine Forces Europe Headquarters</FullName>
+        <Name>MARFOREUR HQ</Name>
+        <Id>marforeur-hq-marine-forces-europe-headquarters-stuttgart-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-europe</Url>
+        <FullName>Personnel Exchange Program</FullName>
+        <Name>PEP</Name>
+        <Id>pep-personnel-exchange-program-marine-corps-forces-europe</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforeur-hq-marine-forces-europe-headquarters-stuttgart-germany</Url>
+    <NameNode>Marine Forces Europe Headquarters, Marine Corps Forces Europe</NameNode>
+    <FullName>Marine Forces Europe Headquarters, Marine Corps Forces Europe</FullName>
+    <SplitName>Marine Forces Europe Headquarters, Marine Corps Forces Europe</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/569/small/marforeur.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Stuttgart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Stuttgart, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/stuttgart-germany</Url>
+        <Id>stuttgart-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-europe</Url>
+    <NameNode>Personnel Exchange Program, Marine Corps Forces Europe</NameNode>
+    <FullName>Personnel Exchange Program, Marine Corps Forces Europe</FullName>
+    <SplitName>Personnel Exchange Program, Marine Corps Forces Europe</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/569/small/marforeur.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforaf-marine-corps-forces-africa-stuttgart-germany</Url>
+    <NameNode>Marine Corps Forces Africa, Marine Forces Atlantic</NameNode>
+    <FullName>Marine Corps Forces Africa, Marine Forces Atlantic</FullName>
+    <SplitName>Marine Corps Forces Africa, Marine Forces Atlantic</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/570/small/marforaf.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Stuttgart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Stuttgart, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/stuttgart-germany</Url>
+        <Id>stuttgart-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforaf-hq-marine-forces-africa-headquarters-stuttgart-germany</Url>
+        <FullName>Marine Forces Africa Headquarters</FullName>
+        <Name>MARFORAF HQ</Name>
+        <Id>marforaf-hq-marine-forces-africa-headquarters-stuttgart-germany</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-africa</Url>
+        <FullName>Personnel Exchange Program</FullName>
+        <Name>PEP</Name>
+        <Id>pep-personnel-exchange-program-marine-corps-forces-africa</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/sp-magtf-africa-special-purpose-magtf-africa-nas-sigonella-italy</Url>
+        <FullName>Special-Purpose MAGTF Africa</FullName>
+        <Name>SP-MAGTF Africa</Name>
+        <Id>sp-magtf-africa-special-purpose-magtf-africa-nas-sigonella-italy</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforaf-hq-marine-forces-africa-headquarters-stuttgart-germany</Url>
+    <NameNode>Marine Forces Africa Headquarters, Marine Corps Forces Africa</NameNode>
+    <FullName>Marine Forces Africa Headquarters, Marine Corps Forces Africa</FullName>
+    <SplitName>Marine Forces Africa Headquarters, Marine Corps Forces Africa</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/570/small/marforaf.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Stuttgart</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Stuttgart, Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/stuttgart-germany</Url>
+        <Id>stuttgart-germany</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-africa</Url>
+    <NameNode>Personnel Exchange Program, Marine Corps Forces Africa</NameNode>
+    <FullName>Personnel Exchange Program, Marine Corps Forces Africa</FullName>
+    <SplitName>Personnel Exchange Program, Marine Corps Forces Africa</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/570/small/marforaf.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/sp-magtf-africa-special-purpose-magtf-africa-nas-sigonella-italy</Url>
+    <NameNode>Special-Purpose MAGTF Africa, Marine Corps Forces Africa</NameNode>
+    <FullName>Special-Purpose MAGTF Africa, Marine Corps Forces Africa</FullName>
+    <SplitName>Special-Purpose MAGTF Africa, Marine Corps Forces Africa</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/570/small/marforaf.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>NAS Sigonella</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NAS Sigonella, Italy</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/nas-sigonella-italy</Url>
+        <Id>nas-sigonella-italy</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforsouth-marine-corps-forces-south-miami-fl</Url>
+    <NameNode>Marine Corps Forces South, Marine Forces Atlantic</NameNode>
+    <FullName>Marine Corps Forces South, Marine Forces Atlantic</FullName>
+    <SplitName>Marine Corps Forces South, Marine Forces Atlantic</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/571/small/marforsouth.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Miami</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Miami, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/miami-fl</Url>
+        <Id>miami-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/marforsouth-hq-marine-forces-south-headquarters-miami-fl</Url>
+        <FullName>Marine Forces South Headquarters</FullName>
+        <Name>MARFORSOUTH HQ</Name>
+        <Id>marforsouth-hq-marine-forces-south-headquarters-miami-fl</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-south</Url>
+        <FullName>Personnel Exchange Program</FullName>
+        <Name>PEP</Name>
+        <Id>pep-personnel-exchange-program-marine-corps-forces-south</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/marforsouth-hq-marine-forces-south-headquarters-miami-fl</Url>
+    <NameNode>Marine Forces South Headquarters, Marine Corps Forces South</NameNode>
+    <FullName>Marine Forces South Headquarters, Marine Corps Forces South</FullName>
+    <SplitName>Marine Forces South Headquarters, Marine Corps Forces South</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/571/small/marforsouth.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Miami</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Miami, FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/miami-fl</Url>
+        <Id>miami-fl</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pep-personnel-exchange-program-marine-corps-forces-south</Url>
+    <NameNode>Personnel Exchange Program, Marine Corps Forces South</NameNode>
+    <FullName>Personnel Exchange Program, Marine Corps Forces South</FullName>
+    <SplitName>Personnel Exchange Program, Marine Corps Forces South</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/571/small/marforsouth.png</LogoUrl>
+    <Locations />
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

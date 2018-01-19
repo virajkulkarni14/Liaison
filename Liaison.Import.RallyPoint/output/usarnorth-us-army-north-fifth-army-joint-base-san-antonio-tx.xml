@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarnorth-us-army-north-fifth-army-joint-base-san-antonio-tx</Url>
+    <NameNode>US Army North (Fifth Army)</NameNode>
+    <FullName>Army North (Fifth Army)</FullName>
+    <SplitName>US Army North (Fifth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/150/small/5tharmy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usarnorth-hq-usarnorth-headquarters-joint-base-san-antonio-tx</Url>
+        <FullName>USARNORTH Headquarters</FullName>
+        <Name>USARNORTH HQ</Name>
+        <Id>usarnorth-hq-usarnorth-headquarters-joint-base-san-antonio-tx</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/263rd-aamdc-263rd-army-air-missile-defense-command-anderson-sc</Url>
+        <FullName>263rd Army Air &amp;amp; Missile Defense Command</FullName>
+        <Name>263rd AAMDC</Name>
+        <Id>263rd-aamdc-263rd-army-air-missile-defense-command-anderson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usarnorth-hq-usarnorth-headquarters-joint-base-san-antonio-tx</Url>
+    <NameNode>USARNORTH Headquarters, US Army North (Fifth Army)</NameNode>
+    <FullName>USARNORTH Headquarters, Army North (Fifth Army)</FullName>
+    <SplitName>USARNORTH Headquarters, US Army North (Fifth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/150/small/5tharmy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>JBSA - Joint Base San Antonio</BaseName>
+        <Deployment>false</Deployment>
+        <Location>JBSA - Joint Base San Antonio, TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/jbsa-joint-base-san-antonio-tx</Url>
+        <Id>jbsa-joint-base-san-antonio-tx</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/mpep-military-personnel-exchange-program</Url>
+        <FullName>Military Personnel Exchange Program</FullName>
+        <Name>MPEP</Name>
+        <Id>mpep-military-personnel-exchange-program</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mpep-military-personnel-exchange-program</Url>
+    <NameNode>Military Personnel Exchange Program, USARNORTH Headquarters</NameNode>
+    <FullName>Military Personnel Exchange Program, USARNORTH Headquarters</FullName>
+    <SplitName>Military Personnel Exchange Program, USARNORTH Headquarters</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/150/small/5tharmy.png</LogoUrl>
+    <Locations />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/lfdts-land-force-doctrine-and-training-system-kingston-canada</Url>
+        <FullName>Land Force Doctrine and Training System</FullName>
+        <Name>LFDTS</Name>
+        <Id>lfdts-land-force-doctrine-and-training-system-kingston-canada</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/lfdts-land-force-doctrine-and-training-system-kingston-canada</Url>
+    <NameNode>Land Force Doctrine and Training System, Military Personnel Exchange Program</NameNode>
+    <FullName>Land Force Doctrine and Training System, Military Personnel Exchange Program</FullName>
+    <SplitName>Land Force Doctrine and Training System, Military Personnel Exchange Program</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/150/small/5tharmy.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kingston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kingston, Canada</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/kingston-canada</Url>
+        <Id>kingston-canada</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/263rd-aamdc-263rd-army-air-missile-defense-command-anderson-sc</Url>
+    <NameNode>263rd Army Air &amp;amp; Missile Defense Command, US Army North (Fifth Army)</NameNode>
+    <FullName>263rd Army Air &amp;amp; Missile Defense Command, Army North (Fifth Army)</FullName>
+    <SplitName>263rd Army Air &amp;amp; Missile Defense Command, US Army North (Fifth Army)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anderson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anderson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anderson-sc</Url>
+        <Id>anderson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/263rd-aamdc-hhb-263rd-aamdc-headquarters-headquarters-battery-anderson-sc</Url>
+        <FullName>263rd AAMDC Headquarters &amp;amp; Headquarters Battery</FullName>
+        <Name>263rd AAMDC HHB</Name>
+        <Id>263rd-aamdc-hhb-263rd-aamdc-headquarters-headquarters-battery-anderson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1-263-ada-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+        <FullName>1st Battalion, 263rd Air Defense Artillery Regiment</FullName>
+        <Name>1-263 ADA</Name>
+        <Id>1-263-ada-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/2-263-ada-2nd-battalion-263rd-air-defense-artillery-regiment-anderson-sc</Url>
+        <FullName>2nd Battalion, 263rd Air Defense Artillery Regiment</FullName>
+        <Name>2-263 ADA</Name>
+        <Id>2-263-ada-2nd-battalion-263rd-air-defense-artillery-regiment-anderson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1-151-arb-1st-air-reconnaissance-battalion-151st-aviaton-regiment-263rd-army-air-missile-defense-command-mcentire-angb-sc</Url>
+        <FullName>1st Air Reconnaissance Battalion, 151st Aviaton Regiment</FullName>
+        <Name>1-151 ARB</Name>
+        <Id>1-151-arb-1st-air-reconnaissance-battalion-151st-aviaton-regiment-263rd-army-air-missile-defense-command-mcentire-angb-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/263rd-aamdc-hhb-263rd-aamdc-headquarters-headquarters-battery-anderson-sc</Url>
+    <NameNode>263rd AAMDC Headquarters &amp;amp; Headquarters Battery, 263rd Army Air &amp;amp; Missile Defense Command</NameNode>
+    <FullName>263rd AAMDC Headquarters &amp;amp; Headquarters Battery, 263rd Army Air &amp;amp; Missile Defense Command</FullName>
+    <SplitName>263rd AAMDC Headquarters &amp;amp; Headquarters Battery, 263rd Army Air &amp;amp; Missile Defense Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anderson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anderson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anderson-sc</Url>
+        <Id>anderson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1-263-ada-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+    <NameNode>1st Battalion, 263rd Air Defense Artillery Regiment, 263rd Army Air &amp;amp; Missile Defense Command</NameNode>
+    <FullName>1st Battalion, 263rd Air Defense Artillery Regiment, 263rd Army Air &amp;amp; Missile Defense Command</FullName>
+    <SplitName>1st Battalion, 263rd Air Defense Artillery Regiment, 263rd Army Air &amp;amp; Missile Defense Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/columbia-sc</Url>
+        <Id>columbia-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-btry-a-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+        <FullName>A Battery</FullName>
+        <Name>A BTRY</Name>
+        <Id>a-btry-a-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-btry-b-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+        <FullName>B Battery</FullName>
+        <Name>B BTRY</Name>
+        <Id>b-btry-b-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-btry-c-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+        <FullName>C Battery</FullName>
+        <Name>C BTRY</Name>
+        <Id>c-btry-c-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-btry-d-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+        <FullName>D Battery</FullName>
+        <Name>D BTRY</Name>
+        <Id>d-btry-d-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhb-headquarters-headquarters-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Battery</FullName>
+        <Name>HHB</Name>
+        <Id>hhb-headquarters-headquarters-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-btry-a-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+    <NameNode>A Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>A Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>A Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/columbia-sc</Url>
+        <Id>columbia-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-btry-b-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+    <NameNode>B Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>B Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>B Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/columbia-sc</Url>
+        <Id>columbia-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-btry-c-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+    <NameNode>C Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>C Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>C Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/columbia-sc</Url>
+        <Id>columbia-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-btry-d-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+    <NameNode>D Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>D Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>D Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/columbia-sc</Url>
+        <Id>columbia-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhb-headquarters-headquarters-battery-1st-battalion-263rd-air-defense-artillery-regiment-columbia-sc</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Battery, 1st Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Columbia, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/columbia-sc</Url>
+        <Id>columbia-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/2-263-ada-2nd-battalion-263rd-air-defense-artillery-regiment-anderson-sc</Url>
+    <NameNode>2nd Battalion, 263rd Air Defense Artillery Regiment, 263rd Army Air &amp;amp; Missile Defense Command</NameNode>
+    <FullName>2nd Battalion, 263rd Air Defense Artillery Regiment, 263rd Army Air &amp;amp; Missile Defense Command</FullName>
+    <SplitName>2nd Battalion, 263rd Air Defense Artillery Regiment, 263rd Army Air &amp;amp; Missile Defense Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anderson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anderson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anderson-sc</Url>
+        <Id>anderson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-btry-a-battery-2nd-battalion-263rd-air-defense-artillery-regiment-seneca-sc</Url>
+        <FullName>A Battery</FullName>
+        <Name>A BTRY</Name>
+        <Id>a-btry-a-battery-2nd-battalion-263rd-air-defense-artillery-regiment-seneca-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-btry-b-battery-2nd-battalion-263rd-air-defense-artillery-regiment-pickens-sc</Url>
+        <FullName>B Battery</FullName>
+        <Name>B BTRY</Name>
+        <Id>b-btry-b-battery-2nd-battalion-263rd-air-defense-artillery-regiment-pickens-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-btry-c-battery-2nd-battalion-263rd-air-defense-artillery-regiment-clemson-sc</Url>
+        <FullName>C Battery</FullName>
+        <Name>C BTRY</Name>
+        <Id>c-btry-c-battery-2nd-battalion-263rd-air-defense-artillery-regiment-clemson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhb-headquarters-headquarters-battery-2nd-battalion-263rd-air-defense-artillery-regiment-anderson-sc</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Battery</FullName>
+        <Name>HHB</Name>
+        <Id>hhb-headquarters-headquarters-battery-2nd-battalion-263rd-air-defense-artillery-regiment-anderson-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-btry-a-battery-2nd-battalion-263rd-air-defense-artillery-regiment-seneca-sc</Url>
+    <NameNode>A Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>A Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>A Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Seneca</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Seneca, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/seneca-sc</Url>
+        <Id>seneca-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-btry-b-battery-2nd-battalion-263rd-air-defense-artillery-regiment-pickens-sc</Url>
+    <NameNode>B Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>B Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>B Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Pickens</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Pickens, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/pickens-sc</Url>
+        <Id>pickens-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-btry-c-battery-2nd-battalion-263rd-air-defense-artillery-regiment-clemson-sc</Url>
+    <NameNode>C Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>C Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>C Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Clemson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Clemson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/clemson-sc</Url>
+        <Id>clemson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhb-headquarters-headquarters-battery-2nd-battalion-263rd-air-defense-artillery-regiment-anderson-sc</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Battery, 2nd Battalion, 263rd Air Defense Artillery Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anderson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Anderson, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/anderson-sc</Url>
+        <Id>anderson-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1-151-arb-1st-air-reconnaissance-battalion-151st-aviaton-regiment-263rd-army-air-missile-defense-command-mcentire-angb-sc</Url>
+    <NameNode>1st Air Reconnaissance Battalion, 151st Aviaton Regiment, 263rd Army Air &amp;amp; Missile Defense Command</NameNode>
+    <FullName>1st Air Reconnaissance Battalion, 151st Aviaton Regiment, 263rd Army Air &amp;amp; Missile Defense Command</FullName>
+    <SplitName>1st Air Reconnaissance Battalion, 151st Aviaton Regiment, 263rd Army Air &amp;amp; Missile Defense Command</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McEntire ANGB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McEntire ANGB, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcentire-angb-sc</Url>
+        <Id>mcentire-angb-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+    <NameNode>A Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</NameNode>
+    <FullName>A Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</FullName>
+    <SplitName>A Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McEntire ANGB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McEntire ANGB, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcentire-angb-sc</Url>
+        <Id>mcentire-angb-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+    <NameNode>B Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</NameNode>
+    <FullName>B Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</FullName>
+    <SplitName>B Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McEntire ANGB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McEntire ANGB, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcentire-angb-sc</Url>
+        <Id>mcentire-angb-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+    <NameNode>C Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</NameNode>
+    <FullName>C Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</FullName>
+    <SplitName>C Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McEntire ANGB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McEntire ANGB, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcentire-angb-sc</Url>
+        <Id>mcentire-angb-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+    <NameNode>D Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</NameNode>
+    <FullName>D Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</FullName>
+    <SplitName>D Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McEntire ANGB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McEntire ANGB, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcentire-angb-sc</Url>
+        <Id>mcentire-angb-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-1st-air-reconnaissance-battalion-151st-aviaton-regiment-mcentire-angb-sc</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 1st Air Reconnaissance Battalion, 151st Aviaton Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/151/small/263rdaamdc.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>McEntire ANGB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>McEntire ANGB, SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/mcentire-angb-sc</Url>
+        <Id>mcentire-angb-sc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>

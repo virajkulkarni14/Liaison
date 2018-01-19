@@ -1,0 +1,867 @@
+<?xml version="1.0"?>
+<ArrayOfCurrentOpsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/mdw-us-army-military-district-of-washington-direct-reporting-units-fort-mcnair-dc</Url>
+    <NameNode>US Army Military District of Washington, Direct Reporting Units</NameNode>
+    <FullName>Army Military District of Washington, Direct Reporting Units</FullName>
+    <SplitName>US Army Military District of Washington, Direct Reporting Units</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort McNair</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort McNair, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-mcnair-dc</Url>
+        <Id>fort-mcnair-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hq-mdw-headquarters-military-district-of-washington-fort-mcnair-dc</Url>
+        <FullName>Headquarters Military District of Washington</FullName>
+        <Name>HQ MDW</Name>
+        <Id>hq-mdw-headquarters-military-district-of-washington-fort-mcnair-dc</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-in-rgt-3rd-infantry-regiment-the-old-guard-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>3rd Infantry Regiment (The Old Guard)</FullName>
+        <Name>3rd IN RGT</Name>
+        <Id>3rd-in-rgt-3rd-infantry-regiment-the-old-guard-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/11th-av-11th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>11th Aviation Battalion</FullName>
+        <Name>11th AV</Name>
+        <Id>11th-av-11th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/12th-av-12th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>12th Aviation Battalion</FullName>
+        <Name>12th AV</Name>
+        <Id>12th-av-12th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/212th-mp-det-212th-military-police-detachment-fort-belvoir-va</Url>
+        <FullName>212th Military Police Detachment</FullName>
+        <Name>212th MP Det.</Name>
+        <Id>212th-mp-det-212th-military-police-detachment-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/us-army-band-the-us-army-band-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>The US Army Band</FullName>
+        <Name>US Army Band</Name>
+        <Id>us-army-band-the-us-army-band-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/arlington-arlington-national-cemetery-arlington-va</Url>
+        <FullName>Arlington National Cemetery</FullName>
+        <Name>Arlington</Name>
+        <Id>arlington-arlington-national-cemetery-arlington-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/usapat-us-army-priority-air-transport-joint-base-andrews-md</Url>
+        <FullName>US Army Priority Air Transport</FullName>
+        <Name>USAPAT</Name>
+        <Id>usapat-us-army-priority-air-transport-joint-base-andrews-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/572nd-mp-co-572nd-military-police-company-fort-detrick-md</Url>
+        <FullName>572nd Military Police Company</FullName>
+        <Name>572nd MP Co</Name>
+        <Id>572nd-mp-co-572nd-military-police-company-fort-detrick-md</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hq-mdw-headquarters-military-district-of-washington-fort-mcnair-dc</Url>
+    <NameNode>Headquarters Military District of Washington, US Army Military District of Washington</NameNode>
+    <FullName>Headquarters Military District of Washington, Army Military District of Washington</FullName>
+    <SplitName>Headquarters Military District of Washington, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort McNair</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort McNair, DC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-mcnair-dc</Url>
+        <Id>fort-mcnair-dc</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-in-rgt-3rd-infantry-regiment-the-old-guard-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>3rd Infantry Regiment (The Old Guard), US Army Military District of Washington</NameNode>
+    <FullName>3rd Infantry Regiment (The Old Guard), Army Military District of Washington</FullName>
+    <SplitName>3rd Infantry Regiment (The Old Guard), US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/3rd-in-rgt-hhc-3rd-in-rgt-headquarters-headquarters-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>3rd IN RGT Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>3rd IN RGT HHC</Name>
+        <Id>3rd-in-rgt-hhc-3rd-in-rgt-headquarters-headquarters-company-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/1-3-in-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>1st Battalion, 3rd Infantry Regiment</FullName>
+        <Name>1-3 IN</Name>
+        <Id>1-3-in-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/4-3-in-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>4th Battalion, 3rd Infantry Regiment</FullName>
+        <Name>4-3 IN</Name>
+        <Id>4-3-in-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/3rd-in-rgt-hhc-3rd-in-rgt-headquarters-headquarters-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>3rd IN RGT Headquarters &amp;amp; Headquarters Company, 3rd Infantry Regiment (The Old Guard)</NameNode>
+    <FullName>3rd IN RGT Headquarters &amp;amp; Headquarters Company, 3rd Infantry Regiment (The Old Guard)</FullName>
+    <SplitName>3rd IN RGT Headquarters &amp;amp; Headquarters Company, 3rd Infantry Regiment (The Old Guard)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/1-3-in-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>1st Battalion, 3rd Infantry Regiment, 3rd Infantry Regiment (The Old Guard)</NameNode>
+    <FullName>1st Battalion, 3rd Infantry Regiment, 3rd Infantry Regiment (The Old Guard)</FullName>
+    <SplitName>1st Battalion, 3rd Infantry Regiment, 3rd Infantry Regiment (The Old Guard)</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/h-co-h-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>H Company</FullName>
+        <Name>H Co</Name>
+        <Id>h-co-h-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>B Company, 1st Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>B Company, 1st Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>B Company, 1st Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>C Company, 1st Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>C Company, 1st Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>C Company, 1st Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>D Company, 1st Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>D Company, 1st Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>D Company, 1st Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/h-co-h-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>H Company, 1st Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>H Company, 1st Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>H Company, 1st Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-1st-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 1st Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 1st Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 1st Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>htt</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/4-3-in-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>4th Battalion, 3rd Infantry Regiment, 3rd Infantry Regiment (The Old Guard)</NameNode>
+    <FullName>4th Battalion, 3rd Infantry Regiment, 3rd Infantry Regiment (The Old Guard)</FullName>
+    <SplitName>4th Battalion, 3rd Infantry Regiment, 3rd Infantry Regiment (The Old Guard)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/289th-mp-289th-military-police-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>289th Military Police Company</FullName>
+        <Name>289th MP</Name>
+        <Id>289th-mp-289th-military-police-company-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/529th-rsc-529th-regimental-support-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>529th Regimental Support Company</FullName>
+        <Name>529th RSC</Name>
+        <Id>529th-rsc-529th-regimental-support-company-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/honor-guard-honor-guard-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>Honor Guard Company</FullName>
+        <Name>Honor Guard</Name>
+        <Id>honor-guard-honor-guard-company-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/fife-drum-fife-drum-corps-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <FullName>Fife &amp;amp; Drum Corps</FullName>
+        <Name>Fife &amp;amp; Drum</Name>
+        <Id>fife-drum-fife-drum-corps-joint-base-myer-henderson-hall-jbm-hh-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>A Company, 4th Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>A Company, 4th Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>A Company, 4th Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/289th-mp-289th-military-police-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>289th Military Police Company, 4th Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>289th Military Police Company, 4th Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>289th Military Police Company, 4th Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/529th-rsc-529th-regimental-support-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>529th Regimental Support Company, 4th Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>529th Regimental Support Company, 4th Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>529th Regimental Support Company, 4th Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/honor-guard-honor-guard-company-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>Honor Guard Company, 4th Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>Honor Guard Company, 4th Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>Honor Guard Company, 4th Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-4th-battalion-3rd-infantry-regiment-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 4th Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 4th Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 4th Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/fife-drum-fife-drum-corps-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>Fife &amp;amp; Drum Corps, 4th Battalion, 3rd Infantry Regiment</NameNode>
+    <FullName>Fife &amp;amp; Drum Corps, 4th Battalion, 3rd Infantry Regiment</FullName>
+    <SplitName>Fife &amp;amp; Drum Corps, 4th Battalion, 3rd Infantry Regiment</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/483/small/honorguard.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/11th-av-11th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>11th Aviation Battalion, US Army Military District of Washington</NameNode>
+    <FullName>11th Aviation Battalion, Army Military District of Washington</FullName>
+    <SplitName>11th Aviation Battalion, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-11th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-11th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-11th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 11th Aviation Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 11th Aviation Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 11th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/12th-av-12th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>12th Aviation Battalion, US Army Military District of Washington</NameNode>
+    <FullName>12th Aviation Battalion, Army Military District of Washington</FullName>
+    <SplitName>12th Aviation Battalion, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/911th-en-911th-engineer-company-fort-belvoir-va</Url>
+        <FullName>911th Engineer Company</FullName>
+        <Name>911th EN</Name>
+        <Id>911th-en-911th-engineer-company-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/a-co-a-company-12th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>A Company</FullName>
+        <Name>A Co</Name>
+        <Id>a-co-a-company-12th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/b-co-b-company-12th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>B Company</FullName>
+        <Name>B Co</Name>
+        <Id>b-co-b-company-12th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/c-co-c-company-12th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>C Company</FullName>
+        <Name>C Co</Name>
+        <Id>c-co-c-company-12th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/d-co-d-company-12th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>D Company</FullName>
+        <Name>D Co</Name>
+        <Id>d-co-d-company-12th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-12th-aviation-battalion-fort-belvoir-va</Url>
+        <FullName>Headquarters &amp;amp; Headquarters Company</FullName>
+        <Name>HHC</Name>
+        <Id>hhc-headquarters-headquarters-company-12th-aviation-battalion-fort-belvoir-va</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/911th-en-911th-engineer-company-fort-belvoir-va</Url>
+    <NameNode>911th Engineer Company, 12th Aviation Battalion</NameNode>
+    <FullName>911th Engineer Company, 12th Aviation Battalion</FullName>
+    <SplitName>911th Engineer Company, 12th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/a-co-a-company-12th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>A Company, 12th Aviation Battalion</NameNode>
+    <FullName>A Company, 12th Aviation Battalion</FullName>
+    <SplitName>A Company, 12th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/b-co-b-company-12th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>B Company, 12th Aviation Battalion</NameNode>
+    <FullName>B Company, 12th Aviation Battalion</FullName>
+    <SplitName>B Company, 12th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/c-co-c-company-12th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>C Company, 12th Aviation Battalion</NameNode>
+    <FullName>C Company, 12th Aviation Battalion</FullName>
+    <SplitName>C Company, 12th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/d-co-d-company-12th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>D Company, 12th Aviation Battalion</NameNode>
+    <FullName>D Company, 12th Aviation Battalion</FullName>
+    <SplitName>D Company, 12th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/hhc-headquarters-headquarters-company-12th-aviation-battalion-fort-belvoir-va</Url>
+    <NameNode>Headquarters &amp;amp; Headquarters Company, 12th Aviation Battalion</NameNode>
+    <FullName>Headquarters &amp;amp; Headquarters Company, 12th Aviation Battalion</FullName>
+    <SplitName>Headquarters &amp;amp; Headquarters Company, 12th Aviation Battalion</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Unknown</UnitService>
+    <UnitComponent>Unknown</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/212th-mp-det-212th-military-police-detachment-fort-belvoir-va</Url>
+    <NameNode>212th Military Police Detachment, US Army Military District of Washington</NameNode>
+    <FullName>212th Military Police Detachment, Army Military District of Washington</FullName>
+    <SplitName>212th Military Police Detachment, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Belvoir</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Belvoir, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-belvoir-va</Url>
+        <Id>fort-belvoir-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/us-army-band-the-us-army-band-joint-base-myer-henderson-hall-jbm-hh-va</Url>
+    <NameNode>The US Army Band, US Army Military District of Washington</NameNode>
+    <FullName>The Army Band, Army Military District of Washington</FullName>
+    <SplitName>The US Army Band, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/484/small/usarmyband.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Myer-Henderson Hall (JBM-HH)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Myer-Henderson Hall (JBM-HH), VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-myer-henderson-hall-jbm-hh-va</Url>
+        <Id>joint-base-myer-henderson-hall-jbm-hh-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/arlington-arlington-national-cemetery-arlington-va</Url>
+    <NameNode>Arlington National Cemetery, US Army Military District of Washington</NameNode>
+    <FullName>Arlington National Cemetery, Army Military District of Washington</FullName>
+    <SplitName>Arlington National Cemetery, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Arlington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Arlington, VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/arlington-va</Url>
+        <Id>arlington-va</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/usapat-us-army-priority-air-transport-joint-base-andrews-md</Url>
+    <NameNode>US Army Priority Air Transport, US Army Military District of Washington</NameNode>
+    <FullName>Army Priority Air Transport, Army Military District of Washington</FullName>
+    <SplitName>US Army Priority Air Transport, US Army Military District of Washington</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/group_logo_images/images/000/013/695/medium/Coin_Front_Large.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Andrews</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Andrews, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-andrews-md</Url>
+        <Id>joint-base-andrews-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.rallypoint.com/units/pfd-pacific-flight-detachment-joint-base-pearl-harbor-hickam-hi</Url>
+        <FullName>Pacific Flight Detachment</FullName>
+        <Name>PFD</Name>
+        <Id>pfd-pacific-flight-detachment-joint-base-pearl-harbor-hickam-hi</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/pfd-pacific-flight-detachment-joint-base-pearl-harbor-hickam-hi</Url>
+    <NameNode>Pacific Flight Detachment, US Army Priority Air Transport</NameNode>
+    <FullName>Pacific Flight Detachment, Army Priority Air Transport</FullName>
+    <SplitName>Pacific Flight Detachment, US Army Priority Air Transport</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/000/482/small/mdw.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Joint Base Pearl Harbor-Hickam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Joint Base Pearl Harbor-Hickam, HI</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/joint-base-pearl-harbor-hickam-hi</Url>
+        <Id>joint-base-pearl-harbor-hickam-hi</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+  <CurrentOpsObject>
+    <Url>https://www.rallypoint.com/units/572nd-mp-co-572nd-military-police-company-fort-detrick-md</Url>
+    <NameNode>572nd Military Police Company, US Army Military District of Washington  (Inactive)</NameNode>
+    <FullName>572nd Military Police Company, Army Military District of Washington  (Inactive)</FullName>
+    <SplitName>572nd Military Police Company, US Army Military District of Washington  (Inactive)</SplitName>
+    <LogoUrl>https://d26horl2n8pviu.cloudfront.net/patch_images/images/000/001/733/small/572ndmp.png</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Ritchie</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Ritchie, MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.rallypoint.com/locations/fort-ritchie-md</Url>
+        <Id>fort-ritchie-md</Id>
+      </LocationObject>
+    </Locations>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+  </CurrentOpsObject>
+</ArrayOfCurrentOpsObject>
