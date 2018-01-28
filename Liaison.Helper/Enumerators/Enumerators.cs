@@ -20,12 +20,13 @@ namespace Liaison.Helper.Enumerators
     {
         Command = 1,
         Detachment = 4,
-        FieldArmy =7,
+        FieldArmy = 7,
         Division = 9,
         Brigade = 10,
         Battalion = 12,
         Company = 13,
-
+        Battery = 14,
+        SquadronCavalry = 15,
     }
 
     public enum HigherHqType

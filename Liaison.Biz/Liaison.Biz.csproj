@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Converter\ConvertToMilOrg.cs" />
     <Compile Include="MilOrgs\BattalionOrg.cs" />
+    <Compile Include="MilOrgs\BatteryOrg.cs" />
     <Compile Include="MilOrgs\BrigadeOrg.cs" />
     <Compile Include="MilOrgs\CommandOrg.cs" />
     <Compile Include="MilOrgs\CompanyOrg.cs" />
@@ -59,6 +60,9 @@
       <Project>{58ab7c46-66c9-4cbf-b83f-723f9abdf7aa}</Project>
       <Name>Liaison.Helper</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MilOrgs\Squadron_ArmyOrg.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

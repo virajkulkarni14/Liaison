@@ -29,11 +29,11 @@ namespace Liaison.Biz.MilOrgs
             }
             if (this.ServiceTypeIdx==ServiceType.Reserve)
             {
-                sb.Append("("+Helper.Constants.ShortForm.Reserve+")");
+                sb.Append("("+Helper.Constants.ShortForm_Component.Reserve+")");
             }
             else if (this.ServiceTypeIdx==ServiceType.Volunteer)
             {
-                sb.Append("(" + Helper.Constants.ShortForm.Volunteer + ") (" + this.USState + ") ");
+                sb.Append("(" + Helper.Constants.ShortForm_Component.Volunteer + ") (" + this.USState + ") ");
             }
             sb.Append(Mission + " ");
             sb.Append(Helper.Constants.LongForm.Division);

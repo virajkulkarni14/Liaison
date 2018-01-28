@@ -13,6 +13,77 @@ namespace Liaison.Biz.Tests
     public class ConvertToMilOrgTests
     {
         [TestMethod]
+        public void ConvertToCommand_ArmyMaterial()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.CommandString.armyMaterialCommand;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+            var army1 = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(army1, typeof(CommandOrg));
+            Assert.IsNull(army1.Number);
+            Assert.IsFalse(army1.UseOrdinal);
+            Assert.AreEqual(null, army1.Mission);
+            Assert.AreEqual("Army Materiel Command", army1.GetFullName());
+            Assert.AreEqual("us/army/amc", army1.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/amc", army1.CurrentOpsUrl);
+            Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQU1D.png", army1.CurrentOpsLogo);
+
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Command, army1.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(null, army1.USState);
+
+            Assert.AreEqual(1, army1.Bases.Count);
+
+            Assert.AreEqual("us/al/redstone-ars", army1.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Redstone Arsenal", army1.Bases[0].Name);
+            Assert.AreEqual("Alabama, United States", army1.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/al/redstone-ars", army1.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, army1.Bases[0].DateFrom);
+            Assert.AreEqual(null, army1.Bases[0].DateUntil);
+            Assert.AreEqual(false, army1.Bases[0].IsDeployment);
+            Assert.AreEqual(true, army1.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, army1.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/doa", army1.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, army1.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, army1.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, army1.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Unknown, army1.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, army1.ShortForm.Count);
+
+            Assert.AreEqual("AMC", army1.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, army1.ShortForm[0].Type);
+
+            Assert.AreEqual("AMC", army1.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, army1.ShortForm[1].Type);
+
+            Assert.AreEqual("AMC", army1.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, army1.ShortForm[2].Type);
+
+            Assert.AreEqual(2, army1.ChildOrgs.Count);
+
+            Assert.AreEqual("us/army/asc", army1.ChildOrgs[0].CurrentOpsRef);
+            Assert.AreEqual("Army Sustainment Command", army1.ChildOrgs[0].Name);
+            Assert.IsFalse(army1.ChildOrgs[0].IsIndirect);
+
+            Assert.AreEqual("us/army/us-army-contracting-cmd", army1.ChildOrgs[1].CurrentOpsRef);
+            Assert.AreEqual("Army Contracting Command", army1.ChildOrgs[1].Name);
+            Assert.IsFalse(army1.ChildOrgs[1].IsIndirect);
+            #endregion
+        }
+        [TestMethod]
         public void ConvertToDivision_1id()
         {
             var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
@@ -87,7 +158,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("____1 INF. DIV.", division.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, division.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)____1", division.ShortForm[1].Text);
+            Assert.AreEqual("G)INF____1", division.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, division.ShortForm[1].Type);
 
             Assert.AreEqual("____1 ID", division.ShortForm[2].Text);
@@ -148,7 +219,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("___38 (V) INF. DIV.", division.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, division.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)___38", division.ShortForm[1].Text);
+            Assert.AreEqual("G)INF___38", division.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, division.ShortForm[1].Type);
 
             Assert.AreEqual("___38 ID", division.ShortForm[2].Text);
@@ -209,7 +280,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("HHQ BN., ____1 INF. DIV.", hhqbn.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hhqbn.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)____1@!", hhqbn.ShortForm[1].Text);
+            Assert.AreEqual("G)INF____1@!", hhqbn.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hhqbn.ShortForm[1].Type);
 
             Assert.AreEqual("HHB/____1 ID", hhqbn.ShortForm[2].Text);
@@ -270,7 +341,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("HHQ BN., ___38 (V) INF. DIV.", hhqbn.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hhqbn.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)___38@!", hhqbn.ShortForm[1].Text);
+            Assert.AreEqual("G)INF___38@!", hhqbn.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hhqbn.ShortForm[1].Type);
 
             Assert.AreEqual("HHB/___38 ID", hhqbn.ShortForm[2].Text);
@@ -331,7 +402,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("HQ & SUPT. COY., HHQ BN., ___38 (V) INF. DIV.", hschhqbn.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)___38@!|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual("G)INF___38@!|!", hschhqbn.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
 
             Assert.AreEqual("HSC-HHB/___38 ID", hschhqbn.ShortForm[2].Text);
@@ -400,6 +471,270 @@ namespace Liaison.Biz.Tests
             #endregion
         }
         [TestMethod]
+        public void ConvertToSqdrnHH_177Armd()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.HHQBnCompanyString.coyHeadquartersAndHq_177ArmdBde;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+
+            var hschhqbn = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(hschhqbn, typeof(Squadron_CavalryOrg));
+            Assert.AreEqual(null, hschhqbn.Number);
+            Assert.IsFalse(hschhqbn.UseOrdinal);
+            Assert.AreEqual("Headquarters and Headquarters", hschhqbn.Mission);
+            Assert.AreEqual("Headquarters and Headquarters Sqn., __177th Arm. Bde.", hschhqbn.GetFullName());
+            Assert.AreEqual("us/army/177-armored-bde/hhc", hschhqbn.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/177-armored-bde/hhc", hschhqbn.CurrentOpsUrl);
+            Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.SquadronCavalry, hschhqbn.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(null, hschhqbn.USState);
+
+            Assert.AreEqual(1, hschhqbn.Bases.Count);
+
+            Assert.AreEqual("us/ms/camp-shelby", hschhqbn.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Camp Shelby", hschhqbn.Bases[0].Name);
+            Assert.AreEqual("Mississippi, United States", hschhqbn.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/ms/camp-shelby", hschhqbn.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[0].IsDeployment);
+            Assert.AreEqual(true, hschhqbn.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, hschhqbn.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/177-armored-bde", hschhqbn.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, hschhqbn.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Organic, hschhqbn.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, hschhqbn.ShortForm.Count);
+
+            Assert.AreEqual("HQ & HQ SQN., __177 ARM. BDE.", hschhqbn.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
+
+            Assert.AreEqual("G*ARM__177|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
+
+            Assert.AreEqual("HHS-_____/__177 AB", hschhqbn.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, hschhqbn.ShortForm[2].Type);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToSqdrnHH_157Inf()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.HHQBnCompanyString.coyHeadquartersAndHq_157InfBde;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+
+            var hschhqbn = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(hschhqbn, typeof(CompanyOrg));
+            Assert.AreEqual(null, hschhqbn.Number);
+            Assert.IsFalse(hschhqbn.UseOrdinal);
+            Assert.AreEqual("Headquarters and Headquarters", hschhqbn.Mission);
+            Assert.AreEqual("Headquarters and Headquarters Coy., __157th Inf. Bde.", hschhqbn.GetFullName());
+            Assert.AreEqual("us/army/157-in-bde/hhc", hschhqbn.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/157-in-bde/hhc", hschhqbn.CurrentOpsUrl);
+            Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(null, hschhqbn.USState);
+
+            Assert.AreEqual(2, hschhqbn.Bases.Count);
+
+            Assert.AreEqual("us/in/camp-atterbury", hschhqbn.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Camp Atterbury", hschhqbn.Bases[0].Name);
+            Assert.AreEqual("Edinburgh, Indiana, United States", hschhqbn.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/in/camp-atterbury", hschhqbn.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(2011, hschhqbn.Bases[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[0].IsDeployment);
+            Assert.AreEqual(true, hschhqbn.Bases[0].IsCurrent);
+
+            Assert.AreEqual("us/sc/fort-jackson", hschhqbn.Bases[1].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort Jackson", hschhqbn.Bases[1].Name);
+            Assert.AreEqual("Columbia, South Carolina, United States", hschhqbn.Bases[1].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/sc/fort-jackson", hschhqbn.Bases[1].CurrentOpsUrl);
+            Assert.AreEqual(null, hschhqbn.Bases[1].DateFrom);
+            Assert.AreEqual(2011, hschhqbn.Bases[1].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[1].IsDeployment);
+            Assert.AreEqual(false, hschhqbn.Bases[1].IsCurrent);
+
+            Assert.AreEqual(1, hschhqbn.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/157-in-bde", hschhqbn.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, hschhqbn.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Organic, hschhqbn.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, hschhqbn.ShortForm.Count);
+
+            Assert.AreEqual("HQ & HQ COY., __157 INF. BDE.", hschhqbn.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
+
+            Assert.AreEqual("G*INF__157|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
+
+            Assert.AreEqual("HHC-_____/__157 IB", hschhqbn.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, hschhqbn.ShortForm[2].Type);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToSqdrnHH_4Cav()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.TroopString.trpHeadquartersAndHq_4cav;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+
+            var hschhqbn = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(hschhqbn, typeof(Squadron_CavalryOrg));
+            Assert.AreEqual(null, hschhqbn.Number);
+            Assert.IsFalse(hschhqbn.UseOrdinal);
+            Assert.AreEqual("Headquarters and Headquarters", hschhqbn.Mission);
+            Assert.AreEqual("Headquarters and Headquarters Sqn., ____4th Cav. Bde.", hschhqbn.GetFullName());
+            Assert.AreEqual("us/army/4-cav-bde/hht", hschhqbn.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/4-cav-bde/hht", hschhqbn.CurrentOpsUrl);
+            Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.SquadronCavalry, hschhqbn.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(null, hschhqbn.USState);
+
+            Assert.AreEqual(1, hschhqbn.Bases.Count);
+
+            Assert.AreEqual("us/ky/fort-knox", hschhqbn.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort Knox", hschhqbn.Bases[0].Name);
+            Assert.AreEqual("Radcliff, Kentucky, United States", hschhqbn.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/ky/fort-knox", hschhqbn.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[0].IsDeployment);
+            Assert.AreEqual(true, hschhqbn.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, hschhqbn.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/4-cav-bde", hschhqbn.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, hschhqbn.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Organic, hschhqbn.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, hschhqbn.ShortForm.Count);
+
+            Assert.AreEqual("HQ & HQ SQN., ____4 CAV. BDE.", hschhqbn.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
+
+            Assert.AreEqual("G*CAV____4|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
+
+            Assert.AreEqual("HHS-_____/____4 CB", hschhqbn.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, hschhqbn.ShortForm[2].Type);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToBtyHH_72Arty()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.BatteryString.btyHqAndHq_72Art;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+
+            var hschhqbn = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(hschhqbn, typeof(BatteryOrg));
+            Assert.AreEqual(null, hschhqbn.Number);
+            Assert.IsFalse(hschhqbn.UseOrdinal);
+            Assert.AreEqual("Headquarters and Headquarters", hschhqbn.Mission);
+            Assert.AreEqual("Headquarters and Headquarters Bty., ___72nd Fld. Art. Bde.", hschhqbn.GetFullName());
+            Assert.AreEqual("us/army/72-fa-bde/hhb", hschhqbn.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/72-fa-bde/hhb", hschhqbn.CurrentOpsUrl);
+            Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battery, hschhqbn.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(null, hschhqbn.USState);
+
+            Assert.AreEqual(2, hschhqbn.Bases.Count);
+
+            Assert.AreEqual("us/nj/fort-dix", hschhqbn.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort Dix", hschhqbn.Bases[0].Name);
+            Assert.AreEqual("JB McGuire-Dix-Lakehurst", hschhqbn.Bases[0].ParentBase);
+            Assert.AreEqual("New Jersey, United States", hschhqbn.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/nj/fort-dix", hschhqbn.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.Bases[0].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[0].IsDeployment);
+            Assert.AreEqual(true, hschhqbn.Bases[0].IsCurrent);
+
+            Assert.AreEqual("us/md/fort-george-g-meade", hschhqbn.Bases[1].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort George G. Meade", hschhqbn.Bases[1].Name);
+            Assert.AreEqual(null, hschhqbn.Bases[1].ParentBase);
+            Assert.AreEqual("Maryland, United States", hschhqbn.Bases[1].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/md/fort-george-g-meade", hschhqbn.Bases[1].CurrentOpsUrl);
+            Assert.AreEqual(null, hschhqbn.Bases[1].DateFrom);
+            Assert.AreEqual(null, hschhqbn.Bases[1].DateUntil);
+            Assert.AreEqual(false, hschhqbn.Bases[1].IsDeployment);
+            Assert.AreEqual(false, hschhqbn.Bases[1].IsCurrent);
+
+            Assert.AreEqual(1, hschhqbn.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/72-fa-bde", hschhqbn.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, hschhqbn.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, hschhqbn.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Organic, hschhqbn.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, hschhqbn.ShortForm.Count);
+
+            Assert.AreEqual("HQ & HQ BTY., ___72 FLD. ART. BDE.", hschhqbn.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
+
+            Assert.AreEqual("G*ART___72|!", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
+
+            Assert.AreEqual("HHB-_____/___72 FAB", hschhqbn.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, hschhqbn.ShortForm[2].Type);
+            #endregion
+        }
+        [TestMethod]
         public void ConvertToCompanyAHHQBn_38id()
         {
             var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
@@ -444,7 +779,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("A COY., HHQ BN., ___38 (V) INF. DIV.", hschhqbn.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, hschhqbn.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)___38@!|A", hschhqbn.ShortForm[1].Text);
+            Assert.AreEqual("G)INF___38@!|A", hschhqbn.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, hschhqbn.ShortForm[1].Type);
 
             Assert.AreEqual("A-HHB/___38 ID", hschhqbn.ShortForm[2].Text);
@@ -505,7 +840,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("C COY., HHQ BN., ___38 (V) INF. DIV.", c_coyhhqbn.ShortForm[0].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, c_coyhhqbn.ShortForm[0].Type);
 
-            Assert.AreEqual("INF)___38@!|C", c_coyhhqbn.ShortForm[1].Text);
+            Assert.AreEqual("G)INF___38@!|C", c_coyhhqbn.ShortForm[1].Text);
             Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, c_coyhhqbn.ShortForm[1].Type);
 
             Assert.AreEqual("C-HHB/___38 ID", c_coyhhqbn.ShortForm[2].Text);
@@ -539,7 +874,7 @@ namespace Liaison.Biz.Tests
 
             Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);            
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
 
             Assert.AreEqual(1, army1.Bases.Count);
 
@@ -580,6 +915,296 @@ namespace Liaison.Biz.Tests
             //Assert.AreEqual("us/army/us-army-contracting-cmd", army1.ChildOrgs[1].CurrentOpsRef);
             //Assert.AreEqual("Army Contracting Command", army1.ChildOrgs[1].Name);
             //Assert.IsFalse(army1.ChildOrgs[1].IsIndirect);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToBrigade_4Cav()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.BrigadeString.brigadeCav_4;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+            var brig = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(brig, typeof(BrigadeOrg));
+            Assert.AreEqual(4, brig.Number);
+            Assert.IsTrue(brig.UseOrdinal);
+            Assert.AreEqual("Cavalry", brig.Mission);
+            Assert.AreEqual("4th Cavalry Brigade", brig.GetFullName());
+            Assert.AreEqual("us/army/4-cav-bde", brig.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/4-cav-bde", brig.CurrentOpsUrl);
+            Assert.AreEqual("", brig.CurrentOpsLogo);
+
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);            
+
+            Assert.AreEqual(1, brig.Bases.Count);
+
+            Assert.AreEqual("us/ky/fort-knox", brig.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort Knox", brig.Bases[0].Name);
+            Assert.AreEqual("Radcliff, Kentucky, United States", brig.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/ky/fort-knox", brig.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, brig.Bases[0].DateFrom);
+            Assert.AreEqual(null, brig.Bases[0].DateUntil);
+            Assert.AreEqual(false, brig.Bases[0].IsDeployment);
+            Assert.AreEqual(true, brig.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, brig.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/1-army/div-east", brig.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, brig.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Assigned, brig.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, brig.ShortForm.Count);
+
+            Assert.AreEqual("____4 CAV. BDE.", brig.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, brig.ShortForm[0].Type);
+
+            Assert.AreEqual("G*CAV____4", brig.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, brig.ShortForm[1].Type);
+
+            Assert.AreEqual("____4 CB", brig.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, brig.ShortForm[2].Type);
+
+            Assert.AreEqual(1, brig.ChildOrgs.Count);
+
+            Assert.AreEqual("us/army/4-cav-bde/hht", brig.ChildOrgs[0].CurrentOpsRef);
+            Assert.AreEqual("Headquarters and Headquarters Troop, 4th Cavalry Brigade", brig.ChildOrgs[0].Name);
+            Assert.IsFalse(brig.ChildOrgs[0].IsIndirect);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToBrigade_177Arm()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.BrigadeString.brigadeArm_177;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+            var brig = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(brig, typeof(BrigadeOrg));
+            Assert.AreEqual(177, brig.Number);
+            Assert.IsTrue(brig.UseOrdinal);
+            Assert.AreEqual("Armoured", brig.Mission);
+            Assert.AreEqual("177th Armoured Brigade", brig.GetFullName());
+            Assert.AreEqual("us/army/177-armored-bde", brig.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/177-armored-bde", brig.CurrentOpsUrl);
+            Assert.AreEqual("", brig.CurrentOpsLogo);
+
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+
+            Assert.AreEqual(1, brig.Bases.Count);
+
+            Assert.AreEqual("us/ms/camp-shelby", brig.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Camp Shelby", brig.Bases[0].Name);
+            Assert.AreEqual("Mississippi, United States", brig.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/ms/camp-shelby", brig.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, brig.Bases[0].DateFrom);
+            Assert.AreEqual(null, brig.Bases[0].DateUntil);
+            Assert.AreEqual(false, brig.Bases[0].IsDeployment);
+            Assert.AreEqual(true, brig.Bases[0].IsCurrent);
+
+            Assert.AreEqual(1, brig.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/1-army/div-east", brig.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, brig.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Assigned, brig.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, brig.ShortForm.Count);
+
+            Assert.AreEqual("__177 ARM. BDE.", brig.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, brig.ShortForm[0].Type);
+
+            Assert.AreEqual("G*ARM__177", brig.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, brig.ShortForm[1].Type);
+
+            Assert.AreEqual("__177 AB", brig.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, brig.ShortForm[2].Type);
+
+            Assert.AreEqual(1, brig.ChildOrgs.Count);
+
+            Assert.AreEqual("us/army/177-armored-bde/hhc", brig.ChildOrgs[0].CurrentOpsRef);
+            Assert.AreEqual("Headquarters and Headquarters Company, 177th Armored Brigade", brig.ChildOrgs[0].Name);
+            Assert.IsFalse(brig.ChildOrgs[0].IsIndirect);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToBrigade_157Inf()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.BrigadeString.brigadeInf_157;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+            var brig = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(brig, typeof(BrigadeOrg));
+            Assert.AreEqual(157, brig.Number);
+            Assert.IsTrue(brig.UseOrdinal);
+            Assert.AreEqual("Infantry", brig.Mission);
+            Assert.AreEqual("157th Infantry Brigade", brig.GetFullName());
+            Assert.AreEqual("us/army/157-in-bde", brig.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/157-in-bde", brig.CurrentOpsUrl);
+            Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxNTc.png", brig.CurrentOpsLogo);
+
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+
+            Assert.AreEqual(2, brig.Bases.Count);
+
+            Assert.AreEqual("us/in/camp-atterbury", brig.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Camp Atterbury", brig.Bases[0].Name);
+            Assert.AreEqual("Edinburgh, Indiana, United States", brig.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/in/camp-atterbury", brig.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, brig.Bases[0].DateFrom);
+            Assert.AreEqual(null, brig.Bases[0].DateUntil);
+            Assert.AreEqual(false, brig.Bases[0].IsDeployment);
+            Assert.AreEqual(true, brig.Bases[0].IsCurrent);
+
+            Assert.AreEqual("us/sc/fort-jackson", brig.Bases[1].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort Jackson", brig.Bases[1].Name);
+            Assert.AreEqual("Columbia, South Carolina, United States", brig.Bases[1].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/sc/fort-jackson", brig.Bases[1].CurrentOpsUrl);
+            Assert.AreEqual(null, brig.Bases[1].DateFrom);
+            Assert.AreEqual(null, brig.Bases[1].DateUntil);
+            Assert.AreEqual(false, brig.Bases[1].IsDeployment);
+            Assert.AreEqual(false, brig.Bases[1].IsCurrent);
+
+            Assert.AreEqual(1, brig.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/1-army/div-east", brig.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, brig.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Assigned, brig.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual(3, brig.ShortForm.Count);
+
+            Assert.AreEqual("__157 INF. BDE.", brig.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, brig.ShortForm[0].Type);
+
+            Assert.AreEqual("G*INF__157", brig.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, brig.ShortForm[1].Type);
+
+            Assert.AreEqual("__157 IB", brig.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, brig.ShortForm[2].Type);
+
+            Assert.AreEqual(1, brig.ChildOrgs.Count);
+
+            Assert.AreEqual("us/army/157-in-bde/hhc", brig.ChildOrgs[0].CurrentOpsRef);
+            Assert.AreEqual("Headquarters and Headquarters Company, 157th Infantry Brigade", brig.ChildOrgs[0].Name);
+            Assert.IsFalse(brig.ChildOrgs[0].IsIndirect);
+            #endregion
+        }
+        [TestMethod]
+        public void ConvertToBrigade_72FA()
+        {
+            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
+
+            string xmlText = Strings.BrigadeString.brigadeArt__72;
+
+            var xmlreader = XmlReader.Create(new StringReader(xmlText));
+            xmlreader.Read();
+
+            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
+            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
+
+            var brig = Converter.ConvertToMilOrg.Convert(currentOpsObject);
+
+            #region assertions
+            Assert.IsInstanceOfType(brig, typeof(BrigadeOrg));
+            Assert.AreEqual(72, brig.Number);
+            Assert.IsTrue(brig.UseOrdinal);
+            Assert.AreEqual("Field Artillery", brig.Mission);
+            Assert.AreEqual("72nd Field Artillery Brigade", brig.GetFullName());
+            Assert.AreEqual("us/army/72-fa-bde", brig.CurrentOpsRef);
+            Assert.AreEqual("https://currentops.com/unit/us/army/72-fa-bde", brig.CurrentOpsUrl);
+            Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRkEgQkRFIDAwNzI.png", brig.CurrentOpsLogo);
+
+            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+
+            Assert.AreEqual(2, brig.Bases.Count);
+
+            Assert.AreEqual("us/nj/fort-dix", brig.Bases[0].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort Dix", brig.Bases[0].Name);
+            Assert.AreEqual("JB McGuire-Dix-Lakehurst", brig.Bases[0].ParentBase);
+            Assert.AreEqual("New Jersey, United States", brig.Bases[0].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/nj/fort-dix", brig.Bases[0].CurrentOpsUrl);
+            Assert.AreEqual(null, brig.Bases[0].DateFrom);
+            Assert.AreEqual(null, brig.Bases[0].DateUntil);
+            Assert.AreEqual(false, brig.Bases[0].IsDeployment);
+            Assert.AreEqual(true, brig.Bases[0].IsCurrent);
+
+            Assert.AreEqual("us/md/fort-george-g-meade", brig.Bases[1].CurrentOpsBaseRef);
+            Assert.AreEqual("Fort George G. Meade", brig.Bases[1].Name);
+            Assert.AreEqual(null, brig.Bases[1].ParentBase);
+            Assert.AreEqual("Maryland, United States", brig.Bases[1].Location);
+            Assert.AreEqual("https://currentops.com/installations/us/md/fort-george-g-meade", brig.Bases[1].CurrentOpsUrl);
+            Assert.AreEqual(null, brig.Bases[1].DateFrom);
+            Assert.AreEqual(null, brig.Bases[1].DateUntil);
+            Assert.AreEqual(false, brig.Bases[1].IsDeployment);
+            Assert.AreEqual(false, brig.Bases[1].IsCurrent);
+
+            Assert.AreEqual(2, brig.HigherHqs.Count);
+
+            Assert.AreEqual("us/army/1-army/div-east", brig.HigherHqs[0].CurrentOpsRef);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateFrom);
+            Assert.AreEqual(null, brig.HigherHqs[0].DateUntil);
+            Assert.AreEqual(true, brig.HigherHqs[0].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Assigned, brig.HigherHqs[0].CommandRelationshipType);
+
+            Assert.AreEqual("us/army/vii-corps-arty", brig.HigherHqs[1].CurrentOpsRef);
+            Assert.AreEqual(null, brig.HigherHqs[1].DateFrom);
+            Assert.AreEqual(null, brig.HigherHqs[1].DateUntil);
+            Assert.AreEqual(false, brig.HigherHqs[1].IsCurrent);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Unknown, brig.HigherHqs[1].CommandRelationshipType);
+
+            Assert.AreEqual(3, brig.ShortForm.Count);
+
+            Assert.AreEqual("___72 FLD. ART. BDE.", brig.ShortForm[0].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, brig.ShortForm[0].Type);
+
+            Assert.AreEqual("G*ART___72", brig.ShortForm[1].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, brig.ShortForm[1].Type);
+
+            Assert.AreEqual("___72 FAB", brig.ShortForm[2].Text);
+            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, brig.ShortForm[2].Type);
+
+            Assert.AreEqual(1, brig.ChildOrgs.Count);
+
+            Assert.AreEqual("us/army/72-fa-bde/hhb", brig.ChildOrgs[0].CurrentOpsRef);
+            Assert.AreEqual("Headquarters and Headquarters Battery, 72nd Field Artillery Brigade", brig.ChildOrgs[0].Name);
+            Assert.IsFalse(brig.ChildOrgs[0].IsIndirect);
             #endregion
         }
         [TestMethod]
@@ -889,7 +1514,6 @@ namespace Liaison.Biz.Tests
             Assert.IsFalse(army1.ChildOrgs[9].IsIndirect);
             #endregion
         }
-
         [TestMethod]
         public void ConvertToDetachmentHHArmy_1East()
         {
@@ -954,77 +1578,6 @@ namespace Liaison.Biz.Tests
 
             #endregion
         }
-
-        [TestMethod]
-        public void ConvertToCommand_ArmyMaterial()
-        {
-            var converter = new Liaison.Biz.Converter.ConvertToMilOrg();
-
-            string xmlText = Strings.CommandString.armyMaterialCommand;
-
-            var xmlreader = XmlReader.Create(new StringReader(xmlText));
-            xmlreader.Read();
-
-            var serializer = new XmlSerializer(typeof(CurrentOpsObject));
-            var currentOpsObject = (CurrentOpsObject)serializer.Deserialize(xmlreader);
-
-            var army1 = Converter.ConvertToMilOrg.Convert(currentOpsObject);
-
-            #region assertions
-            Assert.IsInstanceOfType(army1, typeof(CommandOrg));
-            Assert.IsNull(army1.Number);
-            Assert.IsFalse(army1.UseOrdinal);
-            Assert.AreEqual(null, army1.Mission);
-            Assert.AreEqual("Army Materiel Command", army1.GetFullName());
-            Assert.AreEqual("us/army/amc", army1.CurrentOpsRef);
-            Assert.AreEqual("https://currentops.com/unit/us/army/amc", army1.CurrentOpsUrl);
-            Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQU1D.png", army1.CurrentOpsLogo);
-
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Command, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
-            Assert.AreEqual(null, army1.USState);
-
-            Assert.AreEqual(1, army1.Bases.Count);
-
-            Assert.AreEqual("us/al/redstone-ars", army1.Bases[0].CurrentOpsBaseRef);
-            Assert.AreEqual("Redstone Arsenal", army1.Bases[0].Name);
-            Assert.AreEqual("Alabama, United States", army1.Bases[0].Location);
-            Assert.AreEqual("https://currentops.com/installations/us/al/redstone-ars", army1.Bases[0].CurrentOpsUrl);
-            Assert.AreEqual(null, army1.Bases[0].DateFrom);
-            Assert.AreEqual(null, army1.Bases[0].DateUntil);
-            Assert.AreEqual(false, army1.Bases[0].IsDeployment);
-            Assert.AreEqual(true, army1.Bases[0].IsCurrent);
-
-            Assert.AreEqual(1, army1.HigherHqs.Count);
-
-            Assert.AreEqual("us/army/doa", army1.HigherHqs[0].CurrentOpsRef);
-            Assert.AreEqual(null, army1.HigherHqs[0].DateFrom);
-            Assert.AreEqual(null, army1.HigherHqs[0].DateUntil);
-            Assert.AreEqual(true, army1.HigherHqs[0].IsCurrent);
-            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Unknown, army1.HigherHqs[0].CommandRelationshipType);
-
-            Assert.AreEqual(3, army1.ShortForm.Count);
-
-            Assert.AreEqual("AMC", army1.ShortForm[0].Text);
-            Assert.AreEqual(Helper.Enumerators.ShortFormType.ShortName, army1.ShortForm[0].Type);
-
-            Assert.AreEqual("AMC", army1.ShortForm[1].Text);
-            Assert.AreEqual(Helper.Enumerators.ShortFormType.IndexName, army1.ShortForm[1].Type);
-
-            Assert.AreEqual("AMC", army1.ShortForm[2].Text);
-            Assert.AreEqual(Helper.Enumerators.ShortFormType.Other, army1.ShortForm[2].Type);
-
-            Assert.AreEqual(2, army1.ChildOrgs.Count);
-
-            Assert.AreEqual("us/army/asc", army1.ChildOrgs[0].CurrentOpsRef);
-            Assert.AreEqual("Army Sustainment Command", army1.ChildOrgs[0].Name);
-            Assert.IsFalse(army1.ChildOrgs[0].IsIndirect);
-
-            Assert.AreEqual("us/army/us-army-contracting-cmd", army1.ChildOrgs[1].CurrentOpsRef);
-            Assert.AreEqual("Army Contracting Command", army1.ChildOrgs[1].Name);
-            Assert.IsFalse(army1.ChildOrgs[1].IsIndirect);
-            #endregion
-        }
+        
     }
 }

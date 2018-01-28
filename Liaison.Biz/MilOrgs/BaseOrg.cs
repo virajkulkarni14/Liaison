@@ -16,5 +16,6 @@ namespace Liaison.Biz.MilOrgs
         public bool IsDeployment { get; set; }
         public bool IsCurrent { get; set; }
         public string CurrentOpsBaseRef { get; set; }
+        public string ParentBase { get; internal set; }
     }
 }
