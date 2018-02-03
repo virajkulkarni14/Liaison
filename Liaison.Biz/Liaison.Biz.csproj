@@ -48,6 +48,7 @@
     <Compile Include="MilOrgs\CompanyOrg.cs" />
     <Compile Include="MilOrgs\DetachmentOrg.cs" />
     <Compile Include="MilOrgs\FieldArmyOrg.cs" />
+    <Compile Include="MilOrgs\GroupOrg.cs" />
     <Compile Include="MilOrgs\HigherHqOrg.cs" />
     <Compile Include="MilOrgs\IMilitaryOrg.cs" />
     <Compile Include="MilOrgs\BaseOrg.cs" />

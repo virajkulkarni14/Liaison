@@ -43,13 +43,23 @@ namespace Liaison.Biz.MilOrgs
             {
                 if (UseOrdinal)
                 {
-                    sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
+                    sb.Append(Helper.Helper.GetIntWithUnderscores(Number.Value, true) + " ");
+                    //sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
                 }
                 else
                 {
                     sb.Append(Number.Value + " ");
                 }
             }
+            if (this.ServiceTypeIdx == ServiceType.Reserve)
+            {
+                sb.Append("(" + Helper.Constants.Initials_Component.Reserve + ") ");
+            }
+            else if (this.ServiceTypeIdx == ServiceType.Volunteer)
+            {
+                sb.Append("(" + Helper.Constants.Initials_Component.Volunteer + ") (" + this.USState + ") ");
+            }
+
             sb.Append(Mission + " ");
             sb.Append(IsBrigadeCombatTeam ? Helper.Constants.LongForm.BrigadeCT : Helper.Constants.LongForm.Brigade);
             return sb.ToString();

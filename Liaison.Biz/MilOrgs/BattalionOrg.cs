@@ -15,14 +15,22 @@ namespace Liaison.Biz.MilOrgs
             StringBuilder sb = new StringBuilder();
             if (Number.HasValue)
             {
-                sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
+                sb.Append(Helper.Helper.GetIntWithUnderscores(Number.Value, true) + " ");
+            }
+            if (this.ServiceTypeIdx == ServiceType.Reserve)
+            {
+                sb.Append("(" + Helper.Constants.Initials_Component.Reserve + ") ");
+            }
+            else if (this.ServiceTypeIdx == ServiceType.Volunteer)
+            {
+                sb.Append("(" + Helper.Constants.Initials_Component.Volunteer + ") (" + this.USState + ") ");
             }
 
             sb.Append(Mission + " ");
-            sb.Append(Helper.Constants.ShortForm.Battalion + "., ");
+            sb.Append(Helper.Constants.ShortForm.Battalion + ".");
             if (!string.IsNullOrEmpty(ParentShortForm))
             {
-                sb.Append(ParentShortForm);
+                sb.Append(", "+ParentShortForm);
             }
             return sb.ToString();
         }

@@ -23,6 +23,7 @@ namespace Liaison.Helper.Enumerators
         FieldArmy = 7,
         Division = 9,
         Brigade = 10,
+        Group = 11,
         Battalion = 12,
         Company = 13,
         Battery = 14,
@@ -50,7 +51,9 @@ namespace Liaison.Helper.Enumerators
     {
         ShortName = 1, // ___1 Inf. Div.
         IndexName=2, // INF)___1
-        Other=3// ___1 ID
+        Other=3,
+        Placeholder=4// ___1 ID
+
     }
     public enum USState
     {

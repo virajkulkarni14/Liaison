@@ -23,6 +23,7 @@ namespace Liaison.Helper.Constants
         public const string Division = "Division";
         public const string Brigade = "Brigade";
         public const string BrigadeCT = "Brigade Combat Team";
+        public const string Group = "Group";
         public const string Battalion = "Battalion";
         public const string Company = "Company";
         public const string Troop = "Troop";
@@ -51,30 +52,22 @@ namespace Liaison.Helper.Constants
         public static string HSBty = HS + ShortForm.Battery.First().ToString();
 
     }
-    public class ShortForm_Service
+    public class Initials_Service
        {
-        public const char Army = 'G';
-        public const char Fleet = 'N';
-        public const char AirForce = 'A';
-        public const char Marine = 'M';
+        public const string Army = "G";
+        public const string Fleet = "N";
+        public const string AirForce = "A";
+        public const string Marine = "M";
     }
-    public class ShortForm_Component
+    public class Initials_Component
     {
-        public const char Reserve = 'R';
-        public const char Volunteer = 'V';
+        public const string Reserve = "R";
+        public const string Volunteer = "V";
     }
     public class ShortForm
     {     
-        //CA
-        public const string Infantry = "Inf";
-        public const string Armoured = "Arm";
-        public const string Cavalry = "Cav";
-        public const string Artilery = "Art";
-
         public const string HH = "HQ & HQ";
         public const string HS = "HQ & Supt";
-
-        public const string ArtilleryField = "Fld. " + Artilery;
 
         public static string HHC = HH + " " + Company;
         public static string HHS = HH + " " + Squadron;
@@ -85,10 +78,22 @@ namespace Liaison.Helper.Constants
         public static string HSC = HS + ". " + Company;
         public static string HSS = HS + ". " + Squadron;
 
+        //CA
+        public const string Infantry = "Inf";
+        public const string Armoured = "Arm";
+        public const string Cavalry = "Cav";
+        public const string Artilery = "Art";
+        public const string ArtilleryField = "Fld. " + Artilery;
+
+
+
         //CSA
 
         //CSSA
-        public const string ConSupt = "Con. Supt";
+        public const string GSC = "GSC";
+        public const string Support = "Supt";
+        public const string ConSupt = "Con. " + Support;
+        public const string MobilisationSupt = "Mob. " + Support;
         public string RemoveStop(string incoming)
         {
             return incoming.Replace(",", "");
@@ -100,28 +105,29 @@ namespace Liaison.Helper.Constants
         public const string Division = "Div";
         public const string Brigade = "Bde";
         public const string BrigadeCT = "BCT";
-        public const string Company = "Coy";
+        public const string Group = "Grp";
         public const string Battalion = "Bn";
-        public const string Detachment = "Det";
+        public const string Company = "Coy";
         public const string Squadron = "Sqn";
         public const string Battery = "Bty";
+        public const string Detachment = "Det";
 
         
     }
 
     public class Symbol
     {
-        public const char ucc = '"';
-        public const char namedfleet = '$', command = '$';
-        public const char armygroup = '%';
-        public const char fieldarmy = '&';
-        public const char numberedflt = '(', corps = '(', nmbrdairforce = '(', mef = '(';
-        public const char district = ')', division = ')', taskforce = ')';
-        public const char flotilla = '*', brigade = '*', airbase = '*';
-        public const char fleetsqn = '/', regiment = '/', wing = '/';
-        public const char sqn = '@', battalion = '@';
-        public const char flight = '|', company = '|', battery = '|';
-        public const char hq = '!';
-        public const char det = '?';
+        public const string ucc = "\"";
+        public const string namedfleet = "$", command = "$";
+        public const string armygroup = "%";
+        public const string fieldarmy = "&";
+        public const string numberedflt = "(", corps = "(", nmbrdairforce = "(", mef = "(";
+        public const string district = ")", division = ")", taskforce = ")";
+        public const string flotilla = "*", brigade = "*", airbase = "*";
+        public const string fleetsqn = "/", regiment = "/",  wing = "/";
+        public const string sqn = "@", battalion = "@";
+        public const string flight = "|", company = "|", battery = "|";
+        public const string hq = "!";
+        public const string det = "?";
     }
 }

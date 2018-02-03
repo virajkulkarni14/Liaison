@@ -37,7 +37,26 @@ namespace Liaison.Biz.MilOrgs
 
         public string GetFullName()
         {
-            return Name;
+            if (!string.IsNullOrWhiteSpace(Name))
+            {
+                return Name;
+            }
+            StringBuilder sb = new StringBuilder();
+            if (Number.HasValue)
+            {
+                if (UseOrdinal)
+                {
+                    sb.Append(Helper.Helper.GetIntWithUnderscores(Number.Value, true) + " ");
+                    //sb.Append(Helper.Helper.AddOrdinal(Number.Value) + " ");
+                }
+                else
+                {
+                    sb.Append(Number.Value + " ");
+                }
+            }
+            sb.Append(Mission + " ");
+            sb.Append(Helper.Constants.LongForm.Command);
+            return sb.ToString();
         }
     }
 }

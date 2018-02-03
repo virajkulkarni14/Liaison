@@ -8,6 +8,43 @@ namespace Liaison.Helper
 {
     public class Helper
     {
+        public static string GetIntWithUnderscores(string nmber, bool useOrdinal)
+        {
+            if (int.TryParse(nmber, out int result))
+            {
+                return GetIntWithUnderscores(int.Parse(nmber), useOrdinal);
+            }
+            else return null;
+        }
+
+        public static string GetIntWithUnderscores(int number, bool useOrdinal)
+        {
+            string append = useOrdinal ? Helper.AddOrdinal(number) : number.ToString();
+
+            if (number < 10)
+            {
+                return "____" + append;
+            }
+            else if (number < 100)
+            {
+                return "___" + append;
+            }
+            else if (number < 1000)
+            {
+                return "__" + append;
+            }
+            else if (number < 10000)
+            {
+                return "_" + append;
+            }
+            else if (number < 100000)
+            {
+                return append.ToString();
+            }
+            throw new Exception("Number too big");
+        }
+
+
         public static string AddOrdinal (string num)
         {
             return AddOrdinal(int.Parse(num));
@@ -35,7 +72,6 @@ namespace Liaison.Helper
                 default:
                     return num + "th";
             }
-
         }
 
         public static string ConvertNumberToWord(int? number)
