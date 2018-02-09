@@ -9,28 +9,33 @@ namespace Liaison.Biz.MilOrgs
 {
     public class BattalionOrg : IMilitaryOrg
     {
-        public string ParentShortForm { get; set; }
+        public string ParentAbbrev { get; set; }
         public string GetFullName()
         {
             StringBuilder sb = new StringBuilder();
-            if (Number.HasValue)
+            if (Mission != Helper.Constants.LongForm.HH && Mission != Helper.Constants.LongForm.HS)
             {
-                sb.Append(Helper.Helper.GetIntWithUnderscores(Number.Value, true) + " ");
+                if (Number.HasValue)
+                {
+                    sb.Append(Helper.Helper.GetIntWithUnderscores(Number.Value, true) + " ");
+                }
+                if (this.ServiceTypeIdx == ServiceType.Reserve)
+                {
+                    sb.Append("(" + Helper.Constants.Initials_Component.Reserve + ") ");
+                }
+                else if (this.ServiceTypeIdx == ServiceType.Volunteer)
+                {
+                    sb.Append("(" + Helper.Constants.Initials_Component.Volunteer + ") (" + this.USState + ") ");
+                }
             }
-            if (this.ServiceTypeIdx == ServiceType.Reserve)
+            if (!string.IsNullOrEmpty(Mission))
             {
-                sb.Append("(" + Helper.Constants.Initials_Component.Reserve + ") ");
+                sb.Append(Mission + " ");
             }
-            else if (this.ServiceTypeIdx == ServiceType.Volunteer)
-            {
-                sb.Append("(" + Helper.Constants.Initials_Component.Volunteer + ") (" + this.USState + ") ");
-            }
-
-            sb.Append(Mission + " ");
             sb.Append(Helper.Constants.ShortForm.Battalion + ".");
-            if (!string.IsNullOrEmpty(ParentShortForm))
+            if (!string.IsNullOrEmpty(ParentAbbrev))
             {
-                sb.Append(", "+ParentShortForm);
+                sb.Append(", "+ParentAbbrev);
             }
             return sb.ToString();
         }

@@ -33,9 +33,9 @@ namespace Liaison.Biz.MilOrgs
                 sb.Append(Mission);
             }
             sb.Append(" " + Helper.Constants.ShortForm.Company + "., ");
-            if (!string.IsNullOrEmpty(ParentShortForm))
+            if (!string.IsNullOrEmpty(ParentAbbrev))
             {
-                sb.Append(ParentShortForm);
+                sb.Append(ParentAbbrev);
             }
             return sb.ToString();
         }
@@ -61,7 +61,7 @@ namespace Liaison.Biz.MilOrgs
         public List<HigherHqOrg> HigherHqs { get; set; }
 
         public List<ShortForm> ShortForm { get; set; }
-        public string ParentShortForm { get; set; }
+        public string ParentAbbrev { get; set; }
 
         public List<ChildOrg> ChildOrgs => throw new NotImplementedException();
 

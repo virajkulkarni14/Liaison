@@ -36,7 +36,8 @@ namespace Liaison.Helper.Enumerators
         Organic,
         Alligned,
         Assigned,
-        
+        ADCON,
+        OPCON
     }
     public enum ServiceType
     {

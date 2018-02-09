@@ -8,7 +8,45 @@ namespace Liaison.Biz.Tests.Strings
 {
     public class BattalionString
     {
-        internal static string bn1101msb = @"<CurrentOpsObject>
+        internal static readonly string bn1105msb = @"<CurrentOpsObject>
+<Url>https://currentops.com/unit/us/army/1105-msbn</Url>
+<NameNode>
+1105th Mobilization Support Battalion U.S. Army
+</NameNode>
+<FullName>1105th Mobilization Support Battalion, U.S. Army</FullName>
+<SplitName>1105th Mobilization Support Battalion</SplitName>
+<Service>U.S. Army</Service>
+<LogoUrl/>
+<Locations>
+<LocationObject>
+<DateRange>... - Present</DateRange>
+<BaseName>Fort Eustis United States Army Reserve Center</BaseName>
+<Deployment>false</Deployment>
+<Location>
+Fort Eustis | JB Langley-Eustis | Newport News, Virginia, United States
+</Location>
+<IsCurrent>true</IsCurrent>
+<Url>
+https://currentops.com/installations/us/va/fort-eustis/usarc
+</Url>
+<Id>us/va/fort-eustis/usarc</Id>
+</LocationObject>
+</Locations>
+<HigherHq>
+<HigherHqObject>
+<Url>https://currentops.com/unit/us/army/1-msg</Url>
+<Id>us/army/1-msg</Id>
+<DateRange>... - Present</DateRange>
+<IsCurrent>true</IsCurrent>
+<HHQAcronym>1st MSG</HHQAcronym>
+<Name>1st Mobilization Support Group</Name>
+</HigherHqObject>
+</HigherHq>
+<Children/>
+<UnitService>Army</UnitService>
+<UnitComponent>Reserve</UnitComponent>
+</CurrentOpsObject>";
+        internal static readonly string bn1101msb = @"<CurrentOpsObject>
 <Url>https://currentops.com/unit/us/army/1101-msbn</Url>
 <NameNode>
 1101st Mobilization Support Battalion U.S. Army
@@ -44,10 +82,58 @@ https://currentops.com/installations/us/ny/ernie-pyle-usarc
 <UnitService>Army</UnitService>
 <UnitComponent>Reserve</UnitComponent>
 </CurrentOpsObject>";
+        internal static readonly string bn3_360= @"<CurrentOpsObject>
+<Url>https://currentops.com/unit/us/army/360-rgt/3-bn</Url>
+<NameNode>
+3rd Battalion, 360th Regiment U.S. Army
+</NameNode>
+<FullName>3rd Battalion, 360th Regiment, U.S. Army</FullName>
+<SplitName>3rd Battalion, 360th Regiment</SplitName>
+<Service>U.S. Army</Service>
+<LogoUrl/>
+<Locations>
+<LocationObject>
+<DateRange>... - Present</DateRange>
+<BaseName>Moore Hall United States Army Reserve Center</BaseName>
+<Deployment>false</Deployment>
+<Location>Salt Lake City, Utah, United States</Location>
+<IsCurrent>true</IsCurrent>
+<Url>
+https://currentops.com/installations/us/ut/moore-hall-usarc
+</Url>
+<Id>us/ut/moore-hall-usarc</Id>
+</LocationObject>
+</Locations>
+<HigherHq>
+<HigherHqObject>
+<Url>https://currentops.com/unit/us/army/5-armored-bde</Url>
+<Id>us/army/5-armored-bde</Id>
+<DateRange>... - Present</DateRange>
+<IsCurrent>true</IsCurrent>
+<HHQAcronym>5th Armored Brigade</HHQAcronym>
+<Type>OPCON</Type>
+<Name>5th Armored Brigade</Name>
+</HigherHqObject>
+<HigherHqObject>
+<Url>https://currentops.com/unit/us/army/85-arsc</Url>
+<Id>us/army/85-arsc</Id>
+<DateRange>... - Present</DateRange>
+<IsCurrent>true</IsCurrent>
+<HHQAcronym>85th ARSC</HHQAcronym>
+<Type>ADCON</Type>
+<Name>85th Army Reserve Support Command</Name>
+</HigherHqObject>
+</HigherHq>
+<Children/>
+<UnitService>Army</UnitService>
+<UnitComponent>Reserve</UnitComponent>
+</CurrentOpsObject>";
+        internal static readonly string bn2_363 = @"<CurrentOpsObject><Url>https://currentops.com/unit/us/army/363-rgt/2-bn</Url><NameNode>2nd Battalion, 363rd Regiment
+                            U.S. Army</NameNode><FullName>2nd Battalion, 363rd Regiment, U.S. Army</FullName><SplitName>2nd Battalion, 363rd Regiment</SplitName><Service>U.S. Army</Service><LogoUrl/><Locations><LocationObject><DateRange>... - Present</DateRange><BaseName>Herrea Hall United States Army Reserve Center</BaseName><Deployment>false</Deployment><Location>Mesa, Arizona, United States</Location><IsCurrent>true</IsCurrent><Url>https://currentops.com/installations/us/az/herrea-hall-usarc</Url><Id>us/az/herrea-hall-usarc</Id></LocationObject></Locations><HigherHq><HigherHqObject><Url>https://currentops.com/unit/us/army/5-armored-bde</Url><Id>us/army/5-armored-bde</Id><DateRange>... - Present</DateRange><IsCurrent>true</IsCurrent><HHQAcronym>5th Armored Brigade</HHQAcronym><Type>OPCON</Type><Name>5th Armored Brigade</Name></HigherHqObject><HigherHqObject><Url>https://currentops.com/unit/us/army/402-fa-bde</Url><Id>us/army/402-fa-bde</Id><DateRange/><IsCurrent>false</IsCurrent><HHQAcronym>402nd FA Bde</HHQAcronym><Type>OPCON</Type><Name>402nd Field Artillery Brigade</Name></HigherHqObject><HigherHqObject><Url>https://currentops.com/unit/us/army/85-arsc</Url><Id>us/army/85-arsc</Id><DateRange>... - Present</DateRange><IsCurrent>true</IsCurrent><HHQAcronym>85th ARSC</HHQAcronym><Type>ADCON</Type><Name>85th Army Reserve Support Command</Name></HigherHqObject></HigherHq><Children/><UnitService>Army</UnitService><UnitComponent>Reserve</UnitComponent></CurrentOpsObject>";
     }
     public class GroupString
     {
-        internal static string grp1msg= @"<CurrentOpsObject>
+        internal static readonly string grp1msg= @"<CurrentOpsObject>
 <Url>https://currentops.com/unit/us/army/1-msg</Url>
 <NameNode>
 1st Mobilization Support Group U.S. Army
@@ -201,7 +287,7 @@ https://currentops.com/installations/us/ny/ernie-pyle-usarc
     public class CommandString
     {
   
-        public static string armyMaterialCommand = @"<CurrentOpsObject>
+        public static readonly string armyMaterialCommand = @"<CurrentOpsObject>
     <Url>https://currentops.com/unit/us/army/amc</Url>
     <NameNode>Army Materiel Command
                             U.S. Army</NameNode>
@@ -250,7 +336,7 @@ https://currentops.com/installations/us/ny/ernie-pyle-usarc
     <UnitComponent>Active</UnitComponent>
   </CurrentOpsObject>
 ";
-        internal static string cmd87aressupt = @"<CurrentOpsObject>
+        internal static readonly string cmd87aressupt = @"<CurrentOpsObject>
 <Url>https://currentops.com/unit/us/army/87-arsc</Url>
 <NameNode>
 87th Army Reserve Support Command U.S. Army

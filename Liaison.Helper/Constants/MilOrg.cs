@@ -11,6 +11,7 @@ namespace Liaison.Helper.Constants
         public const string Battlegroup = "Battlegroup";
 
         public const string Infantry = "Infantry";
+
         public const string Armoured = "Armoured";
         public const string Cavalry = "Cavalry";
         public const string Artillery = "Artillery";
@@ -24,6 +25,7 @@ namespace Liaison.Helper.Constants
         public const string Brigade = "Brigade";
         public const string BrigadeCT = "Brigade Combat Team";
         public const string Group = "Group";
+        public const string Regiment = "Regiment";
         public const string Battalion = "Battalion";
         public const string Company = "Company";
         public const string Troop = "Troop";
@@ -38,18 +40,18 @@ namespace Liaison.Helper.Constants
     }
     public class Initials
     {
-        public static string HH = "HH";
-        public static string HS = "HS";
+        public static readonly string HH = "HH";
+        public static readonly string HS = "HS";
 
-        public static string HHB = HH + ShortForm.Battalion.First().ToString();
-        public static string HHBty = HH + ShortForm.Battery.First().ToString();
-        public static string HHC = HH + ShortForm.Company.First().ToString();
-        public static string HHS = HH + ShortForm.Squadron.First().ToString();
-        public static string HHD = HH + ShortForm.Detachment.First().ToString();
+        public static readonly string HHB = HH + ShortForm.Battalion.First().ToString();
+        public static readonly string HHBty = HH + ShortForm.Battery.First().ToString();
+        public static readonly string HHC = HH + ShortForm.Company.First().ToString();
+        public static readonly string HHS = HH + ShortForm.Squadron.First().ToString();
+        public static readonly string HHD = HH + ShortForm.Detachment.First().ToString();
 
-        public static string HSC = HS + ShortForm.Company.First().ToString();
-        public static string HSS = HS + ShortForm.Squadron.First().ToString();
-        public static string HSBty = HS + ShortForm.Battery.First().ToString();
+        public static readonly string HSC = HS + ShortForm.Company.First().ToString();
+        public static readonly string HSS = HS + ShortForm.Squadron.First().ToString();
+        public static readonly string HSBty = HS + ShortForm.Battery.First().ToString();
 
     }
     public class Initials_Service
@@ -69,19 +71,20 @@ namespace Liaison.Helper.Constants
         public const string HH = "HQ & HQ";
         public const string HS = "HQ & Supt";
 
-        public static string HHC = HH + " " + Company;
-        public static string HHS = HH + " " + Squadron;
-        public static string HHBty = HH + " " + Battery;
-        public static string HHD = HH + " " + Detachment;
+        public static readonly string HHC = HH + " " + Company;
+        public static readonly string HHS = HH + " " + Squadron;
+        public static readonly string HHBty = HH + " " + Battery;
+        public static readonly string HHD = HH + " " + Detachment;
 
-        public static string HSBty = HS + ". " + Battery;
-        public static string HSC = HS + ". " + Company;
-        public static string HSS = HS + ". " + Squadron;
+        public static readonly string HSBty = HS + ". " + Battery;
+        public static readonly string HSC = HS + ". " + Company;
+        public static readonly string HSS = HS + ". " + Squadron;
 
         //CA
         public const string Infantry = "Inf";
         public const string Armoured = "Arm";
         public const string Cavalry = "Cav";
+        public const string Aviation = "Avn";
         public const string Artilery = "Art";
         public const string ArtilleryField = "Fld. " + Artilery;
 
@@ -106,13 +109,12 @@ namespace Liaison.Helper.Constants
         public const string Brigade = "Bde";
         public const string BrigadeCT = "BCT";
         public const string Group = "Grp";
+        public const string Regiment = "Rgt";
         public const string Battalion = "Bn";
         public const string Company = "Coy";
         public const string Squadron = "Sqn";
         public const string Battery = "Bty";
         public const string Detachment = "Det";
-
-        
     }
 
     public class Symbol
@@ -129,5 +131,9 @@ namespace Liaison.Helper.Constants
         public const string flight = "|", company = "|", battery = "|";
         public const string hq = "!";
         public const string det = "?";
+
+
+        public const string other_coy = "-";
+        public const string other_bn = "/";
     }
 }

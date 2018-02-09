@@ -4,15 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{20FF0661-B374-4B41-A6B7-7D5402641ED4}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Liaison.Biz</RootNamespace>
-    <AssemblyName>Liaison.Biz</AssemblyName>
+    <ProjectGuid>{C69E761A-594D-4BDC-BE27-1099C6E2C0CE}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Liaison.Import.GlobalSecurity</RootNamespace>
+    <AssemblyName>Liaison.Import.GlobalSecurity</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +23,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -30,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.6.16.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.6.16\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,24 +45,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Converter\ConvertToMilOrg.cs" />
-    <Compile Include="MilOrgs\BattalionOrg.cs" />
-    <Compile Include="MilOrgs\BatteryOrg.cs" />
-    <Compile Include="MilOrgs\BrigadeOrg.cs" />
-    <Compile Include="MilOrgs\CommandOrg.cs" />
-    <Compile Include="MilOrgs\CompanyOrg.cs" />
-    <Compile Include="MilOrgs\DetachmentOrg.cs" />
-    <Compile Include="MilOrgs\FieldArmyOrg.cs" />
-    <Compile Include="MilOrgs\GroupOrg.cs" />
-    <Compile Include="MilOrgs\HigherHqOrg.cs" />
-    <Compile Include="MilOrgs\IMilitaryOrg.cs" />
-    <Compile Include="MilOrgs\BaseOrg.cs" />
-    <Compile Include="MilOrgs\DivisionOrg.cs" />
-    <Compile Include="MilOrgs\Squadron_CavalryOrg.cs" />
-    <Compile Include="Objects\CurrentOpsObject.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Liaison.Biz\Liaison.Biz.csproj">
+      <Project>{20ff0661-b374-4b41-a6b7-7d5402641ed4}</Project>
+      <Name>Liaison.Biz</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Liaison.Helper\Liaison.Helper.csproj">
       <Project>{58ab7c46-66c9-4cbf-b83f-723f9abdf7aa}</Project>
       <Name>Liaison.Helper</Name>
