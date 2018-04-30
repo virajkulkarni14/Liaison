@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/marsoc.htm</Url>
+    <NameNode>US Marine Corps Forces, Special Operations Command (MARSOC)</NameNode>
+    <FullName>US Marine Corps Forces, Special Operations Command (MARSOC)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/marsoc.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/index.html</Url>
+        <Id>usmc/index.html</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Marines</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc//military/agency/dod/socom.htm</Url>
+        <Id>/usmc//military/agency/dod/socom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Special Operations Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/mcsocom-det.htm</Url>
+        <Id>/usmc/mcsocom-det.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>US Marine Corps Special Operations Command Detachment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/msor.htm</Url>
+        <FullName>Marine Special Operations Regiment</FullName>
+        <Name>Marine Special Operations Regiment</Name>
+        <Id>usmc/msor.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/msosg.htm</Url>
+        <FullName>Marine Special Operations Support Group</FullName>
+        <Name>Marine Special Operations Support Group</Name>
+        <Id>usmc/msosg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/usmc//military/agency/dod/socom.htm</href>
+        <h3>Special Operations Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/usmc/mcsocom-det.htm</href>
+        <h3>US Marine Corps Special Operations Command Detachment</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/msor.htm</href>
+            <text>Marine Special Operations Regiment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/msosg.htm</href>
+            <text>Marine Special Operations Support Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Marine Special Operations School</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1st Marine Special Operations Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2nd Marine Special Operations Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</href>
+            <text>Camp Lejeune, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.marsoc.marines.mil/UnitHome.aspx</href>
+            <text>US Marine Corps Forces, Special Operations Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Marine Corps Forces, Special Operations Command (MARSOC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/marsoc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As a service component of USSOCOM, US Marine Corps Forces, Special Operations Command (MARSOC) is tasked by the commander of US Special Operations Command (USSOCOM) to train, organize, equip and when directed by commander of USSOCOM, deploy task organized, scalable and responsive US Marine Corps Special Operations Forces worldwide in support of combatant commanders and other agencies.  MARSOC has been directed to conduct foreign internal defense, special reconnaissance, and direct action.  Commander, USSOCOM assigns MARSOC missions based on USSOCOM priorities.  MARSOC units then deploy under USSOCOM deployment orders.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In October 2005, the Secretary of Defense directed the formation of a Marine component of US Special Operations Command (USSOCOM).  It was determined the Marine Corps would initially form a unit of approximately 2,500 to serve with USSOCOM.  This followed the creation and operational evaluation of a pilot element, designated as the Marine Corps Special Operations Command Detachment (MCSOCOM Det), also known as Detachment One, beginning in 2003.  With the establishment of MARSOC, Detachment One was inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 24 February 2006, US Marine Corps Forces, Special Operations Command (MARSOC) was activated at Camp Lejeune, North Carolina.  MARSOC initially consisted of a small staff and the Foreign Military Training Unit (FMTU), which had been formed to conduct foreign internal defense.  The FMTU was then designated as the Marine Special Operations Advisor Group (MSOAG).  In the months after the activation of MARSOC, the structure and personnel of both 1st and 2d Force Reconnaissance Company transferred to MARSOC to form the basis for the 1st and 2nd Marine Special Operations Battalions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In April 2009, the MSOAG was redesignated as the Marine Special Operations Regiment with the 1st, 2nd, and 3rd Marine Special Operations Battalions as subordinate units.  The newly activated 3rd Marine Special Operations Battalion incorporated the structure and personnel from MSOAG's former companies.  MARSOC also formed the Marine Special Operations Support Group (MSOSG) and the Marine Special Operations School (MSOS).  The MSOSG provided combat support and combat service support to MARSOC units, to include: logistics, communication and intelligence.  The MSOS screened, assessed, selected and trained Marine Special Operations Forces and was responsible for developing doctrine.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>MARSOC deployed its first units in August 2006, 6 months after initial activation.  After that deployment, MARSOC was almost continuously deployed.  MARSOC's deployments included Marine Special Operations Teams conducting foreign internal defense and Marine Special Operations Companies from the Marine Special Operations Battalions conducting foreign internal defense, special reconnaissance and direct action.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In May 2010, MARSOC expanded its intelligence capabilities by replacing the intelligence company of the MSOSG with a separate unit, the Marine Special Operations Intelligence Battalion (MIB).  The MIB remained assigned to the MSOSG.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In November 2012, MARSOC expanded its logistics and combat support capabilities by replacing the relevant companies within the MSOSG with full battalions.  The Marine Special Operations Logistics Battalion (MSOLB) and the Marine Special Operations Combat Support Battalion (MSOCSB) were expected to house the nearly 800 Marines scheduled to join MARSOC's support component by 2016.  The activation of MSOCSB was also brings new advances to the command, particularly in the intelligence realm. A revision of MARSOC's former intelligence battalion, now equipped with a communications company and a headquarters company, MSOCSB was to capable of bringing every intelligence asset to the battlefield, providing another platform upon which MARSOC can operate independently.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the conflict in Afghanistan coming to an end, Marine Corps commanding generals met with staff members of MARSOC on 13 September 2013, to gain a better understanding of the MARSOC mission and how they could complement the bigger Marine Corps mission.  At that time members of MARSOC had recently trained with a Marine Expeditionary Unit to test the possibilities of integrating teams on ships.  In the exercise, MARSOC Marines were attached to the 11th MEU to test how MARSOC and conventional Marine forces could work together as the conflict in Afghanistan came to a close.  Special Operation Forces Liaison Elements would help collaborate special operation efforts and conventional forces efforts to achieve overall mission success from both sides, but the initial test showed were still things to be worked on, mostly in where MARSOC forces would fall in an operational command structure.  In addition to integrating with conventional Marine Corps units, the plan for MARSOC post-Afghanistan envisaged each of the Marine Special Operations Battalions being regionally aligned to a theater of operations in the Pacific Command, Central Command, or Africa Command.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In October 2013, it was announced that the Marine Corps' Mountain Warfare Training Center (MWTC) near Bridgeport, California had begun teaching an advanced horsemanship training course in order to teach special operations forces, including MARSOC personnel, the necessary skills to enable them to ride horses, load pack animals, and maintain animals for military applications in remote and dangerous environments.  The course was designed to aid small specialized units in operating with indigenous personnel who ride and/or pack animals. This included riding horses and packing animals for transporting crew served weapons, ammunition, supplies, and wounded personnel to and from terrain that was inaccessible to mechanized and air mobile transportation.  The Marine Corps as a whole had quit using pack animals in 1953. In 1983, the course to use pack and ride animals began again as the Department of Defense started a program to test the value of pack animals. Originally the program was only to last 3-5 years, but the success of the course resulted in its continuation at the MWTC. As of October 2013, the program taught at MWTC was the only one of its kind in the Department of Defense. The course simulated the difficulties of mountainous terrain. The training was essential to help Marines and other military members understand the capabilities of the animals and the influence and considerations of both terrain and climate. For many of the Marines this was a unique experience and something different than the normal type of infantry training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/msor.htm</Url>
+    <NameNode>Marine Special Operations Regiment (MSOR)
+Marine Special Operations Advisor Group (MSOAG)
+Foreign Military Training Unit (FMTU)</NameNode>
+    <FullName>Marine Special Operations Regiment (MSOR)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/msor.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/marsoc.htm</Url>
+        <Id>usmc/marsoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>MARSOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>Marine Special Operations Advisor Group (MSOAG); Foreign Military Training Unit (FMTU)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Headquarters Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1st Marine Special Operations Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2nd Marine Special Operations Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3rd Marine Special Operations Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</href>
+            <text>Camp Lejeune, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.marsoc.marines.mil/Units/MarineSpecialOperationsRegiment.aspx</href>
+            <text>Marine Special Operations Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Marine Special Operations Regiment (MSOR)&lt;br&gt;
+&lt;strike&gt;Marine Special Operations Advisor Group (MSOAG)&lt;/strike&gt;&lt;br&gt;
+&lt;strike&gt;Foreign Military Training Unit (FMTU)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/msor.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Marine Special Operations Regiment (MSOR), based at Camp Lejeune, North Carolina, consists of a Headquarters Company and 3 Marine Special Operations Battalions.  The Regiment provides tailored military combat-skills training and advisor support for identified foreign forces in order to enhance their tactical capabilities and to prepare the environment as directed by USSOCOM, as well as the capability to form the nucleus of a Joint Special Operations Task Force (JSOTF).  Marines and Sailors of the MSOR train, advise and assist friendly host nation forces, including naval and maritime military and paramilitary forces, to enable them to support their governments' internal security and stability, to counter subversion and to reduce the risk of violence from internal and external threats.  MSOR deployments are coordinated by MARSOC, through USSOCOM, in accordance with engagement priorities for Overseas Contingency Operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 24 February 2006, US Marine Corps Forces, Special Operations Command (MARSOC) was activated at Camp Lejeune, North Carolina.  MARSOC initially consisted of a small staff and the Foreign Military Training Unit (FMTU), which had been formed to conduct foreign internal defense.  The Marine Special Operations Regiment traces is history to the formation of the FMTU.  Soon after its formation, the FMTU was redesignated as the Marine Special Oprations Advisor Group (MSOAG).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In April 2009, the MSOAG was redesignated as the Marine Special Operations Regiment with the 1st, 2nd, and 3rd Marine Special Operations Battalions as subordinate units.  The 1st and 2nd Marine Special Operations Battalions had been activated in the months following the formation of MARSOC and initially assigned directly to it.  The newly activated 3rd Marine Special Operations Battalion incorporated the structure and personnel from MSOAG's former companies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/marsoc.htm</href>
+        <text>MARSOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/msosg.htm</Url>
+    <NameNode>Marine Special Operations Support Group (MSOSG)</NameNode>
+    <FullName>Marine Special Operations Support Group (MSOSG)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/msosg.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/marsoc.htm</Url>
+        <Id>usmc/marsoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>MARSOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/mib.htm</Url>
+        <FullName>Marine Special Operations Intelligence Battalion</FullName>
+        <Name>Marine Special Operations Intelligence Battalion</Name>
+        <Id>usmc/mib.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Headquarters Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/mib.htm</href>
+            <text>Marine Special Operations Intelligence Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Marine Special Operations Logistics Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Marine Special Operations Combat Support Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Intelligence Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Logistics Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Support Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</href>
+            <text>Camp Lejeune, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.marsoc.marines.mil/Units/MarineSpecialOperationsSupportGroup.aspx</href>
+            <text>Marine Special Operations Support Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Marine Special Operations Support Group (MSOSG)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/msosg.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Marine Special Operations Support Group (MSOSG) trains, equips, structures, and provides specially qualified Marine forces, including operational logistics, intelligence, multipurpose canines, Firepower Control Teams and communications support in order to sustain worldwide special operations missions as directed by Commander, US Marine Corps Forces Special Operations Command (COMMARFORSOC).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In May 2010, MARSOC expanded its intelligence capabilities by replacing the intelligence company of the MSOSG with a separate unit, the Marine Special Operations Intelligence Battalion (MIB).  The MIB remained assigned to the MSOSG.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In November 2012, MARSOC expanded its logistics and combat support capabilities by replacing the relevant companies within the MSOSG with full battalions.  The Marine Special Operations Logistics Battalion (MSOLB) and the Marine Special Operations Combat Support Battalion (MSOCSB) were expected to house the nearly 800 Marines scheduled to join MARSOC's support component by 2016.  The activation of MSOCSB was also brings new advances to the command, particularly in the intelligence realm. A revision of MARSOC's former intelligence battalion (MSOIB), now equipped with a communications company and a headquarters company, MSOCSB was to capable of bringing every intelligence asset to the battlefield, providing another platform upon which MARSOC could operate independently.  It was not immediately clear whether the MSOIB would be redesignated as the MSOCSB or whether the 2 units would remain separate and the MSOIB would inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition, the MSOLB was one of the Marine Corps's most unique logistics battalions, due to its Individual Training Program (ITP).  No other combat service support elementin the Marine Corps had an ITP at that time.  Each support Marine at MARSOC was required to complete a comprehensive checklist of individual training requirements, including the Special Operations Training Course (STC), and Survival, Evasion, Resistance and Escape (SERE) training. Added to a combination of unit training requirements and a short dwell time between deployments, MSOLB's new ITP was seen as a welcome change.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/marsoc.htm</href>
+        <text>MARSOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/mib.htm</Url>
+    <NameNode>Marine Special Operations Intelligence Battalion (MSOIB / MIB)</NameNode>
+    <FullName>Marine Special Operations Intelligence Battalion (MSOIB / MIB)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/mib.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Lejeune</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/msosg.htm</Url>
+        <Id>usmc/msosg.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>MSOSG</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-lejeune.htm</href>
+            <text>Camp Lejeune, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>References</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/intell/library/news/2010/intell-100525-mcn01.htm</href>
+            <text>MARSOC stands up MIB USMC News 25 May 2010</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.marsoc.marines.mil/Units/MarineSpecialOperationsIntelligenceBattalion.aspx</href>
+            <text>Marine Special Operations Intelligence Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Marine Special Operations Intelligence Battalion (MSOIB / MIB)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/mib.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the Marine Special Operations Intelligence Battalion (MIB) is to train, sustain, maintain combat readiness, and provide intelligence support at all operational levels in order to support MARSOF training and operations worldwide with mission-specific intelligence capability.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Marine Special Operations Intelligence Battalion (MIB) was officially activated at a ceremony on 18 May 2010 at US Marine Forces, Special Operation Command's (MARSOC) headquarters at Camp Lejeune, North Carolina.  Previously, MARSOC's intelligence functions had been performed by the intelligence company of the Marine Special Operations Support Group (MSOSG).  The MIB was reorganized into a separate unit from the company in response to the ever-growing capabilities of MARSOC.  The MIB remained assigned to the MSOSG.  The MIB would produce the direct support teams, SOTF (Special Operations Task Force) enhancements, and other capabilities as needed by the commander of US Special Operations Command, and the Commander of MARSOC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In November 2012, MARSOC expanded its logistics and combat support capabilities by replacing the relevant companies within the MSOSG with full battalions.  The activation of Marine Special Operations Combat Support Battalion (MSOCSB) was also brings new advances to the command, particularly in the intelligence realm. A revision of MARSOC's former intelligence battalion (MSOIB), now equipped with a communications company and a headquarters company, MSOCSB was to capable of bringing every intelligence asset to the battlefield, providing another platform upon which MARSOC could operate independently.  It was not immediately clear whether the MSOIB would be redesignated as the MSOCSB or whether the 2 units would remain separate and the MSOIB would inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/marsoc.htm</href>
+        <text>MARSOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/msosg.htm</href>
+        <text>MSOSG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

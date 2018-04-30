@@ -20,15 +20,12 @@ namespace Liaison.Biz
         string CurrentOpsRef { get; }
         string CurrentOpsUrl { get; }
         string CurrentOpsLogo { get; }
-        ServiceType ServiceTypeIdx { get;  }
-        Services ServiceId { get; }
+        ServiceTypeBLL ServiceTypeIdx { get;  }
+        ServicesBll ServiceId { get; }
         string USState { get; }
         List<BaseOrg> Bases { get; }
         List<HigherHqOrg> HigherHqs { get; }
         List<ChildOrg> ChildOrgs { get; }
         List<ShortForm> ShortForm { get; }        
     }
-
-  
-
 }

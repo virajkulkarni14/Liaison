@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaocs.htm</Url>
+    <NameNode>US Army Ordnance Center and Schools</NameNode>
+    <FullName>US Army Ordnance Center and Schools</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usaoc.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/aberdeen.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/61ord-bde.htm</Url>
+        <FullName>61st Ordnance Brigade</FullName>
+        <Name>61st Ordnance Brigade</Name>
+        <Id>army/61ord-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/61ord-bde.htm</href>
+            <text>61st Ordnance Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/aberdeen.htm</href>
+            <text>Aberdeen Proving Ground, MD</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.goordnance.apg.army.mil/</href>
+            <text>US Army Ordnance Center and Schools</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Ordnance Center and Schools</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaoc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The purpose of the Ordnance Corps is to support the development, production, acquisition and sustainment of weapons systems and munitions, and to provide Explosive Ordnance Disposal, during peace and war, to provide superior combat power to the United States Army. In 2005, DoD recommended to consolidate the USOCS's functions at Fort Lee (see BRAC 2005 below for details).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the US Army Ordnance School is to safely train soldiers, civilians and members of other services and nations in Ordnance skills and functions, in military packaging skills, and in common skills.  Provide training, leader development, organization, materiel and soldier support solutions to The Army's Fix functions for war fighting and operations other than war, for now and for The Army of the future. Provide a repository for artifacts relating to the Ordnance Corps, and instill Ordnance heritage and The Army values.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Ordnance Corps has a proud tradition, dating back to the first days of the American Revolution. On May 27, 1775, the first Continental Congress appointed a committee (which included George Washington) to study methods of arms and ammunition procurement, storage, and to appoint a "Commissary-General, Ezekiel Cheever, was the first to perform what would become the duties of the Chief of Ordnance.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1776, a Board of War and Ordnance, with responsibility for supplies to troops in the field, was created. In the following year, the first Ordnance magazine was established at Carlisle, PA; Springfield, MA, with others following soon thereafter. Historians credit the Army of the period, the Ordnance men in particular, with playing a major role in bringing the Industrial Revolution to America.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaoc-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On May 14, 1812, the Ordnance Department was formally organized by Congress as part of the preparations for the second British war. That war saw the department assume responsibility for arms and ammunition production, acquisition, distribution, and storage in a much broader geographical base than in the War Independence.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The years following the War of 1812 were a period of transition for Ordnance. It was merged with the Artillery men temporarily detailed to other Ordnance assignments. As a result, the Ordnance Department was reconstituted in 1832.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the reconstitution of the Ordnance Department came new responsibility, research and development, and systems of field service. Put to test in the Mexican War, these initiatives were develop and became the foundation for the massive logistics efforts of the future.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The War between the states posed a stern test for the Ordnance Department. With few exceptions, most of the Ordnance facilities in the South were seized by the Confederacy before the bombardment of Fort Sumter, and throughout the war Ordnance installations were primary targets for operations on both sides. During the war, Ordnance men successfully brought about massive procurement of weapons and supplies and effective field support for fast moving Armies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1874, Sandy Hook Proving Ground was established in New Jersey. This gave the Army its full-scale testing facility. In the War with Spain in 1898, the Ordnance Department first deployed material to overseas supply depots.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaoc-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>World War II saw an even more dramatic expansion of the Ordnance mission of production, procurement, maintenance and training. Solving the problems of conducting a war spanning nuclear weapons, marked Ordnance's giant step into a new age.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In both Korea and Vietnam, the Ordnance team provided supply and maintenance characteristic of its tradition of "service to the line, on time", and was active in the development of rockets, guided missiles, and satellites.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Army reorganization in 1962 disestablished most of the Army technical services, including the Chief of Ordnance and his support staff. During the late 1970's, it became apparent that this new structure, while functionally effective, did not sustain the proud heritage of the corps. It did not provide a home base or centralized leadership for Ordnance personnel serving in diverse units through out the world. As a result, on October 1, 1985, the Commanding General, Ordnance Center and School, officially became the Chief of Ordnance when the Chief of Staff of the Army approved the incorporation of the Ordnance Corps into the U.S. Army Regimental System.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the advent of the modern U.S. Army Regimental System, the Ordnance Corps is organized under the whole branch regimental concept. The Chief of Ordnance serves as the Regimental Commander while the Office Chief of Ordnance serves as his operational headquarters for the Ordnance Corps.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1990 and 1991, the Ordnance Corps provided key combat service support elements in Saudi Arabia as part of Operations Desert Shield/Desert Storm. The continuing emphasis on readiness, doctrine, and training paid off as Ordnance personnel amply fulfilled their tradition of providing service to the line, on time.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In its 2005 BRAC Recommendations, DoD recommended to realign Aberdeen Proving Ground, MD by relocating the Ordnance Center and School to Fort Lee, VA. It would then consolidate the Transportation Center and School from Fort Eustis and the Ordnance Center and School with the Quartermaster Center &amp;amp; School, the Army Logistic Management College, and Combined Arms Support Command, to establish a Combat Service Support Center at Fort Lee, VA. This recommendation would consolidate Combat Service Support (CSS) training and doctrine development at a single installation, which would promote training effectiveness and functional efficiencies. The moves would advance the Maneuver Support Center (MANSCEN) model, currently in place at Fort Leonard Wood, MO, which would consolidate the Military Police, Engineer, and Chemical Centers and Schools. This recommendation would improve the MANSCEN concept by consolidating functionally related Branch Centers &amp;amp; Schools.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/61ord-bde.htm</Url>
+    <NameNode>61st Ordnance Brigade</NameNode>
+    <FullName>61st Ordnance Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/61ord-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Aberdeen Proving Ground</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/aberdeen.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaocs.htm</Url>
+        <Id>army/usaocs.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Ordnance Center and School</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC
+16th Ordnance Bn
+143rd Ordnance Bn
+U.S. Air Force Det [361st TRS]
+U.S. Marine Corps Det</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/aberdeen.htm</href>
+            <text>Aberdeen Proving Ground, MD</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.goordnance.apg.army.mil/61st.htm</href>
+            <text>61st Ordnance Brigade
+61st Ordnance Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>61st Ordnance Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/61ord-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaocs.htm</href>
+        <text>Ordnance Center and School</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

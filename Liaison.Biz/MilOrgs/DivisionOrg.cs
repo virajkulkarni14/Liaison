@@ -28,11 +28,11 @@ namespace Liaison.Biz.MilOrgs
                     sb.Append(Number.Value + " ");
                 }
             }
-            if (this.ServiceTypeIdx == ServiceType.Reserve)
+            if (this.ServiceTypeIdx == ServiceTypeBLL.Reserve)
             {
                 sb.Append("(" + Helper.Constants.Initials_Component.Reserve + ") ");
             }
-            else if (this.ServiceTypeIdx == ServiceType.Volunteer)
+            else if (this.ServiceTypeIdx == ServiceTypeBLL.Volunteer)
             {
                 sb.Append("(" + Helper.Constants.Initials_Component.Volunteer + ") (" + this.USState + ") ");
             }
@@ -48,10 +48,10 @@ namespace Liaison.Biz.MilOrgs
 
         public string CurrentOpsUrl { get; set; }
         public string CurrentOpsLogo { get; set; }
-        public Services ServiceId { get; set; }
+        public ServicesBll ServiceId { get; set; }
         public List<BaseOrg> Bases { get; set; }
         public List<HigherHqOrg> HigherHqs { get; set; }
-        public ServiceType ServiceTypeIdx { get; set; }
+        public ServiceTypeBLL ServiceTypeIdx { get; set; }
         public List<ShortForm> ShortForm { get; set; }
         public string Name { get; set; }
 

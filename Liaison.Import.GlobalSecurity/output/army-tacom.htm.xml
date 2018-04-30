@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/tacom.htm</Url>
+    <NameNode>Tank-automotive  &amp; Armaments Command (TACOM)</NameNode>
+    <FullName>Tank-automotive  &amp; Armaments Command (TACOM)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/tacom.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Warren</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Michigan</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/amc.htm</Url>
+        <Id>army/amc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>AMC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Anniston AD, Anniston, AL
+Picatinny, NJ
+Red River AD, Texarkana, TX
+Rock Island, IL
+Selfridge ANGB, MI
+
+PM - Force Projection Enabling Systems
+
+PM Construction Eqpt./ Materials Handling Eqpt. (CE/MHE )
+PM Intratheater Mobility Systems (PM ISMO)
+PM Petroleum And Water Systems (PM PAW)
+PM Watercraft Systems (PM AWS)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Warren, Michigan</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.tacom.army.mil/</href>
+            <text>Tank-automotive  &amp; Armaments Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Tank-automotive  &amp; Armaments Command (TACOM) </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/tacom.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

@@ -1,0 +1,889 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/sigcen.htm</Url>
+    <NameNode>US Army Signal Center</NameNode>
+    <FullName>US Army Signal Center</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/sigcen.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-gordon.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</Url>
+        <FullName>15th Signal Brigade</FullName>
+        <Name>15th Signal Brigade</Name>
+        <Id>army/15sig-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</href>
+            <text>15th Signal Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-gordon.htm</href>
+            <text>Fort Gordon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.gordon.army.mil/</href>
+            <text>US Army Signal Center</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Signal Center</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/sigcen.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The multifaceted mission of the U.S. Army Signal Center and Fort Gordon encompasses training, doctrine, force integration and mobilization. The Signal Center conducts specialized instruction for all Signal Regiment military and Department of the Army civilian personnel, and provides doctrine and training development support of publications. Three Training and Doctrine Command systems managers coordinate acquisition and fielding of major systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Force integration is accomplished through the lifecycle management of all major communications-electronics systems under study, in development or in use in the field Army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/sigcen-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mobilization mission is to maintain assigned Forces Command units in a state of readiness commensurate with their authorized level of organization. The Reserve Components Support Division provides year-round training for more than 60,000 reservists, as well as Army and Navy Reserve Officer Training Corps students.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/sigcen-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</Url>
+    <NameNode>15th Signal Brigade
+"Do The Right Thing"</NameNode>
+    <FullName>15th Signal Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/15sig-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-gordon.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/sigcen.htm</Url>
+        <Id>army/sigcen.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Signal Center</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/73ord.htm</Url>
+        <FullName>73rd Ordnance Bn</FullName>
+        <Name>73rd Ordnance Bn</Name>
+        <Id>army/73ord.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/369sig.htm</Url>
+        <FullName>369th Signal Bn</FullName>
+        <Name>369th Signal Bn</Name>
+        <Id>army/369sig.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/447sig.htm</Url>
+        <FullName>447th Signal Bn</FullName>
+        <Name>447th Signal Bn</Name>
+        <Id>army/447sig.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/551sig.htm</Url>
+        <FullName>551st Signal Bn</FullName>
+        <Name>551st Signal Bn</Name>
+        <Id>army/551sig.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/73ord.htm</href>
+            <text>73rd Ordnance Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/369sig.htm</href>
+            <text>369th Signal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/447sig.htm</href>
+            <text>447th Signal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/551sig.htm</href>
+            <text>551st Signal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>442nd Signal Bn</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-gordon.htm</href>
+            <text>Fort Gordon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.gordon.army.mil/sigbde15/</href>
+            <text>15th Signal Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>15th Signal Brigade
+&lt;br&gt;"Do The Right Thing"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/15sig-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 15th Regimental Signal Brigade is a TRADOC unit and the parent unit of the United States Army Signal Corps' training battalions, located at Fort Gordon, Georgia. Its mission is to transform basically trained soldiers, who live by the seven Army values, into highly motivated, self-disciplined, physically fit, and technically knowledgeable Signal and Ordnance Warriors able to immediately contribute to the Army's mission.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 15th Signal Brigade was constituted on 30 November 1940 as the 15th Signal Service Battalion. Activated on 1 December 1940 at Fort Monmouth, NJ, it was redesignated on 15 September 1941 as the 15th Signal Service Regiment; and on 14 December 1942 as the 15th Signal Training Regiment. It was disbanded on 31 May 1945 at Fort Monmouth, NJ.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters and Headquarters Company, 15th Signal Training Regiment, was reconstituted on 23 September 1986 as Headquarters and Headquarters Detachment, 15th Signal Brigade and tranfered to the United States Army Training and Doctrine Command and organized at Fort Gordon, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/sigcen.htm</href>
+        <text>Signal Center</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Do The Right Thing"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/73ord.htm</Url>
+    <NameNode>73rd Ordnance Battalion</NameNode>
+    <FullName>73rd Ordnance Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/73ord.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-gordon.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/59ord-bde.htm</Url>
+        <Id>army/59ord-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>59th Ordnance Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</Url>
+        <Id>/army/15sig-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>15th Signal Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</href>
+        <h3>15th Signal Brigade</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HQ/A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C COmpany</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-gordon.htm</href>
+            <text>Fort Gordon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.gordon.army.mil/sigbde15/73/default.htm</href>
+            <text>73rd Ordnance Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>73rd Ordnance Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/73ord.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 73d Ordnance Battalion is to provide command, administrative, and logistical support to all assigned and attached soldiers; provide a unit environment which will produce a well-trained, highly motivated, disciplined, physically fit Advanced Individual Training (AIT)/Initial Entry Training (IET) soldier who is competent in basic soldiering and Military Occupational Specialty (MOS) related skills and provide support for Ordnance Electronic Maintenance Departments.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 73rd Ordnance Battalion trains and develop motivated, disciplined, physically-fit Ordnance soldiers and warrant officers who live by the seven Army values and are competent in entry-level MOS and common soldier skills.  The unit also provides soldier and family support systems that support the Ordnance soldier and family.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 73rd Ordnance Battalion was originally constituted on 18 October, 1927 in the Regular Army as the 13th Motor Transport Command. It was redesignated on 1 May, 1936 as Headquarters and Headquarters Company, 1st Battalion, 37th Quartermaster Regiment; and on 1 June, 1940 as Headquarters and Headquarters Detachment, 73rd Quartermaster Battalion. It activated ib 9 June, 1941 at Fort Lewis, WA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/73ord-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Redesignated on 1 April, 1942 as Headquarters and Headquarters Detachment, 73rd Quartermaster Medium Maintenance Battalion, it was converted and redesignated on 1 August, 1942 as Headquarters and Headquarters Detachment, 73rd Ordnance Medium Maintenance Battalion. The unit was reorganized and redesignated on 31 May, 1943 as Headquarters and Headquarters Detachment, 73rd Ordnance Battalion. It inactivated on 15 December, 1946 in Japan.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit reactivated on 15 December, 1948 in Germany. It was redesignated on 23 December, 1948 as Headquarters and Headquarters Company, 73rd Armored Ordnance Maintenance Battalion (the 3485th, 3486th, and 3487th Ordnance Medium Automotive Maintenance Companies were concurrently redesignated as Companies A, B, and C, 73rd Armored Ordnance Maintenance Battalion). It inactivated on 20 July, 1950 in Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Redesignated on 14 February, 1957 as the 73rd Ordnance Battalion, it activated on 1 March, 1957 at Fort Hood, TX. It inactivated on 25 August, 1961 at Fort Carson, CO.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters was transferred on 31 October, 1986 to the United States Army Training and Doctrine Command and organized at Redstone Arsenal, AL. It inactivated on 6 June 1990 at Redstone Arsenal, AL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 73rd Ordnance Battalion activated on 1 October 1994 at Fort Gordon, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/73ord-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaommcs.htm</href>
+        <text>OMMCS</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/59ord-bde.htm</href>
+        <text>59th Ordnance Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/369sig.htm</Url>
+    <NameNode>369th Signal Battalion</NameNode>
+    <FullName>369th Signal Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/369sig.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-gordon.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</Url>
+        <Id>army/15sig-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>15th Signal Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HQ/Alpha Company
+Bravo Company
+Charlie Company
+Delta Company
+Echo Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-gordon.htm</href>
+            <text>Fort Gordon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.gordon.army.mil/sigbde15/369/default.htm</href>
+            <text>369th Signal Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>369th Signal Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/369sig.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/sigcen.htm</href>
+        <text>Signal Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</href>
+        <text>15th Signal Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/447sig.htm</Url>
+    <NameNode>447th Signal Battalion
+"Signals For Victory"</NameNode>
+    <FullName>447th Signal Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/447sig.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-gordon.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</Url>
+        <Id>army/15sig-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>15th Signal Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HQ/Alpha Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-gordon.htm</href>
+            <text>Fort Gordon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.gordon.army.mil/sigbde15/447/</href>
+            <text>447th Signal Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>447th Signal Battalion
+&lt;br&gt;"Signals For Victory"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/447sig.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 447th Signal Battalion is to provide command, administrative, and logistical support to all assigned and attached soldiers ; provide a unit environment which will produce a well-trained, highly motivated, disciplined, physically fit Advanced Individual Training (AIT)/Initial Entry Training (IET) soldier who is competent in basic soldiering and Military Occupational Specialty (MOS) related skills; and provide support for the School of Telecommunications Technology and the School of Information Technology.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters and A Company provides soldiers and civilians to serve as battalion staff and to serve as instructors for the School of Telecommunications Technology and the School of Information Technology. The School of Telecommunications Technology provides basic MOS training. The School of Information Technology provides basic MOS training and officer training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Bravo, Charlie, Delta and Echo Companies provide cadre to ensure the proper health, welfare, and soldierization of IET student soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 447th Signal Battalion was originally constituted on 10 August 1942 as the 447th Signal Construction Battalion, Aviation. The Unit was activated on 29 August 1942 at Dale Mabry Field, FL. It was reorganized and redesignated on 5 October 1944 as the 447th Signal Heavy Construction Battalion. It inactivated on 25 October 1945 at Camp Shanks, NY.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated on 3 December 1954 as the 447th Signal Battalion and assigned to the Regular Army. The Headquarters was transferred on 23 September 1986 to the United States Army Training and Doctrine Command and organized at Fort Gordon, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/sigcen.htm</href>
+        <text>Signal Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</href>
+        <text>15th Signal Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Signals For Victory"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/551sig.htm</Url>
+    <NameNode>551st Signal Battalion</NameNode>
+    <FullName>551st Signal Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/551sig.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gordon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-gordon.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</Url>
+        <Id>army/15sig-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>15th Signal Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-gordon.htm</href>
+            <text>Fort Gordon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.gordon.army.mil/551/</href>
+            <text>551st Signal Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>551st Signal Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/551sig.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of late January 2002, the mission of the 551st Signal Battalion was to transform basically trained soldiers (B &amp;amp; D Co), who live by the seven Army values, into highly motivated, self-disicplined, physically fit,and technically knowledgeable Signal Soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit provides consolidated billeting, management, and values driven training of inactive IET and Non-IET soldiers assigned to C Co.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It also is tasked with providing command, control, training, administration and logistical support to personnel assigned to HQs&amp;amp;A Company which includes Directorates, special staffs, and other assigned/attached personnel located at Fort Gordon.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 551st Signal Battalion was constituted on 10 December 1941 in the Army of the United States as the 551st Signal Aircraft Warning Battalion, Separate. It activated on 15 December 1941 at Fort Dix, NJ. The unit was redesignated on 12 December 1942 as the 551st Signal Aircraft Warning Battalion. It inactivated on 1 February 1946 in the Philippine Islands.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was redesignated 23 September 1986 as the 551st Signal Battalion and allotted to Regular Army; Headquarters concurrently transferred to the United States Army Training and Doctrine Command and organized at Fort Gordon, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Transformation which took place on 10 August 2001 placed the 551st Signal Battalion under the 15th Regimental Signal Brigade; training 74B/C/G IET &amp;amp; Non-IET soldiers and effective 25 October 2001, training 31P IET &amp;amp; Non-IET soldiers. The unit also was to have the mission of the inactive soldiers throughout the Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/sigcen.htm</href>
+        <text>Signal Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/15sig-bde.htm</href>
+        <text>15th Signal Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

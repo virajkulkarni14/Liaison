@@ -1,0 +1,2286 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaas.htm</Url>
+    <NameNode>U.S. Army Armor Center &amp;amp; School</NameNode>
+    <FullName>U.S. Army Armor Center &amp;amp; School</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usaarmc.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Benning</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <FullName>1st Armor Training Brigade</FullName>
+        <Name>1st Armor Training Brigade</Name>
+        <Id>army/1atb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/16cav.htm</Url>
+        <FullName>16th Cavalry Regiment</FullName>
+        <Name>16th Cavalry Regiment</Name>
+        <Id>army/16cav.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+            <text>1st Armor Training Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/16cav.htm</href>
+            <text>16th Cavalry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Benning</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/</href>
+            <text>Armor School</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://knox-www.army.mil/center/</href>
+            <text>US Army Armor Center</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>U.S. Army Armor Center &amp;amp; School</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaarmc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Directorate of Force Development at the U.S. Army Armor Center &amp;amp; School conducts combat and force development functions for the Armor Force that provide soldiers and commanders the organizations and equipment to decisively win on the 21st Century Battlefield. The Directorate of Training and Doctrine Development (DTDD) has the mission to lead the U.S. Army in all Armor/Cavalry training development, doctrine development, publication of ARMOR Magazine, and Force XXI Training Program, while improving synchronization of training and doctrine for combined arms units in the Total U.S. Army. 
+The Force XXI Training Program is a key component of Warfighter XXI. It includes the development of methods for building training support packages to support training the brigade and battalion staff members and their supporting CS and CSS slices, individual through collective tasks across all of the BOS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaas.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Armor School is the rock on which the Armor Center mission is built. Its staff sections, directorates and units provide the personnel, equipment and guidance needed to train the officers, NCOs and enlisted soldiers in the execution of armored warfare and the development of its doctrine.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The American Expeditionary Force, in the midst of its vast buildup in France during World War I, established a Tank Corps to support it in battle against the German trench lines. In the beginning, the American tankers used British and French armored vehicles and took their tactics from the British, the pioneers of tank warfare. One of the first American soldiers to distinguish himself in this revolutionary form of warfare was a 33-year old cavalry captain named George S. Patton.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Patton commanded the first American armored forces to see combat. Following the Armistice, however, Congress reviewed Tank Corps operations during the war, and it concluded that the tank was an infantry weapon. Consequently, the National Defense Act of 1920 abolished the Tank Corps as an independent organization and subordinated tank development to the infantry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The British Army, which had introduced tank warfare to the world at the Battle of Cambrai in 1916, continued to develop and employ mechanized forces following WWI. The British commitment to armored warfare spurred the Americans to develop and build their own mechanized forces. In the late 1920s, the U.S. Army's "mechanized forces" consisted of several battalions of infantry support tanks and some separate armored car companies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In response to the widely publicized experiments of British tanks during the 1920s, the War department established the Experimental Mechanized Force in 1928 to test the viability of employing tanks in missions beyond that of infantry support. Although their Experimental Mechanized Force was disbanded after less than three months, analysis of its activities provided sufficient justification for Congress to authorize the creation of the Mechanized Force in 1930.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>This organization combined elements from nine combat and service arms and served as a tactical laboratory, testing new ideas governing the integrated operation of different combat units. Although not intended to be dominated by cavalry ideas, cavalry concepts heavily influenced the Mechanized Force, and they were embodied in the appointment of Col. Daniel Van Voorhis as commander and Lt. Col. Adna R. Chaffee Jr., as his executive officer. These officers ensured that Cavalry operations became a primary focus of the new organization.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Mechanized Force was first assembled at Fort Eustis, Va., in the fall of 1930. It was organized as a combined arms force which included armored cars, truck-drawn artillery, engineers, anti-aircraft artillery, and infantry tanks. The tank company assigned to the force - Company A, 1st Tank Regiment is today Company A, 1st Battalion, 66th Armored Regiment. It is the oldest tank unit in the U.S. Army. The Mechanized Force; however, became too closely associated with cavalry operations, and in 1931, the War Department disbanded it. No reason seemed to exist to maintain an organization whose mission appeared similar to that of an existing combat arm. Instead, in a new policy regarding mechanization, all combat arms were directed to develop their own mechanized programs. This policy permitted the creation of the Mechanized Cavalry, based upon a cadre from the Mechanized Force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>To permit effective development of the Mechanized Cavalry, Chaffee and Van Voorhis sought a larger post with more varied terrain than available at Fort Eustis. Both felt that Camp Knox's larger size and varied terrain were more suited for the development of armored tactics. Consequently, a small remnant of the now defunct Mechanized Force relocated to Camp Knox in November 1931 to begin organizing the Mechanized Cavalry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Congress designated Camp Knox as a permanent garrison on Jan 1, 1932, and changed the name to Fort Knox. On Jan 16, 1932 the 1st Cavalry Regiment -- the Army's oldest mounted unit -- arrived at Fort Knox and traded its horses for combat cars.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The new 1st Cavalry Regiment (Mechanized) was joined in 1936 by the 13th Cavalry Regiment, which in turn traded its horses for tanks and, together with the 1st, comprised the 7th Cavalry Brigade (Mechanized).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The pace of activity at Fort Knox picked up quickly in the late 1930s. The post served as the center for cavalry mechanization and developed much of the tactics and doctrine which the Armored Force would use upon establishment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Fort Knox, and Mechanized Cavalry personnel in particular, also provided support and leadership for the youth work groups of the Civilian Conservation Crops throughout the V Corps area.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The emerging threat of Hitler's Germany in the late 1930s caused the Army to re-evaluate the status of its mechanized warfare capability. When the German army overran Poland in 1939 and forced France's surrender in June 1940 after only a six-week campaign, its Panzer Divisions played a decisive role. Each comprised a mixture of tanks, mechanized infantry, and artillery capable of mobile combined-arms operations on a large scale. The success of these new formations shocked the War Department into a frenzied effort to create an American counterpart to the Panzer Division. The Third Army maneuvers of 1940 that included the 7th Cavalry Brigade (Mechanized) and Infantry tank units further demonstrated that combined-arms formations could not be created on an ad hoc basis. They required time to train and develop unit cohesion. Consequently, at the end of the maneuvers infantry and mechanized cavalry officers, including Chaffee and Van Voorhis, met to discuss future mechanized development in the Army. These meetings generated a consensus that American armor must develop together and not be subordinated to the infantry or cavalry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Armored Force was born on July 10, 1940, with the Headquarters, Armor Force and the Headquarters, I Armored Crops established at Fort Knox. On July 15, 1940, the 7th Cavalry Brigade (Mechanized) became the 1st Armored Division; the 7th Provisional Tank Brigade, an infantry tank unit at Fort Benning, became the 2nd Armored Division. The Tank Battalion was established at Fort Meade, Md., and a small Armored Force School was also established.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Armored Force School and the Armored Force Replacement Center were officially established at Fort Knox Oct 1, 1940. The school trained armored force soldiers in military fundamentals and in specific areas such as tank gunnery, armor tactics, communications, and maintenance. As the armored force grew and the U.S. entered WWII, the school expanded proportionately. From an initial cadre of 155 officers and 1,458 enlisted men in October 1940, the school grew to more than 700 officers and 3,500 enlisted men by May 1943. The school alone used more than 500 buildings, many of them "temporary" wooden structures built to meet the expansion of the post. Many of those temporary buildings are still in use today.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Armored Force School, at the peak of its operation during the war, operated on two daily shifts to satisfy the demand for qualified armor soldiers. The training reflected the rapid evolution of armored warfare doctrines, which changed constantly in the face of battle experience and in the alterations to the force structure and its tables of organization and equipment. Some of the buildings used by the school reflected these new doctrines and techniques. The building at 1538 Eisenhower Ave. was built in the shape of a Landing Ship Tank (LST) to train soldiers how to load and unload armored vehicles for transport at sea. The building still stands today and is used by the Patton Museum for storing historic armored vehicles. By 1943, Fort Knox had expanded to 106,861 acres and had 3,820 buildings, compared to 864 buildings in 1940.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the end of World War II the Armored Force grew to include 16 armored divisions and more than 100 separate tank battalions and mechanized cavalry squadrons.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The I Armored Corps, under Patton, led the American invasion of French Morocco in November 1942. The 1st and 2nd Armored Divisions also fought in North Africa - the 1st in Algeria and Tunisia and the 2nd in Morocco. The 1st Armored Division went on to win fame with the 5th Army in Italy, participating in the battles around Cassion, Anzio, and in the Po Valley. It led the liberation of Rome on June 4, 1944.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Armored Division fought in Sicily in 1943, then on June 9, 1944, was the first American armored division to land in /France, The division fought in all of the campaigns in northwestern Europe, becoming the first U.S. unit to reach the Elbe River and enter Berlin.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2005, as part of its BRAC Recommendations, the DoD recommended relocating The Armor Center and School to Fort Benning, GA.  This recommendation would would support the consolidation of the Armor and Infantry Centers and Schools
+  at Fort Benning and would create a Maneuver Center of Excellence for ground forces training and
+  doctrine development. It would consolidates both Infantry and Armor One Station Unit Training
+  (OSUT), which would allow the Army to reduce the total number of Basic Combat Training locations
+  from five to four.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+    <NameNode>1st Armor Training Brigade</NameNode>
+    <FullName>1st Armor Training Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1atb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaas.htm</Url>
+        <Id>army/usaas.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Armor School</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-81ar.htm</Url>
+        <FullName>1-81 AR</FullName>
+        <Name>1-81 AR</Name>
+        <Id>army/1-81ar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-81ar.htm</Url>
+        <FullName>2-81 AR</FullName>
+        <Name>2-81 AR</Name>
+        <Id>army/2-81ar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/3-81ar.htm</Url>
+        <FullName>3-81 AR</FullName>
+        <Name>3-81 AR</Name>
+        <Id>army/3-81ar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/5-15cav.htm</Url>
+        <FullName>5-15 CAV</FullName>
+        <Name>5-15 CAV</Name>
+        <Id>army/5-15cav.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-46in.htm</Url>
+        <FullName>1-46 IN</FullName>
+        <Name>1-46 IN</Name>
+        <Id>army/1-46in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-46in.htm</Url>
+        <FullName>2-46 IN</FullName>
+        <Name>2-46 IN</Name>
+        <Id>army/2-46in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/5-46in.htm</Url>
+        <FullName>5-46 IN</FullName>
+        <Name>5-46 IN</Name>
+        <Id>army/5-46in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>46th Adjutant General Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-81ar.htm</href>
+            <text>1-81 AR</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-81ar.htm</href>
+            <text>2-81 AR</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3-81ar.htm</href>
+            <text>3-81 AR</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/5-15cav.htm</href>
+            <text>5-15 CAV</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-46in.htm</href>
+            <text>1-46 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-46in.htm</href>
+            <text>2-46 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/5-46in.htm</href>
+            <text>5-46 IN</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/1atb/</href>
+            <text>1st Armor Training Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Armor Training Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1atb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-81ar.htm</Url>
+    <NameNode>1st Battalion - 81st Armor Regiment</NameNode>
+    <FullName>1st Battalion - 81st Armor Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-81ar.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Alpha Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.knox.army.mil/school/1atb/146/index.stm</href>
+            <text>1st Battalion - 81st Armor Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 81st Armor Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-81ar.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 1st Battalion, 81st Armor Regiment, is to conduct institutional training for initial entry and reclassification for all 19K Armor Crewmen for the Regular Army and Reserve components; conduct Advanced Individual Training for Abrams and Bradley mechanics (Military Occupational Specialty 63A/M)); conduct the technical training for the 63 A/M  Basic Non Commissioned Officer Course (BNCOC); and to conduct United States Marine Corps Armor Crewman and Tank System Mechanic Courses (Military Occupational Specialty 1812 and 2146).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>HHC, 1-81 Armor supports M1 Tank Crewman, Bradley/Abrams mechanic training AIT &amp;amp; BNCOC, Recovery training (GMD) and USMC training with logistical assets. Provides administrative support to cadre in order to maintain war fighting skills, individual soldier deployability and quality of life.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-81ar-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Alpha company trains and develops 63A(mutli-capable maintainer) soldiers to be able to operate, sustain and survive in combat. Alpha company also teaches principles and operations of the M1A2 (ASI K4) and M88A2 (ASI H8). Drill Sergeants provide for the health, welfare and discipline of every soldier.  Drill Sergeants provide Common Task Training to complete the soldierization process in order to provide disciplined, MOS trained and combat ready soldiers to the Regular Army, National Guard and Reserves.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of Bravo Company is to train and develop 63M (Bradley Multi-Capable Maintainer) Advanced Individual Training soldiers to be able to operate, sustain and survive in combat; refreshes and sustains common skills training; provides for the health, welfare and discipline of all assigned soldiers; completes the soldierization process to provide MOS-trained and combat-ready soldiers to the Regular Army and National Guard.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Delta Company provides a thirteen-week course covering the USMC 1812 M1A1 Armor Crewmen Course, and a nineteen-week course covering the USMC 2146 M1A1 Tank System Mechanic Course.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of Echo Company is to conduct One Station Unit Training for Active Army, US Army Reserve and National Guard soldiers in order to graduate combat ready Armor Crewmen; and on order, execute mobilization expansion plan.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-81ar-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-81ar.htm</Url>
+    <NameNode>2nd Battalion - 81st Armor Regiment
+19K One Station Unit Training (OSUT)</NameNode>
+    <FullName>2nd Battalion - 81st Armor Regiment; 19K One Station Unit Training (OSUT)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-81ar.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/1atb/281/19kosut.htm</href>
+            <text>2nd Battalion - 81st Armor Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion - 81st Armor Regiment
+&lt;br&gt;19K One Station Unit Training (OSUT)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-81ar.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion, 81st Armor Regiment, conducts the 19K One Station Unit Training which is a 15 week program of instruction designed to prepare new Army recruits to become crewmen on the world's most sophisticated, devastating piece of equipment -- the M1A1 &amp;amp; M1A2 Main Battle Tank.  Training is divided into four phases.  Each phase successively introduces the solier to increasing levels of responsibility, additional tasks, and military skills they must master.  Each phase also introduces more sophisticated training on the M1A1 Main Battle Tank.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training in the first, Red, Phase is focused on inculcating Army values, traditions, and ethics, as well as beginning the development of individual basic combat skills and physical fitness training.  White Phase then continues to provide soldiers with additional training in basic soldier skills. Soldiers are also introduced to the M1A1 Tank where they will spend the next three to four weeks learning about the Drivers station and the responsibilities that pertain to the drivers position.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/81ar.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The emphasis in the third phase, Blue Phase, is on training shifts from primarily basic soldier skills to mostly Armor Crewman specific skills, but soldiers continue to reinforce the basic soldier skills training they have received.  Soldiers learn about the Loaders Station as well as some basic Gunners station tasks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Gold Phase is the final phase of 19K OSUT training, and focuses on M1A1 tank subjects.  During that phase, soldiers take part in a week-long Field Training Exercise in which they will perform a multitude of tasks such as assembly area procedures, living in a tactical environment, and guard duty.  The soldiers also drive, load, and fire the M1A1 tank. During the Basic Driving Course, soldiers drive the M1A1 tank individually and as part of a convoy while negotiating a variety of obstacles.  Soldiers load and fire the 120mm main gun during day and night conditions, as well as in offensive and defensive engagements.  They also fire the 7.62mm machine gun.  Each soldier also drives the M1A1 tank in day and night simulated combat conditions during the Field Training Exercise.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/3-81ar.htm</Url>
+    <NameNode>3rd Battalion - 81st Armor Regiment
+"Royal Lions"</NameNode>
+    <FullName>3rd Battalion - 81st Armor Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/3-81ar.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC "Hurricanes"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A "Alpha Atlas"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B "Bulldogs"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>223rd Truck Co "Heavy Truck"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/1atb/381/INDEX.HTM</href>
+            <text>3rd Battalion - 81st Armor Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>3rd Battalion - 81st Armor Regiment
+&lt;br&gt;"Royal Lions"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/3-81ar.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 3rd Battalion, 81st Armor, provides to standard: instruction, training support, and Heavy Equipment Truck Transportation (HETT) for 1st ATB, the Armor School, ROTC/USMA, Reserve Component (6 states), USMC, and permanent party soldiers.  The Fort Knox proponent for NBC defense course and CO CDR/1SG course.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The "Royal Lions" battalion was constituted on 28 August, 1941, as Company C, 81st Armor Regiment and activated at Fort Knox, Kentucky, on 1 October of that year. Following America's entry into the Second World War, on 20 September, 1943, the battalion was re-designated as the 707th Tank Battalion, where it saw combat as part of both the 5th and 7th Armored Divisions. As part of the drive through Europe the 707th participated in the campaigns of Normandy, Northern France, Rhineland, Ardennes-Alsace, and Central Europe. The 707th was awarded the Luxembourg Croix de Guerre, World War II streamer, for its outstanding wartime service. Following its successful campaigns in Europe, the 707th was inactivated at Boston, Massachusetts, on 8 October, 1945.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the early months of the Korean War the battalion was re-designated as the 94th Medium Tank Battalion, 7th Armored Division and reactivated again on 24 November, 1950, at Camp Roberts, California, where it remained until inactivated on 15 November, 1953.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/3-81ar-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 3 February, 1962, the battalion was relieved from assignment to the 7th Armored Division and re-designated as the 3d battalion, 81st Armor Regiment under the Combat Arms Regimental System. The battalion was reassigned to the 5th Armored Division. On 25 March, 1987, the battalion was relieved from assignment to the 5th Armored Division and re-designated at Fort Knox, Kentucky as a training battalion. On 1 October, 1991, the battalion was again deactivated. The current mission of the battalion begins with the creation, on 20 July, 1965, of Committee Group. This unit was activated at Fort Knox with the mission of providing training support to Initial Entry Training soldiers. On 2 March, 1986, Committee Group was re-designated as Training Group, and was placed under the operational control of the 4th Training Brigade. On 30 July, 1993, Training Group was re-designated 3d Battalion, 81st Armor Regiment and attached to the 1st Armor Training Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 15 September, 1997, the battalion accepted the attachment of the 233d Transportation Company (FORSCOM) from the 19th Engineer Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of Alpha Company is to provide instruction training, and support in First Aid, Nuclear, Biological, and Chemical Defense, land navigation and Military Communications to soldiers/units at USAARMC and Fort Knox; and provide communications-electronic maintenance support to 1st Armor Training Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of Bravo company is to provide Combat Indoctrination and U.S. Weapons training and support to individuals / units at United States Army Armor Center and Fort Knox.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the C Company is to provide Basic Rifle and Pistol Marksmanship training and support to enhance the training of individuals and units of the United States Army Armor Center and Fort Knox.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 223rd Truck Company is to provide motor transportation support to:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>The United States Army Armor Center, Fort Knox, Kentucky</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>The United States Army Infantry School, Fort Benning, Georgia</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>3rd Infantry Division, Fort Stewart, Georgia</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>3rd Brigade, 3rd Infantry Division, Fort Benning, Georgia</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On order, the 223rd Truck Company deploys and provides combat heavy equipment transportation support to forward deployed armored and mechanized divisions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Royal Lions"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/5-15cav.htm</Url>
+    <NameNode>5th Squadron - 15th Cavalry Regiment</NameNode>
+    <FullName>5th Squadron - 15th Cavalry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/5-15cav.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>E Troop</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/1atb/515/index.htm</href>
+            <text>5th Squadron - 15th Cavalry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>5th Squadron - 15th Cavalry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/5-15cav.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>15 CAV conducts 16 week One Station Unit Training (OSUT) for Initial Entry and Reclassified 19DD3 (Bradley and HMMWV Scouts) soldiers in the Regular Army, Army Reserve, and National Guard, and train fundamental combat skills necessary to fight and win. The unit is also tasked with reinforcing the warfighting skills of the cadre.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 5th Squadron, 15th Cavalry (5-15) is the descendent of the 15th Cavalry Regiment that was formed in 1901 at the Presidio in California. As the only active Squadron of the 15th Regiment, the 5th Squadron maintains the Regimental Colors.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Immediately upon its organization in 1901, the 15th Cavalry embarked for the Philippines to quell an insurrection in the United States newly acquired territory. The fierce combat in the Philippine jungles against the savage Moros forged the spirit of the Regiment in fire and blood; a spirit exemplified in the motto the Regiment chose for itself-TOUS POUR UN, UN POUR TOUS (All for one, one for all).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Regiment's next action was part of the Cuban Pacification from 1906 to 1909, followed by duty along the Mexican border and the hunt for Poncho Villa.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When the United States entered World War I, the Regiment sailed for France as one of the four horse mounted Regiments on duty with the Allied Expeditionary Force. The fighting had already bogged down into trench warfare and the role of horse Cavalry was nearly over. The 15th was called upon to dismount and relieve exhausted infantry units in the trenches. It was the tank that finally broke the trench lines to end both the war and the role of the horse soldier. The 15th served occupation duty after the war until June 1919 when it returned to the United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Sadly after 20 years of continuous active service, the Regiment was deactivated as part of the massive cutbacks in the Regular Army following the "war to end all wars".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the advent of the Second World War, the 15th was again called to service in March 1942. The spirit and elan of the Cavalry were to lead the Army again, this time with new mounts, the armored car and tank. The 17th Cavalry Regiment was activated for the war in Europe and arrived in Scotland in March 1944. In England, the 15th was reorganized as the 15th Cavalry Group Mechanized. The Group was composed of the 15th and 17th Reconnaissance Squadrons. The 15th landed on Utah Beach on the 5 July 1944 as part of Patton's Third Army. The 15th served in four major campaigns in Europe: Normandy, Northern France, Rhineland, and Central Europe. The 15th fought as part of the Third Army, Ninth Army and was assigned as a security force for several different divisions. The end of the war found the 15th deep inside Germany, covering over 1000 miles of enemy held territory since landing on the Continent in July 1944. The 15th had taken nearly 7000 prisoners, destroyed 78 guns and 495 enemy vehicles.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the war, the 15th was redesignated the 15th Constabulary Regiment, charged initially with occupation duty of the defeated Germany. The 17th was deactivated in January 1947. As the cold war began in earnest, the Regiment's duty shifted to patrolling the border between West Germany and East Germany, as well as the border with Czechoslovakia. The Constabulary Force guarded the border until 1952.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>From 1952 to 1987, the Regiment went through a series of redesignations, inactivations and reactivations. Elements of the regiment served across the Army from Korea, Germany, and the United States to Troop G service in Viet Nam from 1971 to 1972.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In March 1987, the Army overhauled its Combat Arms Regimental System (CARS) to restore some order to the history and lineage of its regiments. One goal of this reform was to keep on active duty those regiments which had earned distinguished records over long years of service. The 15th Cavalry clearly deserved such recognition and in March 1987, the 15th Cavalry Regiment was reactivated at Fort Knox, Kentucky. The Squadron, as part of the 1st Armor Training Brigade, was charged with the mission of training 19D Cavalry Scouts.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-46in.htm</Url>
+    <NameNode>1st Battalion - 46th Infantry Regiment
+"Professionals"</NameNode>
+    <FullName>1st Battalion - 46th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-46in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.knox.army.mil/school/1atb/146/index.stm</href>
+            <text>1st Battalion - 46th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 46th Infantry Regiment
+&lt;br&gt;"Professionals"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-46in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 46th Infantry Regiment, conducts basic combat training in order to develop soldiers who will succeed at advanced individual training and in the U.S. Army. On order, it conducts ROTC Leader's Training Course in support of Cadet Command.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 46th Infantry was constituted in May 1917 as a part of the General Mobilization for World War I.  The 46th was assigned to the 9th Division just at the end of the war.  The unit was inactivated in November 1921.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 46th was reconstituted at Fort Knox as the 46th Armored Infantry, 5th Armored Division, in 1943.  The regiment consisted of three battalions: the 46th, 15th, and 47th Armored Infantry Battalions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 46th Infantry participated in the Normandy Invasion, the Liberation of France, and reached the vaunted Seigfried Line in September, 1944. The 5th  Armored Division liberated the Grand Duchy of Luxembourg and also had the  distinction of being the first American unit to reach German soil.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-46in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>All three battalions of the 46th fought in the three month bloody campaign of the Hurtgen Forest.  These were the worst, most difficult, and trying conditions of the European Theater.  Casualties were extremely high and in December 1944, the 46th Armored Infantry Battalion lost half its effective strength in a single day, taking a stubbornly defended hill.  Three men, including the battalion commander, won the Distinguished Service Cross that day.  The sacrifices made in the Hurtgen Forest are symbolized by the two pine trees, colored red, found on the Unit Crest.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Upon completion of the war in Europe, the 46th Infantry returned to the States and was deactivated in October, 1945.  The regiment was activated and deactivated several times in the intervening years.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In May, 1967, the 46th Infantry deployed for Vietnam.  Two battalions of the 46th (1st and 5th) served honorably rotating between the 23d Infantry Division (Americal), 198th Infantry Brigade and the 196th Infantry Brigade.  The battalions have credit for twelve campaigns, stretching from October, 1967 to June, 1972.  On 13 May 1969, MAJ Dunagan, A Co, 1st Battalion, 46th Infantry was  awarded the Medal of Honor. The 46th was inactivated again in August, 1984.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The basic training battalions of the 1st Brigade were redesignated the 46th Infantry on 30 January 1987.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Professionals"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-46in.htm</Url>
+    <NameNode>2nd Battalion - 46th Infantry Regiment
+"Lead to Victory"</NameNode>
+    <FullName>2nd Battalion - 46th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/5-46in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.knox.army.mil/school/1atb/246/index.html</href>
+            <text>2nd  Battalion - 46th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion - 46th Infantry Regiment
+&lt;br&gt;"Lead to Victory"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/5-46in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion, 46th Infantry Regiment, conducts Basic Combat Training in order to provide soldiers trained in the basic skills to fight and win.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion, 46th Infantry Regiment, was originally constituted on 15 May 1917 in the Regular Army as Company B, 46th Infantry. It organized on 4 June 1917 at Fort Benjamin Harrison, IN, before inactivating on 16 November 1921 at Camp Travis, TX. It demobolized on 31 July 1922.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was reconstituted on 28 August 1941 in the regualr Army as Company B, 46th Infantry (Armored), an element of the 5th Armored Division and activated on 1 October 1941 at Fort Knox, KY. It was redesignated on 1 January 1942 as Company B, 46th Armored Infantry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/5-46in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit reorganized and was redesignated on 20 September 1943 as Company B, 47th Armored Infantry Battalion, an element of the 5th Armored Division. It inactivated on 8 October 1945 at Camp Myles Standish, MA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit activated on 6 July 1948, at Camp Chaffee, AR. It inactivated on 1 Febuary 1950 at Camp Chaffee, AR.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit activated on 1 September 1950 at Camp Chaffee, AR. It inactivated on 16 March 1956 at Camp Chaffee, AR. (The 47th Armored Infantry Battalion was relieved on 15 Febuary 1957 from assignment to the 5th Armored Division).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated on 1 October 1957 as Headquarters and Headquarters Company, 2nd Armored Rifle Battalion, 46th Infantry; was assigned to the 3rd Armored Division, and activated in Germany (its organic elements concurrently constituted and activated). The unit reorganized and was redesignated on 3 Febuary 1962 as the 2nd Battalion, 46th Infantry; it was concurrently relieved from assignment to the 3rd Armored Division and assigned to the 1st Armored Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit inactivated on 13 September 1972 in Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Lead to Victory"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/5-46in.htm</Url>
+    <NameNode>5th Battalion - 46th Infantry Regiment</NameNode>
+    <FullName>5th Battalion - 46th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/5-46in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-knox.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1atb.htm</Url>
+        <Id>army/1atb.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st Armor Training Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-knox.htm</href>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.knox.army.mil/school/1atb/546/546.htm</href>
+            <text>2nd  Battalion - 46th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>5th Battalion - 46th Infantry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/5-46in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of late February 2002, the 5th Battalion, 46th Infantry, was inactive.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 5th Battalion, 46th Infantry, was originally constituted on 15 May 1917 in the Regular Army as Company E, 46th Infantry. It organized on 4 June 1917 at Fort Benjamin Harrison, IN (the 46th Infantry assigned on 5 July 1918 to the 9th Division; and relieved on 15 February 1919 from assignment to the 9th Division). It inactivated on 16 November 1921 at Camp Travis, TX, and demobilized on 31 July 1922.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It reconstituted on 28 August 1941 in the Regular Army as Company E, 46th Infantry (Armored), an element of the 5th Armored Division, and activated on 1 October 1941 at Fort Knox, KY. It was redesignated on 1 January 1942 as Company E, 46th Armored Infantry. It was reorganized and redesignated on 20 September 1943 as Company B, 15th Armored Infantry Battalion, an element of the 5th Armored Division, before inactivating on 8 October 1945 at Camp Myles Standish, MA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/5-46in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit activated on 6 July 1948 at Camp Chaffee, AR, where it inactivated on 1 February 1950.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit activated again on 1 September 1950 at Camp Chaffee, AR, and inactivated there on 16 March 1956 (the 15th Armored Infantry Battalion was relieved on 15 February 1957 from assignment to the 5th Armored Division).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Redesignated on 1 July 1959 as Headquarters and Headquarters Company, 5th Battle Group, 46th Infantry, it was redesignated on 2 October 1967 as Headquarters and Headquarters Company, 5th Battalion, 46th Infantry, and activated at Fort Hood, TX (its organic elements were concurrently constituted and activated). The battalion was assigned on 31 March 1968 to the 198th Infantry Brigade. It was relieved on 15 February 1969 from assignment to the 198th Infantry Brigade and assigned to the 23d Infantry Division. It inactivated on 22 May 1971 at Fort Lewis, WA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters transferred on 1 October 2000 to the United States Army Training and Doctrine Command and activated at Fort Knox, KY.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1atb.htm</href>
+        <text>1st Armor Training Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/16cav.htm</Url>
+    <NameNode>16th Cavalry Regiment
+"Strike Hard"</NameNode>
+    <FullName>16th Cavalry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/16cav.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaas.htm</Url>
+        <Id>army/usaas.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Armor School</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-16cav.htm</Url>
+        <FullName>1st Squadron</FullName>
+        <Name>1st Squadron</Name>
+        <Id>army/1-16cav.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-16cav.htm</Url>
+        <FullName>2nd Squadron</FullName>
+        <Name>2nd Squadron</Name>
+        <Id>army/2-16cav.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/3-16cav.htm</Url>
+        <FullName>3rd Squadron</FullName>
+        <Name>3rd Squadron</Name>
+        <Id>army/3-16cav.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>RHHT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-16cav.htm</href>
+            <text>1st Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-16cav.htm</href>
+            <text>2nd Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3-16cav.htm</href>
+            <text>3rd Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Observer/Controller Team</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>113th Band</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/16cav/</href>
+            <text>16th Cavalry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>16th Cavalry Regiment
+&lt;br&gt;"Strike Hard"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/16cav.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 16th Cavalry was organized in July 1916 at Ft. Sam Houston, Texas. The Regiment was charged with providing personnel for units serving overseas in France during World War I. After a post war drawdown the regiment was inactivated in 1921 in Texas.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Twenty-one years later, in June 1942, the 16th Cavalry was reactivated at Camp Forrest, Tennessee, as a mechanized unit. To increase flexibility in the assignment of mechanized units, the regiment was broken up into Headquarters and Headquarters Troop, 16th Cavalry Group and the 16th and 19th Cavalry Reconnaissance Squadrons. All three units were assigned to defend the coastal areas of Maine, Massachusetts, and Rhode Island. In November 1944, these units sailed overseas aboard the Queen Elizabeth. After training in the United Kingdom, they landed in France in February 1945, marched across the French countryside, and crossed the border into Germany at the village of Pearl.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As part of the 316th Provisional Cavalry Brigade, the 16th and 19th Cavalry joined the Third Army's drive to end enemy resistance in the Palatinate. Entering combat near Waldrach in March, the units engaged in reconnaissance missions for the XII and XX Corps across the Rhine near Wiesbaden and up the autobahn to Kassel. After the fighting ceased, the group and the two squadrons performed occupation duty in the Cologne area. Several months later, the squadrons returned to the United States where they were inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In May 1946, new troops were added to the Headquarters and Headquarters Troop, 16th Cavalry Group, which became the 16th Constabulary Squadron. The squadron was then inactivated in West Germany in 1950. In 1951, Headquarters and Headquarters Troop, 16th Constabulary Squadron, became Headquarters and Headquarters Company, 16th Armored Cavalry Group, and was inactivated at Camp Cooke, California. It was redesignated as the 16th Armored Group in 1953. In 1957, the 16th Cavalry was designated as a parent regiment under the Combat Arms Regimental System, and its former troops were withdrawn from the 16th Armored Group to become elements of the regiment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1963, the 16th Cavalry was redesignated as the 16th Armor. D Company, 16th Armor was the only active duty unit of the 16th Armor. The company served as one of the subordinate units of the 173rd Separate Airborne Brigade during hostilities in Vietnam from 1963-69. D/16th Armor provided the anti-tank protection for the 173rd Bde. This was the only airborne tank unit at the time as well as the only separate Tank Company in the history of the army. The company was equipped with '"Scorpions" which were air droppable Armored Personnel Carriers that were equipped with high velocity 9Omm guns. From 1963 through 1969 D/16th Armor served in every campaign which the 173rd Airborne Bde fought in. During its service in Vietnam D/16th Armor is credited with 16 Vietnam Campaign streamers as well as earning the Meritorious Commendation Medal for its valorous service. In 1969, 16th Armor reverted to the designation of 16th Cavalry and was inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 25 March, 1987, the 16th Cavalry was withdrawn from the Combat Arms Regimental System, reorganized under the U.S. Army Regimental System and transferred to the U.S. Army Training And Doctrine command as a parent regiment for training units at Ft. Knox where the 6th Squadron was posted.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In April 1993, the regiment was reactivated as the Training and Training Support unit for all leader training conducted at the U.S. Army Armor School, Ft. Knox.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Observer/Controller (OC) Team trains selected ground combat units in virtual (SIMNET), constructive (JANUS and BBS), and live (MUCTS) environments to increase tactical proficiency at platoon through brigade level; and supports Armor School Program of Instruction collective training exercises.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/16cav-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Strike Hard"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-16cav.htm</Url>
+    <NameNode>1st Squadron - 16th Cavalry Regiment
+"Warriors First"</NameNode>
+    <FullName>1st Squadron - 16th Cavalry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-16cav-org-s.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/16cav.htm</Url>
+        <Id>army/16cav.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>16th Cavalry</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Alpha Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Foxtrot Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Golf Troop</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>87 M1A1 Abrams</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>36 M1A2 Abrams</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>11 M3</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>9 M3A2</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>5 M113A2</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>72 HMMWV</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/16cav/documents/squadron1/index.htm</href>
+            <text>1st Squadron - 16th Cavalry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Squadron - 16th Cavalry Regiment
+&lt;br&gt;"Warriors First"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Squadron, 16th Cavalry Regiment, provides personnel, equipment and SME Support to the Armor School, while also maintaining individual soldier readiness and MOS proficiency.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-16cav-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/16cav.htm</href>
+        <text>16th Cavalry</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Warriors First"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-16cav.htm</Url>
+    <NameNode>2nd Squadron - 16th Cavalry Regiment</NameNode>
+    <FullName>2nd Squadron - 16th Cavalry Regiment</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/16cav.htm</Url>
+        <Id>army/16cav.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>16th Cavalry</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Hawk Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>India Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Killer Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Lightning Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Maverick Troop</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/16cav/documents/squadron2/index.htm</href>
+            <text>2nd Squadron - 16th Cavalry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Squadron - 16th Cavalry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Squadron 16th Cavalry Regiment trains Armor Officers to be adaptive, self-confident leaders of tank platoons; trains tank master gunners and conducts new equipment training for the armor force. On order, the unit trains mobilization POIs.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/16cav.htm</href>
+        <text>16th Cavalry</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/3-16cav.htm</Url>
+    <NameNode>3rd Squadron - 16th Cavalry Regiment</NameNode>
+    <FullName>3rd Squadron - 16th Cavalry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/3-16cav.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Knox</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/16cav.htm</Url>
+        <Id>army/16cav.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>16th Cavalry</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>N Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>O Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>P Troop</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Q Troop</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Knox, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://knox-www.army.mil/school/16cav/documents/squadron3/index.htm</href>
+            <text>3rd Squadron - 16th Cavalry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>3rd Squadron - 16th Cavalry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/3-16cav.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 3rd Squadron, 16th Cavalry Regiment trains and professionally develops adaptive, self confident combined arms leaders to command and perform Battle Command tasks in a full spectrum environment in an Army transforming to an Interim and Objective Force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/3-16cav-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaas.htm</href>
+        <text>Armor School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/16cav.htm</href>
+        <text>16th Cavalry</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

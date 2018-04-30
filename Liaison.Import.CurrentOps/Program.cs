@@ -158,51 +158,51 @@ namespace Liaison.Import.CurrentOps
         {
             if (componentNode.InnerHtml.Contains("U.S. Army (AC)") || componentNode.InnerHtml.Contains("<dd>U.S. Army</dd>") || componentNode.InnerHtml.Contains("<dd>APS</dd>"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Army;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Army;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Active;
             }
             else if (componentNode.InnerHtml.Contains("USAF (AC)"))
             {
-                obj.UnitService = Helper.Enumerators.Services.AirForce;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+                obj.UnitService = Helper.Enumerators.ServicesBll.AirForce;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Active;
             }
             else if (componentNode.InnerHtml.Contains("USAR"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Army;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Reserve;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Army;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Reserve;
             }
             else if (componentNode.InnerHtml.Contains("ARNG"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Army;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Volunteer;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Army;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Volunteer;
                 obj.UnitNGState = componentNode.ChildNodes.Where(n => n.Name == "dd").FirstOrDefault().InnerText.Substring(0, 2);
                 // do the state as well, eg OK from OK ARNG
             }
             else if (componentNode.InnerHtml.Contains("ANG"))
             {
-                obj.UnitService = Helper.Enumerators.Services.AirForce;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Volunteer;
+                obj.UnitService = Helper.Enumerators.ServicesBll.AirForce;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Volunteer;
                 obj.UnitNGState = componentNode.ChildNodes.Where(n => n.Name == "dd").FirstOrDefault().InnerText.Substring(0, 2);
             }
             else if (componentNode.InnerHtml.Contains("U.S. (Joint)"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Joint;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Joint;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Active;
             }
             else if (componentNode.InnerHtml.Contains("USN (AC)"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Navy;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Navy;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Active;
             }
             else if (componentNode.InnerHtml.Contains("USMC"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Marines;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Marines;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Active;
             }
             else if (componentNode.InnerHtml.Contains("USNR"))
             {
-                obj.UnitService = Helper.Enumerators.Services.Navy;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Reserve;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Navy;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Reserve;
             }
             else
             {

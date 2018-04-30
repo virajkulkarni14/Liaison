@@ -1,20 +1,41 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Liaison.Helper.Enumerators
 {
-    public enum Services
+    [SuppressMessage("ReSharper", "InconsistentNaming")]
+    public enum UnitRankSorter
     {
-        Unknown,
-        Navy,
-        Army,
-        AirForce,
-        Marines,
-        Joint
+        Detachment = '?',
+        XXXXXXX = '"',
+        XXXXXX = '$',
+        XXXXX = '%',
+        XXXX = '&',
+        XXX = '(',
+        XX = ')',
+        X = '*',
+        III = '/',
+        II = '@',
+        I = '|',
+        ooo = '¦',
+        oo = '+'
+    }
 
+
+    public enum ServicesBll
+    {
+        Unknown = 0,
+        Navy = 1,
+        Army = 2,
+        AirForce = 3,
+        Marines = 4,
+        CoastGuard = 6,
+        FleetAuxiliary = 7,
+        Joint = 8,
     }
     public enum UnitType
     {
@@ -37,16 +58,17 @@ namespace Liaison.Helper.Enumerators
         Alligned,
         Assigned,
         ADCON,
-        OPCON
+        OPCON,
+        PartOf,
     }
-    public enum ServiceType
+    public enum ServiceTypeBLL
     {
         Unknown,
-        Active,
-        AC_RC,
-        Reserve,//B. Army Reserve, US Army Reserve
-        Volunteer, // TA, ANG
-        StateVolunteer, // Local Defence
+        Active=1,
+        AC_RC=2,
+        Reserve=3,//B. Army Reserve, US Army Reserve
+        Volunteer=4, // TA, ANG
+        StateVolunteer=5, // Local Defence
     }
     public enum ShortFormType
     {

@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/aawo.htm</Url>
+    <NameNode>Army Asymmetric Warfare Office (AAWO)</NameNode>
+    <FullName>Army Asymmetric Warfare Office (AAWO)</FullName>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army//military/agency/dod/jieddo.htm</Url>
+        <Id>/army//military/agency/dod/jieddo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>JIEDDO</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/awg.htm</Url>
+        <FullName>Asymmetric Warfare Group</FullName>
+        <Name>Asymmetric Warfare Group</Name>
+        <Id>army/awg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army//military/agency/dod/jieddo.htm</href>
+        <h3>JIEDDO</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/awg.htm</href>
+            <text>Asymmetric Warfare Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Rapid Equipping Force</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Army Asymmetric Warfare Office (AAWO)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the Army Asymmetric Warfare Office (AAWO) is to rapidly organize, train, and equip Army formations with the inherent ability to apply and defeat asymmetric threats while simultaneously changing the culture of our Army to a more mentally agile and adaptive force, emphasizing a “how to think” rather than “what to think” focus.  The AAWO develops the Army’s service-specific broad perspective and policy/planning efforts in asymmetric warfare.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Department of Defense Directive 2000.19E, dated January 2006, established the Joint Improvised Explosive Device (IED) Defeat Organization (JIEDDO), which absorbed the Army IED Task Force.  Headquarters, Department of the Army Executive Order 158-06, dated May 2006, directed the establishment of an Army Asymmetric Warfare Office to centralize all IED functions, as well as force protection, information operations, electronic warfare support, asymmetric warfare policy and related program management.  As a result, the Army established the AAWO as both its service component representative to JIEDDO and a single Army Staff focal point for all asymmetric warfare to include IED policies, programs and resources.  This link was intended to function both in regards to the existing counter-IED (C-IED fight to fight fight future IED threats.  The AAWO was initially a major component of the Army Staff's Directorate for Operations, Readiness and Mobilization (G-33).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When it was created, the AAWO consisted of 5 Divisions: Improvised Explosive Device-Defeat; Electronic Warfare; Force Protection; Operations and Intelligence Integration; and Plans.  In addition 2 pre-existing organizations were subordinated to it, the Rapid Equipping Force (REF) and the Asymmetric Warfare Group (AWG).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Adaptive Networks, Threats and Solutions Division (IEDD) coordinated all service IED-Defeat actions and championed all Army IED Defeat initiatives.  It provided oversight and management of the Explosive Ordnance Disposal Program to support Army strategic and operational requirements.  The Electronic Warfare Division (EW) worked to establish electronic warfare as a core warfighting capability within the Army, enabling the Army’s ability to fight in a Joint environment with capabilities commensurate with other services.  EW trained soldiers at all ranks and at all tiers in electronic warfare skills.  The Protection Division (FP) directly managed Army protection policy; Headquarters, Department of the Army continuity of operations; installation preparedness/emergency management and critical infrastructure risk management programs to protect soldiers, civilians, their families, infrastructure, and information from all hazards.  The Operations and Intelligence Integration Division (O &amp;amp; I) gathered and monitored both friendly and enemy tactics, techniques and procedures to integrate asymmetric threats and responses that enable the AAWO to help organize, train and equip Army formations that can defeat asymmetric threats while simultaneously changing the culture of our Army to a more mentally agile and adaptive force.  The Plans Division addressed asymmetric threat evolution affecting the employment and long-term shaping of Army forces.  It communicated the Army (and the AAWO) asymmetric warfare vision and goals and assisted in shaping the Army force structure to meet existing and future asymmetric warfare requirements.  It also managed strategic communications, public affairs, and legislative liaison efforts within the AAWO.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Army Vice Chief of Staff subsequently made a decision directing the reassignment of the AWG to the 20th Support Command.  In 2008, the decision was made to have the Electronic Warfare Division report directly to the G-33, thought it remained closely linked with AAWO's operations and objectives.  The IEDD and FP divisions were also retitled.  IEDD became Adaptive Networks, Threats and Solutions (ANTS) and Force Protection became the Protection Division (PD).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The US Army Training and Doctrine Command (TRADOC) took over Asymmetric Warfare Office (AAWO) and the Fort Meade, Maryland-based Asymmetric Warfare Group on 11 November 2011.  TRADOC was tasked with refashioning the office into a smaller outfit that could be expanded for use in future conflicts.  The transition marked the end of AWG's existence as a so-called field operating agency attached to the Army headquarters staff.  Then-Army Secretary Francis Harvey created the group in 2006, primarily to help combat improvised explosive devices in the Iraq and Afghanistan wars.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Part of that restructuring plan would involve determining the group's relevancy in the "future operational environment," and putting in place a mechanism that allowed for the rapid restoration of the full capabilities in the case of future conflicts with an asymmetric slant.  Also required was an assessment on how best to retain an "action arm" for working with combatant commanders and keeping training and rapid-capability development channels operational.  The AWG's focus included counter-IED activities, particularly in the intelligence arena, as well as information operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/awg.htm</Url>
+    <NameNode>Asymmetric Warfare Group (AWG)
+"Think. Adapt. Anticipate."</NameNode>
+    <FullName>Asymmetric Warfare Group (AWG)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/awg.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Meade</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MD</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-meade.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/aawo.htm</Url>
+        <Id>army/aawo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Asymmetric Warfare Office</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Squadron (Tactical Operations)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Squadron (Technical Operations)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Squadron (Selections and Training)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Squadron (Concepts Integration)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-meade.htm</href>
+            <text>Fort Meade, MD</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.awg.army.mil/</href>
+            <text>Asymmetric Warfare Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Asymmetric Warfare Group (AWG)&lt;br&gt;
+"Think. Adapt. Anticipate."</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/awg.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the Asymmetric Warfare Group (AWG) is to provide observation, analysis, training, and advisory support to Army and Joint Force unit's in order to enhance their capabilities to predict, mitigate, counter, and defeat asymmetric threats and methods.  The AWG is designed to improve the asymmetric warfare capabilities of the US Army at the operational and tactical levels throughout the full spectrum of conflict.  The AWG enhances the capabilities of US units by making them faster and more adept at identifying and attacking enemy vulnerabilities, and by preparing them for a broader spectrum of threats.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The shoulder sleeve insignia, approved on 16 October 2006 consists of a black circular device edged with a black border, with a red horizontal arrow, pointing to the left.  The circle represents the AWG's worldwide operations.  Black denotes the unknown nature of future threats.  The arrow alludes to the archer who took the battlefield from 2 to 3 dimensions in early warfare.  It also signifies the Indian Wars, one of the first asymmetric threats the United States Army faced.  Red symbolizes aggressive action.  The position of the arrow, pointing forward when worn on the uniform sleeve, suggests forward vision, thinking, and action.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/awg-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The distinctive unit insignia, approved on 16 October 2006, consists of a circular gold metal and enamel device consisting of a black circle surmounted in the center by a Native American symbol for coyote track, 4 rectangles in a cross-shaped position.  The black circle represents the unknown future threats of the world.  The coyote track symbolizes cunning and resourcefulness.  Legend suggests the coyote tricked the learner into the lesson, giving the notion that things are not as they seem, until the lesson is completed and the wisdom gained.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The US Army announced the decision to create the Asymmetric Warfare Group in late 2004, at which time it was referred to as the Asymmetric Warfare Regiment.  The Army began actively forming the unit in 2005, and the unit was formally activated in 2006 as a part of the Army Asymmetric Warfare Office, the Army Vice Chief of Staff subsequently directed the reassignment of the AWG to the 20th Support Command (CBRNE).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of September 2008, consisted of a Headquarters and Headquarters Detachment and 4 squadrons.  A and B Squadrons were operational squadrons, tactical and technical respectively.  These elements supported tactical, operations, and theater units  with deployed advisory teams.  C Squadron was the unit's selection and training element, handling training and assessment of AWG members, as well as providing linkages to service and joint training entities.  D Squadron was responsible for concepts integration, including the identification, development, and integration of countermeasure tactics, techniques, and procedures, as well as technologies.  The unit also deployed liaison teams to geographical combatant commands and maintained a Asymmetric Warfare Action Center (the unit's S2/S3) to provide fused operational and intelligence support to deployed AWG teams.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By 2009, the unit had been designated as a special mission unit within the Army G-3/5/7, which continued to report through 20th Support Command, that provides operational advisory assistance to Army and Joint Force commanders, prior to and during unit deployments.  The AWG also served as a change agent that provided key observations and advice to senior leaders on policy and resource decisions.  The AWG consisted of soldiers, Department of the Army Civilians, and contractors, and had an authorized strength of 377 personnel as of 2009.  Every member of the AWG was carefully selected for his or her unique attributes and operational experience using a nominative process and modified personnel management procedures.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As the AWG reached full operational capacity in September 2009, the Army expected to continue deploying AWG teams globally to assist in the transformation of Army units, enabling faster identification and targeting of enemy vulnerabilities.  This would enhance the combat effectiveness of the operating force and enable the defeat of asymmetric threats in this era of persistent conflict.  AWG teams deployed and sustained its forces worldwide to observe, assess, and analyze information about the evolving contemporary operating environment to include emerging asymmetric threats and effective countermeasures.  These observations were then assessed and disseminated through globally-postured advisory assistance elements in support of Army and Joint Force commanders.  The AWG also directly informed institutional Army elements to enhance their ability to meet the requirements of the existing and future operating environments.  From this vantage point, the AWG was able to mitigate operational and tactical near-term risk by anticipating emerging and future asymmetric threats and enabling capability gap solution development.  The AWG further assisted in the identification, development, integration, and transition of materiel and non-materiel solutions for both offensive and defensive countermeasures to emerging asymmetric threats through the Rapid Equipping Force's direct support relationship with the AWG.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The US Army Training and Doctrine Command (TRADOC) took over Asymmetric Warfare Office (AAWO) and the Fort Meade, Maryland-based Asymmetric Warfare Group on 11 November 2011.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/aawo.htm</href>
+        <text>Asymmetric Warfare Office</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Think. Adapt. Anticipate."</NickName>
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

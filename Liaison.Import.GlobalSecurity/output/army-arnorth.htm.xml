@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arnorth.htm</Url>
+    <NameNode>US Army North (USARNORTH)
+Fifth US Army</NameNode>
+    <FullName>US Army North (USARNORTH); Fifth US Army</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usarnorth.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Sam Houston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-sam-houston.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army//military/agency/dod/northcom.htm</Url>
+        <Id>/army//military/agency/dod/northcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>NORTHCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/5army.htm</Url>
+        <Id>/army/5army.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Fifth US Army</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/263ada-bde.htm</Url>
+        <FullName>263rd Air and Missile Defense Command</FullName>
+        <Name>263rd Air and Missile Defense Command</Name>
+        <Id>army/263ada-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/63avn-grp.htm</Url>
+        <FullName>63rd Aviation Brigade</FullName>
+        <Name>63rd Aviation Brigade</Name>
+        <Id>army/63avn-grp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/167tsc.htm</Url>
+        <FullName>167th Theater Sustainment Command</FullName>
+        <Name>167th Theater Sustainment Command</Name>
+        <Id>army/167tsc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/dod/jtf-cs.htm</Url>
+        <FullName>JTF Civil Support</FullName>
+        <Name>JTF Civil Support</Name>
+        <Id>dod/jtf-cs.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/dod/jtf-6.htm</Url>
+        <FullName>JTF North</FullName>
+        <Name>JTF North</Name>
+        <Id>dod/jtf-6.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army//military/agency/dod/northcom.htm</href>
+        <h3>NORTHCOM</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/5army.htm</href>
+        <h3>Fifth US Army</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/263ada-bde.htm</href>
+            <text>263rd Air and Missile Defense Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/63avn-grp.htm</href>
+            <text>63rd Aviation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/167tsc.htm</href>
+            <text>167th Theater Sustainment Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>JTF 51</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/dod/jtf-cs.htm</href>
+            <text>JTF Civil Support</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/dod/jtf-6.htm</href>
+            <text>JTF North</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Civil Support Training Activity</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-sam-houston.htm</href>
+            <text>Fort Sam Houston, TX</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.arnorth.army.mil/</href>
+            <text>US Army North</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>US Army North Lineage and Honors @ CMH</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/263ada-bde.htm</Url>
+    <NameNode>263rd Army Air and Missile Defense Command
+263rd Army Air &amp;amp; Missile Defense Artillery Brigade
+263rd Air Defense Artillery Brigade</NameNode>
+    <FullName>263rd Army Air and Missile Defense Command; 263rd Army Air &amp;amp; Missile Defense Artillery Brigade; 263rd Air Defense Artillery Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-263ada.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Anderson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-sc.htm</Url>
+        <Id>/army/arng-sc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>South Carolina National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>South Carolina</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-sc.htm</href>
+        <h3>South Carolina National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1-263 ADA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2-263 ADA (Avenger)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1-151 AVN (AH-64/UH-60)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Anderson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>263rd AAMDC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.scguard.com/arng/263ada/default.htm</href>
+            <text>263rd ADA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/63avn-grp.htm</Url>
+    <NameNode />
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/63avn-grp.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Frankfort</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ky.htm</Url>
+        <Id>/army/arng-ky.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Kentucky National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Kentucky</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ky.htm</href>
+        <h3>Kentucky National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>F Co, 135th AVN (AVIM)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Co, 1st Battalion, 114th AVN (UH-60)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 3, H Co, 171st AVN (C-23)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 11, Operations Support Airlift</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Reconnaissance and Interdiction Det</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/wartrace.htm</href>
+        <h3>Gained Units [ARNG/USAR]</h3>
+        <li>
+          <li>
+            <text>1-106 AVN [IL ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1-244 AVN [LA ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2-135 AVN [CO ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3-142 AVN [MO ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3-149 AVN [TX ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>UH-60</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C-23</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Reportedly C-12F</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Frankfort, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>63rd Aviation Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>63rd Aviation Group</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/63avn-grp.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The III Corps Aviation Brigade, 6th Aviation Brigade, consists of the 63d Aviation Group (Lift) and the 385th Aviation Group (Attack). The 63d Aviation Group (Lift) is composed of one command aviation battalion, one general support aviation battalion, one assault helicopter battalion, one light utility helicopter battalion, and one air traffic service battalion from the ARNG.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Personnel from the 63rd Aviation Group deployed to the Esmereldas province along Ecuador's northern coast, in 1998, as part of United States Southern Command exercise "Neuvos Horizontes '98".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/167tsc.htm</Url>
+    <NameNode>167th Theater Support Command</NameNode>
+    <FullName>167th Theater Support Command</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/167-tsc-02.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Birmingham</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq />
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC 167th Theater Spt Cmd</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>HHC 122th Spt Gp Selma</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>HSC 161st Area Spt Med Bn Mobile</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>167th Materiel Management Center</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>226th Area Support Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>HHD 1103rd Spt Bn (Corps) Eufaula</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Birmingham</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>167th Theater Support Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/dod/jtf-cs.htm</Url>
+    <NameNode>Joint Task Force Civil Support</NameNode>
+    <FullName>Joint Task Force Civil Support</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/dod/images/jtf-cs.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Monroe</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/dod/../dod/northcom.htm</Url>
+        <Id>/dod/../dod/northcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Northern Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/dod/../dod/northcom.htm</href>
+        <h3>Northern Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Monroe, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Joint Task Force Civil Support</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/dod/jtf-6.htm</Url>
+    <NameNode>Joint Task Force North (JTF North)
+Joint Task Force Six (JTF-6)</NameNode>
+    <FullName>Joint Task Force North (JTF North)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/dod/images/jtf-north.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Biggs Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/biggs.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Bliss</BaseName>
+        <Deployment>false</Deployment>
+        <Location>TX</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-bliss.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Joint</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>Joint Task Force Six (JTF-6)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/biggs.htm</href>
+            <text>Biggs Army Airfield, TX</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-bliss.htm</href>
+            <text>Fort Bliss, TX</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jtfn.northcom.mil/default.htm</href>
+            <text>Joint Task Force North</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Joint Task Force North (JTF North)&lt;br&gt;
+&lt;strike&gt;Joint Task Force Six (JTF-6)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/dod/images/jtf-north.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Joint Task Force North (JTF North), based at Fort Bliss, Texas, is a joint service command comprised of active duty and reserve component Soldiers, Sailors, Airmen, Marines, Coast Guardsmen, Department of Defense civilian employees, and contracted support personnel.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>JTF North is the Department of Defense organization tasked to support the nation's federal law enforcement agencies in the identification and interdiction of suspected transnational threats within and along the approaches to the continental United States.  Transnational threats are those activities that involve international terrorism, narcotrafficking, alien smuggling, weapons of mass destruction, and includes the delivery systems for such weapons that threaten the national security of the United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>JTF North supports drug law enforcement Agencies in the conduct of counter drug/counter narco-terrorism operations in the US Northern Command (USNORTHCOM) area of responsibility to disrupt trans-national criminal organizations and deter their freedom of action in order to protect the homeland.  JTF North is assigned to USNORTHCOM and is under the operational control of US Army North's (USARNORTH) Joint Force Land Component Command (JFLCC).  JTF North operates within the entire USNORTHCOM area of responsibility, which encompasses the entire North American continent, to include the air, land and sea approaches.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/dod/images/jtf-6.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In response to President George H.W. Bush's declaration of the "War on Drugs," General Colin Powell, then Commanding General of the US Army's Forces Command, issued the order on 13 November 1989, that established Joint Task Force Six (JTF-6) at Fort Bliss, Texas, following an annoucement by the Secretary of Defense.  JTF-6 was established to serve as the planning and coordinating operational headquarters to support local, state, and federal law enforcement agencies within the Southwest border region to counter the flow of illegal drugs into the United States.  JTF-6 was headquartered at Biggs Army Airfield, Fort Bliss, Texas.  JTF-6's efforts led to both a greater recognition of the potential for military assistance in counterdrug efforts and a significant expansion of the partnership among active duty forces, reserve components, and the nation's law enforcement agencies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>JTF-6's original area of operations consisted of the 4 border states of California, Arizona, New Mexico and Texas, a land area of more than 660,000 square miles.  In February 1995, by directive of the Commanding General of U.S. Army Forces Command, JTF-6's area of responsibility was expanded to include the entire continental United States, Puerto Rico and the Virgin Islands.  In June 1997, responsibility for Puerto Rico and the US Virgin Islands was transferred to US Southern Command.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the redesignation of USACOM to US Joint Force Command (USJFCOM) in 1999, JTF-6 became the USJFCOM component that provided Department of Defense counterdrug support to federal, regional, state and local law enforcement agencies throughout the continental United States.  Military support was designed to assist law enforcement in their mission to detect, deter, disrupt, and dismantle illegal drug trafficking organizations.  All military support to counterdrug operations was based on a valid support request from a law enforcement agency.  JTF-6 provided counterdrug support to the lead law enforcement agency in 3 categories: operational, training, and intelligence.  JTF-6 served as a force multiplier to law enforcement agencies with the potential to enhance law enforcement agency effectiveness or to release law enforcement agency resources to focus on interdiction/seizure actions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>JTF-6 ensured that all counterdrug support missions offered significant and focused training value to the participating military units.  The counterdrug support missions provided a tremendous opportunity to enhance individual skills and accomplish unit tactical training.  In a single counterdrug operation, volunteer units typically trained on at least 90 percent of their wartime tasks.  JTF-6 funded all mission costs, to include travel, strategic airlift, and other associated mission costs.  JTF-6 was also able to pay flying hour costs for active Army units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Between its inception in 1989 and 2000, JTF-6 completed some 5,000 missions in support of more than 430 federal, regional, state, and local law enforcement agencies and counterdrug task forces.  On 17 April 2002, Defense officials announced changes in the Unified Command Plan and USNORTHCOM took over the homeland defense role from USJFCOM.  As a result JTF-6 was realigned with USNORTHCOM.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In a ceremony conducted on 28 September 2004, JTF-6 was officially renamed Joint Task Force North (JTF North) and its mission was expanded to include providing homeland security support to the nation's federal law enforcement agencies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

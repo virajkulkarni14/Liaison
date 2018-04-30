@@ -1,0 +1,938 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaqmcs.htm</Url>
+    <NameNode>US Army Quartermaster Center &amp; School</NameNode>
+    <FullName>US Army Quartermaster Center &amp; School</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usaqmcs.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/cascom.htm</Url>
+        <Id>army/cascom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>CASCOM</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</Url>
+        <FullName>23rd Quartermaster Brigade
+Petroleum &amp; Water Department</FullName>
+        <Name>23rd Quartermaster Brigade
+Petroleum &amp; Water Department</Name>
+        <Id>army/23qm-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</href>
+            <text>23rd Quartermaster Brigade
+Petroleum &amp; Water Department</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.quartermaster.army.mil/</href>
+            <text>US Army Quartermaster Center &amp; School</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Quartermaster Center &amp; School</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/usaqmcs.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/usaqmcs-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/usaqmcs-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/cascom.htm</href>
+        <text>CASCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</Url>
+    <NameNode>23rd Quartermaster Brigade</NameNode>
+    <FullName>23rd Quartermaster Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/23qm-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaqmcs.htm</Url>
+        <Id>army/usaqmcs.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Quartermaster Center &amp;amp; School</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/244qm.htm</Url>
+        <FullName>244th QM Bn</FullName>
+        <Name>244th QM Bn</Name>
+        <Id>army/244qm.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/262qm.htm</Url>
+        <FullName>262nd QM Bn</FullName>
+        <Name>262nd QM Bn</Name>
+        <Id>army/262qm.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/266qm.htm</Url>
+        <FullName>266th QM Bn</FullName>
+        <Name>266th QM Bn</Name>
+        <Id>army/266qm.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/244qm.htm</href>
+            <text>244th QM Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/262qm.htm</href>
+            <text>262nd QM Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/266qm.htm</href>
+            <text>266th QM Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Marine Corps Det</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.quartermaster.army.mil/23rdbde/</href>
+            <text>23rd Quartermaster Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>23rd Quartermaster Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/23qm-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 23rd Quartermaster Brigade trains over 23,000 students annually, consisting of officers, warrant officers, NCOs, and enlisted personnel from the Army, Navy, Air Force, and Marines, as well as foreign countries.  The Brigade enforces high standards of training and discipline; produces Quartermaster soldiers of character who are physically fit, technically competent, highly disciplined, full of pride and have a warrior spirit; prepares soldiers, marines and leaders to sustain U.S. Forces in peace and in war.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of HHC, 23rd Quartermaster Brigade, is to provide command, control, administration, and logistical support for soldiers assigned to the Command Group, Brigade Staff, AIT Graduate Holdovers Quartermaster School and Noncommissioned Officers Academy (NCOA), operate the Brigade consolidated arms room, and provide internal and external support to the 23rd Quartermaster Brigade. Provide administrative support, nonjudicial, and personnel service to the NCOA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 266th Quartermaster Battalion commands and controls four AIT companies. It provides training for soldiers in MOS training for unit supply and food service specialists for active and reserve components.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 262nd Quartermaster Battalion trains and provides support to soldiers in three AIT Training Departments: Petroleum and Water Department, Aerial Delivery and Field Services Department, and the Mortuary Affairs Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 244th Quartermaster Battalion trains and provides support to four Advanced Individual Training companies: Alpha, Golf, and Whiskey are composed of soldiers training in the use of automated logistics systems and in warehouse operations, and Mike whose soldiers train in the field of unit supply. The Battalion also provides command and control to Echo Company. Echo Company is responsible for officers attending the basic and functional courses.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Marine Corps Detachment provides command, control, administrative and logistical support for a school detachment. Provide leadership, motivation and reinforcement of marine standards to enable marine students to reach the fleet MOS trained and eager for new challenges.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 23ed Quartermaster Brigade was first constituted as the 23ed Quartermaster Truck Regiment (Truck Corps) on May 1, 1936.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The brigade transitions soldiers from Basic Combat Training into the Advanced Individual Training (AIT) environment and graduates technically and tactically competent active and reserve component Quartermaster soldiers and Marines.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Soldiers participate in a five-day, multi-echelon field training exercise scenario, "Log Warrior," with a battle focus on military occupational specialty technical and survivability skill reinforcement training which is a major highlight to compliment their classroom experience.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Also, the brigade's permanent party soldiers are required to be technically, tactically, and administratively prepared for deployment. The brigade consists of three battalions and a Marine Corps Detachment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The brigade trains and provides command and control over a diversified force of approximately 13,000 soldiers annually.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The average brigade strength is 3,900 soldiers who are undergoing training in 10 MOSs, two warrant officer training programs, international students and the Quartermaster Officer Basic Course and the Quartermaster portion of the Combined Logistics Captains' Career Course.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The distinctive unit insignia was approved on 27 Apr 1987. The colors buff and blue have been adapted from the Quartermaster School device and are traditionally associated with the Corps. The parchment alludes to matriculation, achievement and the unit's mission. The diagonal blue bar, book and lamp of knowledge have been adapted from the Quartermaster School device. The crossed sword and key superimposed by a wheel are adapted from the Quartermaster Regimental insignia. The laurel is symbolic of achievement and high ideals: the three cords represent the commendable qualities of courage, skill and strength and reflect the history of the unit. The wheel, with twenty-three spokes exposed, refers to the designation of the unit and its logistics heritage.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/cascom.htm</href>
+        <text>CASCOM</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaqmcs.htm</href>
+        <text>Quartermaster Center &amp;amp; School</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/244qm.htm</Url>
+    <NameNode>244th Quartermaster Battalion</NameNode>
+    <FullName>244th Quartermaster Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/244qm.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</Url>
+        <Id>army/23qm-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>23rd QM Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Alpha Co "Gators"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Co "Providing Leadership"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Golf Co "G-Force"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Mike Co "Wolfpack"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Whiskey Co "Whiskey Warriors"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Logistics Training Dept</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.quartermaster.army.mil/23rdbde/244_command_grp.html</href>
+            <text>244th Quartermaster Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>244th Quartermaster Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/244qm.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 244th Quartermaster Battalion trains and provides support to four Advanced Individual Training companies: Alpha, Golf, and Whiskey are composed of soldiers training in the use of automated logistics systems and in warehouse operations, and Mike whose soldiers train in the field of unit supply.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion also provides command and control to Echo Company. Echo Company is responsible for officers attending the basic and functional courses.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Alpha Company has the responsibility of training soldiers in the Military Occupational Specialty of 92A, Automated Logistics Specialist. Alpha Company consists of ten permanent party soldiers and averages 200 soldiers in training. Alpha Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Echo Company is responsible for the training of officers attending the Officer Basic Course and functional courses.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Golf Company has the responsibility of training soldiers in the Military Occupational Specialty of 92A, Automated Logistics Specialist. Golf Company consists of ten permanent party soldiers and averages 200 soldiers in training. Golf Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/244qm-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Mike Company has the responsibility of training soldiers in the Military Occupational Specialty of 92Y, Unit Supply Specialist. Mike Company consists of ten permanent party soldiers and averages 250 soldiers in training. Mike Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Whiskey Company has the responsibility of training soldiers in the Military Occupational Specialty of 92A, Automated Logistics Specialist. Whiskey Company consists of ten permanent party soldiers and averages 200 soldiers in training. Whiskey Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 244th Quartermaster Battalion was constituted on 12 January 1942 as the 144th Quartermaster Service Battalion and formally activated at Camp Shelby, Mississippi, on 25 January 1942 in preparation for overseas duty.  The 244th Quartermaster Service Battalion was organized around four Quartermaster Service companies (3262, 3263, 3264, and the 3265).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During World War II, the 244th Quartermaster Service Battalion participated in three battle campaigns, Normandy, Northern France, and Central Europe.  As a result of the battalion's outstanding combat service during World War II, it was awarded the European Theater Meritorious Unit Commendation Streamer and the French Croix de Guerre with Palm and Streamer embroidered Normandy.   The 244th Quartermaster Service Battalion was inactivated on 18 September 1946 in Germany, following World War II.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 8 November 1961, the battalion was redesigned the 244th Quartermaster Battalion and reactivated at Fort Lee, Virginia.   In 1962 the battalion was inactivated at Fort Lee and was reactivated at Fort Campbell, Kentucky, on 24 June 1963.  On 17 June 1965, the 244th Quartermaster Battalion was deactivated and two direct support Quartermaster companies (the 624th and 625th Quartermaster Companies) were formed.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 12 February 1987, the 244th Quartermaster Battalion was again activated at Fort Lee, Virginia to join the 23d Quartermaster Brigade under the Regimental System.  the 244th Quartermaster Battalion assumed the former composite/training mission of the 4th Battalion, Quartermaster Brigade, upon the 4th Battalion's deactivation.  the battalion was comprised of 7 companies to include QMC, HHC, A, D (NCOA), G, W, and the 392d Army Band.  The Battalion went through several realignments during the period October 1989-December 1990.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaqmcs.htm</href>
+        <text>Quartermaster Center &amp;amp; School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</href>
+        <text>23rd QM Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/262qm.htm</Url>
+    <NameNode>262nd Quartermaster Battalion</NameNode>
+    <FullName>262nd Quartermaster Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/262qm.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</Url>
+        <Id>army/23qm-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>23rd QM Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Co "Charging Charlie"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>India Co "The Big I"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Uniform Co "Mighty Uniform"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Victor Co "Victor On the Move"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Petroleum and Water Dept</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Mortuary Affairs Center</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Aerial Delivery and Field Services Dept</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.quartermaster.army.mil/23rdbde/262_command_grp.html</href>
+            <text>262nd Quartermaster Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>262nd Quartermaster Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/262qm.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 262nd Quartermaster Battalion trains and provides support to soldiers in three AIT Training Departments: Petroleum and Water Department, Aerial Delivery and Field Services Department, and the Mortuary Affairs Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 262d Quartermaster Battalion ensures training to standard for the soldiers who are ready to provide fuel and water to America's Fighting Force. Through excellent leadership and positive command and control, the 262d supports five companies and three training departments responsible for six Quartermaster military occupational specialties (MOSs). Two of the five companies are advanced individual training (AIT) units for these military occupational specialties (MOSs): 77F (Petroleum Supply Specialist), 77L (Petroleum Laboratory Specialist) and 77W (Water Treatment Specialist). Soldiers in these fuel and water MOSs train at the Petroleum and Water Department (PWD), US Army Quartermaster Center and School.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters and Headquarters Company is responsible for providing command, control, logistics, and administrative support to over 190 permanent party soldiers, including the Battalion staff and Army personnel who work in three Training Departments: Aerial Delivery and Field Services Department, the Mortuary Affair Center, and the Petroleum and Water Department. HHC ensures all these personnel are administratively, technically, and tactically prepared for worldwide deployment, and has primary responsibility for maintaining the Log Warrior field exercise training site.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Charlie Company trains soldiers in four Military Occupational Specialties: 92R (Parachute Rigger), 43M (Fabric Repair Specialist), 57E (Laundry and Shower Specialist), and 92M (Mortuary Affairs Specialist). Charlie Company consists of nine cadre members and approximately 150 soldiers in training. Charlie Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>India Company trains soldiers who have prior military service in all ten of the Quartermaster Military Occupational Specialties. India Company also trains soldiers taking short skill courses which do not result in a new specialty. India Company consists of twelve cadre members and approximately 150-350 soldiers in training. All of India Company soldiers are considered permanent party and have permanent party privileges. India Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Uniform Company trains soldiers in two Military Occupational Specialties: 77F (Petroleum Supply Specialist) and 77W (Water Purification Specialist). Uniform Company consists of ten cadre members and approximately 200 soldiers in training. Uniform Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Victor Company trains soldiers in two Military Occupational Specialties: 77F (Petroleum Supply Specialist) and 77L (Petroleum Laboratory Specialist). Victor Company consists of ten cadre members and approximately 200 soldiers in training. Victor Company also ensures that all permanent party are administratively, technically, and tactically prepared for worldwide deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Soldiers in training at Petroleum and Water Department (PWD) are assigned to the battalion's Uniform and Victor Companies. The 262d's drill sergeants are assigned directly to the AIT companies and are qualified in the MOS in which their soldiers are training. Drill sergeants are role models and subject matter experts (SMEs) who lead by example in a positive training environment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The battalion's drill sergeants use three basic components to make sure that AIT students become MOS qualified: academics, physical fitness training, and Army Values. Academics are taught at PWD by noncommissioned officers (NCOs) who are SMEs in their MOSs. The PWD instructors give the 262d drill sergeants weekly academic reports for weekly counseling sessions with their soldiers. Drill sergeants lead physical fitness training with assistance from PWD's NCOs. This "one team, one fight" concept works. Instilling and reinforcing the seven Army Values at every turn is not only the responsibility of the drill sergeants, but also the responsibility of everyone who comes in contact with soldiers in training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In weekly face-to-face counseling, both verbal and written, students identify ways to improve performance. Solutions are planned. Written academic reports and the drill sergeant's assessment of the soldier's overall development in the Army Values system are part of the critical soldierization process. The system, which includes awarding progressive privileges for achievement, keeps soldiers motivated to progress further each week toward the goal of becoming fully MOS qualified.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>At the end of week four, AIT soldiers who meet the criteria for success in all areas are ready for the Rites of Passage Ceremony. This ceremony is the halfway point on the way to becoming a 77 series soldier. Soldiers receive individual Quartermaster Regimental Crests from their company commanders and an official welcome into the Regiment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>At every step, the 262d Battalion's drill sergeants and PWD NCOs work together as a team. These Army professionals provide units with mentally capable, physically fit, highly dedicated and motivated soldiers who are proud to serve. Above all else, these Quartermasters look, think and act like soldiers, always.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/262qm-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 262nd Quartermaster Battalion (Service) was established on 13 March, 1942 and was called to duty on 28 July, 1942, at Camp Pickett, VA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Assigned to the European Theater of Operations in World War II, soldiers of the 22nd arrived in England on August 1943, and spent the next ten months assisting with preparations for the Normandy Invasion.  As D-Day approached, the Battalion joined others of the 1st Engineer Special Brigade adding support to the assault forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 262nd crossed the English Channel on D+4 and continued to provide outstanding support until the fighting ceased.  Its wartime honors for this period include three campaign streamers and a French Croix d Guerre, with Palm showing the Normandy Inscription.  The unit continued operating in France until it was deactivated on 28 May 1946.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 262nd Quartermaster Battalion (Petroleum) was reactivated at Fort Lee, Virginia, on 4 January 1967 in response to the logistics buildup in Vietnam.  After five months of intensive preparation, the unit arrived at Cam Ranh Bay, Republic of Vietnam on 4 June 1967.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>While at Cam Ranh Bay, the unit was responsible for providing support needed to monitor pipeline operations.  They provided limited wholesale distribution of bulk petroleum, surveillance activities, and storage operations throughout Vietnam.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Soldiers of the 262nd Quartermaster Battalion demonstrated great competence during Vietnam by transporting more than 22 million gallons of POL and efficiently operating several Forward Supply Points.  For these and other activities, the Battalion was awarded a Meritorious Unit Citation and ten campaign streamers before being deactivated, in Vietnam, on 13 August 1970.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The motto of the Battalion was "Lifeline to Victory" to indicate that petroleum is the life blood of the combat force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>p</NodeType>
+        <Contents>the distinctive unit insignia was approved on 15 february 1967, consisting of a black enamel liquid globule between two red electric flashes in front quartermaster wheel (blue with thirteen gold stars and spokes) all beneath an arched blue scroll bearing the inscription "life line to victory" letters. symbolizes "petroleum," alludes organization's mission provide storage, distribution quality surveillance petroleum supported units. its (13) spokes are symbolic battalion's heritage also depicts transportation (movements packaged bulk petroleum) battalion. refer service world war ii france germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaqmcs.htm</href>
+        <text>Quartermaster Center &amp;amp; School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</href>
+        <text>23rd QM Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/266qm.htm</Url>
+    <NameNode>266th Quartermaster Battalion</NameNode>
+    <FullName>266th Quartermaster Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/266qm.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</Url>
+        <Id>army/23qm-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>23rd QM Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC "Workhorse"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Lima Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Papa Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Tango Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Center of Excellence, Subsistence</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.quartermaster.army.mil/23rdbde/266_command_grp.html</href>
+            <text>266th Quartermaster Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>266th Quartermaster Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/266qm.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 266th Quartermaster Battalion commands and controls four AIT companies. It provides training for soldiers in MOS training for unit supply and food service specialists for active and reserve components.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 266th Quartermaster Battalion has a long and proud history. The battalion was activated 28 August 1942. It served in North Africa and Italy in a variety of logistical capacities and earned battle honors for participation in the Rome-Arno campaign. The battalion earned its second battle streamer in Southern France before moving into Germany, remaining there until war's end. The 266th was inactivated in Germany on 18 May 1946.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 266th was reactivated on 25 March 1963 and sent to Long Binh, Republic of Vietnam. The battalion spent nearly seven years in Vietnam. The main mission of the battalion was acting as a command and control center for logistical service. The 266th received two Meritorious Unit Commendations and fifteen battle streamers for distinguished service during the Vietnam War. The battalion was inactivated 14 March 1973.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/266qm-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 12 February 1987, the 1st Battalion, United States Army Quartermaster Center and School was redesignated as the 266th Quartermaster Battalion and earned the right to use its motto of "Providers...Training to Support".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The distinctive unit insignia was originally approved for the 266th Quartermaster Battalion on 4 May 1964. It was redesignated on 27 Dec 1966 for the 266th Supply and Service Battalion. The insignia was redesignated and the description amended on 9 Oct 1986 for the 266th Quartermaster Battalion. The insignai consists of the shield and motto of the coat of arms blazoned: Azure, between five bezants a bar wavy Argent cottised potenté Or. Attached below the shield a gold scroll inscribed "THE PROVIDERS" in blue letters.  The wavy bar represents the Rhineland and the gold bars between the five gold roundels are symbolic of direct support of combat troops throughout five campaigns in Italy, France and Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaqmcs.htm</href>
+        <text>Quartermaster Center &amp;amp; School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/23qm-bde.htm</href>
+        <text>23rd QM Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

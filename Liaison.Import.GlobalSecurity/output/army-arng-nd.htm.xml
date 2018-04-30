@@ -1,0 +1,981 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+    <NameNode>North Dakota Army National Guard</NameNode>
+    <FullName>North Dakota Army National Guard</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/arng-nd.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bismarck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/68tc.htm</Url>
+        <FullName>68th Troop Command</FullName>
+        <Name>68th Troop Command</Name>
+        <Id>army/68tc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/34id-eng-bde.htm</Url>
+        <FullName>34th Engineer Brigade</FullName>
+        <Name>34th Engineer Brigade</Name>
+        <Id>army/34id-eng-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-112avn.htm</Url>
+        <FullName>1-112 AVN (LUH) (UH-1)</FullName>
+        <Name>1-112 AVN (LUH) (UH-1)</Name>
+        <Id>army/1-112avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/81wmd-cst.htm</Url>
+        <FullName>81st WMD CST</FullName>
+        <Name>81st WMD CST</Name>
+        <Id>army/81wmd-cst.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>State Area Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/68tc.htm</href>
+            <text>68th Troop Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>164th Engineer Group (Combat)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/34id-eng-bde.htm</href>
+            <text>34th Engineer Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-112avn.htm</href>
+            <text>1-112 AVN (LUH) (UH-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>164th Regiment (RTI) - Devil's Lake</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/81wmd-cst.htm</href>
+            <text>81st WMD CST</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Bismarck, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.guard.bismarck.nd.us/</href>
+            <text>North Dakota Army National Guard</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.guard.bismarck.nd.us/army_guard.html</href>
+            <text>North Dakota Army National Guard</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>North Dakota Army National Guard</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-nd.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The North Dakota Army National Guard maintains 26 armories, and is present in 26 communities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 1999 the NDARNG had an impressive year involving activities that spanned the globe. Members provided fresh water to base camps in the Dominican Republic and completed engineer projects in Korea and Germany. Closer to home, the Guard enhanced the quality of life in rural areas through numerous community projects. The Regional Training Institute at Camp Grafton continued to be a premiere training site for both active and reserve component forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After severe storms and continued flooding, NDARNG soldiers stood ready to assist in a federal disaster declaration that covered 42 counties and 4 Indian reservations. Members assisted in providing emergency power and removing debris to expedite the flow of waters in the Devils Lake Basin.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-nd-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A state sponsored tuition assistance program for North Dakota Guard members afforded over 900 applicants the opportunity to pursue their education. Distance Learning Centers in Guard facilities will connect communities with colleges across the state to offer remote learning opportunities never before possible.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>North Dakota also celebrated the 100th Anniversary of the Spanish American War and the Philippine Insurrection. A display traveled across the state, highlighting 10 members of the First North Dakota Volunteer Infantry and Young's Scouts who received the Congressional Medal of Honor.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-nd-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-nd-loc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/68tc.htm</Url>
+    <NameNode>68th Troop Command</NameNode>
+    <FullName>68th Troop Command</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bismarck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+        <Id>army/arng-nd.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>North Dakota</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-188ada.htm</Url>
+        <FullName>1-188 ADA
+141st ENG Bn (CBT) (Corp Wheeled)
+142nd ENG Bn (CBT) (HVY)
+164th ENG Bn (Mech)
+
+957th ENG Co (MRB)
+Det 1, 129th MOB PUB AFF Det
+Recon Air Inter Det (RAID)
+Det 42, OPER SPT AIRLFT CMD (OSA)
+131st QM Det (WP) - Grand Forks
+132nd QM Co (WATER SUPPLY) - Cando
+133rd QM Det (WD) (HOSELINE) - Grafton
+134th QM Det (TWD) (HOSELINE) - Cavalier
+HHD 136th QM Bn (WS) - Devils Lake
+3662nd MAINT Co (GS) - Devils Lake
+188th Army Band - Fargo</FullName>
+        <Name>1-188 ADA
+141st ENG Bn (CBT) (Corp Wheeled)
+142nd ENG Bn (CBT) (HVY)
+164th ENG Bn (Mech)
+
+957th ENG Co (MRB)
+Det 1, 129th MOB PUB AFF Det
+Recon Air Inter Det (RAID)
+Det 42, OPER SPT AIRLFT CMD (OSA)
+131st QM Det (WP) - Grand Forks
+132nd QM Co (WATER SUPPLY) - Cando
+133rd QM Det (WD) (HOSELINE) - Grafton
+134th QM Det (TWD) (HOSELINE) - Cavalier
+HHD 136th QM Bn (WS) - Devils Lake
+3662nd MAINT Co (GS) - Devils Lake
+188th Army Band - Fargo</Name>
+        <Id>army/1-188ada.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-188ada.htm</href>
+            <text>1-188 ADA
+141st ENG Bn (CBT) (Corp Wheeled)
+142nd ENG Bn (CBT) (HVY)
+164th ENG Bn (Mech)
+
+957th ENG Co (MRB)
+Det 1, 129th MOB PUB AFF Det
+Recon Air Inter Det (RAID)
+Det 42, OPER SPT AIRLFT CMD (OSA)
+131st QM Det (WP) - Grand Forks
+132nd QM Co (WATER SUPPLY) - Cando
+133rd QM Det (WD) (HOSELINE) - Grafton
+134th QM Det (TWD) (HOSELINE) - Cavalier
+HHD 136th QM Bn (WS) - Devils Lake
+3662nd MAINT Co (GS) - Devils Lake
+188th Army Band - Fargo</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Bismarck, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>68th Troop Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>68th Troop Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</href>
+        <text>North Dakota</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-188ada.htm</Url>
+    <NameNode>1st Battalion - 188th Air Defense Artillery (HVY) (MSCS)</NameNode>
+    <FullName>1st Battalion - 188th Air Defense Artillery (HVY) (MSCS)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-188ada.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Grand Forks</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/40id.htm</Url>
+        <Id>army/40id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>40th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+        <Id>/army/arng-nd.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>North Dakota National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>North Dakota</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</href>
+        <h3>North Dakota National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Battery E (SIB) - Bismarck</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Battery F (HSB)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Grand Forks, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Battery E, 1st Battalion - 188th Air Defense Artillery (HVY) (MSCS)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 188th Air Defense Artillery (HVY) (MSCS)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-188ada.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 188th Air Defense Artillery, was originally constituted 4 May 1989 in the North Dakota Army National Guard as the 188th Air Defense Artillery, a parent regiment under the United States Army Regimental System with Headquarters at Grand Forks. It organized on 1 October 1988 to consist of the 1st Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 188th Air Defense Artillery, was the only National Guard Air Defense Artillery Battalion in the U.S. to "Roundout" an active duty Army Division. It was the girst National Guard Air Defense Artillery Battalion to live-fire the Vulcan and the only National Guard Air Defense Artillery Battalion in the U.S. utilizing the Vulcan &amp;amp; Forward Area Alert Radar.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit conducted the first cold weather tests on the Vulcan Air Defense System and the battalion fired the first Stinger Missile ever in Alaska. It also fired the first Reprogramable Micro-Processor Stinger Missile ever fired by a National Guard unit.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit out shot the active duty units during its annual training in 1990. It established the first Airborne Program in North Dakota and completed the first Airborne Jump in North Dakota. It was also the first North Dakota National Guard Battalion to participate at the Joint Readiness Training Center and the first North Dakota unit to get the Small Unit Support Vehicle.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit hit all targets with Stinger Missile during its '93, '96 and '97 live-fire exercises and placed in the top percentage at the Leap Fest Paratrooper Competition.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/i-corps.htm</href>
+        <text>I Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/40id.htm</href>
+        <text>40th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/34id-eng-bde.htm</Url>
+    <NameNode>Engineer Brigade - 34th Infantry Division[ex 164th Engineer Group]</NameNode>
+    <FullName>Engineer Brigade - 34th Infantry Division; [ex 164th Engineer Group]</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/34id-eng-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bismarck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/34id.htm</Url>
+        <Id>army/34id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>34th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+        <Id>/army/arng-nd.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>North Dakota National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>North Dakota</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</href>
+        <h3>North Dakota National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD
+173rd ENG Bn - Onalaska, WI
+682nd ENG Bn [MN ARNG]
+834th ENG Co - Davenport, IA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>M577
+M998 HMMWV</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Bismarck, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.dma.state.mn.us/redbull/164EN/164bde.htm</href>
+            <text>Engineer Brigade - 34th Infantry Division</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Engineer Brigade - 34th Infantry Division
+&lt;br&gt;[ex 164th Engineer Group]</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/34id-eng-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/34id-eng-bde-loc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/iii-corps.htm</href>
+        <text>III Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/34id.htm</href>
+        <text>34th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-112avn.htm</Url>
+    <NameNode>1st Battalion, 112th Aviation Regiment</NameNode>
+    <FullName>1st Battalion, 112th Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-112avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bismarck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>/army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Montana National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+        <Id>/army/arng-nd.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>North Dakota National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ca.htm</Url>
+        <Id>/army/arng-ca.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>California National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Montana</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <h3>Montana National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</href>
+        <h3>North Dakota National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ca.htm</href>
+        <h3>California National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC [ND ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company [ND ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company - Helena [MT ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company - Helena [MT ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company [CA ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>UH-1</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Bismarck, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.guard.bismarck.nd.us/units/112th_aviation_battalion.htm</href>
+            <text>1st Battalion, 112th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.montanaguard.com/aviation112.html</href>
+            <text>1st Battalion, 112th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.geocities.com/Pentagon/Quarters/2931/</href>
+            <text>Co. A 1-112th Avn (LUH)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 112th Aviation Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-112avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 1-112th Aviation is to provide light utility aircraft for staff transportation and air movement of personnel and equipment in support of corps and division operations. The 1-112th Aviation Battalion (LUH - Light Utility Helicopter) is divided between the North Dakota and Montana Army National Guard.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The diverse mission of companies B and C in Montana are both designed to include troop transport, external load transport (sling loads), and casualty evacuation (CASEVAC). In the past, Montana Army National Guard's UH-1H (Huey) Helicopters have been called upon to support fire fighting missions in our national forests,  search and rescue missions during bad storms, and support federal, state and local law enforcement agencies. The helicopter companies are teams of soldiers who directly support the aircraft either through maintenance efforts, supply and logistical support, or by providing food and fuels etc.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 112th Aviation Regiment, was activated on 1 Septmeber 1995 as a parent regiment under the US Army Regimental System.   It is a split state battalion with HHC and Company A located in North Dakota and B and C Companies located in Montana and D Company located in California.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/81wmd-cst.htm</Url>
+    <NameNode>81st WMD Civil Support Team</NameNode>
+    <FullName>81st WMD Civil Support Team</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bismarck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/wmd-cst.htm</Url>
+        <Id>army/wmd-cst.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>WMD CST</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+        <Id>/army/arng-nd.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>North Dakota National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>North Dakota</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</href>
+        <h3>North Dakota National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Bismarck, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.guard.bismarck.nd.us/wpnsmd/index.htm</href>
+            <text>81st WMD Civil Support Team</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>81st WMD Civil Support Team</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The baseline mission of the 81st Weapons of Mass Destruction Civil Support Team, North Dakota National Guard, is to, upon request of civil authorities:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Provide NBC-related technical advice, onsite situational assessments, and detection capability for Federal, State, and local response elements and agencies in the event of a WMD incident.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Provide early detection, initial sample collection, and NBC reconnaisance</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Provide initial medical assessment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Assist in NBC hazard predictions and assessments, including identification of boundaries of the affected area, distribution of hazard, type of hazard agent and severity of damages, deaths, and injuries</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The potential future mission of the 81st WMD CST, is to, upon request of civil authorities:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Expand primary WMD mission to include Biological, Nuclear, Incendiary, Chemical, Explosive, and Radiological (B-NICER) Terrorism, Criminal events, or accidents</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Provide "Last Line" EOD support</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Provide "Last Line" Decontamination support</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Enhance the capabilities of other Federal, State, and local authorities to deliver multi-hazard emergency management in North Dakota by expanding the original WMD mission of the 81st MSD (Civil Support Team LT) to support all hazards in all phases of emergency management</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/hqda.htm</href>
+        <text>HQDA</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osa.htm</href>
+        <text>SECARMY</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/doms.htm</href>
+        <text>DOMS</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/wmd-cst.htm</href>
+        <text>WMD CST</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

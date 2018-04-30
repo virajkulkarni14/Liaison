@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/cnatra.htm</Url>
+    <NameNode>Chief of Naval Air Training (CNATRA)Naval Air Training Command (NATRACOM)</NameNode>
+    <FullName>Chief of Naval Air Training (CNATRA); Naval Air Training Command (NATRACOM)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/cnatra.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/cnet.htm</Url>
+        <Id>navy/cnet.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>CNET</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</Url>
+        <FullName>Training Air Wing One
+Training Air Wing Two
+ Training Air Wing Four  
+Training Air Wing Five
+Training Air Wing Six
+"Blue Angels" NAVFLIGHTDEMRON</FullName>
+        <Name>Training Air Wing One
+Training Air Wing Two
+ Training Air Wing Four  
+Training Air Wing Five
+Training Air Wing Six
+"Blue Angels" NAVFLIGHTDEMRON</Name>
+        <Id>navy/trawing1.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</href>
+            <text>Training Air Wing One
+Training Air Wing Two
+ Training Air Wing Four  
+Training Air Wing Five
+Training Air Wing Six
+"Blue Angels" NAVFLIGHTDEMRON</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Homeport</h3>
+        <li>
+          <li>
+            <text>NAS Corpus Christi</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://navaltx.navy.mil/cnatra/</href>
+            <text>Chief of Naval Air Training</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Chief of Naval Air Training (CNATRA)
+&lt;br&gt;Naval Air Training Command (NATRACOM)
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/cnatra.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/cnatra-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Advanced Flight Training is the final stage in earning  wings. Crew learn skills specific to the chosen platform such as air to air combat, bombing, search and rescue, aircraft carrier qualifications, over water navigation, and low level flying.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnet.htm</href>
+        <text>CNET</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</Url>
+    <NameNode>Training Air Wing One</NameNode>
+    <FullName>Training Air Wing One</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/trawing1.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/cnatra.htm</Url>
+        <Id>navy/cnatra.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>CNATRA</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/vt-7.htm</Url>
+        <FullName>Training Squadron VT-7</FullName>
+        <Name>Training Squadron VT-7</Name>
+        <Id>navy/vt-7.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/vt-9.htm</Url>
+        <FullName>Training Squadron VT-9</FullName>
+        <Name>Training Squadron VT-9</Name>
+        <Id>navy/vt-9.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/vt-7.htm</href>
+            <text>Training Squadron VT-7</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/vt-9.htm</href>
+            <text>Training Squadron VT-9</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Training Squadron VT-19</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Training Squadron VT-23</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Homeport</h3>
+        <li>
+          <li>
+            <text>NAS Meridian</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.cnet.navy.mil/tw1/</href>
+            <text>Training Air Wing One</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Training Air Wing One
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/trawing1.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Air Wing ONE was formally commissioned on 2 August 1971 as the first Air Wing in the history of naval aviation training establishing the single-base-training concept.   Until that time, jet aviation students received only the basic flight syllabus in Meridian prior to being transferred to Texas for advanced instruction.  With the conversion of VT-7 to advanced training, the initiation of air-to-air combat gunnery and carrier qualification instruction in VT-9, the flight student was able to complete the entire Jet training syllabus  at Naval Air Station Meridian.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of Training Air Wing ONE is to provide newly winged aviators to the fleet for further training in operational combat aircraft and is conveyed in the wing motto, "Readiness for Victory at Sea Through Training."   Accomplishment of this mission is realized through the various Wing organizations located at Naval Air Station Meridian.  The Wing Commander's specific mission is to supervise, coordinate, and administer the student pilot academic and flight training program. The instructor pilot cadre here is comprised of men and women from the Navy and Marine Corps bringing  a wide range of experience and representing every operational fleet aircraft. Training Air Wing ONE is also tasked with training military aviators for the international community including France, Italy, Spain, Brazil and Thailand.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Subordinate commanders under COMTRAWING ONE include Training Squadron SEVEN, and NINE. 
+Commander Training Air Wing ONE administers, coordinates and supervises flight and academic training and support programs conducted by three subordinate commands: Training Squadron SEVEN (VT-7), Training Squadron NINETEEN (VT-19) and Training Squadron TWENTY-THREE (VT-23).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Squadron NINE receives officer flight students from Training Air Wing Five, Milton Florida and Training Air Wing Four, Corpus Christi Texas where they completed Primary Flight Training in the T34 Mentor aircraft.  VT-9 provides Intermediate Strike training introducing basic jet aviation skills in the Rockwell International T-2C aircraft.  Training Squadron NINE also conducts advanced flight instruction for students in the E-2/C-2 training pipeline. Upon completion of the Intermediate Strike syllabus Student Naval Aviators continue advanced training in the T-45C Goshawk in Training Squadron SEVEN, or in the T-45A at Training Air Wing Two at Kingsville, Texas.  Following carrier qualification, the flight students are designated as Naval Aviators and receive their "Wings of Gold".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In July 1961, Training Squadron SEVEN moved from NAS Kingsville, Texas, to NAAS Meridian. In December 1961, VT-7 split to form a "sister" squadron, Training Squadron NINE (VT-9).  A major change in the structure of the Naval Air Training Command took place in August 1971, when VT-9 split again to form VT-19. Intermediate jet training was assumed by VT-9 and VT-19, leaving the advanced jet role to VT-7.
+   In July 1987, Training Squadrons NINE and NINETEEN combined to form one intermediate squadron, VT-19. 
+  Training Squadron NINETEEN was redesignated Training Squadron NINE on 01 October 1998, and the "Tigers" were again reborn.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In July 1994, VT-23 moved from NAS Kingsville, Texas, to NAS Meridian.   In the Wing's first year, 293 students were designated naval aviators; six years later the figure jumped to 847 as a result of the Vietnam War. In 1969, 950 students completed the flight program - the largest number of aviators to be designated in a single year.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnet.htm</href>
+        <text>CNET</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnatra.htm</href>
+        <text>CNATRA</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/vt-7.htm</Url>
+    <NameNode>Training Squadron SEVEN</NameNode>
+    <FullName>Training Squadron SEVEN</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/vt-7.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</Url>
+        <Id>navy/trawing1.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRAWING ONE</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>T-45C Goshawk</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Homeport</h3>
+        <li>
+          <li>
+            <text>NAS Meridian</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.cnet.navy.mil/tw1/vt7.html</href>
+            <text>Training Squadron SEVEN</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Training Squadron SEVEN
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/vt-7.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The "EAGLES" of Training Squadron Seven originated as a Naval Advanced Training Activity located at Naval Air Station Millington, Memphis, Tennessee. Originally composed of two advanced training units, ATU-105 and ATU-205, in July 1958 they were consolidated into a single squadron, BTU-7. This Squadron used T-28 "Trojans" and T-29 "Seastars" to train student aviators in basic instrument flying.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June 1960, the Squadron moved to Naval Air Station, Kingsville, Texas and began receiving the T2J-1 "Buckeye", a two-place jet trainer built by the North American Aviation Corporation and the forerunner of today's basic jet trainer. The Squadron was designated Training Squadron SEVEN (VT-7) in July 1960 and received the mission to provide training in jet transition, precision aerobatics, basic and radio instruments, formation, gunnery, and carrier qualifications.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In July of 1961, Training Squadron SEVEN moved to newly established NAS Meridian, MS. On 15 December 1961, the Squadron split to form a "sister" squadron, Training Squadron NINE. In 1964, Training Squadron SEVEN won its first of fifteen Chief of Naval Operations Aviation Safety Awards for representing not only a superior safety record, but also an aggressive and professional approach to safeguarding the lives of all personnel.   1999 marked the most recent year that Training squadron SEVEN yet again was awarded the CNO safety award.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In October of 1970, the newest member of the "Buckeye" family, the twin-engine T-2C aircraft, made its appearance aboard Training Squadron SEVEN in response to the Navy's need for a more reliable and powerful training aircraft. A year later, in August 1971, a major change took place in the structure of the Naval Air Training Command. Training Squadron NINE split to form a "sister" squadron, Training Squadron NINETEEN, and both squadrons began sharing the basic training role at Meridian. At that time, Training Squadron SEVEN transitioned to the Douglas TA-4J "Skyhawk" and took over the advanced strike missions including air-to-ground weapons delivery, low-level navigation, air combat maneuvering, and carrier qualifications. This allowed a flight student to complete both intermediate and advanced jet training at one Naval Air Station.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Squadron SEVEN completed its first advanced strike student in the spring of 1972 when First Lieutenant L. C. Ernst received his "Wings of Gold". As of October 2000, the "Eagles" of Training Squadron SEVEN winged over 3,200 Naval and Marine Corps Aviators. Additionally, the Squadron trained over 200 International Students from France, Italy, Kuwait, Spain, Thailand, and Brazil.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Squadron SEVEN has received many awards throughout its history.  In 1964, VT-7 was awarded its first of thirteen Chief of Naval Operations Aviation Safety Awards for representing not only a superior safety record, but also an aggressive and professional approach to safeguarding the lives of all personnel. In January of 1975, VT-7 completed its first accident-free year in the A-4 "Skyhawk," and in July of that same year amassed a total of 35,000 accident-free hours. In November 1981, the squadron received a unit commendation from Secretary of the Navy John Lehman for accomplishing the squadron's Pilot Training Requirement (PTR) for fiscal year 1980, while remaining accident free for the entire year.  In 1994, the squadron was presented the Vice Admiral Goldthwaite Award, the Golden Anchor Award and the CNO Safety Award. They also received the Safety Award in 1995 and the Vice Adm. John H. Towers Flight Safety Award in 1996.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>September 1999 marked the end of an era in Naval Aviation and Training Squadron SEVEN. After over 28 years of faithful service, the Eagles winged their last Naval Aviator in the venerable TA-4J, and the last Skyhawk flew from the VT-7 flightline.  A new chapter began as Training Squadron SEVEN transitioned to the T-45C Goshawk. In its first year of Goshawk service, VT-7 flew over 18,000 sorties, accumulated over 21,000 flight hours, and 1295 Carrier landings.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The student naval aviator pipeline takes approximately two years of intense flight training involving many hours of ground school, flight simulator work and close to 300 hours of flight time in three different aircraft. The students also accomplish a feat known only to a handful of pilots in the world -- they land jet aircraft on board an aircraft carrier, qualifying them as carrier aviators. There is a continuous pool of approximately 90 student naval aviators in VT-7 at any one time.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnet.htm</href>
+        <text>CNET</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnatra.htm</href>
+        <text>CNATRA</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</href>
+        <text>TRAWING ONE</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/vt-9.htm</Url>
+    <NameNode>Training Squadron NINE</NameNode>
+    <FullName>Training Squadron NINE</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/vt-9.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</Url>
+        <Id>navy/trawing1.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRAWING ONE</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>T-2C "Buckeye"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Homeport</h3>
+        <li>
+          <li>
+            <text>NAS Meridian</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.cnet.navy.mil/tw1/vt9.html</href>
+            <text>Training Squadron NINE</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Training Squadron NINE
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/vt-9.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Squadron NINE was commissioned on December 15, 1961 at McCain Field, U.S. Naval Air Station, Meridian, Mississippi. It is the third Naval squadron to be designated VT-9. The first VT-9 was commissioned in 1927 as a Torpedo Squadron, flying the Curtis T3-M Convertible Land/Seaplane. On August 2, 1971, VT-9 "Tigers" branched off to form its "sister" squadron designated VT-19 "Frogs", and both squadrons assumed the intermediate jet training role at Meridian. Training Squadron NINE was decommissioned in July 1987 and consolidated with Training Squadron NINETEEN. Training Squadron NINETEEN was redesignated Training Squadron NINE, 01 October 1998, and the "Tigers" were again reborn.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of VT-9 is to safely train the world's finest Naval Aviators for the United States and other international Navies in Intermediate Strike and Advanced E2/C2 training. International Student training has consisted of pilots for the Navies of Spain, France, Italy, Thailand, and also Kuwait's Air Force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Squadron NINE is the only U.S. Navy pilot training squadron that operates the Rockwell T-2C "Buckeye" to accomplish its mission. A civilian maintenance contractor maintains the 78 T-2C aircraft flown by VT-9. Loral Aerospace Corporation operates T-2C flight simulators.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Student Naval Aviators and International Military Students are aboard VT-9 for approximately four to six months and are trained in many fundamental skill stages of strike and carrier aviation. Initially, students fly several instrument flights focused on building a solid flight foundation for instrument scan. Sixteen day and four night flights are then devoted to the familiarization stage where students learn basic aircraft maneuvering, aerobatics, and carrier landing skills. The next stage in training is fifteen formation flights in two and four plane formations laying the foundation for tactical flying. Students then progress to eight air-to-air gunnery flights designed to develop the students' dynamic maneuvering flight abilities and situational awareness. Finally, ten sorties closely controlled by a Landing Signal Officer, culminate in a landing field qualification that designates the individual safe to train on an aircraft carrier. About 24 percent of VT-9 students are trained in the Advanced E-2/C-2 phase curriculum. For these students, the Air-to-Air Gunnery stage listed above is replaced by Carrier Qualification at-sea, including four touch and go landings and ten aircraft carrier arrested landings.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Upon successful completion of training at Training Squadron NINE, the E-2/C-2 students receive their coveted "Wings of Gold" and are transferred to the Fleet Replacement Squadron. The basic jet students move on to Advanced Strike Training in the McDonnell Douglas T-45 "Goshawk" where the Student Naval Aviators receive additional instruction in Air Combat maneuvering, Weaponry, and aircraft carrier landing qualification.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training Squadron NINE's record of achievement has culminated in five Chief of Naval Operations, Aviation Safety Awards over the years for sustaining an unprecedented safety record. The squadron was recently awarded the 1998 CNATRA Training Excellence Award. Training Squadron NINE's other awards include two Secretary of the Navy "Meritorious Unit Commendation" awards in recognition of exceeding the established goals of safety, quality, and projected training rates.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnet.htm</href>
+        <text>CNET</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/cnatra.htm</href>
+        <text>CNATRA</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/trawing1.htm</href>
+        <text>TRAWING ONE</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

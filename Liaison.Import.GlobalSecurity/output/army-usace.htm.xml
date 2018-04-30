@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usace.htm</Url>
+    <NameNode>US Army Corps of Engineers</NameNode>
+    <FullName>US Army Corps of Engineers</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usace.gif</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usace-refs.htm</Url>
+        <Id>/army/usace-refs.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>References</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Great Lakes and Ohio River Division (CELRD)
+Mississippi Valley Division (CEMVD)
+North Atlantic Division (CENAD)
+Northwestern Division (CENWD)
+Pacific Ocean Division (CEPOD)
+South Atlantic Division (CESAD)
+South Pacific Division (CESPD)
+Southwestern Division (CESWD)
+
+ Engineering and Support Center (CEHNC)
+Transatlantic Programs Center (CETAC)
+Engineer Research and Development Center (CEERD)
+
+249th Engineer Battalion
+Finance Center, USACE (CEFC)
+Humphreys Engineer Center Support Activity (CEHEC)
+Marine Design Center (CEMDC)
+Institute for Water Resources (CEIWR)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Strength</h3>
+        <li>
+          <li>
+            <text>~ 500 (Active)
+~ 38,000 (Civilians)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/usace-refs.htm</href>
+        <h3>References</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.usace.army.mil/</href>
+            <text>US Army Corps of Engineers</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Corps of Engineers</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/usace.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

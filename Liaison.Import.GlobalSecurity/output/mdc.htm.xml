@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/space/agency/arsmdc.htm</Url>
+    <NameNode>Space</NameNode>
+    <FullName>Space</FullName>
+    <LogoUrl>https://www.globalsecurity.org/space/agency/images/arsmdc-02.gif</LogoUrl>
+    <HigherHq />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/space/agency/arspace.htm</Url>
+        <FullName>Army Space Command</FullName>
+        <Name>Army Space Command</Name>
+        <Id>arspace.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/space/agency/1space-bde.htm</Url>
+        <FullName>1st Space BDE (Prov)</FullName>
+        <Name>1st Space BDE (Prov)</Name>
+        <Id>1space-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/space/agency/100md-bde.htm</Url>
+        <FullName>100th Missile Defense BDE</FullName>
+        <Name>100th Missile Defense BDE</Name>
+        <Id>100md-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>StateVolunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/space/agency/arspace.htm</href>
+            <text>Army Space Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/space/agency/1space-bde.htm</href>
+            <text>1st Space BDE (Prov)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/space/agency/100md-bde.htm</href>
+            <text>100th Missile Defense BDE</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Battle Lab</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Tech Center</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>OTII</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SMDTEC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/redstone.htm</href>
+            <text>Redstone Arsenal, AL (HQ)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.smdc.army.mil/</href>
+            <text>Army Space &amp;amp; Missile Defense Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Army Space &amp;amp; Missile Defense Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/space/agency/images/arsmdc-02.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As the Army Service Component Command to the U.S. Strategic Command, SMDC will see an increase in responsibilities from its current three mission areas - commanding and controlling Army space forces, integrated missile defense and computer network operations - to five mission areas. The new mission areas are global in nature and include global strike, space operations, integrated missile defense, strategic information operations, with Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) as the enabler.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On Oct. 1, 1997, the Department of the Army created its newest major command - the U.S. Army Space and Missile Defense Command (SMDC). Composed of five primary components, the SMDC is a global organization. These components are the SMDC Headquarters and the Force Development Integration Center in Arlington, Va.; the U.S. Army Space Command (Forward) located in Colorado Springs, Colo.; and, the Space and Missile Defense  Technical Center (SMDTC), the Space and Missile Defense Battle Lab (SMDBL) and the Space and Missile Defense Acquisition Center (SMDAC) based in Huntsville, Ala. Included in the SMDAC are the High Energy Laser Systems Test Facility (HELSTF), at White Sands Missile Range, N.M., the U.S. Army Kwajalein Atoll/Kwajalein Missile Range (USAKA/KMR), in the Republic of the Marshall Islands, the Army Space Program Office (ASPO) in Alexandria, Va., and the Joint Land Attack Cruise Missile Defense Elevated Netted Sensors Project Office (JLENS) and the Ballistic Missile Targets Joint Project Office (BMTJPO) which are both in Huntsville.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The SMDC commander is a dual-hatted leader. In addition to the duties of SMDC commander, he also serves as the commander of the U.S. Army Space Command (ARSPACE). The creation of the new major command and its organization are designed to align the command to reflect the importance of space and missile defense to the Army and the joint warfighter. The basic missions of the command are twofold. The SMDC ensures that the soldier in the field has access to space assets and their products. The command also seeks to provide effective missile defense for the nation and deployed forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Although a new organization, the SMDC is building on more than 40 years of achievement and progress in the space and missile defense arena. The command began in 1957, when the Army created the first program office for ballistic missile defense. With the Nike-Zeus, the Army explored the feasibility of nuclear intercepts of inter-continental missiles. On July 19, 1962, the command made history with the first successful intercept of an intercontinental ballistic missile. This feat was repeated at the next level in 1984, when the Homing Overly Experiment performed the first non-nuclear, kinetic-kill intercept of a reentry vehicle, proving it was possible to hit a "bullet with a bullet."</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1967, having proved the interceptor's capabilities, the command moved toward the next phase - deployment - with the Sentinel defense system. Redirected in 1969, the program was assigned to defend of the U.S. land-based ICBM's. On Oct. 1, 1975, the Stanley R. Mickelsen Safeguard Complex in North Dakota became operational. Congress inactivated the site almost immediately, because of concerns over the budget and the influence of the Anti-Ballistic Missile Treaty.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>President Ronald Reagan announced a new approach to strategic planning, the Strategic Defense Initiative, in March 1983. This concept urged an active defense rather than the traditional offensive deterrence. To address this change, elements of the Ballistic Missile Defense Organization were merged in July 1985, creating the U.S. Army Strategic Defense Command (USASDC). At the same time, efforts by the command expanded to incorporate new avenues of research. In addition to radars and interceptors, the USASDC expanded its exploration of anti-satellite systems, lasers, neutral particle beams and innovative sensors.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the new decade, the command began to move in new directions. In October 1990, as part of an effort to centralize laser research, the HELSTF transferred to the command from the Army Materiel Command. The USASDC mission was further enhanced in January 1991, when the command was assigned all Theater Missile Defense functions and again in June 1994, the USASSDC commanding general was made the Theater Missile Defense advocate.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1992, the Army reorganized the USASDC to focus elements upon specific needs and missions. As part of this decision, several missile and radar projects were transferred from the USASDC to the newly created Program Executive Office for Global Protection Against Limited Strikes (subsequently renamed Air and Missile Defense). Among the projects leaving the command were the Ground Based Interceptor, the High Endoatmospheric Defense Interceptor, the Theater High Altitude Area Defense, the Extended Range Interceptor (which became the Patriot Advanced Capability-3 interceptor), the ARROW, and the Ground Based Radar. The Program Executive Office was assigned the mission to develop and deploy viable national missile defense and theater missile defense systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Army's renewed interest in space technology was reflected in Department of the Army's decision to create the U.S. Army Space and Strategic Defense Command (USASSDC), on Aug. 24, 1992. Under this directive, the Army Space Command became a subordinate command to the USASSDC. Other Army space interests were incorporated into the new organization in later years. The Army Space Technology Research Office transferred to the command in 1993, followed by the Army Space Program Office in 1994. Based on these changes and the years of experience, the USASSDC was named the Army's advocate for Space, Theater Missile Defense and National Missile Defense. As outlined the General Order, dated July 1, 1993, the USASSDC was to serve as the "focal point for space and strategic defense matters, . responsible for [the] exploitation of space and strategic assets for use by warfighting [Commanders in Chief]."</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With this consolidated approach, the Army had teamed up all of its space related organizations. Since 1973, the Army Space Program Office has overseen the tactical exploitation of national capabilities program, or TENCAP. The TENCAP program seeks to assess the tactical potential of current abilities and integrate them into the Army system. The Army Space Technology Research Office, established in 1988, managed near and possible far-term space R&amp;amp;D programs. It became the core of the new Space Applications Technology Program. The Army Space Command, created in 1986, serves as the Army component of the U.S. Space Command and is responsible for operational space planning. This command also oversees the Defense Satellite Communications System Operations Centers and the Army Space Demonstration Program, which explores the feasibility of off-the-shelf technology in the space program. One successful example of this effort is the small lightweight Global Positioning System receiver (commonly called the "slugger") used during Operation Desert Shield/Desert Storm.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army Space and Missile Defense Commands shoulder sleeve insignia is on a blue shield with a 1/8 inch (.32 cm) red border 3 1/4 inches (8.28 cm) in height and 2 1/2 inches (6.35 cm) in width overall, two arced red flashes fimbriated in yellow to point between an eagle's head in proper colors and a white hemisphere grid-lined blue issuing from base.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The red, white and blue are our national colors. The eagle, our national symbol, denotes freedom and constant vigilance. The grid-lined sphere symbolizes the worldwide scope of the United States Army Space and Missile Defense Command's mission, while the flashes represent all-encompassing strike capability and quick response.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Shoulder Sleeve Insignia was originally approved by the Institute of Heraldry for the U.S. Army Space and Strategic Defense Command on 23 March 1996. It was redesignated and became effective with the new command on 1 October 1997.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/space/agency/images/arsmdc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army Space and Missile Defense Commands unit insignia is a gold color metal and enamel device 1 3/16 inches (3.02 cm) in height, consisting of a black scroll doubled and inscribed "Secure the High Ground" in gold, issuing a light blue demi-globe gridlined gold below an arched blue background bearing an arc of gold stars, overall an American eagle in proper colors in flight.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The eagle above the globe symbolizes the unit's mission and reflects the motto. The arc of stars simulates a gateway and suggests control of space as the determining factor in total preparedness and military defense.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The effective date for the redesignated distinctive unit insignia was 1 October 1997. It was originally approved by the Institute of Heraldry on 16 July 1996, for the U.S. Army Space and Strategic Defense Command.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In its 2005 BRAC Recommendations, DoD recommended to realign Crystal Square 2, a leased installation in Arlington, VA, by relocating the Headquarters component of the USA Space and Missile Defense Command to Redstone Arsenal, AL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/space/agency/images/arsmdc-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/space/agency/images/arsmdc-org-new.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents>@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #ga-ad {display: none;}
+}
+
+
+
+
+
+
+
+NEWSLETTER
+
+
+
+
+Join the GlobalSecurity.org mailing list
+
+
+
+
+
+
+Enter Your Email Address
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var ezzns4 = {2.60:504853,2.80:504855,3.50:504859,4.00:504861,0.05:504809,1.10:504833,0.80:504829,1.80:504844,0.40:504823,0.45:504824,1.30:504836,1.60:504841,0.25:504817,0.60:504827,0.90:504830,2.00:504848,0.30:504819,0.35:504821,1.20:504835,1.50:504840,3.00:504857,0.10:504811,1.00:504831,1.90:504846,2.40:504851,5.00:504865,0.15:504814,0.70:504828,1.40:504838,1.70:504842,2.20:504850,4.50:504863,0.20:504815,0.50:504826,};
+
+
+var ezoflbf_2_4 = function() { __ez.queue.addFunc('ReloadFromP_1107', 'IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.ReloadFromP', 1107, false, ['banger.js'], false, false, false, true); };
+var ezoflbf_4 = function() { eval(ez_write_tag([[336,280],'globalsecurity_org-medrectangle-1','ezslot_4']));
+		};Criteo.DisplayAd({
+    zoneid: 504844, containerid: 'crt-4', passbackcode: ezoflbf_4
+});
+
+
+	var __ezfl_sss_1107 = function() {
+		setTimeout(function(){
+			var ezflaun = IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.GetNameFromPositionId(1107);
+			if (typeof ezflaun != 'undefined' &amp;&amp; ezflaun.length &gt; 0) {
+				if (typeof ez_ad_units != undefined) {
+					for (i = 0; i &lt; ez_ad_units.length; i++) {
+						if (ezflaun.indexOf(ez_ad_units[i][1]) &gt;= 0) {
+							return false;
+						}
+					}
+				}
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.StoreStatSource(ezflaun, 47, 1.80);
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.RemoveSlotById(ezflaun);
+			}
+		}, 8000);
+	};
+	__ez.queue.addFunc('__ezfl_sss_1107', '__ezfl_sss_1107', null, false, ['banger.js'], false, false, false, true);</Contents>
+        <Href>images/arsmdc-org-new.gif</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/space/agency/arspace.htm</Url>
+    <NameNode>Space</NameNode>
+    <FullName>Space</FullName>
+    <LogoUrl>https://www.globalsecurity.org/space/agency/images/arspace.gif</LogoUrl>
+    <HigherHq />
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>StateVolunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>TSM GMD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Astronaut Det.</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <text>Peterson AFB, CO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Army Space Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/space/agency/1space-bde.htm</Url>
+    <NameNode>Space</NameNode>
+    <FullName>Space</FullName>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Base</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>StateVolunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1st Satellite Control Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1st Space Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>193rd Space Bn</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Space Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/space/agency/100md-bde.htm</Url>
+    <NameNode>Space</NameNode>
+    <FullName>Space</FullName>
+    <HigherHq />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/space/agency/49md.htm</Url>
+        <FullName>49th Missile Defense BN (GMD)</FullName>
+        <Name>49th Missile Defense BN (GMD)</Name>
+        <Id>49md.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>StateVolunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/space/agency/49md.htm</href>
+            <text>49th Missile Defense BN (GMD)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/space/agency/../space/facility/peterson.htm</href>
+            <text>Peterson AFB</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>100th Missile Defense Brigade (GMD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>U.S. Army Space and Missile Defense Command and the Colorado Army National Guard activated the nation's first ground-based Midcourse Defense Brigade Oct. 16, 2003.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The brigade will operate the first part of the integrated Ballistic Missile Defense System, which, in concert with sister services, is designed to protect the nation from accidental or intentional limited ballistic missile attacks. It will be manned both by Colorado Army National Guard and active-component soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The brigade will provide expertise to Northern Command's command and control operations from the Cheyenne Mountain Operations Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Another component of the brigade, the Alaska Army National Guard Missile Defense Space Battalion, will be activated in December. That component will provide operational control over ground-based interceptors located in Alaska.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The brigade headquarters, near Peterson Air Force Base, will staff 90 people - 77 members of the Army Guard and 13 members of the active Army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/space/agency/49md.htm</Url>
+    <NameNode>Space</NameNode>
+    <FullName>Space</FullName>
+    <HigherHq />
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>StateVolunteer</UnitComponent>
+    <UnitNGState>CO</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>A Battery</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <text>Fort Greely</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

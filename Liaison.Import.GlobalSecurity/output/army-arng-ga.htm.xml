@@ -1,0 +1,3231 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+    <NameNode>Georgia National Guard</NameNode>
+    <FullName>Georgia National Guard</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/starc-ga.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Atlanta</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/starc-ga.htm</Url>
+        <FullName>State Area Command</FullName>
+        <Name>State Area Command</Name>
+        <Id>army/starc-ga.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/78tc.htm</Url>
+        <FullName>78th Troop Command</FullName>
+        <Name>78th Troop Command</Name>
+        <Id>army/78tc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+        <FullName>48th Infantry Brigade (Mech)</FullName>
+        <Name>48th Infantry Brigade (Mech)</Name>
+        <Id>army/48in-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/265en-grp.htm</Url>
+        <FullName>265th Engineer Group</FullName>
+        <Name>265th Engineer Group</Name>
+        <Id>army/265en-grp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1avn-grp.htm</Url>
+        <FullName>1st Aviation Group</FullName>
+        <Name>1st Aviation Group</Name>
+        <Id>army/1avn-grp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/122rgt.htm</Url>
+        <FullName>122nd Regiment (RTI)</FullName>
+        <Name>122nd Regiment (RTI)</Name>
+        <Id>army/122rgt.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/starc-ga.htm</href>
+            <text>State Area Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/78tc.htm</href>
+            <text>78th Troop Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</href>
+            <text>48th Infantry Brigade (Mech)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/265en-grp.htm</href>
+            <text>265th Engineer Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1avn-grp.htm</href>
+            <text>1st Aviation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/122rgt.htm</href>
+            <text>122nd Regiment (RTI)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Atlanta, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.dod.state.ga.us</href>
+            <text>Georgia National Guard</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.legis.state.ga.us/gadod/news/annrpt/annualreport.html</href>
+            <text>Georgia Department of Defense 1999 Annual Report</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.ngaga.org/</href>
+            <text>National Guard Association of Georgia</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Georgia National Guard</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/starc-ga.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Georgia Army National Guard is comprised of more than 9,000 citizen-soldiers drilling in units located across the state. Georgia's Army Guard is the thirteenth largest in the nation and is made up of combat, combat support and combat service support units. Over 60 percent of Georgia Army National Guard forces are high priority units and would be among the first to deploy during a national crisis.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Georgia Army National Guard includes Army Guard headquarters and State Area Command (STARC) both located at the Oglethorpe Army, adjacent to Ft. Gillem in Ellenwood. The Georgia Army National Guard also operates the Regional Training Institute in Macon, which is home to various soldier, noncommissioned officer, and officer courses, and the state Officer Candidate School program; and the National Guard Training Center at Ft. Stewart which provides housing, equipment, maintenance facilities and training sites for units from Georgia and other southeastern states.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/starc-ga-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Georgia Army National Guard maintains 90 armories, and is present in 73 communities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Members of the Georgia Army National Guard supporting missions both in state and overseas during FY99. Members of Georgia's 4th Military Support Detachment began training for their mission to assist local, state and federal civil authorities in the event of a domestic terrorist incident involving weapons of mass destruction. The 48th Infantry Brigade joined the "reflagged" 24th Infantry Division. The Division is the first to utilize a new Army concept of integrated active and reserve component forces. The 277th Maintenance Company deployed to Germany for three weeks to augment active duty troops in the US Army Theater Maintenance operations in Europe.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/starc-ga-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Meanwhile, the 878th Engineer Battalion participated in "Operation Caribbean Castle-99" in the Dominican Republic. The battalion mission was to build three schools desperately needed after the destruction caused when Hurricane Georges swept the island nation last year. At home, the threat of Hurricane Floyd sparked the mobilization of Georgia Army National Guardsmen to assist in evacuation cleanup and the return of thousands of Georgia Coast residents to their homes.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-ga-loc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/starc-ga.htm</Url>
+    <NameNode>Georgia State Area Command (STARC)</NameNode>
+    <FullName>Georgia State Area Command (STARC)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ellenwood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Georgia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/122rgt.htm</Url>
+        <FullName>122nd Regiment (RTI)</FullName>
+        <Name>122nd Regiment (RTI)</Name>
+        <Id>army/122rgt.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>116th Band</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>124th PAD - Atlanta</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>118th PSD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3rd Inf Div Det - Ft Stewart</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>75th EN Det - Ft Stewart</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/122rgt.htm</href>
+            <text>122nd Regiment (RTI)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>GA ARNG RTS-M - Ft Stewart</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Recon Air Intrastate Det - Dobbins ARB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 9 OSA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>CSMS</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>MATES</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Ellenwood, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Georgia State Area Command (STARC)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Georgia State Area Command (STARC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/122rgt.htm</Url>
+    <NameNode>122nd Regiment (Regional Training Institute)</NameNode>
+    <FullName>122nd Regiment (Regional Training Institute)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Macon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Georgia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1st Battalion (IN)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2nd Battalion (OD) (RTS-M)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3rd Battalion (General Studies)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Macon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>122nd Regiment (Regional Training Institute)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>122nd Regiment (Regional Training Institute)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 122nd Regiment provides regionalized combat arms, leadership, military occupational specialty (MOS), additional skill identifier (ASI), noncommissioned officer education system (NCOES), and general studies training for the Army National Guard (ARNG), United States Army Reserve (USAR), and the Active Component (AC).  The 122nd Regiment monitors and coordinates academic instruction, food, and lodging (where available) for soldiers participating in courses and training at its training sites.  The 122nd Regiment works in conjunction with the National Guard Bureau (NGB), the TRADOC Coordinating Element (TCE), the Regional Coordinating Element (RCE), the USAR Division (Individual Training) [Div(IT)], and the TRADOC proponent schools.  The 122nd Regiment plans and programs training within its region based on requirements identified by the individual training branch (NGB-ARO-TI), the Army Program for Individual Training (ARPRINT) and the Training Requirements Arbitration Plan (TRAP).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Battalion, 122nd Regiment (IN) conducts Infantry MOSQ, NCOES, and Enhancement Training in accordance with USAIS approved POIs, CATB SOP, and GaARNG command guidance to enhance readiness.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>2nd Battalion, 122nd Regiment (OD) (RTS-M) provides Maintenance MOSQ, ASI, NCOES, and Sustainment and Transition Training for RC/AC Soldiers which enables Armed Forces Components to Mobilize and Deploy Units Capable of Meeting Wartime Mission Requirements on Current and Force Modernization Equipment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>3rd Battalion, 122nd Regiment (General Studies) provides Support to the CATB, LTB, and RTI Missions.  Exercises Coordinating Authority to Ensure Training is Supported, Resourced, and Executed.  GS BN is not Functionally Aligned with any Proponent School; but, the Leadership Company is Mission Oriented to Specific Proponent Schools.  Most IDT Missions are Conducted under the Responsibility of the GS BN to the RTI.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/78tc.htm</Url>
+    <NameNode>78th Troop Command</NameNode>
+    <FullName>78th Troop Command</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Decatur</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Georgia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-171avn.htm</Url>
+        <FullName>1-171 AVN</FullName>
+        <Name>1-171 AVN</Name>
+        <Id>army/1-171avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-214fa.htm</Url>
+        <FullName>1-214 FA (M109A6)</FullName>
+        <Name>1-214 FA (M109A6)</Name>
+        <Id>army/1-214fa.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/110csb.htm</Url>
+        <FullName>110th CSB</FullName>
+        <Name>110th CSB</Name>
+        <Id>army/110csb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/221mi.htm</Url>
+        <FullName>221st MI Bn</FullName>
+        <Name>221st MI Bn</Name>
+        <Id>army/221mi.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/265en-grp.htm</Url>
+        <FullName>265th Engineer Group</FullName>
+        <Name>265th Engineer Group</Name>
+        <Id>army/265en-grp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/878eng.htm</Url>
+        <FullName>878th Engineer Bn</FullName>
+        <Name>878th Engineer Bn</Name>
+        <Id>army/878eng.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1st Battalion - Kennesaw</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-171avn.htm</href>
+            <text>1-171 AVN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-214fa.htm</href>
+            <text>1-214 FA (M109A6)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/110csb.htm</href>
+            <text>110th CSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>151st Medical Bn (Evac)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/221mi.htm</href>
+            <text>221st MI Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/265en-grp.htm</href>
+            <text>265th Engineer Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/878eng.htm</href>
+            <text>878th Engineer Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>82nd Maint Co - Columbus</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>122nd Rear Operations Center - Savannah</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>148th Med Co (AA)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>165th QM (POL Supply) Co - Brunswick</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>166th Maint Co - Jackson</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>178th MP Co - Monroe</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>190th MP Co - Kennesaw</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>202nd EOD - Ft Gillem</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>277th Maint Co - Kennesaw</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Co B, 161st Med Bn - Marietta</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Co D, Bn LUH</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Med Co, Area Spt</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Co C, 3-126 AVN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 1 Co F, 131st AV</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>93 TM 2, HHC 93 SC Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>BSTF AUG Team</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 2, 93rd Signal Brigade Support - Fort Gordon</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Co D, 3-126 AVN - Winder</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Co H, 121st Infantry - Newman</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 3, 3rd MEDCOM</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Decatur, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>78th Troop Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>78th Troop Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquartered in Decatur, the 78th Troop Command is made up of more than 3,000 men and women drilling in more than 25 hometown armories.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999,some 150 members of the Kennesaw-based 277th Maintenance Company conducted a three-week deployment to Germany, augmenting vehicle repair and maintenance operations. The unit was based at the U.S. Army Equipment Maintenance Center at Kaiserslautern. Vehicles from throughout Europe, including the war-torn Balkan region, were cycled through the center for major maintenance, repair and rebuilding. In March, 16 members of the 202nd Explosive Ordnance Disposal (EOD) unit conducted a two-week deployment to Panama. The unit cleared small arms and artillery ranges of unexploded ammunition and scrap metal in preparation for the return of the Panama Canal Zone to the Panamanian government. Members of the 178th Military Police Company also deployed to Panama to support the closing of the Panama Canal Zone. The Monroe-based unit was the last U.S. reserve component unit to rotate through the country before the transfer.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Also in 1999, nine members of the Newnan-based Company H, 121st Infantry Long Range Surveillance Company (LRSC) deployed to the Republic of Georgia as part of the National Guard's State Partnership Program. The soldiers participated with military forces of the republic in a variety of infantry training operations including search and rescue, escape and evasion, rappelling, and small infantry tactics. This was the third trip for LRSC soldiers to the Republic of Georgia. In November, soldiers of Company H, 121st Infantry (LRSC) deployed to the African nation of Tunisia for a two-weeks. Thirty members of the unit participated in Operation Atlas Drop.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Members of the 122nd Rear Operations Center deployed in April 2001 for a 15-day deployment to Kuwait for annual training. The unit participated in Exercise Lucky Sentinel 2001 held by Central Command to exercise the defense of Kuwait. The unit conducted an operations center in Camp Doha, just east of Kuwait City. The unit was responsible for coordinating rear area force protection.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-171avn.htm</Url>
+    <NameNode>1st Battalion - 171st Aviation Regiment</NameNode>
+    <FullName>1st Battalion - 171st Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/171avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dobbins Air Reserve Base</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/18avn-bde.htm</Url>
+        <Id>army/18avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>18th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-171avn-refs.htm</Url>
+        <Id>/army/1-171avn-refs.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>References</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC [GA ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company [NC ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company [NC ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company [GA ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company [FL ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>E Company [GA ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>H Company [GA ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>H Company Det 1 [FL ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>H Company Det 2 [TX ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/systems/aircraft/uh-60a.htm</href>
+            <text>UH-60 - A-E Companies</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/</href>
+            <text>C-23 - H Company Dets</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Dobbins Air Reserve Base, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/1-171avn-refs.htm</href>
+        <h3>References</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://216.79.119.5/83rdtc/Det1avn/index.htm</href>
+            <text>Detachment 1, H Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 171st Aviation Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/171avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>i</NodeType>
+        <Contents>Some sources report that this Battalion is aligned with the 18th Aviation Brigade and/or the 49th Armored Division Aviation Brigade. The actual WARTRACE alignment is unclear.</Contents>
+        <IsItalic>true</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Detachment 1, 171st Aviation Battalion of the Florida Army National Guard performs flights for a variety of missions, including transporting people and supplies and supplementing other military operations. The unit provides mission support to all branches of the military. The detachment provided support during the 1998 and 1999 Florida wildfires and during Hurricane Floyd and Hurricane Georges. The battalion also provided airlift support in 1998 for Operation New Horizons, a U.S. military training and humanitarian exercise in Honduras. The detachment also provides passenger and cargo transport for all branches of U.S. active-duty and reserve forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/171avn2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 03  March 2001 the crash of a twin-engine transport near Unadilla, Ga., 30 miles south of Macon killed killed 21 guardsmen.  The Virginia guardsmen were members of the 203rd Red Horse Flight and were flying home through heavy rain after two weeks of annual training at Hurlburt Field, Fla. The aircrew of the C-23 Sherpa transport were assigned to Detachment 1, 1st Battalion, 171st Aviation in Lakeland, Fla. No one survived the crash. National Guard historians were calling it among the worst peacetime tragedies in the National Guard's 364-year history. The plane was assigned to the Florida National Guard's 171st Aviation Battalion and based at Lakeland, Fla. It had taken off from Hurlburt Field near Fort Walton Beach, Fla., and was headed to Oceana Naval Air Station, Va., when it went down. Three members of the C-23 Sherpa crew were taking the Virginia Guardsmen home after they completed annual training at Hurlburt Field near Fort Walton Beach, Fla. It was the nation's worst military aviation accident since 1982 when an Air National Guard air refueling tanker crashed in Illinois, killing 27 people including 23 National Guard members. And the Virginia Guard has not had as many casualties since D-Day during World War II on Omaha Beach.  The Collateral Investigation Board found the preponderance of the evidence concluded that the aircraft accident was due to crew error. The board found other factors may have influenced the crew's decision making process and aircraft performance. This is normally the case in most aircraft human factor accidents. The board did find the preponderance of the evidence directed the board toward the crew's failure to properly load the aircraft.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 171st Aviation Battalion of the Florida National Guard,  relocated to Hernando County from Lakeland in March 2001.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/18avn-bde.htm</href>
+        <text>18th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-214fa.htm</Url>
+    <NameNode>1st Battalion - 214th Field Artillery</NameNode>
+    <FullName>1st Battalion - 214th Field Artillery</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-214fa.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Elberton GA</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/138fa-bde.htm</Url>
+        <Id>army/138fa-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>138th FA Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/78tc.htm</Url>
+        <Id>/army/78tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/78tc.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHB
+Battery A - Hartwell
+Battery B - Thomson
+Battery C - Waynesboro
+SVC Battery - Toccoa</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>M109A6 Paladin</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Elberton GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 214th Field Artillery</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 214th Field Artillery</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/1-214fa.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-arty.htm</href>
+        <text>Artillery</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/138fa-bde.htm</href>
+        <text>138th FA Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/110csb.htm</Url>
+    <NameNode>110th Corps Support Battalion</NameNode>
+    <FullName>110th Corps Support Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbus</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/78tc.htm</Url>
+        <Id>army/78tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>78th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1177th TRANS Co - LaGrange</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1148th TRANS Co - Thomasville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1230th TRANS Co - Bainbridge</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Columbus, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>110th Corps Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>110th Corps Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the 110th Corps Support Battalion participated in Operation "Golden Cargo 99", a massive transportation operation that included transporting more than 4,500 tons of Multiple Launch Rocket System (MLRS) pods from the Savanna Army Ammunition Depot in northern Illinois to the Lone Star Ammunition Plant in eastern Texas. The 903-mile mission involved moving more than 231 truckloads of the ammunition, made up of more than 11,000 MLRS rockets. The Columbus-based unit was the task force headquarters for the four-week exercise that involved more than 600 personnel from seven National Guard units, including elements from Wisconsin, Missouri and Ohio.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/78tc.htm</href>
+        <text>78th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/221mi.htm</Url>
+    <NameNode>221st Military Intelligence Battalion</NameNode>
+    <FullName>221st Military Intelligence Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/221mi.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Gillem</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/78tc.htm</Url>
+        <Id>army/78tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>78th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC
+Company A
+Company B</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fort Gillem, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>221st Military Intelligence Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>221st Military Intelligence Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/221mi.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/221mi-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/78tc.htm</href>
+        <text>78th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/265en-grp.htm</Url>
+    <NameNode>265th Engineer Group</NameNode>
+    <FullName>265th Engineer Group</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Decatur/Marietta (?)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/20eng-bde.htm</Url>
+        <Id>army/20eng-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>20th Engineer Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Decatur/Marietta (?), GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>265th Engineer Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>265th Engineer Group</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 265th Engineer Group HQ in Georgia is normally affiliated with the 20th Engineer Brigade at Ft Bragg, which is assigned to XVIII Corps. Recently, however, the 265th participated in a WARFIGHTER exercise geared toward Korea and the 8th Army. This system permits greater flexibility in a small army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 265th Engineer Group (Georgia Army National Guard) and the 212th Engineer Company (Tennessee Army National Guard) were federalized on 21 November 1990. They completed validation, deployed, and closed into the Southwest Asia theater of operations in support of Operation Desert Shield on 12 December 1990. This process took a total of only three weeks as compared to the typical minimum of six weeks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/20eng-bde.htm</href>
+        <text>20th Engineer Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/878eng.htm</Url>
+    <NameNode>878th Engineer Battalion (Combat) (Heavy)</NameNode>
+    <FullName>878th Engineer Battalion (Combat) (Heavy)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/878eng.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Augusta</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/78tc.htm</Url>
+        <Id>army/78tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>78th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HSC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Swainsboro</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Lyons</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Augusta, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.legis.state.ga.us/gadod/878enbn/</href>
+            <text>878th Engineer Battalion (Combat) (Heavy)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>878th Engineer Battalion (Combat) (Heavy)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/878eng.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The federal mission of the 878th Engineer Battalion (Combat) (Heavy), is to provide qualified individuals for active service in time of war or national emergencies in support of the U.S. Army's war plans and at such times as the national security may require augmentation of the active forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Its state mission is to provide an equipped and trained unit to function efficiently at existing strength in protection of life and property; and the preservation of peace, order and public safety, under the competent orders of the state authorities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The earliest mention of troops in Augusta, GA, was in 1738; a Captain Kent commanded a detachment of Rangers that consisted of 10-15 men, that were garrisoned at a Fort in Augusta. The Richmond Hussars was organized as a volunteer company as part of the Independent Volunteer Battalion of Augusta on 3 March 1856. The Richmond Hussars mustered into confederate service as Company A, Cavalry Battalion, Cobb's Legion, in August 1861 (subsequently furnished Company I, same battalion). Cavalry of Cobb's Legion reorganized as 9th Regiment, Georgia Cavalry, 11 July 1864. Surrendered 26 April 1865 and disbanded and prevented from reorganization by federal law until 1872.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It reorganized on 17 February 1873 as the Richmond Hussars, and on 9 April 1873 as the Independent Volunteer Battalion of Augusta. It was redesignated as the 1st Battalion, Georgia Volunteers, on 8 November 1889. It was redesignated as the 6th Infantry Regiment, Georgia Volunteers, on 29 January 1894. Its Elements consolidated with elements of the 3rd and 5th Regiments and were mustered into federal service for the Spanish-American war as the 2nd Georgia Volunteer Infantry Regiment between 11-14 May 1898, at Griffin, GA, and mustered out between 22 November - 9 December 1898 at various locations. It disbanded on 21 September 1899 and its elements were assigned to other units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was redesignated as Troop K, 1st Cavalry Regiment, on 3 October 1899, and as Troop K, 2nd Squadron of Cavalry, on 2 December 1907. It was mustered into federal service for the Mexican Border, on 16 July 1916; it returned to state but was not mustered out; and was drafted into federal service as Troop K, 1st Squadron of Cavalry, on 5 August 1917. It converted and was redisignated as Company C, 106th Field Signal Battalion, 31st Division, on 20 October 1917, at Camp Wheeler, GA. It demobilized in April 1919 at Fort Oglethorpe, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit reorganized and was federally recognized as Battery A (Searchlight), Coast Artillery Regiment (Antiaircraft), on 1 October 1939. It was called into active federal service on 25 November 1940 at Augusta, GA. It was assigned to provisional seachlight battalion, authorized to be organized at Camp Stewart, GA, on 30 July 1941. It was reassigned as the 214th Coast Artillery Regiment at Camp Stewart, GA, without personnel and equipment, on 1 May 1942. It was constituted as the 3rd Battalion, 214th Coast Artillery Regiment (Antiaircraft), on 27 May 1942 and activated as a gun battery 27 June 1942 at Benicia, CA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Redesignated as Battery A, 528th Antiaircraft Artillery Gun Battalion, on 10 November 1943. It inactivated on 26 December 1945 at Camp Anza, CA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It consolidated with Battery A, 528th Antiaircraft Artillery Gun Battalion; and the consolidated unit was designated as the 250th Antiaircraft Gun Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It consolidated with the 250th Antiaircraft Searchlight Battalion; and the consolidated unit was redesignated as the 250th Antiaircraft Artillery Gun Battalion and federally recognized on 28 May 1947 and authorized the traditional designation "Richmond Hussars". The unit was Ordered into active federal service on 14 August 1950 at Augusta, GA, and was released from active federal service on 13 May 1952 and returned to state control.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated as the 250th Antiaircraft Artillery Battalion (Gun) on 1 October 1953; as the 1st Gun Battalion (90mm), 214th Artillery Battalion, 108th Artillery Brigade in 1959; as the 5th Medium Tank Battalion (Patton), 108th Armor in 1962; and as the 878th Engineer Battalion (Construction) in 1968.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the 878th Engineer Combat Heavy Battalion participated in "Operation Caribbean Castle-99" in the Dominican Republic. Involving more than 500 Georgia engineers, the overseas deployment was made up of three, separate 15-day rotations that spanned May and June. National Guard units participating included engineer companies from Augusta, Lyons, Swainsboro and Sandersville, along with the battalion headquarters from Augusta. The battalion constructed three schools desperately needed in the wake of Hurricane Georges that swept the island nation in 1998.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Task Force Baghdad Soldiers from the Georgia National Guard's 878th Engineer Battalion are scheduled to return home to Augusta, Georgia by the middle of June 2004. Soldiers from the unit have been serving in Iraq for nearly a year having been a part of both Operation Iraqi Freedom I and II and are now stationed with the 1st Cavalry Division in Baghdad.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/78tc.htm</href>
+        <text>78th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+    <NameNode>48th Infantry Brigade (Enhanced) (Mechanized)
+"Old Gray Bonnet"</NameNode>
+    <FullName>48th Infantry Brigade (Enhanced) (Mechanized)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/48in-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Macon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id.htm</Url>
+        <Id>army/35id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde-refs.htm</Url>
+        <Id>/army/48in-bde-refs.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>References</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-121in.htm</Url>
+        <FullName>1-121 IN</FullName>
+        <Name>1-121 IN</Name>
+        <Id>army/1-121in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-121in.htm</Url>
+        <FullName>2-121 IN (Bradley FV)</FullName>
+        <Name>2-121 IN (Bradley FV)</Name>
+        <Id>army/2-121in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-108ar.htm</Url>
+        <FullName>1-108 AR (M1A1)</FullName>
+        <Name>1-108 AR (M1A1)</Name>
+        <Id>army/1-108ar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-118fa.htm</Url>
+        <FullName>1-118 FA (M109A6)</FullName>
+        <Name>1-118 FA (M109A6)</Name>
+        <Id>army/1-118fa.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/148fsb.htm</Url>
+        <FullName>148th FSB (HSB)</FullName>
+        <Name>148th FSB (HSB)</Name>
+        <Id>army/148fsb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-121in.htm</href>
+            <text>1-121 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-121in.htm</href>
+            <text>2-121 IN (Bradley FV)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-108ar.htm</href>
+            <text>1-108 AR (M1A1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-118fa.htm</href>
+            <text>1-118 FA (M109A6)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/148fsb.htm</href>
+            <text>148th FSB (HSB)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>48 BCT Special Troops Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Pre-Modular Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-121in.htm</href>
+            <text>1-121 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-121in.htm</href>
+            <text>2-121 IN (Bradley FV)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-108ar.htm</href>
+            <text>1-108 AR (M1A1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-118fa.htm</href>
+            <text>1-118 FA (M109A6)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/648eng.htm</href>
+            <text>648th ENG Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/148fsb.htm</href>
+            <text>148th FSB (HSB)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/e-trp-108cav.htm</href>
+            <text>Trp E/108th CAV</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>248th MI Co - Fort Gillem</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>E/179th ADA (Stinger) - Milledgeville</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Macon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/48in-bde-refs.htm</href>
+        <h3>References</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.48sib.com/</href>
+            <text>48th Infantry Brigade (Enhanced) (Mechanized)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>48th Infantry Brigade (Enhanced) (Mechanized)
+&lt;br&gt;"Old Gray Bonnet"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/48in-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 48th Infantry Brigade (Separate) (Mechanized), is to mobilize, conduct post mobilization training, and deploy rapidly to a contingency area by air, sea, and land to conduct mobile combined offensive and defensive operations worldwide.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 48th Infantry Brigade (Enhanced) (Mechanized) was originally organized on April 23, 1825, at Macon as the Macon Volunteers, Georgia Volunteer Militia. It mustered into Federal service on February 18, 1836, at Picolata, FL, as Captain Seymor's Company, 1st Battalion Georgia Volunteers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was mustered into Confederate service on April 20, 1861 at Macon, GA. It reorganized on April 11, 1872 at Macon, GA, as the Macon Volunteers. It was rdesignated on December 21, 1899, as Georgia State Troopers; and on October 1, 1905 as the Georgia National Guard.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was drafted into Federal Service in August 1917 as Company B, 151st Machine Gun Battalion, an element of the 42nd Division. It demobilized in May 1919 at Camp Gordon, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/48in-bde2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was inducted into Federal service on September 16, 1940 at Macon, and was and redesignated on February 24, 1942 as the 30th Cavalry Reconnaissance Troop while remaining assigned to the 30th Infantry Division. It inactivated on November 17, 1945.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>From 1945 to 1973, the Brigade underwent a series of redesignations culminating in its current form, the 48th Infantry Brigade. The unit was inducted into Federal service on November 30th, 1990 at Fort Stewart, GA. It demobilized on April 10, 1991 at Fort Stewart, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>More than 4,500 members of the unit were mobilized in 1990 to participate in Desert Storm. The unit successfully completed the most intensive training ever conducted at the Army's National Training Center in California, and was first and only National Guard combat brigade validated as combat ready for the Gulf War. The conflict ended before the brigade was employed in the Persian Gulf.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June 1999, the 48th Infantry Brigade (Mechanized) became part of the newly re-flagged 24th Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit also  has   a</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents>training associate</Contents>
+        <Href>tap.htm</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>relationship with the</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents>3rd Infantry Division (Mechanized)</Contents>
+        <Href>3id.htm</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Elements of the 48th Infantry Brigade deployed to Bosnia-Herzegovina for Stabilization Force (SFOR) Rotation 9 to provide support operations for Task Force Eagle (United States contingent to United Nations Operations in support of Dayton Peace Accord).  The SFOR9 rotation was scheduled from April to October 2001. The Georgia units were mobilized under a Presidential Selective Reserve Call Up. While other National Guard units have participated in the Bosnia operations in the past, the 48th Infantry Brigade (Mechanized) will be among the first National Guard combat units of this size and capability to take over such a large and significant portion of this mission.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On April 20, 2006, at Ft. Stewart, GA,  more than 4,000 members of the Georgia National Guard's 48th Infantry Brigade returned home  after a year of combat operations in Iraq. The April 20th arrival marked the first of nearly a dozen flights over the subsuquent four weeks that brought the soldiers back to Georgia.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Old Gray Bonnet"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-121in.htm</Url>
+    <NameNode>1st Battalion - 121st Infantry Regiment
+"Gray Bonnets"</NameNode>
+    <FullName>1st Battalion - 121st Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-121in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Winder</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+        <Id>army/48in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>48th Infantry Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Covington</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - Thomaston</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Gainesville</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Winder, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 121st Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 121st Infantry Regiment
+&lt;br&gt;"Gray Bonnets"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-121in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 121st Infantry Regiment, was originally established as the Independent Volunteer Battalion of Macon in 1860 and contained all the volunteer miltia companies in Macon.  The battalion, comprised of Macon, Columbus, and Griffin, entered the Civil War in 1861.  After the Civil War, the unit later reorganized as the 2nd Battalion, Georgia Volunteers in 1874.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The battalion consolidated with elements of the 1st and 4th Regiments for Federal Service during the Spanish-American War as the 1st Georgia Volunteer Infantry Regiment in 1898, though they did not serve in the United States.  The battalion was also federalized in 1916, because of the the Mexican border dispute.  In 1917, the 2nd Battalion was redesigned with the former 3rd Seperate Battalion of Infantry. The Battalion received special battle honors during World War I.  The unit went on to earn four unit decorations during World War II.  Until 1946, when the Battalion was assigned to the 48th Infantry Division, the unit was restructured many times.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 121st Infantry Battalion was constituted in 1953, and assigned to the Georgia National Guard as the 286th Infantry Battalion (Heavy Mortar).  In January 1954, the Battalion was organized and federally recognized with Headquarters at Dublin, but later converted and redesignated in November 1955 as the 160th Tank Battalion.  In 1959, the 121st and 171st Armored Infantry Battalions combined with the 160th Tank Battalion to form the 121st Infantry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Various parts of the 1st Battalion, 121st Infantry of Georgia's 48th Brigade Combat Team were attached to the Illinois Army National Guard's Headquarters Company, 2nd Battalion, 130th Infantry in Iraq. The 130th was one of several out-of-state units that served with the 48th during its yearlong deployment in support of Operation Iraqi Freedom.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</href>
+        <text>48th Infantry Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Gray Bonnets"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-121in.htm</Url>
+    <NameNode>2nd Battalion - 121st Infantry Regiment</NameNode>
+    <FullName>2nd Battalion - 121st Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-121in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Albany</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+        <Id>army/48in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>48th Infantry Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Valdosta</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - Cordele</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Americus</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>Bradley FV</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Albany, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>2nd Battalion - 121st Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion - 121st Infantry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-121in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Elements of the 2nd Battalion, 121st Infantry responded within hours to the threat of Hurricane Floyd in September 1999, providing a task force headquarters and more than 200 soldiers. The Albany-based unit supported local emergency management and law enforcement officials in Chatham and Coffee counties.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of July, 2005 the 2nd Battalion - 121st Infantry Regiment was conducting operations in Baghdad, in support of Operation Iraqi Freedom. Additionally, various elements of this unit conducted searches in houses for insurgents and weapons in Al-Radwnea, Iraq.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</href>
+        <text>48th Infantry Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-108ar.htm</Url>
+    <NameNode>1st Battalion - 108th Cavalry1st Battalion - 108th Armor Regiment</NameNode>
+    <FullName>1st Battalion - 108th Cavalry</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-108ar.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Calhoun</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+        <Id>army/48in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>48th Infantry Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer>1st Battalion - 108th Armor Regiment</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Rome</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - Canton</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Dalton</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>M1-A1 Abrams</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Calhoun, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 108th Armor Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 108th Cavalry&lt;br&gt;&lt;strike&gt;1st Battalion - 108th Armor Regiment&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-108ar.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>As part of the Army's transformation towards a modular force, in 2005, the title of the 1st Battalion - 108th Armor Regiment was changed to 1st Battalion - 108th Cavalry .</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the first half of the brigade's deployment (Spring 2005 through Spring 2006) to Iraq (during Operation Iraqi Freedom), the 108th Cavalry spent much of its time conducting cordon and search operations, reconnaissance missions, raids and even air assault missions in places like Iraq's Triangle of Death, north of Baghdad, and in cities such as Maumadiah, Talil and Balahd. The unit's focus shifted during the last half of the deployment, to escorting convoys and even bringing together military and civilian entities in one city to create a city council, as concept that was completely new to that particular municipality.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</href>
+        <text>48th Infantry Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-118fa.htm</Url>
+    <NameNode>1st Battalion - 118th Field Artillery Regiment
+"Hickory's Howitzers"</NameNode>
+    <FullName>1st Battalion - 118th Field Artillery Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-118fa.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Savannah</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+        <Id>army/48in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>48th Infantry Bde</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Battery A - Springfield</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Battery B</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Battery C</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SVC Battery - Brunswick</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>M109A6 Paladin</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Savannah, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.legis.state.ga.us/gadod/118fa/</href>
+            <text>1st Battalion - 118th Field Artillery Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 118th Field Artillery Regiment
+&lt;br&gt;"Hickory's Howitzers"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-118fa.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 118th Field Artillery Regiment, traces its lineage to the 118th Field Artillery which was organized on 18 April 1751 in the Georgia Militia in the District of Savannah as four independent volunteer companies, 3 of foot and one of horse. It was mustered into service of the colony 11 June 1751 at Savannah under the command of Captain Noble Jones.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was reorganized on 2 April 1757 as the 1st Regiment of Foot Militia, Division of Savannah, under the command of Colonel Noble Jones; in January 1776 with two battalions (Savannah and Christ Church Parish in the 1st Battalion). It was disbanded on 29 January 1778 at Savannah when the city was captured by the British.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was reorganized in 1782 in the Georgia Militia as the 1st Regiment (Savannah and Chatham County in the 1st Battalion), 1st Brigade, 1st Division. The 1st Battalion (Chatham Battalion), 1st Regiment, expanded, reorganized, and was redesignated in 1784 as the 1st Regiment (Chatham Regiment), 1st Brigade, 1st Division. It reorganized in March 1793 to consist of the 1st (or city) Battalion in Savannah and the 2nd (or county) Battalion in Chatham County; and reorganized again wholly in Savannah in December 1807.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Savannah Volunteer Guards (Organized in 1802) and the Republican Blues (Organized in 1808) were mustered into Federal service in east Florida in June 1812 as elements of Colonel David Newman's provisional battalion of Georgia Volunteers; and mustered out of Federal service in October 1812. Heavy Artillery Company (organized in 1812) mustered into Federal service 19 October 1812 at Fort Jackson, Georgia; and mustered out of Federal service 23 November 1812.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was mustered into Federal service on 22 January 1815 at Savannah as the 1st Regiment, Georgia Volunteers; and mustered out of Federal service on 23 February 1815 (the volunteer companies in the 1st Regiment, Georgia Militia, reorganized on 13 December 1829 as the Chatham Legion; while the Irish Jasper Greens, organized in 1842, were mustered into Federal service on 12 June 1846 at Columbus as Company F, 1st Regiment, Georgia Volunteers; and mustered out of Federal service 26 May 1847 at New Orleans, LA).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Volunteer companies (Chatham Legion) were withdrawn on 20 January 1852 from the 1st Regiment and reorganized as the Independent Volunteer Battalion of Savannah to consist of the following companies:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Chatham Artillery (organized in 1785)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Savannah Volunteer Guards (organized in 1802)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Republican Blues (organized in 1808)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Phoenix Riflemen (organized in 1812)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Irish Jasper Greens (organized in 1842)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>German Volunteers (organized in 1845)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>DeKalb Riflemen (organized in 1850)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Regiment, Georgia Militia, reorganized with new companies - hereafter separate lineage.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated on 17 May 1856 as the Independent Volunteer Regiment of Savannah; on 20 December 1859 as the 1st Volunteer Regiment of Georgia. It was ordered into active state service on 2 January 1861 to take possession of Fort Pulaski in the Savannah harbor and mustered into Confederate service by elements May-July 1861.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Chatham Artillery detached from the regiment on 28 September 1861 and reorganized as an independent light battery (Claghorn's or Wheaton's Georgia battery); they surrendered 26 April 1865 near Greensboro, NC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A portion of the regiment was captured on 11 April 1862 at the surrender of Fort Pulaski</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Savannah Volunteer Guards detached from the regiment on 11 April 1862 and were expanded, reorganized, and redesignated as the 18th Battalion, Georgia Infantry: they surrendered on 26 April 1865 at Appomattox Court House, VA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Phoenix Riflemen detached from the regiment and were expanded, reorganized, and redesignated as the 13th Battalion, Georgia Infantry: they were absorbed on 23 December 1862 by the 63d Georgia Volunteer Infantry Regiment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The regiment itself reorganized in October 1862 as the 1st Georgia Volunteer Infantry Regiment upon exchange of elements captured at Fort Pulaski. It consolidated in April 1865 with the 57th and 63d Georgia Volunteer Infantry Regiments and was redesignated as the 1st Georgia Composite Infantry Regiment. It surrendered on 26 April 1865 near Durham, NC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The former 1st Volunteer Regiment (Chatham Regiment) of Georgia reorganized on 26 September 1872 in the Georgia Volunteers at Savannah as the 1st Infantry Regiment. Its elements consolidated with elements of the 2d and 4th Infantry Regiments and mustered into Federal service on 11 May 1898 at Griffin as the 1st Georgia Volunteer Infantry: it mustered out of Federal service on 18 November 1898 at Macon and resumed state status as the 1st Regiment of Infantry (The Georgia Volunteers were redesignated on 21 December 1899 as the Georgia State Troops: and on 1 October 1905 as the Georgia National Guard).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was drafted into Federal service on 5 August 1917. It converted and was redesignated on 23 September 1917 as the 118th Field Artillery and assigned to the 31st Division. It demobilized 14-18 January 1919 Camp Gordon, GA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Reorganized in 1921 in the Georgia National Guard as the 1st Field Artillery, its Headquarters was Federally recognized on 30 December 1921 at Savannah. The unit was redesignated on 27 April 1922 as the 118th Field Artillery and assigned to the 30th Division. Battery A (Chatham Artillery) was withdrawn on 17 April 1925 and reorganized as Headquarters and Headquarters Battery, 55th Field Artillery Brigade, an element of the 30th Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 118th Field Artillery and Headquarters and Headquarters Battery, 55th Field Artillery Brigade, was inducted into Federal service on 16 September 1940 at Savannah. Headquarters and Headquarters Battery, 55th Field Artillery Brigade, reorganized and was redesignated on 7 February 1942 as Headquarters and Headquarters Battery (Georgia part), 30th Division Artillery; the 118th Field Artillery was concurrently broken up and its elements reorganized and were redesignated as elements of the 30th Infantry Division as follows:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Headquarters and Headquarters Battery and the 1st battalion as the 118th Field Artillery Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>2d Battalion as the 230th Field Artillery Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After 7 February 1942 the above units underwent changes as follows:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Headquarters and Headquarters Battery, 30th Division Artillery, inactivated on 20 November 1945 at Fort Jackson, SC. It was redesignated on 5 July 1946 as Headquarters and Headquarters Battery (Georgia part), 48th Division Artillery. It was reorganized and Federally recognized on 18 June 1947 at Savannah; and on 1 November 1955 as Headquarters and Headquarters Battery, 48th Armored Division Artillery.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>The 118th Field Artillery Battalion inactivated on 20 November 1945 at Fort Jackson, SC. It was relieved on 5 July 1946 from assignment to the 30th Infantry Division. It reorganized and was Federally recognized on 21 April 1947 at Savannah before being reorganized and redesignated on 1 November 1955 as the 118th Armored Field Artillery Battalion and assigned to the 48th Armored Division</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>The 230th Field Artillery inactivated on 20 November 1945 at Fort Jackson, SC. It was relieved on 5 July 1946 from assignment to the 30th Infantry Division and assigned to the 48th Infantry Division. It reorganized and was Federally recognized on 22 April 1947 at Savannah, before being reorganized and redesignated on 1 November 1955 as the 230th Armored Field Artillery Battalion (the 48th Infantry Division concurrently reorganized and was redesignated as the 48th Armored Division).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 118th and 230th Field Artillery Battalions consolidated on 1 July 1959 and the consolidated unit was reorganized and redesignated as the 118th Field Artillery, a parent regiment under the Combat Arms Regimental system, to consist of the 1st and 2d Howitzer Battalions, elements of the 48th Armored Division. It reorganized on 16 April 1963 to consist of the 1st, 2d, and 3d Battalions, elements of the 48th Armored Division. The regiment was broken up on 1 January 1968 and its elements reorganized and were redesignated, with Headquarters, Headquarters and Service Battery, 1st Battalion, consolidated with Headquarters and Headquarters Battery, 48th Armored  Division Artillery, and the consolidated unit reorganized and was redesignated as Headquarters and Headquarters Battery, 118th Artillery Group (remainder of regiment - hereafter separate lineage). It was redesignated on 9 May 1978 as Headquarters and Headquarters Battery, 118th Field Artillery Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It consolidated on 1 September 1992 with the 230th Field Artillery which was constituted on 14 December 1967 in the Georgia Army National Guard as the 230th Artillery, a parent regiment under the Combat Arms Regimental System, organized on 1 January 1968 from existing units to consist of the 1st Battalion, an element of the 30th Infantry Division and redesignated on 1 May 1972 as the 230th Field Artillery. It was reorganized on 1 December 1973 to consist of the 1st Battalion, an element of the 48th Infantry Brigade before being withdrawn on 1 June 1989 from the Combat Arms Regimental System and reorganized under the United States Army Regimental System with Headquarters at Waycross (1st Battalion ordered into active Federal service on 30 November 1990 at home stations: released on 27 March 1991 from active Federal service and reverted to state control).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The resulting consolidated unit reorganized and was redesignated as the 118th Field Artillery, a parent regiment under the United States Army Regimental System, with Headquarters at Savannah, to consist of the 1st Battalion, an element of the 48th Infantry Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As part of Operation Iraqi Freedom, the 1-118th FA took over responsibility for a part of 3rd Brigade, 1st Armored Division's area of operations previously patrolled by 1st Squadron, 11th Armored Cavalry Regiment in Taji, Iraq.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-118fa-loc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</href>
+        <text>48th Infantry Bde</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Hickory's Howitzers"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/148fsb.htm</Url>
+    <NameNode>148th Brigade Support Battalion148th Forward Support Battalion (HSB)
+"Hone the Cutting Edge"</NameNode>
+    <FullName>148th Brigade Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/148fsb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Forsyth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</Url>
+        <Id>army/48in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>48th Infantry Bde</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer>148th Forward Support Battalion (HSB)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A (Sup) - Dublin</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B (Maint) - Hinesville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C (Med) - Macon</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Forsyth, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.148sb.com/</href>
+            <text>148th Forward Support Battalion (HSB)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>148th Brigade Support Battalion&lt;br&gt;&lt;strike&gt;148th Forward Support Battalion (HSB)&lt;/strike&gt;
+&lt;br&gt;"Hone the Cutting Edge"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/148fsb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 148th Forward Support Battalion is the only unit in the 48th Brigade that is indispensable.  It is like a grocery, service station, parts supply store and truck dealer all in one.  From this single unit, the 48th Infantry Brigade gets its food, medical supplies, fuel, repair parts - - even whole vehicles.    It takes a lot of coordination to keep up with several thousand soldiers on the move.  Support battalion transportation sections haul supplies and fuel to other Brigade units, while maintenance crews keep tank turrets turning, engines starting and radios radioing.  Because, if equipment does not work right, or does not work at all, then no matter how good the soldiers are,the mission will fail.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Elements of the 148th Support Battalion deployed to Bosnia-Herzegovina for Stabilization Force (SFOR) Rotation 9 to provide support operations for Task Force Eagle (United States contingent to United Nations Operations in support of Dayton Peace Accord) from April to October 2001. While there, the unit operated from Camp Comanche, Dobol, and McGovern in Bosnia-Herzegovina.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/48in-bde.htm</href>
+        <text>48th Infantry Bde</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Hone the Cutting Edge"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/265en-grp.htm</Url>
+    <NameNode>265th Engineer Group</NameNode>
+    <FullName>265th Engineer Group</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Decatur/Marietta (?)</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/20eng-bde.htm</Url>
+        <Id>army/20eng-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>20th Engineer Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>/army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Georgia National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Georgia</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <h3>Georgia National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Decatur/Marietta (?), GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>265th Engineer Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>265th Engineer Group</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 265th Engineer Group HQ in Georgia is normally affiliated with the 20th Engineer Brigade at Ft Bragg, which is assigned to XVIII Corps. Recently, however, the 265th participated in a WARFIGHTER exercise geared toward Korea and the 8th Army. This system permits greater flexibility in a small army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 265th Engineer Group (Georgia Army National Guard) and the 212th Engineer Company (Tennessee Army National Guard) were federalized on 21 November 1990. They completed validation, deployed, and closed into the Southwest Asia theater of operations in support of Operation Desert Shield on 12 December 1990. This process took a total of only three weeks as compared to the typical minimum of six weeks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/20eng-bde.htm</href>
+        <text>20th Engineer Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1avn-grp.htm</Url>
+    <NameNode>1st Aviation Group</NameNode>
+    <FullName>1st Aviation Group</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dobbins ARB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Georgia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-171avn.htm</href>
+            <text>1-171 AVN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>F Company, Det 1, 1-131st Avn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>148th Medical Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 9, Ops Spt Airlift Cmd</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Recon and Air Interdiction Det</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Aviation Support Facility #1  Winder</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Aviation Support Facility #2  Dobbins ARB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Aviation Support Facility #3  Savannah</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Dobbins ARB, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Aviation Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Aviation Group</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In January 1999, the Georgia Army National Guard activated the 1st Aviation Group (Provisional). The unit is headquartered at Dobbins Air Reserve Base.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Georgia Army National Guard activated its first Light Utility Helicopter Company at the Winder Armory in October 1999.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company H, 171st Aviation Regiment conducted humanitarian relief missions to Honduras and Nicaragua in the wake of Hurricane Mitch. Members of the 171st Aviation, along with Detachment 1, Company F, 131st Aviation, also provided support to the state of North Carolina during the aftermath of Hurricane Floyd.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>From October 1998 through April 1999, the 148th Medical Company provided medical evacuation support to the Federal Bureau of Investigation in Andrews, NC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Reconnaissance and Interdiction Detachment (RAID), headquartered at Dobbins ARB, supported the Counterdrug Task Force by providing aerial surveillance using its OH-58 observation helicopter.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/122rgt.htm</Url>
+    <NameNode>122nd Regiment (Regional Training Institute)</NameNode>
+    <FullName>122nd Regiment (Regional Training Institute)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Macon</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</Url>
+        <Id>army/arng-ga.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Georgia</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1st Battalion (IN)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2nd Battalion (OD) (RTS-M)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3rd Battalion (General Studies)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Macon, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>122nd Regiment (Regional Training Institute)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>122nd Regiment (Regional Training Institute)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 122nd Regiment provides regionalized combat arms, leadership, military occupational specialty (MOS), additional skill identifier (ASI), noncommissioned officer education system (NCOES), and general studies training for the Army National Guard (ARNG), United States Army Reserve (USAR), and the Active Component (AC).  The 122nd Regiment monitors and coordinates academic instruction, food, and lodging (where available) for soldiers participating in courses and training at its training sites.  The 122nd Regiment works in conjunction with the National Guard Bureau (NGB), the TRADOC Coordinating Element (TCE), the Regional Coordinating Element (RCE), the USAR Division (Individual Training) [Div(IT)], and the TRADOC proponent schools.  The 122nd Regiment plans and programs training within its region based on requirements identified by the individual training branch (NGB-ARO-TI), the Army Program for Individual Training (ARPRINT) and the Training Requirements Arbitration Plan (TRAP).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Battalion, 122nd Regiment (IN) conducts Infantry MOSQ, NCOES, and Enhancement Training in accordance with USAIS approved POIs, CATB SOP, and GaARNG command guidance to enhance readiness.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>2nd Battalion, 122nd Regiment (OD) (RTS-M) provides Maintenance MOSQ, ASI, NCOES, and Sustainment and Transition Training for RC/AC Soldiers which enables Armed Forces Components to Mobilize and Deploy Units Capable of Meeting Wartime Mission Requirements on Current and Force Modernization Equipment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>3rd Battalion, 122nd Regiment (General Studies) provides Support to the CATB, LTB, and RTI Missions.  Exercises Coordinating Authority to Ensure Training is Supported, Resourced, and Executed.  GS BN is not Functionally Aligned with any Proponent School; but, the Leadership Company is Mission Oriented to Specific Proponent Schools.  Most IDT Missions are Conducted under the Responsibility of the GS BN to the RTI.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ga.htm</href>
+        <text>Georgia</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

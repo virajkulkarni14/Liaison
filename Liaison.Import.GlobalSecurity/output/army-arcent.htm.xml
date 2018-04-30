@@ -1,0 +1,861 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arcent.htm</Url>
+    <NameNode>Third Army in the Cold War</NameNode>
+    <FullName>Third Army in the Cold War</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/3army.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Arifjan KW
+Camp Doha KW
+Shaw Air force Base
+Ft. McPherson</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-arifjan.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/../dod/centcom.htm</Url>
+        <Id>/army/../dod/centcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Central Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>History</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/jtf-ku.htm</Url>
+        <FullName>C/JTF-Kuwait
+ ARCENT Kuwait 
+ ARCENT Saudi 
+ ARCENT Qatar 
+
+Army Prepositioned Stock (APS-3)
+Army Prepositioned Stock (APS-5)</FullName>
+        <Name>C/JTF-Kuwait
+ ARCENT Kuwait 
+ ARCENT Saudi 
+ ARCENT Qatar 
+
+Army Prepositioned Stock (APS-3)
+Army Prepositioned Stock (APS-5)</Name>
+        <Id>army/jtf-ku.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usaf/682asos.htm</Url>
+        <FullName>682nd ASOS</FullName>
+        <Name>682nd ASOS</Name>
+        <Id>usaf/682asos.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/../dod/centcom.htm</href>
+        <h3>Central Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/jtf-ku.htm</href>
+            <text>C/JTF-Kuwait
+ ARCENT Kuwait 
+ ARCENT Saudi 
+ ARCENT Qatar 
+
+Army Prepositioned Stock (APS-3)
+Army Prepositioned Stock (APS-5)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/wartrace.htm</href>
+        <h3>Gained Units [ARNG/USAR]</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3medcom.htm</href>
+            <text>3rd Medical Command
+3rd Personnel Command
+335th Theater Signal Command 
+377th Theater Support Command
+416th Engineer Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Supporting Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usaf/682asos.htm</href>
+            <text>682nd ASOS</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-arifjan.htm</href>
+            <text>Camp Arifjan KW
+Camp Doha KW
+Shaw Air force Base
+Ft. McPherson</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>History</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.arcent.army.mil/index.html</href>
+            <text>Third Army/ARCENT
+Coalition Force Land Component Command (CFLCC)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>References</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/library/news/2004/04/mil-040428-usa04.htm</href>
+            <text>CFLCC moving from Doha to Arifjan Army News Service 4/27/2004</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>
+Army Central Command - ARCENT&lt;br&gt;
+Third United States Army&lt;br&gt;
+"Third...Always First"&lt;br&gt;&lt;strike&gt;Coalition Joint Task Force 7 [CJTF 7]&lt;/strike&gt;&lt;br&gt;[Coalition Force Land Component Command (CFLCC)]</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/3army.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h4</NodeType>
+        <Contents>Coalition Force Land Component Command (CFLCC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents />
+        <Href>images/cf-lcc-logo.jpg</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/cf-lcc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/cl-lcc2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In its 2005 BRAC Recommendations, the Department of Defense recommended that the Headquarters of the 3rd Army be relocated to Shaw Air Force Base, SC by 2011. Its former station, Fort McPherson, GA, would be closed permenantly by 2011. Due to the Base Realignment and Closure Act of 2005, Third Army will move from its current location on Fort McPherson, Georgia to Shaw Air Force Base, Sumter, South Carolina. This move is currently in progress and will be completed September 15, 2011. Army Soldiers, Families, Department of the Army Civilians and contract personnel will move seamlessly. Third Army will continue all ongoing functions supporting persistent conflicts and the defense of the Nation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Third Army in the Cold War</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Third Army History - Central Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Operations in the 1990s</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h3</NodeType>
+        <Contents>Operation VIGILANT WARRIOR</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In October 1994, ARCENT was again called upon to command, control, and deploy Army forces to Kuwait in support of freedom during Operation VIGILANT WARRIOR. Operation VIGILANT WARRIOR was initiated in response to Saddam Hussein's "saber rattling" and posturing of Iraqi military forces along the Iraqi-Kuwaiti border. This act of aggression threatened to upset the delicate balance of peace in the region. ARCENT's rapid generation and deployment of a formidable Army force clearly demonstrated U.S. resolve and commitment to its friends and allies in the region.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h3</NodeType>
+        <Contents>Operation VIGILANT SENTINEL</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Less than one year later, Saddam Hussein would again deploy Iraqi forces close to its border with Kuwait. In August, Third Army/ARCENT provided command and control for a rapid deployment of a heavy brigade task force. Once more, Iraqi threats were decisively met while ARCENT simultaneously conducted a major training exercise in Egypt, "BRIGHT STAR 95," involving military forces from 6 other nations. This contingency operation validated critical procedures for deployment, particularly the off loading of equipment from floating prepositioning ships and its distribution to arriving soldiers. The deployment of a "Fly-Away Package" of key contingency staff also validated procedures for a rapidly deployed command and control group able to conduct combat operations immediately upon arrival. VIGILANT SENTINEL's immediate, measured, and effective response to Iraqi aggression quickly convinced Hussein to withdraw his forces from the Kuwaiti border.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h3</NodeType>
+        <Contents>Operation DESERT STRIKE</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In September 1996, Iraq violated United Nations sanctions by deploying forces north of the 36th Parallel and attacking ethnic Kurds in Northern Iraq. In response to Hussein's refusal to cease these attacks on the Kurdish people, the U.S. launched cruise missile strikes against selected military targets inside Iraq. As tensions remained high in the region, a heavy brigade task force was deployed to Kuwait under the command of Third Army/ARCENT to deter potential retaliatory attacks on Kuwait. Hussein soon capitulated, withdrawing his military forces south of the 36th Parallel. Again, we had been instrumental in stabilizing a dangerous situation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h3</NodeType>
+        <Contents>Operation DESERT THUNDER I</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When Saddam Hussein blocked United Nations weapons inspections, tested the resolve of coalition commitment by violating the no-fly zone, and publicly threatened to shoot down U2 reconnaissance over-flights in the Fall of 1997, CENTCOM responded with a land, sea, and air strike force of more than 35,000 U.S. and coalition forces. In support of this powerful multi-service, multinational ground force, General Anthony C. Zinni, Commander-in-Chief, CENTCOM, established a permanent Coalition/ Joint Task Force (C/JTF), headquartered at Camp Doha, Kuwait, and commanded by Lieutenant General Tommy R. Franks, Commanding General, Third Army/ARCENT.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition to the U.S. and coalition forces already in Kuwait, a brigade task force from 3d Infantry Division, Fort Stewart, Ga., rapidly deployed to Kuwait. Departing from Hunter Army Airfield, the brigade task force deployed 4,000 personnel and 2,900 short tons of equipment on 120 aircraft. Within 15 hours of landing at Kuwait City International Airport, the unit had drawn prepositioned equipment and was in battle positions in the desert. On Feb. 28, Coalition/Joint Task Force-Kuwait was prepared to defend Kuwait with a ground force strength of more than 9,000 personnel.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Argentina, Australia, Canada, Czech Republic, Hungary, New Zealand, Poland, Romania, United Kingdom, and Kuwait rounded out the C/JTF by providing liaison teams, aircraft support, special operations elements, Chemical/Biological, Base Defense Units, MASH units, and medical personnel.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Added to forces on the ground was equipment for two more brigades (one Army and one Marine) afloat in the Arabian Gulf with the Maritime Preposition Force. These ships were poised to link up with soldiers and Marines who would draw their equipment and head to the front if required. Attack air provided by Navy, Air Force, and Coalition assets rounded out this formidable force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>This was the largest multinational force assembled in Southwest Asia since the conclusion of the Gulf War. The demonstrated capability to quickly deploy combat forces from around the world successfully deterred Iraqi aggression and helped reinstate compliance with the UN Weapons Inspection Program. In November 1998, when the work of the UN inspectors was again interrupted, Third Army quickly returned to the Gulf to convince Saddam that the United States stood ready to enforce the terms of the cease-fire.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h3</NodeType>
+        <Contents>Operation DESERT THUNDER II</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As Saddam Hussein violated United Nations sanctions and threatened regional stability, we began deploying to Kuwait and preparing for combat operations. Coalition/Joint Task Force-Kuwait, in place since DESERT THUNDER I, played a key role in the rapid deployment, reception, staging, onward movement, and integration of forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Units deploying to Kuwait included advance parties from the 3d Infantry Division and the 32d Army Air and Missile Defense Command (AAMDC), personnel from the Theater Support Command (TSC), Air Support Operations Center (ASOC), and Marine Forces. In addition, the redeployment of the Marine Expeditionary Unit (MEU) in the Gulf was placed on hold and a second Marine Expeditionary Unit was ordered to the Gulf as reinforcement.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>While forces were deploying to the Arabian Gulf region, United Nations Secretary-General Kofi Annan flew to Baghdad to meet with Saddam Hussein. Following negotiations, Saddam Hussein agreed to allow uninterrupted resumption of United Nations weapons inspections. In mid-Nov, as the crisis defused, there were 2,300 personnel deployed to Kuwait in support of C/JTF-Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h3</NodeType>
+        <Contents>Operation DESERT FOX</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When Iraqi aircraft began challenging the established no-fly zones, and Iraqi Air Defense systems fired on allied aircraft in Dec. 1998, U.S. and U.K. forces responded with a massive display of firepower. Allied air force and navy aircraft, and Cruise Missiles engaged command and control, communications, and selected Republican Guards targets on the morning of Dec. 16. These concentrated attacks against Iraqi targets continued until the early morning of Dec 19. During the campaign, Third Army again deployed forces to defend Kuwait, and to reassure our Allies in the Gulf region. By late Dec, C/JTF-Kuwait consisted of approximately 6,000 personnel, including the 31st Marine Expeditionary Unit.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Operation Desert Storm</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As the chess pieces on the table started to move in the fallout of Saddam Huesein's invasion of Kuwait, the Third United States Army was about to issue in a new chapter in the unit's already prestigious history. Third Army would become the Command and Control for the entire invasion, designed to oust Saddam's forces from Kuwait. Third Army played out the leading role in Operation Desert Storm.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>LTG Yeosock was tasked with a most daunting assignment.working directly for General H. Norman Schwarzkopf, he became responsible for the Command and Control of the entire invasion. Third Army, which was formerly a combatant Army, now had shifted gears and transitioned into a warfighting headquarters, making the switch from putting rounds on target, to controlling and organizing all aspects of the battlefield. Having some of the Army's most elite fighting forces at his command, the battle for Kuwait commenced on February 24th, 1991.
+Overall control of all forces was General Schwartzkopf, but the in-the-trenches commander was LTG Yeosock. As the ground war commenced, units began the move. As with any major campaign, communications and what people were seeing and hearing in different locations proved to be a huge obstacle. LTG Yeosock's crew in the "Lucky Main" were the eyes and ears that kept things together.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The ground war lasted just 4-days: it was the culmination of months of planning, massive troop buildups and serious challenges in regards to weather and conditions. LTG Yeosock's eyes and ears at Lucky Main were the hub that kept the giant wheel moving. Touted as an overwhelming success, the ground war was shaped, planned and executed by the troops in or assigned to the Third United States Army. Their successes and ultimate victory in Operation Desert Storm were the paving stones to the Third Army taking up residence in Kuwait and ultimately becoming the logistical center for both Operations Iraqi and Enduring Freedom.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army again demonstrated its professionalism during Operations DESERT SHIELD/DESERT STORM in 1990/1991. With the Iraqi invasion in August 1990, Third Army would once again lead soldiers into combat. Then commanded by Lieutenant General John J. Yeosock, Third Army began deploying from its Atlanta headquarters in August 1990 to assume its role as U.S. Army Forces Central Command (ARCENT), the senior Army headquarters in Saudi Arabia during the Gulf War.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>ARCENT's initial mission was to build combat power in the region, defend critical oil and port facilities in eastern Saudi Arabia, and to transition to a defense in sector. Third Army was responsible for building the forward logistical base to support arriving Army units. The support base for these units was in the United States, a distance of 12,000 miles/31 days by sea or 7,400 miles/14 hours by air.
+During the first 90 days of DESERT SHIELD, ARCENT coordinated the reception and sustainment of a force equal to what had taken a year to deploy during the Vietnam War.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the president's announcement in November to deploy more units for a possible offensive, ARCENT put the final touches on its ground plan. The plan called for a deep, wide sweep into southern Iraq. ARCENT's multinational combat forces consisted of two corps headquarters (the XVIII Airborne Corps and the VII Corps), nine divisions (82nd Airborne, 101st Air Assault, 24th Infantry (Mechanized), 1st Infantry (Mechanized), 1st Cavalry, 1st Armored, 3rd Armored, 1st British Armored, and 6th French (Light)), and two armored cavalry regiments (the 2nd ACR and 3rd ACR).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army's mission was to close with and destroy Iraq's Republican Guard. Simultaneously, U.S. Marine Corps and multinational coalition forces were to cross into Kuwait to support ARCENT's main attack. The war plan successfully deceived the Iraqis regarding disposition of allied ground forces. After the start of the air war, Jan. 17, 1991, ARCENT prepared to take the offensive. In less than three weeks, 250,000 soldiers, 10,000 tracked vehicles, and 50,000 wheeled vehicles moved from assembly areas in Eastern Saudi Arabia to attack positions 360 miles Northwest along the Iraqi border.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The ground war was launched Feb. 24 and ended just 100 hours later on Feb. 28. Quick and decisive, this was the largest armored battle in the history of warfare with ARCENT and allied ground forces exceeding all expectations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the Gulf War, ARCENT oversaw the restoration of life support facilities in Kuwait and cared for Iraq's displaced civilians. It also transitioned the United Nations Observation Mission forces into the buffer zone along the Iraqi-Kuwaiti border.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Third Army: Operation Iraqi Freedom</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army/USARCENT as the CFLCC for Operation Iraqi Freedom, spent months devising the plan that would direct and move all ground forces in the campaign through Iraq and eventually into Baghdad to capture the capital city. The first priority as units began to move north was the capture and holding of Tallil Air Base. In the CFLCC plan this objective was pivotal in our ability to stage forces, move supplies and continue the march north to Baghdad. Seizing Tallil Air Base was an important moment not only because the CFLCC needed the base, but also because it was adjacent to An Nasiriyah, the first Iraqi city the corps would encounter. Under the guidance of Third Army, the 3rd ID captured the objective. That decisive moment was to be the catalyst that sparked everything else in the drive to Baghdad.
+As late as D-day, Lieutenant General McKiernan could not predict what the battlefield would look like when V Corps and I MEF reached the city. Planners, from CENTCOM down to the maneuver divisions, struggled to paint a picture of the city after an unknown period of fighting during the approach from Kuwait. Because of this uncertainty, planners built flexibility into their plan. This allowed the smaller unit tactical commanders to easily adjust tactics as needed.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Of course, none of the senior commanders-Lieutenant Generals McKiernan, Wallace, or Conway-wanted to slacken the pressure on Saddam Hussein, the Ba'athist regime, or the defending forces. While the corps and MEF consolidated around the city, both planned to execute a steady stream of limited-objective raids, air strikes, psychological and information operations, and ground attacks on key targets in the city. These targets were chosen with great care to degrade the regime's actual-and perceived-control over the capital city and the country of Iraq, based on analysis and planning. By the time V Corps entered to the heart of Baghdad on 5 April, all major systems within the city had been dissected, studied, and targeted.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 7 April, 2nd Brigade Spartans launched a second thunder run, ending up in downtown Baghdad-the absolute heart of Saddam's regime-to demonstrate to the Iraqis and the world the Americans' freedom to move about the city. On that day the commander made the single decision that arguably shortened the siege by weeks, if not months-he chose to stay downtown. Equally important, McKiernan, Wallace, and Blount trusted his judgment and underwrote the risks that he took. While the fighting continued in earnest for another few days and insurgents fight on today, the second thunder run broke the regime's back, and any remaining political or military leaders of rank disappeared in a flash of self-preservation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army/USARCENT has at its disposal, a vast array of capabilities, units and movement equipment to facilitate any movement needs for the entire theater. Once the "Surge" began, Third Army ratcheted up its systems and started moving all the supplies and personnel from the United States into the Iraq theater of Operations. This surge taxed systems, equipment and personnel but, Third Army continued to show its colors as they completed all missions effectively and efficiently. The movement of the forces was rapid and large but Third Army flexed and overcame all adversity to make the "Surge" a complete success from the logistical angle. Once again, Third Army was in the mix "Sustaining the Fight"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army/USARCENT controls and directs logistical capabilities and achievements that no military or commercial organization in the world has. Sustaining the fight every day with an incredible capacity for deployment, training, sustainment, and redeployment of forces in the CENTCOM theater of operations. The success of the Responsible Drawdown of US forces from Iraq by 2011 has been placed in the hands of Third Army. Ongoing operations are already legendary in scope.in the year falling between fall 2009 and summer 2010, Third Army will facilitate the closure or handover of hundreds of military bases and camps in Iraq, entailing the movement, refurbishment, and possible redeployment to Afghanistan of thousands of end items and millions of pieces of equipment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Equipment requiring repair or upgrades can be handled at one of Third Army/USARCENT's refurbishment program sites, while repositioning within theater is readily facilitated at local Air and Sea Ports of Embarkation and Debarkation (APOEs/APODs and SPOEs/SPODs). This will save the government millions of dollars since equipment will not have to be shipped back to the US.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Third Army History</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Established in the closing days of World War I, Third Army served as part of the Allied Army of Occupation in Germany until July 1919 when it deactivated.  Reconstituted in 1921 as part of the organized reserves, it was reconstituted in the regular army in 1931 and reactivated at Fort Sam Houston, Texas in 1932, where it was responsible for training Army National Guard and Army reserve forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the early days of World War II, Third Army trained forces for the war effort.  In 1944, as the Allies prepared for the invasion of Europe, Third Army was relieved of its training mission and deployed to the United Kingdom ready to assume its role which led to the defeat of Nazi Germany.   In the summer of 1944, Lt. Gen. George S. Patton, Jr. assumed command of Third Army leading it in eight major campaigns in France, Belgium, Luxembourg, Germany, Czechoslovakia, and Austria, and establishing Third Army as America's premier fighting Army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>At the end of the war, Third Army became part of the Army of Occupation, remaining in Germany until 1947.  When it returned to Fort McPherson, Ga., it became an administrative headquarters responsible for the training of Army National Guard and Army reserve forces in the southeastern U.S.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army was deactivated at Fort McPherson in 1973 and reactivated in 1983 as the senior army headquarters for the newly established U.S. Central Command.  In 1990, Third Army deployed to Saudi Arabia as the senior army headquarters for U.S. CENTCOM.  It was responsible for deploying, receiving and sustaining all army forces during Operations Desert Shield and Desert Storm.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Soon after the September 11, 2001 attacks, Third Army deployed to Kuwait and became responsible for providing command and control for all Coalition Forces engaged in Operation Enduring Freedom.  As the Coalition Forces Land Component Command (CFLCC), Third Army directed the ground war in Afghanistan and surrounding countries from Nov. 11, 2001 to May 31, 2002.  Third Army's major mission was to conduct operations to destroy al Qaeda and Taliban terrorist networks.  In June 2002, Third Army conducted a transfer of authority for Afghanistan to the newly established Joint Task Force 180, which was comprised of elements from the XVIII Airborne Corps.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Within months, Third Army again deployed to Kuwait. Designated as CFLCC, it prepared for military operations against Iraq.  In March 2003, Third Army led decisive military operations to liberate Iraq and remained there until June 2003.  Third Army transferred responsibility of Iraq to the newly established Joint Task Force-7, comprised of elements of the U.S. Army V Corps.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Third Army continues to support Operation Enduring Freedom and Iraqi Freedom and provide Title 10 support to all U.S. Army forces in the USCENTCOM area of responsibility.  Third Army executes reception, staging, and onward movement support for all Coalition Land Forces entering the theater and also theater sustainment in Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Today, Third Army stands ready to organize, plan and on order, command and control joint/combined operations anywhere in the USCENTCOM area of responsibility.  Its Soldiers remain focused on global agility, strategic and operational imperatives, and war fighting leadership required in joint and coalition operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Third Army team stands ready to conduct operations anytime and anywhere as directed in order to deter or defeat adversaries while sustaining forces in theater in order to support combat and shaping operations. It continues to shape the operational environment in order to enable partners.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/jtf-ku.htm</Url>
+    <NameNode>Coalition/Joint Task Force-Kuwait (C/JTF-KU)</NameNode>
+    <FullName>Coalition/Joint Task Force-Kuwait (C/JTF-KU)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/jtf-ku.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Arifjan KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-arifjan.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp Doha KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-doha.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>The Kabals KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/kabal.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq />
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tf-patriot.htm</Url>
+        <FullName>PATRIOT Task Force</FullName>
+        <Name>PATRIOT Task Force</Name>
+        <Id>army/tf-patriot.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Intrinsic Action / Desert Spring</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Iris Gold</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Eager Mace</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/tf-patriot.htm</href>
+            <text>PATRIOT Task Force</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-arifjan.htm</href>
+            <text>Camp Arifjan KW</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-doha.htm</href>
+            <text>Camp Doha KW</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/kabal.htm</href>
+            <text>The Kabals KW</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Coalition/Joint Task Force-Kuwait (C/JTF-KU)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Coalition/Joint Task Force-Kuwait (C/JTF-KU)
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Established during Operation DESERT THUNDER I and continuously manned since February 1998, C/JTF-KU (Fwd) provides a forward command and control headquarters capable of rapid expansion to execute joint, combined, and coalition combat operations and maintains area situational awareness by daily coordination with the Air Force and Navy Joint Task Forces in Saudi Arabia and Baharain, respectively. C/JTF-KU (Fwd) also has tactical control of all Army forces deployed in Kuwait and U.S. Marine forces when ashore in Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Beginning in February 1998, General Anthony C. Zinni, Commander in Chief, U.S. Central Command (CINCCENT), increased the number of bombers, strike aircraft, and Tomahawk land attack missiles deployed in Southwest Asia. At the same time, he requested deployment of a potent ground force. The message was clear - this would not be business as usual - as more than 35,000 soldiers, sailors, airmen and Marines, as well as coalition forces, deployed to the Gulf.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In support of this powerful multi-service, multinational ground force, Coalition/Joint Task Force-Kuwait (C/JTF-KU) was established in 1998 under the command of Lt. Gen. Tommy R. Franks, Commander, Third U.S. Army and U.S. Army Forces Central Command (ARCENT). The C/JTF-KU quickly became a professional warfighting organization. As the Army component of United States Central Command (CENTCOM), ARCENT, headquartered at Fort McPherson, Ga., was selected by General Zinni to form C/JTF-KU because of its significant forward presence at Camp Doha, Kuwait, and its capable planning and operational experience in the region.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As its name implies, C/JTF-KU was conceived as a multinational force designed to deter aggression against US allies, to assure allies of US commitment to defense of the region, and, if necessary, to defend Kuwait. The 11-nation C/JTF-KU received forces and force pledges from America's longstanding allies including Australia, Canada, New Zealand, and the United Kingdom. It also received forces from other military partners including Argentina, the Czech Republic, Hungary, Poland, and Romania. Completing the C/JTF-KU was the host nation of Kuwait, along with Army, Navy, Air Force, and Marine forces from the United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>One of the benefits of establishing the C/JTF-KU was greatly enhanced U.S./Kuwaiti military coordination and cooperation. Another positive aspect was the integration of coalition partners into U.S. regional contingency planning efforts. Such planning and mutual support had not been accomplished to this extent since the Gulf War. The deployment of these forces, coupled with the creation of C/JTF-KU, sent an unmistakable message to Saddam Hussein and his political and military followers: a worldwide coalition defends Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Advances in command, control, communications, computer and intelligence (C4I) technology and prepositioned equipment sets, ashore and afloat, enabled the C/JTF-KU to precisely tailor forces to be deployed. The C/JTF-KU stood-up as a predominantly fully operational land task force, although each of the other services was represented as necessary to establish a truly "purple" organization.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The selection of Camp Doha, Kuwait, as the forward staging base and headquarters site for Operation DESERT THUNDER, proved to be a critical element in success of the operation. Superb facilities, command and control infrastructure, logistics base, and prepositioned equipment allowed air and ground forces to quickly deprive Iraq of preemptive options.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Upon activation of the C/JTF-KU, the in-country assets fell under the control of the C/JTF-KU commander. IRIS GOLD transitioned to a special operations command and control element under tactical control of the C/JTF-KU. NAVCENT, the Joint Psychological Operations Task Force, the Joint Special Operation Task Force, and MARCENT all established liaison cells in the COIC. All remained under the command and control of CENTCOM and had coordination authority with C/JTF-KU. Coalition members sending liaison officers were provided office space in the COIC but were separated from the operations and intelligence areas. A C/JTF-KU coordination cell, commanded by a U.S. colonel, provided connectivity and support assistance and acted as a direct staff representative to the various liaison teams.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>C/JTF-KU was supported by a robust MASINT presence, with Mobile Ground Station Module teams from the 513th MI Force Projection Brigade providing Joint Surveillance Target Attack Radar System (JSTARS) downlinks to the Deep Operations Coordination Centers at both the land component command headquarters (the tactical command post) and the COIC. In addition to the Mobile Ground Station Modules, a stand-alone joint STARS workstation was deployed and tested at C/JTF-KU headquarters with great success. JSTARS was a successful piece of an overall superb targeting effort that was exercised by the C/JTF-KU during a one-week Deep Operations Center exercise and a coalition command post exercise.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/tf-patriot.htm</Url>
+    <NameNode>PATRIOT Task Force</NameNode>
+    <FullName>PATRIOT Task Force</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Eskan Village  SA</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Site I Ahmed Al Jaber AB KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Site II Ali Al Salem  AB KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Site III Dhahran AB SA</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Site IV Riyadh AB SA</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq />
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Operations</h3>
+        <li>
+          <li>
+            <text>Operation Desert Falcon</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Operation Desert Thunder</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Patriot Battery (Alfa)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patriot Battery (Bravo)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patriot Battery (Charlie)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patriot Battery (Delta)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Eskan Village  SA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Site I Ahmed Al Jaber AB KW</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Site II Ali Al Salem  AB KW</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Site III Dhahran AB SA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Site IV Riyadh AB SA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>PATRIOT Task Force</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>PATRIOT Task Force
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army forces in Saudi Arabia include a rotating U.S. Army Patriot missile battalion task force which is deployed on a 120-day rotation. The Patriot Task Force has the mission of conducting tactical ballistic missile defense of specified assets in southwest Asia and maintaining pre-positioned Patriot missile equipment in the theater.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Each battery has eight missile launchers, each containing four missiles.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Patriots have been stationed in Saudi Arabia since Operation Desert Shield / Storm in 1990-1991, first with two battalions under 94th Brigade (ADA) in Oct 1991, eventually being replaced by 10th Bde (ADA) in January 1992. With the formation of ARCENT-SA in July 1992, the Tactical Ballistic Missile (TBM) mission fell to a rotational Patriot Task Force under the Command and Control of ARCENT-SA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The PATRIOT Task Force brings a variety of capabilities to Saudi Arabia and Kuwait. It  provides an integrated air defense capability in support of Joint Task Force - Southwest Asia (JTF-SWA).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The PATRIOT Task Force is a subordinate unit to U.S. Army Forces Central Command - Saudi Arabia (ARCENT-SA). Air defense rotations have been in the Persian Gulf area since Desert Storm in 1990. Nine air defense battalions had rotated to Southwest Asia as of January 2001. Some units have sent forces two or three times already. Some individuals have deployed as many as eight times. The task force normally is divided between both Saudi Arabia and Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 25 June 1996, the lives of 19 United States military personnel were lost in a terrorist attack on Khobar Towers in Dhahran, Kingdom of Saudi Arabia (KSA). This attack began the planning phase of Operation DESERT FOCUS, which eventually led to the relocation of approximately 6,000 people within KSA and improved the Command's ability to protect lives and assets stationed throughout Southwest Asia (SWA). Operation DESERT FOCUS relocated people, aircraft and equipment to three primary sites in KSA: Eskan Village, Riyadh; Prince Sultan Air Base (PSAB), Al Kharj; and Eagletown/Site 12, Dhahran. The Army's</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Patriot batteries and their support personnel remained in Riyadh and Dhahran</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>. The crews at Dhahran moved from Khobar Towers to the Royal Saudi Air Force's King Abdul Aziz Air Base. The crews from Riyadh moved to Eskan Village. The forces from Riyadh relocated at Eskan Village in a matter of weeks, during August 1996.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998 ARCENT-SA supported operation Desert Thunder, a show of resolve against Iraq. During Operation Desert Thunder, ARCENT-SA increased the number of active Patriot batteries from 4 to 6, moved Patriot batteries to four new sites in Kuwait and Bahrain, deployed a Ready Reserve Battery from
+CONUS, and prepared plans to position an eighth battery back in the Eastern Province. Since, the end of Desert Thunder, the number of Patriot batteries was reduced to two active and one RRB in Saudi Arabia and two ARB in Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Task Force 1-7, known as Task Force Panther, comprised of soldiers from the 1st Battalion, 7th Air Defense Artillery, Fort Bliss, Texas and A Company, 2nd of the 137th Infantry, Kansas Army National Guard, assumed the role of providing 24-hour air defense protection to critical allied assets in the Kingdom of Saudi Arabia and the Emirate of Kuwait.   A relief -in-place ceremony, signifying the transfer of mission responsibility between an outgoing and incoming command, was conducted 12 June 2001 at the Army Central Command-Saudi Arabia (ARCENT-SA) headquarters at Eskan Village, Riyadh, Saudi Arabia.    The 1st Battalion, 7th Air Defense Artillery, was formed into a task force specifically to support this Patriot missile defense mission.  Guard soldiers provide site security and force protection to the Patriot sites in both Saudi Arabia and Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Relinquishing the Southwest Asia air and missile defense mission to Task Force Panther was Task Force Lion, which included soldiers of the 2nd Battalion, 1st Air Defense Artillery, Fort Bliss, Texas, and soldiers of B Company, 2nd of the 135th Infantry from the Minnesota Army National Guard.  Task Force Lion assumed the mission in January 2001.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In January 2001 at Eskan Village, the antiballistic missile defense mission in Saudi Arabia and Kuwait changed hands from one PATRIOT missile task force to another. Task Force 2nd Battalion, 1st Air Defense Artillery Regiment relieved Task Force 1st Battalion, 1st Air Defense Artillery Regiment, both home stationed at Fort Bliss, Texas. Lt. Col. John Rossi, Commander of TF 2-1 ADA unfurled the unit colors marking the assumption of the mission. TF 1-1 ADA Commander Lt. Col. Kelvin Bright cased his unit's colors marking the beginning of his unit's trip home. TF 2-1 ADA became a subordinate unit to U.S. Army Forces Central Command - Saudi Arabia (ARCENT-SA). Incoming TF 2-1 ADA was the first PATRIOT missile unit to deploy with elements of its National Guard counterparts. Battery B (PATRIOT), 1st Battalion, 203rd ADA Regiment, Alabama Army National Guard, joined TF 2-1 ADA in this historic rotation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In September 2002 newspapers in Kuwait featured front-page stories about the arrival of more Patriot missiles, defensive weapons meant to shoot down incoming Scud missiles. The Patriot batteries are to be deployed around the Ali al Salem and Ahmad al Jaber air bases, where the US and British aircraft that enforce the "no-fly" zone in southern Iraq are stationed.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usaf/682asos.htm</Url>
+    <NameNode />
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usaf/images/682asos.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Equipment</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units Supported</h3>
+        <li>
+          <li>
+            <text>XVIIIth Airborne Corps</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Central Command (ARCENT)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <text>Shaw AFB, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>682nd Air Support Operations Squadron</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>682nd Air Support Operations Squadron  [682nd ASOS]</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usaf/images/682asos.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 682nd Air Support Operations Squadron ASOS is an operational component of the Tactical Air Control System.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 682nd ASOS is assigned to the 18th Air Support Operations Group, Pope AFB, NC, which is a direct reporting agency of 9th Air Force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The ASOS' primary function is to coordinate and direct the tactical air effort in the support of land forces and provide fast reaction to satisfy immediate requests from the Army for close air support. The ASOS provides advice and assistance to Army commanders concerning the employment of all Air Force resources and may be granted scramble and control authority over sorties designated to fulfill Army requirements.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The squadron is alligned with the Army's XVIIIth Airborne Corps,  but also supports Army Central Command (ARCENT).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When deployed, the ASOS forms an Air Support Operations Center (ASOC) under the operational control of the Joint Forces Air Component Commander (JFACC), through the Air Operations Center (AOC).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 682nd ASOS employs several types of communication systems to get the job done.  Capabilities include tactical satellite terminals and tropo/line-of-site systems (long haul comm), and various radio systems for communicatiing with air and ground forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

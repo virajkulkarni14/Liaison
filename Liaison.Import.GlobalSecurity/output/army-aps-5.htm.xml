@@ -1,0 +1,1546 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/aps-5.htm</Url>
+    <NameNode>Army Prepositioned Stock 5 (APS-5)</NameNode>
+    <FullName>Army Prepositioned Stock 5 (APS-5)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Arifjan KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-arifjan.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp Doha KW</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-doha.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp Al Karana  QT</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/al-karana.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp As Sayliyah QT</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-as-sayliyah.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/aps.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Army Prepo Stock</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/ceg-afloat.htm</Url>
+        <FullName>Combat Equipment Group - Afloat/Asia</FullName>
+        <Name>Combat Equipment Group - Afloat/Asia</Name>
+        <Id>army/ceg-afloat.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</Url>
+        <FullName>Army Materiel Command-Fwd SWA</FullName>
+        <Name>Army Materiel Command-Fwd SWA</Name>
+        <Id>army/amc-fwd-swa.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/ceb-kuwait.htm</Url>
+        <FullName>Combat Equipment Battalion-Kuwait</FullName>
+        <Name>Combat Equipment Battalion-Kuwait</Name>
+        <Id>army/ceb-kuwait.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/ceb-qatar.htm</Url>
+        <FullName>Combat Equipment Battalion-Qatar</FullName>
+        <Name>Combat Equipment Battalion-Qatar</Name>
+        <Id>army/ceb-qatar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>2x1 Brigade Set [Kuwait]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2x1 Brigade Set [Kuwait]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2x1 Brigade Set [Kuwait - Sep 02]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2x1 Brigade Set [Kuwait - ex-Qatar]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/ceg-afloat.htm</href>
+            <text>Combat Equipment Group - Afloat/Asia</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</href>
+            <text>Army Materiel Command-Fwd SWA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/ceb-kuwait.htm</href>
+            <text>Combat Equipment Battalion-Kuwait</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/ceb-qatar.htm</href>
+            <text>Combat Equipment Battalion-Qatar</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-arifjan.htm</href>
+            <text>Camp Arifjan KW</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-doha.htm</href>
+            <text>Camp Doha KW</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/al-karana.htm</href>
+            <text>Camp Al Karana  QT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-as-sayliyah.htm</href>
+            <text>Camp As Sayliyah QT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Army Prepositioned Stock 5 (APS-5) 
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army Prepositioned Stock 5 (APS-5)  is located in Southwest Asia, and as of early 2002 consisted of two brigade-sets of material -- one stored in Kuwait and the other stored in Qatar. These 2x1 brigade sets each consist of two armor battalions and one mechanized infantry battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army Prepositioned Stocks-5 (APS-5) at Camp Doha stocks consist of a divisional Armor brigade task force with two Armor/Infantry balanced task forces and one pure Armor battalion. Combat support and combat service support units are also part of prepositioned stocks. Each brigade set consists of one mechanized and two armored battalions, as well as equipment for combat service support units. Each brigade set holds in storage about 115 M-1A1 Abrams tanks, 60 M-2A2 Bradley fighting vehicles, 100 armored personnel carriers, 25 mortars and 20 155-millimeter howitzers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of 2001 plans called for storing a third brigade set in the region eventually. With APS-5, APS-3 and Qatar, the Army could muster eight maneuver battalions.  The CENTCOM commander in chief's (CINC's) goal is to pre-position a division of equipment [including nine maneuver battalions] on the Arabian peninsula.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the end of August 2002 the US had moved equipment, which had been stored in Qatar and Europe, to Kuwait. The US had enough equipment in Kuwait -- three brigade sets -- to support about 15-25,000 troops in Kuwait. It would take only a few days to bring in the soldiers to man the tanks, artillery pieces and armored personnel carriers now in place ["Bush Faces Complex Gauntlet On The Path To War With Iraq" By David S. Cloud and Greg Jaffe, Wall Street Journal September 5, 2002 Pg. 1].</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 04 September 2002 US defense officials</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents>confirmed plans to  transport a brigade's worth of equipment</Contents>
+        <Href>../../../wmd/library/news/iraq/2002/iraq-020904-375db3e9.htm</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>-- about 70 tanks and other tracked vehicles plus additional military cargo -- to Kuwait from the United States aboard a commercial cargo vessel in late September.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 05 September 2002 Army Secretary Thomas E. White disclosed some details about a movement in July of weaponry and war supplies from Qatar to Camp Doha in Kuwait. He described the shipment as a training exercise, in which the U.S. Army moved a brigade's worth of equipment from Qatar to Kuwait, closer to the border with Iraq. But other Army officials said much of the materiel -- which included armored vehicles as well as fuel, ammunition and other supplies -- remained in Kuwait to provide for the expansion of ground forces ordered after the 9/11 terrorist attacks. Two battalions of troops were added to the single battalion that had been in Kuwait, establishing a brigade of more than 6,000 soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The IOC assumed control of APS-5 on 30 April 1996.  At that time AWR-5 was a full, heavy brigade set of equipment, ready to fight as fast as troops can be flown into theater.  The US Army  pre-positioned Army War Reserves Set 5 (APS-5) at Camp Doha, Kuwait, to meet the time/distance challenge. ARCENT-Kuwait</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>can issue at least a battalion set of that equipment every 24 hours</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Army routinely exercises that equipment at least twice a year during the DESERT SPRING [formerly INTRINSIC ACTION] exercise series with brigade command posts and battalion task forces (TFs) from the 1st Cavalry Division, Fort Hood, Texas, and 24th Infantry Division (ID) (Mechanized) [M], now redesignated the 3d ID(M), Fort Stewart, Georgia. In the recent past, the 4th ID(M), Fort Hood, and the 1st Armored Division, Bad Kreuznach, Germany, also participated. APS-5 was a valuable deterrent during VIGILANT WARRIOR from October to December 1994 when the 24th ID(M) fell in on it and trained vigorously and visibly to demonstrate US presence and resolve to Iraq. From August to December 1995 during VIGILANT SENTINEL, the 1st Cavalry Division trained with the equipment, showing they are fully prepared to fight alongside our Kuwaiti allies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Well maintained, rapidly issued and versatile, APS-5 could put a fighting force on the ground swiftly, at the "point of the spear." In September 1995, Lieutenant Colonel Charlie Smithers was tasked to establish ARCENT-Qatar and receive a battalion set of equipment within four months. By January 1996, in Qatar, Third Army/ARCENT had pre-positioned the first increment of the next brigade set of equipment on the Arabian peninsula. A heavy battalion TF set of equipment was in place, and was planned to eventually be expanded to a full division base set. A Third Army/ARCENT and Army Materiel Command partnership is developing the concepts to get this set of equipment rapidly into the fight.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Because of the large volume of equipment stored in Europe and the corresponding needs in SWA, Europe sent the majority of its remaining stock to APS-5 in support of OEF/OIF. The surge mission was the most complex, time-sensitive, and important redistribution effort ever undertaken by the command. The Army has primarily depended on two APS sets for operations in Iraq and Afghanistan - APS-3, which is equipment prepositioned on ships, or "afloat"; and APS-5, which is the equipment prepositioned in Southwest Asia. APS-5 has been depleted and reconstituted several times over during the course of these operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/aps.htm</href>
+        <text>Army Prepo Stock</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/ceg-afloat.htm</Url>
+    <NameNode>Combat Equipment Group Afloat/Asia
+Army Materiel Command  Afloat</NameNode>
+    <FullName>Combat Equipment Group Afloat/Asia; Army Materiel Command  Afloat</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Goose Creek</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/fsc.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>FSC</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/aps-3.htm</Url>
+        <FullName>Army Prepositioned Stock (APS-3)</FullName>
+        <Name>Army Prepositioned Stock (APS-3)</Name>
+        <Id>army/aps-3.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/apsron4.htm</Url>
+        <FullName>Afloat Prepositioning Squadron  4</FullName>
+        <Name>Afloat Prepositioning Squadron  4</Name>
+        <Id>navy/apsron4.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Combat Equipment Base-Hythe</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Maintenance Det-Diego Garcia</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Related Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/aps-3.htm</href>
+            <text>Army Prepositioned Stock (APS-3)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/apsron4.htm</href>
+            <text>Afloat Prepositioning Squadron  4</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Combat Prepositioning Ships</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Goose Creek, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Combat Equipment Group Afloat/Asia
+&lt;br&gt;Army Materiel Command  Afloat
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The AMC-Afloat mission is to manage operations related to APS afloat (APS-3) at logistics support facilities in Goose Creek, SC, the Combat Equipment Base-Hythe (CEB-Hythe), located in Hythe, England, and the Army Maintenance Detachment-Diego Garcia. The AMC-Afloat also oversees logistics operations for container and ammunition ships at designated ports. The AMC-Afloat performs inherent Government functions and provides oversight of contractor functions performed IAW Statements of Work (SOW).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the Combat Equipment Group-Asia (CEG-A) was to oversee and manage operations related to Army Prepositioned Stocks afloat (APS-3), and APS-5. The CEG-A operated logistics support facilities for the storage, maintenance, modification, and related support of all classes of supply, less class VIII (medical). In March 1996, the U.S. Army Materiel Command (AMC) directed the formation of a management structure designated as the Army War Reserve Support Command (AWRSPTCMD) for all APS assets. The AWRSPTCMD, a sub-command of the U.S. Army Industrial Operations Command (IOC) with headquarters at Rock Island, Illinois,  instituted a command and control element for APS-3 and APS-5 stocks called the Combat Equipment Group - Asia, located at Charleston, SC. CEG-A consisted of an APS-3 equipment maintenance facility - formerly Combat Equipment Base-Afloat Charleston, SC), Combat Equipment Base-Southwest Asia (Qatar/Kuwait), Combat Equipment Base-Northeast Asia (Korea/Japan/Hawaii), and Combat Equipment Base-North Atlantic (Hythe, England), formerly called Hythe Army Depot Activity (HYDA).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the reorganization from Combat Equipment Group-Asia to AMC-Afloat, responsibility for Combat Equipment Base-Northeast Asia transitioned to Army Materiel Command-Fwd Far East, and  Combat Equipment Base-Southwest Asia transitioned to Army Materiel Command-Fwd SWA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/aps-3.htm</Url>
+    <NameNode>Army Prepositioned Stock (APS-3)</NameNode>
+    <FullName>Army Prepositioned Stock (APS-3)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Diego Garcia</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/diego-garcia.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/aps.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Army Prepo Stock</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>2x2 Brigade Set</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1x1 Brigade Set</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/ceg-afloat.htm</href>
+            <text>Combat Equipment Group - Afloat/Asia</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/diego-garcia.htm</href>
+            <text>Diego Garcia</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>References</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/library/news/2012/09/mil-120925-arnews02.htm</href>
+            <text>APS-3 Army strategic flotilla rebuild complete, meets 2020 strategy Army News 25 Sep 2012</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/library/news/2001/07/IP-APS-3_Info_11-JUL-01.doc</href>
+            <text>Army Prepositioned Stocks (APS)-3 / Army Prepositioning Afloat (APA) Information Paper, US Army, 15 Jul 2001</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Army Prepositioned Stock (APS-3) </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Army Prepositioning Afloat (APA) / Combat Prepositioning Force [CPF] Combat Prepositioning [PREPO] afloat is made up of ships from the Afloat Pre-positioning Force (APF) of the Military Sealift Command (MSC). The flexibility inherent in the APF makes this force a key element in joint operation planning; the APF is capable of supporting the plans for the entire range of military operations. Pre-positioned cargoes aboard APF shipping include the capability to provide humanitarian assistance with food rations, medical supplies, habitability sets (i.e., tents), potable water-making machinery, engineer support equipment, and motor transport. To enable the early delivery of combat power to a theater of operations, additional equipment such as tanks and artillery are pre-positioned. Elements of the APF may be temporarily moved to take up position close to a potential employment area, either to signal national resolve during an evolving crisis or enhance the timely delivery of supplies and equipment upon the decision to deploy a decisive force.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army Prepositioned Stock 3 (APS-3) contained two brigades-worth of materiel that were stored aboard 16 ships. The initial 2x2 brigade set consisted of two armor battalions and two mechanized infantry battalions. As of June 2001, APS-3 consisted of 10 ships. A 2x1 Bde Set Included: 88 Tanks; 54 BFVs; 331 Other Tracked Vehicles; and 849 Wheeled Vehicles.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>At end state, these assets consisted of one (1) 2x2 Brigade Set on various ships and one (1) 1x1 Brigade Set on various ships [the second brigade set was prepositioned Afloat in FY01/02 for a total of seven prepositioned sets).  The Army prepositioned the additional 1X1 (Armor X Mechanized) Brigade afloat as part of APS-3 on two LMSRs (USNS Dahl/USNS Sisler) in April and July 2002 consecutively based on Defense Planning Guidance (DPG) directives.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Operations Support Command (OSC) had responsibility for AWR-3.  The pre-positioned ships were loaded at the Strategic Logistics Mobility Base, Charleston, South Carolina. Hythe Army Depot Activity, England, maintains the Army watercraft that were part of the AWR-3 equipment. The watercraft are used to open ports, provide logistics-over-the-shore, and serve as lighterage. At any given time, about half the APS-3 watercraft are riding aboard a heavy-lift, pre-positioned ship in the Indian Ocean. Hythe sent employees to help download watercraft during operations in Kenya, Saudi Arabia, and Somalia. AWR-3, PREPO Afloat, gives a brigade of equipment for four maneuver battalions and a direct support artillery battalion, along with its requisite combat support (CS) and combat service support (CSS) and 30 days of sustainment supplies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During VIGILANT WARRIOR, the 24th ID(M) offloaded, reconfigured and fully exercised the set of equipment, which facilitates a powerful response in a flexible package that can be delivered to any port near any trouble spot within CENTCOM's AOR or to any deep water port in the world.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With APS-5, APS-3 and Qatar, the Army could muster eight maneuver battalions.  The CENTCOM commander in chief's (CINC's) goal is to pre-position a division of equipment [including nine maneuver battalions] on the Arabian peninsula.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The DOD goal for APS-3 was mandated at 2 million square feet of cargo stowage space aboard prepositioned ships. The ASMP prepositioning afloat program includes the lease/ operation of the ships fleet and operation of two prepositioning ship maintenance facilities used to fulfill the APS-3 prepositioning afloat strategy. The objective APS-3 fleet would contain 15 ships including 8 new construction Large Medium Speed Roll On/Roll Off ships (LMSR).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Fielding of the LMSRs was being implemented in three phases.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Phase I was completed in November 1998 with the upload of prepositioned equipment to the U.S. Navy Ship WATSON, the first new construction LMSR.  All previously used ships in the interim fleet have been returned to the Ready Reserve Force (RRF).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Phase II, completed in FY 00, involved upload of equipment to 2 new construction LMSRs (Dahl and Red Cloud). The Army began uploading corps and theater CS/CSS sustainement on new construction LMSRs during the April 1999-January 2000 timeframe at Antwerp, Belgium.  The majority of cargo positioned on these ships was drawn from USAREUR re-distributable stocks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>In the FY 01-02 timeframe, Phase III  completed with the transfer of equipment from the converted LMSRs to the remaining new construction LMSRs. During FY01 this consisted of the upload of 2 new construction LMSRs (Charlton and Watkins), and during  FY02 this completed with the upload final 3 new LMSRs (Pomeroy and LMSR #19 and #20)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Additionally, during FY01-02, three Lighter Aboard Ships (LASH) vessels transfered prepositioned break bulk ammunition into containers for loading onto two containerships. The transload of cargo from converted LMSRs to new construction LMSRs began in December 1998.  One additional new construction LMSR (USNS Pomeroy) was uploaded in December 2001.  Additionally, the USNS Bob Hope was replaced by the USNS Soderman in February 2003 which made for a "pure fleet" APS Afloat program.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 30 August 2001 Thomas White, the secretary of the Army, said the Army planned to move pre-positioned material stored at facilities in Germany and Italy to Diego Garcia in the Indian Ocean. Army officials could not provide details on the amount and type of material being moved.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 29 January 2002 the State of the Union labeled Iraq part of the "axis of evil" group. At this point APS planners were sent to Southwest Asia (SWA) and APS Qatar started to ship a brigade set and division base to Kuwait. CEG-Europe also began realigning stocks to theater. On 14 May 2002, the UN Security Council approved more sanctions on trade with Iraq. With these sanctions Inland Petroleum Distribution System (IPDS) containers were shipped from Qatar to Kuwait. A few months later, on 5 July 2002, Iraq rejected the UN request for weapons inspections.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the same month preposition ship USNS Watkins was downloaded, the Qatar BDE was moved to Kuwait, and Exercise Vigilant Hammer began. Operation Vigilant Hammer I conducted in July 2002, was the first mission to begin download of APS stock into Kuwait. The download of USNS Watkins was intended to be a clear signal to Saddam Hussein of our seriousness. In retrospect, increasing the stockpiles was a clear signal of the approaching conflict. Operation Vigilant Hammer II followed shortly afterwards taking up the remaining storage space at Camp Doha. Future downloads of equipment were transported to and stored in Camp Arifjan, a provisionally established location in Kuwait created to compensate for storage areas at Camp Doha being used to full capacity.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The plan for APS-3 was simple in concept. Sail the vessel to the location where the contingency exists, download it, configure the equipment to unit sets and hand the equipment off to a deploying unit. In original plans of APS-3 operation it was thought that when APS was utilized, equipment would be downloaded, prepared, and handed off to units immediately near the port. However, units arrived later than plans anticipated and storage for equipment was needed. Camp Arifjan was established in October 2002. APS-3 downloaded the USNS Watson in October of 2002 and then several more vessels in December 2002 through February 2003. Camp Arifjan stored and prepared equipment for issue for six of the seven Large Medium Speed Roll On/Roll Off Vessels (LMSRs), two CL V ships, and two sustainment vessels that downloaded into theater. The LMSRs contained a 2x2 BCT and over 100 echelons above division UICs. The CL V ships had 5,000 containers of ammunition and the sustainment vessels had 15 days of supply for a Corps, equaling 3000 containers of CL I, II, IIIp, IV, IX, an VIII supplies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>President Bush signed a congressional resolution allowing the use of military force against Iraq and on 16 October 2002 APS-3 downloaded the USNS Watson. In January 2003 momentum was really gaining and APS-3 downloaded several ships of equipment into theater. A few months later the world witnessed Saddam Hussein's regime fall to US coalition forces, 14 April 2003.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In December 2006, the Army decided to remove equipment and supplies from its APS-3 prepositioned sets stored on ships in order to accelerate the creation of two additional brigade combat teams by April 2008. Army officials determined that using equipment from other APS sets, such as APS-4 and APS-5, to satisfy these equipment requirements was not a viable option because of the risks involved in Northeast Asia and ongoing operations in Southwest Asia. The fiscal year 2007 supplemental APS budget funded the removal of equipment from APS-3. During the spring, the Army downloaded APS-3 afloat equipment sets to support Iraq-bound Army units. This event, in addition to existing shortages in the remaining prepositioned programs, creates a need for close monitoring of the replenishment of equipment and stocks throughout the USPACOM AOR. Under the Army Force Generation (ARFORGEN) model, once the equipment from APS-3 was removed from the ships, the equipment became part of the Army's reset and training pool. Equipment within this pool was to be reset and, accordingly, funded with reset funding. Without clearly identifying APS reconstitution requirements, however, the Army cannot ensure that it can provide sufficient funding and Congress cannot be assured it has the visibility it needs for its decision-making process.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of September 2009 Army Prepositioned Stocks-3 ships provide afloat prepositioning for the equipment, munitions and supplies to support U.S. Army combat units that would deploy to potential contingency sites. The Army Prepositioned Stocks-3 concept of operations calls for at-sea prepositioning of combat equipment for a 2x2 heavy armored brigade and the 1x2 6th Brigade Afloat aboard eight LMSRs. In addition, other APS-3 ships carry cargo that supports and sustains the brigade, providing items such as water purification units, food and initial combat support equipment. The mix of cargo carried on APS-3 ships makes it possible for an armored brigade to open a theater of operations for follow-on units. The APS-3 comprises mostly large, medium-speed, roll-on/roll-off ships, called LMSRs, built to significantly expand the nation's sealift capacity into the 21st century. The LMSRs offset the shortage of militarily useful cargo ships available in the commercial sector - a growing concern as U.S. overseas bases close and American military forces increasingly depend on power projection "Forward ... From the Sea."</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The first IBCT afloat was completed at ASLAC in November 2010 and was uploaded on two LMSRs.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June and September 2011 and September 2012, a sustainment brigade with 45 days of initial supplies was completed and uploaded on three LMSRs. Rounding out the package were two ammunition container ships, holding a combined 30-day package of sustainment ammunition.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The rebuild of the Army Prepositioned Stocks Afloat (APS-3) Army Strategic Flotilla (ASF) was declared complete in late September 2012 when the US Naval Ship Watson was uploaded from Sept. 10-19 at 
+  Wharf Alpha, Joint Base Charleston, S.C., and set sail on September 22. Consistent with the APS Strategy 2020, an Infantry Brigade Combat Team (IBCT) with motorized augmentation and sustainment supplies consisting of two LMSR ships, a Sustainment Brigade consisting of three LMSRs, a Theater Opening/Port Opening (TO/PO) set aboard one LMSR and two ammunition sustainment vessels make up the APS-3 ASF.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>&amp;nbsp;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/aps.htm</href>
+        <text>Army Prepo Stock</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/apsron4.htm</Url>
+    <NameNode>Afloat Prepositioning Ship Squadron FOUR</NameNode>
+    <FullName>Afloat Prepositioning Ship Squadron FOUR</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/apsron4.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/pm3.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>PM3 Prepo</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/navy//military/systems/ship/sealift-cps.htm</href>
+        <h3>Combat Prepositioning Force</h3>
+        <li>
+          <li>
+            <text>T-AKR 300 USNS BOB HOPE</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 310 USNS Watson</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 311 USNS Sisler</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 312 USNS Dahl</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 313 USNS Red Cloud</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 314 USNS Charlton</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 315 USNS Watkins</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/systems/ship/takr-300.htm</href>
+            <text>T-AKR 316 USNS Pomeroy</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Associated Unit</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/../army/aps-3.htm</href>
+            <text>Army Prepositioned Stock (APS-3)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/../army/ceg-afloat.htm</href>
+            <text>Combat Equipment Group - Afloat</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.msc.navy.mil/apsfour/</href>
+            <text>APSRON FOUR</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Afloat Prepositioning Ship Squadron FOUR</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/apsron4.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>These Navy-owned vessels preposition U.S. military cargo at sea for the U.S. Army. Afloat Prepositioning Ship Squadron FOUR is responsible for the operation and administrative support to non-combatant ships of the Military Sealift Command Afloat Prepositioning Program in the Arabian Gulf and Indian Ocean.  The squadron's mission is to provide swift and effective sea transportation of vital equipment and supplies to a designated area of operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>APS Squadron Four remains a distinct and separate staff reporting to and fully coordinating with Senior Officer Present Afloat, MPS Squadron Two, while in Diego Garcia. The two staffs  work together, but are not merged.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>APSRON FOUR is an afloat staff of thirteen military personnel under the command of a U.S. Navy Captain. The staff is embarked on The USNS RED CLOUD one of the squadron's Afloat Prepositioning Ships. More than 400 additional personnel can embark the ships when conducting an Afloat Prepositioning Force operation. Staff members serve one-year tours in a continuously underway, forward-deployed status. The APSRON FOUR ships operate in the Arabian Gulf/Indian Ocean area without a permanent homeport in that area. The APSRON FOUR staff is generally located on Diego Garcia, an island in the central Indian Ocean.  The Combat Prepositioning Force includes six large, medium speed, roll-on/roll-off (LMSR) vessels sited in the Arabian Gulf at Manama, Bahrain. Four of these vessels contain combat equipment, while the rest are loaded with support/sustainment vehicles and cargo.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The ships that are a regular part of APSRON FOUR are USNS BOB HOPE (T-AKR 300), USNS WATSON (T-AKR 310), USNS SISLER (T-AKR 311), USNS RED CLOUD (T-AKR 313) and USNS CHARLTON (T-AKR 314). All ships are new construction LMSRs. The ships themselves and the squadron staff form only part of the team needed to deploy cargo. Periodically, through real-world operations and exercises, various Army and Navy units work together to conduct an off-load.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The APSRON FOUR staff's main job is to maintain command and control as well as keep the APS vessels and their cargo ready at all times until an order to deploy is given. On 24-hours notice, every ship can leave port and sail literally anywhere in the world -- transporting combat support and equipment the Army needs to accomplish its missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Since its establishment in 1998, the squadron has operated in support of Operations Southern Watch and Desert Fox, as well as other numerous exercises. APSRON Four is a component of the U.S. Navy Military Sealift Command, administratively reporting to the Prepositioning Program Manager at MSC Headquarters in Washington, D.C. APSRON FOUR is an operational asset of the U.S. Third Army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 2000 and 2001 two more LMSRs  joined the Combat Prepositioning Force. On Jan. 18, 2000, a Watson-class LMSR, USNS Red Cloud, was delivered to MSC. Red Cloud loaded in Charleston June 19-30 and deployed to Diego Garcia July 2. A second Watson-class LMSR, USNS Charlton, delivered to MSC in May 2000, but was not scheduled for load-out and deployment until FY 2001.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/msc.htm</href>
+        <text>MSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/pm3.htm</href>
+        <text>PM3 Prepo</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</Url>
+    <NameNode>Army Materiel Command-Fwd SWA 
+Combat Equipment Group-Southwest Asia</NameNode>
+    <FullName>Army Materiel Command-Fwd SWA; Combat Equipment Group-Southwest Asia</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Snoopy   Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-snoopy.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/fsc.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>FSC</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/ceb-kuwait.htm</Url>
+        <FullName>Combat Equipment Battalion-Kuwait</FullName>
+        <Name>Combat Equipment Battalion-Kuwait</Name>
+        <Id>army/ceb-kuwait.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/ceb-qatar.htm</Url>
+        <FullName>Combat Equipment Battalion-Qatar</FullName>
+        <Name>Combat Equipment Battalion-Qatar</Name>
+        <Id>army/ceb-qatar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/ceb-kuwait.htm</href>
+            <text>Combat Equipment Battalion-Kuwait</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/ceb-qatar.htm</href>
+            <text>Combat Equipment Battalion-Qatar</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-snoopy.htm</href>
+            <text>Camp Snoopy   Doha, Qatar</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Army Materiel Command-Fwd SWA &lt;br&gt;
+Combat Equipment Group-Southwest Asia
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army Materiel Command-Forward South West Asia  [AMC FWD-SWA] coordinates, integrates and synchronizes all Army Materiel Command (AMC) activities in the Central Command (CENTCOM) area of operations during times of peace and war. Serves as the CENTCOM and ARCENT Commanders' single point of contact for Army Materiel Command support operations within their area of responsibility. Promotes APS-5 readiness by directing the activities of Combat Equipment Battalion-Kuwait and Combat Equipment Battalion-Qatar. Responsible for receipt, storage, cyclic maintenance, repair, accountability, and configuration of APS-5 prepositioned equipment and supplies. Oversees maintenance and property accountability programs to ensure operational readiness of APS-5 materiel for use by CENTCOM during contingencies or exercises.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In August 2000 ITT Federal Services International Corp., Colorado Springs, Colo., was awarded $568,166 as part of a $52,742,796 firm-fixed-price, cost-plus-incentive-fee, and cost-plus-fixed-fee contract. This win firmly re-established ITT Industries in the Middle East as a premier contractor supporting the U.S. Army. The value of this contract is expected to increase dramatically over time as the United States policy toward deployment of troops and equipment shifts from other locations in the Middle East to Qatar</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The contractor provides maintenance and supply/services of Army prepositioned stocks at Army Materiel Command-Forward Southwest Asia, Combat Equipment Group-Southwest Asia. This contract award covers transition planning and execution and ten single-year-evaluated options available through FY2010. Work will be performed in Doha, Qatar, and is expected to be completed by Nov. 30, 2010. Contract funds will not expire at the end of the current fiscal year. There was an announcement on Jan. 21, 2000, and six bids were received. The U.S. Army Operations Support Command (Provisional), Rock Island, Ill., is the contracting activity</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>ITT Industries, Systems Division provides maintenance and supply services support to the Army Materiel Command (Forward) - Southwest Asia (AMC FWD SWA). Project personnel perform scheduled and unscheduled services and repairs of war reserve combat and tactical vehicles, weapon systems, engineer/special purpose equipment, and communications and electronics equipment. This includes vehicles ranging in size from the HMMWV to the M1A1 Abrams tank. It also includes organizational through general support levels of maintenance. Project supply personnel manage all of the war reserve wholesale assets in Qatar, to include ammunition and medical items. Personnel assigned to the project include combat and tactical vehicle mechanics, weapons/armament technicians, supply technicians, and clerks and information management administrators.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/ceb-kuwait.htm</Url>
+    <NameNode>Combat Equipment Battalion-Kuwait</NameNode>
+    <FullName>Combat Equipment Battalion-Kuwait</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-doha.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>AMC FWD-SWA</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/aps-5.htm</href>
+            <text>Army Prepositioned Stock (APS-5)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-doha.htm</href>
+            <text>Camp Doha, Kuwait</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Combat Equipment Battalion-Kuwait</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Combat Equipment Battalion-Kuwait represents FSC as the single manager for integration, synchronization and coordination of all AMC activities in Kuwait. Responsible for receipt, storage, cyclic maintenance, repair, accountability, and configuration of APS-5 Kuwait prepositioned equipment and supplies. Oversees maintenance and property accountability programs to ensure operational readiness of APS-5 Kuwait materiel for use by CENTCOM during contingencies or exercises.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When units were flown into APS-5, CEB-Kuwait, equipment sets were already operationalized on the concrete storage lots at Camp Doha. Unlike APS stored at other locations equipment at Camp Doha was being used steadily during exercises commanded by the CFLCC/ARCENT. Every six months the equipment had been issued to units rotating in and out of desert camps to show U.S. presence in defense of Kuwait. While issuing and receiving to support the continuing Exercise Intrinsic Action rotations, CEB-KU managed the dramatic increase of equipment and supplies brought into Camp Doha for OIF.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During FY 02, fill of the Mortuary Affairs Operational Project authorized for APS-5 increased significantly. In addition, CEB-KU received and configured for storage stocks associated with the Enemy Prisoner of War Op Project as they were forward positioned in Kuwait. In May 02, CEB-KU issued 165 miles of IPDS, which had been forward positioned from CEB-QA, to US Army Central Command (ARCENT)-KU. The 2x1 Brigade Combat Team (BCT) garrisoned to CEB - Kuwait was transformed into a 2x2 BCT in October 2002. Kuwait also stored a Combat Support hospital, an MLRS battalion, a newly formed Cargo Transfer Company, (CTC) and several operational stocks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</href>
+        <text>AMC FWD-SWA</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/ceb-qatar.htm</Url>
+    <NameNode>Combat Equipment Battalion-Qatar</NameNode>
+    <FullName>Combat Equipment Battalion-Qatar</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Al Karana  </BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/al-karana.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp As Sayliyah </BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-as-sayliyah.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp Snoopy   Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-snoopy.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>AMC FWD-SWA</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/aps-5.htm</href>
+            <text>Army Prepositioned Stock (APS-5)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/al-karana.htm</href>
+            <text>Camp Al Karana  , Qatar</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-as-sayliyah.htm</href>
+            <text>Camp As Sayliyah , Qatar</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-snoopy.htm</href>
+            <text>Camp Snoopy   Doha, Qatar</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Combat Equipment Battalion-Qatar</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Combat Equipment Battalion-Qatar represents FSC as the single manager for integration, synchronization and coordination of all AMC activities in Qatar. Responsible for receipt, storage, cyclic maintenance, repair, accountability, and configuration of APS-5 Qatar prepositioned equipment and supplies. Oversees maintenance and property accountability programs to ensure operational readiness of APS-5 Qatar materiel for use by CENTCOM during contingencies or exercises.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1995 CENTCOM began work on the Qatar based location, named Camp As Saliyah. The camp was completed in 2000 with a price tag of $110M. It is the largest prepositioned site in the world and houses a large amount of equipment and support units that can be stood up quickly in response to conflict. Initial plans required units to fly into Qatar, draw equipment, road march it to the nearest port, load the ships, and sail to the area of operation. The plan was modified to send 90% of stocks to CEB-Kuwait via ship prior to issuing to Soldiers. This placed the equipment much closer to the area of operations and line of departure.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Throughout FY 02, equipment and supplies moved into and out of CEB-QA at a constant pace. Early in FY 02, CEB-QA received 871 containers of Inland Petroleum Distribution Sets (IPDS) Operational Project stocks bringing the total containers at CEB-QA to 1035. In Mar 02, IPDS stocks were relocated from CEB-QA to CEB-KU. Fill of other Operational Projects authorized for APS-5 increased dramatically. CEB-QA received, inventoried, and stored stocks associated with Special Operations Forces, Water Support Systems, and Containerized Systems Operational Projects. In addition to IPDS, CEB-QA loaned, issued, or forward positioned nearly 1,000 pieces of equipment from Qatar to Al Udeid Air Base, CEB-KU, and elements in Afghanistan, Uzbekistan, and Qatar.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In Jan 02, CEB-QA was directed to clear the first of what would ultimately become eight Controlled Humidity Warehouses (CHWs) vacated over the course of FY 02. Three more CHWs were cleared in Mar 02 and four additional CHWs were cleared in Sep 02. Storage space was reconfigured as warehouses were emptied and turned over to US Army Forces, CENTCOM. In preparation for OIF, CENTCOM moved much of its operations staff to Qatar. They converted the warehouses to office space, quarters, and dining facilities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Readiness within APS-5 was improved through redistribution of equipment from APS-2 (Europe). In FY 02, CEB-QA received significant influxes of equipment in two increments. The first increment consisted of 3,490 pieces of equipment that arrived in Mar 02 and was integrated into the APS-5 Qatar equipment sets. An additional 834 pieces of equipment arrived in the SWA area of operation (AOR) in Sep 02. CEB-QA prepared and moved the entire Class V stockpile, consisting of 119 20-foot containers each, from Qatar to Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The CEB-QA 2x1 Brigade Set (1,550 pieces of equipment including tracks, wheels and trailers) was prepared and forward positioned in Kuwait. This equipment move required CEB-QA to load 24 Logistics Support Vessels, 5 High Speed Vessels and 1 Large Medium Speed Roll-On/Roll Off ship. In October 2002 the 2x1 Brigade was transformed into a 2x2 Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</href>
+        <text>AMC FWD-SWA</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/ceb-kuwait.htm</Url>
+    <NameNode>Combat Equipment Battalion-Kuwait</NameNode>
+    <FullName>Combat Equipment Battalion-Kuwait</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-doha.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>AMC FWD-SWA</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/aps-5.htm</href>
+            <text>Army Prepositioned Stock (APS-5)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-doha.htm</href>
+            <text>Camp Doha, Kuwait</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Combat Equipment Battalion-Kuwait</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Combat Equipment Battalion-Kuwait represents FSC as the single manager for integration, synchronization and coordination of all AMC activities in Kuwait. Responsible for receipt, storage, cyclic maintenance, repair, accountability, and configuration of APS-5 Kuwait prepositioned equipment and supplies. Oversees maintenance and property accountability programs to ensure operational readiness of APS-5 Kuwait materiel for use by CENTCOM during contingencies or exercises.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When units were flown into APS-5, CEB-Kuwait, equipment sets were already operationalized on the concrete storage lots at Camp Doha. Unlike APS stored at other locations equipment at Camp Doha was being used steadily during exercises commanded by the CFLCC/ARCENT. Every six months the equipment had been issued to units rotating in and out of desert camps to show U.S. presence in defense of Kuwait. While issuing and receiving to support the continuing Exercise Intrinsic Action rotations, CEB-KU managed the dramatic increase of equipment and supplies brought into Camp Doha for OIF.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During FY 02, fill of the Mortuary Affairs Operational Project authorized for APS-5 increased significantly. In addition, CEB-KU received and configured for storage stocks associated with the Enemy Prisoner of War Op Project as they were forward positioned in Kuwait. In May 02, CEB-KU issued 165 miles of IPDS, which had been forward positioned from CEB-QA, to US Army Central Command (ARCENT)-KU. The 2x1 Brigade Combat Team (BCT) garrisoned to CEB - Kuwait was transformed into a 2x2 BCT in October 2002. Kuwait also stored a Combat Support hospital, an MLRS battalion, a newly formed Cargo Transfer Company, (CTC) and several operational stocks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</href>
+        <text>AMC FWD-SWA</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/ceb-qatar.htm</Url>
+    <NameNode>Combat Equipment Battalion-Qatar</NameNode>
+    <FullName>Combat Equipment Battalion-Qatar</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Al Karana  </BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/al-karana.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp As Sayliyah </BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-as-sayliyah.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp Snoopy   Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>http://www.globalsecurity.org/military/facility/camp-snoopy.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</Url>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>AMC FWD-SWA</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/aps-5.htm</href>
+            <text>Army Prepositioned Stock (APS-5)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/al-karana.htm</href>
+            <text>Camp Al Karana  , Qatar</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-as-sayliyah.htm</href>
+            <text>Camp As Sayliyah , Qatar</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.globalsecurity.org/military/facility/camp-snoopy.htm</href>
+            <text>Camp Snoopy   Doha, Qatar</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Combat Equipment Battalion-Qatar</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Combat Equipment Battalion-Qatar represents FSC as the single manager for integration, synchronization and coordination of all AMC activities in Qatar. Responsible for receipt, storage, cyclic maintenance, repair, accountability, and configuration of APS-5 Qatar prepositioned equipment and supplies. Oversees maintenance and property accountability programs to ensure operational readiness of APS-5 Qatar materiel for use by CENTCOM during contingencies or exercises.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1995 CENTCOM began work on the Qatar based location, named Camp As Saliyah. The camp was completed in 2000 with a price tag of $110M. It is the largest prepositioned site in the world and houses a large amount of equipment and support units that can be stood up quickly in response to conflict. Initial plans required units to fly into Qatar, draw equipment, road march it to the nearest port, load the ships, and sail to the area of operation. The plan was modified to send 90% of stocks to CEB-Kuwait via ship prior to issuing to Soldiers. This placed the equipment much closer to the area of operations and line of departure.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Throughout FY 02, equipment and supplies moved into and out of CEB-QA at a constant pace. Early in FY 02, CEB-QA received 871 containers of Inland Petroleum Distribution Sets (IPDS) Operational Project stocks bringing the total containers at CEB-QA to 1035. In Mar 02, IPDS stocks were relocated from CEB-QA to CEB-KU. Fill of other Operational Projects authorized for APS-5 increased dramatically. CEB-QA received, inventoried, and stored stocks associated with Special Operations Forces, Water Support Systems, and Containerized Systems Operational Projects. In addition to IPDS, CEB-QA loaned, issued, or forward positioned nearly 1,000 pieces of equipment from Qatar to Al Udeid Air Base, CEB-KU, and elements in Afghanistan, Uzbekistan, and Qatar.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In Jan 02, CEB-QA was directed to clear the first of what would ultimately become eight Controlled Humidity Warehouses (CHWs) vacated over the course of FY 02. Three more CHWs were cleared in Mar 02 and four additional CHWs were cleared in Sep 02. Storage space was reconfigured as warehouses were emptied and turned over to US Army Forces, CENTCOM. In preparation for OIF, CENTCOM moved much of its operations staff to Qatar. They converted the warehouses to office space, quarters, and dining facilities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Readiness within APS-5 was improved through redistribution of equipment from APS-2 (Europe). In FY 02, CEB-QA received significant influxes of equipment in two increments. The first increment consisted of 3,490 pieces of equipment that arrived in Mar 02 and was integrated into the APS-5 Qatar equipment sets. An additional 834 pieces of equipment arrived in the SWA area of operation (AOR) in Sep 02. CEB-QA prepared and moved the entire Class V stockpile, consisting of 119 20-foot containers each, from Qatar to Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The CEB-QA 2x1 Brigade Set (1,550 pieces of equipment including tracks, wheels and trailers) was prepared and forward positioned in Kuwait. This equipment move required CEB-QA to load 24 Logistics Support Vessels, 5 High Speed Vessels and 1 Large Medium Speed Roll-On/Roll Off ship. In October 2002 the 2x1 Brigade was transformed into a 2x2 Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc.htm</href>
+        <text>AMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osc.htm</href>
+        <text>JMC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/fsc.htm</href>
+        <text>FSC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/amc-fwd-swa.htm</href>
+        <text>AMC FWD-SWA</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

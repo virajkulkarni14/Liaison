@@ -1,0 +1,560 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usarso.htm</Url>
+    <NameNode>US Army South (USARSO)
+"Defense and Fraternity"</NameNode>
+    <FullName>US Army South (USARSO)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usarso.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Buchanan</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-buchanan.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Sam Houston</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-sam-houston.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/../dod/southcom.htm</Url>
+        <Id>/army/../dod/southcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Southern Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-228avn.htm</Url>
+        <FullName>1-228th Aviation</FullName>
+        <Name>1-228th Aviation</Name>
+        <Id>army/1-228avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/4-228avn.htm</Url>
+        <FullName>D-228th Aviation</FullName>
+        <Name>D-228th Aviation</Name>
+        <Id>army/4-228avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/525mp.htm</Url>
+        <FullName>525th Military Police Battalion</FullName>
+        <Name>525th Military Police Battalion</Name>
+        <Id>army/525mp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/../dod/southcom.htm</href>
+        <h3>Southern Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHBN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-228avn.htm</href>
+            <text>1-228th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/4-228avn.htm</href>
+            <text>D-228th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1st Battlefield Coordination Detachment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>512th Engineer Detachment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>470th Military Intelligence Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/525mp.htm</href>
+            <text>525th Military Police Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>56th Signal Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Army Forces Honduras</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-buchanan.htm</href>
+            <text>Fort Buchanan</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-sam-houston.htm</href>
+            <text>Fort Sam Houston</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>References</h3>
+        <li>
+          <li>
+            <text>USARSO headquarters moving to Texas by Jonathan Williamson Army News Service 18 Sept 2002</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.arsouth.army.mil/</href>
+            <text>US Army South</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.usarso.army.mil/</href>
+            <text>US Army South</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName>"Defense and Fraternity"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-228avn.htm</Url>
+    <NameNode>1st Battalion, 228th Aviation Regiment</NameNode>
+    <FullName>1st Battalion, 228th Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-228avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Kobbe</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Panama</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-kobbe.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Soto Cano AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Honduras</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/soto-cano.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq />
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC "Phantoms"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company "Talons"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company "Sugarbears"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>US Army Air Ambulance Detachment "Witchdoctors"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Command and Control Detachment "Nomads"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-kobbe.htm</href>
+            <text>Fort Kobbe, Panama</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/soto-cano.htm</href>
+            <text>Soto Cano AB, Honduras</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.arsouth.army.mil/aboutus/our-units/1st-battalion-228th-aviation-regiment/index.1.html</href>
+            <text>1st Battalion, 228th Aviation Regiment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.arsouth.army.mil/1-228th-aviation-regiment-history.html</href>
+            <text>1st Battalion, 228th Aviation Regiment History</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 228th Aviation Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-228avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 228th Aviation Regiment conducts aviation operations throughout the US Southern Command's (USSOUTHCOM) Area of Responsibility.  The purpose of the Battalion is to promote and execute aviation operations to facilitate the Commander in Chief, US Southern Command's strategy of engagement and security in the theater.  The Battalion is capable of deploying and sustaining operations throughout the theater.  Typical missions conducted by the battalion include: counter drug operations, disaster relief, humanitarian assistance, air movement of people equipment and supplies, Aero-medical evacuation, and limited search and rescue.  The command structure of the battalion is capable of exercising command and control for Commander, US Army South of army aviation assets deployed to the theater.  In addition to these operational missions, the battalion participates in selected special events and VIP support missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As the only forward deployed aviation assets in Theater, the 1st Battalion, 228th Aviation Regiment facilitates the Commander in Chief, USSOUTHCOM's Theater Engagement Strategy.  Under the tactical control of Joint Task Force-Bravo (JTF-Bravo), 1-228th Aviation is pivotal in the execution of all "Central Skies" counter-narcotics missions, working with Drug Enforcement Agency (DEA) and Host Nation Law Enforcement; Medical Readiness Training Exercises (MEDRETEs); Humanitarian Assistance; Disaster Relief; and "New Horizons" civil construction operations in the theater.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In Spring and Summer 1999, the 1st Battalion, 228th Aviation prepared to move from Fort Kobbe, Panama to Soto Cano Air Base, Honduras as part of the transition of the Panama Canal and Canal Zone back to the control of Panamanian authorities.  This movement was completed on 4 June 1999, when Company D, 228th Aviation Regiment was inactivated and its personnel and equipment absorbed into Headquarters and Headquarters Company and A Company, 1st Battalion, 228th Aviation Regiment.  The move was also conducted in order to maintain a forward deployed battalion and adjust the force structure based on a Total Army Analysis (TAA) review during the next TAA cycle.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After the move, the 1st Battalion, 228th Aviation Regiment assumed the complete role of a Theater Aviation Battalion.  The total force structure consisted of a Headquarters and Headquarters Company, the "Phantoms"; A Company, the "Talons," with 10 UH-60A aircraft; B Company, the "Sugarbears," with 4 CH-47D aircraft; and the US Army Air Ambulance Detachment, the "Witchdoctors" with another 4 UH-60A aircraft.  The Battalion's Command and Control Detachment, the "Nomads" supported US Army South (USARSO) at Fort Buchanan, Puerto Rico with a further 2 UH-60A aircraft configured for that role.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>First Quarter, FY01, got off to a resounding start, with the 1-228th Aviation conducting an October 2000 deployment to Belize in support of disaster assessment following Hurricane Keith.  Almost immediately upon the Battalion's return, the unit executed its first-ever M60D Aerial Door Gunnery in Honduras, allowing aircrews to hone their war-fighting skills, and improving the Battalion's Force Protection posture.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Battalion, 228th Aviation Regiment successfully accomplished a myriad of significant events in addition to its move from Panama during fiscal year FY00.  The year began with a deployment to Maiquetia, Venezuela in response to flooding and mud slides which claimed the lives of more than 20,000 people.  Almost immediately upon the Battalion's return, the Winged Warriors skillfully executed a Strategic Deployment to Trinidad and Tobago for counter-drug operations, capturing millions of dollars of illegal narcotics destined for the US.  The year ended with the Warriors strategically deployed once again, heading for the Caribbean nation of the Dominican Republic.  This was a first-ever for 1-228th Aviation, as the Battalion itself conducting at night, over water, fully blacked-out, NVG Operations, searching for drug-running "Go Fast" boats laden with cocaine from Colombia.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Battalion, 228th Aviation Regiment Staff remained involved with plans and operations that range from Humanitarian Assistance, to Counter Narcotics, to Joint/Combined Airborne Operations.  1-228th Aviation executed too many short notice operations to name.  The major planned operations of FY01 were Tradewinds 01, Medical Readiness Exercise Training (MEDRETE) 12518, Joint/Combined Exercise Training (JCET) 401 and numerous Central Skies I missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Tradewinds 01 was a USSOUTHCOM, Caribbean Partners, and certain NATO allies joint/combined training exercise in Disaster Relief, Stability, and Maritime Operations to sustain regional cooperation and engagement.  In addition the exercise enhanced participating nations' collective capabilities and it focused training exercises of Host Nation Contingency plans.  1-228th Aviation's specific role was to support the 1st Battalion, 20th Special Forces Group (Airborne) for their phase of Exercise Tradewinds 01.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>12 April 2001, 1-228th Aviation deployed Task Force Warrior consisting of 22 personnel, 2 A Company UH-60s and one US Army Air Ambulance Detachment (USAAAD) UH-60 by Strategic Air (STRATAIR) to Trinidad and Tobago.  Upon arrival, Task Force Warrior quickly established operations at Piarco International Airport, Coast Guard Station, and began training with 1/20th Special Forces Group.  During the initial phase, MEDEVAC was the training priority; hence, training day one and 2 involved MEDEVAC simulation and A Company's UH-60s as back up to USAAAD's aircraft.  The next phase involved required operational tasks of the 1/20th Special Forces Group for its search and rescue mission.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Executing tasks supporting 1/20th Special Forces Group's search and rescue mission provided an excellent training opportunity for Task Force Warrior to execute its Mission Essential Task List (METL).  The highlights of the training involved rappels, SPIES, HELOCASTs and hoist missions during day and night.  On 3 May 2001, the successful exercise was indexed and recover/redeployment began and by 5 May 2001 Task Force Warrior redeployed by STRATAIR to Soto Cano Air Base and continued recovery operations for follow on missions.  During Exercise Tradewinds 01, Task Force Warrior flew 94.8-day hours, 2.0 night hours and 25.9 night vision goggle hours.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The next major planned operation was MEDRETE 12518 in Honduras Health Region 8, between 28 May and 5 June 2001.  Due to the remote nature of the region, 1-228th Aviation assets were essential for getting medical personnel to and from remote villages inaccessible by ground vehicles.  In addition, because the exercise required the use of UH-60A helicopters with external fuel systems, this operation afforded maximum training for aircrews in aircraft power and fuel management.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 28 May 2001, Task Force Warrior deployed 2 UH-60s and one CH-47 with 12th Air Force and MEDEL medical personnel to Catacamas, National School of Agriculture.  Upon arrival, the CH-47 offloaded personnel and equipment and returned to Soto Cano Air Base, while the remaining Task Force Warrior aircrews established an operations center.  While deployed to Honduras' Health Region 8, Task Force Warrior aircrews flew 58.5 hours to 28 remote villages where medical personnel treated more than 5,000 Hondurans.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>One of the more rewarding operations was in support of JCET 401.  JCET 401 was a joint/combined training exercise of 7th Special Forces Group (Airborne) and the Honduran 15th Infantry Battalion at Rio Clara, a small village in the vicinity of Trujillo.  1-228th Aviation aircraft deployed 3 times to support the 7th Special Forces Group for its specific mission, assisting the 15th Infantry Battalion for the training of a class of Commando Soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In support of JCET 401, 1-228th Aviation deployed 3 UH-60s and one CH-47 (configured as a "Fat Cow" Forward Aerial Refuel Point) on 2 August 2001 to the 15th Infantry Battalion compound.  There the Winged Warriors remained until 5 August 2001 executing numerous rappel, STABO, and air assault operations to include a HELOCAST with 7th Special Forces Group and Honduran Naval Special Naval Forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The next deployment, on 8 August 2001, was of 3 UH-60s and a CH-47 flew to Rio Clara.  The CH-47 dropped off 2 fuel blivets and a Forward Area Refuel Equipment (FARE) system and returned to Soto Cano Air Base, while A Company remained there to execute night air assaults.  After the excellent NVG multi-ship training, A Company aircrews remained over night and returned to Soto Cano Air Base the next day.  The final mission, the capstone, was on 24 August 2001, when B Company deployed one CH-47 to Rio Clara for Airborne Operations early the next day.  JCET 401 was excellent training for Winged Warrior aircrews and it greatly enhanced the relation of US Forces with Honduran Ground and Naval Forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During FY01, SOUTHCOM's counter-drug Execution Order moved into phase II.  Phase II operations were titled as Central Skies II missions.  Central Skies II missions were a Participating Nation's request for rapid response helicopter support for "emergent" narco-trafficking activities.  To become a participating nation, such a nation had its Drug Law Enforcement Agents train with 1-228th Aviation assets.  Training was predicated on what the US Country Team and host nation drug law enforcement agencts' objectives were within their operating environment.  For the most part Central Skies II training consisted of air assault/air movement type training in both day and night modes.  However for Costa Rica, the initial train up and mission execution included Jacobs ladder (CH-47) and rappel/SPIES training (UH-60A) due to jungle mountainous terrain.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 11 December 2002, 5 soldiers from 1-228th Aviation were killed when their UH-60 crashed into a mountain 85 miles north of Tegucigalpa.  The aircraft had departed Sen Pedro Sula at 8:14 PM and crashed 20 minutes later.  It was headed to the US base in Palmerola.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/4-228avn.htm</Url>
+    <NameNode>D Company, 228th Aviation Regiment
+4th Battalion, 228th Aviation Regiment</NameNode>
+    <FullName>D Company, 228th Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-228avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Soto Cano AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Honduras</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/soto-cano.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>4th Battalion, 228th Aviation Regiment</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Air Ambulance Detachment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/soto-cano.htm</href>
+            <text>Soto Cano AB, Honduras</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>D Company, 228th Aviation Regiment&lt;br&gt;
+&lt;strike&gt;4th Battalion, 228th Aviation Regiment&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-228avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>In 1999, D Company, 228th Aviation Regiment was inactivated and its personnel and equipment folded into the Headquarters and Headquarters Company and A Company of the reorganized 1st Battalion, 228th Aviation Regiment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 16 January 1990, Headquarters and Headquarters Company, 4th Battalion, 228th Aviation was activated in Honduras at Soto Cano Air Base with its organic elements concurrently constituted and activated.  The Battalion was comprised of 6 companies.  In addition to its organic Headquarters and Headquarters Company, A Company, and B company, the Battalion also had two FORSCOM rotational units attached, including CH-47D Chinook helicopters and Medical Evacuation/Air Ambulance units.  The Battalion's mission was to conduct Air Assault, Air Movement, Command and Control, Contingency Operations, MEDEVAC, Medical Readiness Training Exercises, and to support US Military Groups in Central America.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 2 January 1991, the initial Battalion Commander, LTC David H. Pickett and his crew were killed while flying back from El Salvador.  Their helicopter was shot down by hostile ground fire near Lolotique, El Salvador.  The crew successfully auto rotated down the side of a hill after crossing a ridgeline and being ambushed by rebels.  The aircraft crashed into a 4 foot boulder, and then rotated 185 degrees around it.  CW4 Daniel Scott was killed instantly as his side of the aircraft struck the boulder, PFC Dawson was rendered unconscious by injuries sustained in the crash sequence, and LTC Pickett survived the impact and was remarkably conscious.  Several local farmers were forced at gunpoint by the rebels to drag the crew out of the helicopter.  LTC Pickett was said to have asked for some water.  The rebels then directed the farmers to go get some water.  After the farmers had crossed the ridge line of the hill, the rebels shot PFC Dawson once in the head and then Pickett with 2 bursts of automatic weapons fire.  PFC Dawson was posthumously promoted to Specialist.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the peace accords signed in January 1992 in El Salvador, the Battalion refocused its efforts on counter-drug missions.  Along with its support of Joint Task Force-Bravo (JTF-Bravo) in Honduras, 4th Battalion, 228th Aviation Regiment initiated joint training exercises with the Honduran Army to support anti-guerrilla and counter drug operations.  C Company, along with it's 8 CH-47D Chinook helicopters, was added in October 1994.  Soon after, MEDEVAC transitioned to a permanent detachment with 3 UH-60A Blackhawk helicopters to replace the fleet of aging UH-1 Hueys.  On 15 August 1995, with the fallout of the end of the Cold War, the Battalion drew down.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 11 August 1995, the unit was reduced to Company B (-), 4th Battalion, 228th Aviation, with A and C Companies being inactivated.  The (-) modifier was misleading because the Company was larger than most aviation companies at the time.  Company B assets included lift and aero medical evacuation elements, as well as intermediated maintenance, flight operations and a headquarters platoon for refueling, supply and motor pool.  Assigned to Soto Cano Airbase, Honduras, Company B, 4-228th Aviation was attached 1st Battalion, 228th Aviation Regiment at Fort Kobbe, Panama for command and control purposes.  Company B, 228th Aviation was under the operational control of the commander of JTF-Bravo.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Between 1995 and 1997, the Eagles of Company B, 228th Aviation were very busy.  The Company was deployed to El Salvador to participate in the recovery effort following the tragic Aviateca Airline crash that resulted in more than 60 deaths soon after its reorganization.  Shortly following this operation, the Eagles deployed to Belize in support of the Commander-in-Chief, SOUTHCOM's visit in preparation for exchange programs.  In October 1995, the Eagles supported counter-drug operations in Yoro, and a Medical Readiness Training Exercise (MEDRETE) on the Mosquito Coast, Honduras.  The Fuersas Alidadas Peacekeeping mission in late 1995 and early 1996 kept all unit helicopters busy all over Honduras.  From January to June 1996, Company B was kept busy with simultaneous missions in Belize, Guatemala, El Salvador, and Honduras.  These missions included Air Assaults, Engineer support Humanitarian Assistance, and Disaster Relief.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In April 1996, with the implementation of Operation Plan Central Chance, Company B's mission increased to include air support to all Military Groups and Embassy's in Central America.  Operation Clean Sweep stared in summer 1996, with its monthly missions to Nicaragua and Costa Rica supporting the Organization of American States' De-mining efforts.  On-going Helicopter Aerial Gunnery and MEDRETE's rounded out a busy initial year for the Eagles.  In autumn 1996, with the draw down of US Forces in Panama, the Eagles picked up the additional tasking of 2 UH-60 Blackhawk crews and maintenance support for Operation Safe Border, the Military Observers Mission to Ecuador and Peru (MOMEP).  In November 1996, with Operation Pelican in Belize, Company B supported the British and Belize Defense Force, as well as the US Army's 10th Mountain Division.  Disaster Relief missions were flown to the San Pedro Sula area in Honduras, to help the flood victims.  The year ended with another MEDRETE to Mocoron, Honduras.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 June 1997, Company B was inactivated and the Headquarters and Headquarters Company, 4th Battalion, 228th Aviation was reorganized and redesignated as Company D, 228th Aviation.  Company D, 228th Aviation continued with a high operation tempo and in October 1998, the unit was tasked with disaster relief following the destruction of Hurricane Mitch.  Nearly 650 hours were flown by Company D, 228th Aviation and 180 hours flown by MEDEVAC during Hurricane Mitch disaster relief effort.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Throughout the Central American disaster relief, the Company flew President Clinton, Former President Bush, Mrs. Clinton, Ambassadors and Senators throughout the devastated countries.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 2 June 1999, Company D, 228th Aviation Regiment transferred 2 UH-60's and 2 CH-47's from Panama to Soto Cano Airbase, Honduras.  On 4 June 1999, Company D, 228th Aviation Regiment retired its guidon and was absorbed into HHC and A Company, 1st Battalion, 228th Aviation Regiment.  1st Battalion, 228th Aviation Regiment, previously based in Panama, took over the mission previously held by D Company, 228th Aviation Regiment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/525mp.htm</Url>
+    <NameNode>525th Military Police Battalion</NameNode>
+    <FullName>525th Military Police Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/525mp.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Guantanamo Bay</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Cuba</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/guantanamo-bay.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/guantanamo-bay.htm</href>
+            <text>Guantanamo Bay, Cuba</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.arsouth.army.mil/525.html</href>
+            <text>525th Military Police Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.history.army.mil/html/forcestruc/lineages/branches/mp/0525mpbn.htm</href>
+            <text>525th Military Police Battalion Lineage and Honors @ CMH</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>525th Military Police Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/525mp.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 525th Military Police Battalion's mission is to provides command, control, and operational support to high risk detention operations at Guantanamo Bay, Cuba in support of the Joint Detention Group and Joint Task Force Guantanamo in order to Support the Global War on Terror.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 525th Military Police Battalion was first constituted on 30 August 1944 in the Army of the United States as Headquarters and Headquarters Detachment, 158th Military Police Service Battalion and activated on 5 September 1944 in India.  The Battalion served in China-Burma-India theater of operations, participating in the India-Burma and Central Burma campaigns during the Second World War.  After the end of the Second World War, the Battalion was inactivated on 1 November 1945 in India.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated on 25 April 1949 as Headquarters, 525th Military Police Service Battalion and allotted to the Regular Army.  It was activated on 11 May 1949 at Fort Sam Houston, Texas.  The Battalion was again reorganized and redesignated on 15 December 1950 as Headquarters and Headquarters Detachment, 525th Military Police Service Battalion.  Deploying in support of the Korean War, the Battalion participated in 4 campaigns there: UN Summer-Fall Offensive, Second Korean Winter, Korea Summer-Fall 1952, and Third Korean Winter.  The Battalion was inactivated on 20 March 1953 in Korea.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion was redesignated on 18 January 1966 as Headquarters and Headquarters Detachment, 525th Military Police Battalion and activated on 23 March 1966 at Fort Sill, Oklahoma.  It was inactivated there on 25 July 1968 at Fort Sill, Oklahoma.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion was activated on 16 October 2004 at Guantanamo Bay, Cuba in order to take head up the Joint Task Force Guantanamo's guard force, which became the Joint Detention Group (JDG) in 2005.  The 525th Military Police Battalion provides command, control, and operational support to the JDG.  As of 2011, the JDG consisted of approximately 1,300 personnel from both the US Army and Navy.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

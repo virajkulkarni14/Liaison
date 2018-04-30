@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="422c624060734b09983185b5a8568365" Name="Diagram1">
+        <EntityTypeShape EntityType="LiaisonModel.UnitIndex" Width="1.5" PointX="3.25" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.RelationshipType" Width="1.5" PointX="9.5" PointY="3" />
+        <EntityTypeShape EntityType="LiaisonModel.Relationship" Width="1.5" PointX="4.25" PointY="2.875" />
+        <AssociationConnector Association="LiaisonModel.FK_Relationship_RelationshipType" />
+        <EntityTypeShape EntityType="LiaisonModel.Unit" Width="2.375" PointX="1" PointY="1.25" />
+        <AssociationConnector Association="LiaisonModel.FK_RelationshipFrom_Unit" />
+        <AssociationConnector Association="LiaisonModel.FK_RelationshipTo_Unit" />
+        <AssociationConnector Association="LiaisonModel.FK_UnitIndex_Unit" />
+        <EntityTypeShape EntityType="LiaisonModel.Rank" Width="1.5" PointX="7.125" PointY="0.5" />
+        <AssociationConnector Association="LiaisonModel.FK_Unit_Rank" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

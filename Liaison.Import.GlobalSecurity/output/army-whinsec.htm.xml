@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/whinsec.htm</Url>
+    <NameNode>Western Hemisphere Institute for Security Cooperation (WHINSEC)</NameNode>
+    <FullName>Western Hemisphere Institute for Security Cooperation (WHINSEC)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/whinsec-2.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Benning</BaseName>
+        <Deployment>false</Deployment>
+        <Location>GA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-benning.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army//military/agency/dod/southcom.htm</Url>
+        <Id>/army//military/agency/dod/southcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>SOUTHCOM</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/shsb.htm</Url>
+        <FullName>Spanish Helicopter School Bn</FullName>
+        <Name>Spanish Helicopter School Bn</Name>
+        <Id>army/shsb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army//military/agency/dod/southcom.htm</href>
+        <h3>SOUTHCOM</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/shsb.htm</href>
+            <text>Spanish Helicopter School Bn</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-benning.htm</href>
+            <text>Fort Benning, GA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>https://www.benning.army.mil/tenant/whinsec/</href>
+            <text>Western Hemisphere Institute for Security Cooperation</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Western Hemisphere Institute for Security Cooperation (WHINSEC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/whinsec-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Western Hemisphere Institute for Security Cooperation (WHINSEC) is a United States Department of Defense Institute located at Fort Benning, Georgia.  WHINSEC is under the direction of the US Army Training and Doctrine Command (TRADOC) at Fort Monroe, Virginia, and its subordinate entity the Combined Arms Center located at Fort Leavenworth, Kansas.  Authorized by US Congress through 10 USC 2166 in 2001, WHINSEC's mission is to provide professional education and training to eligible personnel of nations of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such a charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating nations and promoting democratic values, respect for human rights, and knowledge and understanding of United States customs and traditions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Chartered by the US Congress, WHINSEC is a one-of-a-kind institute that provides professional education and training for civilian, military and law enforcement students from nations throughout the Western Hemisphere.  In keeping with its mandate from Congress, WHINSEC formulated and implemented an ambitious and extensive policy on human rights instruction.  The human rights program was developed for the primary purpose of creating a culture of respect for human rights within the armed forces, law enforcement, and governmental and non-governmental agencies of this hemisphere.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/whinsec.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Students received formal instruction and discuss human rights issues that affect military and police participation in operations during war, conflict, and peace.  Students received theoretical training in the definition, concepts, and historical development of present-day human rights and international humanitarian law precepts.  When appropriate, situational exercises were embedded in tactical training.  All students were required to take a human rights written exam.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 10 USC 2166, which established WHISNEC, Congress also established an independent review board (a federal advisory committee) to inquire into the curriculum, instruction, physical equipment, fiscal affairs, and academic methods of the Institute, other matters relating to the Institute that the Board decides to consider, and any other matter that the Secretary of Defense determines appropriate.  The entity, known as the Board of Visitors, became responsible for reviewing the curriculum of WHINSEC to determine whether the curriculum complied with applicable United States laws and regulations; was consistent with United States policy goals toward Latin America and the Caribbean; adhered to current United States doctrine; and appropriately emphasized the matters specified in subsection (d)(1), which stated that the curriculum of the Institute had to include mandatory instruction for each student, for at least 8 hours, on human rights, the rule of law, due process, civilian control of the military, and the role of the military in a democratic society.   Initially, the Board of Visitors contained 13 individuals, including 4 members of Congress designated by the Senate and House Armed Services Committees' leadership; representatives from the State Department, US Southern Command (SOUTHCOM), and the Army Training and Doctrine Command (TRADOC); and 6 members designated by the Secretary of Defense.  These last 6 were to include representatives from the human rights, religious and academic communities.  The Board of Visitors was later expanded to 14 individuals.  The Board of Visitors was also required to submit an annual report to the Secretary of Defense on its findings and recommendations related to its review of the institute.  Copies of these reports were then posted on the Federal Advisory Committee Website.  The members of the Board was not compensated by reason of service on the Board and their annual meeting was open to the public and meeting dates are posted in advance on the Federal Register.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 15 December 2000, after 54 years, the US Army School of the Americas (USARSA; also known by the acronym SOA) was closed, in accordance with Section 2166 of the National Defense Authorization Act for FY 2001.  In its place, the the Western Hemisphere Institute for Security Cooperation (WHINSEC) was created.  WHINSEC opened its doors on 17 January 2001, occupying Ridgway Hall, the first permanent home of the Army's Infantry School, which had previously been the home of USARSA.  Colonel Richard D. Downie was the first commandant.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In March 2004, Colonel Gilberto Perez became commandant of WHINSEC.  Colonel Perez led WHINSEC from providing services based on the Command and General Staff Officer Course (CGSOC) to Intermediate-Level Education (ILE) to match the instructional model of the Command and General Staff College, linking WHINSEC's curriculum to the Combined Arms Center, Fort Leavenworth, Kansas.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Colonel Felix Santiago, who became commandant in July 2008, just in time to oversee WHINSEC's move to the temporary quarters at Collins, Lewis, and Greene Halls, plus the modular classrooms nearby.  During Colonel Santiago's tenure, WHINSEC reorganized its teaching departments into 3 components: The School of Professional Military Education, the School of Specialized Studies, and the Roy Benavidez NCO Academy.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the first the decade after its establishment, WHINSEC provided training for more than 13,000 US and International students.  Its educational format incorporated guest lecturers and subject matter experts from sectors of US and International government, non-government, human rights, law enforcement, academic institutions and interagency departments to share best practices in pursuit of improved security cooperation between all nations of the Western Hemisphere.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 8 July 2010, Colonel Glenn R. Huber, Jr. assumed command of WHINSEC and began preparing the Institute for its second decade.  These efforts included establishing a permanent academic complex for WHINSEC's staff, faculty, and students on the campus of the Fort Benning Station Hospital. Renovation work began on this historic complex of buildings that opened in 1925 and provided treatment to thousands of Soldiers during World War II and the Korean War.  When completed, it was expect that the facilities would feature a state-of-the-art academic environment with 21st Century classrooms.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/shsb.htm</Url>
+    <NameNode>Spanish Helicopter School Battalion (SHSB)</NameNode>
+    <FullName>Spanish Helicopter School Battalion (SHSB)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Rucker</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-rucker.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/110avn-bde.htm</Url>
+        <Id>army/110avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>110th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/soa.htm</Url>
+        <Id>/army/soa.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>WHINSEC</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/soa.htm</href>
+        <h3>WHINSEC</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-rucker.htm</href>
+            <text>Fort Rucker</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Spanish Helicopter School Battalion (SHSB)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Spanish Helicopter School Battalion (SHSB) was assigned to the Western Hemisphere Institute for Security Cooperation (WHINSEC; this entity replaced the US Army School of the Americas in 2001) at Fort Benning, but was attached to Fort Rucker's Aviation Training Brigade to standardize its training and take advantage of the resources at the Aviation Center.  The SHSB is unique in that it was the only aviation unit in the US Army that trained and qualified Latin American pilots and maintainers, using Spanish as the primary language.  In the major drug-producing nations, the bulk of the rotary-wing airmen and mechanics were trained there by the Spanish Helicopter School Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training capable pilots to support US security assistance and counterdrug operations in Latin America was a difficult mission by any standard.  Graduates of the SHSB's training programs participated in traditional and non-traditional missions in the Hemisphere, to include drug interdiction, United Nation's peace keeping operations, and humanitarian relief assistance, all requiring competent and skilled Aviation personnel to ensure success.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Since inception, the SHSB trained more than 1,400 pilots and maintenance personnel from 13 Latin American nations in 21 programs.  Training included flight and maintenance courses on the UH-1 (Huey) and UH-60 (Black Hawk) helicopters.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The SHSB was organized with an Aviation Headquarters and Headquarters Company, and 3 Aviation Companies (A, B, and C).  While the Headquarters and Headquarters Company, A and B Companies were located at Fort Rucker, C Company was located at the Army's Aviation Logistical School at Fort Eustis, Virginia.  Between both locations, a total of 82 personnel were assigned to instruct all aspects of the highly technical flight and maintenance programs.  These included 30 US Army personnel, 46 Department of the Army civilians, and 5 Latin American guest instructors.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training at Fort Rucker concentrated primarily on the time-tested UH-1 platform, which was still in service within the military and police forces of Latin America.  These courses included: Initial Entry Rotary Wing; Rotary Wing Qualification; Instrument Refresher; Transition; Night Vision Goggle Qualification; Instructor Pilot; and Instructor Pilot Night Vision Goggle Qualification Courses.  Due to the recent sales of Black Hawk helicopters to several nations in Latin America, the curriculum also included 3 courses on the advanced UH-60 platform: Transition; Refresher Training; and Night Vision Goggle Qualification Courses.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Furthermore, the Aviation Safety Management, Maintenance Manager, Maintenance Test Pilot, and UH-1 Helicopter Repairer courses augmented the curriculum.  Course duration ranged from 3 weeks to over 23 weeks at Fort Rucker.  The bulk of the maintenance instruction was conducted at Fort Eustis, Virignia to include: Power Plant; Power Train; Structural Repair; Electrician; and Helicopter Repairer Supervisor courses.  Courses taught there lasted from 6 to 16 weeks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A snapshot of the Initial Entry Rotary Wing Course provided an inside look at the amount of training required of a candidate to become qualified to fly one of today's complex helicopters.  During the demanding 23-week course, students had to successfully complete a total of 154 hours of logged flight time to include: 95.5 day; 22 hours night; 15 hours with night vision goggles; and 21 hours simulator time.  Augmented by 178 hours of rigorous academics in Federal and Army Aviation Regulations, visual flight rules, instruments, communications, maintenance, and tactics, and the successful student pilot was well prepared to earn the coveted title of "Army Aviator".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>To ensure those future aviators kept flying, the Spanish Helicopter School Battalion's maintenance instruction was just as demanding as the flight programs.  To become a graduate of one of many courses, students must competently learn to maintain, service, troubleshoot, adjust and replace helicopter systems and components.  A look into the UH-1 Helicopter Repairer Course illustrated the knowledge and skills required to keep an aircraft operational.  During the 10-week course, students received 339 hours of critical academic and hands-on training in technical subjects to include: power plant systems; fuel systems; airframe; and flight control systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition to aviation-related subjects, instruction at the SHSB coincided with the USARSA's emphasis on providing human rights training to all graduates.  This training was emphasized in the belief that all soldiers and police officials had to be knowledgeable on human rights issues to effectively meet the threats encountered during the conduct of their duties.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Originally activated as the US Southern Command's Aviation Platoon in 1984, the unit was redesignated as the US Army School of the Americas (USARSA) Spanish Helicopter School Battalion in 1991.  In 1995, the unit was officially assigned to the US Army's Aviation Training Brigade (ATB) at the Aviation Training Center at Fort Rucker, Alabama.  Although assigned to the ATB, the unit maintained its US Army School of the Americas' heritage as an affiliated unit.  This was due to the highly specialized technical instruction, which was delivered only in the Spanish language.  In December 2000, the US Army School of the Americas closed and was subsequently renamed the Western Hemisphere Institute for Security Cooperation (WHINSEC).  The SHSB remained a part of this organization.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</href>
+        <text>US Army Aviation Center of Excellence</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/110avn-bde.htm</href>
+        <text>110th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

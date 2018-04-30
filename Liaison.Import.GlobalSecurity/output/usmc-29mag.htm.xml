@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/29mag.htm</Url>
+    <NameNode>Marine Aircraft Group 29 [MAG-29]</NameNode>
+    <FullName>Marine Aircraft Group 29 [MAG-29]</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/mag29.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/2maw.htm</Url>
+        <Id>usmc/2maw.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>2 MAW</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/29mag-refs.htm</Url>
+        <Id>/usmc/29mag-refs.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>References</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/hmm-561.htm</Url>
+        <FullName>HMM-561</FullName>
+        <Name>HMM-561</Name>
+        <Id>usmc/hmm-561.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmm-561.htm</href>
+            <text>HMM-561</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Amphibious Task Force 03</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmm-162.htm</href>
+            <text>HMM-162 "Golden Eagles" (CH-46E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmm-365.htm</href>
+            <text>HMM-365 "Sky Knights" (CH-46E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmla-269.htm</href>
+            <text>HML/A-269 "Gunrunners"/"Sea Cobras" (UH-1N/AH-1W)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmh-464.htm</href>
+            <text>HMH-464 "Condors" (CH-53E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/mals-29.htm</href>
+            <text>MALS-29 "Wolverines"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>element of MAG 26</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/vma-223.htm</href>
+            <text>VMA-223 "Bulldogs" (AV-8B II+)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/vma-542.htm</href>
+            <text>VMA-542 "Tigers" (AV-8B II+)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Prior</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmla-269.htm</href>
+            <text>HML/A-269 "Gunrunners"/"Sea Cobras" (UH-1N/AH-1W)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmm-162.htm</href>
+            <text>HMM-162 "Golden Eagles" (CH-46E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmm-263.htm</href>
+            <text>HMM-263 "Thunder Eagles" (CH-46E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmm-365.htm</href>
+            <text>HMM-365 "Sky Knights" (CH-46E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmh-464.htm</href>
+            <text>HMH-464 "Condors" (CH-53E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/hmt-302.htm</href>
+            <text>HMT-302 "Phoenix" (CH-53E/MH-53E)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/mals-29.htm</href>
+            <text>MALS-29 "Wolverines"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Station</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/new-river.htm</href>
+            <text>New River, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/usmc/29mag-refs.htm</href>
+        <h3>References</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.2maw.usmc.mil/MAG29Group&amp;amp;Squadrons.asp</href>
+            <text>Marine Aircraft Group 29 [MAG-29]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>Marine Aircraft Group 29 [MAG-29]</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/mag29.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Along with Marine Aircraft Group 26,  MAG 29 currently provides direct helicopter support for Marine Forces Atlantic, in the form of troop transport, observation, heavy lift capability, command and control and light attack. But without the support from H&amp;amp;HS, MWSS-272, MACS-2 Det. B and the other supporting units, there would be no "team" in the adopted concept of "Team New River."</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Marine Aircraft Group 29 was commissioned May 1, 1972, at Marine Corps Air Station New River, Jacksonville, N.C. It replaced Marine Helicopter Training Group-40. Four days after its activation the Group received its first aircraft, the UH-1N directly from Bell Helicopter in Fort Worth, Texas. From its beginning, MAG-29 was prepared to support any exercise or deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On June 20, 1973, MAG-29 finished accident-free flying year (FY '73), amassing over 23,500 flight hours. This feat was particularly significant since MAG-29 was the only tactical Marine Aircraft Group that finished FY '73 with a zero accident rate.  In 1974, a MAG-29 OV-10A set a new world record for straight-line distance in a Group II, Class CIF aircraft. The 4,480 kilometer journey was flown from Naval Air Station Whidbey Island, Wash., to Homestead AFB, Fla.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1977, HML-167 received its first upgraded UH-1N, which included an electronic stabilization system. HMA-269 also received the very first AH-1T/TOW aircraft, the Marine Corps' newest and most advanced attack helicopter.   In February 1980, the Group received the first OV-10Ds and conducted the first operations from the amphibious assault ship USS Saipan. In 1981, HML-167 passed the 50,000 accident-free flight hour mark and was selected as the Marine Corps' recipient of the National Defense Transportation Association Unit Award.     In 1983, MAG-29 pilots flew 33,135 hours and had the distinction of being the only aircraft group within the FMFLant, to complete CY '83 without a major aircraft mishap.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>While serving as the Aviation Combat Element of the Marine Prepositioning Force in Beirut, Lebanon, HMM-162 was called upon for mass evacuation of casualties resulting from the bombing of the Battalion Landing Team Headquarters.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 1988, MAG-29 detached personnel and aircraft to support operations in the Persian Gulf. In 1989 and 1990, MAG-29 participated in support of Operation Desert Shield/Storm.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1993, MAG-29 saw the end of 50 years of active service for the OV-10 Bronco when VMO-1 deactivated July 30. MAG-29 units attached to Landing force 6th Fleet began supporting United Nations Operations Restore Hope/Continue Hope in Somalia and Deny Flight/Provide Promise in the former Yugoslavia. By the time U.S. support of Somalia ended in July 1994, all MAG-29 squadrons had provided direct support of the various operations there. During the summer of 1994, MAG-29 personnel and aircraft supported Operation Restore Democracy in Haiti.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June 1995, MAG-29's continued support of Operations Deny Flight and Provide Promise was highlighted when Marines of HMM-263 helped successfully rescue downed Air Force pilot Capt. Scott O'Grady. MAG-29 also boasted the best medium and light attack helicopter squadrons in the Marine Corps for 1995. HMM-365 and HMLA-269 won the coveted Marine Corps Aviation Association awards for Marine Medium and Marine Light Attack Helicopter Squadrons of the Year.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>HMM-162, ACE for the 22d MEU(SOC), played a key role in Operations Quick Response/Assured Response in the Central African Republic and in Liberia.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/marforlant.htm</href>
+        <text>MARFORLANT</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/ii-mef.htm</href>
+        <text>II MEF</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/2maw.htm</href>
+        <text>2 MAW</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/hmm-561.htm</Url>
+    <NameNode>Marine Medium Tilt-Rotor Squadron VMM-561</NameNode>
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/hmm-561.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/29mag.htm</Url>
+        <Id>usmc/29mag.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>MAG-29</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>
+HMM-265
+HMM-561
+</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>Marine Medium Tilt-Rotor Squadron VMM-561</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>
+HMM-265
+HMM-561
+</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/systems/aircraft/v-22-deploy.htm</href>
+            <text>V-22 Osprey</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Station</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/new-river.htm</href>
+            <text>New River, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h2</NodeType>
+        <Contents>&lt;strike&gt;Marine Medium Tilt-Rotor Squadron VMM-561 &lt;/strike&gt;
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/hmm-561.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>VMM-561 was first activated May 1968, though soon deactivated a year later during the beginning of the Vietnam War, where it was used as a training squadron. The squadron flew the Sikorsky H-34 Choctaw during the Vietnam War era. In December 2010, the squadron was reactivated as a MV-22B Ospreys unit aboard MCAS Miramar, where they earned the National Defense Service streamer for their 2011 deployment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>VMM-561, a newly created squadron that did not previously fly the CH-46E. During the squadron activation ceremony, 02 December 2010, VMM-561 became the third MV-22 "Osprey" squadron aboard the air station, and the 9th MV-22 Operational Squadron.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Marine Medium Tiltrotor Squadron 561, the “Pale Horses,” deactivated during a ceremony aboard Marine Corps Air Station Miramar, Calif., 06 July 2012.   The ceremony included a performance by the 3rd Marine Aircraft Wing Band and a speech to give thanks to Marines and families by Lt. Col. Warren J. Curry, the commanding officer of VMM-561.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Despite their honors and success, the downsize of the armed forces is one reason why squadrons are being deactivated. “Due to a mandate by congress, VMM-561 had to be cut.” said Sgt. Maj. Stacy N. Pruitt, squadron sergeant major and a Laurel, Miss., native. “The mandate cut two [MV-22B] squadrons total.”</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>VMM-561 will be reactivated aboard Marine Corps Air Station Futenma as Marine Medium Tiltrotor Squadron 265 “Dragons.” VMM-265 will be the first MV-22B squadron in Okinawa, Japan.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/marforlant.htm</href>
+        <text>MARFORLANT</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/ii-mef.htm</href>
+        <text>II MEF</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/2maw.htm</href>
+        <text>2 MAW</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/29mag.htm</href>
+        <text>MAG-29</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

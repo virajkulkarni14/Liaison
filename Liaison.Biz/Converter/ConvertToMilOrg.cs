@@ -233,11 +233,11 @@ namespace Liaison.Biz.Converter
                     //parentID = parentID.Substring(0, parentID.LastIndexOf('/'));
                     string urlIdDivPart = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
                     string modifier = "";
-                    if (coo.UnitComponent == ServiceType.Reserve)
+                    if (coo.UnitComponent == ServiceTypeBLL.Reserve)
                     {
                         modifier = "(" + Helper.Constants.Initials_Component.Reserve + ")";
                     }
-                    else if (coo.UnitComponent == ServiceType.Volunteer)
+                    else if (coo.UnitComponent == ServiceTypeBLL.Volunteer)
                     {
                         modifier = "(" + Helper.Constants.Initials_Component.Volunteer + ") (" + coo.UnitNGState + ") ";
                     }
@@ -326,7 +326,7 @@ namespace Liaison.Biz.Converter
             {
                 bool isCompany = true;
                 coo.SplitName = coo.SplitName.Replace(Helper.Constants.Initials.HHC, Helper.Constants.LongForm.HH + " " + Helper.Constants.LongForm.Company);
-                ServiceType serviceType = ServiceType.Active;
+                ServiceTypeBLL serviceType = ServiceTypeBLL.Active;
                 string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
                 var coysplit = coo.SplitName.Split(',');
                 var namesplit = coysplit[0].Remove(coysplit[0].IndexOf(Helper.Constants.LongForm.Company), 7);
@@ -450,7 +450,7 @@ namespace Liaison.Biz.Converter
             }
             else if (coo.SplitName.Contains(Helper.Constants.LongForm.Battery) || (coo.SplitName.StartsWith(Helper.Constants.Initials.HHB) && coo.SplitName.Contains("FA")))
             {
-                ServiceType serviceType = ServiceType.Active;
+                ServiceTypeBLL serviceType = ServiceTypeBLL.Active;
                 string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
                 var trpsplit = coo.SplitName.Split(',');
                 string namesplit = trpsplit[0].Replace(Helper.Constants.LongForm.Battery, string.Empty);
@@ -524,7 +524,7 @@ namespace Liaison.Biz.Converter
             }
             else if (coo.SplitName.Contains(Helper.Constants.LongForm.Troop))
             {
-                ServiceType serviceType = ServiceType.Active;
+                ServiceTypeBLL serviceType = ServiceTypeBLL.Active;
                 string parentID = coo.HigherHq[0].Url.Substring(Liaison.Helper.CurrentOpsHelper.ctopsUSArmy.Length);
                 var trpsplit = coo.SplitName.Split(',');
                 string namesplit = trpsplit[0].Replace(Helper.Constants.LongForm.Troop, string.Empty);
@@ -649,13 +649,13 @@ namespace Liaison.Biz.Converter
             return returnable;
         }
 
-        private static string GetModifier(ServiceType unitComponent, string unitNGState)
+        private static string GetModifier(ServiceTypeBLL unitComponent, string unitNGState)
         {
-            if (unitComponent == ServiceType.Reserve)
+            if (unitComponent == ServiceTypeBLL.Reserve)
             {
                 return "(" + Helper.Constants.Initials_Component.Reserve + ")";
             }
-            else if (unitComponent == ServiceType.Volunteer)
+            else if (unitComponent == ServiceTypeBLL.Volunteer)
             {
                 return "(" + Helper.Constants.Initials_Component.Volunteer + ") (" + unitNGState + ") ";
             }
@@ -733,24 +733,24 @@ namespace Liaison.Biz.Converter
             }
             return parentnumber;
         }
-        private static ServiceType GetBrigadeServiceType(int brigNumber)
+        private static ServiceTypeBLL GetBrigadeServiceType(int brigNumber)
         {
-            return Helper.Enumerators.ServiceType.Volunteer;
+            return Helper.Enumerators.ServiceTypeBLL.Volunteer;
         }
-        private static ServiceType GetDivisionServiceType(int divnumber)
+        private static ServiceTypeBLL GetDivisionServiceType(int divnumber)
         {
-            return divnumber <= 10 || divnumber == 101 || divnumber == 82 ? Helper.Enumerators.ServiceType.Active : Helper.Enumerators.ServiceType.Volunteer;
+            return divnumber <= 10 || divnumber == 101 || divnumber == 82 ? Helper.Enumerators.ServiceTypeBLL.Active : Helper.Enumerators.ServiceTypeBLL.Volunteer;
         }
 
 
 
-        private static Services GetServiceId(string url)
+        private static ServicesBll GetServiceId(string url)
         {
             if (url.StartsWith(CurrentOpsHelper.ctopsUSArmy))
             {
-                return Services.Army;
+                return ServicesBll.Army;
             }
-            return Services.Joint;
+            return ServicesBll.Joint;
         }
         private static List<ShortForm> GetShortFormArmy(string urlIdArmyPart, string mission)
         {
@@ -834,12 +834,12 @@ namespace Liaison.Biz.Converter
             return sb.ToString();
         }
 
-        private static string GetIndexShortForm(string mission, string symbol, Helper.Enumerators.Services svc)
+        private static string GetIndexShortForm(string mission, string symbol, Helper.Enumerators.ServicesBll svc)
         {
             StringBuilder sb = new StringBuilder();
             switch (svc)
             {
-                case Services.Army:
+                case ServicesBll.Army:
                     sb.Append(Helper.Constants.Initials_Service.Army);
                     break;
                 default:
@@ -884,16 +884,16 @@ namespace Liaison.Biz.Converter
             }
             return "";
         }
-        private static List<ShortForm> GetShortFormBattalion(string url, ServiceType unitComponent)
+        private static List<ShortForm> GetShortFormBattalion(string url, ServiceTypeBLL unitComponent)
         {
             string[] split = url.Split('-');
             string modifier = "";
 
-            if (unitComponent == ServiceType.Reserve)
+            if (unitComponent == ServiceTypeBLL.Reserve)
             {
                 modifier = "(" + Helper.Constants.Initials_Component.Reserve + ") ";
             }
-            else if (unitComponent == ServiceType.Volunteer)
+            else if (unitComponent == ServiceTypeBLL.Volunteer)
             {
                 modifier = "(" + Helper.Constants.Initials_Component.Volunteer + ") ";
             }
@@ -1067,19 +1067,19 @@ namespace Liaison.Biz.Converter
             }
             return list;
         }
-        private static List<ShortForm> GetShortFormBrigade(string urlIdBrigPart, ServiceType servicetype)
+        private static List<ShortForm> GetShortFormBrigade(string urlIdBrigPart, ServiceTypeBLL servicetype)
         {
             urlIdBrigPart = urlIdBrigPart.Trim();
             string[] split = urlIdBrigPart.Split('-');  
             string sNumber = Helper.Helper.GetIntWithUnderscores(split[0], false);
             string ack = GetShortFormMissionFromUrl(split[1], 1).Substring(0);
-            string index = GetIndexShortForm(split[1], Helper.Constants.Symbol.brigade, Services.Army);
+            string index = GetIndexShortForm(split[1], Helper.Constants.Symbol.brigade, ServicesBll.Army);
             string modifier = "";
-            if (servicetype == ServiceType.Reserve)
+            if (servicetype == ServiceTypeBLL.Reserve)
             {
                 modifier = "(" + Helper.Constants.Initials_Component.Reserve + ") ";
             }
-            else if (servicetype == ServiceType.Volunteer)
+            else if (servicetype == ServiceTypeBLL.Volunteer)
             {
                 modifier = "(" + Helper.Constants.Initials_Component.Volunteer+ ") ";
             }
@@ -1107,7 +1107,7 @@ namespace Liaison.Biz.Converter
             return l;
         }
 
-        private static List<ShortForm> GetShortFormDivision(string urlIdDivPart, ServiceType servicetype)
+        private static List<ShortForm> GetShortFormDivision(string urlIdDivPart, ServiceTypeBLL servicetype)
         {
             string[] split = urlIdDivPart.Split('-');
             string sNumber = Helper.Helper.GetIntWithUnderscores(split[0], false);
@@ -1143,11 +1143,11 @@ namespace Liaison.Biz.Converter
                 string ack = GetShortFormMissionFromUrl(split[1], 1).Substring(0);
 
                 string modifier = "";
-                if (servicetype == ServiceType.Reserve)
+                if (servicetype == ServiceTypeBLL.Reserve)
                 {
                     modifier = "(" + Helper.Constants.Initials_Component.Reserve + ") ";
                 }
-                else if (servicetype == ServiceType.Volunteer)
+                else if (servicetype == ServiceTypeBLL.Volunteer)
                 {
                     modifier = "(" + Helper.Constants.Initials_Component.Volunteer + ") ";
                 }
@@ -1336,7 +1336,7 @@ namespace Liaison.Biz.Converter
             return returnable;
         }
 
-        private static List<ShortForm> GetShortFormHHDetachment(string urlIdDetPart, ServiceType servicetype)
+        private static List<ShortForm> GetShortFormHHDetachment(string urlIdDetPart, ServiceTypeBLL servicetype)
         {
             var returnable = new List<ShortForm>();
 
@@ -1660,6 +1660,10 @@ namespace Liaison.Biz.Converter
                 case "OPCON":
                     {
                         return HigherHqType.OPCON;
+                    }
+                case "Part of":
+                    {
+                        return HigherHqType.PartOf;
                     }
                 case null:
                 case "":

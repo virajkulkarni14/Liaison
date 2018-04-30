@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -7,6 +8,7 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.Biz.MilOrgs
 {
+    [SuppressMessage("ReSharper", "InconsistentNaming")]
     public class Squadron_CavalryOrg : IMilitaryOrg
     {
         public int? Number { get; set; }
@@ -21,9 +23,9 @@ namespace Liaison.Biz.MilOrgs
 
         public string CurrentOpsLogo { get; set; }
 
-        public ServiceType ServiceTypeIdx { get; set; }
+        public ServiceTypeBLL ServiceTypeIdx { get; set; }
 
-        public Services ServiceId { get; set; }
+        public ServicesBll ServiceId { get; set; }
 
         public string USState { get; set; }
 

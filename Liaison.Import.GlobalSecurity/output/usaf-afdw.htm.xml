@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usaf/afdw.htm</Url>
+    <NameNode>Air Force District of Washington</NameNode>
+    <FullName>Air Force District of Washington</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usaf/images/afdw.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usaf/index.html</Url>
+        <Id>usaf/index.html</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>USAF</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>JFHQ-NCR</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usaf/320aeg.htm</Url>
+        <FullName>320th Air Expeditionary Wing</FullName>
+        <Name>320th Air Expeditionary Wing</Name>
+        <Id>usaf/320aeg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>JFHQ-NCR</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usaf/320aeg.htm</href>
+            <text>320th Air Expeditionary Wing</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>11th Wing</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>79th Medical Wing</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>844th Communications Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>US Air Force Band</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>US Air Force Honor Guard</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/andrews.htm</href>
+            <text>Andrews AFB, MD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/bolling.htm</href>
+            <text>Bolling AFB, DC</text>
+            <Former>true</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.afdw.af.mil/index.asp</href>
+            <text>Air Force District of Washington</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Air Force District of Washington</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usaf/images/afdw.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Air Force District of Washington (AFDW), located on Joint Base Andrews, Maryland, brings air, space and cyberspace capabilities to the joint team protecting the US capital, and supports local personnel and those serving worldwide. As a direct reporting unit of the US Air Force with major command responsibilities, AFDW provides headquarters support to The US Air Force Band and Honor Guard, located on Joint Base Anacostia-Bolling, Washington, DC, and to the 11th Wing, 320th Air Expeditionary Wing, 844th Communications Group, and 79th Medical Wing on Joint Base Andrews, Maryland.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition to being a direct reporting unit of the US Air Force, AFDW serves as the Air Force service component for coordination purposes to the Joint Force Headquarters - National Capital Region (JFHQ-NCR) and the supporting command to Joint Task Force NCR Medical (JTF-CapMed). When the JHFQ-NCR transitions to the Joint Task Force NCR (JTF-NCR), the 320th Air Expeditionary Wing activates and becomes the Air Force service component of JTF-NCR. Normally, the Commander of AFDW also serves as the Commander, 320th Air Expeditionary Wing. Air Force Mission Directive 13 delineates missions and assigned duties applicable to AFDW in both its worldwide Air Force service role and its JTF-NCR Air Force service component role.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As one of USAF's direct reporting units, AFDW executes Air Force operations and supports Joint Force and Inter-Agency operations in the NCR while providing superior support to combatant commanders and Air Force elements worldwide.  AFDW is responsible to organize, train, equip and provide forces for air expeditionary force deployment, provide ceremonial support, and conduct homeland operations as part of a joint effort, within the NCR. Homeland operations include homeland defense, defense support to civil authorities, emergency preparedness, and support to National Special Security Events.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>AFDW also exercises Uniform Code of Military Justice (UCMJ) authority over, and provides manpower, personnel, legal, chaplain, finance, logistics, and safety support for designated Air Force activities located within the NCR, selected Field Operating Agencies, and selected Air Force elements. This includes support for approximately 40,000 Air Force military and civilian members of more than 2,000 Air Force elements in more than 500 locations in 108 countries.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was first constituted as the Air Force District of Washington, and activated on 1 October 1985 at Bolling Air Force Base in Washington, District of Columbia.  There it operated as a direct reporting unit of the US Air Force until it was inactivated on 15 Jul 1994.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The AFDW was reactivated on 7 July 2005 to address 3 broad objectives: Align the Air Force command structure in the NCR on par with that of our sister services; improve Air Force support to the JFHQ-NCR; and, designate a single voice for Air Force cross-service issues in the NCR.  On 1 September 2007, AFDW also relocated from Bolling Air Force Base to Andrews Air Force Base, Maryland.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usaf/index.html</href>
+        <text>USAF</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usaf/320aeg.htm</Url>
+    <NameNode>320th Air Expeditionary Wing
+320th Air Expeditionary Group</NameNode>
+    <FullName>320th Air Expeditionary Wing</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usaf/images/320aew.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usaf/afdw.htm</Url>
+        <Id>usaf/afdw.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>AFDW</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usaf/320aeg-designation.htm</Url>
+        <Id>/usaf/320aeg-designation.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Previous Unit Designations</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>AirForce</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>320th Air Expeditionary Group</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>320th Expeditionary Operations Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>320th Expeditionary Civil Engineer Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>320th Expeditionary Communications Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>320th Expeditionary Logistics Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>320th Expeditionary Security Forces Squadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>320th Expeditionary Medical Flight</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/usaf/320aeg-designation.htm</href>
+        <h3>Previous Unit Designations</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Base</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/andrews.htm</href>
+            <text>Andrews AFB, MD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/eskan-village.htm</href>
+            <text>Eskan Village, Saudi Arabia</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/seeb.htm</href>
+            <text>Seeb IAP, Oman</text>
+            <Former>true</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>References</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/library/news/2003/07/mil-030715-amc01.htm</href>
+            <text>Dyess colonel awarded Bronze Star Air Mobility Command 15 Jul 2003</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>320th Air Expeditionary Wing&lt;br&gt;
+&lt;strike&gt;320th Air Expeditionary Group&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usaf/images/320aew.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Air Expeditionary Wing is an assigned element of the Air Force District of Washington (AFDW), based at Andrews Air Force Base, Maryland.  The AFDW provides support to the National Capital Region (NCR) among other functions.  When the Joint Force Headquarters - National Capital Region (JHFQ-NCR) transitions to the Joint Task Force NCR (JTF-NCR), the 320th Air Expeditionary Wing activates and becomes the Air Force service component of JTF-NCR. Normally, the Commander of AFDW also serves as the Commander, 320th Air Expeditionary Wing. Air Force Mission Directive 13 delineates missions and assigned duties applicable to AFDW in both its worldwide Air Force service role and its JTF-NCR Air Force service component role.  When activated, the 320th Air Expeditionary Wing additional subordinate groups would also be activated, including the 320th Expeditionary Operations Group.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Air Expeditionary Wing was first established as the 320th Bombardment Group (Medium) on 19 June 1942.  This unit was activated on 23 June 1942 and assigned to III Bomber Command.  After training in Florida for overseas duty in the summer of 1942, the unit was assigned first to XII Bomber Command on 14 September 1942 and then deployed to the Mediterranean.  There it flew antisubmarine patrols from February to March 1943 as part of the 7th Fighter Wing, which subsequently became the 47th Bombardment Wing.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Between April and July 1943, the 320th Bombardment Group flew missions against enemy shipping in the approaches to Tunisia, attacked installations in Sardinia, participated in the reduction of Pantelleria, and supported the invasion of Sicily.  The unit had also been assigned to the 2686 Medium Bombardment Wing (Provisional) on 6 June 1943.  The 320th Bombardment Group was assigned to the 42 Bombardment Wing on 25 August 1943.  It bombed interdiction and close support targets in support of the invasion of Italy in September 1943.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Bombardment Wing was assigned to the XII Bomber Command on 1 January 1944 and then to the 42 Bombardment Wing on 1 March 1944.  The 320th Bombardment Group supported forces at Salerno and knocked out targets to aid the seizure of Naples and the crossing of the Volturno River.  The Group flew missions to Anzio and Cassino and flew interdiction operations in central Italy to support the Allied advance on Rome.  It earned the French Croix de Guerre with Palm for actions in support of Allied offensive operations in central Italy between April and June 1944 and also earned a Distinguished Unit Citation for a 12 May 1944 mission where the Group bombed, in the face of intense antiaircraft fire, enemy troop concentrations near Fondi to support a Fifth Army offensive.  From June to November 1944, the Group flew interdiction missions in the Po Valley of northern Italy and close support missions for the invasion of southern France.  It was also redesignated as the 320th Bombardment Group, Medium on 31 August 1944.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Bombardment Group continued to bomb enemy targets in France and Germany until V-E day.  Earned a second DUC for the 15 Mar 1945 bombing of enemy installations of the Siegfried Line that contributed to a Seventh Army breakthrough.  In the summer of 1945, the Group participated in the occupation and disarmament of Germany.  It was assigned to the IX Air Force Service Command from 29 May to 20 November 1945, being detached to the 1 Air Disarmament Wing, from circa 29 May to 1 October 1945.  The Group returned to the US in December 1945, where it inactivated on 4 December 1945.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated as the 320th Bombardment Group, Light on 26 May 1947 and activated at Mitchel Field (which subsequently became Mitchel Air Force Base), New York in the Air Force Reserve on 9 July 1947.  There it trained as an Air Force Reserve light bombardment group assigned to the 4th Bombardment Wing (which subsequently became the 4th Air Division) until it was again inactivated on 27 June 1949.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was redesignated as the 320th Bombardment Wing, Heavy on 15 November 1962 and organized on 1 February 1963.  The Wing conducted global bombardment and air refueling missions in support of Strategic Air Command (SAC) commitments from February 1963 to October 1986.  The Wing was variously assigned to the 14th Strategic Aerospace Division (1 February 1963), 18th Strategic Aerospace Division (1 July 1965), 47 Air Division (2 July 1966), 14th Strategic Aerospace Division (31 March 1970), 47th Air Division (30 June 1971), 14th Air Division (1 October 1972), and 47th Air Division (1 October 1982) during this period.  The Wing also lent aircraft, aircrews, and support personnel to other SAC organizations for operations in Southeast Asia, from February to July 1965, from December 1965 to March 1966, and from June 1972 to October 1973.  In addition to its combat mission, the Wing trained T-29 pilots for Fifteenth Air Force from July October 1973.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Also during this period, the unit's lineage and honors were consolidated on 31 Jan 1984 with the 320th Bombardment Wing, Medium, which had been established, and activated, on 1 December 1952.  This unit had also conducted global bombardment and air refueling missions in support of SAC commitments as part of 12th Air Division (detached from 3 June to 4 September 1954 to 7th Air Division and from 5 October 1956 to 11 January 1957 to 3rd Air Division) before being discontinued on 15 September 1960.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Wing gave up air refueling in 1986, but continued bombardment training missions until 1989, when it inactivated with the closure of its home base, Mather Air Force Base, California.  The Wing was formally inactivated on 30 September 1989.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The decision was made in late 1998 to inactivate provisional units in Southwest Asia and activate new units in their place.  In preparation for this, the unit was redesignated as the 320th Air Expeditionary Group and converted to provisional status on 19 November 1998.  On 1 December 1998, the 4409th Air Base Group (Provisional), based at Eskan Village, Saudi Arabia was inactivated.  Concurrently, the 320th Air Expeditionary Group was activated in its place as part of the 9th Air and Space Expeditionary Task Force - Southwest Asia, which subsequently became the 9th Aerospace Expeditionary Task Force - Southwest Asia.  Between December 1998 and December 2001, the Group provided civil engineering, logistics, medical, communication, and security force services at Eskan Village near Riyadh, Saudi Arabia.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Air Expeditionary Group provided first-class customer service to the coalition forces in the Eskan Village-Riyadh area in Saudi Arabia. As part of its daily operations, the 320th Air Expeditionary Group provided force protection for everyone at Eskan Village, maintained much of the installation infrastructure, ensured lines of communication were kept open, and gave logistical support throughout the area of operations. To complete its mission, the 320th Air Expeditionary Group relied on the expertise found in its 4 assigned squadrons, the 320th Expeditionary Civil Engineer Squadron, 320th Expeditionary Communications Squadron, Expeditionary Logistics Squadron, and 320th Expeditionary Security Force Squadron, as well as the Group's command staff.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Expeditionary Civil Engineer Squadron provided facility maintenance, construction, and design support for all multi-service multi-national organizations and personnel assigned to Eskan Village in support of Operation Southern Watch. It ensured environmental compliance and continuous emergency and disaster response capability. The Squadron was responsible for the construction, maintenance, and repair of facilities. The Squadron was also involved with and supervised the labor involved with facility service contracts. Also environmental services, fire protection, explosive ordnance disposal, and air base operability of all US occupied facilities on Eskan Village were all Squadron responsibilities. The Squadron also managed engineering design projects, facility space requirements, and the furniture management office. Villa management and maintenance were also supported by the Squadron.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Expeditionary Communications Squadron provided tactical command, control, communications, computer, intelligence, surveillance, and reconnaissance (C4ISR) support to the Joint Task Force Southwest Asia (JTF-SWA) commander, joint forces, and coalition partners in support of UN Security Council resolutions and Operation Southern Watch. The Squadron also supported a theater-wide mission by serving as a communications hub for bases in the JTF-SWA area of responsibility. The Squadron accomplished this through satellite, radio systems, and secure communications equipment. The Squadron also directly served Eskan Village, providing local base communications support. Support included LAN, radio maintenance, cable TV, workgroup management, local telephone support, small computer support, and operating a message center. The Squadron had overall management for distribution of publications and forms. It served as the base copier manager and maintained the Records Information Management System program. The Squadron also operated a Workgroup Management Training classroom. Official mail was handled directly by the Squadron. The Squadron augmented base postal services to provide mail for deployed combatants. The Squadron had responsibility for land mobile radios and pagers. The Squadron also provided management of a cellular telephone contract. Public address services, requirements processing, and help desk support were also provided.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Expeditionary Logistics Squadron was responsible for supporting JTF-SWA, US Army Central (ARCENT), F2C2, and the 320th Air Expeditionary Group with their transportation, supply, and contracting needs in order to perform their assigned missions. Additionally, it provided logistics support to allied combatant forces assigned to Eskan Village. All of the support expected from these 3 logistics disciplines at a US Air Force Base was provided by the men and women of the 320th Logistics Squadron. The only support not provided was any tasking that related directly to support of any US Air Force Base with a flying mission. There were some unique requirements on an almost daily basis that were not normally tasked to logistics.  Vehicle Operations provided all transportation between Prince Sultan Air Base and Eskan Village, and the Squadron was also responsible for transportation to 10 other locations in the area of responsibility. The Supply Flight had one of the few remaining Base Service Stores in the USAF.  The IMPAC card was not used ar Eskan, so local purchases were made by using the Blanket Purchasing Agreement.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 320th Expeditionary Security Force Squadron provided force protection for deployed coalition and non-combatant forces, and conducted antiterrorism, security, law enforcement, resource protection, air base defense, through multi-national, security force operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With plans to reduce US presence in Saudi Arabia, the 320th Air Expeditionary Group was inactivated on 1 December 2001.  It was redesignated as the 320th Air Expeditionary Wing on 1 February 2002, becoming a unit capable of being activated as required by Air Combat Command.  The unit was subsequently activated to support Operation Enduring Freedom and Operation Iraqi Freedom, operating from Seeb International Airport in Oman.  As of July 2003 The 320th Air Expeditionary Wing had moved American military power closer to the fights in Afghanistan and Iraq by transporting 8 US Army divisions (around 80,000 troops), hauling some 47,000 tons of cargo, flying 17,000 sorties, and logging 40,000 flying hours all while simultaneously supporting operations in 12 countries.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2005, the US Air Force reactivated the Air Force District of Washington (AFDW) and the 320th Air Expeditionary Wing was subsequently assigned to that US Air Force direct reporting unit, still capable of being activated as required.  The 320th Air Expeditionary Wing was activated in December 2006 to support operations surrounding the state funeral for President Gerald Ford and again on December 2008 to support the 2009 presidential inauguration.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usaf/index.html</href>
+        <text>USAF</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usaf/afdw.htm</href>
+        <text>AFDW</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

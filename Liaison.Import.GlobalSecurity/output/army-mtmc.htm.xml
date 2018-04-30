@@ -1,0 +1,2385 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/mtmc.htm</Url>
+    <NameNode />
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/sddc.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Scott AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>IL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/scott.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/../dod/transcom.htm</Url>
+        <Id>/army/../dod/transcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Transportation Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/mtmc-history.htm</Url>
+        <Id>/army/mtmc-history.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>SDDC History</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/dsc.htm</Url>
+        <FullName>Deployment Support Command</FullName>
+        <Name>Deployment Support Command</Name>
+        <Id>army/dsc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/143transcom.htm</Url>
+        <FullName>143rd Transportation Command</FullName>
+        <Name>143rd Transportation Command</Name>
+        <Id>army/143transcom.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/596tg.htm</Url>
+        <FullName>596th Transportation Brigade</FullName>
+        <Name>596th Transportation Brigade</Name>
+        <Id>army/596tg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/597tg.htm</Url>
+        <FullName>597th Transportation Brigade</FullName>
+        <Name>597th Transportation Brigade</Name>
+        <Id>army/597tg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/598tg.htm</Url>
+        <FullName>598th Transportation Brigade</FullName>
+        <Name>598th Transportation Brigade</Name>
+        <Id>army/598tg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/599tg.htm</Url>
+        <FullName>599th Transportation Brigade</FullName>
+        <Name>599th Transportation Brigade</Name>
+        <Id>army/599tg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/../dod/transcom.htm</href>
+        <h3>Transportation Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Headquarters</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/dsc.htm</href>
+            <text>Deployment Support Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Transportation Engineering Agency</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/143transcom.htm</href>
+            <text>143rd Transportation Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>595th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/596tg.htm</href>
+            <text>596th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/597tg.htm</href>
+            <text>597th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/598tg.htm</href>
+            <text>598th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/599tg.htm</href>
+            <text>599th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>600th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/scott.htm</href>
+            <text>Scott AFB, IL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/mtmc-history.htm</href>
+        <h3>SDDC History</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.sddc.army.mil/who/default.aspx</href>
+            <text>Surface Deployment and Distribution Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>References</h3>
+        <li>
+          <li>
+            <text>Name change captures major commands role Army News Service 21 Oct 2003</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/dsc.htm</Url>
+    <NameNode />
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/mtmc.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft. Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/dsc-res.htm</Url>
+        <Id>/army/dsc-res.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Other DSC Reserve Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>596th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>597th Transportation Group
+
+Reserve WARTRACED Units</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1173rd Transportation Terminal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1174th Transportation Terminal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1176th Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1181st Transportation Terminal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1182nd Transportation Terminal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1184th Transportation Terminal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1185th Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1185th Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1188th Transportation Terminal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1189th Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1192nd Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1205th Transportation Railway Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1395th Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1397th Transportation Terminal Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1179th Deployment Support Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1190th Deployment Support Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1394th Deployment Support Bde</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1302nd Port Security Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>4249th Port Security Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>6632nd Port Security Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/dsc-res.htm</href>
+        <h3>Other DSC Reserve Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Ft. Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Deployment Support Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Deployment Support Command (DSC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/mtmc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Deployment Support Command serves as the first leg in power projection from the Continental United States. Headquartered at Fort Eustis, Va., the mission of the  organization is to deploy and sustain America's fighting forces during peace and crisis by ensuring Defense Transportation System surface cargo arrives rapidly and safely wherever needed. The Transportation Terminal Groups are among the 11 terminal units of the Military Traffic Management Command's Deployment Support Command. In addition to the 11 ports where the Command maintains a permanent presence, it has at its disposal several strategic expansion ports. The Command consists of roughly 1,100 positions of which approximately 475 are physically located at Fort Eustis. The remaining personnel are assigned at subordinate units throughout the Command's geographic area of responsibility in support of regionally-oriented missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As the Army transitions to a CONUS- based, power- projection force to meet regional responsibilities, containerization will be the key to strategic mobility. The Army must close one light division by air and two by sea in 30 days. To meet this mandate, the Army Strategic Mobility Program (ASMP) was  developed. The ASMP encompasses the purchase of containers (20 ft) and Equipment Deployment Storage Systems (EDSS) for deployable forces. The 20 ft International Standards Organization (ISO) container and EDSS procurement commenced with FY93 funding.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Deployment Support Brigades (DSB) are USAR units assigned to the MTMC, and organized to provide documentation, loadout assistance, and linkage between the installation and the SPOE. They are employed in small Deployment Support Teams (DST) of six personnel each. The DSBs are employed at installations and focus their energies on the deploying units. DSBs assist in the planning and execution of equipment
+staging and outloading for surface movements.  Each DSB consists of a command group and unit movement
+teams (UMT) of four to six individuals per team. The UMT is assigned to an installation under the operational control (OPCON) of the Installation Transportation Officer (ITO) to assist and support the ITO in the discharge of his/ her responsibility in the movement of units. UMTs have been predesignated and assigned to specific installations. The DSB will assist in the planning and execution of the staging and outloading of deploying unit equipment destined for the port of embarkation; provide liaison and 
+coordination to installation/ major command for the movement of units to designated ports of embarkation; coordinate rail and truck loading plans; monitor preparation of documents in accordance with Military Standard Transportation and Movement Procedures (MILSTAMP); and monitor movement to the SPOE.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Military Traffic Management Command's Deployment Support Command was activated at Fort Eustis on 2 October 1998. The Command was formed by consolidating the mission, functions and geographic area of responsibility of MTMC's former Eastern and Western Area Commands into a single headquarters - the MTMC Deployment Support Command. The command's geographic area of responsibility includes the Continental United States, Alaska, the Caribbean, and Central and South America.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Deployment Support Command began a phased transition of functions from Oakland Army Base, Calif., and Military Ocean Terminal Bayonne, N.J., to Fort Eustis in September 1997. The Ocean Cargo Division was the first to set up operations in Building 827, a refurbished clinic. An advance party arrived in April 1998, moving into renovated barracks space in Building 663. By the time the Command was activated on 2 October, almost 200 people had arrived at Fort Eustis. Renovation of a second temporary facility, Building 664, was completed in January 1999. These three temporary facilities housed the headquarters staff until Building 661, the permanent headquarters facility, was completed in the summer of 2000. Transition of all functions from Oakland and Bayonne was  completed by 30 June 1999.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Relocating MTMC's Deployment Support Command to Fort Eustis enhances the readiness of the 7th Group.  The 7th Group routinely coordinates with MTMC DSC for training exercises, operations, or Major Theaters of War (MTW) planning. Training dollars and time were saved through this collocation.     MTMC is a major customer of training offered at Fort Eustis. Collocation of MTMC DSC with the U.S. Army Transportation School  fostered a close training partnership similar to the partnership existing between the School and the 7th Group. This collocation enabled the School and MTMC DSC to jointly work systems, simulation, and doctrine development, thereby enhancing the School's expertise in the School's officer training scenarios (at no cost) and significantly enhancing training realism. The professional development opportunities at the School were beneficial to Transportation Corps MTMC battalion commander designees.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Delivering equipment and supplies to America's warfighters in peace and crisis is at the top of MTMC's list of critical missions and one that will be the primary focus of its new Deployment Support Command. Working hand-in-hand with transportation industry partners, labor unions, host nations and the Reserve components, the Deployment Support Command synchronizes Defense Transportation System surface cargo movement, and provides traffic management and strategic port management for a variety of DoD customers. The Command is also prepared to deploy military and emergency essential civilians to hot spots outside the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition to managing the movement of DoD cargo, the Command is responsible for U.S. and Latin American port operations at common-user and strategic expansion ports, operates the Defense Railway Interchange Fleet, and is responsible for training and mobilization of one Navy and 20 Army Reserve transportation units.  The Command also  develops and maintains plans for operational readiness under mobilization, contingency and emergency conditions; commands assigned units strategically located on the East, West and Gulf Coasts of the continental United States as well as Puerto Rico and Alaska; and operates four Regional Storage Management Offices.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Military Traffic Management Command, Deployment Support Command traces its organizational lineage to the Army's former Office of the Chief of Transportation, established in 1942 to support the rapidly growing need to move troops and equipment during World War II.  The Command carries out the Military transport duties once held by the former New York and San Francisco Ports of Embarkation, which were responsible for moving military cargo throughout World War II and the Korean War.  Established at Fort Eustis, Va., on Oct 2 1998, the Command was formed by consolidating the mission, functions and geographic area of responsibility of MTMC's former Eastern and Western Area Commands.   From their headquarters at the Military Ocean Terminal Bayonne, N.J., and Oakland Army Base, Calif., these organizations fulfilled the military transportation needs of America's military as they evolved from the Ports of Embarkation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The largest test of their logistical capability came during the Persian Gulf War when MTMC units managed the movement of 85 percent of all military cargo shipped to Saudi Arabia.  Equipment equaling 6.5M measurement tons made this the largest movement of equipment and troops since the World War II invasion of Normandy. In addition to deploying and sustaining America's military, MTMC units have actively participated in numerous humanitarian assistance efforts, from aiding hurricane victims to supporting operations in Somalia and Bosnia.  Whenever and wherever the need arose, MTMC units ensured supplies and equipment arrived on time.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>pre</NodeType>
+        <Contents>To accomplish the generic mission statement, the Reserve units are aligned as follows:    
+   UNIT                      PORT/INSTALLATION (Homestation)   
+  1173ND TTBn                Savannah, GA, Long Beach, CA, Port Hueneme, CA (Brockton, MA) 
+  1174TH TTBn                Hampton Roads, VA (Ft Totten, NY) 
+  1176TH TTBde               Howland Hook, NY   (Baltimore, MD) 
+  1181ST TTBn                Jacksonville, FL, San Diego, CA  (Meridian, MS) 
+  1182ND TTBn                Charleston, SC  (Charleston, SC)  
+  1184TH TTBn                Beaumont, TX (Mobile, AL) 
+  1185TH TTBde               Wilmington, NC  (Lancaster, PA) 
+  1186TH TTBde               Jacksonville, FL  (Jacksonville, FL) 
+  1188TH TTBn                Sunny Point and Morehead City, NC  (Decatur, GA) 
+  1189TH TTBde               Savannah, GA  (Charleston, SC)  
+  1192ND TTBde               Corpus Christi, TX  (New Orleans, LA) 
+  1395TH TTBde               Tacoma and Port Hadlock, WA  (Seattle, WA)  
+  1397TH TTBn                Oakland and Concord, CA  (Oakland, CA) 
+  1205TH TROB                Sunny Point, NC   (Middletown, CT) 
+  1179TH DSB                 DOD installations or power projection platforms in  
+                             CONUS.  Initial support to Ft. Stewart/Benning 
+                             Ft. Bragg, Ft. Drum, Ft. Eustis and Ft. Dix  
+                             (Ft Hamilton, NY) 
+  1190TH DSB                 DOD installations or power projection platforms in  
+                             CONUS  (Baton Rouge, LA) 
+  1394TH DSB                 DOD installations or power projection platforms in 
+                             CONUS  (Camp Pendleton, CA) 
+  1302ND PSD                 Jacksonville, FL  (Orangeburg, NY)  
+  4249TH PSC                 Sunny Point, NC (Pocahontas, IA) 
+  6632ND PSC                 Oakland and Concord, CA (Irvine, CA)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/143transcom.htm</Url>
+    <NameNode />
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/143transcom.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Orlando</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FL</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usarc.htm</Url>
+        <Id>/army/usarc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>US Army Reserve Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/usarc.htm</href>
+        <h3>US Army Reserve Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>7th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>32nd Transportation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>300th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>336th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>375th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3rd Transportation Control Element</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>37th Transportation Control Element</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>184th Transportation Control Element</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Orlando, FL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>143D TRANSCOM</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/596tg.htm</Url>
+    <NameNode>596th Transportation Brigade
+596th Transportation Group (Ammunition)
+596th Transportation Group (Terminal)</NameNode>
+    <FullName>596th Transportation Brigade</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>MOTSU</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/sunny-point.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Beaumont</BaseName>
+        <Deployment>false</Deployment>
+        <Location>TX</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/832transbn.htm</Url>
+        <FullName>832nd Transportation Battalion</FullName>
+        <Name>832nd Transportation Battalion</Name>
+        <Id>army/832transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/833transbn.htm</Url>
+        <FullName>833nd Transportation Battalion</FullName>
+        <Name>833nd Transportation Battalion</Name>
+        <Id>army/833transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/834transbn.htm</Url>
+        <FullName>834th Transportation Battalion</FullName>
+        <Name>834th Transportation Battalion</Name>
+        <Id>army/834transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/955transco.htm</Url>
+        <FullName>955th Transportation Company</FullName>
+        <Name>955th Transportation Company</Name>
+        <Id>army/955transco.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/956transco.htm</Url>
+        <FullName>956th Transportation Company</FullName>
+        <Name>956th Transportation Company</Name>
+        <Id>army/956transco.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>596th Transportation Group (Ammunition); 596th Transportation Group (Terminal)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/832transbn.htm</href>
+            <text>832nd Transportation Battalion</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/833transbn.htm</href>
+            <text>833nd Transportation Battalion</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/834transbn.htm</href>
+            <text>834th Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/955transco.htm</href>
+            <text>955th Transportation Company</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/956transco.htm</href>
+            <text>956th Transportation Company</text>
+            <Former>true</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/sunny-point.htm</href>
+            <text>MOTSU, NC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Beaumont, TX</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>596th Transportation Brigade&lt;br&gt;
+&lt;strike&gt;596th Transportation Group (Ammunition)&lt;/strike&gt;&lt;br&gt;
+&lt;strike&gt;596th Transportation Group (Terminal)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 596th Transportation Brigade is to safely provide ammunition terminal services to meet the nation's objectives.  This responsibility includes the operation of both east and west coast ammo terminals at Military Ocean Terminal, Sunny Point (MOTSU), North Carolina and at Military Ocean Terminal Concord (MOTCO), California, respectively, though the Brigade is based at MOTSU.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition to serving its Defense Transportation System customers, the services and combatant commanders around the world, the 596th Transportation Brigade also coordinates and provides support to surface movements of Foreign Military Sales (FMS) munitions destined for US allies around the world.  The Brigade is the Military Surface Deployment and Distribution Command's (SDDC) Center of Excellence for ammunition ocean terminal and distribution operations, and routinely coordinates ammunition surface movements with the Joint Munitions Command, the services, and combatant commanders on behalf of SDDC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 596th Transportation Brigade traces its history to the decision in the mid-1960s to place responsibility for terminal operations in the United States with the Military Traffic Management and Terminal Service.  To assist with this, the 1302nd Major Port Command was established.  On 1 October 1997, this unit was reflagged as the 596th Transportation Group (Terminal).   This was in accord with a plan to rename all water terminals within what had become the Military Traffic Management Command (MTMC).  The unit was placed under the operational control of the MTMC's Deployment Support Command (DSC).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 596th Transportation Group (Terminal) initially operated MOTCO in Concord, California before moving to Beaumont, Texas on 1 June 1998.  In its place, the 834th Transportation Battalion continued operations there.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 596th Transportation Group (Terminal) was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  The Group planned, coordinated, and accomplished the expeditious and economical movement and documentation of DOD sponsored cargo through terminals and facilities in Texas and the US Gulf Coast states of Louisiana, Mississippi, Alabama, and western Florida.  The Group would deploy/redeploy US Forces as assigned by Commander, MTMC DSC.  It would also advise and assist wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  The Group participated in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside of the Continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the transfer to the Panama Canal Zone back to the Panamanian government in 1999, the US began to withdraw or inactivate its forces deployed there.  The 596th Transportation Group's 955th Transportation Company was subsequently inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  As part of the changes, the 596th Transportation Group was inactivated on 20 September 2001.  The Group's units were inactivated or reassigned.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2004, the MTMC was designated as the SDDC.  On 15 June 2008, the Ammunition Terminal Group (Provisional) at MOTSU was redesignated as the 596th Transportation Group (Ammunition) (Provisional).  The provisional unit was assigned the 834th Transportation Battalion, which had remained at MOTCO.  On 1 October 2008, the 596th Transportation Group (Ammunition) was formally activated.  The unit was subsequently redesignated as the 596th Transportation Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/832transbn.htm</Url>
+    <NameNode>832nd Transportation Battalion</NameNode>
+    <FullName>832nd Transportation Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/832transbn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Blount Island</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/blount-island.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Cape Canaveral</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FL</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/space/facility/ccas-intro.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Buchanan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>PR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-buchanan.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>San Juan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>PR</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Cape Detachment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Jacksonville Detachment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Puerto Rico Detachment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/blount-island.htm</href>
+            <text>Blount Island, FL</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/space/facility/ccas-intro.htm</href>
+            <text>Cape Canaveral, FL</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-buchanan.htm</href>
+            <text>Fort Buchanan, PR</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>San Juan, PR</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>832nd Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/832transbn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 832nd Transportation Battalion is responsible for conducting small to large ship operations in deploying units and Deployment Distribution Support Teams (DDST) worldwide.  Specifically, the DDSTs routinely deploy into the US Southern Command (SOUTHCOM)  area of responsibility to support joint chiefs of staff exercises throughout that region, including expeditionary transportation support to humanitarian events or contingencies within the area of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, as part of the transformation of the Military Traffic Management and Terminal Service (MTMTS) to the Military Traffic Management Command (MTMC), the command's subordinate units were reflagged.  This led to the formation of the 832nd Transportation Battalion, assigned to the 596th Transportation Group (Terminal).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the late 1990s, the mission of the 832nd Transportation Battalion was to synchronize Defense Transportation System surface cargo movements.  The Battalion planned, coordinated, and accomplish the expeditious and economical movement and documentation of Department of Defense sponsored cargo through terminals and facilities in Latin America and the Caribbean and provided Single Port Management and Traffic Management in peace and crisis.  The Battalion also monitored contractor performance related to stevedore and related terminal service contract, basic ordering agreements, ocean carriers, and motor carriers.  The Battalion advised and assisted wartraced US Army Reserve units as assigned by Commander, MTMC Deployment Support Command (DSC) and deployed/redeployed forces as directed by Commander, MTMC DSC.  The Battalion participated in Joint Chiefs of Staff exercises and provided Commander in Chief, US Southern Command a single point of contact for all movements within the SOUTHCOM area of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  The 832nd Transportation Battalion was transferred from the 596th Transportation Group (Terminal) to what became the 597th Transportation Brigade as part of the transformation.  As part of major changes to the MTMC (which became the SDDC in 2004), and additional changes Army-wide as part of Base Realignment and Closing Commission (BRAC) recommendations, the 832nd Transportation Battalion was also relocated to Cape Canaveral, Florida.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 2011, at the Port of Jacksonville, the 832nd Transportation Battalion completed ship operations of 17 vessels with more than 7,234 pieces of cargo for the 101st Combat Aviation Brigade’s deployment, redeployment, and other Overseas Contingency Operations Retrograde missions.  With Atlantic Undersea Test and Evaluation Center Tug and Barge, Operation Enduring Freedom, Operation Iraqi Freedom, Beyond the Horizon, and Army Watercraft Special Mission, the Cape Detachment completed 33 vessel operations with 20,200 pieces of equipment during 2011.  During daily and weekly sustainment cargo, TRANSLOT support, and the Puerto Rico National Guard Reset, the Puerto Rico Detachment handled 7,499 pieces of cargo in 2011.  In 2011, SOUTHCOM missions included 14 conferences with 3 port site surveys and 31 SOUTHCOM Surface Distribution Network movements.  The 832nd Transportation Battalion supported the deployment and redeployment of approximately 738 pieces of equipment, including New Horizon Haiti with 400 pieces and 230 trucks; Beyond the Horizons Dominican Republic with 96 pieces and 75 trucks; and BTH El Salvador with 126 pieces and 87 trucks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of 2012, the 832nd Transportation Battalion consisted of the main battalion and the Jacksonville Detachment on Blount Island, Jacksonville, Florida; the Cape Detachment in Cape Canaveral, Florida; and the Puerto Rico Detachment at Fort Buchannan, Puerto Rico.  The 832nd Transportation Battalion by 2012 had more than 35 employees, including about 30 military personnel, government civilians, and contractors at Jacksonville; about 5 government employees and military personnel at Cape Canaveral; and several government employees in Puerto Rico.  During large ship operations in Jacksonville, the 832nd Transportation Battalion could expand to about 500 personnel with Port Support Activity, US Army Reserve augmentation, and stevedore and related terminal services contracts.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/833transbn.htm</Url>
+    <NameNode>833rd Transportation Battalion</NameNode>
+    <FullName>833rd Transportation Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/833transbn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Seattle</BaseName>
+        <Deployment>false</Deployment>
+        <Location>WA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Alaska Detachment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Seattle, WA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>833rd Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/833transbn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 833rd Transportation Battalion is responsible for overseeing the movement of military cargo and sustainment through commercial ports in the Pacific Northwest region of the United States.  The Battalion's primary customers are I Corps and Joint Base Lewis-McCord, Washington.  The Battalion's main office is located in Seattle, Washington and is the only continental United States-based CONUS Military Surface Deployment and Distribution Command (SDDC) battalion not physically located at a port.  As a result, the Battalion routinely uses the Deployment Distribution Support Team (DDST) model to operate from any port required within its area of responsibility, to include the designated strategic Port of Tacoma and the Ports of Olympia, Everett and Grays Harbor.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, as part of the transformation of the Military Traffic Management and Terminal Service (MTMTS) to the Military Traffic Management Command (MTMC; which became the SDDC in 2004), the command's subordinate units were reflagged.  This led to the formation of the 833rd Transportation Battalion, assigned to the 596th Transportation Group (Terminal).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  The 833rd Transportation Battalion was transferred from the 596th Transportation Group (Terminal) to what became the 597th Transportation Brigade as part of the transformation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the early 2000s, the mission of the 833rd Transportation Battalion was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  The Battalion planned, coordinated and accomplish the expeditious and economical movement and documentation of Department of Defense sponsored cargo through terminals and facilities in the Pacific Northwest and Alaska.  It deployed/redeployed US forces as assigned by Commander, MTMC Deployment Support Command (DSC) and advised and assisted wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  The Battalion participated in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside of the continental United States.  The Battalion also provided command and control of the 597th Transportation Brigade's the Alaska Detachment.  The Detachment was eventually transferred to the operational control of the 836th Transportation Battalion, part of the 599th Transportation Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 2011, the 833rd Transportation Battalion supported the training rotation of the 1st Brigade Combat Team, 25th Infantry Division from Alaska to the National Training Center at Fort Irwin, California; provided mission command of the SDDC Augmentation Team for the BRAC realignment of the Maneuver Center of Excellence (Armor School) from Fort Knox, Kentucky to Fort Benning, Georgia.; and conducted multiple operations in support of port operations at both the 834th Transportation Battalion at Port Hueneme and Concord, California and the 842nd Transportation Battalion at Beaumont, Texas.  During 2011, the 833rd Transportation Battalion also recertified to support US Transportation Command's (TRANSCOM) Joint Task Force - Port Opening Seaport of Debarkation (SPOD) with the 688th Transportation Detachment (RPOE) by deploying a Seaport Command Element to Norfolk, Virginia, and conducting the download of 676 pieces of equipment returning from the Joint Logistics Over the Shore African Lion exercise in Morocco.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>For ammunition operations, the 833rd Transportation Battalion also supported the 596th Transportation Brigade at Naval Magazine, Indian Island, Washington during 2011.  Annually, the 833rd Transportation Battalion oversaw the movement of resupply cargo to remote Alaskan sites by barge.  This move was historically called Project Cool Barge and could only be conducted after the spring thaw and before the fall freeze.  The movement of cargo required coordination between 9 different SPOE-SPOD combinations to and from Alaska, the mainland, as well as intrastate Alaska. This move provided the only opportunity for retrograde cargo to be shipped south from remote sites.  The resupply of ammunition to Alaska was conducted twice a year.  The first barge in the spring was supported by the 834th Transportation Battalion in Concord, California and the second barge was supported by the 833rd Transportation Battalion in the fall at Naval Magazine, Indian Island.  In 2011, the northbound fall move to Valdez, Alaska, consisted of eighty 20-foot containers, measuring 2,560 measurement tons with a net explosive weight of 133,936 pounds.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 833rd also supported the resupply of Pacific Theater Ammunition through the Joint Chiefs of Staff Exercise TURBO CADS 2011 at Naval Magazine, Indian Island and supported Army Materiel Command and the movement of Foreign Military Sales (FMS) ammunition cargo there.  In 2011, the Battalion loaded one vessel with 146 pieces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of 2012, the 833rd Transportation Battalion staff consisted of about 30 individuals, including civilian employees, military personnel (Army and Navy), and a couple of contract employees.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/834transbn.htm</Url>
+    <NameNode>834th Transportation Battalion</NameNode>
+    <FullName>834th Transportation Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>MOTCO</BaseName>
+        <Deployment>false</Deployment>
+        <Location>California</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/concord.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/concord.htm</href>
+            <text>MOTCO, California</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>834th Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 834th Transportation Battalion is to provide terminal and distribution services through strategic seaports in support of deploying and redeploying forces in the California area of responsibility.  In addition, the 834th safely provides ammunition terminal services and performs installation management functions at Military Ocean Terminal Concord (MOTCO), California.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1995, Congress voted to accept a proposal to close the Oakland Army Base under the Base Realignment and Closure (BRAC) process.  Consequently the 1302nd Major Port Command needed to relocate, after a tenure in the same locale of over half a century. The 1302nd recommended relocation to become a tenant of the Naval Weapons Station Concord, 27 miles from the Oakland Army Base. The Department of the Army accepted this recommendation and in April 1997 formally directed relocation to Concord. The command physically moved between 24 September and 2 October 1997, during which the unit was reflagged as the 596th Transportation Group (Terminal). In place of commercial stevedores handling breakbulk cargo at the Oakland Army Base, the command entered into an agreement with the Naval Weapons Station Concord to have the Navy's civil service stevedores  handle cargo. On 1 November 1997 a new arrangement began to process container cargo. Previously a contractor at the Oakland Army Base loaded (or "stuffed") freight into containers; while containers imported from overseas were unloaded (or "unstuffed") by civil servants. Under the new arrangement, a contractor in his own warehouse (in Alameda, California) stuffed and unstuffed cargo, while government personnel monitored and advised the contractor.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>This operational and caretaker oversight was provided by the 596th Transportation Group's 834th Transportation Battalion.  The 834th Transportation Battalion moved its operation to Concord in October 1997 as part of movement of what became the 596th Transportation Group, as a result of the 1995 Base Realignment and Closure Commission's decision to close Oakland Army Base.  The unit traces its organizational lineage to the San Francisco Port of Embarkation and coordinated the movement of military cargo through Oakland Army Base since the base's establishment at the beginning of World War II.  The 834th coordinated the movement of Defense Transportation System surface cargo, excluding ammunition, through Concord and 4 West Coast strategic expansion ports.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Responsibility for port operations at the former Concord Naval Weapons Station in California was transferred on 1 October 1999 from the Navy to the Army's Military Traffic Management Command (MTMC), via the 834th Transportation Battalion of the 596th Transportation Group.  The overall mission of the 834th Transportation Battalion was to synchronize Defense Transportation System surface cargo movements and provide traffic management and single port management for the Department of Defense in peace and crisis.  The Battalion planned, coordinated, and accomplished the expeditious and economical movement and documentation of Defense Transportation System surface cargo through terminals in Long Beach, Oakland, Port Hueneme and San Diego, California.  It also provided operational and caretaker oversight of MOTCO, an ammunition trans-shipment port, which would be maintained in a reduced operational status for exercises and contingencies.  The Battalion deployed/redeployed US forces and advised and assisted wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  It also participated in Joint Chiefs of Staff and US Transportation Command (TRANSCOM) sponsored exercises and was prepared to deploy military personnel and emergency-essential civilians outside the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  As part of the changes, the 596th Transportation Group was inactivated on 20 September 2001.  The Group's units were inactivated or reassigned.  The 834th Transportation Battalion became assigned to the 597th Transportation Group (Terminal), which took over responsibility for all MTMC Battalions in the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2004, the MTMC was designated as the SDDC.  The Battalion subsequently became part of the Ammunition Terminal Group (Provisional).  On 15 June 2008, the Ammunition Terminal Group (Provisional) at MOTSU was redesignated as the 596th Transportation Group (Ammunition) (Provisional).  The provisional unit was assigned the 834th Transportation Battalion, which had remained at MOTCO.  The Battalion remained assigned to the 596th Transportation Group when it was formally activated in October 2008 and when it transformed into the 596th Transportation Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By 2012, the 834th Transportation Battalion had a workforce of about 140 military personnel, government civilian employees, and contractor personnel. In addition to terminal operations, the 834th provided customs clearance for all the Department of Defense cargo coming into California seaports, and was also responsible for manifesting vessels that transported Department of Defense cargo entering and leaving the Battalion's area of responsibility.  The 834th performed its general cargo missions across 4 strategic seaports in California, including Oakland, Port Hueneme, LA/Long Beach, and San Diego.  During 2011, the Battalion discharged and loaded 22 vessels with more than 268,340 measurement tons of ammunition and general cargo.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/955transco.htm</Url>
+    <NameNode>955th Transportation Company</NameNode>
+    <FullName>955th Transportation Company</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/955transco.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Balboa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Panama</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Balboa, Panama</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>955th Transportation Company</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/955transco.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Following the transfer to the Panama Canal Zone back to the Panamanian government in 1999, the US began to withdraw or inactivate its forces deployed there.  The 596th Transportation Group's 955th Transportation Company was subsequently inactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/956transco.htm</Url>
+    <NameNode>956th Transportation Company</NameNode>
+    <FullName>956th Transportation Company</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Monmouth</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-monmouth.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Anchorage</BaseName>
+        <Deployment>false</Deployment>
+        <Location>AK</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-monmouth.htm</href>
+            <text>Fort Monmouth, NJ</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Anchorage, AK</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>956th Transportation Company</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>The 956th Transportation Company was inactivated in 2009 as part of the closure of Fort Monmouth, New Jersey resulting from Base Realignment and Closing Commission (BRAC) recommendations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As part of the 596th Transportation Group (Terminal), the mission of the 956th Transportation Company was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  It planned, coordinated, and accomplish the expeditious and economical movement and documentation of DOD sponsored cargo through terminals and facilities in Alaska from its headquarters in Anchorage.  It would deploy/redeploy US forces as assigned by Commander, MTMC DSC and advise and assist wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  The Company also participate in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  As part of the changes, the 596th Transportation Group was inactivated on 20 September 2001.  The Group's units were inactivated or reassigned.  The 834th Transportation Battalion became directly assigned to the MTMC.  The 956th Transportation Company was inactivated and its personnel converted to a detachment of the 833rd Transportation Battalion, based in Seattle, Washington.  The unit commander's position was eliminated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Company was subsequently reactivated at Fort Monmouth, New Jersey, as an element of the 597th Transportation Brigade.  There it took over for the 834th Transportation Battalion, which was moved to Beaumont, Texas.  The Company had 17 personnel assigned to it, instead of the Battalion's 32, and reductions included one officer and 15 civilians.  The new unit commander was a major, in lieu of the lieutenant colonel who had commanded the previous Battalion.  One soldier was added to the Company's organizational structure.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In New Jersey, the 956th Transportation Company helped helped establish the Port of Philadelphia become one of the nation's strategic ports.  On 20 September 2008, the Company completed its last loadout at the Port of Philadelphia in preparation for its inactivation as part of the closure of Fort Monmouth resulting from Base Realignment and Closing Commission (BRAC) recommendations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/597tg.htm</Url>
+    <NameNode>597th Transportation Brigade
+597th Transportation  Group (Terminal)</NameNode>
+    <FullName>597th Transportation Brigade</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Southport</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NC</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/841transbn.htm</Url>
+        <FullName>841st Transportation Battalion</FullName>
+        <Name>841st Transportation Battalion</Name>
+        <Id>army/841transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/842transbn.htm</Url>
+        <FullName>842nd Transportation Battalion</FullName>
+        <Name>842nd Transportation Battalion</Name>
+        <Id>army/842transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/954transco.htm</Url>
+        <FullName>954th Transportation Company</FullName>
+        <Name>954th Transportation Company</Name>
+        <Id>army/954transco.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>597th Transportation  Group (Terminal)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/832transbn.htm</href>
+            <text>832nd Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/833transbn.htm</href>
+            <text>833nd Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/834transbn.htm</href>
+            <text>834th Transportation Battalion</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/841transbn.htm</href>
+            <text>841st Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/842transbn.htm</href>
+            <text>842nd Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/954transco.htm</href>
+            <text>954th Transportation Company</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <text>Military Ocean Terminal Norfolk, Virginia</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>688th Transportation Detachment (RPOE)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>689th Transportation Detachment (RPOE)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>690th Transportation Detachment (RPOE)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Southport, NC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>597th Transportation Brigade&lt;br&gt;
+&lt;strike&gt;597th Transportation  Group (Terminal)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 597th Transportation Brigade, a subordinate element of the US Army's Military Surface Deployment and Distribution Command, is focused on the US Northern Command (NORTHCOM) and US Southern Command (SOUTHCOM) areas of responsibility.  With a workforce of more than 300 military and civilian personnel as of 2012, the 597th Transportation Brigade and its subordinate units are responsible for meeting the surface deployment, redeployment and distribution needs of the Warfighter and Defense Transportation System customers in the United States and Latin America.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 597th Transportation Brigade is located at Joint Base Langley-Eustis, Virginia, and has 4 subordinate battalions located throughout the United States.  The Brigade's subordinate battalions include the 832nd Transportation Battalion, located in Jacksonville, Florida; the 833rd Transportation Battalion, located in Seattle, Washington; the 841st Transportation Battalion, located in Charleston, South Carolina; and the 842nd Transportation Battalion, located in Beaumont, Texas.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Brigade's Deployment Distribution Support Teams (DDST) support strategic surface deployments within the continental United States.  These teams, consisting of surface deployment transportation experts, directly assist the Warfighter, installation transportation officers, division transportation officers, mobility warrant officers, and unit movement officers with hazardous materials, equipment, container and unit movement data preparation and documentation.  They provide a smooth, efficient and synchronized move from the installation to the port of embarkation, a valuable conduit between the installation, the 597th Transportation Brigade, and SDDC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 597th Transportation Brigade also provides surface deployment and distribution support to SOUTHCOM and NORTHCOM.  In support of Defense Support of Civil Authority and the Department of Homeland Defense, the 597th Transportation Brigade provides surface expertise to North American Aerospace Defense Command (NORAD) and NORTHCOM by focusing on the synchronization and integration of logistical efforts involved with executing NORTHCOM missions.  The Brigade provides intransit visibility support through transportation systems interfacing with the Department of Transportation in support of NORTHCOM exercises.  The 597th Transportation Brigade operates in terminals and facilities throughout Latin America, South America and the Caribbean in support of New Horizon and SOUTHCOM humanitarian and disaster relief missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, as part of the transformation of the Military Traffic Management and Terminal Service (MTMTS) to the Military Traffic Management Command (MTMC), the command's subordinate units were reflagged.  This led to the formation of the 597th Transportation Group (Terminal).  By the late 1990s, the mission of the 597th Transportation Group (Terminal) was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  The Group planned, coordinated, and accomplished the expeditious and economical movement and documentation of ammunition, other dangerous cargo, Department of Defense sponsored cargo, and prepositioning cargo through the Military Ocean Terminal, Sunny Point (MOTSU), North Carolina, and Department of Defense sponsored cargo through terminals and facilities in Wilmington and Morehead City, North Carolina.  The Group would deploy/redeploy US forces as assigned by Commander, MTMC Deployment Support Command (DSC) and advise and assist wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  The Group participated in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside of the contintental United States.  The Group provided operational control for MOTSU.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  The 597th Transportation Group (Terminal) experienced significant changes as part of the transformation.  With the inactivation of the DSC, and the reactivation of that unit was a component of the US Army Reserve, the 597th Transportation Group reassigned directly to MTMC.  The 597th Transportation Group also became responsible for all MTMC battalions in the continental United States.  As part of major changes to the MTMC (which became the SDDC in 2004), and additional changes Army-wide as part of Base Realignment and Closing Commission (BRAC) recommendations, the 597th Transportation Group was also relocated to Fort Eustis, Virginia in 2005.  The unit subsequently was redesignated the 597th Transportation Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2009, the 597th Transportation Brigade assumed command and control of the 688th, 689th and 690th Transportation Detachments (Rapid Port Opening Element).  The RPOEs performed US Transportation Command's (TRANSCOM) mission to deploy quickly in a crisis or contingency operation to ready the Air Port of Debarkation or Sea Port of Debarkation for follow-on personnel and equipment as part of TRANSCOM's Joint Task Force - Port Opening.  The Brigade's RPOE personnel were trained and ready to deploy within 12 hours of notification from TRANSCOM, and participated in joint training exercises with Air Force contingency response groups and Navy expeditionary port units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 2011, the Brigade's DDSTs provided support for 14 brigade combat team moves and the Brigade's battalions provided support to include in-transit visibility for more than 225,000 shipments and more than 105 million pieces of import and export cargo flowing through CONUS ports.  In 2011, the Brigade ensured the NORTHCOM Deployment and Distribution Operations Center J4, Mobility Division, was supported during Exercise Ardent Sentry, Exercise Vigilant Shield, NORTHCOM Forces Flow, NORTHCOM ROC Drill, and Logistics Conference.  The Brigade's subordinate 832nd Transportation Battalion also worked directly with SOUTHCOM planning, and supported numerous New Horizon, Beyond the Horizon, and Tradewinds missions throughout the Caribbean, Central America and South Americ during 2011.  In 2011, the Brigade's battalions traveled to ports in Panama, Honduras, El Salvador, Dominican Republic, Republic of Trinidad and Tobago, Guatemala and Peru, handling more than 1,400 pieces of general cargo.  In 2011, the RPOEs participated in 3 aerial port of debarkation Eagle Flag exercises at Joint Base McGuire-Dix-Lakehurst, New Jersey; one Joint Operational Access Exercise at Joint Base Bragg-Pope, North Carolina; and 4 sea port of debarkation exercises, one in Norfolk, Virginia; one in Cape Canaveral, Florida.; one in Morocco; and one in Thailand.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/841transbn.htm</Url>
+    <NameNode />
+    <FullName />
+    <Locations>
+      <LocationObject>
+        <BaseName>Charleston</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/954transco.htm</Url>
+        <FullName>954th Transportation Company</FullName>
+        <Name>954th Transportation Company</Name>
+        <Id>army/954transco.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/954transco.htm</href>
+            <text>954th Transportation Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Charleston, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>841st Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 841st Transportation Battalion conducts surface deployment and distribution operations at strategic seaports and military terminals located along the US East Coast.  The seaport areas of responsibility include, but are not limited to, Charleston, South Carolina; Savannah, Georgia; Wilmington, North Carolina; Morehead City, North Carolina; Philadelphia, Pennsylvania.; Hampton Roads, Virginia; Norfolk, Virginia; Portsmouth, Virginia; New York City, New York; Port Elizabeth, New Jersey; Port Newark, New Jersey; and Baltimore, Maryland.  The Battalion's primary customers include XVIII Corps, 82nd Airborne Division, II Marine Expeditionary Force, 3rd Infantry Division, and 10th Mountain Division.  The 841st Transportation Battalion is the Military Surface Deployment and Distribution Command's (SDDC) primary unit for the execution of Task Force Deployment Operations.  Additionally, the 841st Transportation Battalion supports the discharge of Military Sealift Command fuel tankers, which provide nearly 100 percent of all the required JP-8 aviation fuel to Charleston Air Force Base, South Carolina.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The close proximity to the warfighting customer, the vast staging areas, a secure perimeter and deep-water piers, means that Charleston, South Carolina is the preferred strategic port in completing missions.  However, the 841st Transportation Battalion is capable of deploying and conducting operations from any commercial seaport in the world.  A majority of the 841st Transportation Battalion's operations occur in the United States, primarily at the Naval Weapons Station in Charleston, the Ocean Terminal in Savannah, and the Packer Avenue Marine Terminal in Philadelphia.  The Battalion can conduct operations simultaneously at all 3 locations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, as part of the transformation of the Military Traffic Management and Terminal Service (MTMTS) to the Military Traffic Management Command (MTMC; which became the SDDC in 2004), the command's subordinate units were reflagged.  This led to the formation of the 841st Transportation Battalion, assigned to the 597th Transportation Group (Terminal).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Military Traffic Management Command's 841st Battalion joined with Army Reserve units to load 1,648 pieces of equipment onto the USNS Dahl from 31 August through 4 September 1999.  This set a record for the most pieces loaded onto one of the Military Sealift Command's roll-on-roll-off vessels.  The Dahl, one of the newest and largest roll-on-roll-off vessels, had deck space equivalent to 8 football fields.  The Dahl was one of 3 ships loaded at the Georgia Ports Authority Garden City Terminal in Savannah, Georgia, in preparation for the annual Exercise Bright Star in Egypt.  The other ships loaded were the USS Osprey and the USNS Capella, which loaded 800 and 700 items, respectively.  Reserve units participating in the exercise included the 1173rd Transportation Battalion of Brockton, Massachusetts; the 1181st Transportation Battalion of Meridian, Mississippi; the 1189th Transportation Terminal Brigade of Charleston, South Carolina; and the 6632nd Port Security Company of Irvine, California.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the early 2000s, The mission of the 841st Transportation Battalion was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  The Battalion planned, coordinated, and accomplished the expeditious and economical movement and documentation of Department of Defense sponsored cargo and prepositioning cargo through terminals and facilities within its assigned area of responsibility.  The Battalion also monitored contractor performance related to operating a vehicle processing center within its assigned area of responsibility.  The Battalion would deploy/redeploy US forces as assigned by Commander, MTMC Deployment Support Command (DSC) and advised and assisted wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  The Battalion participate in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency Essential Civilians outside of the continental United States.  The Battalion also provided command and control of the 954th Trans Company at Cape Canaveral, Florida.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it was announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  During the transformation, the 841st Transportation Battalion remained assigned to the 597th Transportation Group (which later became the 597th Transportation Brigade).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In support of the Global War on Terrorism and Overseas Contingency Operations, the 841st Transportation Battalion was responsible for nearly 50 percent of the 597th Transportation Brigade's continental US workload and transported approximately 25 percent of all military cargo into the US Central Command (CENTCOM) theatre in support of Operations New Dawn and Enduring Freedom.  The Battalion's homeport in Charleston had been the premier port for the shipment of more than 10,000 MRAPs and more than 3,000 Up-Armored HMMWVs.  It was selected and utilized as the singular surge port when requirements increased in Afghanistan and the president announced a surge of 30,000 troops in that area of operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2011, the Battalion conducted all vessel operations in support of the Army Prepositioned Stocks program, including the download of the USNS Watson in the summer months, an upload of the USNS Watkins in October 2011, and a JLOTS exercise in April 2011 at Norfolk, Virginia.  The 841st Transportation Battalion maintained a high operational tempo throughout 2011, safely and successfully handling more than 50,000 pieces of equipment on about 460 vessels, about 4,000 trucks and more than 200 rail cars.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By 2012, the 954th Transportation Company had been inactivated and its personnel converted to a detachment assigned to the 832nd Transportation Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/954transco.htm</Url>
+    <NameNode>954th Transportation Company</NameNode>
+    <FullName>954th Transportation Company</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cape Canaveral</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FL</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Cape Canaveral, FL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>954th Transportation Company</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>The 954th Transportation Company was converted to a detachment of the 832nd Transportation Battalion as part of continuing changes to first the Military Traffic Management Command (MTMC) and then the Military Surface Deployment and Distribution Command (SDDC) after the organization was redesignated in 2004.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the early 2000s, the 954th Transportation Company's mission was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  The Company planned, coordinated, and accomplished the expeditious and economical movement and documentation of Department of Defense sponsored cargo and prepositioning cargo through terminals and facilities within assigned area of responsibility.  The Company also supported the NASA Space Shuttle Contingency Plan.  The Company would deploy/redeploy US forces as assigned by Commander, MTMC Deployment Support Command (DSC) and advise and assist wartraced US Army Reserve Units as assigned by Commander, MTMC DSC.  The Company participated in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside of the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/842transbn.htm</Url>
+    <NameNode>842nd Transportation Battalion</NameNode>
+    <FullName>842nd Transportation Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Beaumont</BaseName>
+        <Deployment>false</Deployment>
+        <Location>TX</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Howland Hook</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Fort Monmouth, NJ</Location>
+        <IsCurrent>false</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/howland-hook.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Beaumont, TX</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/howland-hook.htm</href>
+            <text>Howland Hook, Fort Monmouth, NJ</text>
+            <Former>true</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>842nd Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 842nd Transportation Battalion's primary mission is to conduct expeditionary port opening globally and surface deployment and distribution through terminals and facilities on the western Gulf Coast to meet the combatant commanders' objectives.  To this end, the Battalion leads Military Surface Deployment and Distribution Command's (SDDC) effort to provide the Warfighter with customer-focused deployment support around the world through its 3 strategic seaports in Texas (Beaumont, Port Arthur, and Corpus Christi) and 7 alternate seaports throughout the Gulf Region (Houston, Galveston, Lake Charles, Gulfport, Pascagoula, Mobile, and New Orleans).  The majority of this effort takes place at the Port of Beaumont, one of the nation's busiest and premier seaports.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the early 2000s, the 842nd Transportation Battalion oversaw military transportation operations in the port of New York and New Jersey, and throughout the greater Northeast United States.  In addition, it was responsible for the command and control of the Sea Port of Embarkation at Howland Hook Container Terminal, Staten Island, New York, where it supported the strategic deployment/redeployment of US forces in contingency and operations other than war.   The mission of the 842nd Transportation Battalion was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management  and Single Port management for the Department of Defense in peace and crisis.  The Battalion planned, coordinated, and accomplished the expeditious and economical movement and documentation of Department of Defense-sponsored cargo through terminals and facilities within its assigned area of responsibility.  It also accomplished the expeditious movement of household goods to contractors' facilities within its assigned area of responsibility.  The Battalion would deploy/redeploy US forces as assigned by Commander, MTMC Deployment Support Command (DSC) and advise and assist wartraced US Army Reserve units as assigned by Commander, MTMC DSC.  The Battalion participated in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside of the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 842nd Transportation Battalion had strong ties to the state of New Jersey, dating back to September 1965, when the Military Ocean Terminal, Bayonne (MOTBY) was established.  There deploying units, equipment, and supplies headed to and returning from destinations worldwide.  During Operations Desert Shield, Desert Storm, and Desert Farewell, MOTBY handled over one million measurement tons of cargo, making it the third most utilized port during the entire Gulf War.  Forty vessels were loaded in support of Desert Shield, and 28 vessels were unloaded in support of Desert Farewell.  More than 25,000 pieces of cargo were deployed in support of Desert Shield and Desert Farewell.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In January 1993, the 1301st Major Port Command was activated.  The unit deployed the 10th Mountain Division during Operation Restore Hope in 1992, and Operation Uphold Democracy in 1994.  The unit handled over 219,000 measurement tons of cargo combined for the two operations and loaded 17 vessels destined for Somalia and Port Au Prince, Haiti.  In October 1997, that unit was reflagged as the 600th Transportation Group (Terminal).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, MOTBY handled the deployment of 2 engineer joint task forces to Guatemala in support of Hurricane Mitch Relief Operations, and a 2-part deployment of the 10th Mountain Division to Bosnia.  During 1999, the 600th Transportation Group (Terminal) was also reflagged as the 842nd Transportation Battalion, to reflect its deminished role.  The new Battalion was assigned to the 597th Transportation Group (Terminal).  In 2000, the 842nd Transportation Battalion opened the port again for 10th Mountain Division's redeployment in 3 separate phases.  In August 2001 the unit deployed the 29th Infantry Division in support of Operation Joint Forge.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 23 July 2001 it had been announced that the Army had approved a sweeping reorganization of the Military Traffic Management Command that would make fundamental changes in the organization's structure, staffing and operations.  All the changes were to be in effect by 30 June 2003.  Implementation of the proposal was complete by 30 September 2001.  During the transformation, the 842nd Transportation Battalion remained assigned to the 597th Transportation Group (which later became the 597th Transportation Brigade).  However, the Battalion was reassigned to Beaumont, Texas to take over the mission previously performed by the 596th Transportation Group (Terminal), which had been inactivated.  The 956th Transportation Company, previously stationed in Alaska assigned to the 596th Transportation Group, was relocated to New Jersey to take over for the 834th Transportation Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After the beginning of the Global War on Terrorism (later known as Overseas Contingency Operations) in 2001, the Port of Beaumont moved more military cargo in support of Operations Enduring Freedom, Iraqi Freedom, and New Dawn than any other continental US seaport.  The 842nd Transportation Battalion was the gateway for the movement of military cargo through the Gulf Coast and represented the military's lifeline in supporting the Warfighter at home and abroad.  During 2011, the Battalion supported the deployment and redeployment of more than 70 military vessels and 15,536 pieces of military cargo, to include the monitoring of more than 2,000 pieces of Door-to-Door cargo through the Battalion's area of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Other 2011 highlights included, but are not limited to, the deployment and redeployment of more than 40 brigade combat teams and other battalion-size elements, and a host of other major units.  In addition, Team Beaumont onward moved more than 5,000 pieces of Army Materiel Command (AMC) retrograde cargo to 8 AMC depots (Red River Army Depot, Sierra Army Depot, Rock Island Arsenal, Corpus Christi Army Depot, Anniston Army Depot, Camp Atterbury, Tobyhanna Army Depot, and Letterkenny Army Depot) using 1,819 commercial trucks and 1,495 railcars in support of the Army Force Generation reset phase.  Team Beaumont's ability to onward move AMC retrograde cargo quickly to AMC depots paid great dividends because it shortened the timeline to resupply units with equipment needed to accomplish their wartime mission.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By 2012, the Battalion remained headquartered in Beaumont, Texas, consisting of about 30 professionals, including fewer than 10 military personnel, more than 20 civilian employees, and a few contract employees.  In addition, the Battalion was supported by one contingency operation for active duty operational support officer, 2 interns, the US Coast Guard from the Marine Safety Unit at Port Arthur, and port labor from Ports America.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/954transco.htm</Url>
+    <NameNode />
+    <FullName />
+    <Locations>
+      <LocationObject>
+        <BaseName>Cape Canaveral</BaseName>
+        <Deployment>false</Deployment>
+        <Location>FL</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Cape Canaveral, FL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>954th Transportation Company</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>The 954th Transportation Company was converted to a detachment of the 832nd Transportation Battalion as part of continuing changes to first the Military Traffic Management Command (MTMC) and then the Military Surface Deployment and Distribution Command (SDDC) after the organization was redesignated in 2004.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By the early 2000s, the 954th Transportation Company's mission was to synchronize Defense Transportation System surface cargo movements and provide Traffic Management and Single Port management for the Department of Defense in peace and crisis.  The Company planned, coordinated, and accomplished the expeditious and economical movement and documentation of Department of Defense sponsored cargo and prepositioning cargo through terminals and facilities within assigned area of responsibility.  The Company also supported the NASA Space Shuttle Contingency Plan.  The Company would deploy/redeploy US forces as assigned by Commander, MTMC Deployment Support Command (DSC) and advise and assist wartraced US Army Reserve Units as assigned by Commander, MTMC DSC.  The Company participated in Joint Chiefs of Staff exercises and was prepared to deploy military personnel and Emergency-Essential Civilians outside of the continental United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/598tg.htm</Url>
+    <NameNode>598th Transportation Terminal Group</NameNode>
+    <FullName>598th Transportation Terminal Group</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/598tg-map1.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Rotterdam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NL</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/831transbn.htm</Url>
+        <FullName>831st Trans Bn, Bahrain</FullName>
+        <Name>831st Trans Bn, Bahrain</Name>
+        <Id>army/831transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/838transbn.htm</Url>
+        <FullName>838th Trans Bn, Rotterdam</FullName>
+        <Name>838th Trans Bn, Rotterdam</Name>
+        <Id>army/838transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/839transbn.htm</Url>
+        <FullName>839th Trans Bn, Italy</FullName>
+        <Name>839th Trans Bn, Italy</Name>
+        <Id>army/839transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/840transbn.htm</Url>
+        <FullName>840th Trans Bn, Turkey</FullName>
+        <Name>840th Trans Bn, Turkey</Name>
+        <Id>army/840transbn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/831transbn.htm</href>
+            <text>831st Trans Bn, Bahrain</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/838transbn.htm</href>
+            <text>838th Trans Bn, Rotterdam</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/839transbn.htm</href>
+            <text>839th Trans Bn, Italy</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/840transbn.htm</href>
+            <text>840th Trans Bn, Turkey</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Rotterdam, NL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>598th Transportation Terminal Group </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 598th Transportation Terminal Group is responsible for port operations and the onward movement of cargo in Europe, Africa, and southwest Asia. The 598th Transportation Group is headquartered at Rotterdam. The 598th Transportation Terminal Group (TTG) mission includes the receipt, handling, documentation and port clearance of all Department of Defense (DoD) sponsored cargo transiting Benelux ports. During the past few years, the workload has exceeded 4 million measured tons per year. The 838th Transportation Batallion (TB) is a subordinate element of 598th. The 838 TB is responsible for managing DoD sponsored cargo transiting all ports within the Benelux countries. The Rotterdam Movement Control Team (MCT-Rotterdam) is an element of the 27th Transportation Battalion, which is subordinate to the 21st Theater Army Area Command (TAACOM). The MCT determines the mode of onward movement for all DoD sponsored cargo entering the ports within the Benelux.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 598th is headquarters for the battalions that conduct port operations throughout Europe, Africa and Southwest Asia - among them the 838th Trans. Bn. in Rotterdam and the 839th Trans. Bn. in Livorno.  Colocated with the headquarters are the 838th Trans. Bn. and the 39th Trans. Bn. Movement Control Team,
+an element of the 1st Trans. Movement Control Agency, which is responsible for inland movements to and from ports by military or commercial means; and Military Sealift Command Office, Northern Europe, which
+coordinates ship movements for deploying and redeploying units. The latter ensures that ships meet
+requirements for holding capacity, distance and speed. Representatives from the Coast
+Guard, who travel throughout Europe, Africa and Southwest Asia to inspect the ships, have an office at the Rotterdam site, too, as does the Air Force, whose Water Port Liaison Office looks out for Air Force interests.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Some 300 people are part of the 598th and its subordinate Army units. Among them are 85 soldiers, sailors and airmen, and more than 50 Department of the Army civilians. The rest are local nationals.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>US Army Military Traffic Management Command soldiers have been stationed in the Dutch port city
+of Rotterdam for more than 30 years. Veteran soldiers and longtime civilian employees of the current
+598th Transportation Group's predecessor, the BENELUX Terminal, remember the frantic days of REFORGERs [Return of Forces to Germany], when ships delivered tons of supplies and thousands of tanks, helicopters
+and other vehicles destined for hordes of troops arriving in Europe from the United States.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Today, demands on the Rotterdam-based unit may be less frantic. There are no such major exercises that call for massive movement of materiel at once. But today, numerous contingencies throughout Europe keep the unit on its toes. There are many unit movements - deployments and redeployments -
+outsiders don't readily see. Additionally, the group moves supplies to the 100,000 troops assigned
+throughout Europe, keeping troop dining facilities, commissaries and post exchanges stocked.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After some 90 days of sustained aerial bombing, the Serbs agreed to evacuate Kosovo and the air war came to an end. The need to move a peacekeeping force into Kosovo propelled MTMC and its maritime partner, the Navy's Military Sealift Command, into action. Responsibility for executing the movement rested with the 598th Transportation Group. It was decided that the 1st Infantry Division and other task force elements would move by rail and road to Bremerhaven, Germany. Once at that port, the heavy equipment would be loaded by the 838th Transportation Battalion, headquartered in Rotterdam. Two ships would be needed for the move from Bremerhaven to Thessaloniki.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Operating components of the Military Traffic Management Command's 598th Transportation Terminal Group, and the Military Sealift Command, Europe, were on-site at Bremerhaven, overseeing the onload of equipment aboard two large Navy cargo ships. MTMC's 838th Transportation Terminal Battalion and the 950th Transportation Terminal Company loaded the U.S. Naval ships Bob Hope and Soderman. The ships  transported thousands of wheeled and tracked vehicles, including M1A1 Abrams tanks, Bradley fighting vehicles, howitzers, armored combat engineer vehicles, heavy moving equipment, and various supplies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/831transbn.htm</Url>
+    <NameNode>831st Transportation  Battalion</NameNode>
+    <FullName>831st Transportation  Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/831transbn-map1.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Arifjan</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-arifjan.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Camp Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kuwait</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-doha.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Dammam</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/dammam.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Dhahran AB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/dhahran.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Doha</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/umm-said.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Jeddah</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/jeddah.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Jubail</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/jubail.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Mina Qabus</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oman</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/mina-qabus.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Mina Salman</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Bahrain</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/mina-salman.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Mombassa</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Kenya</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/mombassa.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Salalah</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Oman</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/salalah.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Umm Said</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Qatar</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/umm-said.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Yanbu</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Saudi Arabia</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/yanbu.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-arifjan.htm</href>
+            <text>Camp Arifjan, Kuwait</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-doha.htm</href>
+            <text>Camp Doha, Kuwait</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/dammam.htm</href>
+            <text>Dammam, Saudi Arabia</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/dhahran.htm</href>
+            <text>Dhahran AB, Saudi Arabia</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/umm-said.htm</href>
+            <text>Doha, Qatar</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/jeddah.htm</href>
+            <text>Jeddah, Saudi Arabia</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/jubail.htm</href>
+            <text>Jubail, Saudi Arabia</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/mina-qabus.htm</href>
+            <text>Mina Qabus, Oman</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/mina-salman.htm</href>
+            <text>Mina Salman, Bahrain</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/mombassa.htm</href>
+            <text>Mombassa, Kenya</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/salalah.htm</href>
+            <text>Salalah, Oman</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/umm-said.htm</href>
+            <text>Umm Said, Qatar</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/yanbu.htm</href>
+            <text>Yanbu, Saudi Arabia</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://sites.netscape.net/transbn831st</href>
+            <text>831st Transportation  Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>831st Transportation  Battalion
+ </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 831st Transportation Battalion's Area of Operations [AO] includes all of CENTCOM - less Egypt and Jordan - and EUCOM's eastern half of Africa. The 831st consists of a battalion headquarters in Bahrain and three subordinate detachments at Camp Doha, Kuwait; Dhahran Airbase, Saudi Arabia; and, at the FY90 Site at Doha in Qatar.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion has standing stevedoring contracts for Mina Salman, Bahrain; for Umm Said and Doha, Qatar, for Muscat and Raysut, Oman, for Mombassa, Kenya; and, for Dammam, Jubail, Jiddah and Yanbu, Saudi Arabia.  There isn't a contract for Kuwait because stevedoring is provided as assistance-in-kind by the Kuwaiti government.  Other contracts for other ports can be awarded through NRCC as needed. The Battalion has linehaul provisions in the Saudi contract only because the contract was let before CENTCOM J4/7 assigned common-user land transport responsibilities for the theater.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The battalion operates common-user ports using host nation stevedores in support of force projection and force deployment.  It has contracts in place in a number of ports throughout the AOR.  It also provides forward deployed, immediate capability until the 598th Group deploys. The Battalion routinely deploy within the AOR in support of exercises and operations.  These deployments are executed with and without augmentees from other 598th terminals and reservists, depending on the need and situation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Although CENTAF is the largest customer, ARCENT is the Battalion's landlord in Kuwait and Qatar, and provides force protection and other support there. The Battalion supports CENTAF prepo sites in Oman, Bahrain, Qatar and Kuwait; FY90 Site and ARCENT in Qatar; 4404th and ARCENT in KSA; and ARCENT in Kuwait, along with AAFES  in Bahrain, KSA and Kuwait.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion is OPCON for force protection to local CENTCOM components in Qatar, Bahrain and Kuwait, and to USMTM in KSA. It gets contracting support through NRCC-Bahrain.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The MTMC activity (currently the 831st Transportation Battalion) in Bahrain or its agent  is responsible for preparing all documentation required for obtaining  custom clearance of shipments into Saudi Arabia, and presenting the   documents to the appropriate host nation officials.  Upon debarkation  containers remain at ocean carrier's  terminal until the necessary  clearances have been obtained and complete documentation has been provided the carrier to permit on-carriage of containers to final destination.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The military transportation units of the Military Traffic Management Command have become more uniform in size and composition.    The changes in existing MTMC units are sweeping in scope.  The ideas for the changes came from MTMC's commanders themselves. At the same time, the changes reflect reduction in layering and the great use of computer automation. The proposal called for changes in the size and structure of most of the Military Traffic Management Command's 25 transportation unit locations in the United States and around the world. Implementation of the proposal  was  complete by 30 September 2001. MTMC battalions were reorganized into standard 26-member organizations. The battalion's subordinate company and detachment units were also affected.  The MTMC Battalion Evaluation Group selected 26 as an optimum number for a water port concentrating on the core missions of terminal operations and traffic management. The 831st Transportation Battalion, Bahrain, Southwest Asia, gained 12 positions -- two soldiers and 10 nine civilians.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Air Force packaging Technology and Engineering Facility (AFPTEF) is involved in resolving a logistics mission support problem in the Middle East. Military Traffic Management Command (MTMC) identified a problem with Military Shipment Labels (MSLs), DD Forms 1387, from Prince Sultan Air Base (PSAB), Saudi Arabia, for movement through 831st Transportation Battalion in Bahrain. The problem PSAB is having is with the adhesive labels during the summer months. The temperature is between 100-140 degrees F, coupled with 100% humidity at the seaport in Bahrain, causes the label adhesive to liquefy and separate from the containers, crates, and boxes. During the winter, the problem is non-existent.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/838transbn.htm</Url>
+    <NameNode>838th Transportation  Battalion</NameNode>
+    <FullName>838th Transportation  Battalion</FullName>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>838th Transportation  Battalion
+ </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June 1999 heavy combat equipment from the 1st Infantry Division deployed from Germany to support peacekeeping forces in Kosovo.  The equipment and supplies were shipped from the port of Bremerhaven, Germany to Thessoliniki, Greece, where they were moved forward to support Task Force Falcon and the U.S. Army's 1st Infantry Division in Kosovo. A total of about 7,000 U.S. Army personnel based in Europe and the United States deployed to participate in Operation Joint Guardian. The soldiers were part of the Kosovo peace implementation force, known as KFOR. Most of the U.S. contingent, designated Task Force Falcon, occupied the "multi-national brigade sector, southeast" in Kosovo. Operating components of the Military Traffic Management Command's 598th Transportation Terminal Group, and the Military Sealift Command, Europe, were on-site at Bremerhaven, to oversee the onload of equipment aboard two large Navy cargo ships. MTMC's 838th Transportation Terminal Battalion and the 950th Transportation Terminal Company loaded the U.S. Naval ships Bob Hope and Soderman.  The ships  transported thousands of wheeled and tracked vehicles, including M1A1 Abrams tanks, Bradley fighting vehicles, howitzers, armored combat engineer vehicles, heavy moving equipment, and various supplies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Abrams Integrated Management (AIM) program will completely rebuild every M1A1 Abrams tank in U.S. Army Europe over three years. The AIM program is a part of the Recapitalization Program that was established to extend the life of the Army's aging legacy equipment. AIM will provide long-term sustainment of M1A1 Abrams tanks through fiscal year 2025. Higher-than- normal mileage for the tanks during operations in the Balkans and training in Germany made the overhaul necessary. The Military Traffic Management Command's (MTMC's) 838th Transportation Battalion at Rotterdam, The
+Netherlands, received the first tanks for shipment to the United States in September 2000. Up to 75 percent of the tanks were not operational. MTMC transported the tanks to Anniston Army Depot, Alabama, where they are disassembled. The hull, turret, engine, and other parts will be sent to the tank production plant in Lima, Ohio, to be reworked. MTMC will return the rebuilt tanks to Europe, where they will be swapped one-for-one with tanks that still need repair. The first shipment of rebuilt tanks  arrived in Europe in fall 2001.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/839transbn.htm</Url>
+    <NameNode>839th Transportation  Battalion</NameNode>
+    <FullName>839th Transportation  Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Darby</BaseName>
+        <Deployment>false</Deployment>
+        <Location>IT</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/camp-darby.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>952nd Transportation CO, Lajes Field, Azores</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>953rd Transportation CO, Piraeus, Greece</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/camp-darby.htm</href>
+            <text>Camp Darby, IT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>839th Transportation  Battalion
+ </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 839th Transportation Bn.is assigned to the Military Traffic Management Command and runs all the seaports supporting U.S. military operations throughout the Mediterranean. The 839th Transportation Bn. is stationed in Stagno, Italy, three miles from the main post at Livorno.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The military transportation units of the Military Traffic Management Command have become more uniform in size and composition.    The changes in existing MTMC units are sweeping in scope.  The ideas for the changes came from MTMC's commanders themselves. At the same time, the changes reflect reduction in layering and the great use of computer automation. The proposal called for changes in the size and structure of most of the Military Traffic Management Command's 25 transportation unit locations in the United States and around the world. Implementation of the proposal  was  complete by 30 September 2001. MTMC battalions were reorganized into standard 26-member organizations. The battalion's subordinate company and detachment units were also affected.  The MTMC Battalion Evaluation Group selected 26 as an optimum number for a water port concentrating on the core missions of terminal operations and traffic management. The 839th Transportation Battalion, Livorno, Italy, gained nine positions. The unit   gained one civilian and 11 foreign national workers -- it  lost one officer and two soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 839th Transportation Battalion is in direct support of Task Force Rijeka, which has overall responsibility for the reception, staging, and onward movement of forces deploying through Rijeka. Task Force Rijeka is an element of the 21st Theater Support Command (Provisional). The Task Force provides for all life support and port support activities at Rijeka, in addition to normal command and control.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>US military and Italian civilian  transportation and documentation experts from MTMC's 839th Transportation Battalion, based out of Livorno, Italy supported Operation Joint Forge, SFOR6 in Rijeka Croatia. They were responsible for the simultaneous unloading of the MV Saudi Taif, a Saudi Arabian roll-on/roll-off vessel contracted by the Military Sealift Command, and the initial staging of the 10th Mountain Division equipment in the port of Rijeka. The ship arrived on 20 August 1999 and departed on  August 22, 1999. The equipment left Rijeka by rail.   The rail upload, coordination with the port customs, and the preparation of all necessary cargo documentation were also vital parts of their mission. To accomplish this mission, the 839th Transportation Battalion employed members from all elements of the command, to include each of its subordinate Companies, the 953rd Tranportation Company based in Greece and the 952nd Transportation Company based in the Azores.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The cargo aboard the MV Saudi Taif consisted of the main body of the U.S. Army's 10th Mountain Division Combat Team which relieved the 1st Cavalry Division Brigade Combat Team which had been in Bosnia since March 1999. The MV Saudi Taif was loaded by the 600th Trans Group in Howland Hook, New Jersey. The cargo consisted of 453 pieces. This total included 106 wheeled vehicles such as track vehicles, cargo trucks and trailers, engineer equipment, 185 shipping containers, and 56 Apache, Black Hawk and Kiowa Warrior helicopters.  The cargo was discharged in two ways. Vehicles, helicopters and break bulk cargo loaded below the ship's "weather deck" moved off the ship via the stern ramp. This is what is known as 'RORO' way (roll-on/roll-off) operations. Simultaneously, containers and other selected equipment loaded on the vessel's top or "weather deck", are lifted off in what are termed 'LOLO' (lift-on/lift-off) operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The transporters with the 839th Transportation Battalion, Livorno, Italy, made Army history 22 February  2000 and slightly over three weeks earlier when they unloaded the Saudi Abha and the Lara Bay, respectively. That's because for the first time since the Army began the mission in late 1995, a National Guard unit  made up a sizeable portion of the peacekeeping force. It is also the first time a National Guard headquarters organization will command Multinational Division (North) and Task Force Eagle. The Military Traffic Management Command has loaded and discharged many ships at Rijeka, Croatia, since the summer of 1998. That was when the movement of peacekeeping troops was shifted from a northern European land route to a more efficient, Adriatic Sea entry point.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/840transbn.htm</Url>
+    <NameNode>840th Transportation  Battalion</NameNode>
+    <FullName>840th Transportation  Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/840transbn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Izmir</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/izmir.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/izmir.htm</href>
+            <text>Izmir</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.izmirfsc.org/welcome/militaryunits/trans_bat.htm</href>
+            <text>840th Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>840th Transportation  Battalion
+ </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/840transbn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Izmir-based   840th Transportation Battalion manages DoD freight  operations in Turkey. There are currently two major and two minor American military units assigned to Izmir.  The 425th Air Base Squadron, The United States Army Element and the 840th US Army Transportation Battalion. the United States Army Element.  This unit is responsible for the growing number of US Army Personnel in the Izmir Area.  The 840th Trans is responsible for all POVs coming in and going out of Turkey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 840th U.S. Army Transportation Battalion is a separate unit located in Izmir.  They are part of the Military Traffic Management Command (MTMC).  It is a small unit, with fewer than twenty personnel, but a busy one, responsible for traffic management in over a dozen countries in the region.  Their mission is to provide quality, responsive, common-user ocean terminal service support and traffic management for all Department of Defense cargo transiting the ports of Turkey, the eastern Mediterranean Sea and the Black Sea.   This area stretches from Libya to Jordan, and north to the countries that border the Black Sea.  In recent months, unit personnel have deployed frequently throughout their Area of Operations in support of Joint and Allied missions and exercises.
+Support to ALLIED FORCE was a total force effort by USTRANSCOM. MTMC operated at two U.S. seaports and eight European seaports in support of the deployment and onward movement of unit equipment, supplies, and ammunition. As NATO air strikes began against Serbia, MTMC began transshipment operations at seaports closest to the strike area.  The cargo was transported in vessels managed and directed by MTMC in support of Task Force Eagle and Task Force Shining Hope, the military and humanitarian programs (respectively) to aid Kosovar refugees. The first major evidence of this support came in the form of 
+ the SS Osprey, which arrived 02 May 1999 in Durres, Albania. The Osprey's arrival signaled a critical surface transportation benchmark in the fielding and supply of American forces in Albania. The Osprey, a MSC charter, carried 60 vehicles, or 11,000-square feet of Air Force cargo. It was loaded by MTMC's 839th Transportation Battalion, Livorno, Italy and unloaded in Durres by MTMC's 840th Transportation Battalion, Izmir, Turkey.  Unloading of the Osprey took place without incident.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>One of the missions of the 840th Trans Bn within the Izmir community is the management of the global contract for shipping Privately Owned Vehicles (POVs) into and out of Turkey.  The Military Traffic Management Command on 01 March 2000 added  Turkey to its Global Privately Owned Vehicle Contract.  American Auto Logistics Inc. of Woodcliff Lake, N.J., the  single contractor, now handles all aspects of vehicle  movements from vehicle processing centers in Incirlik and  Izmir and a quality-of-life center in Ankara. The contract means service members  saw  immediate improvements in vehicle shipping. For example,  the contractor's Izmir facility is new and has state-of-the-art equipment. Members previously used a 50-year-old facility 15 miles away down bad road. At Incirlik, the changeover was almost transparent because a  temporary contract there called for the mover to do  everything except agriculture inspections. On March 1, 840th  Battalion inspectors turned over that last duty to American  Auto Logistics. Personnel assigned to the Office of Defense  Cooperation/American Embassy in Ankara and the U.S.  Consulate in Istanbul saw the biggest changes. The new  quality-of-life center in Ankara performs the pickups and  deliveries by appointment. Prior to the contract, vehicle 
+ owners had to fly or drive to Izmir for processing.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/599tg.htm</Url>
+    <NameNode />
+    <FullName />
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/599transgrp.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Wheeler Army Airfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>HI</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq />
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>835th Trans Bn, Okinawa</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>836th Trans Bn, Japan</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>837th Trans Bn, Korea</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Wheeler Army Airfield, HI</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>599th Transportation Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description />
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

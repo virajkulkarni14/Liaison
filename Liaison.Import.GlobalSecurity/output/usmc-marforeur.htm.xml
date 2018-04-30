@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/marforeur.htm</Url>
+    <NameNode>US Marine Corps Forces, Europe (MARFOREUR)</NameNode>
+    <FullName>US Marine Corps Forces, Europe (MARFOREUR)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/marforeur.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/index.html</Url>
+        <Id>usmc/index.html</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Marines</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/../dod/eucom.htm</Url>
+        <Id>/usmc/../dod/eucom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>European Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/spmagtf-bsrf.htm</Url>
+        <FullName>SPMAGTF - Black Sea Rotational Force</FullName>
+        <Name>SPMAGTF - Black Sea Rotational Force</Name>
+        <Id>usmc/spmagtf-bsrf.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/usmc/../dod/eucom.htm</href>
+        <h3>European Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/usmc/spmagtf-bsrf.htm</href>
+            <text>SPMAGTF - Black Sea Rotational Force</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Station</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/panzer-kaserne-b.htm</href>
+            <text>Panzer Kaserne, Germany</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.marines.mil/unit/marforeur/Pages/main.aspx</href>
+            <text>US Marine Corps Forces, Europe</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.eucom.mil/organization/our-forces/us-marines-europe</href>
+            <text>US Marine Corps Forces, Europe @ EUCOM</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Marine Corps Forces, Europe (MARFOREUR)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/marforeur.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>US Marine Corps Forces, Europe (MARFOREUR) and Commander, MARFOREUR (COMMARFOREUR), as the US Marine Corps Service component commander for the US European Command (EUCOM) has the mission to command all USMC forces assigned to it; advise the Commander, EUCOM on the proper use of USMC forces; conducts employment/redeployment planning and execution of assigned/attached forces; and accomplish assigned operational missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In February 1980, the Commandant of the Marine Corps and the Chief of Naval Operations signed a Memorandum of Agreement to establish a Marine Corps presence in Europe.  On 1 July 1980, the Marine Corps stood up Headquarters, Fleet Marine Force, Europe.  The command was initially established as a "designate" command meaning that during peacetime operations the staff would be the nucleus of a larger staff.  In the event of an international crises or war, the staff would be manned as a full component headquarters.  Commander, US Marine Forces, Atlantic (MARFORLANT) assumed additional responsibility as Commander, Fleet Marine Forces, Europe.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After its creation, the command promptly began to improve the Marine Corps ability to plan and operate in the European Theater, relieving stateside staffs of this demanding duty.  The initial staff consisted of 40 Marines and was located in London, England.  The command continued to grow and a snapshot in 1989 depicted more than 180 Marines in 45 separate locations in 19 countries throughout the European Theater.  These Marines supported US, NATO, or European Commands on Joint, national or unified staffs.  They served in billets such as Defense Attaches, Liaison Officers, and United Nations Military Observers.  Marines also participated in the Foreign Exchange Program and were students in Foreign Service schools throughout Europe.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the first decade of its existence, Headquarters, Fleet Marine Force, Europe, supported Marine Corps involvement in Operations Provide Comfort, Just Cause, Provide Promise, and Deny Flight.  The command also assisted in transitioning Marines to and from Operations Desert Storm and Restore Hope.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>To better fulfill the planning and support requirements to Marine forces operating in the European Theater, it was necessary to move the command from London to Stuttgart, Germany during the summer of 1993.  Headquarters, Fleet Marine Force, Europe officially opened in Boeblingen, Germany on 8 November 1993.  In February 1994, the command was renamed Headquarters, United States Marine Corps Forces, Europe (MARFOREUR).  The Commander, MARFORLANT initially remained in a similar position as before with the additional title of Commander, MARFOREUR.  The command had the mission, as the US Marine Corps Service component commander for United States Commander in Chief, European Command (CINCEUCOM), of commanding all USMC forces assigned to CINCEUCOM, advising CINCEUCOM on the proper use of US Marine Corps forces, conducting employment/redeployment planning, and executing of assigned/attached forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters, MARFOREUR was established in the European Command (EUCOM) and a planning liaison element was established with both Central Command (CENTCOM) and Southern Command (SOUTHCOM) to support their respective designated Marine Corps component commanders.  Commander, MARFORLANT was additionally titled as Commander, MARFORSOUTH at that time.  During peacetime, the designated Marine Corps component commander provided operation and contingency planning support and advice to his respective combatant commanders on Marine Corps-specific matters.  When directed, the Marine Corps component commander exercised operational control of forces assigned or attached to the combatant commander.  As combatant commands, they were part of the operating forces of the Marine Corps.  These security forces included Marine barracks and Marine security force companies in the continental United States and abroad, as well as Marine detachments afloat.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The command subsequently provided support to a multitude of exercises and real-world contingencies.  The command supported operations in the Balkan Region including combat operations in Kosovo, as well as during Operation Northern Watch.  During the support of the Kosovo campaign, beginning in 1999, the command reached its full manning level and lost its designate title.  The command remained fully staffed even as the mission in Kosovo evolved.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Instability in the African region required repeated executions of non-combatant evacuation operations, in which the command had a planning role.  The command also supported many Partnership for Peace exercises involving nations of the former Soviet Union.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In response to the events of 11 September 2001, the command fully supported the United States' efforts in the war against terrorism.  The command supported Operations Enduring Freedom and Iraqi Freedom.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 1 October 2008, stood up the Marine Corps Forces, Africa (MARFORAF) as a service component command to the newly established United States Africa Command (AFRICOM). Prior to the establishment, MARFORAF Marines, whose headquarters was then based in Panzer Kaserne, had been in the process of integrating responsibilities and missions previously carried out by three separate commands: Marine Corps Forces, Europe (MARFOREUR); Marine Corps Forces, Central Command (MARCENT); and Marine Corps Forces, Pacific (MARFORPAC). At the time of its activation, the commander of MARFOREUR additionally became the commander of MARFORAF.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/usmc/spmagtf-bsrf.htm</Url>
+    <NameNode>Special Purpose Marine Air Ground Task Force (SPMAGTF) - Black Sea Rotational Force (BSRF)
+Security Cooperation Marine Air Ground Task Force - Black Sea Rotational Force (BSRF)</NameNode>
+    <FullName>Special Purpose Marine Air Ground Task Force (SPMAGTF) - Black Sea Rotational Force (BSRF)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/usmc/images/spmagtf-bsrf.gif</LogoUrl>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/usmc/marforeur.html</Url>
+        <Id>usmc/marforeur.html</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>MARFOREUR</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Marines</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>Security Cooperation Marine Air Ground Task Force - Black Sea Rotational Force (BSRF)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Station</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/mihail-kogalniceanu.htm</href>
+            <text>Mihail Kogalniceanu AB, Romania</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/bulgaria.htm</href>
+            <text>US Facilities in Bulgaria</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/romania.htm</href>
+            <text>US Facilities in Romania</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Special Purpose Marine Air Ground Task Force (SPMAGTF) - Black Sea Rotational Force (BSRF)&lt;br&gt;
+&lt;strike&gt;Security Cooperation Marine Air Ground Task Force - Black Sea Rotational Force (BSRF)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/usmc/images/spmagtf-bsrf.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Special Purpose Marine Air-Ground Task Force (SPMAGTF) - Black Sea Rotational Force (BSRF) is a rotational Security Cooperation Marine Air-Ground Task Force (MAGTF).  The BSRF, which made its first deployment in 2010, was part of a multi-year commitment by Marine Corps Forces Europe (MARFOREUR) to deploy United States-based marines and sailors on a rotating basis to installations in Europe.  The BSRF was intended to be tailorable and scalable, focused on the performance of security cooperation and civil-military operations.  The BSRF was a follow-on to a previous rotational force, Joint Task Force - East, which had been led by US Army Europe.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>About 100 US marines and sailors departed their home bases for the Black Sea region in the first weeks of May 2010 to join the first deployment of the BSRF.  The BSRF's mission for its inaugural 3-month deployment was to conduct multilateral security cooperation activities with partner nations in the Black Sea, Balkan, and Caucasus regions in order to enhance our collective professional military capacity, promote regional stability, and build enduring relationships with our partner nations.  Additionally, through peacekeeping operations training, military to military familiarization events, and community relations projects, the US marines and sailors deployed to the Black Sea were charged with building enduring partnerships with partner nations in the region.  The deployment of the BSRF to Romania was scheduled to complete 40 percent of MARFOREUR's theater security cooperation requirements over the 3-month period.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>For the initial deployment, the BSRF included the 1st Tank Battalion, a detachment of 2 KC-130T aircraft from Marine Aerial Refueler Transport Squadron 452 (VMGR-452), personnel from VMGR-234, and the 4th Civil Affairs Group.  The BSRF began operations in Romania in May 2010, subsequently departing there in June 2010.  While in Romania the BSFR had conducted peacekeeping operations training with Macedonian, Ukrainian and Romanian Marines and soldiers. The Air Element's KC-130T Hercules aircraft supported the force, providing cargo and personnel aerial lift capabilities and training support for Romanian airborne forces.  After the conclusion of operations in Romania, most BSRF members were scheduled to move south to Bulgaria's Novo Selo Training Area to begin peacekeeping operations training with Bulgarian soldiers.  However, a number of Marines would stay at Mihail Kogalniceanu Airfield in Romania throughout the BSRF's deployment to Eastern Europe to support an additional logistics symposium.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2011 deployment of marines and sailors with the BSRF, also referred to as the Black Sea Rotational Force 11, to the Black Sea, Balkan and Caucasus regions was to work with foreign nations and help build their military training capacity, promote stability throughout the region, and build enduring partnerships with 13 nations throughout Eastern Europe.  The BSRF's second rotation included marines and sailors from the Anti-Terrorism Battalion and 4th Light Armored Reconnaissance Battalion.  Beginning in May 2011, the second rotation of the BSRF redeployed in September 2011.  During the deployment the BSRF participated in Exercise Agile Spirit in Georgia.  Agile Spirit played an important role in Overseas Contingency Operations and was scheduled to become an annual exercise to supplement the existing Georgia Deployment Program, another training evolution that trained Georgian armed forces to deploy to Afghanistan in support of the NATO-led International Security Assistance Force in Afghanistan.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The BSRF's 2012 rotation (also referred to as Black Sea Rotational Force 12), a 6-month deployment, was to include training exercises with 19 nations planned throughout the Black Sea, Balkan and Caucusus regions.  The BSRF's third rotation involved some 360 personnel, mostly from the Marine Corps Reserve's 4th Reconnaissance Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The BSRF began their 2012 rotation with the annual Exercise Agile Spirit on Vaziani Training Area in Georgia, on 12 March 2012.  The combined exercise between the United States Marine Corps and the Georgian Land Forces was designed to enhance interoperability, promote regional stability and build camaraderie amongst the forces.  Upon completion of Agile Spirit, the marines and sailors of the BSRF were to redeploy to Mihail Kogalniceanu, Romania and continue their assigned mission which involves training exercises with 19 nations planned throughout the Black Sea, Balkan and Caucusus regions.  BSRF members worked with Romanian soldiers in Iasi, Romania from May to July 2012.  The deployed elements of the BSRF redeployed in August 2012.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/index.html</href>
+        <text>Marines</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/usmc/marforeur.html</href>
+        <text>MARFOREUR</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

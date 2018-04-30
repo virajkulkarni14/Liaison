@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/transchool.htm</Url>
+    <NameNode>US Army Transportation School</NameNode>
+    <FullName>US Army Transportation School</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/transchool.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Lee</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-lee.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</Url>
+        <FullName>8th Transportation Brigade</FullName>
+        <Name>8th Transportation Brigade</Name>
+        <Id>army/8trans-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</href>
+            <text>8th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-lee.htm</href>
+            <text>Fort Lee, VA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.transchool.eustis.army.mil/</href>
+            <text>US Army Transportation School</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Transportation School</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/transchool.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/transchool-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/transchool-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</Url>
+    <NameNode>8th Transportation Brigade</NameNode>
+    <FullName>8th Transportation Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/8trans-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/transchool.htm</Url>
+        <Id>army/transchool.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Transportation School</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-222avn.htm</Url>
+        <FullName>1-222 Aviation Reg</FullName>
+        <Name>1-222 Aviation Reg</Name>
+        <Id>army/1-222avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/71trans.htm</Url>
+        <FullName>71st Transportation Bn</FullName>
+        <Name>71st Transportation Bn</Name>
+        <Id>army/71trans.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/765trans.htm</Url>
+        <FullName>765th Transportation Bn</FullName>
+        <Name>765th Transportation Bn</Name>
+        <Id>army/765trans.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-222avn.htm</href>
+            <text>1-222 Aviation Reg</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/71trans.htm</href>
+            <text>71st Transportation Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/765trans.htm</href>
+            <text>765th Transportation Bn</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Ft Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.8bde.eustis.army.mil/</href>
+            <text>8th Transportation Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>8th Transportation Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/8trans-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 8th Transportation Brigade is to produce soldiers that are highly motivated, disciplined, physically tough, and proficient in battlefield skills, sustain the skill of the permanent party personnel and ensure cadre are combat ready for world-wide deployment during mobilization for war, provide common schools support (administrative and logistics) for the United States Army Aviation Logistics School, the United States Army Transportation School, and the Non-Commission Officers Academy, and to on order, assume command, control and conduct sustainment operation/support for TOE and TDA units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 8th Transportation Brigade was originally constituted on 9 December 1943 as the 8th Traffic Regulation Group. The unit was trained at Fort Lawton, Washington, prior to serving in the European Theater in World War II in the Northern France and Rhineland Campaigns. In June 1946, the unit was inactivated at Reims, France, and later reactivated at Frankfurt, Germany, in October 1949.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Allotted to the Regular Army on 27 March 1951, the designation 8th Transportation Group was given to the unit on 3 January 1955. The Group served in Germany until deactivation in December 1963. In June 1966, the Group was reactivated at Fort Lewis, Washington and served in Vietnam from October 1966 until its deactivation in April 1971. On 14 July 1986, the unit was reactivated and redesignated as the 8th Transportation Brigade and organized at Fort Eustis. The 8th Transportation Brigade presently consists of 3 battalions totaling 13 companies with approximately 3,200 personnel. The Brigade provides command, control, and administration for both students and faculty assigned or attached to the U.S. Army Transportation and Aviation Logistics Schools and permanent party assigned to the U.S. Army Transportation Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The primary mission of the 8th Transportation Brigade is training and its reputation for sending high quality, fully trained soldiers to units throughout the world is well known and highly respected. The Brigade conducts soldierization training including common task training, field training exercises, and physical training. In all of these areas, emphasis is on learning basic soldiering skills thus enabling success in combat and completion of assigned missions. The enforced soldierization program for advanced individual training (AIT) soldiers goes beyond the requirements for common task training and places soldiers in a variety of leadership and training scenarios. These scenarios require an independence that simulates the field environment that they will enter after graduation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of training soldiers is not limited to Fort Eustis or times of peace and the Brigade supports the Army mission regardless of the difficulty. During Operation Desert Shield in 1990, the Brigade assumed command and control of 16 FORSCOM units remaining at Fort Eustis, and during Desert Storm processed more than 1300 Individual Ready Reserve (IRR) soldiers. In addition, it trained 300 replacements and provided reinforcement training for 1500 reservists. The mission continued in Somalia and Haiti when the Brigade provided much needed technical assistance to Transporters supporting Operation Restore Hope and Operation Restore Democracy. Today, Transporters from the 8th Brigade can be found supporting Transporters in Bosnia to strive for excellence. The 8th Transportation Brigade is truly WITHOUT PARALLEL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/transchool.htm</href>
+        <text>Transportation School</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-222avn.htm</Url>
+    <NameNode>1-222nd Aviation Regiment
+"SkyMasters"</NameNode>
+    <FullName>1-222nd Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-222avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft. Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</Url>
+        <Id>army/8trans-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>8th Transportation Bde</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Ft. Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.8bde.eustis.army.mil/222/</href>
+            <text>1-222nd Aviation Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1-222nd Aviation Regiment
+&lt;br&gt;"SkyMasters"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-222avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1-222 Aviation Regiment provides support to Phase IV and V of the Initial Entry Training and soldierization process in order to provide soldiers to the field Army who are qualified in their MOS, physically fit, technically competent, and who have internalized the Army's seven core values.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The history of the 222d Aviation Regiment (Combat), although of comparatively short duration, has been described as unique, distinguished and highly professional. The most prominent trait of the SKYMASTERS or "triple deuces" is versatility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 222d Aviation Regiment (Combat Support) "Skymasters" was constituted on 25 April 1966 and activated on 25 May 1968 at Vung Tau, Republic of Vietnam.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was originally a fixed wing organization consisting of a utility airplane company equipped with U-1A Otters, two companies of CV-2 Caribou and a surveillance airplane company with OV-1 Mohawks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 17 November 1968, the "Skymasters" were re-designated as the 222d Aviation Regiment (Combat) as its fixed wings units were replaced by Rotary Wing Companies equipped with UH-1 Hueys and UH-1M Gunships, a Medium Lift Company with CH-47 Chinooks, a heavy lift company with CH-54 Skycranes and a combination heavy/medium lift company.   The Battalion also had a Medical Detachment and a Pathfinder Detachment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In recognition of its service in Vietnam, the 222d was awarded the Meritorious Unit Commendation, four awards of the Republic of Vietnam Cross of Gallantry with Palm and the Vietnam Civil Action Honor Medal.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following Vietnam, the battalion relocated to Alaska.  At Fort Wainwright, Alaska , the 222d Aviation Battalion (Combat) was the Army's largest and most diverse aviation battalion.  Their mission was to provide air surveillance, target acquisition and provide command and staff aviation support to the 172D Infantry Brigade.  The battalion's units included a Headquarters and Headquarters Company, CH-47 Chinook Company, CH-54 Skycrane Company, OV-ID Mohawk Military Intelligence Company, Medical  Evaluation Detachment and a Maintenance Company.  Also assigned, but located at Fort Richardson was a UH-1 Huey and AH-1 Cobra Company and a Headquarters and Headquarters Company flight platoon with two C-12A aircraft.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit deactivated on 15 April 1986. On 20 September 1986, the battalion was activated at Fort Campbell, Kentucky.  In 1987, Company A was re-designated as Headquarters and Headquarters Company, 1st Battalion, 222d Aviation Regiment and transferred to TRADOC.  The Battalion moved again, this time to Fort Eustis, Virginia, where it became part of the 8th Transportation Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/transchool.htm</href>
+        <text>Transportation School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</href>
+        <text>8th Transportation Bde</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"SkyMasters"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/71trans.htm</Url>
+    <NameNode>71st Transportation Battalion</NameNode>
+    <FullName>71st Transportation Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/71trans.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft. Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Story</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-story.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</Url>
+        <Id>army/8trans-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>8th Transportation Bde</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>E Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>F Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>G Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>H Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>I Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Ft. Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-story.htm</href>
+            <text>Fort Story</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.8bde.eustis.army.mil/71bn/</href>
+            <text>71st Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>71st Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/71trans.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 71st Battalion is to ensure all personnel are prepared for worldwide deployments, provide command, control, administrative, and logistical support to the battalion, on order, provide command and control during emergency operations, and to provide field commanders with highly disciplined soldiers who are physically fit, trained to apprentice level proficiency in battlefield skills and in the critical tasks of their respective MOSs, and embody Army Values.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company I, 71st Trans battalion, 8th Transportation Brigade is an Advanced Individual Training company provides command, control, administration, training and logistical support for up to 106 88H10 (cargo handlers) for soldiers and more than 20 attached instructors and cadre personnel. Courses include Rough Terrain Forklift (AIT students), Hagglund Crane at Lambert's Point (AIT students); Lighter Cushion Vehicle Operators, supervisors and maintenance courses. This activity occupies buildings 845, 847, and 849 at Fort Story.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 71st Transportation Battalion was organized as a Regular Army Unit on 10 February 1941 at Fort Benning, Georgia and was re-designated in December 1943 as the 71st Quartermaster Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>World War II campaigns included the East Indies, Paupa New Guinea, Leyte, Luzon and the Philippines, where it earned the Philippine Presidential Unit Citation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Upon completion of its wartime service, the 71st was inactivated in Japan on 15 April 1946 and re-designated as the 71st Transportation Corps Truck Battalion on 1 August 1946.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 71st was again re-designated as the 71st Transportation Battalion (Helicopter) and was activated at Fort Riley, Kansas on 19 July 1954. This new battalion was the first of its kind to prepare helicopter companies as combat ready units for assignment overseas. In October of 1961 the 71st arrived in Korea and provided aviation support to the 8th U.S. Army and was deactivated in September 1963. The 71st Transportation Battalion (Terminal) served in the Republic of Vietnam from October 1966 until 25 August 1972, where it operated the U.S. Army Terminal Newport near Saigon, earning two Meritorious Unit Commendations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After distinguished service in Vietnam, the colors returned to Fort Eustis in August 1972, until deactivation in December 1976.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In July 1986, the 71st was reactivated at Fort Eustis, Virginia, with the mission of training in support of the U.S. Army Transportation &amp;amp; Aviation Logistics Schools. During Operation Desert Shield in August 1990, the 71st took the additional mission as the command and control element for activated Reserve and National Guard units mobilized at Fort Eustis.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 15 August 1991, the 71st relinquished command and control of these units, and was subsequently realigned with its current organization.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion's current operating strength varies between 550-800 soldiers depending on the student population.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/transchool.htm</href>
+        <text>Transportation School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</href>
+        <text>8th Transportation Bde</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/765trans.htm</Url>
+    <NameNode>765th Transportation Battalion</NameNode>
+    <FullName>765th Transportation Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/765trans.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft. Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</Url>
+        <Id>army/8trans-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>8th Transportation Bde</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>MP Co.</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Ft. Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.8bde.eustis.army.mil/765/</href>
+            <text>765th Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>765th Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/765trans.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 765th is to provide command and control, administration and logistic support, discipline, and training to soldiers assigned/attached to the U.S. Army Aviation Logistics School, Transportation School, Provost Marshal's Office, Installation Staff, and International Military Students, administer the Security Assistance Training Program at Ft. Eustis, and on order establish and operate Emergency Evacuation Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The battalion's rich history spans three wars and its heritage in both transportation and aviation has produced a distinguished lineage and honors. In World War II, the 765th was born on 12 March 1943, as the 765th Railway Shop Battalion, TC. Following its activation at Camp Plauche, Louisiana, on 4 May 1944, the battalion was shipped to Europe, where it participated in the Rhineland Campaign. After the war, the 765th Railway Shop Battalion was transferred to Ft. Eustis, in March 1946.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the outbreak of hostilities in Korea, the 765th was alerted for movement overseas. The battalion distinguished itself by providing rail support during every campaign of the conflict and received the Meritorious Unit Commendation twice and the Republic of Korea Presidential Unit Citation. Deactivation on 20 December 1954, in Korea, brought to a close a major chapter in the battalion's history.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the 1960's, as the Vietnam Conflict began to intensify, the 765th was once again called upon to serve its country and on 1 March 1963, was redesignated as Headquarters and Headquarters Detachment, 765th Transportation Battalion, and was reactivated on 26 March 1964, at Fort Benning, Georgia as an aircraft maintenance unit. In Vietnam, the 765th participated in 17 campaigns and distinguished itself by earning six Meritorious Unit Citations, the Republic of Vietnam Cross of Gallantry with Palm and the Republic of Vietnam Civil Action Medal Unit Citation. In 1972, the battalion was again deactivated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 765th Transportation Battalion was reactivated 30 July 1988, at Fort Eustis, Virginia. With 28 campaign credits, 8 Meritorious Unit Citations and 3 Foreign decorations, the 765th Transportation Battalion is the most decorated unit on Fort Eustis.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The battalion's diverse history, reflected in its companies (Headquarters and Headquarters Company (USATCFE), 1st Staff &amp;amp; Faculty Company, 3rd Staff &amp;amp; Faculty Company, F Company (International Military Students Company), and Military Police Company (USATCFE)), carries on the 765th's proud tradition of transportation and aviation support to the nation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion's motto of "STRAIGHT ARROW", a legacy of its Vietnam service.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/transchool.htm</href>
+        <text>Transportation School</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/8trans-bde.htm</href>
+        <text>8th Transportation Bde</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

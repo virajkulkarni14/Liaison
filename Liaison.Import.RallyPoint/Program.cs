@@ -204,13 +204,13 @@ namespace Liaison.Import.RallyPoint
             
             if (titleNode.InnerHtml.Contains("US "))
             {
-                obj.UnitService = Helper.Enumerators.Services.Joint;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Active;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Joint;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Active;
             }
             else
             {
-                obj.UnitService = Helper.Enumerators.Services.Unknown;
-                obj.UnitComponent = Helper.Enumerators.ServiceType.Unknown;
+                obj.UnitService = Helper.Enumerators.ServicesBll.Unknown;
+                obj.UnitComponent = Helper.Enumerators.ServiceTypeBLL.Unknown;
             }
         }
 

@@ -1,0 +1,1066 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaals.htm</Url>
+    <NameNode>US Army Aviation Logistics School (USAALS)</NameNode>
+    <FullName>US Army Aviation Logistics School (USAALS)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/usaals.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</Url>
+        <Id>army/usaavnc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Aviation Center</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals-daht.htm</Url>
+        <FullName>Dept of Attack Helicopter Training (DAHT)</FullName>
+        <Name>Dept of Attack Helicopter Training (DAHT)</Name>
+        <Id>army/usaals-daht.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals-dast.htm</Url>
+        <FullName>Dept of Aviation Systems Training (DAST)</FullName>
+        <Name>Dept of Aviation Systems Training (DAST)</Name>
+        <Id>army/usaals-dast.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals-datt.htm</Url>
+        <FullName>Dept of Aviation Trades Training (DATT)</FullName>
+        <Name>Dept of Aviation Trades Training (DATT)</Name>
+        <Id>army/usaals-datt.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals-dtpe.htm</Url>
+        <FullName>Dept of Training Plans and Evaluation (DTPE)</FullName>
+        <Name>Dept of Training Plans and Evaluation (DTPE)</Name>
+        <Id>army/usaals-dtpe.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1st Staff and Faculty Company (DAST/DPTE)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3rd Staff and Faculty Company (DATT/DAHT)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Training Support Group</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1-222nd Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/usaals-daht.htm</href>
+            <text>Dept of Attack Helicopter Training (DAHT)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/usaals-dast.htm</href>
+            <text>Dept of Aviation Systems Training (DAST)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/usaals-datt.htm</href>
+            <text>Dept of Aviation Trades Training (DATT)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/usaals-dtpe.htm</href>
+            <text>Dept of Training Plans and Evaluation (DTPE)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.usaals.com/</href>
+            <text>Aviation Logistics School (USAALS)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Aviation Logistics School (USAALS)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaals.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The United States Army Aviation Logistics School (USAALS) was established at Fort Eustis, VA, on 1 October 1983, and is devoted to the support of Army aviation logistics operations through the development of training for enlisted and warrant officer personnel.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The establishment of USAALS can be traced to the beginnings of Army aviation maintenance training during World War II. At that time, student aircraft mechanics with maintenance experience were selected from the Army ground forces. These soldiers received training in aircraft and engine repair at an enlisted field artillery aircraft mechanics course at Fort Sill, OK.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After World War II, the Army fixed-wing and Air Force and Army rotary-wing mechanic programs were initially conducted at Sheppard Air Force Base, TX, then at Gary Air Force Base, TX, in 1951. During this time, the Ordnance Corps, the early proponent of logistics support for Army aircraft, recommended that Army aviation maintenance training be conducted on a civilian contract basis at Civil Aeronautics Administration (now Federal Aviation Administration) licensed maintenance schools; this proposal was rejected. Instead, a 19-week Army helicopter mechanics course was established at the Field Artillery School, Fort Sill, OK, to supplement the Air Force Training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaals-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the Korean War, the Air Force handled aircraft procurement, depot maintenance, and supply, while the Army determined requirements and handled supply and maintenance at the organization and field levels. This division of responsibilities created obvious problems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As a result, the Transportation Corps became the proponent for aviation logistics support in 1952. In 1953, the Army Aviation School was formed at Fort Sill to provide flight and maintenance training to officers, warrant officers, and enlisted soldiers. The Air Force, however, continued to teach the primary fixed-wing flight course to all Army aviators and provided some helicopter and fixed-wing maintenance training as well.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1954, the Department of the Army recommended that all Army aviation maintenance instruction be conducted at the Transportation School, Fort Eustis, VA. Organizational aircraft maintenance training, though, became the responsibility of the Aviation School, which had recently moved to Fort Rucker, AL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training at Fort Eustis began in June 1954 with an officer course and six enlisted courses. Aviation logistics support remained a Transportation School function until the Aviation Logistics School was established in 1983.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/usaals-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Aviation logistics training has experienced much growth and change since 1983. When the Aviation Branch and USAALS were established in 1983, command and control of USAALS was assigned to the Commandant, US Army Transportation and Aviation Logistics Schools. However, this was inconsistent with the original branch charter. The findings of Vice Chief of Staff, US Army, directed special study group conducted 1987-1988 prompted the Commander, TRADOC, to approve transfer of command and control of USAALS to the Aviation Branch Chief. Effective 1 October 1988, USAALS was established as a nonsupporting tenant activity at Fort Eustis under the command and control of the Commander, US Army Aviation Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In its 2005 BRAC Recommendations, DoD would realign Fort Eustis by relocating the Aviation Logistics School and consolidating it with the Aviation Center and School at Fort Rucker. This recommendation would consolidate Aviation training and doctrine development at a single location. Consolidating Aviation Logistics training with the Aviation Center and School would foster consistency, standardization and training proficiency. It would consolidate both Aviation skill level I producing courses at one location, which would allow the Army to reduce the total number of Military Occupational Skills (MOS) training locations (lessening the TRADOC footprint).  This would also support transformation by collocating institutional training, MTOE units, RDT&amp;amp;E organizations and other TDA units in large numbers on single installations to support force stabilization and engage training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was later determined that the realignment did not meet the pay back criteria and the it was subsequently canceled.  The US Army Aviation Logistics School remained at Fort Eustis, Virignia.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</href>
+        <text>Aviation Center</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaals-daht.htm</Url>
+    <NameNode>USAALS Department of Attack Helicopter Training (DAHT)</NameNode>
+    <FullName>USAALS Department of Attack Helicopter Training (DAHT)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals.htm</Url>
+        <Id>army/usaals.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>USAALS</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>DAHT Headquarters</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Scout Helicopter Div (SHD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Advanced Attack Armament Div (AAAD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Advanced Attack Helicopter Div (AAHD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Aircraft Armament Div (AAD)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>USAALS Department of Attack Helicopter Training (DAHT)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Headquarters DAHT plans, coordinates, prepares, and implements the maintenance training of US Army Attack and Scout helicopters for all United States and Allied Forces. It monitors courseware, as well as instructor performance, to ensure the student receives the highest quality  training. DAHT is the administrative link between its divisions and Headquarters, United States Army Aviation Logistics School.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>DAHT provides enlisted resident and nonresident maintenance training on the AH-64A Apache, AH-64D Longbow and OH-58D Kiowa Warrior helicopters. It also provides leadership training for Basic Noncommissioned Officer Course (BNCOC) and the Warrant Officer Aircraft Armament Maintenance Technician Course (AAMTC). The unit offers hands-on system troubleshooting training using the A7+ and L7 Armament/Avionic/Electrical automated training devices.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Scout Helicopter Division (SHD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The Scout Helicopter Division conducts three courses of instruction (67S10, 67S20/30, and 67S30), processing an average of 200 to 300 students a year, operating on a two-shift rotation program. The Division employs the latest training aids to instruct all facets of AVUM and AVIM maintenance for all OH-58D courses. The Scout Helicopter Division's mission is to train soldiers to be ready to perform an array of helicopter maintenance duties.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit's Common Enabling Skills Branch is designed to teach introductory aviation maintenance skills to all entry-level MOS's, processing an average of 1,100 to 1,400 students per year, within the Department of Attack Helicopter Training. The goal of this branch is to teach student about Army publications to include Electronic Technical Manuals, aviation safety, shop and flight line practices, the fundamentals of The Army Maintenance Management System (TAMMS), and the use of the Unit Level Logistics System - Aviation (ULLS-A).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Advanced Attack Armament Division (AAAD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: Personnel in this division develop and present the latest AH-64A Apache and AH-64D Longbow attack helicopter armament, electrical, and avionics system technical training to warrant officer and enlisted personnel of active, reserve, and allied forces. The division trains close to 600 students annually in AH-64A/D initial entry, transition, non-commissioned officer and warrant officer courses of instruction.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Advanced Attack Helicopter Division (AAHD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division's mission is to train Active, Reserve, and Allied soldiers to be ready to perform an array of helicopter maintenance duties worldwide. The division conducts aviation maintenance training on the AH-64A (Apache) attack helicopter. The Advanced Attack Helicopter Division currently uses 10 AH-64A attack helicopter airframes and one A-2 Flight Control and Drive System Trainer for the 67R10, 67R2/30 (T), and 67R30 courses. The division is capable of training a large number of students each year to become aircraft repairers, technical inspectors, and supervisors on the AH-64A helicopter.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The division conducts aviation maintenance training on the AH-64D (LONGBOW) attack helicopter and is capable of training a large number of students each year to become aircraft repairers on the AH-64D attack helicopter. The division currently uses five AH-64D Airframe Engine Drive Train Systems Trainers (L-6) and one AH-64D Multiplex, Avionics, Visionics, Weapons &amp;amp; Electrical Systems Trainers (L-7) for the ASIY1 (67R (T)) and 67R30 courses.  The division also trains and certifies the Environmental Protection Agency (EPA) Type II certification requirements in the ASIY1 (67R (T)) course. The division is programmed to receive four additional L-6 trainers, one Flight Control and Drive System Part Task Trainer (PTT) and two (Tail Rotor/Stabilator/Tail Landing Gear) PTTs during FY02 to support the 67R10 course that starts training in FY03.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Aircraft Armament Division (AAD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The Aircraft Armament Division (AAD) conducts six course of instruction on three shift for Regular Army and National Guard Initial Entry  Soldiers, Advance Noncommissioned Officers, and Warrant Officers on the OH-58D Kiowa Warrior Helicopter with a large annual student load of 300 students. The division incorporates current State-Of-Art Training on the OH-58D Kiowa Warrior Helicopter, to include Computerized Multimedia Training System (MTS), Composite Maintenance Trainers (CMT) and Computerized Fault Insertion Test System (CFITS). The core portion of the Aircraft Armament Maintenance Technicians Course (AAMTC) for the AH-64, OH-58D Aircraft is also conducted within the division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</href>
+        <text>Aviation Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaals.htm</href>
+        <text>USAALS</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaals-dast.htm</Url>
+    <NameNode>USAALS Department of Aviation Systems Training (DAST)</NameNode>
+    <FullName>USAALS Department of Aviation Systems Training (DAST)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals.htm</Url>
+        <Id>army/usaals.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>USAALS</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>DAST Headquarters</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Cargo Helicopter Div (CHD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Utility Helicopter Div (UHD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Advanced Aviation Logistics Div (AALD)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>USAALS Department of Aviation Systems Training (DAST)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>DAST provides resident and nonresident maintenance training on the UH-60 Blackhawk, CH-47D Chinook, and UH-1 Huey helicopters. DAST provides leadership training for all MOSs in the common aviation maintenance (CAM) tracks of the Basic and Advanced Noncommissioned Officers Courses. 
+The maintenance training consists of removing, installing, and servicing aircraft systems and components; ground handling the aircraft; performing preventative maintenance daily (PMD) and preventative maintenance service (PMS) inspections; maintaining aircraft logbooks and maintenance-related forms and records; and performing other maintenance tasks relating to the mechanical condition of the cargo and utility helicopters.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>To meet the instructional needs required by the more complex and sophisticated Army aircraft systems, state-of-the-art electronic training devices and systems are used to enhance training realism.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The CH-47D composite trainer at DAST electronically links a computer assembly designed to program mechanical or maintenance problem situations into the aircraft systems. The trainer has see-through construction, which allows the student mechanic to view the inside workings of the aircraft to solve problems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In an effort to reduce actual aircraft requirements, DAST is maximizing the use of enhanced composite trainers, hardware maintenance trainers, and computer-based training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>DAST has taken the lead for verifying and validating the Interactive Electronic Technical Manual (IETM) for the UH-60 helicopter. The ultimate goal is to convert all maintenance publications for force modernization aircraft into electronic media.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Cargo Helicopter Division (CHD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division employs highly motivated subject matter experts, both military and civilian, to meet the training needs of Army aviation and Force XXI. The mission of CHD is to train entry-level soldiers, transition soldiers, and basic noncommissioned officers to manage, inspect, and maintain the Boeing CH-47D helicopter. The training is provided to active Army and reserve component personnel, Department of Defense civilians, and international students. CHD conducts training in classrooms, laboratories, and hangars, covering more than 51,000 square feet. CHD trains up to 444 entry-level and 102 basic noncommissioned officer students per year. In order to accomplish this training, CHD uses CH-47D helicopters and CH-47D maintenance trainers that allow students to actually remove and replace components, inspect components for serviceability, and operate aircraft systems. In addition, the division has computer-enhanced Chinook hardware maintenance trainers and computerized panel trainers that replicate the operation of aircraft systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Utility Helicopter Division (UHD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The mission of UHD is to train entry-level soldiers, transition soldiers, and basic noncommissioned officers to manage, inspect, and maintain the Sikorsky UH-60 helicopter. The training is provided to active Army, Air Force, and reserve component personnel; Department of Defense civilians; and international students. UHD conducts training in classrooms, laboratories, and hangars, covering more than 56,000 square feet. UHD trains up to 704 entry-level and transition students, and 184 basic noncommissioned officer students per year. In addition, UHD is capable of training 90 basic noncommissioned officer students on the Bell UH-1 helicopter per year. In order to accomplish the training, UHD uses UH-60 helicopters that allow students to actually remove and replace components, inspect components for serviceability, and operate aircraft systems. In addition, the division has computer-enhanced Blackhawk maintenance trainers, landing gear trainers, and External Stores Support System trainers that replicate the operation of aircraft systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Advanced Aviation Logistics Division (AALD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division employs highly motivated military subject matter experts to meet the training needs of Army aviation and Force XXI. The mission of AALD is to train basic noncommissioned officers to supervise and manage aircraft maintenance. The training is provided to active Army and reserve component personnel and international students. AALD conducts training in classrooms and laboratories, covering more than 3,200 square feet. AALD trains all CMF 67 soldiers in advanced aviation logistics subjects.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</href>
+        <text>Aviation Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaals.htm</href>
+        <text>USAALS</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaals-datt.htm</Url>
+    <NameNode>USAALS Department of Aviation Trades Training (DATT)</NameNode>
+    <FullName>USAALS Department of Aviation Trades Training (DATT)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals.htm</Url>
+        <Id>army/usaals.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>USAALS</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>DATT Headquarters</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Electrical and Electronic Div (EED)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Propulsion and Powertrain Div (PPD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Structure and Pneudraulics Div (SPD)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Spanish Training Div (STD)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>USAALS Department of Aviation Trades Training (DATT)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>DATT Headquarters develops and conducts resident and nonresident enlisted aviation logistics training in electrical, avionics, powertrain, propulsion, structural, and pneudraulics trades for all types of Army aircraft; conducts warrant officer technical training; provides mobile training teams (MTT) and new equipment training (NET) as required; and provides subject matter experts to research, develop, write, and review training support material, exportable training packages, and aviation logistics doctrine.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Electrical and Electronics Division (EED)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division provides electrical/electronic and avionics maintenance training on AH-1, CH- 47D, OH-58, UH-1, and UH-60 aircraft. The Electrical Section conducts training on the repair of aircraft lighting, battle damage repair, and the following systems: instruments, AC/DC, fuel, electrical, utility, environmental/heating and ventilation, hoist/winch, battery, and fire detection/ extinguisher. The Avionics Section conducts the 68N10 Avionics Mechanic Course, which includes training on aerial electronic warning equipment repair. The Electronics Section conducts Basic Electronics Training (BET).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Propulsion and Powertrain Division (PPD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division provides specialized training on teardown, inspection, and analysis of aircraft powerplant and powertrain components, subcomponents, and parts. Usually only those who serve in positions requiring specialized military occupational skills inherent to the Component Repair Platoon receive training in the field for these skills.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Structures and Pneudraulics Division (SPD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division provides specialized training in aircraft sheetmetal and component repair procedures, hydraulic component repair procedures, and the skills and knowledge needed to inspect and monitor the specialized repairs done by trained personnel in the component repair shops of AVUM and AVIM aircraft units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Spanish Training Division (STD) (English or Spanish)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>: The division provides training on aircraft systems, component repair, troubleshooting and inspection procedures to Spanish-speaking students from Latin America in MOS 67N30, 68B10, 68D10, 68F10, and 68G10.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</href>
+        <text>Aviation Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaals.htm</href>
+        <text>USAALS</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usaals-dtpe.htm</Url>
+    <NameNode>USAALS Department of Training Plans and Evaluation (DTPE)</NameNode>
+    <FullName>USAALS Department of Training Plans and Evaluation (DTPE)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Eustis</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-eustis.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaals.htm</Url>
+        <Id>army/usaals.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>USAALS</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-eustis.htm</href>
+            <text>Fort Eustis, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>USAALS Department of Training Plans and Evaluation (DTPE)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>DTPE is organized into a headquarters and four subordinate divisions. DTPE develops individual aviation maintenance training concepts and strategies; plans and coordinates the development of all resident and nonresident training products; coordinates the aviation maintenance doctrinal and training literature program for USAALS; provides quality assurance and evaluation support for all resident aviation maintenance training conducted at USAALS; coordinates and executes the USAALS Master Evaluation Plan; conducts internal and interservice training evaluations; collects and analyzed evaluation results; develops and analyzes survey questionnaires and results; and recommends accreditation of aviation maintenance courses under the Total Army School System (TASS).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Enlisted Training Division (ETD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Analyzes individual aviation maintenance training requirements in coordination with the training departments;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Develops individual aviation maintenance training concepts and strategies;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates with the training departments on the design and development of all resident and nonresident aviation maintenance training programs;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Serves as the activity POC for the Occupational Analysis Requirements and Structure Program and other training related data collection programs for aviation maintenance;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Provides quality assurance and evaluation support for all resident aviation maintenance training conducted at the USAALS;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates and executes the USAALS master evaluation plan;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Evaluates the effectiveness of programs of instruction for which the activity has proponency;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Ensures that course content reflects training analysis, design, and development decisions made in the activity's application of the systems approach to training (SAT);</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Evaluates classroom instruction for aviation maintenance training conducted at USAALS to ensure that--
+
+Instructor is competent in the subject matter;
+Student learning is at the level of stated learning standards;
+A student critique system is in place; and
+Safety standards are maintained at instructional sites</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Instructor is competent in the subject matter;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Student learning is at the level of stated learning standards;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>A student critique system is in place; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Safety standards are maintained at instructional sites</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Develops and administers evaluation instruments including checklists, surveys/questionnaires, and interviews and analyzes the results to provide feedback to the Commander and training departments;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Performs evaluations to determine the USAALS Instructors of the Quarter and Instructor of the Year; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Evaluates, assesses and recommends accreditation of aviation maintenance training conducted under the TASS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Training Technology Division</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates school review of doctrine and training materials prepared by other schools and training activities;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Analyzes individual aviation maintenance training requirements for warrant officer training in coordination with the training departments</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Develops individual aviation maintenance training concepts and strategies;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates with the training departments on the design and development of all resident and nonresident aviation maintenance training programs;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Evaluates commercially developed basic skills training programs for use in the activity and/or aviation maintenance units;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates DA Audiovisual Productions Program (DAAPP) for USAALS;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates USAALS joint optical information network (JOIN) program;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>In coordination with training departments, evaluates the effective implementation of new training technologies, methodologies, and products such as computers, interactive courseware, maintenance trainers, etc., for aviation maintenance training programs conducted at USAALS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Develop the multimedia training development vision for the school to guide all future multimedia training development requirements;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Identify standard hardware and software requirements for developing this training and establish a standard requirement for classroom XXI within the school. Recommend procurement priorities;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Identify all multimedia training requirements and to recommend priorities for the development of these training products;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Develop multimedia training products in support of Army Training XXI.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>New Systems Training Division (NSTD)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates all phases of training development during the life-cycle management of new aviation systems and support equipment;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Prepares System Training Plans (STRAP) for aviation maintenance requirements;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates the review of contractor developed training materials to include: Programs of Instruction (POI), Lesson Plans, Interactive Multimedia Instruction (IMI), Devices, and Training Support Packages (TSP);</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinates verification of technical manuals.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Aviation Logistics Planning Division</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Serve as the assistant Commandant's principal staff element for aviation logistics; assist with the overall planning and execution of aviation logistics initiatives and programs;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Maintain a close liaison with DCD-USAAVNC and DCD CASCOM to ensure aviation logistics issues are addressed in the requirements and force development process;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Conduct reviews of applicable DTLOMS to develop approaches, concepts, and theories for Army Aviation Logistics integration with CASCOM, USAAVNC, PEO-AVN, AATD, and DA Staff Elements.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaavnc.htm</href>
+        <text>Aviation Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaals.htm</href>
+        <text>USAALS</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

@@ -1,0 +1,19 @@
+﻿@model Liaison.BLL.Models.IUnit
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    @Html.Raw(Model.PrintTree().Replace(Environment.NewLine, "<br />"))
+   
+</body>
+</html>

@@ -1,0 +1,4266 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+    <NameNode>Missouri Army National Guard</NameNode>
+    <FullName>Missouri Army National Guard</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/arng-mo.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lincoln</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <FullName>70th Troop Command</FullName>
+        <Name>70th Troop Command</Name>
+        <Id>army/70tc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</Url>
+        <FullName>35th Division Support Command</FullName>
+        <Name>35th Division Support Command</Name>
+        <Id>army/35id-discom.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</Url>
+        <FullName>35th Engineer Brigade</FullName>
+        <Name>35th Engineer Brigade</Name>
+        <Id>army/35eng-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</Url>
+        <FullName>35th Aviation Brigade</FullName>
+        <Name>35th Aviation Brigade</Name>
+        <Id>army/35avn-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</Url>
+        <FullName>135th Field Artillery Brigade</FullName>
+        <Name>135th Field Artillery Brigade</Name>
+        <Id>army/135fa-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/7wmd-cst.htm</Url>
+        <FullName>7th WMD CST</FullName>
+        <Name>7th WMD CST</Name>
+        <Id>army/7wmd-cst.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>State Area Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+            <text>70th Troop Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</href>
+            <text>35th Division Support Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</href>
+            <text>35th Engineer Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</href>
+            <text>35th Aviation Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</href>
+            <text>135th Field Artillery Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>140th Regiment</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/7wmd-cst.htm</href>
+            <text>7th WMD CST</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lincoln, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.moguard.com/</href>
+            <text>Missouri Army National Guard</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Missouri Army National Guard</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mo.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Missouri Army National Guard maintains 65 armories, and is present in 64 communities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Missouri Army National Guard soldiers were busy in Missouri and all over the world in FY99.  More than 1,000 soldiers spent their annual training in Honduras for Joint Task Force Aguan, a humanitarian and civic assistance mission helping the country recover from the devastation of Hurricane Mitch.  Soldiers spent eight months building schools, clinics, roads and bridges, and digging wells for remote communities in the Aguan Valley area of Honduras.  In support of the Total Force, two Missouri Army National Guard units deployed to Europe in support of Operation Joint Forge.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In Alaska, soldiers spent a third year on Annette Island building a 25-kilometer stretch of road from the remote village of Metlakatla and a proposed ferry terminal in Annette Bay.  This will provide the community of 2,000 with access to Ketchikan, the nearest large city.  Currently, there is only one ferry a week that can take residents across the bay.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mo-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Missouri Army National Guard also began full implementation of the Military Funeral Honors Program in FY99.  With over 500,000 veterans in Missouri and approximately 13,000 passing on each year, the Guard saw the importance of helping to provide every Missouri veteran with the honor they deserve.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mo-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+    <NameNode>70th Troop Command</NameNode>
+    <FullName>70th Troop Command</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Centertown</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Missouri</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/3-135avn.htm</Url>
+        <FullName>3-135 AVNvn</FullName>
+        <Name>3-135 AVNvn</Name>
+        <Id>army/3-135avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/135roc.htm</Url>
+        <FullName>135th  Rear Operations Center (ROC)</FullName>
+        <Name>135th  Rear Operations Center (ROC)</Name>
+        <Id>army/135roc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/135sig.htm</Url>
+        <FullName>135th Signal Bn</FullName>
+        <Name>135th Signal Bn</Name>
+        <Id>army/135sig.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/175mp.htm</Url>
+        <FullName>175th Military Police Bn</FullName>
+        <Name>175th Military Police Bn</Name>
+        <Id>army/175mp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/205med.htm</Url>
+        <FullName>205th Medical Bn</FullName>
+        <Name>205th Medical Bn</Name>
+        <Id>army/205med.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/635mi.htm</Url>
+        <FullName>635th Military Intelligence Bn</FullName>
+        <Name>635th Military Intelligence Bn</Name>
+        <Id>army/635mi.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/835cs.htm</Url>
+        <FullName>835th Corps Support Bn</FullName>
+        <Name>835th Corps Support Bn</Name>
+        <Id>army/835cs.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3-135avn.htm</href>
+            <text>3-135 AVNvn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>5th Ordnance Training Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/135roc.htm</href>
+            <text>135th  Rear Operations Center (ROC)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/135sig.htm</href>
+            <text>135th Signal Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/175mp.htm</href>
+            <text>175th Military Police Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/205med.htm</href>
+            <text>205th Medical Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/635mi.htm</href>
+            <text>635th Military Intelligence Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/835cs.htm</href>
+            <text>835th Corps Support Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1137th MP Co</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1035th Maint. Co</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1139th MP Co</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1221st Trans Co</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>135th Army Band</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Centertown, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.moguard.com/</href>
+            <text>70th Troop Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>70th Troop Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In October 1992, the 70th Troop Command (TC), Missouri Army National Guard, changed its training strategy and adopted the lane training method.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 70th also plays an active role in Missouri's Interagency Clandestine Lab Task Force Team (MICLTFT) by helping to deliver hazardous material containers to various communities around the state.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <text>Missouri</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/3-135avn.htm</Url>
+    <NameNode>3rd Battalion, 135th Aviation [AVIM]</NameNode>
+    <FullName>3rd Battalion, 135th Aviation [AVIM]</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jefferson City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</Url>
+        <Id>army/35avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <Id>/army/70tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Jefferson City, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.moguard.com/units/MONG.units.3b135ab.htm</href>
+            <text>3-135 AVN</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>3rd Battalion, 135th Aviation [AVIM]</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As part of the wartrace, the 135th would provide maintenance support to the III Corps aviation brigade.  While National Guard units are a fundamental part of the war trace plan, sometimes the active-duty counterparts need to be convinced. That is exactly the task undertaken by 3rd Battalion, 135th Aviation, Jefferson City. In early 1999 the unit sent 13 people to Fort Hood, Texas to participate in a warfighter exercise. Warfighter is a battlefield simulation exercise. Unit members split up and were sent to different units as part of the simulation. They put an emphasis on how important aviation maintenance is at that level.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As part of the wartrace, the 135th is also apparently traced to the XVIII Corps</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents>18th Aviation Brigade</Contents>
+        <Href>18avn-bde.htm</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</href>
+        <text>35th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/135roc.htm</Url>
+    <NameNode>135th  Rear Operations Center (ROC)</NameNode>
+    <FullName>135th  Rear Operations Center (ROC)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kansas City MO</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <Id>army/70tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>70th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Kansas City MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>135th  Rear Operations Center (ROC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In August 1998 the Missouri Army National Guard's 135th Support Detachment Rear Operations Center (ROC) of Kansas City hosted operation "ROC Thunder" - an exercise simulating the 135th's role as a key component in coordinating rear area support. The three day exercise was unique because the 135th , while coordinating with two Guard Units in different states, used cutting edge software to train up without ever leaving their Armory.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The operation utilized SPECTRUM software, which simulates rear area conditions by providing fluid tactical situations, in real-time, over a network of computers. The simulation was very realistic. The software provides a  perspective of the big picture of the area of operation, but doesn't let you get away without thinking about every detail. For example, if you forget to feed your people, they die.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The operation marked the first time National Guard troops have utilized the high-tech training tool. Members of the 135th ROC coordinated with the 2nd Simulation Exercise Group, 1st Brigade, 75th Division from Fort Sill, Okla. to host and participate in the exercise. The 607th Military Police Battalion of Fort Worth, Texas and the 530th Military Police Battalion of Omaha, Neb. also participated in the exercise via phone and network connection.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The action flowed faster, and the software keeps constant movement. The tempo of the simulation forced him to coordinate with other participating units more often, and remain mission focused.
+ The big advantage of the SPECTRUM software is that it offers training opportunities seldom available in the field for units of its type. Before the development of SPECTRUM, the unit was forced to self-train in rear operations because so few exercises are played at the Area Support Group (ASG) level.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <text>Missouri</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+        <text>70th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/135sig.htm</Url>
+    <NameNode>135th Signal Battalion</NameNode>
+    <FullName>135th Signal Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/135sig.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>St. Joseph</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id.htm</Url>
+        <Id>army/35id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <Id>/army/70tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/92tc.htm</Url>
+        <FullName>A Company - Omaha</FullName>
+        <Name>A Company - Omaha</Name>
+        <Id>army/92tc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/92tc.htm</href>
+            <text>A Company - Omaha</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company - Carrollton</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C COmpany - Kansas City</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>St. Joseph, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>135th Signal Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>135th Signal Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/135sig.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 135th Signal Battalion installs, operates and maintains a communication system in support of a Divison level function including command, control, intellegence, fire control, combat support, and combat service support.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit is tasked with providing communications support as required for combat operations and AFOR operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The community of St. Joseph helped the 135th Signal Battalion celebrate its 50 years in St. Joseph in April 1999. An estimated crowd of over 1,500 people came to the Mayes Memorial Armory to see a variety of static displays and meet a number people who were interested in the heritage of this great military organization. Pvt. Snuffy, the guard mascot was on hand to interact with the children and recruiters were available to talk about the benefits of joining the Missouri National Guard. The interactive "Go For It" program helped young people to explore a future in the Army National Guard. A static display of a Cobra AH-1 helicopter drew a crowd as well as some people were able to drive a Humvee around the 15 acre site. The Family Support Group was there all day to explain how family members can be involved in the unit. The group provided refreshments for the crowd.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/135sig-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Local area retailers donated merchandise used for drawings. Among the retailers were: Wal-Mart, AEC Family fitness, Kurtz Floral, Jolene's Briar Patch, Rod's Hallmark, Lowe's, Anderson Ford, Hobby Lobby, Peels Nail Service, J. Michaels, Family Hair Styles, Gordon Designs, Fantastic Sams and Belt Brewing Company. The local media including: KKJO Radio, Chancellor Media Corporation, St. Joseph News Press, Cablevision, and KQ-2 Television helped to get good coverage of this noteworthy event. Pfc. Nicole Rick helped children by making I.D. Tags. Over 100 children stood in line to get their tags which gave information pertaining to the child to help in identification in case of accidents.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Highlights of the ceremony included a proclamation by the governor, read by Rep. Charles W. Shields (28th District), and a proclamation by the City of St. Joseph read by Assistant Mayor David Jones.
+ Benton High School, St. Joseph, provided a color guard for the event, while Maj. Gen. John D. Havens, adjutant general, spoke to the crowd. DISCOM Commander, Col. Michael Malone decorated the present commander, Lt. Col. Judith Moning with the Meritorious Service Medal and promoted a past commander Lt. Col. Marvin Pierson to colonel. Past commanders of the signal battalion present at the ceremony were: Lt. Col. Mark Hampton, Pierson, Col. Robert Bennett, and Col. Michael Malone.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/92tc.htm</Url>
+    <NameNode>92nd Troop Command</NameNode>
+    <FullName>92nd Troop Command</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/92tc.gif</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ne.htm</Url>
+        <Id>army/arng-ne.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Nebraska</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-167cav.htm</Url>
+        <FullName>1-167th Cavalry</FullName>
+        <Name>1-167th Cavalry</Name>
+        <Id>army/1-167cav.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/41raoc.htm</Url>
+        <FullName>41st Rear Area Operations Center</FullName>
+        <Name>41st Rear Area Operations Center</Name>
+        <Id>army/41raoc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/110med-bn.htm</Url>
+        <FullName>110th Medical Bn (EVAC)</FullName>
+        <Name>110th Medical Bn (EVAC)</Name>
+        <Id>army/110med-bn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-167cav.htm</href>
+            <text>1-167th Cavalry</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/41raoc.htm</href>
+            <text>41st Rear Area Operations Center</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/110med-bn.htm</href>
+            <text>110th Medical Bn (EVAC)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>168th QM PETRL SUP Bn - Scottsbluff</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/135sig.htm</href>
+            <text>Co A, 135th Signal Bn - Omaha</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Co B, 735th MSB - Kearney</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>43rd Army Band - Lincoln</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>105th Personnel Services</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>111th Press Camp - Lincoln</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>173rd Chem Co - Nebraska City</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>189th Trans Co - Norfolk</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>267th Ord Co - Lincoln</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>754th Recon/Decon Co - Omaha</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>755th Recon/Decon Co - Oneill</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1057th Trans Co - Chadron</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1075th Trans Co - Columbus</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1074th Trans Co - North Platte</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/135sig.htm</href>
+            <text>Det 1, Co A, 135th Sig Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 2, Co D, 109th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 3, Health &amp;amp; Dental Det</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 4, Training Site TDA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>134th Long Range Surveillance Det</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>192d MP Det</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.neguard.com/unit/92tc/index.htm</href>
+            <text>92nd Troop Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>92nd Troop Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/92tc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/92tc-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ne.htm</href>
+        <text>Nebraska</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-167cav.htm</Url>
+    <NameNode>1st Squadron, 167th Cavalry"The Bold One"</NameNode>
+    <FullName>1st Squadron, 167th Cavalry</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-167cav.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lincoln</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NE</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id-avn-bde.htm</Url>
+        <Id>army/35id-avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ne.htm</Url>
+        <Id>/army/arng-ne.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Nebraska National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Nebraska</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ne.htm</href>
+        <h3>Nebraska National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Troop A - Hastings</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Troop B - Fremont</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Troop C - Beatrice</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Troop D - Lincoln</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Troop E - Lincoln</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Troop F - Lincoln</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lincoln, NE</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.neguard.com/unit/1-167cav/index.htm</href>
+            <text>1st Squadron, 167th Cavalry</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Squadron, 167th Cavalry&lt;br&gt;"The Bold One"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-167cav.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Squadron, 167th Cavalry performs reconnaissance and security missions in support of 35th Infantry Division (Mechanized) operations. It also performs rear operations, facilitates Command and Control, and conducts other operations as designated by the Division Commander.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Squadron, 167th Cavalry prepares combat ready forces.  On order, it mobilizes, deploys, and organizes for combat, perform reconnaissance and security missions, in support of 35th IN DIV (M) operations, perform rear area operations, facilitate division C2, and conduct other operations as designated by the division, provide ground and air reconnaissance and surveillance within and to the front, flanks and rear of the division, provide command link between the division and subordinate elements.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The state mission of the unit is to respond to orders of the Governor of the State of Nebraska to fulfill the military role of the NEARNG.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit is administratively a subordinate unit of the 92nd Troop Command of the Nebraska Army National Guard.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id-avn-bde.htm</href>
+        <text>35th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"The Bold One"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/41raoc.htm</Url>
+    <NameNode>41st Rear Area Operations Center (RAOC)</NameNode>
+    <FullName>41st Rear Area Operations Center (RAOC)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lincoln</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NE</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/89mp-bde.htm</Url>
+        <Id>army/89mp-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>89th MP BDE</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/92tc.htm</Url>
+        <Id>/army/92tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Nebraska National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Nebraska</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/92tc.htm</href>
+        <h3>Nebraska National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lincoln, NE</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.neguard.com/unit/41raoc/</href>
+            <text>41st Rear Area Operations Center</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>41st Rear Area Operations Center (RAOC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>41st Support Center (RAOC) annual Training was 14 JAN 02 - 1 FEB 02 at Grafenwoehr, Germany and 15 MAR 02 - 4 APR 02 at Grafenwoehr, Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/iii-corps.htm</href>
+        <text>III Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/89mp-bde.htm</href>
+        <text>89th MP BDE</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/110med-bn.htm</Url>
+    <NameNode>110th Medical Battalion (EVAC)</NameNode>
+    <FullName>110th Medical Battalion (EVAC)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/110med-bn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lincoln</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NE</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/92tc.htm</Url>
+        <Id>army/92tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>92nd TC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>24th Medical Company (AA)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>313th Medical Company (GA)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lincoln, NE</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.neguard.com/unit/110medbn/110medbn.htm</href>
+            <text>110th Medical Battalion (EVAC)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>110th Medical Battalion (EVAC)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/110med-bn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 110th Medical Battalion (EVAC) is to provide command and control for air and ground ambulance units. This Medical Battalion is unique in that it is the only National Guard Evacuation Battalion co-located with both Air (24th Med Co) and Ground (313th Med Co) Ambulance units. The close proximity of these units provides a unique opportunity for consistent multi-echelon training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ne.htm</href>
+        <text>Nebraska</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/92tc.htm</href>
+        <text>92nd TC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/175mp.htm</Url>
+    <NameNode>175th Military Police Battalion</NameNode>
+    <FullName>175th Military Police Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fulton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <Id>army/70tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>70th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Fulton, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>175th Military Police Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>175th Military Police Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>This unit was stationed in Berlin during the Allied Occupation following World War II</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was also deployed to Honduras in 1999 to provide humanitarian aid following severe flooding.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <text>Missouri</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+        <text>70th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/205med.htm</Url>
+    <NameNode>205th Medical Battalion</NameNode>
+    <FullName>205th Medical Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kansas City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <Id>army/70tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>70th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Company C - [ILARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Kansas City, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>205th Medical Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>205th Medical Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <text>Missouri</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+        <text>70th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/635mi.htm</Url>
+    <NameNode>635th Military Intelligence Battalion</NameNode>
+    <FullName>635th Military Intelligence Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kansas City</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id.htm</Url>
+        <Id>army/35id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company - Kansas City</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company - Kansas City</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C COmpany - Kansas City</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company - Kansas City</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Kansas City</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>635th Military Intelligence Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>635th Military Intelligence Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 635th provided support to several Warfighter exercises, a large-scale battle simulation, and has a member in Washington D.C. working on a research project.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Military Intelligence Battalion provides combat intelligence and electronic support to the 35th Division. This support consists of ground surveillance, force protection, interrogation of prisoners of war, electronic support and electronic attack assets. A division's IEW systems are organic, assigned, or operational control (OPCON) to the MI battalion. In some situations, IEW assets or units may be attached to maneuver units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The MI battalion at division level provides ground based communications intercept, DF capability, ECM, HUMINT collection, and ground based surveillance.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>The QUICKFIX platoon, habitually OPCON to the MI battalion, provides aerial communications intercept/DF/ECM. It operates in GS to the division and allows for greater collection range and depth.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>LRS teams are deployed 15 to 80 kilometers (km) forward of the division forward line of own troops (FLOT) to observe selected NAIs. Their insertions are time phased to ensure continuous coverage of selected deep divisional NAIs.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Ground surveillance systems are frequently attached to the maneuver units, to locate moving targets.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The remaining divisional assets are task organized into MI company teams GS to the division as a whole or DS to designated brigades. MI company teams may have ground based COMINT collection and EW, CI, and interrogation capability.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/835cs.htm</Url>
+    <NameNode>835th Corps Support Battalion</NameNode>
+    <FullName>835th Corps Support Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Jefferson City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/70tc.htm</Url>
+        <Id>army/70tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>70th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Jefferson City, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>835th Corps Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>835th Corps Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>This unit provided support to Joint Task Force Pelican 2000 in Belize to help improve living conditions in that country.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 835th also plays an active role in Missouri's counterdrug program.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <text>Missouri</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/70tc.htm</href>
+        <text>70th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</Url>
+    <NameNode>Division Support Command, 35th Infantry Division (Mechanized)</NameNode>
+    <FullName>Division Support Command, 35th Infantry Division (Mechanized)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lexington</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id.htm</Url>
+        <Id>army/35id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/634fsb.htm</Url>
+        <FullName>634th FSB [IL ARNG]</FullName>
+        <Name>634th FSB [IL ARNG]</Name>
+        <Id>army/634fsb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/735msb.htm</Url>
+        <FullName>735th MSB [MO ARNG]</FullName>
+        <Name>735th MSB [MO ARNG]</Name>
+        <Id>army/735msb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/935asb.htm</Url>
+        <FullName>935th ASB [MO ARNG]</FullName>
+        <Name>935th ASB [MO ARNG]</Name>
+        <Id>army/935asb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>31st FSB [AL ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/634fsb.htm</href>
+            <text>634th FSB [IL ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/735msb.htm</href>
+            <text>735th MSB [MO ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/935asb.htm</href>
+            <text>935th ASB [MO ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lexington, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Division Support Command, 35th Infantry Division (Mechanized)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Division Support Command, 35th Infantry Division (Mechanized)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/634fsb.htm</Url>
+    <NameNode>634th Brigade Support Battalion
+634th Forward Support Battalion</NameNode>
+    <FullName>634th Brigade Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/634fsb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sullivan </BaseName>
+        <Deployment>false</Deployment>
+        <Location>IL</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/66in-bde.htm</Url>
+        <Id>army/66in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>33d Infantry Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-il.htm</Url>
+        <Id>/army/arng-il.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Illinois National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Illinois</UnitNGState>
+    <NameFormer>634th Forward Support Battalion</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-il.htm</href>
+        <h3>Illinois National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Operational BCT</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/66in-bde.htm</href>
+            <text>33d Infantry Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD, 634th Support (FSB)
+Sullivan, IL</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A, (Support) 
+Sullivan, IL</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B, (Maintanence)  (DS) 
+Champaign, IL</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C, (Medical) 
+Camp Lincoln, Springfield, IL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Sullivan , IL</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>634th Forward Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>634th Brigade Support Battalion&lt;br&gt;
+&lt;strike&gt;634th Forward Support Battalion&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/634fsb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>In 2006, the 634th Forward Support Battalion was redesignated as the 634th Brigade Support Battalion as part of a state-wide transformation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 634th Forward Support Battalion is to provide combat service support to all units, Divisional and non-divisional, operating within the Brigade Support Area (BSA). The 634th Forward Support Battalion (FSB) is tasked with providing logistical support to 66th Bde.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company B (Maintenance) is tasked with:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Providing direct support (DS) maintenance to include repair of artillery, missiles, small arms, tank turrets, track and wheeled vehicles, communications material, power generation equipment, and chemical equipment;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Providing limited back-up recovery and evacuation assistance to supported units;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Technical maintenance assistance to units. Technical supervision of Class IX supply for supported units;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Maintaining Assigned Stockage List (ASL) of repair parts. Repairable exchange service for selected parts;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinating issue of Class VII Operational Readiness Float (ORF);</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Establishing maintenance collection points; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>On site repair via infantry support teams.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company C (Medical) is tasked with:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Providing direct support (DS) medical to include ground evacuation, treatment, and holding to 66th Brigade elements;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Establishing Ambulance Exchange Points with BN Aid Stations;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Providing technical assistance and guidance with outside medical assets;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Providing training and certification for Combat Life Savers;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Coordinating issues of Class VIII resupply to subordinate medical elements; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Performing retention physical exams on soldiers of supported units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As of mid-2001, the unit was comprised primarily of Eastern Illinois University students with an experienced non-commissioned officer cadre.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 634th FSB deployed to Iceland to take part in the 2001 Northern Viking exercise. This was the unit's first overseas deployment since being organized in 1993. While in Iceland, the unit supplied the 66th Infantry Brigade daily with fuel, rations and ammunition.  The unit worked closely with the 106th Aviation out of Peoria, IL, to ensure that provisions reached Soldiers in the field.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/66in-bde.htm</href>
+        <text>33d Infantry Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/735msb.htm</Url>
+    <NameNode>735th Main Support Battalion</NameNode>
+    <FullName>735th Main Support Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Poplar Bluff</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</Url>
+        <Id>army/35id-discom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>DISCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HSC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B [NE ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Poplar Bluff</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>735th Main Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The cadets of the Missouri National Guard's "Show Me Challenge Program" located at Camp Clark in Nevada (a program for at risk youth), participated in common task training with the members of Company A, 735th Main Support Battalion, which is also located in Nevada, Missouri. The training consisted of seven stations that included tasks such as administering first aid, determining grid coordinates and identifying terrain features on a military map. The cadets responded positively and really seemed to gain a better understanding of how the military operates.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Theater Equipment and Maintenance Site (TEAMS) at Fort Kobbe, Panama, was always been a busy place. But with the planned departure of all U.S. military forces from Panama by Dec. 31, 1999, it was going non-stop. Soldiers from Company A and C, 735th Support Battalion got one of the last opportunities to experience it first hand during a 1999 annual training rotation. Providing assistance in the shut down of TEAMS allowed for some great training opportunities. Panama ODT (overseas deployment training) missions have always been enjoyable, but this rotation was the best by far. The unit's mission was to aid and assist in the equipment turn-in and inventory of Army assets. The ever increasing take-over of military equipment and installations by Panamanian civilians is apparent everywhere. The Missouri soldiers worked side by side with Panamanian civilians in everything from meal preparations to inventory control, to maintenance on military vehicles. The push to meet the turn over of military bases to Panama has proved to be a valuable tool in rotational training. Temperatures in excess of 90 degrees welcomed the Missouri citizen-soldiers. Although this was considered Panama's dry season, the landscape was still green and lush with tropical vegetation. In addition to the warm weather, the soldiers also had to adjust to the laid back, relaxed attitude of the locals.  While the work was enjoyable, most soldiers were eager to experience Morale, Welfare, and Recreation (MWR) sponsored events like snorkeling, horseback riding, kayaking, fishing and more. The local shopping markets and historical sites were also of interest to the unit members.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Missouri Army National Guard has made its way back into the city of St. Louis. Members of the 1221st Transportation Company, Detachment 2 now call St. Louis home. The 1221st Transportation Company, Detachment 2 was formerly Company B, 735th, Maintenance Support Battalion stationed in Warrenton. The main body of Company B, 735th, MSB relocated to Nebraska in January 1999. The Guard has been trying to get units back into the inner city for over a year now, to the Mid-St. Louis Satellite Training Site (MSLSTS) (located at 706 N. Jefferson). Company B, 735th MSB was disbanded in December and members of the 735th moved into various slots in Warrenton, Jefferson Barracks and St. Louis.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Ten members relocated to the new Mid-St. Louis Satellite Training Site, while others (two soldiers) relocated to Jefferson Barracks, one as mechanic and the other as a military policeman. Another 10-12 members of the former unit transferred to the new engineer unit (Det 2, 1438th Engineer Detachment) in Warrenton. Detachment 2's parent company, 1221st Transportation Company, located in Dexter, had the task of moving the detachment's equipment to Jefferson Barracks. Detachment 1 of the 1221st is located at the Ike Skelton Training Site in Jefferson City. The detachment's first drill at this site was in January 1999. The ten-member detachment drills at the MSLSTS, but their equipment, more specifically; their vehicles are located at Jefferson Barracks for storage.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</href>
+        <text>DISCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/935asb.htm</Url>
+    <NameNode>935th Avation Support Battalion</NameNode>
+    <FullName>935th Avation Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/935asb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Springfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</Url>
+        <Id>army/35id-discom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>DISCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HSC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A (DASB) - Aurora</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Springfield, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>935th Avation Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>935th Avation Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/935asb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The distinctive unit insignia was approved on 14 December  1998, consisting of a shield blazoned: Per saltire Gules and Buff an annulet counterchanged; in chief a wing elevated erased above issuant from base a demi-column Argent. Attached around the sides and bottom a bipartite black scroll inscribed "YOU MOVE WE SUPPORT" in silver letters. Buff and scarlet are the colors traditionally used by Support organizations. The saltire symbolizes reinforcement, cooperation and teamwork. The annulet suggests a wheel alluding to the movement of materiel to the soldier. The wing reflects aviation support and the column symbolizes strength and support.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/935asb-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>This unit provided logistical support to the 2002 Winter Olympics in Salt Lake City. Members of the Missouri National Guard helped support security efforts at the Winter Olympics in Salt Lake City. A total of 350 soldiers aided security from Jan. 25 through Feb. 25 in Utah. The Olympics ran  Feb. 8-24, 2002. This was a very high profile homeland security mission. 
+ The activation included 200 members of the 110th Engineer Battalion from Kansas City, Lexington and Macon. Company B from the 1140th Engineer Battalion in Perryville provided 100 soldiers, and the 935th Division Aviation Support Battalion in Springfield  provided 50 soldiers. The Missouri soldiers were  supporting the Utah National Guard and Joint Task Force Olympics. There were more than 3,000 members of the National Guard from across the nation supporting security at the Olympics.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id-discom.htm</href>
+        <text>DISCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</Url>
+    <NameNode>35th Engineer Brigade</NameNode>
+    <FullName>35th Engineer Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/35eng-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cape Girardeau</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id.htm</Url>
+        <Id>army/35id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/135eng-grp.htm</Url>
+        <FullName>HHD Engineer Bde 35th ID 
+135th Engineer Group
+
+110th Combat Engineer Battalion
+201st Engineer Battalion [KY ARNG]
+203rd Engineer Battalion
+1138th Engineer Battalion 
+1140th Engineer Battalion
+
+135th Engineer Company [IL ARNG]
+220th Engineer Company 
+1438th Engineer Company (AFB)  
+
+235th Engineer Detachment</FullName>
+        <Name>HHD Engineer Bde 35th ID 
+135th Engineer Group
+
+110th Combat Engineer Battalion
+201st Engineer Battalion [KY ARNG]
+203rd Engineer Battalion
+1138th Engineer Battalion 
+1140th Engineer Battalion
+
+135th Engineer Company [IL ARNG]
+220th Engineer Company 
+1438th Engineer Company (AFB)  
+
+235th Engineer Detachment</Name>
+        <Id>army/135eng-grp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/135eng-grp.htm</href>
+            <text>HHD Engineer Bde 35th ID 
+135th Engineer Group
+
+110th Combat Engineer Battalion
+201st Engineer Battalion [KY ARNG]
+203rd Engineer Battalion
+1138th Engineer Battalion 
+1140th Engineer Battalion
+
+135th Engineer Company [IL ARNG]
+220th Engineer Company 
+1438th Engineer Company (AFB)  
+
+235th Engineer Detachment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Cape Girardeau, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.missouri.edu/~crouchdp/35.htm</href>
+            <text>35th Engineer Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>35th Engineer Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/35eng-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/35eng-bde-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/135eng-grp.htm</Url>
+    <NameNode>HHD Engineer Brigade
+135th Engineer Group</NameNode>
+    <FullName>HHD Engineer Brigade; 135th Engineer Group</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/135eng-grp.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Cape Girardeau</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Missouri</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</Url>
+        <Id>army/35eng-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Engineer Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/110eng.htm</Url>
+        <FullName>110th Combat Engineer Battalion</FullName>
+        <Name>110th Combat Engineer Battalion</Name>
+        <Id>army/110eng.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/110eng.htm</href>
+            <text>110th Combat Engineer Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Cape Girardeau, Missouri</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>HHD Engineer Brigade&lt;br&gt;
+135th Engineer Group</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/135eng-grp.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 135th Engineer Group had some name and structural changes with the  in early September 1999. Headquarters Headquarters Company, 135th Engineer Group changed to the Headquarters Headquarters Detachment, 35th Engineer Brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>For the 135th Engineer Group, a mere name change was the least of their priorities. It is a totally different role. When the 135th became the division engineers, they  planned for the obstacle breaching, supporting the fighting force and developing obstacle plans. It required some different training. For the engineers, the different mindset comes from being a group that supports the engineers into more of a war-fighting mode in the division structure.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It turned a Corps asset into a division asset,  by beefing up the engineer support to the division level. Though the brigade designation might be confusing, the 35th Engineer Brigade still remains, and the 135th Group became embedded in the division headquarters, doing the planning and staff work for the division commander. It still maintained responsibility for the Corps  battalions while keeping actively engaged at the division level.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Almost 12,000 soldiers  trained in Central America by August 1999 as part of "Nuevos Horizontes." The majority of participants in "New Horizons" (as the exercise is called in English) are National Guard and Army Reserve troops deployed for two- or three-week rotations. They provided humanitarian assistance and completing engineering projects in Honduras, Guatemala, El Salvador and Nicaragua -- four nations hit hard last fall by Hurricanes Georges and Mitch. In Honduras, the 135th Engineer Group and the 110th Engineer Battalion (both from the Missouri Army National Guard and the 225th Engineer Group (from the Louisiana Army National Guard) were working on several projects. The Ohio Army National Guard maintained an operations and logistics center at Soto Cano Air Base, Honduras, to spearhead the projects in Guatemala, El Salvador and Nicaragua. Operations in Honduras are under the direction of Joint Task Force-Bravo, also located at Soto Cano Air Base. JTF Bravo has responsibility for combined arms and counterdrug operations in Central America, along with the civil-military projects.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</href>
+        <text>35th Engineer Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/110eng.htm</Url>
+    <NameNode>110th Combat Engineer Battalion</NameNode>
+    <FullName>110th Combat Engineer Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/110eng.gif</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</Url>
+        <Id>army/35eng-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Engineer Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name />
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3 />
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC 7600 Kansas City, MO
+A Company Macon, MO
+B Company Kansas City, MO
+C Company Lexington, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.missouri.edu/~crouchdp/110.htm</href>
+            <text>110th Combat Engineer Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>110th Combat Engineer Battalion </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/110eng.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35eng-bde.htm</href>
+        <text>35th Engineer Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</Url>
+    <NameNode>35th Aviation Brigade</NameNode>
+    <FullName>35th Aviation Brigade</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Warrensburg</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35id.htm</Url>
+        <Id>army/35id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-114avn.htm</Url>
+        <FullName>1-114th Aviation [AR ARNG]</FullName>
+        <Name>1-114th Aviation [AR ARNG]</Name>
+        <Id>army/1-114avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-135avn.htm</Url>
+        <FullName>1-135th Aviation [MO ARNG]</FullName>
+        <Name>1-135th Aviation [MO ARNG]</Name>
+        <Id>army/1-135avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-114avn.htm</href>
+            <text>1-114th Aviation [AR ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-135avn.htm</href>
+            <text>1-135th Aviation [MO ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3-135avn.htm</href>
+            <text>3-135th Aviation [MO ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-167cav.htm</href>
+            <text>1-167th Cavalry [NE ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Warrensburg, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.moguard.com/units/MONG.units.35dab.htm</href>
+            <text>35th Aviation Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>35th Aviation Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Members of the 35th Aviation Brigade staff trained on the AH-64 Apache and the UH-60 Blackhawk at the Western Army Aviation Training Site in June 1999. The staff officers and enlisted men made the trip to prepare for the fielding of the AH-64. 1st Battalion 135th Aviation, stationed at Whiteman Air Force Base, received the Apache in 2001. Other aviation units in Missouri are trying to get the Blackhawk fielded.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Western Army Aviation Training Site is located about 30 miles north of Tucson, Ariz. WAATS offers courses for attack helicopters including the Apache Aeroscout Course, the Cobra Transition Course and Combat Mission Simulator courses for the Apache. WAATS provided a specialized course of instruction to the 35th Aviation Brigade which lasted two days. The brigade took classes on the AH-64, UH-60, Combat Mission Simulator, and Attack and Aeroscout Helicopter operations. Staff members had the chance to see the aircraft and get some experience at Silver Bell Army Airfield, also located at WAATS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 2005 the 35th Aviation Brigade assisted in managing air traffic over New Orleans following Hurricane Katrina. This mission was crucial to help coordinate the many helicopters in the area.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-114avn.htm</Url>
+    <NameNode>1st Battalion, 114th Aviation Regiment</NameNode>
+    <FullName>1st Battalion, 114th Aviation Regiment</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Camp Robinson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>AR</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/agency/army/</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</Url>
+        <Id>army/35avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ar.htm</Url>
+        <Id>/army/arng-ar.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Arkansas National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/63avn-grp.htm</Url>
+        <FullName>Company B [KYARNG]</FullName>
+        <Name>Company B [KYARNG]</Name>
+        <Id>army/63avn-grp.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Arkansas</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ar.htm</href>
+        <h3>Arkansas National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHSC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/63avn-grp.htm</href>
+            <text>Company B [KYARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Jefferson City [MOARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D (ATC)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/</href>
+            <text>Camp Robinson, AR</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion, 114th Aviation Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 114th Aviation Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company C, 1-114th Aviation recieved UH-60 Black Hawks in 2001.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</href>
+        <text>35th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/63avn-grp.htm</Url>
+    <NameNode>63rd Aviation Group</NameNode>
+    <FullName>63rd Aviation Group</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/63avn-grp.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Frankfort</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/6avn-bde.htm</Url>
+        <Id>army/6avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>6th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ky.htm</Url>
+        <Id>/army/arng-ky.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Kentucky National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Kentucky</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ky.htm</href>
+        <h3>Kentucky National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC
+F Co, 135th AVN (AVIM)
+B Co, 1st Battalion, 114th AVN (UH-60)
+Det 3, H Co, 171st AVN (C-23)
+Det 11, Operations Support Airlift
+Reconnaissance and Interdiction Det</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/wartrace.htm</href>
+        <h3>Gained Units [ARNG/USAR]</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-106avn.htm</href>
+            <text>1-106 AVN [IL ARNG]
+1-244 AVN [LA ARNG]
+2-135 AVN [CO ARNG]
+3-142 AVN [MO ARNG]
+3-149 AVN [TX ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>UH-60 
+C-23 
+Reportedly C-12F</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Frankfort, KY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>63rd Aviation Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>63rd Aviation Group</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/63avn-grp.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/iii-corps.htm</href>
+        <text>III Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/6avn-bde.htm</href>
+        <text>6th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-135avn.htm</Url>
+    <NameNode>1st Battalion, 135th Aviation Regiment</NameNode>
+    <FullName>1st Battalion, 135th Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-135avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Whiteman AFB</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/agency/../../wmd/facility/whiteman.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</Url>
+        <Id>army/35avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>35th Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Company A "Dogs of Night"
+Company B
+Company C
+Company D</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>AH-1F
+AH-64</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/../../wmd/facility/whiteman.htm</href>
+            <text>Whiteman AFB, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.moguard.com/units/MONG.units.35dab.htm</href>
+            <text>1st Battalion, 135th Aviation Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Un-Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.geocities.com/Pentagon/4332/</href>
+            <text>1st Battalion, 135th Aviation Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 135th Aviation Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/1-135avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/1-135avn-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/v-corps.htm</href>
+        <text>V Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35id.htm</href>
+        <text>35th Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/35avn-bde.htm</href>
+        <text>35th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</Url>
+    <NameNode>135th Field Artillery Brigade</NameNode>
+    <FullName>135th Field Artillery Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/135fa-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sedalia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/xviii-arty.htm</Url>
+        <Id>army/xviii-arty.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Artillery</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-128fa.htm</Url>
+        <FullName>1-128th FA Bn</FullName>
+        <Name>1-128th FA Bn</Name>
+        <Id>army/1-128fa.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-129fa.htm</Url>
+        <FullName>1-129th FA Bn</FullName>
+        <Name>1-129th FA Bn</Name>
+        <Id>army/1-129fa.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-128fa.htm</href>
+            <text>1-128th FA Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-129fa.htm</href>
+            <text>1-129th FA Bn</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Sedalia, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>135th Field Artillery Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>135th Field Artillery Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/135fa-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Missouri Army National Guard's 135th Field Artillery Brigade and its two subordinate units, the 1/128 and 1/129 Field Artillery Battalions,  performed their annual training at Fort McCoy during 2000. There were other units training with the brigade while at Fort McCoy. The Missouri field artillery battalions have a training association with the 18th Airborne Corps. Having the opportunity to train with these soldiers gives our troops the chance to work and train with soldiers they someday may be deployed with. The 57th Field Artillery Brigade Meteorological Section of the Wisconsin Army National Guard provided assistance so that the 135th Field Artillery Brigade Meteorological section could conduct new equipment training in Missouri. The biggest bulk of assistance came from seventy soldiers of the 18th Airborne Corps of Fort Bragg, N.C.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/135fa-bde-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 18th provided a forward observer team, a Q-37 Fire Finder radar section and enough cannon crewmen to place a howitzer crew in each of the six firing batteries within the brigade. Upgraded communications capabilities during annual training this summer at Fort McCoy, Wis. led to better training coordination for members of the 135th Field Artillery Brigade. The units made extensive use of the Single Channel Ground and Airborne Radio System (SINCGARS).  The unit last trained at Fort McCoy in 1998. The unit likes to move its annual training around to get the soldiers acquainted with different firing conditions they may encounter. Since the unit's 155mm howitzers are indirect fire weapons, they require comprehensive coordination among all the elements involved, including the forward observers and the fire direction center, to ensure a successful mission.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-arty.htm</href>
+        <text>Artillery</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-128fa.htm</Url>
+    <NameNode>1st Battalion - 128th Field Artillery</NameNode>
+    <FullName>1st Battalion - 128th Field Artillery</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Columbia</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</Url>
+        <Id>army/135fa-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>135th FA Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>HHSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Battery - Jefferson Brooks</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Battery - Kirksville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Battery - Marshall</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>155mm towed howitzers</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Columbia, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 129th Field Artillery</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 128th Field Artillery</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 128th and 129th Field Artillery  had some name and structural changes in early September 1999. This resulted from implementing the MTOE (Modified Table of Organization and Equipment) change with the Army's direction to support current doctrine. The new concept does away with service battery functions. There are sections in all firing batteries. Eliminated are some of the command structures while placing them closer to the firing battery. That makes them more under a firing battery function. The supply section stayed as the service detachment. Battalion motor section  stayed  in the service detachment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the readjustment, many people found themselves without a slot to fill in their individual units. But no one lost a job. The Adjutant General finds the best interest with keeping units in those communities. It made sense to split them into detachments. The detachments are smaller. Some people had to move. But each person was dealt with according to individual circumstance. The reduction in slots wasn't as much of an issue. Though the unit size was smaller by a few, the grade loss in the officer and enlisted level were absorbed through other similar units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The headquarters of the oldest military unit west of the Mississippi River returned to St. Louis in July 1999 in a ceremony at Jefferson Barracks. A flag redesignation ceremony was held to transfer the flag and headquarters of the Missouri National Guard's Battery A, 1st Battalion, 128th Field Artillery back to Jefferson Barracks. Since 1995, Battery A headquarters have been in Hannibal, while the artillery unit at Jefferson Barracks was designated Detachment 1, Battery A. The Hannibal unit is now Detachment 1, Battery A.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Battery A, 128th Field Artillery, known as St. Louis' Own Battery, has a long and proud history of service to the state and nation. The Battery was organized in 1812 by Capt. Pierre Chouteau for service in the War of 1812. In May 1846, Battery A, Missouri Light Artillery was organized and activated for the Mexican-American War. During the conflict, the soldiers of Battery A participated in the longest overland march of artillery in the history of warfare, marching more than 1,500 miles. The unit also took part in the Civil War, Spanish-American War, World War I and World War II, including the Battle of the Bulge and campaigns across France and Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Battery A trained at armories on Market and Grand Street for many years. Since 1971, Battery A has been located at Jefferson Barracks. The unit also has served on state emergency duty to help protect Missourians during floods in the 1980s and 1990s. Battery A has an authorized strength of 129 male and female personnel; the unit currently has openings for 25 soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-arty.htm</href>
+        <text>Artillery</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</href>
+        <text>135th FA Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-129fa.htm</Url>
+    <NameNode>1st Battalion - 129th Field Artillery</NameNode>
+    <FullName>1st Battalion - 129th Field Artillery</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Maryville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</Url>
+        <Id>army/135fa-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>135th FA Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>HHSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Battery - Albany</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Battery - Chillicothe</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Battery</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Battery - Independence</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>155mm towed howitzers</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Maryville, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 129th Field Artillery</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 129th Field Artillery</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>D Battery, 1st Battalion, 129th Field Artillery, holds the distinction of being the only D Battery in the Army. Field artillery batteries normally have A, B and C batteries. The battery was commanded by Capt. Harry S. Truman during World War I. In 1918, Harry S. Truman, in command of Battery D 129th Field Artillery, Missouri ARNG, is reported to have said, while engaging German troops in Brittany, "Right now, I'm where I want to be-in command of this battery. I'd rather be here than president of the United States". A congressional mandate designated the battery D Battery in honor of Truman, who served as president from 1945-53.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 128th and 129th Field Artillery  had some name and structural changes in early September 1999. This resulted from implementing the MTOE (Modified Table of Organization and Equipment) change with the Army's direction to support current doctrine. The new concept does away with service battery functions. There are sections in all firing batteries. Eliminated are some of the command structures while placing them closer to the firing battery. That makes them more under a firing battery function. The supply section stayed as the service detachment. Battalion motor section  stayed  in the service detachment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The official name changes are: Headquarters Headquarters Battery, 1st Battalion 129th Field Artillery changed to Headquarters Headquarters Service (-Detachment), 1st Battalion 129th Field Artillery; Service Battery, 1st Battalion 129th Field Artillery will change to Detachment 1, Headquarters Headquarters Service, 1st Battalion 129th Field Artillery.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With the readjustment, many people found themselves without a slot to fill in their individual units. But no one lost a job. The Adjutant General finds the best interest with keeping units in those communities. It made sense to split them into detachments. The detachments are smaller. Some people had to move. But each person was dealt with according to individual circumstance. The reduction in slots wasn't as much of an issue. Though the unit size was smaller by a few, the grade loss in the officer and enlisted level were absorbed through other similar units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-arty.htm</href>
+        <text>Artillery</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/135fa-bde.htm</href>
+        <text>135th FA Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/7wmd-cst.htm</Url>
+    <NameNode>7th WMD Civil Support Team</NameNode>
+    <FullName>7th WMD Civil Support Team</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft Leonard Wood</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MO</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/wmd-cst.htm</Url>
+        <Id>army/wmd-cst.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>WMD CST</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</Url>
+        <Id>/army/arng-mo.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Missouri National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Missouri</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mo.htm</href>
+        <h3>Missouri National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Ft Leonard Wood, MO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.moguard.com/units/MONG.units.7cst.htm</href>
+            <text>7th WMD Civil Support Team</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>7th WMD Civil Support Team</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 7th Civil Support Team (Weapons of Mass Destruction), also known as 7th CST, is a federally-funded Missouri National Guard unit stationed at Fort Leonard Wood, Mo.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 7th CST was one of the first 10 full-time CST units in the nation that entered service in 1999, 17 additional teams were activated in late 2000 and an additional five where announced to be activated in 2002. The 7th CST was officially certified for deployment by the Department of Defense on August 14, 2001. Originally designated "RAID" for Rapid Assessment and Initial Detection, the teams were renamed to emphasize their supporting role to civil authorities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Missouri National Guard stepped into a new role of combating weapons of mass destruction with the formation of the new 7th Military Support Detachment (MSD) Rapid Assessment and Initial Detection Element (RAID). This new 22-person unit, stationed at Fort Leonard Wood, is trained to respond to domestic incidents involving use of Weapons of Mass Destruction (WMD), particulary those involving the use of chemical, biological and nuclear weapons.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit consists of full-time National Guard positions that, upon completion of training and operation certification, will be on 24-hour availability with the ability to be depolyed within four hours of the incident. The MSD (RAID) had three teams in addition to the command staff, the teams included: operations, nuclear, biological and chemical (NBC) survey and medical assets. All soldiers assigned to the MSD (RAID) participated in intensive training over the next year, with the end goal of being fully certified as a team in January 2000.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the MSD (RAID) was to deploy to an area of operation in support of the local incident commander to: ASSESS a suspected chemical, biological or nuclear event; to ADVISE civilian responders regarding appropriate actions; and FACILITATE requests for assistance to expedite arrival of additional state and federal assets to help save lives, prevent human suffering, and mitigate great property damage.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 7th MSD (RAID) was one of ten units initially being formed nationwide. The stationing of these units is based on Department of Defense criteria and is in concert with the ten Federal Emergency Management Agency (FEMA) regions. Factors considered in making the decision were: demographics, threat assessment, location of high value targets, military airlift capability and the availability of other federal response assets. Based on these criteria and factors Missouri was selected. Other states selected are California, Colorado, Georgia, Illinois, Massachussetts, New York, Pennsylvania, Texas, and Washington. The 7th MSD (RAID) is positioned to provide initial response for Missouri, Iowa, Kansas and Nebraska.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The concept of the Weapons of Mass destruction response teams was based on a recommendation from the Secretary of Defense in 1997. Concern over the incidents such as the World Trade Center and Oklahoma City bombings and additional treats of domestic terorism, sparked the interest in development of the MSD (RAID) teams. Congress subsequently funded a conceptual study and based on the results included funding in the 1999 Defense Budget for the formation of the teams.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/hqda.htm</href>
+        <text>HQDA</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/osa.htm</href>
+        <text>SECARMY</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/doms.htm</href>
+        <text>DOMS</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/wmd-cst.htm</href>
+        <text>WMD CST</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

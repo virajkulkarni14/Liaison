@@ -12,6 +12,6 @@ namespace Liaison.Data.Demo.Organisations
         public string Name { get; set; }
         public string Acronym { get; set; }
         public List<string> Keywords { get; set; }
-        public Liaison.Helper.Enumerators.Services Service { get;set; }
+        public Liaison.Helper.Enumerators.ServicesBll Service { get;set; }
     }
 }

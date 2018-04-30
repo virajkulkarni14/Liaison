@@ -1,0 +1,1150 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</Url>
+    <NameNode>Naval Special Warfare Command</NameNode>
+    <FullName>Naval Special Warfare Command</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/navspecwaarcom.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>NAB Coronado</BaseName>
+        <Deployment>false</Deployment>
+        <Location>CA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/index.html</Url>
+        <Id>navy/index.html</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Navy</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/../dod/socom.htm</Url>
+        <Id>/navy/../dod/socom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Special Operations Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom-hist.htm</Url>
+        <Id>/navy/navspecwarcom-hist.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>History</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/nswg-1.htm</Url>
+        <FullName>Special Warfare Group ONE</FullName>
+        <Name>Special Warfare Group ONE</Name>
+        <Id>navy/nswg-1.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/nswg-2.htm</Url>
+        <FullName>Special Warfare Group TWO</FullName>
+        <Name>Special Warfare Group TWO</Name>
+        <Id>navy/nswg-2.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/sbr-1.htm</Url>
+        <FullName>Special Boat Squadron ONE</FullName>
+        <Name>Special Boat Squadron ONE</Name>
+        <Id>navy/sbr-1.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/sbr-2.htm</Url>
+        <FullName>Special Boat Squadron TWO</FullName>
+        <Name>Special Boat Squadron TWO</Name>
+        <Id>navy/sbr-2.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/nswdg.htm</Url>
+        <FullName>Special Warfare Development Group</FullName>
+        <Name>Special Warfare Development Group</Name>
+        <Id>navy/nswdg.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/navy/../dod/socom.htm</href>
+        <h3>Special Operations Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/nswg-1.htm</href>
+            <text>Special Warfare Group ONE</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/nswg-2.htm</href>
+            <text>Special Warfare Group TWO</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/sbr-1.htm</href>
+            <text>Special Boat Squadron ONE</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/sbr-2.htm</href>
+            <text>Special Boat Squadron TWO</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Naval Special Warfare Center</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/navy/nswdg.htm</href>
+            <text>Special Warfare Development Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>NAB Coronado, CA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/navy/navspecwarcom-hist.htm</href>
+        <h3>History</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>https://www.navsoc.navy.mil/script/default.asp</href>
+            <text>Naval Special Warfare Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Naval Special Warfare Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/navspecwaarcom.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare Command was commissioned on 16 April 1987 at the Naval Amphibious Base in Coronado, CA, and is the Naval component to the United States Special Operations Command headquartered in Tampa, FL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of Commander, Naval Special Warfare Command (COMNAVSPECWARCOM) is to prepare Naval Special Warfare (NSW) forces to carry out assigned missions and to develop maritime special operations strategy, doctrine, and tactics. COMNAVSPECWARCOM exercises operational control over all United States-based Naval Special Warfare Command training, operational control of all United States-based Naval Special Warfare forces and responsibility for the training, equipping, supporting, and providing trained and ready forces to the combatant commanders. The commander, Naval Special Warfare Command is a Navy Flag Officer, a Rear Admiral.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A tactical force with strategic impact, NSW mission areas include unconventional warfare, direct action, combating terrorism, special reconnaissance, foreign internal defense, information warfare, security assistance, counter-drug operations, personnel recovery and hydrographic reconnaissance. NSW forces can operate independently or integrate with other U.S. special operations forces or within U.S. Navy carrier battle groups and amphibious ready groups.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare units are organized, trained, and equipped to conduct special operations in maritime and riverine environments. They are deployed in small units worldwide in support of fleet and national operations. NSW provides an effective means to apply counterforce in conjunction with national policy and objectives in peacetime and across the spectrum of hostilities from peacetime operations to limited war to general war.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The major operational components of Naval Special Warfare Command include Naval Special Warfare Group ONE and Special Boat Squadron ONE in San Diego, CA, and Naval Special Warfare Group TWO and Special Boat Squadron TWO in Norfolk, VA. These components deploy SEAL Teams, SEAL Delivery Vehicle Teams and Special Boat Units worldwide to meet the training, exercise, contingency and wartime requirements of theater commanders. With approximately 5,000 total active-duty personnel--including 2,200 SEALs and 600 Special Warfare Combat Crewmembers (SWCC), and comprises less than one-tenth of one percent of U.S. Navy personnel.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare Groups (NSWG) are echelon II Captain (O6) major commands established by NAVSPECWARCOM at NAB Coronado and NAB Little Creek to equip, support, and provide command and control elements and trained and ready SEAL and SDV platoons and forces to the geographic CINCs. NSW Groups ONE and TWO are organized into:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Three SEAL Teams, comprised of eight 16-man platoons, which conduct reconnaissance, DA, UW, FID, and other operations in maritime or riverine environments;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>One SDV Team which operates and maintains submersible systems that deliver and recover SEALs in hostile areas and conduct reconnaissance and DA missions; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>NSW Units, which are small command and control elements located outside the continental United States, support other NSW forces assigned to theater SOCs or components of naval task forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A Naval Special Warfare Command Combat Service Support Teams (CSST) is assigned to each NSW Group to provide full-spectrum logistic support for designated SEAL Teams, Special Boat Units, NSW Task Groups/Task Units and/or special mission units. Tasking for each CSST includes three primary mission elements:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>OPLAN/CONPLAN and crisis-action logistic planning and coordination;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>In-theater contracting, small purchase and lease actions; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Comprehensive forward operating base support.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Within these mission elements, the CSST is responsible for force embarkation, load-planning, multi-modal transport coordination, combat cargo handling, in-theater logistic coordination, Military Liaison Officer/Defense Attaché Officer liaison, exercise related construction, infrastructure support, contingency engineering, expeditionary camp siting and development, camp maintenance, NBC decontamination, and defensive combat planning and execution.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In addition, Naval Special Warfare Task Groups (NSWTG), and Task Units (NSWTU), are task organized, tailored in size and composition to the mission, and resourced from NSWG and subordinate commands. They may operate unilaterally, jointly, or in combined operations. Their mission is to provide command and control, administration, and logistic support for assigned units. OPCON of designated NSW forces may be assigned to a JSOTF or with a fleet commander to support fleet amphibious and/or strike operations. The NSWTG and NSWTU are flexible in size and composition. Several NSWTUs can be operationally subordinate to a NSWTG, or a NSWTU could report directly to a JSOTF, if the scope of operations and size of the deployed force is limited.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Special Boat Squadrons (SBR) are echelon II Captain's major commands established by NAVSPECWARCOM at NAB Coronado and NAB Little Creek to equip, support, and provide trained and ready special operations ships and craft to the geographic CINCs. Each command is comprised of one or more active or reserve component Special Boat Units (SBUs) and CYCLONE Class Patrol Coastal (PC) ships.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Naval Special Warfare Center located on the Naval Amphibious Base in Coronado serves as the schoolhouse for much Naval Special Warfare training. It is a major component command of the Naval Special Warfare Command and is commanded by a NSW Captain (O-6). In addition to the 26 week BUD/S and nine week Special Warfare Combatant Crewman (SWCC) courses, the Center also conducts advanced maritime special operations training for NSW and other service component SOF personnel. The Center maintains a detachment at the Naval Amphibious Base, Little Creek, Virginia for selected training of personnel assigned to commands on the east coast.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>There are three types of personnel assigned to NAVSPECWARCOM: NSW Officers, Navy enlisted SEALS, and Special Warfar Combat Craft Crewmembers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>NSW Officers go through the identical Basic Underwater Demolition/SEAL (BUD/S) Training that enlisted personnel attend at the Naval Special Warfare Center. Following BUD/S, it generally takes an additional six months to one year for an officer to become fully qualified. A Naval Special Warfare Officer can expect to spend his entire career in a variety of special operations assignments ranging from operational SEAL and SDV Teams to Joint Staffs, or Naval Special Warfare Groups.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Navy enlisted SEAL is a highly competent and qualified member of the Special Operations Community. The distinguishing feature of Navy SEALs (Sea, Air, Land) is that SEALs are maritime special forces, as they strike from and return to the sea, taking their name from the elements in and from which they operate. Their stealth and clandestine methods of operation allow them to conduct multiple missions against targets that larger forces cannot approach undetected.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>All Navy SEALs go through the six month Basic Underwater Demolition/SEAL, (BUD/S), Training at the Naval Special Warfare Center. Upon completion of BUD/S, all SEALs attend Basic Airborne training and then report to their first operational SEAL or SDV Team. SEAL operators assigned to a SDV Team must also complete SDV school which is generally attended enroute to, or within three months of arrival at their new command. As an essential part of their qualification process, all SEALs must attend a three month SEAL Tactical Training (STT) course at their gaining command where they further enhance their operational skills and field craft. Upon completion of STT, SEALs are assigned to an operational SEAL platoon or SDV task unit for their initial operational assignment. The process of training, education, and qualification is continued throughout their careers through a combination of formal and informal processes including on-the-job skills training, and attendance at various service or SOF training commands, and civilian courses of instruction. Once qualified, and enlisted SEAL can expect to spend the remainder of his career in the special operations community.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/navspecwarcom-org.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>a</NodeType>
+        <Contents>@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #ga-ad {display: none;}
+}
+
+
+
+
+
+
+
+NEWSLETTER
+
+
+
+
+Join the GlobalSecurity.org mailing list
+
+
+
+
+
+
+Enter Your Email Address
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var ezzns4 = {0.05:504809,0.45:504824,0.80:504829,0.90:504830,1.80:504844,4.00:504861,0.25:504817,0.30:504819,1.00:504831,2.40:504851,0.10:504811,0.35:504821,0.40:504823,1.20:504835,1.60:504841,3.50:504859,1.50:504840,2.00:504848,2.20:504850,0.20:504815,0.60:504827,0.70:504828,1.30:504836,1.70:504842,1.90:504846,0.15:504814,0.50:504826,3.00:504857,4.50:504863,1.10:504833,1.40:504838,2.60:504853,2.80:504855,5.00:504865,};
+
+
+var ezoflbf_2_4 = function() { __ez.queue.addFunc('ReloadFromP_1107', 'IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.ReloadFromP', 1107, false, ['banger.js'], false, false, false, true); };
+var ezoflbf_4 = function() { eval(ez_write_tag([[336,280],'globalsecurity_org-medrectangle-1','ezslot_4']));
+		};Criteo.DisplayAd({
+    zoneid: 504844, containerid: 'crt-4', passbackcode: ezoflbf_4
+});
+
+
+	var __ezfl_sss_1107 = function() {
+		setTimeout(function(){
+			var ezflaun = IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.GetNameFromPositionId(1107);
+			if (typeof ezflaun != 'undefined' &amp;&amp; ezflaun.length &gt; 0) {
+				if (typeof ez_ad_units != undefined) {
+					for (i = 0; i &lt; ez_ad_units.length; i++) {
+						if (ezflaun.indexOf(ez_ad_units[i][1]) &gt;= 0) {
+							return false;
+						}
+					}
+				}
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.StoreStatSource(ezflaun, 47, 1.80);
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.RemoveSlotById(ezflaun);
+			}
+		}, 8000);
+	};
+	__ez.queue.addFunc('__ezfl_sss_1107', '__ezfl_sss_1107', null, false, ['banger.js'], false, false, false, true);</Contents>
+        <Href>images/navspecwarcom-org.gif</Href>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/nswg-1.htm</Url>
+    <NameNode>Naval Special Warfare Group ONE</NameNode>
+    <FullName>Naval Special Warfare Group ONE</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/navy/images/nswg-1.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>NAB Coronado</BaseName>
+        <Deployment>false</Deployment>
+        <Location>CA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</Url>
+        <Id>navy/navspecwarcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>NAVSPECWARCOM</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>NSW Unit ONE (NSWU-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>NSW Unit THREE (NSWU-3)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Delivery Vehicle Team ONE (SDVT-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Team ONE (ST-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Team THREE (ST-3)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Team FIVE (ST-5)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Mobile Communications Team (MCT)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Logistics &amp;amp; Support Unit</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>NAB Coronado, CA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Naval Special Warfare Group ONE</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Naval Special Warfare Group ONE</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/navy/images/nswg-1.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare Group ONE is located at NAB Coronado, CA. Naval Special Warfare Groups (NSWG) are echelon II Captain (O6) major commands established by NAVSPECWARCOM  to equip, support, and provide command and control elements and trained and ready SEAL and SDV platoons and forces to the geographic CINCs. NSW Groups ONE and TWO are organized into:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Three SEAL Teams, comprised of eight 16-man platoons, which conduct reconnaissance, DA, UW, FID, and other operations in maritime or riverine environments;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>One SDV Team which operates and maintains submersible systems that deliver and recover SEALs in hostile areas and conduct reconnaissance and DA missions; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>NSW Units, which are small command and control elements located outside the continental United States, support other NSW forces assigned to theater SOCs or components of naval task forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare Group ONE (NSWG 1) in Coronado, California, is one of the six major operational components of the Naval Special Warfare Command. It is commanded by a Navy Captain (O-6). NSWG 1 has under its operational and administrative control, SEAL Team ONE, SEAL Team THREE, SEAL Team FIVE, and SEAL Delivery Vehicle Team ONE. Administrative control of NSWU-1 AND NSWU-3 is with Naval Special Warfare Group ONE. The group deploys Naval Special Warfare forces worldwide to meet the training, exercise, contingency, and wartime requirements of the theater Commanders. Naval Special Warfare Group ONE is capable of task-organizing to support worldwide commitments as a deployed Naval Special Warfare Task Group (NSWTG), as they did during Desert Shield/Desert Storm. NSWG1 geographically concentrates on the Pacific and Central Commands areas of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</href>
+        <text>NAVSPECWARCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/nswg-2.htm</Url>
+    <NameNode>Naval Special Warfare Group TWO</NameNode>
+    <FullName>Naval Special Warfare Group TWO</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>NAB Little Creek</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</Url>
+        <Id>navy/navspecwarcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>NAVSPECWARCOM</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>NSW Unit TWO (NSWU-2)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>NSW Unit FOUR (NSWU-4)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>NSW Unit TEN (NSWU-10)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>RM Poole</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Team TWO (ST-2)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Team FOUR (ST-4)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SEAL Team EIGHT (ST-8)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Logistics &amp;amp; Support Unit</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>NAB Little Creek, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Naval Special Warfare Group TWO</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Naval Special Warfare Group TWO</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare Group TWO is located at  NAB Little Creek, VA. Naval Special Warfare Groups (NSWG) are echelon II Captain (O6) major commands established by NAVSPECWARCOM  to equip, support, and provide command and control elements and trained and ready SEAL and SDV platoons and forces to the geographic CINCs. NSW Groups ONE and TWO are organized into:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>Three SEAL Teams, comprised of eight 16-man platoons, which conduct reconnaissance, DA, UW, FID, and other operations in maritime or riverine environments;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>One SDV Team which operates and maintains submersible systems that deliver and recover SEALs in hostile areas and conduct reconnaissance and DA missions; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>NSW Units, which are small command and control elements located outside the continental United States, support other NSW forces assigned to theater SOCs or components of naval task forces.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Naval Special Warfare Group TWO (NSWG-2), located in Little Creek, VA, is the one of the six major operational components of the Naval Special Warfare Command. NSWG-2 is commanded  by a Navy Captain (O-6). NSWG-2 has under its operational and administrative control, SEAL Team TWO, SEAL Team FOUR, SEAL Team EIGHT, SEAL Delivery Vehicle Team TWO, Naval Special Warfare Unit FOUR and Naval Special Warfare Unit TEN. Administrative control of Naval Special Warfare Unit TWO and Naval Special Warfare Unit EIGHT is with Naval Special Warfare Group TWO. The group deploys Naval Special Warfare forces worldwide to meet training, exercise, contingency, and wartime requirements of the theater Commanders. Naval Special Warfare Group TWO is capable of task organizing to support worldwide commitments as a deployed Naval Special Warfare Task Group, NSWTG, as they did during Operation JUST CAUSE. Naval Special Warfare Group TWO geographically concentrates on the Atlantic, Europe and Southern Command areas of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</href>
+        <text>NAVSPECWARCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/sbr-1.htm</Url>
+    <NameNode>Special Boat Squadron ONE (SBR-1)</NameNode>
+    <FullName>Special Boat Squadron ONE (SBR-1)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Coronado</BaseName>
+        <Deployment>false</Deployment>
+        <Location>CA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</Url>
+        <Id>navy/navspecwarcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>NAVSPECWARCOM</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Patrol Coastal Maintenance Support Team ONE (MST-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patrol Coastal Maintenance Support Team THREE (MST-3)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SBU TWELVE (SBU-12)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>USS Hurricane (PC-3)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Monsoon (PC-4)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Squall (PC-7)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Zephyr (PC-8)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Coronado, CA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Special Boat Squadron ONE (SBR-1)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Special Boat Squadron ONE (SBR-1)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Special Boat Squadron ONE (SBR-1) located in Coronado, CA is one of the six major operational components of Naval Special Warfare Command. It is commanded by a Navy Captain (O-6). Special Boat Squadron ONE has under its operational and administrative control Special Boat Unit TWELVE and four Patrol Coastal Class (PC) ships, USS HURRICANE (PC-3), USS MONSON (PC-4), USS SQUALL (PC-7), and USS ZEPHYR (PC-8). The Squadron deploys PCs and Special Boat Unit, SBU, detachments worldwide to meet training, exercise, contingency, and wartime requirements of theater Commanders. Special Boat Squadron ONE geographically concentrates on the Pacific and Central areas of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</href>
+        <text>NAVSPECWARCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/sbr-2.htm</Url>
+    <NameNode>Special Boat Squadron TWO (SBR-2)</NameNode>
+    <FullName>Special Boat Squadron TWO (SBR-2)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Little Creek</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</Url>
+        <Id>navy/navspecwarcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>NAVSPECWARCOM</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Patrol Coastal Maintenance Support Team TWO (MST-2)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patrol Coastal Maintenance Support Team FOUR (MST-4)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patrol Coastal Maintenance Support Team SIX (MST-6)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Patrol Coastal Maintenance Support Team EIGHT (MST-8)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SBU TWENTY (SBU-20)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>SBU TWENTY TWO (SBU-22)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>USS Chinook (PC-9)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Cyclone (PC-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Firebolt (PC-10)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Sirocco (PC-6)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Shamal (PC-13)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Tempest (PC-2)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Thunderbolt (PC-12)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Typhoon (PC-5)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>USS Whirlwind (PC-11)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Little Creek, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Special Boat Squadron ONE (SBR-1)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Special Boat Squadron TWO (SBR-2)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Special Boat Squadron TWO (SBR-2) is based in Little Creek, VA and is one of the six major operational components of Naval Special Warfare Command. Special Boat Squadron TWO is commanded by a Navy Captain (O-6). Special Boat Squadron TWO has under its operational and administrative control Special Boat Unit TWENTY, Special Boat Unit TWENTY-TWO, and 9 Patrol Coastal Class, PC, ships. The PCs under Special Boat Squadron TWO are USS CYCLONE (PC-1), USS TEMPEST (PC-2), USS TYPHOON (PC-5), USS SIROCCO (PC-6), USS CHINOOK (PC-9), USS FIREBOLT (PC-10), USS WHIRLWIND (PC-11), USS THUNDERBOLT (PC-12) and USS SHAMAL (PC-13). SBU-26 reports administratively to Special Boat Squadron TWO. The squadron deploys PCs and SBU detachments worldwide to meet training, exercise, contingency and wartime requirements of theater Commanders. Special Boat Squadron TWO geographically concentrates on the Atlantic, Southern and Europe areas of responsibility.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</href>
+        <text>NAVSPECWARCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/navy/nswdg.htm</Url>
+    <NameNode>Naval Special Warfare Development Group (DEVGRU)
+Marine Research Facility (MARESFAC)
+SEAL Team 6 (SEAL Team Six)
+Mobility 6 (MOB Six)</NameNode>
+    <FullName>Naval Special Warfare Development Group (DEVGRU)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Dam Neck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Little Creek</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VA</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</Url>
+        <Id>navy/navspecwarcom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>NAVSPECWARCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/navy/../dod/jsoc.htm</Url>
+        <Id>/navy/../dod/jsoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>JSOC</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Equipment</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Navy</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer>Marine Research Facility (MARESFAC); SEAL Team 6 (SEAL Team Six); Mobility 6 (MOB Six)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/navy/../dod/jsoc.htm</href>
+        <h3>JSOC</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Dam Neck, VA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Little Creek, VA</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Resources</h3>
+        <li>
+          <li>
+            <href>http://www.specialoperations.com/Navy/NSWDG/default.html</href>
+            <text>Special Warfare Development Group</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Naval Special Warfare Development Group (DEVGRU)&lt;br&gt;
+&lt;strike&gt;Marine Research Facility (MARESFAC)&lt;/strike&gt;&lt;br&gt;
+&lt;strike&gt;SEAL Team 6 (SEAL Team Six)&lt;/strike&gt;&lt;br&gt;
+&lt;strike&gt;Mobility 6 (MOB Six)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>i</NodeType>
+        <Contents>On 25 January 2012, President Obama announced that he had "authorized an operation to rescue Jessica Buchanan, an American citizen who was kidnapped and held against her will for three months in Somalia."  Operation Octave Fusion had been launched by special operations forces, said to be members of the the Naval Special Warfare Development Group on 23 January 2011.</Contents>
+        <IsItalic>true</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Naval Special Warfare Development Group (DEVGRU), previously identified as Mobility 6 (MOB Six), Seal Team 6 (SEAL Team Six), and Marine Research Facility (MARESFAC), is based in Dam Neck, Virginia.  DEVGRU is responsible for US counter-terrorist operations, primarily in the maritime environment.  The DEVGRU has as a primary function intelligence, counter-intelligence, investigative, and national security work, and the provisions of Chapter 71 of Title 5 of the United States Code cannot be applied to this organization in a manner consistent with national security requirements and considerations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Training for SEAL Team Six was conducted throughout the United States and abroad, both on military and civilian facilities.  Exchange programs and joint training were expanded with the more experienced international teams such as Germany's GSG-9, Great Britain's Special Boat Squadrons (SBS), and France's combat divers.  In all cases, emphasis was placed on realism in training, in accordance with the "Train as you Fight, Fight as you Train" philosophy popular amongst most of the world's leading special operations and counter-terrorism units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>SEAL Team Six participated in a number of operations, both overt and covert, throughout the 1980's  before being revamped and renamed.  The reasons for these transformations were vague.  However the primary factor cited has often been the need for the unit to evolve out of a poor reputation of the group within the Navy.  SEAL Team Six was subsequently renamed as the Marine Research Facility (MARESFAC), and then Naval Special Warfare Development Group (DEVGRU).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The origins of DEVGRU and its predecessor organizations can be traced to the aftermath of the failed 1980 attempted to rescue American hostages at the Iranian Embassy as part of Operation Eagle Claw/Operation Evening Light.  Prior to that operation, the SEALs had already begun counter-terrorism training.  All 12 platoons in SEAL Team One on the West Coast had completed this training prior to the hostage rescue attempt.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On the East Coast, however, elements of the SEAL Team Two had taken the issue one step father.  They had formed a dedicated 2-platoon group known as MOB Six (short for Mobility Six) in anticipation of a maritime scenario requiring a counter-terrorism response, and had subsequently begun training to that end.  This included the development of advanced tactics such as fast roping.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Yet, as was the case with the US Army's initial counter-terrorism unit, Blue Light, and the activation of Delta Force, only one group was needed and could be recognized as official.  With the formal activation of SEAL Team Six (a name selected primarily to confuse Soviet intelligence as to the number of SEAL Teams in operation) in October 1980, MOB Six was demobilized.  A large number of members, however, including the former MOB Six commander, were asked to join the fledgling group.  With prior experience from these operators, aggressive leadership, and an accelerated training program, SEAL Team Six was declared mission-ready just 6 months later.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the 1980s, SEAL Team Six participated in a number of operations.  SEAL Team Six members were responsible for the rescue and evacuation of Governor Sir Paul Scoon from Grenada during Operation Urgent Fury.  Four SEALs were lost to drowning during helicopter insertion offshore.  Other aspect of the operation included the securing of a radio transmitter which resulted in heavy contact with Grenadian forces.  Six deployed to the site of the Achille Lauro hijacking in anticipation of a possible assault on the vessel in 1985.  The unit also took part in Operation Just Cause in 1989 as part of Task Force White, which included SEAL Team Two.  Their primary task, along with Delta Force, was the location and securing of Panamanian strongman Manuel Noriega.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A great deal of controversy was also generated in the 1980s, due to charges of misappropriation of funds and equipment by team members, as well as the conviction of unit founder Commander Richard Marcinko on charges of conspiracy, conflict of interest, making false claims against the government, and bribery.  He was sentenced to nearly 2 years in a Federal penitentiary in addition to being forced to pay a $10,000 fine.  Despite this turn of events, Marcinko was still revered in some SEAL circles as an almost mythical figure.  This status was attained, in no small part, to a best selling-book series, which centered on fictional maritime special operations and counter-terrorism.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was also active during the 1990s.   The unit again operated in Panama as part of a secret operation code-named "Pokeweed," which had as its goal the apprehension of Colombian drug lord Pablo Escobar.  The mission was unsuccessful due to poor pre-assault intelligence.  By some accounts, the unit was deployed from the US aircraft carrier USS Forrestal offshore, although other sources dispute this claim (the ship's summary history discloses no operations in Panamanian waters during 1990).  In 1991, SEAL Team Six reportedly recovered Haitian President Jean Bertrand Aristide under cover of darkness following the coup that deposed him.  Later in 1991, the unit was also part of contingency planning for the shooting down Saddam Hussein's personal helicopter with Stinger missiles, although this operation never got beyond the planning stage.  The unit reportedly deployed to Atlanta, Georgia as part of a large US counter-terrorist contingency plan for the 1996 Summer Olympics.  Whatever the case, the Federal Bureau of Investigation's Hostage Rescue Team (HRT) is generally responsible for domestic counter-terrorism and was the primary response unit for the event.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>By 2000, the US government described DEVGRU as having been established to oversee development of naval special warfare tactics, equipment, and techniques.  This, of course, was only partly true.  While the unit was under the direct command of Naval Special Warfare Command, however it was also a component of Joint Special Operations Command (JSOC) at Pope Air Force Base, North Carolina).  JSOC served as a joint command for other counter-terrorism units as well, such as the Army's Delta Force and the 160th Special Operations Aviation Regiment (SOAR).  It was believed that DEVGRU maintained its own helicopter support unit (possibly 2 squadrons with 18 HH-60H Seahawks for SEAL transport and support), but that the unit trained frequently with the 160th SOAR, especially in support of ship assaults, which frequently made use of the small MH-6 "Little Bird" type helicopters, operated exclusively by the 160th SOAR.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Organization and manpower of DEVGRU was a classified, and could only be guessed at.  It was estimated that DEVGRU numbered approximately 200 operators, broken down by teams, much like the British SAS and Delta Force.  It had been reported that there were 4 such teams within the group, assault units Red, Blue, Gold, and a special boat unit, Gray.  The missions of these units were, again, a cause for speculation, however it was logical that they were specialized amongst themselves, perhaps along the lines of the SAS: Mountain, Mobility, Boat, and HALO troops (within a single Squadron).  It was also possible that these units might have focused on specific target types instead, such as shipping, oil rigs, and structures, (although this scenario seems less likely due to the obvious need for all members of DEVGRU to be current and proficient should a large scale operation arise).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>There was also an administrative and testing section, which numbered approximately 300 personnel.  These individuals were responsible for the actual testing and development of new NAVSPECWAR equipment, including weapons.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It has been reported that DEVGRU was one of only a handful of US military units authorized to conduct preemptive actions against terrorists and terrorist facilities (NOTE: Red Cell once shared this charter, although it was never put into practice before the unit was disbanded). DEVGRU operators reportedly fire an average of 2,500 to 3,000 rounds per week in training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 1 May 2011, the United States announced that it had launched an operation into Pakistan from Afghanistan to apprehend Al-Qaeda leader Osama bin Laden.  Bin Laden was killed during the operation, reported to have been conducted by members of the Naval Special Warfare Development Group (DEVGRU; commonly referred to by an older title, Seal Team Six).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/index.html</href>
+        <text>Navy</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/navy/navspecwarcom.htm</href>
+        <text>NAVSPECWARCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

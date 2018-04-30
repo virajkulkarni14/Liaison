@@ -21,9 +21,9 @@ namespace Liaison.Biz.MilOrgs
 
         public string CurrentOpsLogo { get; set; }
 
-        public ServiceType ServiceTypeIdx { get; set; }
+        public ServiceTypeBLL ServiceTypeIdx { get; set; }
 
-        public Services ServiceId { get; set; }
+        public ServicesBll ServiceId { get; set; }
 
         public List<BaseOrg> Bases { get; set; }
 

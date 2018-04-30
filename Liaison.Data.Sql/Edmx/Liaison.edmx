@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="LiaisonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Rank">
+          <Key>
+            <PropertyRef Name="Symbol" />
+          </Key>
+          <Property Name="Symbol" Type="nvarchar" MaxLength="1" Nullable="false" />
+          <Property Name="Army" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Navy" Type="nvarchar" MaxLength="255" />
+          <Property Name="AirForce" Type="nvarchar" MaxLength="255" />
+          <Property Name="Joint" Type="nvarchar" MaxLength="255" />
+          <Property Name="Rank" Type="nvarchar" MaxLength="8" />
+          <Property Name="RankLevel" Type="int" />
+          <Property Name="InUse" Type="bit" />
+          <Property Name="NavyRank" Type="nvarchar" MaxLength="50" />
+          <Property Name="NavyRankAbbrev" Type="nvarchar" MaxLength="50" />
+          <Property Name="ArmyRank" Type="nvarchar" MaxLength="50" />
+          <Property Name="ArmyRankAbbrev" Type="nvarchar" MaxLength="50" />
+          <Property Name="AirForceRank" Type="nvarchar" MaxLength="50" />
+          <Property Name="AirForceRankAbbrev" Type="nvarchar" MaxLength="50" />
+          <Property Name="MarineRank" Type="nvarchar" MaxLength="50" />
+          <Property Name="MarineRankAbbrev" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Relationship">
+          <Key>
+            <PropertyRef Name="RelationshipId" />
+          </Key>
+          <Property Name="RelationshipId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RelationshipGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RelFrom" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RelTo" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RelTypeIdx" Type="int" Nullable="false" />
+          <Property Name="RelFromUnitId" Type="int" Nullable="false" />
+          <Property Name="RelToUnitId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="RelationshipType">
+          <Key>
+            <PropertyRef Name="RelationshipTypeId" />
+          </Key>
+          <Property Name="RelationshipTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Unit">
+          <Key>
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="UnitId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Number" Type="int" />
+          <Property Name="UseOrdinal" Type="bit" Nullable="false" />
+          <Property Name="MissionName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="UniqueName" Type="nvarchar" MaxLength="255" />
+          <Property Name="ServiceIdx" Type="int" Nullable="false" />
+          <Property Name="ServiceTypeIdx" Type="int" Nullable="false" />
+          <Property Name="TerritorialDesignation" Type="nvarchar" MaxLength="5" />
+          <Property Name="UnitGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RankSymbol" Type="nvarchar" MaxLength="1" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UnitIndex">
+          <Key>
+            <PropertyRef Name="UnitIndexId" />
+          </Key>
+          <Property Name="UnitIndexId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="IndexCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="UnitGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UnitId" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Relationship_RelationshipType">
+          <End Role="RelationshipType" Type="Self.RelationshipType" Multiplicity="1" />
+          <End Role="Relationship" Type="Self.Relationship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RelationshipType">
+              <PropertyRef Name="RelationshipTypeId" />
+            </Principal>
+            <Dependent Role="Relationship">
+              <PropertyRef Name="RelTypeIdx" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationshipFrom_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="Relationship" Type="Self.Relationship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Relationship">
+              <PropertyRef Name="RelFromUnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationshipTo_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="Relationship" Type="Self.Relationship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Relationship">
+              <PropertyRef Name="RelToUnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_Rank">
+          <End Role="Rank" Type="Self.Rank" Multiplicity="1" />
+          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rank">
+              <PropertyRef Name="Symbol" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="RankSymbol" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitIndex_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="UnitIndex" Type="Self.UnitIndex" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="UnitIndex">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LiaisonModelStoreContainer">
+          <EntitySet Name="Rank" EntityType="Self.Rank" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Relationship" EntityType="Self.Relationship" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="RelationshipType" EntityType="Self.RelationshipType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Unit" EntityType="Self.Unit" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UnitIndex" EntityType="Self.UnitIndex" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Relationship_RelationshipType" Association="Self.FK_Relationship_RelationshipType">
+            <End Role="RelationshipType" EntitySet="RelationshipType" />
+            <End Role="Relationship" EntitySet="Relationship" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationshipFrom_Unit" Association="Self.FK_RelationshipFrom_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="Relationship" EntitySet="Relationship" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationshipTo_Unit" Association="Self.FK_RelationshipTo_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="Relationship" EntitySet="Relationship" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_Rank" Association="Self.FK_Unit_Rank">
+            <End Role="Rank" EntitySet="Rank" />
+            <End Role="Unit" EntitySet="Unit" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitIndex_Unit" Association="Self.FK_UnitIndex_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="UnitIndex" EntitySet="UnitIndex" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="LiaisonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="UnitIndex">
+          <Key>
+            <PropertyRef Name="UnitIndexId" />
+          </Key>
+          <Property Name="UnitIndexId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="IndexCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="UnitGuid" Type="Guid" Nullable="false" />
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_UnitIndex_Unit" FromRole="UnitIndex" ToRole="Unit" />
+        </EntityType>
+        <EntityContainer Name="LiaisonEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="UnitIndexes" EntityType="Self.UnitIndex" />
+          <EntitySet Name="RelationshipTypes" EntityType="LiaisonModel.RelationshipType" />
+          <EntitySet Name="Relationships" EntityType="LiaisonModel.Relationship" />
+          <AssociationSet Name="FK_Relationship_RelationshipType" Association="LiaisonModel.FK_Relationship_RelationshipType">
+            <End Role="RelationshipType" EntitySet="RelationshipTypes" />
+            <End Role="Relationship" EntitySet="Relationships" />
+          </AssociationSet>
+          <EntitySet Name="Units" EntityType="LiaisonModel.Unit" />
+          <AssociationSet Name="FK_RelationshipFrom_Unit" Association="LiaisonModel.FK_RelationshipFrom_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="Relationship" EntitySet="Relationships" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationshipTo_Unit" Association="LiaisonModel.FK_RelationshipTo_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="Relationship" EntitySet="Relationships" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitIndex_Unit" Association="LiaisonModel.FK_UnitIndex_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="UnitIndex" EntitySet="UnitIndexes" />
+          </AssociationSet>
+          <EntitySet Name="Ranks" EntityType="LiaisonModel.Rank" />
+          <AssociationSet Name="FK_Unit_Rank" Association="LiaisonModel.FK_Unit_Rank">
+            <End Role="Rank" EntitySet="Ranks" />
+            <End Role="Unit" EntitySet="Units" />
+          </AssociationSet>
+          </EntityContainer>
+        <EntityType Name="RelationshipType">
+          <Key>
+            <PropertyRef Name="RelationshipTypeId" />
+          </Key>
+          <Property Name="RelationshipTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Relationships" Relationship="LiaisonModel.FK_Relationship_RelationshipType" FromRole="RelationshipType" ToRole="Relationship" />
+        </EntityType>
+        <EntityType Name="Relationship">
+          <Key>
+            <PropertyRef Name="RelationshipId" />
+          </Key>
+          <Property Name="RelationshipId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RelationshipGuid" Type="Guid" Nullable="false" />
+          <Property Name="RelFrom" Type="Guid" Nullable="false" />
+          <Property Name="RelTo" Type="Guid" Nullable="false" />
+          <Property Name="RelTypeIdx" Type="Int32" Nullable="false" />
+          <Property Name="RelFromUnitId" Type="Int32" Nullable="false" />
+          <Property Name="RelToUnitId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="RelationshipType" Relationship="LiaisonModel.FK_Relationship_RelationshipType" FromRole="Relationship" ToRole="RelationshipType" />
+          <NavigationProperty Name="RelationshipsFrom" Relationship="LiaisonModel.FK_RelationshipFrom_Unit" FromRole="Relationship" ToRole="Unit" />
+          <NavigationProperty Name="RelationshipsTo" Relationship="LiaisonModel.FK_RelationshipTo_Unit" FromRole="Relationship" ToRole="Unit" />
+          </EntityType>
+        <Association Name="FK_Relationship_RelationshipType">
+          <End Type="LiaisonModel.RelationshipType" Role="RelationshipType" Multiplicity="1" />
+          <End Type="LiaisonModel.Relationship" Role="Relationship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RelationshipType">
+              <PropertyRef Name="RelationshipTypeId" />
+            </Principal>
+            <Dependent Role="Relationship">
+              <PropertyRef Name="RelTypeIdx" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Unit">
+          <Key>
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="UnitId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Number" Type="Int32" />
+          <Property Name="UseOrdinal" Type="Boolean" Nullable="false" />
+          <Property Name="MissionName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="UniqueName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ServiceIdx" Type="Int32" Nullable="false" />
+          <Property Name="ServiceTypeIdx" Type="Int32" Nullable="false" />
+          <Property Name="TerritorialDesignation" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="UnitGuid" Type="Guid" Nullable="false" />
+          <Property Name="RankSymbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RelationshipsTo" Relationship="LiaisonModel.FK_RelationshipFrom_Unit" FromRole="Unit" ToRole="Relationship" />
+          <NavigationProperty Name="RelationshipsFrom" Relationship="LiaisonModel.FK_RelationshipTo_Unit" FromRole="Unit" ToRole="Relationship" />
+          <NavigationProperty Name="UnitIndexes" Relationship="LiaisonModel.FK_UnitIndex_Unit" FromRole="Unit" ToRole="UnitIndex" />
+          <NavigationProperty Name="Rank" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Unit" ToRole="Rank" />
+        </EntityType>
+        <Association Name="FK_RelationshipFrom_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.Relationship" Role="Relationship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Relationship">
+              <PropertyRef Name="RelFromUnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationshipTo_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.Relationship" Role="Relationship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Relationship">
+              <PropertyRef Name="RelToUnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitIndex_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.UnitIndex" Role="UnitIndex" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="UnitIndex">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Rank">
+          <Key>
+            <PropertyRef Name="Symbol" />
+          </Key>
+          <Property Name="Symbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <Property Name="Army" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Navy" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="AirForce" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Joint" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Rank1" Type="String" MaxLength="8" FixedLength="false" Unicode="true" />
+          <Property Name="RankLevel" Type="Int32" />
+          <Property Name="InUse" Type="Boolean" />
+          <Property Name="NavyRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="NavyRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ArmyRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ArmyRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AirForceRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AirForceRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MarineRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MarineRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Rank" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_Unit_Rank">
+          <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rank">
+              <PropertyRef Name="Symbol" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="RankSymbol" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="LiaisonModelStoreContainer" CdmEntityContainer="LiaisonEntities">
+          <EntitySetMapping Name="UnitIndexes">
+            <EntityTypeMapping TypeName="LiaisonModel.UnitIndex">
+              <MappingFragment StoreEntitySet="UnitIndex">
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="UnitIndexId" ColumnName="UnitIndexId" />
+                <ScalarProperty Name="IndexCode" ColumnName="IndexCode" />
+                <ScalarProperty Name="UnitGuid" ColumnName="UnitGuid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RelationshipTypes">
+            <EntityTypeMapping TypeName="LiaisonModel.RelationshipType">
+              <MappingFragment StoreEntitySet="RelationshipType">
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="RelationshipTypeId" ColumnName="RelationshipTypeId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Relationships">
+            <EntityTypeMapping TypeName="LiaisonModel.Relationship">
+              <MappingFragment StoreEntitySet="Relationship">
+                <ScalarProperty Name="RelToUnitId" ColumnName="RelToUnitId" />
+                <ScalarProperty Name="RelFromUnitId" ColumnName="RelFromUnitId" />
+                <ScalarProperty Name="RelTypeIdx" ColumnName="RelTypeIdx" />
+                <ScalarProperty Name="RelTo" ColumnName="RelTo" />
+                <ScalarProperty Name="RelFrom" ColumnName="RelFrom" />
+                <ScalarProperty Name="RelationshipGuid" ColumnName="RelationshipGuid" />
+                <ScalarProperty Name="RelationshipId" ColumnName="RelationshipId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Units">
+            <EntityTypeMapping TypeName="LiaisonModel.Unit">
+              <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="RankSymbol" ColumnName="RankSymbol" />
+                <ScalarProperty Name="UnitGuid" ColumnName="UnitGuid" />
+                <ScalarProperty Name="TerritorialDesignation" ColumnName="TerritorialDesignation" />
+                <ScalarProperty Name="ServiceTypeIdx" ColumnName="ServiceTypeIdx" />
+                <ScalarProperty Name="ServiceIdx" ColumnName="ServiceIdx" />
+                <ScalarProperty Name="UniqueName" ColumnName="UniqueName" />
+                <ScalarProperty Name="MissionName" ColumnName="MissionName" />
+                <ScalarProperty Name="UseOrdinal" ColumnName="UseOrdinal" />
+                <ScalarProperty Name="Number" ColumnName="Number" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ranks">
+            <EntityTypeMapping TypeName="LiaisonModel.Rank">
+              <MappingFragment StoreEntitySet="Rank">
+                <ScalarProperty Name="MarineRankAbbrev" ColumnName="MarineRankAbbrev" />
+                <ScalarProperty Name="MarineRank" ColumnName="MarineRank" />
+                <ScalarProperty Name="AirForceRankAbbrev" ColumnName="AirForceRankAbbrev" />
+                <ScalarProperty Name="AirForceRank" ColumnName="AirForceRank" />
+                <ScalarProperty Name="ArmyRankAbbrev" ColumnName="ArmyRankAbbrev" />
+                <ScalarProperty Name="ArmyRank" ColumnName="ArmyRank" />
+                <ScalarProperty Name="NavyRankAbbrev" ColumnName="NavyRankAbbrev" />
+                <ScalarProperty Name="NavyRank" ColumnName="NavyRank" />
+                <ScalarProperty Name="InUse" ColumnName="InUse" />
+                <ScalarProperty Name="RankLevel" ColumnName="RankLevel" />
+                <ScalarProperty Name="Rank1" ColumnName="Rank" />
+                <ScalarProperty Name="Joint" ColumnName="Joint" />
+                <ScalarProperty Name="AirForce" ColumnName="AirForce" />
+                <ScalarProperty Name="Navy" ColumnName="Navy" />
+                <ScalarProperty Name="Army" ColumnName="Army" />
+                <ScalarProperty Name="Symbol" ColumnName="Symbol" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/ags.htm</Url>
+    <NameNode>Adjutant General School</NameNode>
+    <FullName>Adjutant General School</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/ags.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tradoc.htm</Url>
+        <Id>army/tradoc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>TRADOC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/369ag.htm</Url>
+        <FullName>369th AG Battalion (AIT)</FullName>
+        <Name>369th AG Battalion (AIT)</Name>
+        <Id>army/369ag.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/369ag.htm</href>
+            <text>369th AG Battalion (AIT)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://agsssi-www.army.mil/</href>
+            <text>Adjutant General School</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Adjutant General School</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/ags.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Adjutant General School mission is to train leaders and soldiers in providing personnel service support for the Army of today and the 21st century through excellence in Doctrine, Training, Leader Development, Organization, Materiel, and Soldiers. Fort Jackson is the home of the Adjutant General Corps and the Soldier Support Institute.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/369ag.htm</Url>
+    <NameNode>369th AG Battalion (AIT)</NameNode>
+    <FullName>369th AG Battalion (AIT)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/369ag.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/ags.htm</Url>
+        <Id>army/ags.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Adjutant General School</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HQ/A Company - Cobras</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company - Bulldogs</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company - Cougars</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company - Knights</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>E Company - Eagles</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://usassi.army.mil/369/start.html</href>
+            <text>369th AG Battalion (AIT)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.369frg.com/</href>
+            <text>369th AG Battalion FRG</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>369th AG Battalion (AIT)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/369ag.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 369th Adjutant General Bn is to train soldiers for the total force by conducting advanced individual training for Adjutant General, Legal, and Finance specialties in a gender integrated training environment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 369th Adjutant General Battalion traces its lineage back to the campaigns in the Pacific Theater during World War II. Activated in November 1943 at Schofield Barracks, Hawaii, as the 74th Replacement Battalion, the unit was comprised of headquarters and headquarters detachment and four replacement companies. The unit saw action in the Western Pacific while performing the mission of processing replacements and battle casualties for the combat divisions of the Tenth Army. In June 1947, the unit was redesignated as the 369th Replacement Battalion and allotted to the Organized Reserves.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It remained in this status until it was inactivated again on Aug. 1, 1950 at Fort Jackson. Almost 37 years later, the unit was returned to the Active Army force when it was reactivated as the 369th Adjutant General Battalion on May 30, 1987. The mission of the unit is to serve as the United States Army's trainer for the conduct of Advanced Individual Training for all personnel and administration, legal and finance soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/ags.htm</href>
+        <text>Adjutant General School</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

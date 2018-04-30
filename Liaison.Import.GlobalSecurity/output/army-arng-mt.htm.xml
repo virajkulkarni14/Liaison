@@ -1,0 +1,1277 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+    <NameNode>Montana Army National Guard</NameNode>
+    <FullName>Montana Army National Guard</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/arng-mt.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Helena</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/95tc.htm</Url>
+        <FullName>95th Troop Command</FullName>
+        <Name>95th Troop Command</Name>
+        <Id>army/95tc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-163inf.htm</Url>
+        <FullName>1-163rd Infantry Battalion</FullName>
+        <Name>1-163rd Infantry Battalion</Name>
+        <Id>army/1-163inf.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-190fa.htm</Url>
+        <FullName>1-190th Field Artillery Battalion</FullName>
+        <Name>1-190th Field Artillery Battalion</Name>
+        <Id>army/1-190fa.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-112avn.htm</Url>
+        <FullName>1-112 AVN (LUH) (UH-1)</FullName>
+        <Name>1-112 AVN (LUH) (UH-1)</Name>
+        <Id>army/1-112avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/495trans.htm</Url>
+        <FullName>495th Transportation Battalion</FullName>
+        <Name>495th Transportation Battalion</Name>
+        <Id>army/495trans.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/208rgt.htm</Url>
+        <FullName>208th Regiment (RTI)</FullName>
+        <Name>208th Regiment (RTI)</Name>
+        <Id>army/208rgt.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>State Area Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/95tc.htm</href>
+            <text>95th Troop Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-163inf.htm</href>
+            <text>1-163rd Infantry Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-190fa.htm</href>
+            <text>1-190th Field Artillery Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-112avn.htm</href>
+            <text>1-112 AVN (LUH) (UH-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/495trans.htm</href>
+            <text>495th Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/208rgt.htm</href>
+            <text>208th Regiment (RTI)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>631st Chemical CO (RECON/DECON)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>83rd WMD CST</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Helena, MT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.state.mt.us/dma/index.htm</href>
+            <text>Montana Army National Guard</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Montana Army National Guard</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mt.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Department of Military Affairs oversees all activities of the Army and Air National Guard, Disaster and Emergency Services Division, and provides administrative support to the Veterans Affairs Division, which is administratively attached to the department. The department is administered by the Adjutant General and his staff, as provided for in section 2-15-1202, MCA.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The department manages a joint federal-state program that keeps in readiness trained and equipped military organizations for the Governor in the event of a state emergency and the President in the event of a national emergency. Federal agencies control the military strength and mobilization missions of the Montana Guard. The department also plans for and coordinates state responses in disaster and emergency situations (Title 10, Chapter 3, MCA). The department administers an environmental program for the Army National Guard. The department manages and cooperates with state and federal agencies in providing statewide services for discharged veterans and their families (Title 10 Chapter 2, MCA).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Montana Army National Guard was notified 14 September 2001 by the Department of Defense that security missions may potentially be assigned, as authorized by President Bush's declaration of a national emergency.  The Guard's headquarters issued a preparation order to three of its units - the 495th Transportation Battalion headquarters located in Kalispell, Company B(-) 1-163rd Infantry Battalion located in Great Falls, and Battery C(-) 1-190th Field Artillery Battalion located in Malta - directing them to prepare security teams for potential activation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mt-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Montana Guard was formed in 1867 to protect settlers against marauding Indians along the Bozeman trail.  The Montana regiments saw service in the Spanish American War, World War I and World War II, Korea, Vietnam and Desert Storm.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Montana National Guard was inducted into Federal service for one year during the period of September 16, 1940; September 23, 1940; and October 8, 1940.  The period of active duty was later extended eighteen months by Executive Order No. 8862, dated August 21, 1941.  They had completed only about two and one-half months of the latter period when the United States was treacherously attacked at Pearl Harbor. When the Montana National Guard was inducted, it consisted of a total of 119 officers, 1 Warrant Officer and 1,631 enlisted men.  At the date of induction into Federal service, the Montana National Guard consisted of the State Staff and Detachment; 163rd Infantry Regiment; Co. D, 116th Quartermaster Regiment; Co. D, 116th Medical Regiment; Hq. 2nd Battalion, 116th Quartermaster Regiment, and parts of the 81st Brigade Headquarters and 41st Division Headquarters. These troops were a part of the 41st Division comprised of troops from the states of Idaho, Montana, Oregon, Washington and Wymoing and were inducted into Federal service with the Division on September 16, 1940.  They remained at their home rendezvous for a few days until the process of induction was completed and then entrained for their permanent training station at Camp Murray and Fort Lewis, Washington.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In March 1942, the men of the 41st Division boarded the luxury liner Queen Elizabeth for the long trip to Australia, becoming some of the first American troops deployed overseas during the war.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mt-3.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the Spring of 1944, U.S. and Australian forces began "island hopping" to the Philippines, and the airfields on the island of Biak were the first U.S. objective.  Planners forecast a week-long operation, unaware that there were 11,500 Japanese on the island entrenched in large caves which honeycombed Biak's mountainous interior.  On May 27, 1944, the experienced veterans of the 41st Infantry Division, made up originally of National Guardsmen from Oregon, Washington, Idaho and Montana, landed unopposed on Biak.  It was a feint: the 41st, which had earned its "Jungleer" nickname in New Guinea, was about to enter its toughest fight of World War II.  Oregon's 162nd and 186th Infantry were moving inland toward the airfields when the enemy struck.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 163rd Infantry (Montana) was quickly brought in to join the horrible jungle fighting, where despite the heat and steep terrain, water was rationed to one canteen every 24 hours.   On June 15, I Corps commander Lt. Gen. Robert Eichelberger assumed command, prompting a new plan of attack.  On June 16, the 2nd Battalion, 186th Infantry, attacked to close a gap between their regiment and the 162nd.  The battalion overran dozens of machinegun nests, log bunkers and even a naval gun, and opened the battle's second phase when they discovered a second major cave system.  These caves were not cleared until June 27, and not until August 20 would the fight for Biak be declared over.   The brilliant Japanese use of natural defenses foreshadowed later fighting on Pelileu and Okinawa, and as on those more famous islands, the fighting on Biak was costly.   Only 10 percent of the Japanese defenders survived; the U.S. suffered some 400 killed and 2,000 wounded in action, most of them from the 41st Division.  Today, the proud heritage of the Jungleers is carried on by the 162nd and 186th Infantry Regiments of Oregon's 41st Infantry Brigade, and by Montana's 163rd Infantry and 163rd Cavalry Regiments.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 163rd Infantry Regiment, like the rest of the 41st Division, was deactivated without fanfare at the end of 1945. The unit that had begun as the Montana National Guard contained barely 20 percent Montanans at the end of the war, more than five years after the Montana National Guard had been inducted.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-mt-4.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In FY99 the Montana Army National Guard fulfilled its federal and state missions while meeting aggressive deployment challenges throughout the world in El Salvador, Honduras, Germany, Kahzakstan, Kyrgyzstan and Japan.  Montana stood up new units such as Troop E, 163d Cavalry, part of the NTC OPFOR 11th Armored Cavalry "Black Horse" Regiment.  Montana also began fielding new Army Division Redesign Strategy units with relevant and immediate real world missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The MTARNG led the Guard in military construction during FY99 with over $31 million of ongoing construction for several key facilities including Billings Armed Forces Reserve Center, Helena Armed Forces Reserve Center and Pistol and Rifle Qualification Ranges and Simulation Center.  Additionally, the Montana Army National Guard provided $4.6 million for the Distance Learning Initiative and $41.9 million for the Youth ChalleNGe Program in the state. The MTARNG successfully launched the Youth ChalleNGe Program by recruiting 124 students in its first year.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The MTARNG strengthened its presence in 28 local communities in FY99 through ongoing recruiting and counterdrug programs.  Successful community action projects included Christmas at Our House, American Cancer Society's Relay for Life, Race for the Cure, Kaleidoscope Food Drive and the Disabled American Veterans Homeless Stand Down.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/95tc.htm</Url>
+    <NameNode>95th Troop Command</NameNode>
+    <FullName>95th Troop Command</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Helena</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Montana</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-189avn.htm</Url>
+        <FullName>1-189 AVN</FullName>
+        <Name>1-189 AVN</Name>
+        <Id>army/1-189avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>639th QM Co - Kalispell</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1085th Med Co (Air Ambulance)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>443rd QM Co - Billings</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>631st Chem Co - Butte</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3669th GS Maint Co</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Troop E, 163rd Cav</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-189avn.htm</href>
+            <text>1-189 AVN</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Helena, MT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>95th Troop Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>95th Troop Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <text>Montana</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-189avn.htm</Url>
+    <NameNode>1st Battalion, 189th Aviation</NameNode>
+    <FullName>1st Battalion, 189th Aviation</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/189avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Helena</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Gowen Field</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Boise, ID</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/gowen.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/211avn.htm</Url>
+        <Id>army/211avn.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>211th Aviation</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-id.htm</Url>
+        <Id>/army/arng-id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Idaho National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>/army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Montana National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ut.htm</Url>
+        <Id>/army/arng-ut.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Utah National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Idaho</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-id.htm</href>
+        <h3>Idaho National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <h3>Montana National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ut.htm</href>
+        <h3>Utah National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company - Helena [MT ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company - Boise [ID ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company - West Jordan [UT ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Helena, MT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/gowen.htm</href>
+            <text>Gowen Field, Boise, ID</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.montanaguard.com/aviation189.html</href>
+            <text>1st Battalion 189th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www2.state.id.us/mil/army/cob,1-189.htm</href>
+            <text>1st Battalion 189th Aviation</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 189th Aviation</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/189avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Montana National Guard's 1-189th (Combat Support Aviation Battalion), nicknamed "The Vigilantes",  fly the UH-60A Black Hawk.  This helicopter, built by United Technologies Sikorsky Aircraft, has the highest state of the art technology to perform in today's modern battlefield. The Black Hawks can fly soldiers to and from the battle zone, fight forest  fires here in Montana, and provide much needed supplies to victims of natural disasters.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The B Company, 1-189 Combat Support Aviation Battalion is located in Boise at Gowen Field, ID. The missions of the National Guard differ from the Army in that the National Guard typically supports three missions instead of one primary mission. The Wartime Mission is to provide movement of personnel and equipment for combat support and combat service support corps aviation Brigade operations. 
+The State Mission is to provide units/personnel trained and equipped for immediate deployment in support of natural disasters and civil disturbances within the State of Idaho as an aid to civil authorities. The Community Support Mission is to provide units/personnel in support of community events/activities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Members of the unit share a common thread: loyalty to one another and to the reputation of their unit. Each new soldier is mentored and trained by experienced and exceptional trainers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As Utah's only lift helicopter company, the Company is always on the move. The aviators and crewmembers of the unit's seven, UH-60 Blackhawk helicopters are so busy supporting other units, they never find themselves short of challenges. During training year 1999, the unit trained extensively in the difficult task of multi-ship external load operations with night vision goggles. During the next training year, the unit will focus much of their attention on Tactical Operations to become more of an asset to the 19th Special Forces Group. In addition to preparing for combat missions, the Blackhawk crews support the community by fighting fires, engaging in drug interdiction activities, and performing search, rescue and VIP transport.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/i-corps.htm</href>
+        <text>I Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/66avn-bde.htm</href>
+        <text>66th Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/211avn.htm</href>
+        <text>211th Aviation</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-163inf.htm</Url>
+    <NameNode>1st Battalion, 163rd Mechanized Infantry</NameNode>
+    <FullName>1st Battalion, 163rd Mechanized Infantry</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-163in.gif</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/116cav-bde.htm</Url>
+        <Id>army/116cav-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>116th Armor Cavalry</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>/army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Montana National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Montana</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <h3>Montana National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company (BFV) - Billings</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company (BFV) - Great Falls</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company (BFV) - Missoula</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion, 163rd Mechanized Infantry</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 163rd Mechanized Infantry</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-163in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The official reports emanating from General Douglas MacArthur's headquarters in the Southwest Pacific area and the War Department during World War II recognized the 163rd Infantry Regiment as being instrumental in three key Pacific campaigns: the Papuan Campaign (1943); the New Guinea Campaign (1944); and the Southern Philippine Campaign (1945). In each of these campaigns the 163rd had one or more major battle victories and successful subordinate operations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the Papuan Campaign, as an organization of the 41st Infantry Division, the 163rd Infantry joined with Australian veterans to win the Battle of Sanananda, the final bloody struggle of the Buna-Gona Operation, which was recorded as the first land defeat of Japanese forces during World War II. In the New Guinea Campaign, Montana's Regiment seized the key Aitape Airfield from Japanese forces with minor casualties and then stormed Wakde Island, under point-blank automatic fire, and defenses of the Toem Foreshore across from Wakde Island reducing and eliminating further Japanese resistance.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 163rd provided reinforcements in the last great battle for New Guinea--the Battle of Biak Island, where they besieged and overran key terrain held by stubborn Japanese defenders called the Ibdi Pocket, a labyrinth of jagged coral ridges and thick jungle; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 163rd's final combat actions occurred in the Southern Philippine Campaign, where operations began with a hard-won victory in the major Battle of Zamboanga on Mindanao Island, and subsequently the Regiment mounted a combat operation to seize the critical Sulu Archipelago and fought and won the bloody Battle of Jolo; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>I the Regiment's final combat operation of World War II, the 3rd Battalion, 163rd Infantry Regiment was called upon to reinforce the United States 24th Infantry Division and greatly assisted in capturing the city of Calinan located in the abaca jungles of Mindanao; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>When World War II ended, the 163rd Infantry Regiment was training for the invasion of Japan and actually served as occupational forces from the end of hostilities to December 1945.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>About 200  members of the Guard's 163rd Infantry Battalion from Billings to Missoula were called up at the end of July 2001 to help battle blazes have charred more than 300,000 acres statewide and burned 50 homes in the Bitterroot Valley. The local National Guard soldiers had just finished two weeks of annual training in the desert and been home only a couple of days when they got orders to report to duty in 48 hours. Most of them had never fought fires before, but after two days of training at Fort Harrison near Helena, they were sent to help with the Cave Gulch fire near Canyon Ferry. With that experience under their belts, they were sent to front-line duty on the Boulder fires south of Helena.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Soldiers from Company B, 1st Battalion, 163rd Mechanized Infantry, Montana Army National Guard returned to their drop point following a day of fighting the Cave Gulch Fire located near Canyon Ferry, Mont. on Aug. 2, 2000. More than 2,300 servicemembers from the Army, Marines, Air and Army Guard and Air Force Reserve were conducting firefighting and support operations for the Western wildfires in response to requests from the National Interagency Firefighting Center in Boise, Idaho, and as directed by the governors of several states.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In July 2001 a reinforced company of 154 Montana National Guard troops from the 1st Battalion of the 163rd Mechanized Infantry  prepared for its six-month tour in Bosnia. The troops had been warned to pay attention to their training as peacekeeping forces were being steadily reduced.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Tm A/1-163 Infantry (Mech) deployed on 21 February 2002 as part of Task Force 1-151 Infantry to Bosnia for Operation Joint Forge (SFOR 11). The unit redeployed on 15 September 2002 and was demobilized at FT Dix, NJ.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/i-corps.htm</href>
+        <text>I Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/116cav-bde.htm</href>
+        <text>116th Armor Cavalry</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-190fa.htm</Url>
+    <NameNode>1st Battalion - 190th Field Artillery</NameNode>
+    <FullName>1st Battalion - 190th Field Artillery</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-190fa.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Billings</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/115fa-bde.htm</Url>
+        <Id>army/115fa-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>115th FA Bde</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>/army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Montana National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Montana</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <h3>Montana National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Battery - Miles City</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Battery - Culbertson</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Battery - Malta</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>443rd POL Co</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Billings, MT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 190th Field Artillery</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 190th Field Artillery</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-190fa.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Montana Army National Guard has formed a new Artillery unit, the 1-190th Field Artillery, in Eastern Montana.  The 1-190th FA brings with it new technology, challenges and a wealth of personal opportunities. The Field Artillery, often called "The King of Battle", has been used to influence the outcome of every conflict since the dawn of the fire arms age.  Field Artillery provides the fire power "Punch" on today's modern battlefield.  The M-198 cannons are the finest, most accurate Artillery gun tubes in the world.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/i-corps.htm</href>
+        <text>I  Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/i-corps-arty.htm</href>
+        <text>Artillery</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/115fa-bde.htm</href>
+        <text>115th FA Bde</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-112avn.htm</Url>
+    <NameNode>1st Battalion, 112th Aviation Regiment</NameNode>
+    <FullName>1st Battalion, 112th Aviation Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-112avn.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Bismarck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>ND</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>/army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Montana National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</Url>
+        <Id>/army/arng-nd.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>North Dakota National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ca.htm</Url>
+        <Id>/army/arng-ca.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>California National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Montana</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <h3>Montana National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nd.htm</href>
+        <h3>North Dakota National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ca.htm</href>
+        <h3>California National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC [ND ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company [ND ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company - Helena [MT ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company - Helena [MT ARNG]</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company [CA ARNG]</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>UH-1</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Bismarck, ND</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.guard.bismarck.nd.us/units/112th_aviation_battalion.htm</href>
+            <text>1st Battalion, 112th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.montanaguard.com/aviation112.html</href>
+            <text>1st Battalion, 112th Aviation</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>http://www.geocities.com/Pentagon/Quarters/2931/</href>
+            <text>Co. A 1-112th Avn (LUH)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 112th Aviation Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-112avn.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 1-112th Aviation is to provide light utility aircraft for staff transportation and air movement of personnel and equipment in support of corps and division operations. The 1-112th Aviation Battalion (LUH - Light Utility Helicopter) is divided between the North Dakota and Montana Army National Guard.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The diverse mission of companies B and C in Montana are both designed to include troop transport, external load transport (sling loads), and casualty evacuation (CASEVAC). In the past, Montana Army National Guard's UH-1H (Huey) Helicopters have been called upon to support fire fighting missions in our national forests,  search and rescue missions during bad storms, and support federal, state and local law enforcement agencies. The helicopter companies are teams of soldiers who directly support the aircraft either through maintenance efforts, supply and logistical support, or by providing food and fuels etc.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 112th Aviation Regiment, was activated on 1 Septmeber 1995 as a parent regiment under the US Army Regimental System.   It is a split state battalion with HHC and Company A located in North Dakota and B and C Companies located in Montana and D Company located in California.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/495trans.htm</Url>
+    <NameNode>495th Transportation Battalion</NameNode>
+    <FullName>495th Transportation Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Kalispell</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Montana</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Kalispell, MT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>495th Transportation Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>495th Transportation Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Army National Guard members of the HHD 495th Motor Transportation Battalion in Kalispell and the 639th Quartermaster Co. in Kalispell and Libby were among the first soldiers mobilized to help provide road security for the Bitterroot Valley fires in August 2000. Soldiers manned 20 checkpoints 24 hours a day and assisted with evacuations when necessary. Soldiers jumped into action in early August with only a three-hour notice to pack up and head out. They were the first troops mobilized to provide road-closure security for the Bitterroot fires.  Lower temperatures, higher humidity and less wind helped firefighters contain the Elk Mountain fire west of Tally Lake and cancelled an evacuation order for the Pinkham Creek area near Eureka. Because the Kalispell Guard unit was the first to mobilize, there were initial problems with transportation, communication and supplies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <text>Montana</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/208rgt.htm</Url>
+    <NameNode>208th Regiment (Regional Training Institute)</NameNode>
+    <FullName>208th Regiment (Regional Training Institute)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/208rgt.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Helena</BaseName>
+        <Deployment>false</Deployment>
+        <Location>MT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</Url>
+        <Id>army/arng-mt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Montana</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Helena, MT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>208th Regiment (Regional Training Institute)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>208th Regiment (Regional Training Institute)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/208rgt.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/208rgt-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-mt.htm</href>
+        <text>Montana</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

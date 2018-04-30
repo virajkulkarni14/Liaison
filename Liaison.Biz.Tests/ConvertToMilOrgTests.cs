@@ -35,9 +35,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/amc", army1.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQU1D.png", army1.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Command, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, army1.ServiceTypeIdx);
             Assert.AreEqual(null, army1.USState);
 
             Assert.AreEqual(1, army1.Bases.Count);
@@ -106,9 +106,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/87-arsc", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/87-arsc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJTQyAwMDg3.png", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Command, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Reserve, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Reserve, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hschhqbn.USState);
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
@@ -174,9 +174,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/1-army", army1.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.png", army1.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.FieldArmy, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, army1.ServiceTypeIdx);
             Assert.AreEqual(null, army1.USState);
 
             Assert.AreEqual(1, army1.Bases.Count);
@@ -245,9 +245,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/1-id", division.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1-id", division.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUQgMDAwMQ.png", division.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, division.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, division.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, division.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, division.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, division.ServiceTypeIdx);
             Assert.AreEqual(null, division.USState);
 
             Assert.AreEqual(2, division.Bases.Count);
@@ -327,9 +327,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/38-id", division.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/38-id", division.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUQgMDAzOA.png", division.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, division.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, division.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, division.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, division.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, division.ServiceTypeIdx);
             Assert.AreEqual("IN", division.USState);
 
             Assert.AreEqual(1, division.Bases.Count);
@@ -388,9 +388,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/1-army/div-west", army1.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.png", army1.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, army1.ServiceTypeIdx);
 
             Assert.AreEqual(1, army1.Bases.Count);
 
@@ -475,9 +475,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/1-army/div-east", army1.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.png", army1.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Division, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, army1.ServiceTypeIdx);
             Assert.AreEqual(null, army1.USState);
 
             Assert.AreEqual(1, army1.Bases.Count);
@@ -562,9 +562,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/408-csb", army1.CurrentOpsUrl);
             Assert.AreEqual("", army1.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, army1.ServiceTypeIdx);
 
             Assert.AreEqual(1, army1.Bases.Count);
 
@@ -632,9 +632,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/4-cav-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);            
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);            
 
             Assert.AreEqual(1, brig.Bases.Count);
 
@@ -698,9 +698,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/5-armored-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);
 
             Assert.AreEqual(1, brig.Bases.Count);
 
@@ -785,9 +785,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/177-armored-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);
 
             Assert.AreEqual(1, brig.Bases.Count);
 
@@ -851,9 +851,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/157-in-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSU4gQkRFIDAxNTc.png", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);
 
             Assert.AreEqual(2, brig.Bases.Count);
 
@@ -926,9 +926,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/166-avn-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVZOIEJERSAwMTY2.png", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);
 
             Assert.AreEqual(1, brig.Bases.Count);
 
@@ -1008,9 +1008,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/72-fa-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgRkEgQkRFIDAwNzI.png", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);
 
             Assert.AreEqual(2, brig.Bases.Count);
 
@@ -1091,9 +1091,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/402-fa-bde", brig.CurrentOpsUrl);
             Assert.AreEqual("", brig.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, brig.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, brig.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, brig.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, brig.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, brig.ServiceTypeIdx);
 
             Assert.AreEqual(2, brig.Bases.Count);
 
@@ -1185,9 +1185,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/76-ibct", bct_76.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgSUJDVCAwMDc2.png", bct_76.CurrentOpsLogo);
             Assert.IsTrue(((BrigadeOrg)bct_76).IsBrigadeCombatTeam);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, bct_76.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, bct_76.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Brigade, bct_76.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, bct_76.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, bct_76.ServiceTypeIdx);
             Assert.AreEqual("IN", bct_76.USState);
 
             Assert.AreEqual(1, bct_76.Bases.Count);
@@ -1246,9 +1246,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/1-msg", mobsuptgru.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1-msg", mobsuptgru.CurrentOpsUrl);
             Assert.AreEqual("", mobsuptgru.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, mobsuptgru.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, mobsuptgru.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Group, mobsuptgru.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Reserve, mobsuptgru.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Reserve, mobsuptgru.ServiceTypeIdx);
             Assert.AreEqual(null, mobsuptgru.USState);
 
             Assert.AreEqual(1, mobsuptgru.Bases.Count);
@@ -1311,9 +1311,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/1-id/hhbn", hhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1-id/hhbn", hhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battalion, hhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, hhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hhqbn.USState);
 
             Assert.AreEqual(1, hhqbn.Bases.Count);
@@ -1372,9 +1372,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/38-id/hhbn", hhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/38-id/hhbn", hhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battalion, hhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, hhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, hhqbn.ServiceTypeIdx);
             Assert.AreEqual("IN", hhqbn.USState);
 
             Assert.AreEqual(1, hhqbn.Bases.Count);
@@ -1433,9 +1433,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/1101-msbn", mobsuptbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1101-msbn", mobsuptbn.CurrentOpsUrl);
             Assert.AreEqual("", mobsuptbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, mobsuptbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, mobsuptbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battalion, mobsuptbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Reserve, mobsuptbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Reserve, mobsuptbn.ServiceTypeIdx);
             Assert.AreEqual(null, mobsuptbn.USState);
 
             Assert.AreEqual(1, mobsuptbn.Bases.Count);
@@ -1498,9 +1498,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/1105-msbn", mobsuptbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/1105-msbn", mobsuptbn.CurrentOpsUrl);
             Assert.AreEqual("", mobsuptbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, mobsuptbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, mobsuptbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battalion, mobsuptbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Reserve, mobsuptbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Reserve, mobsuptbn.ServiceTypeIdx);
             Assert.AreEqual(null, mobsuptbn.USState);
 
             Assert.AreEqual(1, mobsuptbn.Bases.Count);
@@ -1563,9 +1563,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/360-rgt/3-bn", mobsuptbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/360-rgt/3-bn", mobsuptbn.CurrentOpsUrl);
             Assert.AreEqual("", mobsuptbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, mobsuptbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, mobsuptbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battalion, mobsuptbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Reserve, mobsuptbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Reserve, mobsuptbn.ServiceTypeIdx);
             Assert.AreEqual(null, mobsuptbn.USState);
 
             Assert.AreEqual(1, mobsuptbn.Bases.Count);
@@ -1631,9 +1631,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/363-rgt/2-bn", mobsuptbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/363-rgt/2-bn", mobsuptbn.CurrentOpsUrl);
             Assert.AreEqual("", mobsuptbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, mobsuptbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, mobsuptbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battalion, mobsuptbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Reserve, mobsuptbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Reserve, mobsuptbn.ServiceTypeIdx);
             Assert.AreEqual(null, mobsuptbn.USState);
 
             Assert.AreEqual(1, mobsuptbn.Bases.Count);
@@ -1705,9 +1705,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/38-id/hhbn/hsc", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/38-id/hhbn/hsc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual("IN", hschhqbn.USState);
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
@@ -1766,9 +1766,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/76-ibct/hhc", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/76-ibct/hhc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual("IN", hschhqbn.USState);
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
@@ -1827,9 +1827,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/177-armored-bde/hhc", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/177-armored-bde/hhc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.SquadronCavalry, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hschhqbn.USState);
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
@@ -1888,9 +1888,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/157-in-bde/hhc", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/157-in-bde/hhc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hschhqbn.USState);
 
             Assert.AreEqual(2, hschhqbn.Bases.Count);
@@ -1958,9 +1958,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/4-cav-bde/hht", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/4-cav-bde/hht", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.SquadronCavalry, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hschhqbn.USState);
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
@@ -2019,9 +2019,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/166-avn-bde/hhc", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/166-avn-bde/hhc", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.SquadronCavalry, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hschhqbn.USState);
 
             Assert.AreEqual(1, hschhqbn.Bases.Count);
@@ -2080,9 +2080,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/72-fa-bde/hhb", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/72-fa-bde/hhb", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Battery, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual(null, hschhqbn.USState);
 
             Assert.AreEqual(2, hschhqbn.Bases.Count);
@@ -2152,9 +2152,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/38-id/hhbn/co-a", hschhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/38-id/hhbn/co-a", hschhqbn.CurrentOpsUrl);
             Assert.AreEqual("", hschhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, hschhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, hschhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, hschhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, hschhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, hschhqbn.ServiceTypeIdx);
             Assert.AreEqual("IN", hschhqbn.USState);
 
             Assert.AreEqual(0, hschhqbn.Bases.Count);
@@ -2204,9 +2204,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("us/army/38-id/hhbn/co-c", c_coyhhqbn.CurrentOpsRef);
             Assert.AreEqual("https://currentops.com/unit/us/army/38-id/hhbn/co-c", c_coyhhqbn.CurrentOpsUrl);
             Assert.AreEqual("", c_coyhhqbn.CurrentOpsLogo);
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, c_coyhhqbn.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, c_coyhhqbn.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Company, c_coyhhqbn.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Volunteer, c_coyhhqbn.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Volunteer, c_coyhhqbn.ServiceTypeIdx);
             Assert.AreEqual("IN", c_coyhhqbn.USState);
 
             Assert.AreEqual(1, c_coyhhqbn.Bases.Count);
@@ -2265,9 +2265,9 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual("https://currentops.com/unit/us/army/1-army/div-east/hhd", army1.CurrentOpsUrl);
             Assert.AreEqual("https://currentops.com/img/page-header-img/c3NpL1VTIEFSTVkgQVJNWSAwMDAx.png", army1.CurrentOpsLogo);
 
-            Assert.AreEqual(Liaison.Helper.Enumerators.Services.Army, army1.ServiceId);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServicesBll.Army, army1.ServiceId);
             Assert.AreEqual(Liaison.Helper.Enumerators.UnitType.Detachment, army1.UnitTypeId);
-            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceType.Active, army1.ServiceTypeIdx);
+            Assert.AreEqual(Liaison.Helper.Enumerators.ServiceTypeBLL.Active, army1.ServiceTypeIdx);
             Assert.AreEqual(null, army1.USState);
 
             Assert.AreEqual(1, army1.Bases.Count);

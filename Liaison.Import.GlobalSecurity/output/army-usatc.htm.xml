@@ -1,0 +1,2285 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/usatc.htm</Url>
+    <NameNode>US Army Training Center</NameNode>
+    <FullName>US Army Training Center</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usaac.htm</Url>
+        <Id>army/usaac.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>USAAC</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</Url>
+        <FullName>1st Basic Combat Training Brigade</FullName>
+        <Name>1st Basic Combat Training Brigade</Name>
+        <Id>army/1bct-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</Url>
+        <FullName>4th Basic Combat Training Brigade</FullName>
+        <Name>4th Basic Combat Training Brigade</Name>
+        <Id>army/4bct-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/victory-bde.htm</Url>
+        <FullName>Victory Brigade</FullName>
+        <Name>Victory Brigade</Name>
+        <Id>army/victory-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</href>
+            <text>1st Basic Combat Training Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</href>
+            <text>4th Basic Combat Training Brigade</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/victory-bde.htm</href>
+            <text>Victory Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/</href>
+            <text>US Army Training Center</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>US Army Training Center</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June 1973, Fort Jackson was designated as a U.S. Army Training Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaac.htm</href>
+        <text>USAAC</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</Url>
+    <NameNode>1st Basic Combat Training Brigade
+"First Team"</NameNode>
+    <FullName>1st Basic Combat Training Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1bct-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usatc.htm</Url>
+        <Id>army/usatc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Training Center</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-13in.htm</Url>
+        <FullName>2-13 IN</FullName>
+        <Name>2-13 IN</Name>
+        <Id>army/2-13in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/3-13in.htm</Url>
+        <FullName>3-13 IN</FullName>
+        <Name>3-13 IN</Name>
+        <Id>army/3-13in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-28in.htm</Url>
+        <FullName>1-28 IN</FullName>
+        <Name>1-28 IN</Name>
+        <Id>army/1-28in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-28in.htm</Url>
+        <FullName>2-28 IN</FullName>
+        <Name>2-28 IN</Name>
+        <Id>army/2-28in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-60in.htm</Url>
+        <FullName>2-60 IN</FullName>
+        <Name>2-60 IN</Name>
+        <Id>army/2-60in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-13in.htm</href>
+            <text>2-13 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3-13in.htm</href>
+            <text>3-13 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-28in.htm</href>
+            <text>1-28 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-28in.htm</href>
+            <text>2-28 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-60in.htm</href>
+            <text>2-60 IN</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://jackson-www.army.mil/1BDE/</href>
+            <text>1st Basic Combat Training Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Basic Combat Training Brigade
+&lt;br&gt;"First Team"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1bct-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 1st Basic Combat Training Brigade is to conduct Basic Combat Training to produce soldiers who understand and are guided by the Army Core Values, have been trained on basic Soldier skills, are physically ready for Advanced Individual Training, and display appropriate discipline and motivation. The unit also conducts training in conjunction with the Reserve Component, executes the "See It Through" Program and operates the ATC Holding Unit.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaac.htm</href>
+        <text>USAAC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"First Team"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-13in.htm</Url>
+    <NameNode>2nd Battalion - 13th Infantry Regiment"First at Vicksburg"</NameNode>
+    <FullName>2nd Battalion - 13th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-13in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</Url>
+        <Id>army/1bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>A Company
+B Company
+C Company
+D Company
+E Company
+F Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/213th/213th.htm</href>
+            <text>2nd Battalion - 13th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion - 13th Infantry Regiment
+&lt;br&gt;"First at Vicksburg"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/2-13in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/2-13in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</href>
+        <text>1st BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"First at Vicksburg"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/3-13in.htm</Url>
+    <NameNode>3rd Battalion - 13th Infantry Regiment
+"First at Vicksburg"</NameNode>
+    <FullName>3rd Battalion - 13th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/3-13in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</Url>
+        <Id>army/1bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>A Company "Gators"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company "Bulldogs"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company "Hardrock"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company "Devil Dogs"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>E Company "Patriots"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>F Company "Falcons"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/313/index.htm</href>
+            <text>3rd Battalion - 13th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>3rd Battalion - 13th Infantry Regiment
+&lt;br&gt;"First at Vicksburg"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/3-13in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 3r Battalion, 13th Infantry Regiment, is to conduct basic combat training for volunteers entering the U.S. Army; develop soldiers who understand and are guided by the 7 Army core values, have been trained on basic soldier skills, are physically ready for their Advanced Individual Training (AIT), and who display appropriate discipline and motivation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>War Department files of the 13th Infantry Regiment prior to its reconstitution in 1861 are unavailable. However, it has been established that during the first postwar expansion of the United States Army following the revolution, the 13th Regiment of Infantry was formed on July 16, 1798, and was mustered out January 11, 1800.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the War of 1812 the unit was consolidated with the 5th Infantry and took part in a series of long engagements. Most of these battles took place in the Niagara Frontier, in and around Buffalo, New York culminating in the war's final battle at Plattsburg. The regiment was reconstituted in May of 1861. General W.T. Sherman was the colonel of the regiment and Phillip Sheridan was one of its captains.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the Civil War, the unit earned its motto "First at Vicksburg". It participated in the battles of Hayes Bluffs, Champion Hill, Black River, and on May 19, 1863 took part in the assault at Vicksburg. The 13th Regiment was the only union unit to plant its colors on the Confederate positions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/3-13in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>From 1867-71 the regiment fought in the Indian Wars in Montana and North Dakota. In June of 1889 the regiment was sent to Cuba and led the 1st Infantry's attack on San Juan Hill, capturing the Spanish flag. The regiment saw action in the Philippines during the Philippines Insurrection, and was assigned to the 8th Infantry Division in June of 1918. As a member of this organization, the regiment did not participate in World War I.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1939 the regiment was ordered to the canal zone and a year later, after having been disbanded, was reconstituted at Camp Jackson, SC. The regiment found itself fighting through the hedgerows of France in July of 1944 as a member of the 8th Infantry Division and led the drive to the Ay River. The regiment spent ten months in combat in Northern France, The Rhineland and Central Europe. It occupied a position on the Siegfried Line and was involved in the bloody battle for Hurtgen Forest. During the European campaign, two soldiers, Privates First Class Prussman and Wetzel from the 13th Infantry Regiment received the country's highest award, the Congressional Medal of Honor.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following World War II the unit was inactivated at Fort Leonard Wood, MO, on 18 November 1945. On 17 August 1949 the regiment was activated once again at Fort Jackson, SC, where it remained until 1 August 1957. It was subsequently relieved from assignment to the 8th Infantry Division and reorganized and redesignated as Headquarters Company, 22nd Battle Group, 13th Infantry Regiment and assigned to the 9th Infantry Division at Fort Carson, CO, under the Combat Arms Regimental System.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 31 January 1962 the regiment was inactivated at Fort Carson, CO. On 27 March 1963 the regiment was redesignated as the 2nd Battalion, 13th Infantry Regiment and was releived from assignment to the 9th Infantry Division and assigned to the 8th Infantry Division. Five days later the battalion was activated in Germany and remained there until 1 August 1984 when it was inactivated and relieved from assignment to the 8th Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 27 Febuary 1987, the 13th Infantry Regiment was transferred to the United States Army Training and Doctrine Command and reorganized at Fort Jackson, SC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</href>
+        <text>1st BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"First at Vicksburg"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-28in.htm</Url>
+    <NameNode>1st Battalion, 28th Infantry Regiment
+  "Black Lions "</NameNode>
+    <FullName>1st Battalion, 28th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-28in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Riley</BaseName>
+        <Deployment>false</Deployment>
+        <Location>KS</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-riley.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1id-4bde.htm</Url>
+        <Id>army/1id-4bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>4th Brigade Combat Team</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company "Attack"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company "Battle"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company "Combat"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company "Destroyer"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-riley.htm</href>
+            <text>Fort Riley, KS</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.1id.army.mil/UnitPage.aspx?unit=4bct_1_28</href>
+            <text>1st Battalion, 28th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 28th Infantry Regiment&lt;br&gt;
+  "Black Lions " </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-28in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Battalion, 28th Infantry was first constituted on 2 February 1901 in the Regular Army as Company A, 28th Infantry and was organized on 10 June 1901 at Vancouver Barracks, Washington.  The 28th Infantry first saw combat service from December 1901 to January 1904 during the Philippine Insurrection where the Regiment was heavily involved in counter-guerilla operations.  During the years 1906-1908, the Regiment, minus one battalion, performed guard and police duty as part of the American forces of Cuban Occupation.  In 1913, the 28th Infantry was ordered to Texas to assist in guarding the Mexican border against raids by Pancho Villa.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the entry of the US into World War I, the Regiment was assigned on 8 June 1917 to the 1st Expeditionary Division (which later became the 1st Division and then the 1st Infantry Division).  On 29 June 1917, the men of Company K became the first American combat unit to set foot on European soil at St. Nazair, France.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In the inter-war period the unit was inactivated on 30 September 1933 at Fort Hayes, Ohio.  The 28th Infantry was relieved on 16 October 1939 from assignment to the 1st Division.  It was assigned on 22 June 1940 to the 8th Division (later redesignated as the 8th Infantry Division).  The unit wa activated on 10 October 1940 at Fort Niagara, New York.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 28th Infantry again distinguished itself in combat during World War II.  After landing on Utah Beach on 4 July 1944, its first action was an attack to the south to establish a critical bridgehead over the Ay River so that armored divisions could launch a breakout and then attack into Brittany and Northern France.  During its 10 months of combat, the Regiment played a major part in 4 allied campaigns, winning 3 Presidential Unit Citations embroidered Normandy, Bergstein and Stockheim.  It captured over 115,000 prisoners of war and vast stores of enemy material.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the end of World War II, the unit was inactivated 1 November 1945 at Fort Leonard Wood, Missouri.  The unit was activated again on 17 August 1950 at Fort Jackson, South Carolina.  It was reorganized and redesignated on 1 August 1957 as Headquarters and Headquarters Company, 1st Battle Group, 28th Infantry, and remained assigned to the 8th Infantry Division, with its organic elements concurrently constituted and activated.  The unit was relieved on 1 May 1959 from assignment to the 8th Infantry Division and assigned to the 1st Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1963, Operation Long Thrust VI deployed 1st Battle Group from Fort Riley, Kansas to West Germany from where it advanced through Communist East Germany to Berlin, "front line of the Cold War."  1st Battle Grouo "Black Lions" were present during President Kennedy's memorable "Ich bin ein Berliner" visit and returned to Fort Riley, Kansas that year.  The unit was reorganized and redesignated on 13 January 1964 as the 1st Battalion, 28th Infantry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1965, the 1st and 2nd Battalions, 28th Infantry were deployed to Vietnam with the 1st Infantry Division.  Early 1970 saw the end of the participation of the 1st and 2nd Battalions in the conflict.  After almost 5 years of combat in South Vietnam, the colors of both Battalions were redeployed to Fort Riley.  Two members of the 1st Battalion, 28th Infantry, 1st Lieutenant Gary L. Miller of Company A and Captain Euripides Rubio of the HHC were awarded the Medal of Honor, both posthumously, for their heroism.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was inactivated on 28 February 1983 at Fort Riley, Kansas, and relieved from assignment to the 1st Infantry Division.  Its Headquarters was transferred on 27 February 1987 to the United States Army Training and Doctrine Command and activated at Fort Jackson, South Carolina.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion was redesignated on 1 October 2005 as the 1st Battalion, 28th Infantry Regiment and its Headquarters was inactivated on 16 November 2005 at Fort Jackson, South Carolina, and withdrawn from the United States Army Training and Doctrine Command.  On 16 January 2006 the 1st Battalion, 28th Infantry Regiment was reactivated along with the activation and reactivation of the rest of the 4th Brigade Combat Team, as part of the Army's transformation towards a modular force.  As part of the modular transformation the US Army would add a fourth brigade to its active divisions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/forscom.htm</href>
+        <text>FORSCOM</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1id.htm</href>
+        <text>1st Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1id-4bde.htm</href>
+        <text>4th Brigade Combat Team</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Black Lions "</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-28in.htm</Url>
+    <NameNode>2nd Battalion, 28th Infantry Regiment
+"Black Lions"</NameNode>
+    <FullName>2nd Battalion, 28th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-28in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Grafenwoehr</BaseName>
+        <Deployment>false</Deployment>
+        <Location>Germany</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/grafenwoehr.htm</Url>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/172inbde.htm</Url>
+        <Id>army/172inbde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>172nd Infantry Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>C Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>D Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>F Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>G Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/grafenwoehr.htm</href>
+            <text>Grafenwoehr, Germany</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.172infantry.army.mil/2-28Infantry/2-28.html</href>
+            <text>2nd Battalion, 28th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion, 28th Infantry Regiment&lt;br&gt;
+"Black Lions"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-28in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 28th Infantry Regiment as a whole was first constituted under the Act of Congress of February 1901 and organized in March 1901 at Vancouver Barracks, Washington.   The 2nd Battalion, 28th Infantry Regiment was first constituted on 2 February 1901 in the Regular Army as Company B, 28th Infantry and organized on 17 June 1901 at Vancouver Barracks, Washington.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Regiment first saw combat from December 1901 to January 1904 during the Philippine Insurrection where the Regiment was heavily involved.  Elements of the Regiment were first deployed into the rebellious provinces on Luzon Island, but most of the 28th Infantry's action was seen later, on the island on Mindanao.  The Regiment subdued the Moro guerillas at Pantar, then at the walled city of Jolo, and most notably led the American assault during the savage battle of Suliman Mountain.  Between 1906 and 1908, the Regiment, minus one Battalion, performed guard and police duty as part of the American forces of Cuban Occupation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1913, the 28th Infantry was ordered to Texas to assist in guarding the Mexican border against raids by Pancho Villa.  In April 1914, the Regiment was part of the expedition that occupied the captured the Mexican city of Vera Cruz.  The Regiment remained there until November 1914.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-28in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the entry of the United States in World War I, the Regiment was assigned on 8 June 1917 to the 1st Expeditionary Division, which later became the 1st Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Regiment distinguished itself by conducting the first offensive operations by US troops in World War I at Cantigny, where, in a viciously fought 3-day battle, the 28th Infantry captured the town of Cantigny and then withstood 5 determined German counterattacks.  There the 'Lions of Cantigny' were born.  The Regiment also fought in the battles of Soissons, the Argonne and Sedan.  It suffered more than 5000 casualties in this war.  Three of its members were awarded the Medal of Honor for their heroism including Sergeant Michael B. Ellis of Company B.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Infantry was relieved from assignment to the 1st Division on 16 October 1939, and was assigned to the 8th Division (later redesignated as the 8th Infantry Division) on 22 June 1940.  Company B, 2nd Infantry was reactivated on 10 October 1940 at Fort Niagara, New York.  With the 8th Infantry Division, the 28th Infantry distinguished itself in combat during World War II.  After landing on Utah Beach on 4 July 1944, its first action was an attack to the south to establish a critical bridgehead over the Ay River so that armored divisions could launch a breakout and then attack into Brittany and Northern France.  The Regiment then advanced south through Avrances and Rennes and turned west into Brittany.  It participated in the savage battle for Brest and then fought on the Crozon Peninsula.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In late September 1944, the 28th Infantry was moved to Luxembourg and assigned to defend its sector of the 8th Infantry Division front, which stretched along the Our River.  In mid-November 1944, the Regiment relieved elements of the 109th Infantry in the area southeast of Aachen.  The next several weeks were spent attacking through the dense, forbidding Hurtgen Forest, where enemy artillery and mines presented a fierce enemy resistance causing numerous casualties in the worst fighting the Regiment was to experience.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Regiment successfully conducted an assault crossing of the flood swollen Roer in late February 1945.  It then seized the town of Stockheim and continued the attack, seizing dozens of strongly defended enemy towns, until it reached the Rhine River.  In mid-April 1945, the 28th Infantry drove north as part of the campaign to destroy or capture all enemy forces trapped in the Ruhr-Seig pocket.  After a brief period of occupation duty in the Ruhr-Rhine area, the Regiment was ordered to cross the Elbe and advance toward the Baltic Sea.  The final days of the war for the Regiment were spent managing huge numbers of Wehrmacht POWs, refugees, and former prisoners of the Germans.  During its 10 months of combat, the Regiment played a major part in 4 allied campaigns, winning 3 Presidential Unit Citations, with streamers embroidered Normandy, Bergstein and Stockheim.  It captured over 115,000 prisoners of war and vast stores of enemy material.  After the end of the Second World War, the Regiment, including Company B, were inactivated on 1 November 1945 at Fort Leonard Wood, Missouri.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 28th Infantry was reactivated on 17 August 1950, again as part of the 8th Division, and served as a training regiment at Fort Jackson.  In 1957, the Regiment was reorganized as a parent regiment under the Combat Arms Regimental System.  Company B, 2nd Infantry was reorganized and redesignated on 15 February 1957 as Headquarters and Headquarters Company, 2nd Battle Group, 28th Infantry.  It was concurrently relieved from assignment to the 8th Infantry Division and assigned to the 1st Infantry Division, with its organic elements constituted and activated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 26 December 1958, the 2nd Battle Group, 28th Infantry was relieved from assignment to the 1st Infantry Division and assigned to the 24th Infantry Division in Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battle Group was inactivated on 1 February 1963 and relieved from assignment to the 24th Infantry Division.  The Battle Group was redesignated on 23 October 1963 as the 2nd Battalion, 28th Infantry, and assigned to the 1st Infantry Division.  It was activated on 13 January 1964 at Fort Riley, Kansas, joining the 1st Battalion, 28th Infantry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1965, the 1st and 2nd Battalions, 28th Infantry were deployed to Vietnam with the 1st Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st and 2nd Battalions fought in many of the 1st Infantry Division's major engagements.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion was awarded a Valorous Unit Award for the battle for Lo Ke during Operations Cedar Falls, Yuscon, Junction City and Shenandoah.  In October 1967, an ambush of elements of the 2nd Battalion during Operation Shenandoah II and the ensuring violent engagement with a reinforced Viet Cong Battalion, known as the battle of Ong Thanh, caused many casualties.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Both the 1st and the 2nd Battalions were used to seal enemy movement towards Saigon during the enemy's May 5th offensive in 1968.  The 2nd Battalion repelled the suicide attack of an estimated 4 Battalions of North Vietnamese Army regulars during the battle of Fire Support Base Julie in October 1968.  In November 1968, it had another 2 major clashes with the North Vietnamese Army in the area known as the "Trapezoid."</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During much of 1969, both Battalions were involved in the Dong Tien (Progress Together) program, training Army of the Republic of Vietnam units through combined operations, and other forms of mutual support, in order for them to be able to successfully fight on their own.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In August and again in November 1969, elements of the 2nd Battalion had major engagements in the Trapezoid.  Early 1970 saw the end of the participation of the 1st and 2nd Battalions, 28th Infantry in the conflict in Vietnam.  After almost 5 years of combat in South Vietnam, the colors of both Battalions were redeployed to Fort Riley, Kansas.  During the conflict, Sergeant Paul L. Fitzgerald, Jr. and Private First Class Olin Hargrove of Company A, 2nd Battalion, were officially listed as Missing In Action.  Subsequently the Army issued a presumptive finding of death, in both cases.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>2nd Lieutenant Robert J. Hibbs of Company B, 2nd Battalion, 28th Infantry was awarded the Medal of Honor, posthumously, for heroism during the conflict.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After returning from Vietnam, 2-28th Infantry was inactivated on 15 April 1970 at Fort Riley, Kansas, and relieved from assignment to the 1st Infantry Division.  The unit was assigned on 21 February 1973 to the 8th Infantry Division and reactivated on 31 August 1973 in Germany.  The Battalion was inactivated on 1 August 1984 in Germany and relieved from assignment to the 8th Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 27 February 1987, the Headquarters of the 1st, 2nd, and 3rd Battalions of the 28th Infantry Regiment transferred to the United States Army Training and Doctrine Command (TRADOC) and activated at Fort Jackson, South Carolina.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>2-28th Infantry was inactivated on 30 September 1994 at Fort Jackson, South Carolina and reactivated there on 16 September 1996.  The Battalion was redesignated on 1 October 2005 as the 2d Battalion, 28th Infantry Regiment.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion Headquarters was inactivated on 16 November 2005 at Fort Jackson, South Carolina, and withdrawn from the United States Army Training and Doctrine Command.  The Battalion was reactivated 16 March 2008 in Germany as part of the 172nd Infantry Brigade (Separate).   1st Battalion, 26th Infantry was concurrently inactivated and reflagged as 2nd Battalion, 28th Infantry, as part of the reflagging of the 2nd Brigade, 1st Infantry Division as the 172nd Infanty Brigade (Separate).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/../../../index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/../../index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/../index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaeur.htm</href>
+        <text>USAEUR</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/172inbde.htm</href>
+        <text>172nd Infantry Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Black Lions"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-60in.htm</Url>
+    <NameNode>2nd Battalion - 60th Infantry Regiment
+"Scouts Out"</NameNode>
+    <FullName>2nd Battalion - 60th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-60in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</Url>
+        <Id>army/1bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>1st BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Alpha Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Foxtrot Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Golf Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/260th/Default.htm</href>
+            <text>2nd Battalion - 60th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion - 60th Infantry Regiment
+&lt;br&gt;"Scouts Out"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-60in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion 60th Infantry Regiment conducts gender-integrated Basic Combat Training for volunteers entering the U.S. Army in order to provide our Army with basically-trained, disciplined, motivated, physically fit soldiers, who respond to leadership, are focused on teamwork, and espouse the Army's core values.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion was organized in June 1917 at the outset of the First World War from cadre furnished by the 7th U.S. Infantry Regiment. In November 1917 it was assigned to the 5th Infantry Division and quickly underwent its baptism of fire in the fierce warfare on the Western Front. The Battalion participated in the campaigns of St. Mihiel, Alsace and Lorraine and finally in war ending campaign of the Muese-Argonne. During this battle, 1LT Woodfill, later called by General Pershing "the outstanding doughboy of the war", won the Congressional Medal of Honor for his single-handed destruction of a German company (with all available weapons from a machine gun to pick ax) as the Battalion made an epic crossing of the Muese River under ferocious enemy fire to help break the back of German resistance.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Having successfully answered America's call to arms, the Battalion was inactivated in South Carolina in 1921. A generation later, in August 1940, war clouds again gathered over Europe and again the Battalion answered its country's call. With its assignment to the 9th Infantry Division, it once again became a part of the active Army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion fought with superb distinction throughout the Second World War. The outfit spearheaded the Algeria-French Morocco invasion at Port Lyautey, winning the arrowhead assault landing device in a bold action which laid the basis for its distinctive nick name 'Scouts Out". The Battalion culminated its successful North African campaigns with its heroic Easter Sunday defense against the massive German attack on the Battalion, under the leadership of "Iron Mike" Kauffman, and earned a Presidential Unit Citation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-60in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In Sicily, the Battalion continued its winning ways, culminating in the famous Ghost March where the unit infiltrated enemy lines and broke open the last of the German resistance.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In France during the heroic days of June 1944, the Battalion once again led the way for the division as it spearheaded the American advance out of the beachhead that cut the Contentin Peninsula and secured the vital Port of Cherburg. At the pivotal crossing of the Douve River, 1LT John Butts won the Medal of Honor and the Battalion gained another Presidential Unit Citation. Following the breakout at St. Lo, the battalion fought across France and in September 1944 made its second combat crossing of the Meuse River. Here, LTC Matt Urban won his Medal of Honor having gone AWOL from a hospital to rejoin his comrades and lead the in combat.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After the bitter and bloody struggle in the Huertegen Forest, the Battalion displayed its immense reserves of courage and steadfastness by winning still another Presidential Unit citation in the snow and bitter cold of the Battle of the Bulge. Following the final advance into Central Europe the Battalion won another Presidential Unit Citation and the battalion was inactivated in November 1946 while in Germany.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After service as the 2nd Battle Group, 60th Infantry from 1958-1962, the Battalion was activated at Fort Riley, Kansas in 1966, this to meet the call to action in the jungle and rice paddies of Southeast Asia. it deployed to the Republic of Vietnam in December 1966 and fought with great valor during the next three years in the in the steaming rice paddies of the Mekong Delta. During these campaigns, the Battalion perfected the famous "jitterbug tactics" which featured split-second timing of airmoble insertions often within a dozen meters of the enemy. These operations were brilliantly successful and won the Battalion many more unit citations and streamers including one Presidential Unit Citation. The unit returned to the United States in 1970. On October 13,1970 the unit was deactivated at Ft. Lewis.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion, 60th infantry was reactivated on October 21, 1972 at Ft. Lewis. The 2nd Battalion, 60th Infantry was inactivated on February 1991 at Ft. Lewis and relieved from assignment to the 9th Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The battalion was finally called back to the roles of the active Army on 27 August 1996 at Fort Jackson, SC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/1bct-bde.htm</href>
+        <text>1st BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Scouts Out"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</Url>
+    <NameNode>4th Basic Combat Training Brigade</NameNode>
+    <FullName>4th Basic Combat Training Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/4bct-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usatc.htm</Url>
+        <Id>army/usatc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Training Center</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-34in.htm</Url>
+        <FullName>1-34 IN</FullName>
+        <Name>1-34 IN</Name>
+        <Id>army/1-34in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-39in.htm</Url>
+        <FullName>2-39 IN</FullName>
+        <Name>2-39 IN</Name>
+        <Id>army/2-39in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-61in.htm</Url>
+        <FullName>1-61 IN</FullName>
+        <Name>1-61 IN</Name>
+        <Id>army/1-61in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/187ord-rgt.htm</Url>
+        <FullName>187th Ordnance Regiment</FullName>
+        <Name>187th Ordnance Regiment</Name>
+        <Id>army/187ord-rgt.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-34in.htm</href>
+            <text>1-34 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-39in.htm</href>
+            <text>2-39 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-61in.htm</href>
+            <text>1-61 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/187ord-rgt.htm</href>
+            <text>187th Ordnance Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/4bde/index.htm</href>
+            <text>4th Basic Combat Training Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>4th Basic Combat Training Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/4bct-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 4th Basic Combat Training Brigade is to conduct basic combat training (bct) for volunteers and turn them into highly motivated, disciplined, physically fit soldiers trained in basic soldier skills who espouse the army's seven core values and understand the importance of teamwork. The unit is also tasked with continuing the soldierization process and conduct advanced individual training for light and heavy wheeled vehicle mechanics (MOS 63B and 63S) and recovery specialists (MOS ASI H8). It also supports post contingency plans as required.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 16 March 1956, the Fourth Regiment was formed at Fort Jackson, as a result of the departing of the 101st Airborne Division and the re-designation of Fort Jackson as a Training Center. The new organization had two basic training regiments and an Infantry Advanced Individual Training (AIT) Regiment to compliment the Fourth Regiment. On 16 March 1964, the Fourth Brigade was formed consisting of the 14th, 15th, 16th, and 17th Battalions. Within two years the General Clerk and Food Service Schools were formed so that by the year 1966 the four battalions were supporting nine schools; the 14th with the responsibility for food service and general supply, the 15th for radio operator and field wireman, the 16th Battalion for general clerk, clerk-typist and personnel specialists, and the 17th for light vehicle driver and the Wheeled Vehicle Driver's Course.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>A second major reorganization occurred in June 1973 with the retiring of the colors of the 3d Infantry AIT Brigade. With this reorganization a new battalion was authorized, and the battalions assumed the new familiar designations of the 11th, 12th, 14th, 15th and 16th Battalions. The year 1973 also saw the start of the Common Basic Electronic Course (COBET), at first assigned to the 15th Battalion but later to the 14th Battalion. In August of 1974, E-14 and D-11 were designated as female student holding companies, with the responsibility for providing billeting and administrative support to the rising number of females assigned to the 4th Brigade. April of 1974 saw the Wheeled Vehicle Mechanic Course moving to the 12th Battalion. By the middle of 1975, the Brigade was aligned in this manner: 11th Battalion Administration School; 12th Battalion - Wheeled Vehicle Mechanic Course; 14th Battalion - Common Basic Electronic Course; 15th Battalion - Supply School (which in July 1976 became he first self-paced school); 16th Battalion - Food Service and Field Wireman Schools. In April 1977, the Field Wireman's School relocated to Fort Gordon and the 15th and 16th Battalions consolidated to form the 15th Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In August 1978, COBET was moved to its MOS producing schools, retiring the colors of the 14th Battalion, leaving the Brigade with three battalions. On 1 March 1982, the 14th Battalion was reactivated and the Personnel Specialist School was formed as a result of the U.S. Army Regimental System, the 12th Battalion was re-designated the 187th Ordnance Battalion on 17 January 1987. The 15th Battalion was re-designated the 277th Quartermaster Battalion on 13 March 1987. The Brigade was re-designated the 4th Training Brigade on 1 October 1987. On 17 July 1990, the 14th Adjutant General Battalion deactivated, and the 369th Adjutant General Battalion assumed the mission of Personnel Record Specialist and Personnel Action Specialist Schools.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In June 1990, the 3rd Battalion, 61st Infantry Regiment was assigned to the 4th Brigade. The 2d Battalion, 39th Infantry Regiment was assigned to the 4th Brigade in August 1990. The regiments have the mission of Basic Combat Training. In June 1993, the 94B and 92Y Military Skills Specialist (MOS) were moved to Fort Lee, retiring the colors of the 277th Quartermaster Battalion, leaving the brigade with four battalions. Also, in June 1993, 3rd Battalion, 61st Infantry Regiment was re-designated as 1st Battalion, 61st Infantry Regiment. In May 1995, the 369th Adjutant General Battalion was assigned to the Soldier Support Institute. The 4th Training Brigade is the only Brigade in the Army with both Basic Training and Advanced Individual Training.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaac.htm</href>
+        <text>USAAC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-34in.htm</Url>
+    <NameNode>1st Battalion - 34th Infantry Regiment</NameNode>
+    <FullName>1st Battalion - 34th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-34in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</Url>
+        <Id>army/4bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>4th BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Alpha Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Company</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/134th/index.htm</href>
+            <text>1st Battalion - 34th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 34th Infantry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-34in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion 34th Infantry Regiment conducts gender integrated Basic Combat Training to provide the Army with highly motivated, well disciplined, physically and mentally fit soldiers who are trained in basic soldier skills, focused on teamwork, and are committed to the Army's core values.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 34th Infantry Regiment was constituted July 1, 1916 in the Regular Army.  It was organized in El Paso, Texas on July 15, 1916 by transfer of personnel from the 7th, 20th and 23rd Infantry Regiments.  Its initial mission included guard duty on the Mexican border and the training of National Guard units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During World War I, the 34th was shipped to France, arriving on August 27, 1918.  On October 9, 1918, the regiment held the extreme left of the 7th Infantry Division's flank. The regiment received battle honors "Lorraine" for actions during this period.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During World War II, The 34th Infantry was chosen to spearhead the assault on Leyte, to liberate the Philippines.  The unit was in a series of bloody battles for 78 continuous days. The 1st Battalion, 34th Infantry Regiment received the Presidential Unit Citation for conspicuous valor and outstanding performance. The battalion's nickname, "Leyte Dragons," derives its recognition during the Leyte assault.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 34th Infantry Regiment made its second beachhead assault in the Philippines on the island of Luzon. It was later chosen to assault the island of Corregidor.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On June 30, 1950, in the Republic of Korea, the 34th Infantry Regiment, with the 24th Infantry Division began to successfully delay the North Korean People's Army until the United Nations Forces could arrive to hold the Pusan Perimeter.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 34th Infantry Regiment was deactivated on January 15, 1993 and was reactivated on January 12, 1996 at Fort Jackson, SC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</href>
+        <text>4th BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-39in.htm</Url>
+    <NameNode>2nd Battalion - 39th Infantry Regiment</NameNode>
+    <FullName>2nd Battalion - 39th Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/2-39in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</Url>
+        <Id>army/4bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>4th BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Alpha Company "Aces"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company "Bulldogs"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Company "Panthers"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company "Rabid Dawgs"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Company "Pathfinders"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/239TH/index.htm</href>
+            <text>2nd Battalion - 39th Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion - 39th Infantry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/2-39in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 39th Infantry Regiment was organized at Camp Syracuse, New York on 1 June 1917 by transfer of veteran troops from the 30th Infantry Regiment. In December, the 39th was assigned to the 4th Infantry Division and in the spring of 1918, sailed for France as part of the American Expeditionary Force in World War I. The regiment fought with such valor and distinction during this war that it earned its famous nickname "Fighting Falcons".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the lull between wars, the regimental crest was designed and approved. Each of the devices in the crest holds significant meaning for the regiment. The shield is blue for infantry. The fleur-de-lis is from the coat of arms of Soissons, a town in France recaptured by the 39th Regiment in 1918. The two trees represent the Groves of Cresnes, the sight of the regiment's first military success in France during World War I. The boar's head on the canton is taken from the crest of the 30th Infantry Regiment and indicates the 39th was organized with personnel from the 30th Infantry Regiment. The crest is a falcon's head, for Mount Faucon in Muesse-Argonne. The falcon holds, in its bill, an ivy leaf, from the shoulder sleeve insignia of the 4th Infantry Division to which the regiment was assigned during World War I. The motto "D'une Vaillance Admirable" is a quotation from the French citation which awarded the Croix De Guerre with Gilt Star to the regiment for its distinguished service in World War I. The motto best translates - "With a Military Courage Worthy of Admiration".</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During World War II the regiment fought as part of the 9th Infantry Division. The Fighting Falcons of the 39th became the first unit of United States combat troops to set foot on foreign soil when they stormed the beaches of Algiers in November 1942. During fighting in Sicily, Italy, the regiment came under the command of the legendary Colonel Harry A. "Paddy" Flint who gave the regiment its triple A- Bar Nothing slogan .Anything, Anywhere, Anytime - Bar Nothing. The regiment took great pride in the AAA-O slogan, displaying it on their helmets and vehicles, even in combat. When questioned about the soundness of the practice, Colonel Flint confidently declared, "The enemy who sees our regiment in combat, if they live through the battle, will know to run the next time they see us coming." Later in the war, the 39th landed at Utah Beach and fought through France. The Fighting Falcons joined the 47th Infantry Regiment in capturing Roetgen, the first German town to fall in World War II. The 39th fought valiantly through the Battle of the Bulge, helped secure the Remagen bridgehead and roared across Germany as the allied forces finished off the last of the German resistance. When the dust settled following VE day, the 39th Regiment held campaign streamers from some of the bloodiest and most hard fought battles of the war - Algeria, Tunisia, Sicily, Normandy, Northern France, The Rhineland, Ardennes-Alsace, and Central Europe. It was cited twice by the Belgians for valorous actions and awarded the Belgian Fourragère. It also received two French Croix de Guerre with Palm, the French Fourageré, and three Presidential Unit Citations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After a series of inactivations and activations spanning a 20-year period, the 2nd Battalion, 39th Infantry Regiment was reactivated on 1 February 1966 as part of the 9th Infantry Division at Fort Riley, Kansas. The 39th answered the call to duty once again in late 1966 when it deployed with the 9th Infantry Division for combat in the Republic of Vietnam. The regiment participated in operation Palm Tree, the 1968 TET battle, and the battle of the Plain of Reeds. When the 2nd Battalion returned to Hawaii and deactivated in September, 1969, its battle streamers now included Counteroffensive Phase II, Counteroffensive Phase III, TET Counteroffensive, Counteroffensive Phase IV, Counteroffensive Phase V, Counteroffensive Phase VI, TET 69 Counteroffensive, and Summer-Fall 1969. The battalion had also garnered three Republic of Vietnam Crosses of Gallantry with Palm, The Republic of Vietnam Civil Action Medal, First Class, two Valorous Unit Awards and its fourth Presidential Unit Citation.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>For its part in World Wars I, II and the Vietnam Conflict, the 39th Infantry Regiment possesses 21 battle streamers. Its decorations include four Presidential Unit Citations, four French Croix de Guerre (two with Palm and one with Gilt Star), and the Belgian Fourageré. Following reactivation and transfer to the Training and Doctrine Command, the 2nd Battalion, 39th Infantry Regiment departed Fort Dix, New Jersey for Fort Jackson, South Carolina, arriving on 22 August 1990.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</href>
+        <text>4th BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-61in.htm</Url>
+    <NameNode>1st Battalion - 61st Infantry Regiment</NameNode>
+    <FullName>1st Battalion - 61st Infantry Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/1-61in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</Url>
+        <Id>army/4bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>4th BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>Alpha Company "Gators"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company "Bulldogs"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Company "Rock"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company "Dragons"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Echo Company "Eagles"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/1-61/index.htm</href>
+            <text>1st Battalion - 61st Infantry Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion - 61st Infantry Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-61in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The missino of the 1st Battalion, 61st Infantry Regiment, is to conduct Basic Combat Training (BCT) for volunteers and turn them into highly motivated, disciplined, physically fit soldiers trained in basic soldier skills who espouse the Army's seven core values and understand the importance of teamwork.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 61st Regiment was constituted in the Regular Army on May 15, 1917 as Company A, 61st Infantry, and organized at Gettysburg National Park, PA, on June 10, 1917. On November 17, 1917, the 61st Infantry was assigned to the 5th Division. It was with the 5th Division when the unit received its first taste of combat.  The Regiment deployed to Europe during World War I, during which time it was awarded four battle streamers for its gallant participation in the bloody campaigns of Saint Mihiel, Meuse-Argonne, Alsace and Lorraine in 1918.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Following the end of the war, the 61st returned to South Carolina to Camp Jackson, where it was inactivated on September 2, 1921. The unit was relieved from assignment with the 5th Division and assigned to the 8th Division on August 15, 1927. On October 1, 1933, the 6th Infantry was relieved from assignment to the 8th Division and again assigned to the 5th Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/1-61in-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was disbanded November 11, 1944. On August 10, 1950, the 6th Infantry was reconstituted in the Regular Army as Company A, 6th Infantry, an element of the 8th Infantry Division. It was activated on August 17, 1950 at Fort Jackson, SC.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After a period of activation, inactivation and reassignments spanning over a period of 18 years, the unit was once again inactivated on September 1, 1956 at Fort Carson, CO, and was concurrently relieved from assignment to the 8th Infantry Division. On January 17, 1962, Company A, 6th Infantry was redesignated as Headquarters and Headquarters Company, 1st Battalion, 61st Infantry Regiment. HHC 1-61 Infantry was assigned to the 5th Infantry Division and activated at Fort Carson, CO (organic elements constituted and activated) on February 19, 1962. The unit was reassigned to the 4th Infantry on August 2, 1971, and assigned back to the 5th Division August 21, 1974. HHC 1-61 was inactivated on June 19, 1989 at Fort Polk, LA, and relieved from assignment to the 5th Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit received several awards and decorations during the Vietnam conflict, which include the Valorous Unit Award, two Republic of Vietnam Cross of Gallantry awards and a Civil Action Honor Medal. After reorganizing again for the Korean and Vietnam conflicts, the unit was transferred to the United States Army Training and Doctrine Command and organized at Fort Jackson June 13, 1993 to fulfill its current role in conducting Basic Combat Training for initial entry soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</href>
+        <text>4th BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/187ord-rgt.htm</Url>
+    <NameNode>187th Ordnance Regiment</NameNode>
+    <FullName>187th Ordnance Regiment</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/187ord-rgt.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</Url>
+        <Id>army/4bct-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>4th BCT Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC "Mighty Cougars"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Alpha Company "Gator Tough"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Bravo Company "Proud Grizzly Bears"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Charlie Company "Charlie Cobras"</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Delta Company "Maddogs"</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.jackson.army.mil/187th/page1.htm</href>
+            <text>187th Ordnance Regiment</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>187th Ordnance Regiment</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/187ord-rgt.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 187th Ordnance Regiment is to provide our Army with disciplined, motivated, and physically-fit apprentice level soldier mechanics who espouse the Army Core Values, and who are focused on Team-Work.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 187th Ordnance Battalion was first constituted on May 1, 1936 in the Regular Army, Headquarters and Headquarters Detachment, 3rd Battalion, 54th Quartermaster Regiment and was activated on April 1, at Fort Custer, MI. The unit was redesignated on Oct 7, 1942 as Headquarters and Headquarters Detachment, 187th Ordnance Heavy Maintenance Battalion, but was inactivated in 1945.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>As a result of the U.S. Army Regimental System, the headquarters was transferred in 1987 to the U.S. Army Training and Doctrine Command. Assigned to the 4th Training Brigade at the U.S. Army Training Center at Fort Jackson, SC, it was activated and organized for its present training mission of producing specialists in light and heavy wheeled vehicle repair and additional skills in vehicle recovery.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/4bct-bde.htm</href>
+        <text>4th BCT Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/victory-bde.htm</Url>
+    <NameNode>Victory Brigade</NameNode>
+    <FullName>Victory Brigade</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/victory-bde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/usatc.htm</Url>
+        <Id>army/usatc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Training Center</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tf-victory.htm</Url>
+        <FullName>Task Force Victory
+120th AG Battalion
+Victory University
+Drill Sergeant School</FullName>
+        <Name>Task Force Victory
+120th AG Battalion
+Victory University
+Drill Sergeant School</Name>
+        <Id>army/tf-victory.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/tf-victory.htm</href>
+            <text>Task Force Victory
+120th AG Battalion
+Victory University
+Drill Sergeant School</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://jackson-www.army.mil/tccbde/index.htm</href>
+            <text>Victory Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Victory Brigade</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/victory-bde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usaac.htm</href>
+        <text>USAAC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/tf-victory.htm</Url>
+    <NameNode>Task Force Victory</NameNode>
+    <FullName>Task Force Victory</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/tf-victory.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Jackson</BaseName>
+        <Deployment>false</Deployment>
+        <Location>SC</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-jackson.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/victory-bde.htm</Url>
+        <Id>army/victory-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Victory Brigade</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HQ Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>A Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B Company</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>282D Army "Victory" Band</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-jackson.htm</href>
+            <text>Fort Jackson, SC</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://jackson-www.army.mil/tccbde/TFV.htm</href>
+            <text>Task Force Victory</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Task Force Victory</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/tf-victory.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 1 January 1998, Task Force Victory was established from the units assigned/attached to the Victory Brigade.  Its mission include, Headquarters Fort Jackson, 21 installation directorates that support Fort Jackson's Initial Entry Training Mission and Base Operations.  The TRADOC Pre-Command Course and Drill Sergeant School known as Victory University, and an Infantry Company that supports the Basic Training through Range Operations which consists of the three committees; General Subjects, Basic Rifle Marksmanship, and Combat Indoctrination.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Task Force Victory also has the prestigious 282nd Army Band which has a primary mission to maintain the morale and espirit-de-corps of the soldiers stationed at Fort Jackson, the local community and surrounding areas presenting formal concerts and participating in ceremonies throughout the Carolinas and Georgia.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Additionally, The United States Army Student Detachment which was formed as a separate unit under the Command and Control of Task Force Victory to provide command and control and administrative support for soldiers who are students at civilian colleges and universities; other United States Service Commands and Staff Colleges, Foreign Military Schools, The Train With Industry Program and other advanced educational programs.  The Detachment supports over 1,200 students and 300 institutions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Finally, Task Force Victory has the Fort Jackson Headquarters Company Transition Point which transitions soldiers leaving military service to civilian life.  The 748th Ordnance Company (Explosive Ordnance Disposal), the unit consists of 19 soldiers with deployment missions all around the world.  The 248th Medical Detachment (Veterinary Service) attached from Fort Bragg for administrative support.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/tradoc.htm</href>
+        <text>TRADOC</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/usatc.htm</href>
+        <text>Training Center</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/victory-bde.htm</href>
+        <text>Victory Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>

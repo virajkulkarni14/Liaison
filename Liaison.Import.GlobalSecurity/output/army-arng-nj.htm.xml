@@ -1,0 +1,3307 @@
+<?xml version="1.0"?>
+<ArrayOfGlobalSecurityObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+    <NameNode>New Jersey Army National Guard</NameNode>
+    <FullName>New Jersey Army National Guard</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/arng-nj-loc-s.gif</LogoUrl>
+    <Locations />
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng.htm</Url>
+        <Id>army/arng.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>ARNG</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Facilities</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/57tc.htm</Url>
+        <FullName>57th Troop Command</FullName>
+        <Name>57th Troop Command</Name>
+        <Id>army/57tc.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/50ad.htm</Url>
+        <FullName>50th Armored Division</FullName>
+        <Name>50th Armored Division</Name>
+        <Id>army/50ad.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</Url>
+        <FullName>50th Brigade, 42nd ID</FullName>
+        <Name>50th Brigade, 42nd ID</Name>
+        <Id>army/42id-50in-bde.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</Url>
+        <FullName>42nd ID DISCOM</FullName>
+        <Name>42nd ID DISCOM</Name>
+        <Id>army/42id-discom.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/254rgt.htm</Url>
+        <FullName>254th Regiment (Combat Arms)</FullName>
+        <Name>254th Regiment (Combat Arms)</Name>
+        <Id>army/254rgt.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/t3bl.htm</Url>
+        <FullName>Training and Training Technology Battle Lab</FullName>
+        <Name>Training and Training Technology Battle Lab</Name>
+        <Id>army/t3bl.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>State Area Command - Ft Dix</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/57tc.htm</href>
+            <text>57th Troop Command</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/50ad.htm</href>
+            <text>50th Armored Division</text>
+            <Former>true</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</href>
+            <text>50th Brigade, 42nd ID</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</href>
+            <text>42nd ID DISCOM</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/254rgt.htm</href>
+            <text>254th Regiment (Combat Arms)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/t3bl.htm</href>
+            <text>Training and Training Technology Battle Lab</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment (As of 1998)</h3>
+        <li>
+          <li>
+            <text>26 AH-1F Cobra</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>8 UH-1H Huey</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>4 UH-1V Huey</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3 UH-60A Blackhawk</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>3 OH-58A Kiowa</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1C-12D</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.state.nj.us/military/index.html</href>
+            <text>New Jersey Army National Guard</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>New Jersey Army National Guard</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The New Jersey Army National Guard maintains 64 armories, and is present in 42 communities. Fort Drum is located 20 miles south of the Canadian border in upstate New York. Most New Jersey Army National Guardsmen will spend their entire annual training at Drum.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>New Jersey ARNG units performed AT and weekend training all over the Unites States and in four foreign countries in 1999.  New Jersey sent four rotations of logistical soldiers to Italy to support SETAF, a company of infantry to provide OPFOR for the active component in Germany, a platoon of MP's to support closure operations in Panama and over 90 medics to support Honduras after Hurricane Mitch.   NJARNG soldiers played a pivotal role in Operation Provide Refuge for Kosovar refugees at Fort Dix.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>New Jersey units and over 1,600 soldiers were called to state active duty in late September to deal with flooding in northern New Jersey from Hurricane Floyd.  Soldiers also performed over 100 other state missions such as hauling water in response to water main breaks and searching for lost persons.  Over 10,000 state mandays were used in 1999 and almost 2,000 personnel were called to state active duty.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The New Jersey Counterdrug Task Force continued its war on drugs in FY99, seizing over $400 million in illegal drugs, money and contraband.  Soldiers worked alongside local and federal law enforcement officials to assist with aerial surveillance port inspections and translations and intelligence support.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The New Jersey National Guard flexed its combat muscles at Fort Drum for almost all of August 2000. During the first half of the month, the 50th Brigade and the 42nd DISCOM (Division Support Command) practiced wartime skills in the north country. In the second half of the month, the 119th Corps Support Battalion, the 250th Signal Battalion and the 204th Air Weather Flight, New Jersey Air National Guard, supported the joint readiness exercise "Empire Peak." All combined, it was the largest single deployment of New Jersey soldiers and airmen to Fort Drum since the retirement of the 50th Armored Division in 1991.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/arng-nj-loc.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/57tc.htm</Url>
+    <NameNode>57th Troop Command</NameNode>
+    <FullName>57th Troop Command</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/starc-nj.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Atlantic City</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/119csb.htm</Url>
+        <FullName>119th Corps Support Bn</FullName>
+        <Name>119th Corps Support Bn</Name>
+        <Id>army/119csb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-150avn.htm</Url>
+        <FullName>1-150th General Aviation Support Bn</FullName>
+        <Name>1-150th General Aviation Support Bn</Name>
+        <Id>army/1-150avn.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/50psb.htm</Url>
+        <FullName>50th Personnel Services Bn</FullName>
+        <Name>50th Personnel Services Bn</Name>
+        <Id>army/50psb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/50fin.htm</Url>
+        <FullName>50th Finance Bn</FullName>
+        <Name>50th Finance Bn</Name>
+        <Id>army/50fin.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/119csb.htm</href>
+            <text>119th Corps Support Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-150avn.htm</href>
+            <text>1-150th General Aviation Support Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/50psb.htm</href>
+            <text>50th Personnel Services Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/50fin.htm</href>
+            <text>50th Finance Bn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>21st MIL SPT Det (RAID) - Ft Dix</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>444th PA Det - Ft Dix</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>63rd ARMY BAND SEA GIRT</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 1, 42ND ID BAND - Somerset</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 2, 1/150 AVN Unknown</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 1, HHC AVN BDE 29TH ID - W Trenton</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Det 19 OSA COMD - W Trenton</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Recon Air Inter Det (RAID) WEST TRENTON</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Atlantic City, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.state.nj.us/military/troopcommand/index.html</href>
+            <text>57th Troop Command</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>57th Troop Command</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/starc-nj.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 57th Troop Command has four subordinate Battalions that perform a variety of services or combat roles. These are the 119th Corps Support Battalion, the 50th Personnel Service Battalion, the 50th Finance Battalion, and the 1-150th Aviation Battalion.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 57th Troop Command also has a Headquarters Detachment, which is responsible for pay, administration, and training for the command headquarters.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 57th Troop Command provides command and control for several logistical, administrative, and aviation units in the NJ Army National Guard. The Command also provides emergency response for floods and similar disasters along the New Jersey coast.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The three primary missions of 57th Troop Command are:</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>To prepare its units and their soldiers for the execution of their federal wartime mission;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>To prepare its units and their soldiers to meet their mission in support of civil authorities; and</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>li</NodeType>
+        <Contents>To prepare its units and their soldiers to support community revitalization and nation building through counter-narcotic operations, environmental initiatives, and youth programs.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 57th Troop Command supported a variety of community activities in 1997 which included a Stand Down at the Atlantic City Interactive Community Resource Center that provided food, medical support and Veterans Administration registration for hundreds of veterans in the Atlantic City area and Fun Day, which supported the children of Atlantic City with a full day of fun and games. The command supported over 38 major community and domestic emergency support activities in 1997.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 57th supported a variety of community activities during 1998, including working with the Atlantic City Youth Guild, who are the current tenants at the Atlantic City Armory.  The 57th was also the host command for the 40th Annual National Guard Association of New Jersey Conference.  Other operations included activating Task Force South for the February coastal storm; and provided command and control to 44 soldiers and 91 vehicles while performing 232 missions in support of local communities.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 1999, the 57th completed 25 civil-military missions, participated in Hurricane Floyd operations, supported REEFEX and assisted in the Kosovo Relief Effort at Fort Dix. The 57th's accomplishments included conducting a mobilizations workshop for the command, completed National Training Center (NTC) mission performing command and control operations, attaining 80 percent military job qualifications for the command, and passing the Aviation Resource Management Survey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 57th Troop Command was involved in support operations dealing with the attack on America since 11 September. It was responsible for operating the base camp for the federal task force at Great Kills landfill on Staten Island which supported the men and women combing through the debris from the World Trade Center.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <text>New Jersey</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/119csb.htm</Url>
+    <NameNode>119th Corps Support Battalion</NameNode>
+    <FullName>119th Corps Support Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lawrenceville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+      <LocationObject>
+        <BaseName>Hammonton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/30csg.htm</Url>
+        <Id>army/30csg.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>30th Corps Support Group</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/57tc.htm</Url>
+        <Id>/army/57tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/57tc.htm</href>
+        <h3>57th Troop Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>253rd TRANS Co - Cape May Ct House</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>B/1-126 AVN - Picatinny Arsenal</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1159th Medical Evacuation Det - West Trenton</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lawrenceville, NJ</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Hammonton, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>119th Corps Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>119th Corps Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 119th Corps Support Battalion was relocated in 2003 to the Hammonton Armory to better meet both its federal and state missions. The 119th Corps Support Battalion previously had its headquarters in Lawrenceville, Mercer County, New Jersey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion provides command and control over the 253rd Transportation Company in Cape May Court House; Company B, 1st Battalion, 126th Aviation in Picatinny Arsenal; and the 1159th Medical Evacuation Detachment in West Trenton.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, the 119th Support Battalion (CORPS) provided command and control for operation REEFEX which is an environmental initiative that uses obsolete military vehicles to build artificial reefs off the coast of New Jersey. The 119th also participated with units in support of operations "Patriot Medstar" at Fort Devens, Massachusetts; "Roving Sands" at Fort Bliss, Texas and the National Boy Scout Jamboree at Fort A.P. Hill, Virginia. The 119th also supported the deactivation of both the 194th Dental Detachment and the 328th Transportation Detachment.  The 253rd Transportation Company won the Newman Award for Excellence in Food Service and was the 1st Army nominee for competition for the Connelly Award in Food Service. They also were the winners of the New Jersey Army National Guard Supply Excellence Award for 1997.    Detachment 1, 1159th Aeromedical Evacuation provided medivac support to the Boy Scout Jamboree at Fort A.P. Hill, Virginia. They provided medical life support and flew 11 emergency medical evacuation missions with 12 patients and 11 patient air transports of 16 patients.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the 119th CSB participated in a Theater Opening Force Module (TOFM) at the NTC from 28 January to 15 February. The exercise was significant in that it was the first time that a "pure" National Guard task organization performed the mission. The Battalion regenerated 2nd Brigade, 3rd Infantry Division during week one, and performed Reception, Staging, Onward Movement, and Integration (RSO&amp;amp;I) for the 2nd Brigade, 4th Infantry Division during week two. The TOFM consisted of the 30th Corps Support Group from North Carolina, the 119th CSB from New Jersey, and the 158th CSB. The CSS force structure was determined by the NTC and based upon mission requirements.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 253rd Transportation Company also supported a rotation at the National Training Center (NTC) at Fort Irwin in support of the 119th. The unit provided 34 soldiers and 16 five-ton vehicles for the coastal storm during the NTC rotation period.  The unit had vehicles and soldiers on both coasts of the United States performing missions simultaneously.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the 253rd Transportation Company supported the REEFEX program, participated in the National Winston P. Wilson Rifle Match, assisted in the Honduras relief mission, earned all "Gos" in all evaluated tasks during annual training, transported equipment from New York to New Jersey for the State Maintenance Office, supported the Kosovo refugee operation supported the Honduras Relief mission, assisted the U.S. Coast Guard in retrieving a 30- ton whale from the Atlantic Ocean, and supported the Cape May County Disability Program and Association of Retarded Citizens</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, Company F, 1st Battalion, 126th Aviation passed ARMS inspection, received and trained on the new M35A3 2 ½ ton trucks, and completed a successful, impromptu annual training with the battalion after all the UH-1 aircraft were grounded worldwide.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Fort Drum is located 20 miles south of the Canadian border in upstate New York. Most New Jersey Army National Guardsmen will spend their entire annual training at Drum. The New Jersey National Guard flexed its combat muscles at Fort Drum for almost all of August 2000.  In the second half of the month, the 119th Corps Support Battalion, the 250th Signal Battalion and the 204th Air Weather Flight, New Jersey Air National Guard, supported the joint readiness exercise "Empire Peak." All combined, it was the largest single deployment of New Jersey soldiers and airmen to Fort Drum since the retirement of the 50th Armored Division in 1991.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>For the 119th CSB, the 250th Signal Battalion and the 204th Air Weather Flight, AT was a close simulation to wartime deployment. Operation "Empire Peak" started in a staging area in Rome, New York, more than fifty miles from Fort Drum. Supporting units were required to provide logistics and com- munications to a brigade more than an hour away. Once pre-deployment activities were completed in Rome, the 27th Infantry Brigade and its supporting task force moved tactically, at night over civilian roads to Fort Drum. The troop movement took almost sixteen hours because of the large numbers of vehicles and personnel to be moved. Once at Fort Drum, the entire field area was irsealedlg and all units and personnel were considered targets for the opposing forces. The remainder of their AT was spent in the field under tactical conditions, under constant threat of infiltration and attack. The 250th provided communications to five scattered sites while conducting tactical training; the 119th CSB supported maneuver operations and supervised supply functions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/30csg.htm</href>
+        <text>30th Corps Support Group</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-150avn.htm</Url>
+    <NameNode>1-150th General Aviation Support Battalion1st Battalion - 150th Aviation Regiment (Attack)</NameNode>
+    <FullName>1-150th General Aviation Support Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>West Trenton</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/29id-avn-bde.htm</Url>
+        <Id>army/29id-avn-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Aviation Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/57tc.htm</Url>
+        <Id>/army/57tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tf-liberty.htm</Url>
+        <Id>/army/tf-liberty.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Task Force Liberty OIF-3</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer>1st Battalion - 150th Aviation Regiment (Attack)</NameFormer>
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/57tc.htm</href>
+        <h3>57th Troop Command</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/tf-liberty.htm</href>
+        <h3>Task Force Liberty OIF-3</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC
+Company A
+Company B - Picatinny Arsenal
+Company C
+Company D
+1-150 AVN (AUG)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>AH-1
+OH-58 Kiowa
+UH-1 Huey  
+UH-60A Blackhawk</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>West Trenton, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>1st Battalion - 150th Aviation Regiment (Attack)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1-150th General Aviation Support Battalion&lt;br&gt;
+&lt;strike&gt;1st Battalion - 150th Aviation Regiment (Attack)&lt;/strike&gt;</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>i</NodeType>
+        <Contents>According to some sources, the 1st Battalion, 150th Aviation Regiment in Trenton, New Jersey was to be re-equipped with AH-64 Apache helicopters, and re-flagged as the 5th Squadron, 117th Cavalry Regiment and relocate to Lakehurst NWS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/29id.htm</href>
+        <text>29th Infantry</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/29id-avn-bde.htm</href>
+        <text>Aviation Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/50psb.htm</Url>
+    <NameNode>50th Personnel Services Battalion</NameNode>
+    <FullName>50th Personnel Services Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lawrenceville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/57tc.htm</Url>
+        <Id>army/57tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>150th AG Det (PSC) - Lawrenceville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>250th AG Det (PSC) - Lawrenceville</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lawrenceville, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>50th Personnel Services Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 1997 the 50th Personnel Services Battalion provided support in the review of approximately 400 soldiers' records during three mobilization exercises for units within the New Jersey Army National Guard. During annual training at Fort Drum, N.Y., members of the battalion stepped into the position of their active duty counterparts in the 10th Mountain Division and processed personnel actions daily and performed 450 record validations from active duty soldiers of the 10th Mountain Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <text>New Jersey</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/57tc.htm</href>
+        <text>57th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/50fin.htm</Url>
+    <NameNode>50th Finance Battalion</NameNode>
+    <FullName>50th Finance Battalion</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Lawrenceville</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/57tc.htm</Url>
+        <Id>army/57tc.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>57th Troop Command</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>150th FINANCE Det - Lawrenceville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>250th FINANCE Det - Lawrenceville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>250th FIN DET FWD - Lawrenceville</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>350th FINANCE Det - Lawrenceville</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Lawrenceville, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>50th Finance Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 1997 the  50th Finance Battalion participated in operation "Call Forward" during their annual training at Fort Drum, N.Y. The battalion worked for the 33rd Finance Battalion and supported the 1215th Garrison Support (USAR). During operation "Call Forward," the 50th Finance Battalion processed 2,600 soldier records.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <text>New Jersey</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/57tc.htm</href>
+        <text>57th Troop Command</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/50ad.htm</Url>
+    <NameNode>50th Armored Division  
+"Jersey Blues"</NameNode>
+    <FullName>50th Armored Division</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/50ad.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Somerset</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/index.html</Url>
+        <Id>army/index.html</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>Army</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Units</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Somerset, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>50th Armored Division Association</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>50th Armored Division  &lt;br&gt;
+"Jersey Blues" 
+</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/50ad.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During the 1990s the 42nd Infantry Division absorbed units from the old 50th Armored Division from New Jersey and Vermont, as well as units from the 26th Infantry Division in Massachusetts and Connecticut.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>On 13 October 1945 the War Department published a postwar policy statement for the entire Army. It called for a 27-division structure with 25 infantry divisions and 2 armored divisions to accommodate the desires of all the states. During this process New York, for example, successfully petitioned the War Department for the 42d Infantry Division. When the allotment was completed, the Guard contained the 26th through 48th and the 51st and 52d Infantry Divisions and the 49th and 50th Armored Divisions. The number 39 was used for the first time since 1923. Although a 44th Infantry Division had existed during the interwar years, the postwar 44th in Illinois was a new unit, as were the 46th, 47th, 48th, 51st, and 52d Infantry Divisions and 49th Armored Division. The 50th Armored Division replaced the 44th Infantry Division in New Jersey. New Jersey, which had supported part of the 44th Division before the war, now supported the 50th Armored Division. Therefore most of its elements "inherited" the history of the organic units of the old 44th, and elements of the new 44th perpetuated the history and traditions of former units in Illinois.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1974 Army Chief of Staff Fred C. Weyand requested the National Guard Bureau to explore the consolidation of the 50th Armored and the 26th, 28th, 38th, 42d, and 47th Infantry Divisions into single or bi-state configurations and to consider the possibility of forming five more brigades. The latter were to be organized only with the secretary of defense's approval. In 1975 and 1976 the 50th Armored Division was reorganized in New Jersey and Vermont, the 28th Infantry Division in Pennsylvania, and the 42d Infantry Division in New York.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Like most other states, the Vermont Army National Guard went through many reorganizations in the 1960s. The Vermont Guard went from being part of the 43rd Division to the 50th Armored Division and in 1988 the Brigade rejoined the 26th Yankee Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Jersey Blues"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</Url>
+    <NameNode>50th Brigade - 42nd Infantry Division (Mechanized)</NameNode>
+    <FullName>50th Brigade - 42nd Infantry Division (Mechanized)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/42id-50inbde.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Fort Dix</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+        <Url>https://www.globalsecurity.org/military/facility/fort-dix.htm</Url>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id.htm</Url>
+        <Id>army/42id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>42nd Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-113in.htm</Url>
+        <FullName>2-113 IN</FullName>
+        <Name>2-113 IN</Name>
+        <Id>army/2-113in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/1-114in.htm</Url>
+        <FullName>1-114 IN (M-113A2 / M-901)</FullName>
+        <Name>1-114 IN (M-113A2 / M-901)</Name>
+        <Id>army/1-114in.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/2-102ar.htm</Url>
+        <FullName>2-102 AR (M1)</FullName>
+        <Name>2-102 AR (M1)</Name>
+        <Id>army/2-102ar.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-113in.htm</href>
+            <text>2-113 IN</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/1-114in.htm</href>
+            <text>1-114 IN (M-113A2 / M-901)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/2-102ar.htm</href>
+            <text>2-102 AR (M1)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Brigade Combat Team</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/3-112fa.htm</href>
+            <text>3-112 FA "NJ Guns" (M109A5)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/5-117cav.htm</href>
+            <text>5-117 CAV (M1 / AH-1)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/250fsb.htm</href>
+            <text>250th FSB</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/facility/fort-dix.htm</href>
+            <text>Fort Dix, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.state.nj.us/military/50bde/index.html</href>
+            <text>50th Brigade - 42nd Infantry Division (Mechanized)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>50th Brigade - 42nd Infantry Division (Mechanized)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/42id-50inbde.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 50th Brigade of the 42d Infantry Division fights and defeats enemy forces in ground combat. It is one of three 'maneuver' or 'combat' brigades within 42nd Division. The units comprising the 50th Brigade consist of Infantry, Armor, Cavalry, and Artillery battalions. The 50th Brigade can deploy and fight as an independent force with the addition of logistical support units. The Brigade Headquarters is located in Fort Dix, Burlington County, New Jersey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 50th Brigade is to deploy, fight, and defeat enemy forces in any type of terrain, weather, or combat situation. In peacetime the 50th Brigade trains its units to meet combat readiness standards, while supporting all Division operations and exercises. The 50th Brigade also provides a ready force of soldiers and equipment to assist in NJ communities when disaster or emergencies strike. Units are located in many New Jersey communities and have often been called upon to provide relief and services in emergencies.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 50th Brigade has two mechanized infantry battalions, one armor battalion,one artillery battalion, one cavalry squadron, and a platoon of military police. These are "heavy" units which are equipped with armored personnel carriers, Improved TOW missile vehicles, self-propelled howitzers,and main battle tanks.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 50th Brigade goals for 1997 were to meet and sustain training and readiness levels required to support federal and state missions. Individual and collective training occupied the main effort by the soldiers of the 50th Brigade. Effective and successful units begin with qualified and professional soldiers. During 1997, 245 Brigade soldiers attended Military Occupational Specialty Courses (MOSQ), 918 soldiers received Front Line Leadership Training and 250 soldiers attended NCO Professional Development courses. The emphasis in the 50th Brigade was on preparing the individual soldier for mobilization.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>50th Brigade elements conducted annual training at Fort Dix, New Jersey; Fort Drum, New York and Fort Knox, Kentucky. Scouts and armor crewmen from the 2nd Battalion 102nd Armor had the unique opportunity to train on the latest simulation devices at Fort Knox, Ky. Gunnery skills were enhanced as a result of this training. All eyes were on the 1st Battalion 114th Infantry as they conducted the National Guard's first ever Battle Focused Training Experiment (BFTE) at Fort Dix, New Jersey. BFTE combines live, virtual and constructive training in the same training event ensuring that troops at every level receive realistic, challenging and exciting training. The 2nd Battalion 113th Infantry provided Opposing Force (OPFOR) support to the 27th Infantry (Enhanced) Brigade over a six-week period at Fort Drum, New York. It was New Jersey's 2nd Battalion who showed the New York enhanced brigade how to plan, fight and win on today's battlefield! The 3rd Battalion 112th Field Artillery conducted gunnery exercises at Fort Drum, New York and the 5-117th Cavalry Squadron conducted its first ever consolidated training with its air troops from Rhode Island at Fort Drum, New York.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>50th Brigade commanders and battle staffs participated in a Battle Command Battle Staff Training Exercise in March of 1997. This intensive Command and Staff exercise was a tremendous success, with 50th Brigade rated most successful in comparison to other Brigades throughout the 42nd Infantry Division (ID) who participated in exercises during 1997. Once again, the 50th Brigade demonstrated to the 42nd ID staff and to Fort Leavenworth's Leadership Development Center Operations Group, that the 50th Brigade is a critical member of the Army National Guard's Combined Arms Team.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 50th Brigade continues to serve the citizens of New Jersey and the communities which surround the Interactive Community Resource Centers. 50th Brigade elements participated in 29 local parades and delivered much needed manpower and equipment in support of 85 domestic emergency (DOMAC) missions. Many 50th Brigade units and soldiers donated time, manpower and equipment to benefit youth programs such as adopting parks, building recreational centers and playgrounds for area youth and supporting the Adjutant General's Youth Camp at Sea Girt, New Jersey. The 50th Brigade was again in the forefront in serving  communities and demonstrating that the citizen soldier is alive and well in New Jersey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the 50th conducted annual training at Fort Drum, NY, Fort Leavenworth, KS, and Fort Dix. Brigade training highlights included participation in the 42nd Infantry Division War Fighter Exercise at Ft. Leavenworth.  The Brigade Headquarters and all subordinate battalions participated in a Battle Command Training Program, designed to exercise battle staffs under simulated combat conditions.  This command and staff exercise was a tremendous success as the 50th was rated highly compared to its peers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Fort Drum is located 20 miles south of the Canadian border in upstate New York. Most New Jersey Army National Guardsmen will spend their entire annual training at Drum. The New Jersey National Guard flexed its combat muscles at Fort Drum for almost all of August 2000. During the first half of the month, the 50th Brigade and the 42nd DISCOM (Division Support Command) practiced wartime skills in the north country. The 50th Brigade/DISCOM task force had to contend with cold, wet weather, alternating with hot dry, dusty conditions during their rotation. They echoed the old saying that "if you don't like the weather, wait five minutes and it will change." Training highlights for the 50th Brigade included tank gunnery by the 2-102nd Armor on the newly completed Range 25 Complex; force-on-force maneuver operations by the 5-117th Cavalry; LANES training for the 2-113rd Infantry and all units participated in firing the Mark 19 automatic grenade launcher, the combined 120mm mortar school, and TOW missile firing. The 3-112th Field Artillery completed an external evaluation which included firing more than one hundred "copperhead" precision guided munitions during their AT period.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-113in.htm</Url>
+    <NameNode>2nd Battalion, 113th Infantry</NameNode>
+    <FullName>2nd Battalion, 113th Infantry</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/113in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Riverdale</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</Url>
+        <Id>army/42id-50in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>50th Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Newark</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - Newark</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Woodbridge</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D - Jersey City</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E - Newark</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Riverdale, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.2-113.org/</href>
+            <text>2nd Battalion, 113th Infantry</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion, 113th Infantry </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/113in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion, 113th Infantry makes its headquarters in Riverdale,Morris County, New Jersey. It traces its lineage back to the Revolutionary War. This mechanized infantry battalion has four companies of infantry, an anti tank company, and a headquarters company. Units are located in Newark, Jersey City, and Woodbridge, as well as Riverdale.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The history of the 113th Infantry begins with the infantry militia of northern New Jersey in 1664. Prior to the revolution, Colonel Peter Schuyler of Belleville-Newark organized, outfitted and marched NJ troops to Canada. This militia fought in King George's War (1746-1748) and the Seven Years War (1756-1763). The 2nd Battalion, 113th Infantry traces its lineage to the American Revolution.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In October of 1775, the 1st (Eastern) Battalion was formed in Newark. During its many campaigns, it earned the motto Fidelis et Fortis (Faithful and Brave). On January 10, 1776, the unit was nicknamed "Jersey Blues," a name that one Captain Littel had given to his Newark company.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1861, New Jersey's 1st and 2nd regiments were summoned to fight at Bull Run and elsewhere. The majority of these men came from the City Battalion of Newark.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1889, several regiments were again called to federal service during the Spanish-American War. These were the 1st Regiment out of Newark, the 2nd Regiment out of Paterson and the 3rd Regiment out of Elizabeth. These regiments were also activated in 1916 as part of the 1st Jersey Brigade that defended the Mexican border.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1917, the 1st Infantry Regiment was mobilized for service in World War I. The regiment fought in the Alsace and Lorraine Campaigns and in the Meuse-Argonne Offensive. The 1st and 4th regiments, along with the 2nd NJ Infantry, formed the nucleus of the 113th Infantry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battalion 373rd Infantry (Colored) was formed by the conversion of the 1st Battalion of the New Jersey National Guard. The first unit, one of five, was Company A of Newark, which was mustered into service on September 9, 1940.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During World War II, the 113th Infantry, then part of the 44th Infantry Division, participated in most major European campaigns. Units of the 2nd Battalion, 113th Infantry (predecessors of companies now stationed at the Newark Armory landed at Normandy on D-Day. They earned citations for services in Northern France, the Rhineland, the Ardennes-Alsace and Central Europe.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the 2nd Battalion, 113th Infantry conducted a Battle Focused Training Exercise at Fort Dix, combining live, virtual and constructive scenarios into a field exercise.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit deployed in mid-June 2003 for a year to Guantanamo Bay, Cuba, to provide perimeter security there.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</href>
+        <text>50th Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/1-114in.htm</Url>
+    <NameNode>1st Battalion, 114th Infantry 
+"Move Fast, Strike Hard, Finish Rapidly"</NameNode>
+    <FullName>1st Battalion, 114th Infantry</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/114in.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Woodbury. NJ</BaseName>
+        <Deployment>false</Deployment>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</Url>
+        <Id>army/42id-50in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>50th Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Official Homepage</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Mount Holly</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - Freehold</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Burlington</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D - Freehold</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company E - Atlantic City</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>M-113A2</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>M-901</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Woodbury. NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li />
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>1st Battalion, 114th Infantry &lt;br&gt;
+"Move Fast, Strike Hard, Finish Rapidly" </Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/114in.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 1st Battalion, 114th Infantry has its headquarters in Woodbury,Gloucester County, New Jersey. It has four mechanized infantry companies, one anti tank company, and a headquarters company. It is equipped primarily with the M-113A2 Armored Personnel Carrier. Its anti-tank unit uses the M-901 Improved TOW vehicle to defeat enemy armor. The battalion also has a mortar platoon, scout platoon, medical section, maintenance platoons,and support personnel. Infantry companies are located in Freehold, Atlantic City, Mount Holly, Burlington, and Woodbury.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The original 114th Infantry was organized at Camp McClellan, Alabama, October 11, 1917 from the Third New Jersey Infantry, Fifth New Jersey Infantry and the First Delaware Infantry. The ancestor of the 114th Infantry, the Third Infantry was originally organized as Third Battalion, New Jersey Rifle Corps, in December, 1865. In July, 1866, it became Third Regiment, and was attached to an Independent Brigade, New Jersey Rifle Corps. The Third Regiment saw Active Service in railroad strike and riot duty in 1877. It served in the Spanish-American War in 1998. The Regiment was reorganized as the 114th Infantry in 1917. A year later, the unit found itself in Haute-Alsace, France for World War I. The 114th participated in the Meuse-Argonne Offensive, the famous battle where the 42nd Infantry Division lost half of its Rainbow.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the 1st battalion, 114th Infantry conducted Military Operations in Urban Terrain Training at Fort Drum, NY.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</href>
+        <text>50th Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Move Fast, Strike Hard, Finish Rapidly"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/2-102ar.htm</Url>
+    <NameNode>2nd Battalion, 102nd Armor</NameNode>
+    <FullName>2nd Battalion, 102nd Armor</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/102ar.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Port Murray</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</Url>
+        <Id>army/42id-50in-bde.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>50th Brigade</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Somerset</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - West Orange</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Newton</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company D - Hackettstown</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Equipment</h3>
+        <li>
+          <li>
+            <text>M1 Abrams</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Port Murray, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>2nd Battalion, 102nd Armor</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>2nd Battalion, 102nd Armor</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/102ar.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 2nd Battalion, 102nd Armor has its headquarters in Port Murray,Warren County, New Jersey with units in Newton, West Orange, Hackettstown,and Somerset. The 2-102 Armor has five armor companies, all equipped with the M-1 Abrams Battle Tank, and a headquarters company. Like the mechanized infantry, the armor battalion has scouts, medics, mortars, maintenance,and support sections. It is the descendent of the famous "Essex Troop"of New Jersey Cavalry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 102d Armor was organized 29 May 1913 in the New Jersey National Guard as the 1st Cavalry Squadron with Headquarters at Newark to include the following troops: Troop A (organized 3 June 1890 as the Essex Troop of Light Cavalry at Newark); Troop B (organized 24 April 1895 as the Monmouth Troop); Troop C (organized 29 May 1913 at Newark); Troop D (organized 27 August 1914 at Plainfield). 1st Cavalry Squadron mustered into federal service 21 June 1916 at Sea Girt for service on the Mexican border; mustered out 21 October 1916 at Newark. Mustered into Federal service 28 July 1917 at Sea Girt; drafted into Federal service 5 August 1917. The Squadron was broken up on 15 September 1917 and its elements reorganized and redesignated as follows: Squadron (less Troops B and D) as the 104th Train Headquarters and Military Police, an element of the 29th Division; Troops B and D consolidated to form Battery F, 110th Field Artillery of the 29th Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>After 15 September 1917, the above units underwent changes as follows: 104th Train Headquarters and Military Police (less Company B) redesignated 1 November 1918 as the 29th Military Police Company. Demobilized 30 May 1919 at Camp Dix, New Jersey. Company B, 104th Train Headquarters and Military Police, redesignated 29 October 1918 as Company C, First Army Military Police Battalion. Redesignated 15 March 1919 as the 216th Company, Military Police Corps. Demobilized 14 July 1919 at Camp Dodge, Iowa. 
+Battery F, 110th Field Artillery, redesignated 27 November 1917 as Battery F, 112th Field Artillery. Demobilized 31 May 1919 at Camp Dix, New Jersey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>1st Cavalry Squadron reorganized during 1919-1920 in the New Jersey National Guard; Headquarters Federally recognized 29 September 1920 at Newark. Reorganized and expanded 1 March 1921 to form the 1st Cavalry. Redesignated 17 August 1921 as the 102d Cavalry. Assigned in June 1937 to the 21st Cavalry Division. Reorganized 16 November 1940 as the 102d Cavalry (Horse-Mechanized) and relieved from assignment to the 21st Cavalry Division. Inducted into Federal service 6 January 1941 at Newark. Reorganized 6 April 1942 as the 102d Cavalry (Mechanized): Regiment broken up 30 November 1943 - 2 January 1944 and its elements reorganized and redesignated as follows: 2d Squadron on 30 November 1943 as the 117th Cavalry Reconnaissance Squadron, Mechanized (Headquarters and Headquarters Troop on 2 January 1944 as Headquarters and Headquarters Troop, 102d Cavalry Group, Mechanized; 1st Squadron on 2 January 1944 as the 102d Cavalry Reconnaissance Squadron, Mechanized-hereafter separate lineages).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>117th Cavalry Reconnaissance Squadron, Mechanized, inactivated 25 November 1945 in Germany. Reorganized and Federally recognized 20 November 1946 as the 117th Cavalry Reconnaissance Squadron at West Orange. Reorganized and redesignated 1 November 1949 as the 2d Battalion, 102d Armored Cavalry.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Consolidated 1 February 1968 with the 6th Battalion, 50th Armor; consolidated unit reorganized and redesignated as the 102d Armor, a parent regiment under the Combat Arms Regimental System, to consist of the 1st and 2d Battalions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 6th Battalion, 50th Armor was Organized and Federally recognized 13 February 1951 in the New Jersey National Guard as the 3rd Battalion, 102d Armored Cavalry, with Headquarters at Phillipsburg. Converted and redesignated 1 May 1954 as the 250th Tank Battalion. Reorganized and redesignated 1 March 1959 as the 2nd Medium Tank Battalion, 53rd Armor. Redesignated 31 January 1963 as the 2nd Battalion, 53rd Armor. Redesignated 15 April 1964 as the 6th Battalion, 50th Armor.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During its 1998 annual training, 27 of 29 crews of the 2nd Battalion, 102nd Armor, qualified on the Live Fire Tank Range.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</href>
+        <text>50th Brigade</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</Url>
+    <NameNode>42nd DISCOM (Division Support Command)</NameNode>
+    <FullName>42nd DISCOM (Division Support Command)</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Somerset</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id.htm</Url>
+        <Id>army/42id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>42nd Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/50msb.htm</Url>
+        <FullName>50th MSB</FullName>
+        <Name>50th MSB</Name>
+        <Id>army/50msb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/186fsb.htm</Url>
+        <FullName>186th FSB</FullName>
+        <Name>186th FSB</Name>
+        <Id>army/186fsb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/250fsb.htm</Url>
+        <FullName>250th FSB</FullName>
+        <Name>250th FSB</Name>
+        <Id>army/250fsb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/342fsb.htm</Url>
+        <FullName>342nd FSB
+
+
+State Units</FullName>
+        <Name>342nd FSB
+
+
+State Units</Name>
+        <Id>army/342fsb.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+      <SubUnitObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/250sig.htm</Url>
+        <FullName>250th SIG Bn</FullName>
+        <Name>250th SIG Bn</Name>
+        <Id>army/250sig.htm</Id>
+        <IsIndirect>false</IsIndirect>
+      </SubUnitObject>
+    </Children>
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/50msb.htm</href>
+            <text>50th MSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/186fsb.htm</href>
+            <text>186th FSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/250fsb.htm</href>
+            <text>250th FSB</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/342fsb.htm</href>
+            <text>342nd FSB
+
+
+State Units</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>1-112 FA</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/250sig.htm</href>
+            <text>250th SIG Bn</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Somerset, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.state.nj.us/military/discom/index.html</href>
+            <text>42nd DISCOM (Division Support Command)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>42nd DISCOM (Division Support Command)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 42nd Infantry Support Command (DISCOM) is a tri-state unit located in New Jersey, New York and Vermont. The 42nd DISCOM provides division-level logistics and health service support to all units of the 42nd Infantry Division. Like all other National Guard units, the 42nd DISCOM has a dual mission, federal and state. The federal mission is to provide Combat Service Support (CSS) to the 42nd Infantry Division (Mechanized) in order to sustain it's tactical authorities in the protection of life and property and the preservation of peace, order and public safety.  To this end, the 42nd DISCOM is committed towards maintaining a well-trained unit ready to accomplish all its missions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The DISCOM Mission is to provide effective and uninterrupted support to the fighting forces in the Division. In peacetime the DISCOM trains toward that goal, while supporting all Division operations and exercises. The DISCOM provides a ready force of soldiers and equipment to assist in NJ communities when disaster or emergencies strike. DISCOM vehicles and soldiers are a familiar site during weather emergencies like blizzards or floods.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 42d DISCOM has three forward support battalions (FSB) which provide direct support to the fighting forces and one main support battalion (MSB) which provides backup and more general support to the entire division. The 250th Forward Support Battalion and the 50th Main Support Battalion are located in New Jersey. New York and Vermont each have one forward support battalion. In New Jersey, the DISCOM also provides command and control of the 1st Battalion, 112th Field Artillery and the 250th Signal Battalion.
+p&amp;gt;Fort Drum is located 20 miles south of the Canadian border in upstate New York. Most New Jersey Army National Guardsmen will spend their entire annual training at Drum. The New Jersey National Guard flexed its combat muscles at Fort Drum for almost all of August 2000. During the first half of the month, the 50th Brigade and the 42nd DISCOM (Division Support Command) practiced wartime skills in the north country. The 50th Brigade/DISCOM task force had to contend with cold, wet weather, alternating with hot dry, dusty conditions during their rotation. They echoed the old saying that "if you don't like the weather, wait five minutes and it will change." The 42nd DISCOM supported all maneuver training with medical, maintenance, supply, and transportation personnel, in addition to LANES training, a mass medical casualty exercise, and extensive night operations. DISCOM also moved howitzers, armored personnel carriers, tanks, and spare parts between New York and New Jersey during AT.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was organized 22 February 1917 in the New Jersey National Guard at Newark, NJ, as the Supply Company, 1st Infantry. It was drafted into Federal Service on 5 August 1917. It reorganized and was redesignated on 11 October 1917 as the Supply Company, 113th Infantry an element of the 29th Infantry Division. It demobilized on 27 May 1919 at Camp Dix, NJ.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit reorganized and was Federally Recognized on 20 June 1919 in the New Jersey National Guard at Newark as the Supply Company, 6th Infantry. It was reorganized and redesignated on 1 March 1921 as the Service Company, 6th Infantry; and on 17 June 1921 as Service Company, 113th Infantry, an element of the 44th Division. It was inducted into Federal service on 16 September 1940 at Newark (113th Infantry relieved 20 February 1942 from assignment to the 44th Division). It inactivated on 25 September 1945 at Camp Rucker, AL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit converted and was redesignated on 1 August 1946 as Headquarters and Headquarters Company, 50th Armored Division Trains. It reorganized and was Federally recognized on 29 October 1946 at Newark. It was reorganized and redesignated on 1 April 1959 as Headquarters and Headquarters, Detachment, 50th Armored Division Trains; it concurrently relocated to Elizabeth.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It consolidated on 31 January 1963 with the 50th Armored Division Band (organized in 1920) and the consolidated unit was reorganized and redesignated as Headquarters and Headquarters and Band 50th Armored Division Support Command. It reorganized and was redesignated on 1 March 1964 as Headquarters and Headquarters Company and Band, 50th Armored Division Support Command; and on 1 December 1971 as Headquarters and Headquarters Company, 50th Armored Division Support Command (50th Armored Division Band concurrently withdrawn-hereafter separate lineage). It relocated on 1 September 1980 to East Orange.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit reorganized and was redesignated on 1 September 1993 as Headquarters and Headquarters Company, 42nd Infantry Division Support Command.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, the 42nd DISCOM reaffirmed this commitment as a relevant force by providing outstanding logistical and operational support for both federal and state missions. DISCOM units conducted or participated in approximately 112 community and/or domestic actions in 1997. Some of these activities included: Operation Guard Care, a humanitarian operation to provide support and services to homeless veterans; New Jersey National Guard youth camp at Sea Girt; Employer Support of the Guard and Reserve (ESGR) and Boss Lift, a program that enables employers to visit military installations and observe first hand their "citizen soldier" employees in training; Operation REEFEX, a New Jersey National Guard project that uses excess, obsolete military equipment to build artificial reefs off the Atlantic coast to prevent coastal erosion and to provide a home for marine life; the Garden State Games, an athletic event for physically challenged youngsters and community exhibitions, athletic events, parades, dedications, retirements and military funerals. From equipment to soldiers, DISCOM units around the state gave back to their communities the support their communities have given them.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>42nd DISCOM soldiers consistently demonstrated their ability to respond quickly and effectively whenever or wherever they were needed. While working along with federal, state and local civil authorities, they responded with the same enthusiasm and professionalism inherent in their units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Elements of the 42nd DISCOM supported seven major annual training periods at Fort Drum, N.Y.; Fort Dix, N.J.; Fort A.P. Hill, Va.; and Camp Irwin, Calif. (the National Training Center); successfully providing logistical support in maintenance, medical and logistical operations. These multiple support missions assisted units from the 50th, 3rd and 186th Brigades of the 42nd Infantry Division. Specialized teams provided maintenance and logistical support to maneuver units conducting tactical field exercises and tank gunnery and participated in the Battle Field Training Experiment conducted by the Training and Training Technology Battle Lab.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Medical Operations (Company C, 250th Forward Support Battalion &amp;amp; Company F, 50th Main Support Battalion) supported run Mobilization Exercises (MOBEX). During each exercise, medical soldiers processed approximately 100-700 soldiers through various stations which included: vaccinations for hepatitis B, dental examinations, vision checks (prescription and color blindness), as well as physical exams. As a result, soldiers records were updated in accordance with current divisional standards to ensure maximum deployability of unit personnel.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>While the DISCOM achieved outstanding results in support operations, tremendous gains were realized on the personnel side. Commanders at all levels continued to work with the employers of our soldiers educating them on the Guard's real world mission. By gaining a better appreciation of what our soldiers do, employers will be more understanding of the reason for their employee's absence due to military training requirements. This has resulted in increased soldier attendance at annual and weekend training, improved performance and military skill qualification, and an overall increase in the strength of the DISCOM, from 97% to 107%.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>With strength maintenance as the DISCOM's number one priority, several recruiting and retention initiatives were implemented. First, unit level retention seminars were conducted with an emphasis on the front line leaders and the unit sponsorship programs. This had an excellent effect on retention statistics enabling DISCOM to not only exceed its strength maintenance goals but also lead the state in the lowest percentage of soldier losses or attrition (9.06%).   Second, retention and strength maintenance activities were integrated within the yearly training program ensuring some type of retention activity was conducted during each training quarter. The wide spread support given to such events as our annual Hail &amp;amp; Farewell and the DISCOM Golf Tournament are clear indicators of community involvement and motivated soldiers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, DISCOM units conducted or assisted in approximately 66 community and/or domestic actions in 1998.  These included transportation missions, equipment loans and soldier support.  Some of these activities were related to Operation Guard Care, a humanitarian operation to provide assistance to homeless veterans; New Jersey National Guard Youth Camp at Sea Girt; Employer Support of the Guard and Reserve Boss Lift, a program that enables employers to visit military installations and observe their citizen-soldier employees; Operation REEFEX, a project that uses excess, obsolete military equipment to build artificial reefs off the coast which prevent beach erosion and provide a home for marine life.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Also in 1998, elements of the 42nd DISCOM supported numerous major annual training periods at Fort Drum, New York; West Point, Letterkenny, Pennsylvania; Fort Leavenworth, Kansas; Fort Irwin, California, and a variety of home station locations.  DISCOM assisted units from the 50th Brigade, New York's 3rd Brigade, and Vermont's 86th Brigade, as well as all elements of the 42nd Infantry Division. Specialized teams provided maintenance and logistical support to units conducting tactical field exercises and tank gunnery training, and participated in the Battle Focused Training Exercise conducted by the Training and Training Technology Battle Lab at Fort Dix. A large logistical element of the DISCOM participated in the Battle Command Training Program War Fighter Exercise (BCTP-WFX) at Fort Leavenworth.  This major exercise included units of the entire 42nd Infantry Division from across the United States. This is the third Warfighter Exercise in which DISCOM has participated.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, 42nd DISCOM units conducted or assisted in approximately 66 community and/or domestic actions in 1999. These included transportation missions, equipment loans and soldier support. Some of these activities were related to Operation Guard Care, a humanitarian operation to provide assistance to homeless veterans; New Jersey National Guard Youth Camp at Sea Girt; Employer Support of the Guard and Reserve Boss Lift, a program that enables employers to visit military installations and observe their citizen-soldier employees; as well as a variety of community exhibitions, athletic events, parades, dedications, retirements, military funerals, and The Adjutant General's Annual 5K Run, an event which encourages community involvement and promotes physical fitness. Elements of the 42nd DISCOM supported numerous major annual training periods at Fort Drum, NY; West Point, Letterkenny, PA; Fort Leavenworth, KS; Fort Irwin, CA, and a variety of home station locations.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne Corps</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/50msb.htm</Url>
+    <NameNode>50th Main Support Battalion</NameNode>
+    <FullName>50th Main Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/50msb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Teaneck</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</Url>
+        <Id>army/42id-discom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>DISCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tf-liberty.htm</Url>
+        <Id>/army/tf-liberty.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Task Force Liberty OIF-3</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/tf-liberty.htm</href>
+        <h3>Task Force Liberty OIF-3</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD
+Company A (S&amp;S)
+Company B (TMT) - Dover
+Company C (LTMT)
+Company D (HVMT) - West Orange
+Company E (MSLSPT) - West Orange
+Company F (MED) - Jersey City</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Teaneck, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>50th Main Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>50th Main Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/50msb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</href>
+        <text>DISCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/186fsb.htm</Url>
+    <NameNode>186th Forward Support Battalion</NameNode>
+    <FullName>186th Forward Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/186fsb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Northfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>VT</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</Url>
+        <Id>army/42id-discom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>DISCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-vt.htm</Url>
+        <Id>/army/arng-vt.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>Vermont National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>Vermont</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-vt.htm</href>
+        <h3>Vermont National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Operational BCT</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/42id-86bde.htm</href>
+            <text>86th Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD
+Company A (SUP) - Windosr
+Company B (MAINT) - Winooski
+Company C (MED) - Winooski</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Northfield, VT</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>186th Forward Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>186th Forward Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>images/186fsb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</href>
+        <text>DISCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/250fsb.htm</Url>
+    <NameNode>250th Forward Support Battalion</NameNode>
+    <FullName>250th Forward Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/250fsb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sea Girt</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</Url>
+        <Id>army/42id-discom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>DISCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Operational BCT</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/42id-50in-bde.htm</href>
+            <text>50th Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A (SUP)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B (MAINT) - Bordentown</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C (MED)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Sea Girt, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>250th Forward Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>250th Forward Support Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/250fsb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 250th Forward Support Battalion has its headquarters in Sea Girt, Monmouth County, New Jersey. It has one supply company,one maintenance company, and a medical company.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The supply company provides food, fuel, ammunition, spare parts, and all types of supplies to fighting units. It provides "one stop shopping" on the battlefield. The maintenance company evacuates and fixes every kind of military vehicle and equipment - from tanks to hummvees to computers. The medical company is the battlefield emergency room -- it provides front line treatment and evacuation of casualties. Together the three companies provide service to the troops on the front line.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, the 250th Forward Support Battalion (FSB) conducted the annual Adjutant General's 5K Run, an event that encourages community participation and promotes physical fitness. The 250th FSB was the primary provider of both personnel and logistical support for the New Jersey Junior ROTC drill team competition held at Sea Girt. This annual event involves over 20 different high school drill teams. Company B, 250th Forward Support Battalion specifically distinguished itself by being nominated for the Outstanding Company Maintenance Award.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the 250th Forward Support Battalion assisted the 50th Brigade both at Fort Drum and Fort Dix. Additionally, the battalion assisted artillery contact teams in support of the 3-112th Field Artillery's six-day field training exercise at Fort Dix.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the 250th Forward Support Battalion assisted the 50th Brigade both at Fort Drum and Fort Dix.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</href>
+        <text>DISCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/342fsb.htm</Url>
+    <NameNode>342nd Forward Support Battalion
+"Support Not Words"</NameNode>
+    <FullName>342nd Forward Support Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/342fsb.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Yonkers</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NY</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</Url>
+        <Id>army/42id-discom.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>DISCOM</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-ny.htm</Url>
+        <Id>/army/arng-ny.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New York National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New York</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-ny.htm</href>
+        <h3>New York National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Operational BCT</h3>
+        <li>
+          <li>
+            <href>https://www.globalsecurity.org/military/agency/army/42id-3bde.htm</href>
+            <text>3rd Brigade</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHD</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A (Supply) - Brooklyn</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B (Maintenance) - Fort Drum</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C (Medical) - Buffalo</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Yonkers, NY</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.342fsb.8m.com/</href>
+            <text>342nd Forward Support Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>342nd Forward Support Battalion
+&lt;br&gt;"Support Not Words"</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/342fsb.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 342nd Forward Support Battalion, 42nd Infantry (Rainbow) Division, is headquarted in Yonkers, NY, with elements spread throughout the state from Brooklyn to Buffalo.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The federal mission of the 342nd FSB is to provide combat service support to the 3rd Brigade, 42d Infantry Division. Its state mission is to answer the call of the governor and provide assistance to local communities and civil authorities in times of crisis.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The headquarters and headquarters detachment provides the overall planning, guidance and direction for all the efforts of the battalion. The unit's leaders work hand in hand with those of the 3rd Brigade and 42d Infantry Division to plan both wartime and peace time missions; whether it be preparing to conduct an annual training rotation, a warfighter exercise in places like Ft Leavenworth, Puerto Rico or Germany, or supporting the citizens of the state of New York like during the Ice Storm of 1998.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company B (maintenance) provides direct support level repairs to nearly every piece of equipment you'll find within a combat brigade, from HMMWV's and M1 Tanks to missile systems, radios and other advanced electronics systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Company C (medical) provides combat health services to the men and women of the supported brigade.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id-discom.htm</href>
+        <text>DISCOM</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName>"Support Not Words"</NickName>
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/250sig.htm</Url>
+    <NameNode>250th Signal Battalion</NameNode>
+    <FullName>250th Signal Battalion</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/250sig.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Westfield</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/42id.htm</Url>
+        <Id>army/42id.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>42nd Infantry Division</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/tf-liberty.htm</Url>
+        <Id>/army/tf-liberty.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Unknown</Type>
+        <Name>Task Force Liberty OIF-3</Name>
+      </HigherHqObject>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>/army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Part of</Type>
+        <Name>New Jersey National Guard</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Volunteer</UnitComponent>
+    <UnitNGState>New Jersey</UnitNGState>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/tf-liberty.htm</href>
+        <h3>Task Force Liberty OIF-3</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <h3>New Jersey National Guard</h3>
+        <li />
+      </TableNode>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>HHC</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company A - Cherry Hill</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company B - Flemington</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>Company C - Somerset</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Westfield, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>250th Signal Battalion</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>250th Signal Battalion</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/250sig.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 250th Signal Battalion is the most high tech unit in the NJ Guard. It deploys mobile cellular telephone technology to every customer in the Division. The battalion has its headquarters in Westfield, with companies in Woodbridge, Somerset, Flemington, and Woodbury. The unit is capable of providing a mobile telephone network covering all of New Jersey.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 250th Signal Battalion was originally organized on 21 February 1917 in the New Jersey National Guard at Newark as Headquarters Company, 1st Infantry. It was drafted into Federal service on 5 August 1917, before bring reorganized and redesignated on 11 October 1917 as Headquarters Company, 113th Infantry, an element of the 29th Division. The unit was demobilized pm 27 May 1919 at Camp Dix, NJ.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was reorganized and Federally recognized on 30 June 1919 in the New Jersey National Guard at Newark as Headquarters Company, 6th Infantry. It was redesignated on 17 June 1921 as Headquarters Company, 113th Infantry, an element of the 44th Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit was inducted into Federal service on 16 September 1940 at Newark (the 113th Infantry was relieved on 20 February 1942 from assignment to the 44th Division). It inactivated on 25 September 1945 at Camp Rucker, AL.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/250sig-2.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>It was converted and redesignated on 1 August 1946 as the 50th Armored Signal Company and assigned to the 50th Armored Division. It was reorganized and Federally recognized on 10 February 1947 at Newark. Its location changed on 31 January 1957 to Plainfield.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Reorganized and redesignated on 1 March 1959 as Headquarters and Headquarters Company, 250th Signal Battalion, the unit remained assigned to the 50th Armored Division (its organic elements were concurrently organized from new and existing units).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The unit's Headquarters relocated on 1 February 1968 to Orange; and on 1 November 1973 to Plainfield. It was relieved on 1 September 1993 from assignment to the 50th Armored Division and assigned to the 42d Infantry Division.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1997, the 250th Signal Battalion initiated and  ran a specialized military school to train soldiers in systems communications and operations. This highly technical and comprehensive course taught by instructors from the 250th Signal Battalion, has saved thousands of dollars in training time and resources because soldiers do not have to travel and train at military schools outside New Jersey. The Signal Battalion is also actively engaged in a joint effort with the U.S. Army Communications Command (CECOM) in testing and fielding new model/series radios to help determine future acquisition of new generation communications equipment for the U.S. military.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the 250th Signal Battalion participated in communication exercises throughout the state.  The 250th possesses the Mobile Subscriber Equipment which places cellular phone communications capability (phone, radio and fax) directly on the battlefield.  The battalion also serves as a "test bed" for communications equipment being considered for use by army units.  The 250th has been actively involved with Army Communications Command in testing, evaluating and fielding radios to determine future needs and acquisitions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the 250th Signal Battalion participated in communication exercises throughout the state. The battalion also serves as a "test bed" for communications equipment being considered for use by army units. The 250th has been actively involved with Army Communications Command in testing, evaluating and fielding radios to determine future needs and acquisitions.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/xviii-corps.htm</href>
+        <text>XVIII Airborne</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/42id.htm</href>
+        <text>42nd Infantry Division</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/254rgt.htm</Url>
+    <NameNode>254th Regiment (Combat Arms)</NameNode>
+    <FullName>254th Regiment (Combat Arms)</FullName>
+    <LogoUrl>https://www.globalsecurity.org/military/agency/army/images/254rgt.gif</LogoUrl>
+    <Locations>
+      <LocationObject>
+        <BaseName>Sea Girt</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>1st Battalion (AR)</text>
+            <Former>false</Former>
+          </li>
+          <li>
+            <text>2nd Battalion (GS)
+
+Company A (CA)
+Company B (ORD)
+Company C (OCS)
+Company D (LDR)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Sea Girt, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <href>http://www.state.nj.us/military/254/index.html</href>
+            <text>254th Regiment (Combat Arms)</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>254th Regiment (Combat Arms)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>img</NodeType>
+        <Contents>https://www.globalsecurity.org/military/agency/army/images/254rgt.gif</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 254th Regiment (CA) provides a training environment to conduct Combat Arms training. The 254th Regiment is accredited by TRADOC and instructs TRADOC-approved programs of instruction under the direction of the proponent school.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The mission of the 254th Regiment is to provide training in armor, armor scout and mechanized infantry, and field artillery crewman skill areas.  The unit provides Combat Arms (19K, 19D, 11H, 13E, 13F) Military Occupation Skill Qualifier, Additional Skill Indicator, Non Commissioned Officer Basic and Advanced, OCS, CO, XO, Sustainment, and Transition Training for all AC/RC soldiers, which enables Armed Forces components to mobilize and deploy units capable of meeting wartime mission requirements on current and force modernization equipment systems.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 254th Regiment is the coordinating Headquarters for Region A, which consists of units located in the following states: Massachusetts, Vermont, New Hampshire, Maine, New York, Connecticut and Rhode Island. The Regional Training Institute (RTI) consists of: the Headquarters 254th Regiment (CA), 1st Battalion (Armor), 2nd Battalion (General Support), Company A (Combat Arms), Company B (Ordnance and Regional Training Site located at Fort Dix), Company C (Officer Candidate School), and Company D (Leadership).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 254th Regiment is located in the seaside resort of Sea Girt, New Jersey, and is a demand-supported organization designed to support the user. The courses scheduled for Fiscal Year 1998 are based on the results of the Training Resources Allocation Program, (TRAP) and requests from supported units. Requirements in excess of those listed should be brought to the attention of the Commander 254th Regiment (CA).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The 254th Regiment experienced a very successful training year during 1999. As The Army School System (TASS) Headquarters for the Northeast Region the Regiment graduated 405 students in various combat arms MOSs as well as leadership courses such as Advanced Noncommissioned Officer Course (ANCOC) and Basic Non-commissioned Officer Course (BNCOC) for New Jersey Guardmembers. The Regiment assisted the Massachusetts Field Artillery Battalion (1-101st FA [T]), which is part of the 254th, in receiving accreditation by the Fort Sill Artillery School as a TASS School. Additionally, the New Jersey Non-commissioned Officer Education Schools (NCOES) Company received accreditation, with no deficiencies, during the audit of their program by the Sergeants Major Academy, Fort Bliss, TX. The Regimental Armor Battalion (1-254th AR) negotiated with the Lakehurst Naval Air Engineer Station (NAES) for the use of a dirigible hangar for the conduct of the two week phase of the 19K Armor Crewman MOSQ School. Nineteen tanks were positioned on the hangar floor with all support equipment, affording the students a sheltered training environment. This innovative idea proved its worth when Hurricane Floyd struck in the middle of the first week. Training proceeded without interruption with no training time lost. More training is planned using the hangar during Training Year 2000.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <text>New Jersey</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+  <GlobalSecurityObject>
+    <Url>https://www.globalsecurity.org/military/agency/army/t3bl.htm</Url>
+    <NameNode>Training and Training Technology Battle Lab</NameNode>
+    <FullName>Training and Training Technology Battle Lab</FullName>
+    <Locations>
+      <LocationObject>
+        <BaseName>Ft Dix</BaseName>
+        <Deployment>false</Deployment>
+        <Location>NJ</Location>
+        <IsCurrent>true</IsCurrent>
+      </LocationObject>
+    </Locations>
+    <HigherHq>
+      <HigherHqObject>
+        <Url>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</Url>
+        <Id>army/arng-nj.htm</Id>
+        <IsCurrent>true</IsCurrent>
+        <Type>Assigned</Type>
+        <Name>New Jersey</Name>
+      </HigherHqObject>
+    </HigherHq>
+    <Children />
+    <UnitService>Army</UnitService>
+    <UnitComponent>Active</UnitComponent>
+    <NameFormer />
+    <TableNodes>
+      <TableNode>
+        <h3>Units</h3>
+        <li>
+          <li>
+            <text>High Tech Training Center Site - Maint</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Facilities</h3>
+        <li>
+          <li>
+            <text>Ft Dix, NJ</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+      <TableNode>
+        <h3>Official Homepage</h3>
+        <li>
+          <li>
+            <text>Training and Training Technology Battle Lab</text>
+            <Former>false</Former>
+          </li>
+        </li>
+      </TableNode>
+    </TableNodes>
+    <Description>
+      <DescriptionObj>
+        <NodeType>h1</NodeType>
+        <Contents>Training and Training Technology Battle Lab</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The ARNG Training and Training Technology Battle LAB (T3BL) is aggressively pursuing training into the 21st Century with an addition to the current facility that will provide and integrate the most current training devices and strategies in the Army.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>Phase I of the construction was the Synthetic Theater of War (STOW) hub and was completed in 1999. A STOW hub delivers the virtual and constructive capabilities to link multiple locations that have the capabilities to connect unique and varied simulators and simulations. Phase II construction was fully funded in the 1999 budget and construction will begin in the fall of 2000. It will encompass six night fighting lanes, a Close Combat Tactical Trainer bay to accommodate an Abrams and Bradley Company suite and a Fire Support Combined Arms Tactical Trainer (FSCATT) bay, and eight multimedia classrooms.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>T3BL Training Branch conducted testing and evaluation on numerous Training Aids, Devices, Simulators and Simulations (TADSS) during 1999. The goal continues to be the integration of the live, virtual and constructive training domains to maximize training opportunities for all Reserve Component units.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, a Battle Focused Training Exercise (BFTX) was conducted with 2-113th Infantry from July 25 to August 8 at Fort Dix to validate the Battle Focused Training Strategy (BFTS).  This strategy was conceived and developed by T3BL and was the basis for this training exercise.  In 1997, this training was conducted as an experiment to validate the principal strategy.  Platoons conducted scenario-based maneuver training (lanes training), company commanders and battalion staff rehearsed the Battalion's Selected Course of Action in the constructive environment and the final operation was executed both constructive and live.  The entire BFTX capitalized on operating in live, virtual and constructive training environments.  T3BL Battle Staff Training Branch assisted the unit in battalion staff training on the Janus Constructive Simulation.  As a result, the BFTS was further validated as an effective training method.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The lab developed a Weapons of Mass Destruction (WMD) emergency response scenario utilizing Spectrum and Janus constructive simulations.  Each simulation database was manipulated from its military application to that of a civilian emergency response.  Spectrum provides the situational events and Janus the ability to execute response actions.  These two simulators are used to train emergency responders and Emergency Operation Centers. A joint simulation exercise demonstration was presented on November 14, during the FEMA Region 2, WMD Conference held at the T3BL. Efforts to coordinate and schedule exercises with these simulations for local, county, and state emergency response personnel continue.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, expanding upon the successful Battle Focused Training Strategy, the T3BL developed the Field Artillery Enhanced Training Experiment (FAETE) that fully integrates the live, virtual and constructive training environments. FAETE revolved around a constructive battle being fought on the JANUS simulation by the 50th Brigade, 42nd Infantry Division, with the Brigade Tactical Operation Center (TOC), along with two maneuver Task Force TOC's live in the field. The 3- 112th Field Artillery provided direct support artillery to the brigade from live and virtual firing positions. FAETE was planned as an experiment to train Field Artillery units at the level organized by optimizing the capabilities of live, virtual and constructive training environments. The key element of FAETE was the use of a constructive simulation, FIRESIM XXI, which was developed at the Depth and Simultaneous Attack Battle Lab at Fort Sill, OK. During FAETE, FIRESIM XXI was the integral component in creating a STOW environment, which linked the live fire support Command, Control and Communications systems of the FA Battalion with a Distributive Interactive Simulation compliant version of JANUS. The experiment was conducted from July 10-24 at Fort Dix, and was a resounding success. This experiment yielded a training strategy that will enhance training for all Field Artillery units by providing an environment to conduct multiechelon training under the "train as you fight" principle.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The T3BL's Civil Support OPS Group conducted a Weapons Of Mass Destruction exercise for the Burlington County Emergency Operations Coordinator and his staff on August 28. This exercise was designed to replace a "Table Top" exercise using computer simulation as the training driver, which supported the EOC Staff and supporting organizations in the county. It was stressed to the county that this was their exercise and the computer was another tool. The planning for the exercise began 4 months earlier and included a Familiarization Exercise conducted on July 24. The exercise was executed in three phases: Alert and Response, Incident Mitigation, and Recovery. County and Township participants included representatives from the police, SWAT, fire, EMS, HAZMAT team, and Health.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Field Artillery Team</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the Field Artillery Team provided the expertise for the Fire Support Combined Arms Tactical Trainer user test conducted at Fort Sill, OK.  The team was also developing the Field Artillery Enhanced Training Experiment (FAETE) and a STOW which was to integrate live, virtual and constructive training in July 1999.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the Field Artillery Team provided Subject Matter Expert (SME) support to Raytheon in Orlando, FL, assisting in the development of the FSCATT. The Battle Lab received two of the half million dollar devices in February. They also have worked closely with Fidelity Technologies enhancing the Guard Unit Armory Device Full Interactive Simulation Trainer (GUARDFIST) II and IIA, which trains forward observers on how to call for fire. The FA Team also utilized the technology of the Digital Systems Test and Training Simulator (DSTATS), and linked DSTATS with GUARDFIST II/IIA. As a result of their expertise, NGB-ART requested a training strategy for ARNG utilization of the DSTATS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Armor Team</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the Armor Team provided instructor support to Region A Total Army School System (TASS) for the accreditation of the Armor Crewman Reclassification Course.  They also performed as Subject Matter Experts advising Region A TASS on the Abrams Full Crew Interactive Simulation Trainer (A-FIST) and developed its initial inclusion into the Program Of Instruction for the Armor Transition Reclassification Course.  A-FIST's inclusion into the instruction program was approved by the Fort Knox Armor School.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the Armor Team continued work on the Abrams Full Crew Interactive Simulator Trainer (AFIST), an M1 tank full crew simulator. As the Guard SME on the AFIST, the Armor Team has been working with NGB on recommendations to network the AFIST device to conduct platoon level training. Their current mission will be ensuring that various armor simulations are PC compatible.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Infantry Team</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1998, the Infantry Team continued efforts to refine small arms TADSS and integrate them into weapons training strategies.  One device in this arena is an electronic laser-sensored replica of the Army's Alternate Course (Alt. "C") rifle qualification target.  This past summer the Alt. "C" device was subjected to initial user and preliminary beta testing at the T3BL as part of an ongoing joint effort between the National Guard and Army Reserve.  The device, manufactured in New Jersey by Robotec, could well become a standard means of rifle qualification throughout the active and reserve components of both the Army and Air Force.  The Infantry team also conducted two Heavy Anti-armor Weapons (HAW) Leaders Courses at Fort Dix for the Egyptian Army.  The courses focused on the tactical employment of the TOW HAW and were developed and customized in-house by T3BL training developers.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, the Infantry Team continued testing and evaluation on the Engagement Skills Trainer (EST); a laser operated small arms and crew served weapons firing simulator. They also worked with BEAMHIT America on their laser operated small arms simulators the BeamHit 2000, BeamHit Blazer and the BeamHit 25 meter Alternate Course C (Small Arms Qualification). In addition, the Infantry Team wrote a capabilities study, as directed by NGB, for the BeamHit 2000 simulated infantry trainer.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>b</NodeType>
+        <Contents>Regional Training Site - Maintenance (RTS-M)</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Regional Training Site - Maintenance (RTS-M) at Fort Dix has a key role in the overall TASS to provide wheel and track vehicle maintenance training to Army forces located in the Northeast region.  Training is provided on primary Army systems such as the High Mobility Multi Purpose-wheeled Vehicle, Palletized Loading System, Bradley Fighting Vehicle, Abrams M1 series of Main Battle Tanks, recovery operations, logistical training, and Non-Commissioned Officers Educational System (NCOES).</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>During 1998, the RTS-M trained 400 soldiers in maintenance and leadership skills.  The NJ RTS-M was one of the top rated RTS-M's in the entire nation.  Following 1997's success as the first RTS-M to provide Distributive Learning (DL), the RTS-M is currently developing DL programs that will have a direct impact on readiness.  In September 1998, the RTS-M began broadcasting readiness ordnance courses to twelve states. The RTS-M, with funding from both the NJARNG and the National Guard Bureau, has created a state-of-the-art mechanist and welding facility. The RTS-M is one of only three Army facilities in the entire nation capable of training and qualifying national guard, reserve, and active duty soldiers in the Military Occupation Specialties (MOS).  Following an evaluation by the Combined Arms Support Command from Fort Lee, the RTS-M was accredited and certified to provide MOS-Q and NCOES instruction to soldiers under the TASS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The successes of the RTS-M during 1999 included training over 350 soldiers in maintenance and leadership skills, the first RTS-M to provide distributive training (Distance Learning) to several sites at once, assisted the Combined Arms Support Command at Fort Lee to develop, test and validate emerging Total Army School System Courses. The RTS-M has been assigned the Army wide mission under Total Army School System (TASS), to train Welders (44B) and Mechanists (44E MOSQ and NCOES) in all 7 Regions of TASS.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>In 1999, virtual, Live and Constructive (VLC) Training Environments for Maintenance, a concept for training future maintenance technicians, was evaluated at the T3BL. This evaluation was conducted under an Army Concept Evaluation Program sponsored by the Army Training and Doctrine Command in Washington, DC. The study did prove, with the help of many New Jersey National Guard soldiers, that integrating the VLC domains can provide quality training at a reduced cost.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The Battle Lab and RTS-M, in concert with NGB and Security Assistance Training Field Activity, has further extended its responsibilities, by training International Military Students on operations, maintenance, and employment of the M60A3 Tank and M109A5 Howitzer. Two groups of Greek students were trained during 1999.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+      <DescriptionObj>
+        <NodeType>#text</NodeType>
+        <Contents>The T3BL has played an integral part in the development of Distributed Training Technology's during 1999. T3BL advises and assists in developing and implementing DoD learning technology policies and standards to ensure interoperability and effectiveness of advanced learning products and processes. The T3BL serves as a focal point for developing, coordinating, and applying distributed training technologies. The Lab promotes collaboration between federal, state, and local government activities, as well as with industry and academia, on all aspects of learning technology.</Contents>
+        <IsItalic>false</IsItalic>
+      </DescriptionObj>
+    </Description>
+    <Breadcrumbs>
+      <li>
+        <href>https://www.globalsecurity.org/index.html</href>
+        <text>Home</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/index.html</href>
+        <text>Military</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/index.html</href>
+        <text>Agencies</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/index.html</href>
+        <text>Army</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng.htm</href>
+        <text>ARNG</text>
+        <Former>false</Former>
+      </li>
+      <li>
+        <href>https://www.globalsecurity.org/military/agency/army/arng-nj.htm</href>
+        <text>New Jersey</text>
+        <Former>false</Former>
+      </li>
+    </Breadcrumbs>
+    <NickName />
+  </GlobalSecurityObject>
+</ArrayOfGlobalSecurityObject>
