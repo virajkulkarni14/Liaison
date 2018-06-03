@@ -53,13 +53,15 @@ namespace Liaison.Helper.Enumerators
 
     public enum HigherHqType
     {
-        Unknown=1,
-        Organic,
-        Alligned,
-        Assigned,
-        ADCON,
-        OPCON,
-        PartOf,
+        Unknown=0,
+        Organic=1,
+        Assigned=2,
+        Attached=3,
+        OPCON=4,
+        TACON=5,
+        ADCON=6,
+        Detached=7,
+        TaskForce=8
     }
     public enum ServiceTypeBLL
     {

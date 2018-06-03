@@ -45,8 +45,45 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\IUnit.cs" />
+    <Compile Include="Models\BLLBase.cs" />
+    <Compile Include="Models\BLLBases.cs" />
+    <Compile Include="Models\BLLMission.cs" />
+    <Compile Include="Models\BLLMissions.cs" />
+    <Compile Include="Models\BLLRelationship.cs" />
+    <Compile Include="Models\BLLRelationships.cs" />
+    <Compile Include="Models\BLLUnit.cs" />
+    <Compile Include="Models\Equipment\AEquipment.cs" />
+    <Compile Include="Models\Equipment\BLLAircraft.cs" />
+    <Compile Include="Models\ExtensionMethods.cs" />
+    <Compile Include="Models\IBase.cs" />
+    <Compile Include="Models\Unit\AirForceBase.cs" />
+    <Compile Include="Models\Unit\AirSquadron.cs" />
+    <Compile Include="Models\Unit\AUnit.cs" />
+    <Compile Include="Models\Unit\AdminCorps.cs" />
+    <Compile Include="Models\Unit\Brigade.cs" />
+    <Compile Include="Models\Unit\Command.cs" />
+    <Compile Include="Models\Unit\Corps.cs" />
+    <Compile Include="Models\Unit\DetachmentBll.cs" />
+    <Compile Include="Models\Unit\Division.cs" />
+    <Compile Include="Models\Unit\FieldArmy.cs" />
+    <Compile Include="Models\Unit\FiveStar.cs" />
+    <Compile Include="Models\Unit\FourStar.cs" />
+    <Compile Include="Models\Equipment\IEquipment.cs" />
+    <Compile Include="Models\Unit\IUnit.cs" />
     <Compile Include="Models\UnitRelationship.cs" />
+    <Compile Include="Models\Unit\NamedFleet.cs" />
+    <Compile Include="Models\Unit\NavalAirWing.cs" />
+    <Compile Include="Models\Unit\NavalSquadron.cs" />
+    <Compile Include="Models\Unit\NumberedAirForce.cs" />
+    <Compile Include="Models\Unit\NumberedFleet.cs" />
+    <Compile Include="Models\Unit\OneStar.cs" />
+    <Compile Include="Models\Unit\TacticalAirForce.cs" />
+    <Compile Include="Models\Unit\TaskForceBll.cs" />
+    <Compile Include="Models\Unit\ThreeBar.cs" />
+    <Compile Include="Models\Unit\ThreeStar.cs" />
+    <Compile Include="Models\Unit\TwoBar.cs" />
+    <Compile Include="Models\Unit\TwoStar.cs" />
+    <Compile Include="Models\Unit\Vessel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Translators\LiaisonSql.cs" />
   </ItemGroup>

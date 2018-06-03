@@ -1643,7 +1643,7 @@ namespace Liaison.Biz.Converter
             {
                 case "Aligned":
                     {
-                        return HigherHqType.Alligned;
+                        return HigherHqType.Attached;
                     }
                 case "Assigned":
                     {
@@ -1663,7 +1663,7 @@ namespace Liaison.Biz.Converter
                     }
                 case "Part of":
                     {
-                        return HigherHqType.PartOf;
+                        return HigherHqType.TaskForce;
                     }
                 case null:
                 case "":

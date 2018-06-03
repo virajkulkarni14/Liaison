@@ -10,12 +10,8 @@ namespace Liaison.Web.Asp.Controllers
 {
     public class OrbatController : Controller
     {
-        // GET: Orbat
-        public ActionResult Index()
+        public ActionResult Index(string input)
         {
-            string input = "JFHQ";
-
-            
             var model = LiaisonSql.GetTree(input);
 
 

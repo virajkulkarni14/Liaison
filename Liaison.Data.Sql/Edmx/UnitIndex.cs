@@ -16,8 +16,12 @@ namespace Liaison.Data.Sql.Edmx
     {
         public int UnitIndexId { get; set; }
         public string IndexCode { get; set; }
-        public System.Guid UnitGuid { get; set; }
+        public Nullable<System.Guid> UnitGuid { get; set; }
         public int UnitId { get; set; }
+        public bool IsSortIndex { get; set; }
+        public bool IsDisplayIndex { get; set; }
+        public bool IsAlt { get; set; }
+        public Nullable<int> DisplayOrder { get; set; }
     
         public virtual Unit Unit { get; set; }
     }

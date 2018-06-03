@@ -49,6 +49,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Edmx\AdminCorp.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\Aircraft.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\Base.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\EquipmentOwner.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
     <Compile Include="Edmx\Liaison.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -64,6 +76,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Liaison.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Edmx\Mission.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\MissionUnit.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
     <Compile Include="Edmx\Rank.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
@@ -71,6 +89,33 @@
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
     <Compile Include="Edmx\RelationshipType.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\Service.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\ServiceType.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\Ship.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\ShipClass.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\ShipClassMember.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\ShipPrefix.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\SortOrder.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\TaskForce.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\Tennant.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
     <Compile Include="Edmx\Unit.cs">

@@ -5,12 +5,83 @@
     <!-- SSDL content -->
     <edmx:StorageModels>
     <Schema Namespace="LiaisonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AdminCorps">
+          <Key>
+            <PropertyRef Name="AdminCorpsId" />
+          </Key>
+          <Property Name="AdminCorpsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Code" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="ParentUnitId" Type="int" />
+        </EntityType>
+        <EntityType Name="Aircraft">
+          <Key>
+            <PropertyRef Name="AircraftGuid" />
+          </Key>
+          <Property Name="AircraftId" Type="int" />
+          <Property Name="AircraftGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Mark" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Sort" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltCode" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltName" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltSort" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Base">
+          <Key>
+            <PropertyRef Name="BaseId" />
+          </Key>
+          <Property Name="BaseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SortName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Prefix" Type="nvarchar" MaxLength="50" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Suffix" Type="nvarchar" MaxLength="50" />
+          <Property Name="CommissionedName" Type="nvarchar" MaxLength="255" />
+          <Property Name="AltName" Type="nvarchar" MaxLength="255" />
+          <Property Name="IATACode" Type="nvarchar" MaxLength="3" />
+          <Property Name="ICAOCode" Type="nvarchar" MaxLength="4" />
+          <Property Name="FAACode" Type="nvarchar" MaxLength="3" />
+          <Property Name="AFDCode" Type="nvarchar" MaxLength="4" />
+          <Property Name="ParentBaseId" Type="int" />
+        </EntityType>
+        <EntityType Name="EquipmentOwner">
+          <Key>
+            <PropertyRef Name="EquipmentOwnerId" />
+          </Key>
+          <Property Name="EquipmentOwnerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="Quantity" Type="decimal" Precision="5" Scale="1" />
+          <Property Name="Notes" Type="nvarchar(max)" />
+          <Property Name="AircraftId" Type="uniqueidentifier" />
+        </EntityType>
+        <EntityType Name="Mission">
+          <Key>
+            <PropertyRef Name="MissionId" />
+          </Key>
+          <Property Name="MissionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Structure" Type="nvarchar" MaxLength="50" />
+          <Property Name="DisplayName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="FullName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="ShortForm" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltShortForm" Type="nvarchar" MaxLength="50" />
+          <Property Name="Notes" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="MissionUnit">
+          <Key>
+            <PropertyRef Name="MissionId" />
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="MissionId" Type="int" Nullable="false" />
+          <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="MissionVariant" Type="nvarchar" MaxLength="255" />
+          <Property Name="Notes" Type="nvarchar(max)" />
+        </EntityType>
         <EntityType Name="Rank">
           <Key>
             <PropertyRef Name="Symbol" />
           </Key>
           <Property Name="Symbol" Type="nvarchar" MaxLength="1" Nullable="false" />
-          <Property Name="Army" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Army" Type="nvarchar" MaxLength="255" />
           <Property Name="Navy" Type="nvarchar" MaxLength="255" />
           <Property Name="AirForce" Type="nvarchar" MaxLength="255" />
           <Property Name="Joint" Type="nvarchar" MaxLength="255" />
@@ -28,12 +99,13 @@
         </EntityType>
         <EntityType Name="Relationship">
           <Key>
-            <PropertyRef Name="RelationshipId" />
+            <PropertyRef Name="RelFromUnitId" />
+            <PropertyRef Name="RelToUnitId" />
           </Key>
           <Property Name="RelationshipId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="RelationshipGuid" Type="uniqueidentifier" Nullable="false" />
-          <Property Name="RelFrom" Type="uniqueidentifier" Nullable="false" />
-          <Property Name="RelTo" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RelFrom" Type="uniqueidentifier" />
+          <Property Name="RelTo" Type="uniqueidentifier" />
           <Property Name="RelTypeIdx" Type="int" Nullable="false" />
           <Property Name="RelFromUnitId" Type="int" Nullable="false" />
           <Property Name="RelToUnitId" Type="int" Nullable="false" />
@@ -44,6 +116,102 @@
           </Key>
           <Property Name="RelationshipTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Notes" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Service">
+          <Key>
+            <PropertyRef Name="ServiceId" />
+          </Key>
+          <Property Name="ServiceId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SortOrder" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ServiceType">
+          <Key>
+            <PropertyRef Name="ServiceTypeId" />
+          </Key>
+          <Property Name="ServiceTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SortOrder" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Ship">
+          <Key>
+            <PropertyRef Name="ShipId" />
+          </Key>
+          <Property Name="ShipId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UnitId" Type="int" />
+          <Property Name="ShipPrefixId" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="HCS" Type="nvarchar" MaxLength="50" />
+          <Property Name="HCSNumber" Type="int" />
+          <Property Name="PennantCode" Type="nvarchar" MaxLength="5" />
+          <Property Name="PennantNumber" Type="int" />
+          <Property Name="IsBase" Type="bit" Nullable="false" />
+          <Property Name="AltName" Type="nvarchar" MaxLength="255" />
+          <Property Name="AltHCS" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltHCSNumber" Type="int" />
+          <Property Name="IsInactive" Type="bit" Nullable="false" />
+          <Property Name="NewShipId" Type="uniqueidentifier" />
+          <Property Name="Commissioned" Type="date" />
+          <Property Name="Decommissioned" Type="date" />
+          <Property Name="ShipClassId" Type="int" />
+        </EntityType>
+        <EntityType Name="ShipClass">
+          <Key>
+            <PropertyRef Name="ShipClassId" />
+          </Key>
+          <Property Name="ShipClassId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ClassName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="ClassCodeHCS" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="ClassCodeNumber" Type="int" Nullable="false" />
+          <Property Name="ModFrom" Type="int" />
+          <Property Name="ModName" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="ShipClassMember">
+          <Key>
+            <PropertyRef Name="ShipId" />
+            <PropertyRef Name="ShipClassId" />
+          </Key>
+          <Property Name="ShipId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ShipClassId" Type="int" Nullable="false" />
+          <Property Name="IsLeadBoat" Type="bit" />
+        </EntityType>
+        <EntityType Name="ShipPrefix">
+          <Key>
+            <PropertyRef Name="ShipPrefixId" />
+          </Key>
+          <Property Name="ShipPrefixId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ShipPrefix" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SortOrder">
+          <Key>
+            <PropertyRef Name="SortOrderId" />
+          </Key>
+          <Property Name="SortOrderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SearchTerm" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="SortOrderRank" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TaskForce">
+          <Key>
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="TaskForceName" Type="nvarchar" MaxLength="50" />
+          <Property Name="TaskForceNo" Type="int" />
+          <Property Name="TaskGroup" Type="int" />
+          <Property Name="TaskUnit" Type="int" />
+          <Property Name="TaskElement" Type="int" />
+          <Property Name="SortName" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Tennant">
+          <Key>
+            <PropertyRef Name="BaseId" />
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="TennancyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BaseId" Type="int" Nullable="false" />
+          <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="IsHost" Type="bit" Nullable="false" />
         </EntityType>
         <EntityType Name="Unit">
           <Key>
@@ -52,13 +220,18 @@
           <Property Name="UnitId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Number" Type="int" />
           <Property Name="UseOrdinal" Type="bit" Nullable="false" />
-          <Property Name="MissionName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="NickName" Type="nvarchar" MaxLength="255" />
+          <Property Name="LegacyMissionName" Type="nvarchar" MaxLength="255" />
+          <Property Name="MissionName" Type="nvarchar" MaxLength="255" />
           <Property Name="UniqueName" Type="nvarchar" MaxLength="255" />
+          <Property Name="CommandName" Type="nvarchar" MaxLength="255" />
           <Property Name="ServiceIdx" Type="int" Nullable="false" />
           <Property Name="ServiceTypeIdx" Type="int" Nullable="false" />
           <Property Name="TerritorialDesignation" Type="nvarchar" MaxLength="5" />
           <Property Name="UnitGuid" Type="uniqueidentifier" Nullable="false" />
           <Property Name="RankSymbol" Type="nvarchar" MaxLength="1" Nullable="false" />
+          <Property Name="AdminCorpsId" Type="int" />
+          <Property Name="CanHide" Type="bit" Nullable="false" />
         </EntityType>
         <EntityType Name="UnitIndex">
           <Key>
@@ -66,9 +239,85 @@
           </Key>
           <Property Name="UnitIndexId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="IndexCode" Type="nvarchar" MaxLength="50" Nullable="false" />
-          <Property Name="UnitGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UnitGuid" Type="uniqueidentifier" />
           <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="IsSortIndex" Type="bit" Nullable="false" />
+          <Property Name="IsDisplayIndex" Type="bit" Nullable="false" />
+          <Property Name="IsAlt" Type="bit" Nullable="false" />
+          <Property Name="DisplayOrder" Type="int" />
         </EntityType>
+        <Association Name="FK_AdminCorps_AdminCorps">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="0..1" />
+          <End Role="AdminCorps" Type="Self.AdminCorps" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="AdminCorps">
+              <PropertyRef Name="ParentUnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Base_Base">
+          <End Role="Base" Type="Self.Base" Multiplicity="0..1" />
+          <End Role="Base1" Type="Self.Base" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Base">
+              <PropertyRef Name="BaseId" />
+            </Principal>
+            <Dependent Role="Base1">
+              <PropertyRef Name="ParentBaseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_EquipmentOwner_Aircraft">
+          <End Role="Aircraft" Type="Self.Aircraft" Multiplicity="0..1" />
+          <End Role="EquipmentOwner" Type="Self.EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Aircraft">
+              <PropertyRef Name="AircraftGuid" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="AircraftId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_EquipmentOwner_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="EquipmentOwner" Type="Self.EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MissionUnit_Mission">
+          <End Role="Mission" Type="Self.Mission" Multiplicity="1" />
+          <End Role="MissionUnit" Type="Self.MissionUnit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Mission">
+              <PropertyRef Name="MissionId" />
+            </Principal>
+            <Dependent Role="MissionUnit">
+              <PropertyRef Name="MissionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MissionUnit_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="MissionUnit" Type="Self.MissionUnit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="MissionUnit">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <Association Name="FK_Relationship_RelationshipType">
           <End Role="RelationshipType" Type="Self.RelationshipType" Multiplicity="1" />
           <End Role="Relationship" Type="Self.Relationship" Multiplicity="*" />
@@ -105,6 +354,126 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Association Name="FK_Ship_NewShip">
+          <End Role="Ship" Type="Self.Ship" Multiplicity="0..1" />
+          <End Role="Ship1" Type="Self.Ship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ship">
+              <PropertyRef Name="ShipId" />
+            </Principal>
+            <Dependent Role="Ship1">
+              <PropertyRef Name="NewShipId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ship_ShipPrefix">
+          <End Role="ShipPrefix" Type="Self.ShipPrefix" Multiplicity="1" />
+          <End Role="Ship" Type="Self.Ship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ShipPrefix">
+              <PropertyRef Name="ShipPrefixId" />
+            </Principal>
+            <Dependent Role="Ship">
+              <PropertyRef Name="ShipPrefixId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ship_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="0..1" />
+          <End Role="Ship" Type="Self.Ship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Ship">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ShipClass_Mod">
+          <End Role="ShipClass" Type="Self.ShipClass" Multiplicity="0..1" />
+          <End Role="ShipClass1" Type="Self.ShipClass" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ShipClass">
+              <PropertyRef Name="ShipClassId" />
+            </Principal>
+            <Dependent Role="ShipClass1">
+              <PropertyRef Name="ModFrom" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ShipClassMember_Ship">
+          <End Role="Ship" Type="Self.Ship" Multiplicity="1" />
+          <End Role="ShipClassMember" Type="Self.ShipClassMember" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ship">
+              <PropertyRef Name="ShipId" />
+            </Principal>
+            <Dependent Role="ShipClassMember">
+              <PropertyRef Name="ShipId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ShipClassMember_ShipClass">
+          <End Role="ShipClass" Type="Self.ShipClass" Multiplicity="1" />
+          <End Role="ShipClassMember" Type="Self.ShipClassMember" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ShipClass">
+              <PropertyRef Name="ShipClassId" />
+            </Principal>
+            <Dependent Role="ShipClassMember">
+              <PropertyRef Name="ShipClassId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TaskForce_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="TaskForce" Type="Self.TaskForce" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="TaskForce">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tennant_Base">
+          <End Role="Base" Type="Self.Base" Multiplicity="1" />
+          <End Role="Tennant" Type="Self.Tennant" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Base">
+              <PropertyRef Name="BaseId" />
+            </Principal>
+            <Dependent Role="Tennant">
+              <PropertyRef Name="BaseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tennant_Unit">
+          <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
+          <End Role="Tennant" Type="Self.Tennant" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Tennant">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_AdminCorps">
+          <End Role="AdminCorps" Type="Self.AdminCorps" Multiplicity="0..1" />
+          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="AdminCorps">
+              <PropertyRef Name="AdminCorpsId" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="AdminCorpsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <Association Name="FK_Unit_Rank">
           <End Role="Rank" Type="Self.Rank" Multiplicity="1" />
           <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
@@ -114,6 +483,30 @@
             </Principal>
             <Dependent Role="Unit">
               <PropertyRef Name="RankSymbol" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_Service">
+          <End Role="Service" Type="Self.Service" Multiplicity="1" />
+          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Service">
+              <PropertyRef Name="ServiceId" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="ServiceIdx" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_ServiceType">
+          <End Role="ServiceType" Type="Self.ServiceType" Multiplicity="1" />
+          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ServiceType">
+              <PropertyRef Name="ServiceTypeId" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="ServiceTypeIdx" />
             </Dependent>
           </ReferentialConstraint>
         </Association>
@@ -130,11 +523,50 @@
           </ReferentialConstraint>
         </Association>
         <EntityContainer Name="LiaisonModelStoreContainer">
+          <EntitySet Name="AdminCorps" EntityType="Self.AdminCorps" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Aircraft" EntityType="Self.Aircraft" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Base" EntityType="Self.Base" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EquipmentOwner" EntityType="Self.EquipmentOwner" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Mission" EntityType="Self.Mission" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MissionUnit" EntityType="Self.MissionUnit" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Rank" EntityType="Self.Rank" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Relationship" EntityType="Self.Relationship" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="RelationshipType" EntityType="Self.RelationshipType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Service" EntityType="Self.Service" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ServiceType" EntityType="Self.ServiceType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Ship" EntityType="Self.Ship" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ShipClass" EntityType="Self.ShipClass" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ShipClassMember" EntityType="Self.ShipClassMember" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ShipPrefix" EntityType="Self.ShipPrefix" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SortOrder" EntityType="Self.SortOrder" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TaskForce" EntityType="Self.TaskForce" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tennant" EntityType="Self.Tennant" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Unit" EntityType="Self.Unit" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="UnitIndex" EntityType="Self.UnitIndex" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_AdminCorps_AdminCorps" Association="Self.FK_AdminCorps_AdminCorps">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="AdminCorps" EntitySet="AdminCorps" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Base_Base" Association="Self.FK_Base_Base">
+            <End Role="Base" EntitySet="Base" />
+            <End Role="Base1" EntitySet="Base" />
+          </AssociationSet>
+          <AssociationSet Name="FK_EquipmentOwner_Aircraft" Association="Self.FK_EquipmentOwner_Aircraft">
+            <End Role="Aircraft" EntitySet="Aircraft" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwner" />
+          </AssociationSet>
+          <AssociationSet Name="FK_EquipmentOwner_Unit" Association="Self.FK_EquipmentOwner_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwner" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MissionUnit_Mission" Association="Self.FK_MissionUnit_Mission">
+            <End Role="Mission" EntitySet="Mission" />
+            <End Role="MissionUnit" EntitySet="MissionUnit" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MissionUnit_Unit" Association="Self.FK_MissionUnit_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="MissionUnit" EntitySet="MissionUnit" />
+          </AssociationSet>
           <AssociationSet Name="FK_Relationship_RelationshipType" Association="Self.FK_Relationship_RelationshipType">
             <End Role="RelationshipType" EntitySet="RelationshipType" />
             <End Role="Relationship" EntitySet="Relationship" />
@@ -147,8 +579,56 @@
             <End Role="Unit" EntitySet="Unit" />
             <End Role="Relationship" EntitySet="Relationship" />
           </AssociationSet>
+          <AssociationSet Name="FK_Ship_NewShip" Association="Self.FK_Ship_NewShip">
+            <End Role="Ship" EntitySet="Ship" />
+            <End Role="Ship1" EntitySet="Ship" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ship_ShipPrefix" Association="Self.FK_Ship_ShipPrefix">
+            <End Role="ShipPrefix" EntitySet="ShipPrefix" />
+            <End Role="Ship" EntitySet="Ship" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ship_Unit" Association="Self.FK_Ship_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="Ship" EntitySet="Ship" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ShipClass_Mod" Association="Self.FK_ShipClass_Mod">
+            <End Role="ShipClass" EntitySet="ShipClass" />
+            <End Role="ShipClass1" EntitySet="ShipClass" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ShipClassMember_Ship" Association="Self.FK_ShipClassMember_Ship">
+            <End Role="Ship" EntitySet="Ship" />
+            <End Role="ShipClassMember" EntitySet="ShipClassMember" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ShipClassMember_ShipClass" Association="Self.FK_ShipClassMember_ShipClass">
+            <End Role="ShipClass" EntitySet="ShipClass" />
+            <End Role="ShipClassMember" EntitySet="ShipClassMember" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TaskForce_Unit" Association="Self.FK_TaskForce_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="TaskForce" EntitySet="TaskForce" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tennant_Base" Association="Self.FK_Tennant_Base">
+            <End Role="Base" EntitySet="Base" />
+            <End Role="Tennant" EntitySet="Tennant" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tennant_Unit" Association="Self.FK_Tennant_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="Tennant" EntitySet="Tennant" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_AdminCorps" Association="Self.FK_Unit_AdminCorps">
+            <End Role="AdminCorps" EntitySet="AdminCorps" />
+            <End Role="Unit" EntitySet="Unit" />
+          </AssociationSet>
           <AssociationSet Name="FK_Unit_Rank" Association="Self.FK_Unit_Rank">
             <End Role="Rank" EntitySet="Rank" />
+            <End Role="Unit" EntitySet="Unit" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_Service" Association="Self.FK_Unit_Service">
+            <End Role="Service" EntitySet="Service" />
+            <End Role="Unit" EntitySet="Unit" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_ServiceType" Association="Self.FK_Unit_ServiceType">
+            <End Role="ServiceType" EntitySet="ServiceType" />
             <End Role="Unit" EntitySet="Unit" />
           </AssociationSet>
           <AssociationSet Name="FK_UnitIndex_Unit" Association="Self.FK_UnitIndex_Unit">
@@ -166,19 +646,66 @@
           </Key>
           <Property Name="UnitIndexId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="IndexCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
-          <Property Name="UnitGuid" Type="Guid" Nullable="false" />
+          <Property Name="UnitGuid" Type="Guid" />
           <Property Name="UnitId" Type="Int32" Nullable="false" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_UnitIndex_Unit" FromRole="UnitIndex" ToRole="Unit" />
+          <Property Name="IsSortIndex" Type="Boolean" Nullable="false" />
+          <Property Name="IsDisplayIndex" Type="Boolean" Nullable="false" />
+          <Property Name="IsAlt" Type="Boolean" Nullable="false" />
+          <Property Name="DisplayOrder" Type="Int32" />
         </EntityType>
         <EntityContainer Name="LiaisonEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="UnitIndexes" EntityType="Self.UnitIndex" />
           <EntitySet Name="RelationshipTypes" EntityType="LiaisonModel.RelationshipType" />
+          <EntitySet Name="Ranks" EntityType="LiaisonModel.Rank" />
+          <EntitySet Name="Units" EntityType="LiaisonModel.Unit" />
+          <AssociationSet Name="FK_Unit_Rank" Association="LiaisonModel.FK_Unit_Rank">
+            <End Role="Rank" EntitySet="Ranks" />
+            <End Role="Unit" EntitySet="Units" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitIndex_Unit" Association="LiaisonModel.FK_UnitIndex_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="UnitIndex" EntitySet="UnitIndexes" />
+          </AssociationSet>
+          <EntitySet Name="ServiceTypes" EntityType="LiaisonModel.ServiceType" />
+          <AssociationSet Name="FK_Unit_ServiceType" Association="LiaisonModel.FK_Unit_ServiceType">
+            <End Role="ServiceType" EntitySet="ServiceTypes" />
+            <End Role="Unit" EntitySet="Units" />
+          </AssociationSet>
+          <EntitySet Name="Services" EntityType="LiaisonModel.Service" />
+          <AssociationSet Name="FK_Unit_Service" Association="LiaisonModel.FK_Unit_Service">
+            <End Role="Service" EntitySet="Services" />
+            <End Role="Unit" EntitySet="Units" />
+          </AssociationSet>
+          <EntitySet Name="Tennants" EntityType="LiaisonModel.Tennant" />
+          <AssociationSet Name="FK_Tennant_Unit" Association="LiaisonModel.FK_Tennant_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="Tennant" EntitySet="Tennants" />
+          </AssociationSet>
+          <EntitySet Name="Bases" EntityType="LiaisonModel.Base" />
+          <AssociationSet Name="FK_Base_Base" Association="LiaisonModel.FK_Base_Base">
+            <End Role="Base" EntitySet="Bases" />
+            <End Role="Base1" EntitySet="Bases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tennant_Base" Association="LiaisonModel.FK_Tennant_Base">
+            <End Role="Base" EntitySet="Bases" />
+            <End Role="Tennant" EntitySet="Tennants" />
+          </AssociationSet>
+          <EntitySet Name="Missions" EntityType="LiaisonModel.Mission" />
+          <EntitySet Name="MissionUnits" EntityType="LiaisonModel.MissionUnit" />
+          <AssociationSet Name="FK_MissionUnit_Mission" Association="LiaisonModel.FK_MissionUnit_Mission">
+            <End Role="Mission" EntitySet="Missions" />
+            <End Role="MissionUnit" EntitySet="MissionUnits" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MissionUnit_Unit" Association="LiaisonModel.FK_MissionUnit_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="MissionUnit" EntitySet="MissionUnits" />
+          </AssociationSet>
           <EntitySet Name="Relationships" EntityType="LiaisonModel.Relationship" />
           <AssociationSet Name="FK_Relationship_RelationshipType" Association="LiaisonModel.FK_Relationship_RelationshipType">
             <End Role="RelationshipType" EntitySet="RelationshipTypes" />
             <End Role="Relationship" EntitySet="Relationships" />
           </AssociationSet>
-          <EntitySet Name="Units" EntityType="LiaisonModel.Unit" />
           <AssociationSet Name="FK_RelationshipFrom_Unit" Association="LiaisonModel.FK_RelationshipFrom_Unit">
             <End Role="Unit" EntitySet="Units" />
             <End Role="Relationship" EntitySet="Relationships" />
@@ -187,14 +714,58 @@
             <End Role="Unit" EntitySet="Units" />
             <End Role="Relationship" EntitySet="Relationships" />
           </AssociationSet>
-          <AssociationSet Name="FK_UnitIndex_Unit" Association="LiaisonModel.FK_UnitIndex_Unit">
+          <EntitySet Name="SortOrders" EntityType="LiaisonModel.SortOrder" />
+          <EntitySet Name="AdminCorps" EntityType="LiaisonModel.AdminCorp" />
+          <AssociationSet Name="FK_Unit_AdminCorps" Association="LiaisonModel.FK_Unit_AdminCorps">
+            <End Role="AdminCorp" EntitySet="AdminCorps" />
             <End Role="Unit" EntitySet="Units" />
-            <End Role="UnitIndex" EntitySet="UnitIndexes" />
           </AssociationSet>
-          <EntitySet Name="Ranks" EntityType="LiaisonModel.Rank" />
-          <AssociationSet Name="FK_Unit_Rank" Association="LiaisonModel.FK_Unit_Rank">
-            <End Role="Rank" EntitySet="Ranks" />
+          <EntitySet Name="TaskForces" EntityType="LiaisonModel.TaskForce" />
+          <AssociationSet Name="FK_TaskForce_Unit" Association="LiaisonModel.FK_TaskForce_Unit">
             <End Role="Unit" EntitySet="Units" />
+            <End Role="TaskForce" EntitySet="TaskForces" />
+          </AssociationSet>
+          <AssociationSet Name="FK_AdminCorps_AdminCorps" Association="LiaisonModel.FK_AdminCorps_AdminCorps">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="AdminCorp" EntitySet="AdminCorps" />
+          </AssociationSet>
+          <EntitySet Name="ShipPrefixes" EntityType="LiaisonModel.ShipPrefix" />
+          <EntitySet Name="Aircraft" EntityType="LiaisonModel.Aircraft" />
+          <EntitySet Name="Ships" EntityType="LiaisonModel.Ship" />
+          <AssociationSet Name="FK_Ship_NewShip" Association="LiaisonModel.FK_Ship_NewShip">
+            <End Role="Ship" EntitySet="Ships" />
+            <End Role="Ship1" EntitySet="Ships" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ship_ShipPrefix" Association="LiaisonModel.FK_Ship_ShipPrefix">
+            <End Role="ShipPrefix" EntitySet="ShipPrefixes" />
+            <End Role="Ship" EntitySet="Ships" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ship_Unit" Association="LiaisonModel.FK_Ship_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="Ship" EntitySet="Ships" />
+          </AssociationSet>
+          <EntitySet Name="EquipmentOwners" EntityType="LiaisonModel.EquipmentOwner" />
+          <AssociationSet Name="FK_EquipmentOwner_Aircraft" Association="LiaisonModel.FK_EquipmentOwner_Aircraft">
+            <End Role="Aircraft" EntitySet="Aircraft" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
+          </AssociationSet>
+          <AssociationSet Name="FK_EquipmentOwner_Unit" Association="LiaisonModel.FK_EquipmentOwner_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
+          </AssociationSet>
+          <EntitySet Name="ShipClassMembers" EntityType="LiaisonModel.ShipClassMember" />
+          <AssociationSet Name="FK_ShipClassMember_Ship" Association="LiaisonModel.FK_ShipClassMember_Ship">
+            <End Role="Ship" EntitySet="Ships" />
+            <End Role="ShipClassMember" EntitySet="ShipClassMembers" />
+          </AssociationSet>
+          <EntitySet Name="ShipClasses" EntityType="LiaisonModel.ShipClass" />
+          <AssociationSet Name="FK_ShipClass_Mod" Association="LiaisonModel.FK_ShipClass_Mod">
+            <End Role="ShipClass" EntitySet="ShipClasses" />
+            <End Role="ShipClass1" EntitySet="ShipClasses" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ShipClassMember_ShipClass" Association="LiaisonModel.FK_ShipClassMember_ShipClass">
+            <End Role="ShipClass" EntitySet="ShipClasses" />
+            <End Role="ShipClassMember" EntitySet="ShipClassMembers" />
           </AssociationSet>
           </EntityContainer>
         <EntityType Name="RelationshipType">
@@ -204,22 +775,262 @@
           <Property Name="RelationshipTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="Relationships" Relationship="LiaisonModel.FK_Relationship_RelationshipType" FromRole="RelationshipType" ToRole="Relationship" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
         </EntityType>
+        <EntityType Name="Rank">
+          <Key>
+            <PropertyRef Name="Symbol" />
+          </Key>
+          <Property Name="Symbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <Property Name="Army" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Navy" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="AirForce" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Joint" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Rank1" Type="String" MaxLength="8" FixedLength="false" Unicode="true" />
+          <Property Name="RankLevel" Type="Int32" />
+          <Property Name="InUse" Type="Boolean" />
+          <Property Name="NavyRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="NavyRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ArmyRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ArmyRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AirForceRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AirForceRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MarineRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MarineRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Rank" ToRole="Unit" />
+        </EntityType>
+        <EntityType Name="Unit">
+          <Key>
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="UnitId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Number" Type="Int32" />
+          <Property Name="UseOrdinal" Type="Boolean" Nullable="false" />
+          <Property Name="MissionName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="UniqueName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="CommandName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ServiceIdx" Type="Int32" Nullable="false" />
+          <Property Name="ServiceTypeIdx" Type="Int32" Nullable="false" />
+          <Property Name="TerritorialDesignation" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="UnitGuid" Type="Guid" Nullable="false" />
+          <Property Name="RankSymbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Rank" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Unit" ToRole="Rank" />
+          <NavigationProperty Name="UnitIndexes" Relationship="LiaisonModel.FK_UnitIndex_Unit" FromRole="Unit" ToRole="UnitIndex" />
+          <Property Name="NickName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="LegacyMissionName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ServiceType" Relationship="LiaisonModel.FK_Unit_ServiceType" FromRole="Unit" ToRole="ServiceType" />
+          <NavigationProperty Name="Service" Relationship="LiaisonModel.FK_Unit_Service" FromRole="Unit" ToRole="Service" />
+          <NavigationProperty Name="Bases" Relationship="LiaisonModel.FK_Tennant_Unit" FromRole="Unit" ToRole="Tennant" />
+          <NavigationProperty Name="MissionUnits" Relationship="LiaisonModel.FK_MissionUnit_Unit" FromRole="Unit" ToRole="MissionUnit" />
+          <NavigationProperty Name="RelationshipsTo" Relationship="LiaisonModel.FK_RelationshipFrom_Unit" FromRole="Unit" ToRole="Relationship" />
+          <NavigationProperty Name="RelationshipsFrom" Relationship="LiaisonModel.FK_RelationshipTo_Unit" FromRole="Unit" ToRole="Relationship" />
+          <Property Name="AdminCorpsId" Type="Int32" />
+          <NavigationProperty Name="AdminCorp" Relationship="LiaisonModel.FK_Unit_AdminCorps" FromRole="Unit" ToRole="AdminCorp" />
+          <NavigationProperty Name="TaskForce" Relationship="LiaisonModel.FK_TaskForce_Unit" FromRole="Unit" ToRole="TaskForce" />
+          <NavigationProperty Name="AdminCorps" Relationship="LiaisonModel.FK_AdminCorps_AdminCorps" FromRole="Unit" ToRole="AdminCorp" />
+          <NavigationProperty Name="Ships" Relationship="LiaisonModel.FK_Ship_Unit" FromRole="Unit" ToRole="Ship" />
+          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="Unit" ToRole="EquipmentOwner" />
+          <Property Name="CanHide" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Unit_Rank">
+          <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rank">
+              <PropertyRef Name="Symbol" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="RankSymbol" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitIndex_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.UnitIndex" Role="UnitIndex" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="UnitIndex">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ServiceType">
+          <Key>
+            <PropertyRef Name="ServiceTypeId" />
+          </Key>
+          <Property Name="ServiceTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SortOrder" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_ServiceType" FromRole="ServiceType" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_Unit_ServiceType">
+          <End Type="LiaisonModel.ServiceType" Role="ServiceType" Multiplicity="1" />
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ServiceType">
+              <PropertyRef Name="ServiceTypeId" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="ServiceTypeIdx" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Service">
+          <Key>
+            <PropertyRef Name="ServiceId" />
+          </Key>
+          <Property Name="ServiceId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SortOrder" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_Service" FromRole="Service" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_Unit_Service">
+          <End Type="LiaisonModel.Service" Role="Service" Multiplicity="1" />
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Service">
+              <PropertyRef Name="ServiceId" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="ServiceIdx" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Tennant">
+          <Key>
+            <PropertyRef Name="BaseId" />
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="TennancyId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="BaseId" Type="Int32" Nullable="false" />
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="IsHost" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_Tennant_Unit" FromRole="Tennant" ToRole="Unit" />
+          <NavigationProperty Name="Base" Relationship="LiaisonModel.FK_Tennant_Base" FromRole="Tennant" ToRole="Base" />
+        </EntityType>
+        <Association Name="FK_Tennant_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.Tennant" Role="Tennant" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Tennant">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Base">
+          <Key>
+            <PropertyRef Name="BaseId" />
+          </Key>
+          <Property Name="BaseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SortName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Prefix" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Suffix" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="IATACode" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+          <Property Name="ICAOCode" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+          <Property Name="FAACode" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+          <Property Name="AFDCode" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+          <Property Name="ParentBaseId" Type="Int32" />
+          <NavigationProperty Name="SubFacilities" Relationship="LiaisonModel.FK_Base_Base" FromRole="Base" ToRole="Base1" />
+          <NavigationProperty Name="ParentBase" Relationship="LiaisonModel.FK_Base_Base" FromRole="Base1" ToRole="Base" />
+          <NavigationProperty Name="Tennants" Relationship="LiaisonModel.FK_Tennant_Base" FromRole="Base" ToRole="Tennant" />
+          <Property Name="CommissionedName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK_Base_Base">
+          <End Type="LiaisonModel.Base" Role="Base" Multiplicity="0..1" />
+          <End Type="LiaisonModel.Base" Role="Base1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Base">
+              <PropertyRef Name="BaseId" />
+            </Principal>
+            <Dependent Role="Base1">
+              <PropertyRef Name="ParentBaseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tennant_Base">
+          <End Type="LiaisonModel.Base" Role="Base" Multiplicity="1" />
+          <End Type="LiaisonModel.Tennant" Role="Tennant" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Base">
+              <PropertyRef Name="BaseId" />
+            </Principal>
+            <Dependent Role="Tennant">
+              <PropertyRef Name="BaseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Mission">
+          <Key>
+            <PropertyRef Name="MissionId" />
+          </Key>
+          <Property Name="MissionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DisplayName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="FullName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MissionUnits" Relationship="LiaisonModel.FK_MissionUnit_Mission" FromRole="Mission" ToRole="MissionUnit" />
+          <Property Name="AltShortForm" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Structure" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ShortForm" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="MissionUnit">
+          <Key>
+            <PropertyRef Name="MissionId" />
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="MissionId" Type="Int32" Nullable="false" />
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="MissionVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Mission" Relationship="LiaisonModel.FK_MissionUnit_Mission" FromRole="MissionUnit" ToRole="Mission" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_MissionUnit_Unit" FromRole="MissionUnit" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_MissionUnit_Mission">
+          <End Type="LiaisonModel.Mission" Role="Mission" Multiplicity="1" />
+          <End Type="LiaisonModel.MissionUnit" Role="MissionUnit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Mission">
+              <PropertyRef Name="MissionId" />
+            </Principal>
+            <Dependent Role="MissionUnit">
+              <PropertyRef Name="MissionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MissionUnit_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.MissionUnit" Role="MissionUnit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="MissionUnit">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <EntityType Name="Relationship">
           <Key>
-            <PropertyRef Name="RelationshipId" />
+            <PropertyRef Name="RelFromUnitId" />
+            <PropertyRef Name="RelToUnitId" />
           </Key>
           <Property Name="RelationshipId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="RelationshipGuid" Type="Guid" Nullable="false" />
-          <Property Name="RelFrom" Type="Guid" Nullable="false" />
-          <Property Name="RelTo" Type="Guid" Nullable="false" />
+          <Property Name="RelFrom" Type="Guid" />
+          <Property Name="RelTo" Type="Guid" />
           <Property Name="RelTypeIdx" Type="Int32" Nullable="false" />
           <Property Name="RelFromUnitId" Type="Int32" Nullable="false" />
           <Property Name="RelToUnitId" Type="Int32" Nullable="false" />
           <NavigationProperty Name="RelationshipType" Relationship="LiaisonModel.FK_Relationship_RelationshipType" FromRole="Relationship" ToRole="RelationshipType" />
           <NavigationProperty Name="RelationshipsFrom" Relationship="LiaisonModel.FK_RelationshipFrom_Unit" FromRole="Relationship" ToRole="Unit" />
           <NavigationProperty Name="RelationshipsTo" Relationship="LiaisonModel.FK_RelationshipTo_Unit" FromRole="Relationship" ToRole="Unit" />
-          </EntityType>
+        </EntityType>
         <Association Name="FK_Relationship_RelationshipType">
           <End Type="LiaisonModel.RelationshipType" Role="RelationshipType" Multiplicity="1" />
           <End Type="LiaisonModel.Relationship" Role="Relationship" Multiplicity="*" />
@@ -232,25 +1043,6 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityType Name="Unit">
-          <Key>
-            <PropertyRef Name="UnitId" />
-          </Key>
-          <Property Name="UnitId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="Number" Type="Int32" />
-          <Property Name="UseOrdinal" Type="Boolean" Nullable="false" />
-          <Property Name="MissionName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="UniqueName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="ServiceIdx" Type="Int32" Nullable="false" />
-          <Property Name="ServiceTypeIdx" Type="Int32" Nullable="false" />
-          <Property Name="TerritorialDesignation" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
-          <Property Name="UnitGuid" Type="Guid" Nullable="false" />
-          <Property Name="RankSymbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
-          <NavigationProperty Name="RelationshipsTo" Relationship="LiaisonModel.FK_RelationshipFrom_Unit" FromRole="Unit" ToRole="Relationship" />
-          <NavigationProperty Name="RelationshipsFrom" Relationship="LiaisonModel.FK_RelationshipTo_Unit" FromRole="Unit" ToRole="Relationship" />
-          <NavigationProperty Name="UnitIndexes" Relationship="LiaisonModel.FK_UnitIndex_Unit" FromRole="Unit" ToRole="UnitIndex" />
-          <NavigationProperty Name="Rank" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Unit" ToRole="Rank" />
-        </EntityType>
         <Association Name="FK_RelationshipFrom_Unit">
           <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
           <End Type="LiaisonModel.Relationship" Role="Relationship" Multiplicity="*" />
@@ -275,49 +1067,253 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_UnitIndex_Unit">
+        <EntityType Name="SortOrder">
+          <Key>
+            <PropertyRef Name="SortOrderId" />
+          </Key>
+          <Property Name="SortOrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SearchTerm" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="SortOrderRank" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="AdminCorp">
+          <Key>
+            <PropertyRef Name="AdminCorpsId" />
+          </Key>
+          <Property Name="AdminCorpsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Code" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_AdminCorps" FromRole="AdminCorp" ToRole="Unit" />
+          <Property Name="ParentUnitId" Type="Int32" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_AdminCorps_AdminCorps" FromRole="AdminCorp" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_Unit_AdminCorps">
+          <End Type="LiaisonModel.AdminCorp" Role="AdminCorp" Multiplicity="0..1" />
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="AdminCorp">
+              <PropertyRef Name="AdminCorpsId" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="AdminCorpsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="TaskForce">
+          <Key>
+            <PropertyRef Name="UnitId" />
+          </Key>
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="TaskForceName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TaskForceNo" Type="Int32" />
+          <Property Name="TaskGroup" Type="Int32" />
+          <Property Name="TaskUnit" Type="Int32" />
+          <Property Name="TaskElement" Type="Int32" />
+          <Property Name="SortName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_TaskForce_Unit" FromRole="TaskForce" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_TaskForce_Unit">
           <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
-          <End Type="LiaisonModel.UnitIndex" Role="UnitIndex" Multiplicity="*" />
+          <End Type="LiaisonModel.TaskForce" Role="TaskForce" Multiplicity="0..1" />
           <ReferentialConstraint>
             <Principal Role="Unit">
               <PropertyRef Name="UnitId" />
             </Principal>
-            <Dependent Role="UnitIndex">
+            <Dependent Role="TaskForce">
               <PropertyRef Name="UnitId" />
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityType Name="Rank">
-          <Key>
-            <PropertyRef Name="Symbol" />
-          </Key>
-          <Property Name="Symbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
-          <Property Name="Army" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="Navy" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="AirForce" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="Joint" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="Rank1" Type="String" MaxLength="8" FixedLength="false" Unicode="true" />
-          <Property Name="RankLevel" Type="Int32" />
-          <Property Name="InUse" Type="Boolean" />
-          <Property Name="NavyRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="NavyRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="ArmyRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="ArmyRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="AirForceRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="AirForceRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="MarineRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="MarineRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Rank" ToRole="Unit" />
-        </EntityType>
-        <Association Name="FK_Unit_Rank">
-          <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
-          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="*" />
+        <Association Name="FK_AdminCorps_AdminCorps">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="0..1" />
+          <End Type="LiaisonModel.AdminCorp" Role="AdminCorp" Multiplicity="*" />
           <ReferentialConstraint>
-            <Principal Role="Rank">
-              <PropertyRef Name="Symbol" />
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
             </Principal>
-            <Dependent Role="Unit">
-              <PropertyRef Name="RankSymbol" />
+            <Dependent Role="AdminCorp">
+              <PropertyRef Name="ParentUnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ShipPrefix">
+          <Key>
+            <PropertyRef Name="ShipPrefixId" />
+          </Key>
+          <Property Name="ShipPrefixId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ShipPrefix1" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Ships" Relationship="LiaisonModel.FK_Ship_ShipPrefix" FromRole="ShipPrefix" ToRole="Ship" />
+        </EntityType>
+        <EntityType Name="Aircraft">
+          <Key>
+            <PropertyRef Name="AircraftGuid" />
+          </Key>
+          <Property Name="AircraftId" Type="Int32" />
+          <Property Name="AircraftGuid" Type="Guid" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Mark" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Sort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="Aircraft" ToRole="EquipmentOwner" />
+        </EntityType>
+        <EntityType Name="Ship">
+          <Key>
+            <PropertyRef Name="ShipId" />
+          </Key>
+          <Property Name="ShipId" Type="Guid" Nullable="false" />
+          <Property Name="ShipPrefixId" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="HCS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="HCSNumber" Type="Int32" />
+          <Property Name="PennantCode" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="PennantNumber" Type="Int32" />
+          <Property Name="IsBase" Type="Boolean" Nullable="false" />
+          <Property Name="AltName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="AltHCS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltHCSNumber" Type="Int32" />
+          <Property Name="IsInactive" Type="Boolean" Nullable="false" />
+          <Property Name="NewShipId" Type="Guid" />
+          <NavigationProperty Name="HasBecome" Relationship="LiaisonModel.FK_Ship_NewShip" FromRole="Ship" ToRole="Ship1" />
+          <NavigationProperty Name="WasPreviously" Relationship="LiaisonModel.FK_Ship_NewShip" FromRole="Ship1" ToRole="Ship" />
+          <NavigationProperty Name="ShipPrefix" Relationship="LiaisonModel.FK_Ship_ShipPrefix" FromRole="Ship" ToRole="ShipPrefix" />
+          <Property Name="Commissioned" Type="DateTime" Precision="0" />
+          <Property Name="Decommissioned" Type="DateTime" Precision="0" />
+          <Property Name="ShipClassId" Type="Int32" />
+          <Property Name="UnitId" Type="Int32" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_Ship_Unit" FromRole="Ship" ToRole="Unit" />
+          <NavigationProperty Name="ShipClassMembers" Relationship="LiaisonModel.FK_ShipClassMember_Ship" FromRole="Ship" ToRole="ShipClassMember" />
+        </EntityType>
+        <Association Name="FK_Ship_NewShip">
+          <End Type="LiaisonModel.Ship" Role="Ship" Multiplicity="0..1" />
+          <End Type="LiaisonModel.Ship" Role="Ship1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ship">
+              <PropertyRef Name="ShipId" />
+            </Principal>
+            <Dependent Role="Ship1">
+              <PropertyRef Name="NewShipId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ship_ShipPrefix">
+          <End Type="LiaisonModel.ShipPrefix" Role="ShipPrefix" Multiplicity="1" />
+          <End Type="LiaisonModel.Ship" Role="Ship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ShipPrefix">
+              <PropertyRef Name="ShipPrefixId" />
+            </Principal>
+            <Dependent Role="Ship">
+              <PropertyRef Name="ShipPrefixId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ship_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="0..1" />
+          <End Type="LiaisonModel.Ship" Role="Ship" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="Ship">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="EquipmentOwner">
+          <Key>
+            <PropertyRef Name="EquipmentOwnerId" />
+          </Key>
+          <Property Name="EquipmentOwnerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="Quantity" Type="Decimal" Precision="5" Scale="1" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="AircraftId" Type="Guid" />
+          <NavigationProperty Name="Aircraft" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="EquipmentOwner" ToRole="Aircraft" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="EquipmentOwner" ToRole="Unit" />
+        </EntityType>
+        <Association Name="FK_EquipmentOwner_Aircraft">
+          <End Type="LiaisonModel.Aircraft" Role="Aircraft" Multiplicity="0..1" />
+          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Aircraft">
+              <PropertyRef Name="AircraftGuid" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="AircraftId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_EquipmentOwner_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ShipClassMember">
+          <Key>
+            <PropertyRef Name="ShipId" />
+            <PropertyRef Name="ShipClassId" />
+          </Key>
+          <Property Name="ShipId" Type="Guid" Nullable="false" />
+          <Property Name="ShipClassId" Type="Int32" Nullable="false" />
+          <Property Name="IsLeadBoat" Type="Boolean" />
+          <NavigationProperty Name="Ship" Relationship="LiaisonModel.FK_ShipClassMember_Ship" FromRole="ShipClassMember" ToRole="Ship" />
+          <NavigationProperty Name="ShipClass" Relationship="LiaisonModel.FK_ShipClassMember_ShipClass" FromRole="ShipClassMember" ToRole="ShipClass" />
+        </EntityType>
+        <Association Name="FK_ShipClassMember_Ship">
+          <End Type="LiaisonModel.Ship" Role="Ship" Multiplicity="1" />
+          <End Type="LiaisonModel.ShipClassMember" Role="ShipClassMember" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ship">
+              <PropertyRef Name="ShipId" />
+            </Principal>
+            <Dependent Role="ShipClassMember">
+              <PropertyRef Name="ShipId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ShipClass">
+          <Key>
+            <PropertyRef Name="ShipClassId" />
+          </Key>
+          <Property Name="ShipClassId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ClassName" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ClassCodeHCS" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ClassCodeNumber" Type="Int32" Nullable="false" />
+          <Property Name="ModFrom" Type="Int32" />
+          <NavigationProperty Name="ShipClass1" Relationship="LiaisonModel.FK_ShipClass_Mod" FromRole="ShipClass" ToRole="ShipClass1" />
+          <NavigationProperty Name="ShipClass2" Relationship="LiaisonModel.FK_ShipClass_Mod" FromRole="ShipClass1" ToRole="ShipClass" />
+          <NavigationProperty Name="ShipClassMembers" Relationship="LiaisonModel.FK_ShipClassMember_ShipClass" FromRole="ShipClass" ToRole="ShipClassMember" />
+          <Property Name="ModName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK_ShipClass_Mod">
+          <End Type="LiaisonModel.ShipClass" Role="ShipClass" Multiplicity="0..1" />
+          <End Type="LiaisonModel.ShipClass" Role="ShipClass1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ShipClass">
+              <PropertyRef Name="ShipClassId" />
+            </Principal>
+            <Dependent Role="ShipClass1">
+              <PropertyRef Name="ModFrom" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ShipClassMember_ShipClass">
+          <End Type="LiaisonModel.ShipClass" Role="ShipClass" Multiplicity="1" />
+          <End Type="LiaisonModel.ShipClassMember" Role="ShipClassMember" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ShipClass">
+              <PropertyRef Name="ShipClassId" />
+            </Principal>
+            <Dependent Role="ShipClassMember">
+              <PropertyRef Name="ShipClassId" />
             </Dependent>
           </ReferentialConstraint>
         </Association>
@@ -330,6 +1326,10 @@
           <EntitySetMapping Name="UnitIndexes">
             <EntityTypeMapping TypeName="LiaisonModel.UnitIndex">
               <MappingFragment StoreEntitySet="UnitIndex">
+                <ScalarProperty Name="DisplayOrder" ColumnName="DisplayOrder" />
+                <ScalarProperty Name="IsAlt" ColumnName="IsAlt" />
+                <ScalarProperty Name="IsDisplayIndex" ColumnName="IsDisplayIndex" />
+                <ScalarProperty Name="IsSortIndex" ColumnName="IsSortIndex" />
                 <ScalarProperty Name="UnitId" ColumnName="UnitId" />
                 <ScalarProperty Name="UnitIndexId" ColumnName="UnitIndexId" />
                 <ScalarProperty Name="IndexCode" ColumnName="IndexCode" />
@@ -340,37 +1340,9 @@
           <EntitySetMapping Name="RelationshipTypes">
             <EntityTypeMapping TypeName="LiaisonModel.RelationshipType">
               <MappingFragment StoreEntitySet="RelationshipType">
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="Name" ColumnName="Name" />
                 <ScalarProperty Name="RelationshipTypeId" ColumnName="RelationshipTypeId" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="Relationships">
-            <EntityTypeMapping TypeName="LiaisonModel.Relationship">
-              <MappingFragment StoreEntitySet="Relationship">
-                <ScalarProperty Name="RelToUnitId" ColumnName="RelToUnitId" />
-                <ScalarProperty Name="RelFromUnitId" ColumnName="RelFromUnitId" />
-                <ScalarProperty Name="RelTypeIdx" ColumnName="RelTypeIdx" />
-                <ScalarProperty Name="RelTo" ColumnName="RelTo" />
-                <ScalarProperty Name="RelFrom" ColumnName="RelFrom" />
-                <ScalarProperty Name="RelationshipGuid" ColumnName="RelationshipGuid" />
-                <ScalarProperty Name="RelationshipId" ColumnName="RelationshipId" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="Units">
-            <EntityTypeMapping TypeName="LiaisonModel.Unit">
-              <MappingFragment StoreEntitySet="Unit">
-                <ScalarProperty Name="RankSymbol" ColumnName="RankSymbol" />
-                <ScalarProperty Name="UnitGuid" ColumnName="UnitGuid" />
-                <ScalarProperty Name="TerritorialDesignation" ColumnName="TerritorialDesignation" />
-                <ScalarProperty Name="ServiceTypeIdx" ColumnName="ServiceTypeIdx" />
-                <ScalarProperty Name="ServiceIdx" ColumnName="ServiceIdx" />
-                <ScalarProperty Name="UniqueName" ColumnName="UniqueName" />
-                <ScalarProperty Name="MissionName" ColumnName="MissionName" />
-                <ScalarProperty Name="UseOrdinal" ColumnName="UseOrdinal" />
-                <ScalarProperty Name="Number" ColumnName="Number" />
-                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
@@ -393,6 +1365,218 @@
                 <ScalarProperty Name="Navy" ColumnName="Navy" />
                 <ScalarProperty Name="Army" ColumnName="Army" />
                 <ScalarProperty Name="Symbol" ColumnName="Symbol" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Units">
+            <EntityTypeMapping TypeName="LiaisonModel.Unit">
+              <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="CanHide" ColumnName="CanHide" />
+                <ScalarProperty Name="AdminCorpsId" ColumnName="AdminCorpsId" />
+                <ScalarProperty Name="LegacyMissionName" ColumnName="LegacyMissionName" />
+                <ScalarProperty Name="NickName" ColumnName="NickName" />
+                <ScalarProperty Name="RankSymbol" ColumnName="RankSymbol" />
+                <ScalarProperty Name="UnitGuid" ColumnName="UnitGuid" />
+                <ScalarProperty Name="TerritorialDesignation" ColumnName="TerritorialDesignation" />
+                <ScalarProperty Name="ServiceTypeIdx" ColumnName="ServiceTypeIdx" />
+                <ScalarProperty Name="ServiceIdx" ColumnName="ServiceIdx" />
+                <ScalarProperty Name="CommandName" ColumnName="CommandName" />
+                <ScalarProperty Name="UniqueName" ColumnName="UniqueName" />
+                <ScalarProperty Name="MissionName" ColumnName="MissionName" />
+                <ScalarProperty Name="UseOrdinal" ColumnName="UseOrdinal" />
+                <ScalarProperty Name="Number" ColumnName="Number" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ServiceTypes">
+            <EntityTypeMapping TypeName="LiaisonModel.ServiceType">
+              <MappingFragment StoreEntitySet="ServiceType">
+                <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ServiceTypeId" ColumnName="ServiceTypeId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Services">
+            <EntityTypeMapping TypeName="LiaisonModel.Service">
+              <MappingFragment StoreEntitySet="Service">
+                <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ServiceId" ColumnName="ServiceId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tennants">
+            <EntityTypeMapping TypeName="LiaisonModel.Tennant">
+              <MappingFragment StoreEntitySet="Tennant">
+                <ScalarProperty Name="IsHost" ColumnName="IsHost" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="BaseId" ColumnName="BaseId" />
+                <ScalarProperty Name="TennancyId" ColumnName="TennancyId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Bases">
+            <EntityTypeMapping TypeName="LiaisonModel.Base">
+              <MappingFragment StoreEntitySet="Base">
+                <ScalarProperty Name="CommissionedName" ColumnName="CommissionedName" />
+                <ScalarProperty Name="ParentBaseId" ColumnName="ParentBaseId" />
+                <ScalarProperty Name="AFDCode" ColumnName="AFDCode" />
+                <ScalarProperty Name="FAACode" ColumnName="FAACode" />
+                <ScalarProperty Name="ICAOCode" ColumnName="ICAOCode" />
+                <ScalarProperty Name="IATACode" ColumnName="IATACode" />
+                <ScalarProperty Name="AltName" ColumnName="AltName" />
+                <ScalarProperty Name="Suffix" ColumnName="Suffix" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Prefix" ColumnName="Prefix" />
+                <ScalarProperty Name="SortName" ColumnName="SortName" />
+                <ScalarProperty Name="BaseId" ColumnName="BaseId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Missions">
+            <EntityTypeMapping TypeName="LiaisonModel.Mission">
+              <MappingFragment StoreEntitySet="Mission">
+                <ScalarProperty Name="ShortForm" ColumnName="ShortForm" />
+                <ScalarProperty Name="Structure" ColumnName="Structure" />
+                <ScalarProperty Name="AltShortForm" ColumnName="AltShortForm" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+                <ScalarProperty Name="MissionId" ColumnName="MissionId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MissionUnits">
+            <EntityTypeMapping TypeName="LiaisonModel.MissionUnit">
+              <MappingFragment StoreEntitySet="MissionUnit">
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="MissionVariant" ColumnName="MissionVariant" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="MissionId" ColumnName="MissionId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Relationships">
+            <EntityTypeMapping TypeName="LiaisonModel.Relationship">
+              <MappingFragment StoreEntitySet="Relationship">
+                <ScalarProperty Name="RelToUnitId" ColumnName="RelToUnitId" />
+                <ScalarProperty Name="RelFromUnitId" ColumnName="RelFromUnitId" />
+                <ScalarProperty Name="RelTypeIdx" ColumnName="RelTypeIdx" />
+                <ScalarProperty Name="RelTo" ColumnName="RelTo" />
+                <ScalarProperty Name="RelFrom" ColumnName="RelFrom" />
+                <ScalarProperty Name="RelationshipGuid" ColumnName="RelationshipGuid" />
+                <ScalarProperty Name="RelationshipId" ColumnName="RelationshipId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SortOrders">
+            <EntityTypeMapping TypeName="LiaisonModel.SortOrder">
+              <MappingFragment StoreEntitySet="SortOrder">
+                <ScalarProperty Name="SortOrderRank" ColumnName="SortOrderRank" />
+                <ScalarProperty Name="SearchTerm" ColumnName="SearchTerm" />
+                <ScalarProperty Name="SortOrderId" ColumnName="SortOrderId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="AdminCorps">
+            <EntityTypeMapping TypeName="LiaisonModel.AdminCorp">
+              <MappingFragment StoreEntitySet="AdminCorps">
+                <ScalarProperty Name="ParentUnitId" ColumnName="ParentUnitId" />
+                <ScalarProperty Name="Code" ColumnName="Code" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="AdminCorpsId" ColumnName="AdminCorpsId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TaskForces">
+            <EntityTypeMapping TypeName="LiaisonModel.TaskForce">
+              <MappingFragment StoreEntitySet="TaskForce">
+                <ScalarProperty Name="SortName" ColumnName="SortName" />
+                <ScalarProperty Name="TaskElement" ColumnName="TaskElement" />
+                <ScalarProperty Name="TaskUnit" ColumnName="TaskUnit" />
+                <ScalarProperty Name="TaskGroup" ColumnName="TaskGroup" />
+                <ScalarProperty Name="TaskForceNo" ColumnName="TaskForceNo" />
+                <ScalarProperty Name="TaskForceName" ColumnName="TaskForceName" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipPrefixes">
+            <EntityTypeMapping TypeName="LiaisonModel.ShipPrefix">
+              <MappingFragment StoreEntitySet="ShipPrefix">
+                <ScalarProperty Name="ShipPrefix1" ColumnName="ShipPrefix" />
+                <ScalarProperty Name="ShipPrefixId" ColumnName="ShipPrefixId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Aircraft">
+            <EntityTypeMapping TypeName="LiaisonModel.Aircraft">
+              <MappingFragment StoreEntitySet="Aircraft">
+                <ScalarProperty Name="AltSort" ColumnName="AltSort" />
+                <ScalarProperty Name="AltName" ColumnName="AltName" />
+                <ScalarProperty Name="AltCode" ColumnName="AltCode" />
+                <ScalarProperty Name="Sort" ColumnName="Sort" />
+                <ScalarProperty Name="Mark" ColumnName="Mark" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="AircraftGuid" ColumnName="AircraftGuid" />
+                <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ships">
+            <EntityTypeMapping TypeName="LiaisonModel.Ship">
+              <MappingFragment StoreEntitySet="Ship">
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="ShipClassId" ColumnName="ShipClassId" />
+                <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
+                <ScalarProperty Name="Commissioned" ColumnName="Commissioned" />
+                <ScalarProperty Name="NewShipId" ColumnName="NewShipId" />
+                <ScalarProperty Name="IsInactive" ColumnName="IsInactive" />
+                <ScalarProperty Name="AltHCSNumber" ColumnName="AltHCSNumber" />
+                <ScalarProperty Name="AltHCS" ColumnName="AltHCS" />
+                <ScalarProperty Name="AltName" ColumnName="AltName" />
+                <ScalarProperty Name="IsBase" ColumnName="IsBase" />
+                <ScalarProperty Name="PennantNumber" ColumnName="PennantNumber" />
+                <ScalarProperty Name="PennantCode" ColumnName="PennantCode" />
+                <ScalarProperty Name="HCSNumber" ColumnName="HCSNumber" />
+                <ScalarProperty Name="HCS" ColumnName="HCS" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ShipPrefixId" ColumnName="ShipPrefixId" />
+                <ScalarProperty Name="ShipId" ColumnName="ShipId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EquipmentOwners">
+            <EntityTypeMapping TypeName="LiaisonModel.EquipmentOwner">
+              <MappingFragment StoreEntitySet="EquipmentOwner">
+                <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="EquipmentOwnerId" ColumnName="EquipmentOwnerId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipClassMembers">
+            <EntityTypeMapping TypeName="LiaisonModel.ShipClassMember">
+              <MappingFragment StoreEntitySet="ShipClassMember">
+                <ScalarProperty Name="IsLeadBoat" ColumnName="IsLeadBoat" />
+                <ScalarProperty Name="ShipClassId" ColumnName="ShipClassId" />
+                <ScalarProperty Name="ShipId" ColumnName="ShipId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipClasses">
+            <EntityTypeMapping TypeName="LiaisonModel.ShipClass">
+              <MappingFragment StoreEntitySet="ShipClass">
+                <ScalarProperty Name="ModName" ColumnName="ModName" />
+                <ScalarProperty Name="ModFrom" ColumnName="ModFrom" />
+                <ScalarProperty Name="ClassCodeNumber" ColumnName="ClassCodeNumber" />
+                <ScalarProperty Name="ClassCodeHCS" ColumnName="ClassCodeHCS" />
+                <ScalarProperty Name="ClassName" ColumnName="ClassName" />
+                <ScalarProperty Name="ShipClassId" ColumnName="ShipClassId" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

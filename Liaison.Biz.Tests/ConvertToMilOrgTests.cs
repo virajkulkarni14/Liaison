@@ -276,7 +276,7 @@ namespace Liaison.Biz.Tests
             Assert.AreEqual(null, division.HigherHqs[0].DateFrom);
             Assert.AreEqual(null, division.HigherHqs[0].DateUntil);
             Assert.AreEqual(true, division.HigherHqs[0].IsCurrent);
-            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Alligned, division.HigherHqs[0].CommandRelationshipType);
+            Assert.AreEqual(Liaison.Helper.Enumerators.HigherHqType.Attached, division.HigherHqs[0].CommandRelationshipType);
 
             Assert.AreEqual("us/army/forscom", division.HigherHqs[1].CurrentOpsRef);
             Assert.AreEqual(null, division.HigherHqs[1].DateFrom);

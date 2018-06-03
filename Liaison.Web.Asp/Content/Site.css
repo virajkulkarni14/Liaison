@@ -22,3 +22,25 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.lzRankStar {
+    color: darkmagenta;
+}
+.lzIndex {
+    color:darkcyan;
+}
+.lzBase {
+    color: red;
+}
+.lzMission {
+    color: darkorange;
+    font-style: italic;
+}
+.lzUnitName {
+    color: darkorchid;
+}
+.lzEquipment {
+    font-style: italic;
+    color: darkblue;
+}
+

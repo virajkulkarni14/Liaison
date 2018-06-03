@@ -275,9 +275,9 @@ namespace Liaison.Import.GlobalSecurity
                     string html = webClient.DownloadString(url);
                     doc.LoadHtml(html);
                 }
-                catch (System.Net.WebException e)
+                catch (WebException)
                 {
-                    ok = true;
+                    //ok = true;
                     return;
                 }
                
@@ -602,7 +602,7 @@ namespace Liaison.Import.GlobalSecurity
                                 tContent.Add(new DescriptionObj("a", node.InnerText.Trim(),
                                     node.Attributes.First(ahref => ahref.Name == "href").Value, false));
                             }
-                            catch (Exception e)
+                            catch (Exception)
                             {
                                     //carry on
                                     Console.ReadKey();

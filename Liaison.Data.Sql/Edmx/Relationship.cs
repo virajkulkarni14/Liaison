@@ -16,8 +16,8 @@ namespace Liaison.Data.Sql.Edmx
     {
         public int RelationshipId { get; set; }
         public System.Guid RelationshipGuid { get; set; }
-        public System.Guid RelFrom { get; set; }
-        public System.Guid RelTo { get; set; }
+        public Nullable<System.Guid> RelFrom { get; set; }
+        public Nullable<System.Guid> RelTo { get; set; }
         public int RelTypeIdx { get; set; }
         public int RelFromUnitId { get; set; }
         public int RelToUnitId { get; set; }

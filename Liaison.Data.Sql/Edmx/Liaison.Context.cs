@@ -27,8 +27,23 @@ namespace Liaison.Data.Sql.Edmx
     
         public virtual DbSet<UnitIndex> UnitIndexes { get; set; }
         public virtual DbSet<RelationshipType> RelationshipTypes { get; set; }
-        public virtual DbSet<Relationship> Relationships { get; set; }
-        public virtual DbSet<Unit> Units { get; set; }
         public virtual DbSet<Rank> Ranks { get; set; }
+        public virtual DbSet<Unit> Units { get; set; }
+        public virtual DbSet<ServiceType> ServiceTypes { get; set; }
+        public virtual DbSet<Service> Services { get; set; }
+        public virtual DbSet<Tennant> Tennants { get; set; }
+        public virtual DbSet<Base> Bases { get; set; }
+        public virtual DbSet<Mission> Missions { get; set; }
+        public virtual DbSet<MissionUnit> MissionUnits { get; set; }
+        public virtual DbSet<Relationship> Relationships { get; set; }
+        public virtual DbSet<SortOrder> SortOrders { get; set; }
+        public virtual DbSet<AdminCorp> AdminCorps { get; set; }
+        public virtual DbSet<TaskForce> TaskForces { get; set; }
+        public virtual DbSet<ShipPrefix> ShipPrefixes { get; set; }
+        public virtual DbSet<Aircraft> Aircraft { get; set; }
+        public virtual DbSet<Ship> Ships { get; set; }
+        public virtual DbSet<EquipmentOwner> EquipmentOwners { get; set; }
+        public virtual DbSet<ShipClassMember> ShipClassMembers { get; set; }
+        public virtual DbSet<ShipClass> ShipClasses { get; set; }
     }
 }

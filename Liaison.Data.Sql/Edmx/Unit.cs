@@ -17,9 +17,14 @@ namespace Liaison.Data.Sql.Edmx
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Unit()
         {
+            this.UnitIndexes = new HashSet<UnitIndex>();
+            this.Bases = new HashSet<Tennant>();
+            this.MissionUnits = new HashSet<MissionUnit>();
             this.RelationshipsTo = new HashSet<Relationship>();
             this.RelationshipsFrom = new HashSet<Relationship>();
-            this.UnitIndexes = new HashSet<UnitIndex>();
+            this.AdminCorps = new HashSet<AdminCorp>();
+            this.Ships = new HashSet<Ship>();
+            this.EquipmentOwners = new HashSet<EquipmentOwner>();
         }
     
         public int UnitId { get; set; }
@@ -27,18 +32,37 @@ namespace Liaison.Data.Sql.Edmx
         public bool UseOrdinal { get; set; }
         public string MissionName { get; set; }
         public string UniqueName { get; set; }
+        public string CommandName { get; set; }
         public int ServiceIdx { get; set; }
         public int ServiceTypeIdx { get; set; }
         public string TerritorialDesignation { get; set; }
         public System.Guid UnitGuid { get; set; }
         public string RankSymbol { get; set; }
+        public string NickName { get; set; }
+        public string LegacyMissionName { get; set; }
+        public Nullable<int> AdminCorpsId { get; set; }
+        public bool CanHide { get; set; }
     
+        public virtual Rank Rank { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<UnitIndex> UnitIndexes { get; set; }
+        public virtual ServiceType ServiceType { get; set; }
+        public virtual Service Service { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Tennant> Bases { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<MissionUnit> MissionUnits { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Relationship> RelationshipsTo { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Relationship> RelationshipsFrom { get; set; }
+        public virtual AdminCorp AdminCorp { get; set; }
+        public virtual TaskForce TaskForce { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<UnitIndex> UnitIndexes { get; set; }
-        public virtual Rank Rank { get; set; }
+        public virtual ICollection<AdminCorp> AdminCorps { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Ship> Ships { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<EquipmentOwner> EquipmentOwners { get; set; }
     }
 }
