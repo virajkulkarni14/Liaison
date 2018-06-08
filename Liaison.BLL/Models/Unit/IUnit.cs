@@ -21,5 +21,6 @@ namespace Liaison.BLL.Models.Unit
         IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type);
         // object GetParents();
 
+        bool GetIsHostUnit();
     }
 }

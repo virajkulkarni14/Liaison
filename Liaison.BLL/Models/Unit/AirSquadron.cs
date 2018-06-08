@@ -6,18 +6,20 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
-    public class AirSquadron : TwoBar
+    public class AirSquadron : TwoBar, IVolunteerUnit
     {
         public AdminCorps AdminCorps { get; set; }
 
         public bool UseOrdinal { get; set; }
         public List<IEquipment> Equipment { get; set; }
+        public string TerritorialDesignation { get; set; }
 
         public AirSquadron(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
-            this.Number = sqlUnit.Number;
+            this.Number = sqlUnit.Number;           
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.MissionName = sqlUnit.MissionName;
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.RankLevel = sqlUnit.Rank.RankLevel;
@@ -50,6 +52,10 @@ namespace Liaison.BLL.Models.Unit
         {
             StringBuilder sb = new StringBuilder();
             sb.Append("No. " + this.Number + " ");
+            if (this.ServiceType == ServiceTypeBLL.Volunteer)
+            {
+                sb.Append("(V) ("+this.TerritorialDesignation+") " );
+            }
             if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
                 sb.Append(this.MissionName + " ");
@@ -97,5 +103,12 @@ namespace Liaison.BLL.Models.Unit
             var x = sb.ToString();
             return x.Length > 0 ? x.Substring(0, x.Length - ExtensionMethods.Seperator.Length) : x;
         }
+
+        public string GetTerritorialDesignation()
+        {
+            return this.TerritorialDesignation;
+        }
+
+        
     }
 }

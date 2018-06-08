@@ -32,6 +32,10 @@ textarea {
 .lzBase {
     color: red;
 }
+.lzBaseHost {
+    color: red;
+    text-decoration: underline;
+}
 .lzMission {
     color: darkorange;
     font-style: italic;

@@ -22,6 +22,11 @@ namespace Liaison.BLL.Models.Unit
         }
     }
 
+    public interface  IVolunteerUnit
+    {
+         string GetTerritorialDesignation();
+
+    }
     public abstract class AUnit
     {
         internal int UnitId;
@@ -47,6 +52,10 @@ namespace Liaison.BLL.Models.Unit
         internal BLLBase Base;
         internal List<BLLMission> Mission;
         internal List<string> Indices;
+        public bool GetIsHostUnit()
+        {
+            return this.Base.IsHost;
+        }
 
 
         public IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type)
@@ -196,7 +205,15 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(" <span class='lzEquipment'>" + equipment + "</span>");
             }
 
-            sb.Append(", <span class='lzBase'>" + unit.GetBase() + "</span>");
+            if (unit.GetIsHostUnit())
+            {
+                sb.Append(", <span class='lzBaseHost'>" + unit.GetBase() + "</span>");
+            }
+            else
+            {
+                sb.Append(", <span class='lzBase'>" + unit.GetBase() + "</span>");
+            }
+
             sb.Append(Environment.NewLine);
 
             var rels = SortRelationships(relationshipTrackers);

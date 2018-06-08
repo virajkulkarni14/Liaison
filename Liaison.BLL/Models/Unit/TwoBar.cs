@@ -2,7 +2,7 @@
 
 namespace Liaison.BLL.Models.Unit
 {
-    public abstract class TwoBar : AUnit,IUnit
+    public abstract class TwoBar :  AUnit, IUnit
     {
         public abstract string GetName();
         public string PrintTree()

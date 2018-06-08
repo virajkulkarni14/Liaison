@@ -137,6 +137,7 @@
     <None Include="App.Config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Bkp\liaison.bkp" />
     <None Include="Edmx\Liaison.edmx.diagram">
       <DependentUpon>Liaison.edmx</DependentUpon>
     </None>
@@ -157,5 +158,6 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
