@@ -1,33 +1,31 @@
-﻿namespace Liaison.BLL.Models.Unit
+﻿using System;
+
+namespace Liaison.BLL.Models.Unit
 {
-    public abstract class FiveStar : AUnit, IUnit
+    public abstract class OneBar : AUnit, IUnit
     {
+        public abstract string GetAdminCorps();
         public abstract string GetName();
-        public string GetAdminCorps()
-        {
-            return "";
-        }
         public string PrintTree()
         {
-            return "printtree";
+            throw new NotImplementedException();
         }
-
-        public abstract int GetRankLevel();
+        public int GetRankLevel()
+        {
+            return RankLevel ?? 0;
+        }
 
         public string GetRankStar()
         {
             return RankStar;
         }
+
         public string GetIndexes()
         {
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
-        public string GetEquipment()
-        {
-            return null;
-        }
-
+        public abstract string GetEquipment();
         public bool IsTaskForce => false;
     }
 }

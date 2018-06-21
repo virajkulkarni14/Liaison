@@ -27,6 +27,8 @@ namespace Liaison.Data.Sql.Edmx
         public string AltShortForm { get; set; }
         public string Structure { get; set; }
         public string ShortForm { get; set; }
+        public string MainMission { get; set; }
+        public string MissionVariant { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<MissionUnit> MissionUnits { get; set; }

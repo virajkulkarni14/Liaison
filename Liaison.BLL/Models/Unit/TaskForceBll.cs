@@ -9,6 +9,10 @@ namespace Liaison.BLL.Models.Unit
 {
     public class TaskForceBll : AUnit, IUnit
     {
+        public string GetAdminCorps()
+        {
+            return "";
+        }
         public List<IEquipment> Equipment { get; set; }
         public int? TaskGroup { get; set; }
         public int? TaskElement { get; set; }
@@ -33,7 +37,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
 
-            this.Mission = new BLLMissions(sqlUnit.MissionUnits);
+            this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);

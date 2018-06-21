@@ -6,7 +6,8 @@ using Liaison.Helper.Enumerators;
 namespace Liaison.BLL.Models.Unit
 {
     public class AirWing : ThreeBar
-    {              
+    {
+        public string UnitTypeVariant { get; set; }
         public AirWing(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -14,6 +15,7 @@ namespace Liaison.BLL.Models.Unit
             this.Number = sqlUnit.Number;
             this.MissionName = sqlUnit.MissionName;
             this.CommandName = sqlUnit.CommandName;
+            this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
@@ -22,7 +24,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.CanHide = sqlUnit.CanHide;
 
-            this.Mission = new BLLMissions(sqlUnit.MissionUnits);
+            this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex)
                 .Select(x => x.IndexCode).ToList();
@@ -31,8 +33,9 @@ namespace Liaison.BLL.Models.Unit
 
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorpsName = sqlUnit.AdminCorp.Name;
-                this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
+               // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
+               // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             }
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
@@ -47,10 +50,13 @@ namespace Liaison.BLL.Models.Unit
 
         public string CommandName { get; set; }
 
-        public string AdminCorpsCode { get; set; }
+        //public string AdminCorpsCode { get; set; }
 
-        public string AdminCorpsName { get; set; }
-        
+        //public string AdminCorpsName { get; set; }
+        public override string GetAdminCorps()
+        {
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+        }
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
@@ -69,18 +75,27 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append("(" + this.CommandName + ") ");
             }
-            sb.Append("Wing");
-            if (!string.IsNullOrWhiteSpace(this.AdminCorpsCode))
+
+            if (string.IsNullOrWhiteSpace(this.UnitTypeVariant))
             {
-                sb.Append(ExtensionMethods.Seperator + this.AdminCorpsCode);
+                sb.Append("Wing");
+            }
+            else
+            {
+                sb.Append(this.UnitTypeVariant);
+            }
+
+            if (!string.IsNullOrWhiteSpace(this.AdminCorps.Code))
+            {
+                sb.Append(ExtensionMethods.Seperator + this.AdminCorps.Code);
             }
 
             return sb.ToString();
         }
 
-
-
         
+
+
         public override string GetEquipment()
         {
             bool showAltName = true;

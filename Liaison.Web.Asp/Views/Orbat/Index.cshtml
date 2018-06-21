@@ -1,4 +1,4 @@
-﻿@model Liaison.BLL.Models.Unit.IUnit
+﻿@model Liaison.Web.Asp.Models.ViewModel
 
 @{
     Layout = null;
@@ -14,8 +14,21 @@
     <title>Index</title>
 </head>
 <body>
+    
+@using (Html.BeginForm("RefinedIndex", "Orbat"))
+{
+    <div>
+        <label for="Depth">Depth</label>
+        @Html.EditorFor(m => m.Depth, new {htmlAttributes = new {style = "width: 50px"}})
 
-    @Html.Raw(Model.PrintTree().Replace(Environment.NewLine, "<br />"))
-   
+        <label for="Input">Input</label>
+        @Html.EditorFor(m => m.Input, new {htmlAttributes = new {style = "width: 150px"}})
+
+        <button name="submit">Do it</button>
+    </div>
+}
+
+@Html.Raw(Model.TheTree.PrintTree().Replace(Environment.NewLine, "<br />"))
+
 </body>
 </html>

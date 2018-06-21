@@ -3,6 +3,7 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
+
     public interface IUnit
     {
         string GetName();
@@ -16,11 +17,13 @@ namespace Liaison.BLL.Models.Unit
         string GetSortString();
         int GetId();
         string GetEquipment();
-        bool IsTaskForce { get; }
+        bool IsTaskForce { get; }        
+
         //IEnumerable<IUnit> GetParents(int unitId, HigherHqType type);
         IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type);
         // object GetParents();
 
         bool GetIsHostUnit();
+        string GetAdminCorps();
     }
 }

@@ -1,25 +1,17 @@
-﻿using Liaison.Helper.Enumerators;
-using System.Linq;
-using Liaison.Data.Sql.Edmx;
-using System.Threading.Tasks;
+﻿using System.Linq;
+using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
-    public class Command : AUnit, IUnit
+    public class Facility : AUnit, IUnit
     {
-        public string GetAdminCorps()
-        {
-            return "";
-        }
-        private string Name { get; set; }
-
-        public Command(Data.Sql.Edmx.Unit sqlUnit)
+        public Facility(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
-            this.Name = sqlUnit.CommandName;
-            this.Service = (ServicesBll) sqlUnit.ServiceIdx;
-            this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
+            this.CommandName = sqlUnit.CommandName;
+            this.Service = (ServicesBll)sqlUnit.ServiceIdx;
+            this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
@@ -29,6 +21,7 @@ namespace Liaison.BLL.Models.Unit
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex)
                 .Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
+            //this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
             var relt = sqlUnit.RelationshipsTo.ToList();
@@ -36,20 +29,25 @@ namespace Liaison.BLL.Models.Unit
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
+        public string GetAdminCorps()
+        {
+            return "";
+        }
+        public string CommandName { get; set; }
 
         public string GetName()
         {
-            return this.Name;
+            return this.CommandName;
         }
 
         public string PrintTree()
         {
-            return AUnit.PrintAnyTree(this);
+            throw new System.NotImplementedException();
         }
 
         public int GetRankLevel()
         {
-            return RankLevel ?? 0;          
+            return RankLevel ?? 0;
         }
 
         public string GetRankStar()
@@ -62,9 +60,10 @@ namespace Liaison.BLL.Models.Unit
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
+
         public string GetEquipment()
         {
-            return null;
+            return "";
         }
 
         public bool IsTaskForce => false;

@@ -1,9 +1,12 @@
 ﻿using System;
+using Liaison.BLL.Models.Unit;
 
 namespace Liaison.BLL.Models.Unit
 {
+
     public abstract class TwoBar :  AUnit, IUnit
     {
+        public abstract string GetAdminCorps();
         public abstract string GetName();
         public string PrintTree()
         {

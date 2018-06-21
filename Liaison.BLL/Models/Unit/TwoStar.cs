@@ -9,7 +9,7 @@ namespace Liaison.BLL.Models.Unit
         public bool UseOrdinal { get; set; }
         public abstract string GetName();
 
-
+        public abstract string GetAdminCorps();
 
         public string PrintTree()
         {

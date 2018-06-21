@@ -13,6 +13,8 @@
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="Code" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="ParentUnitId" Type="int" />
+          <Property Name="Lookup" Type="nvarchar" MaxLength="5" />
+          <Property Name="ParentAdminCorpsId" Type="int" />
         </EntityType>
         <EntityType Name="Aircraft">
           <Key>
@@ -53,6 +55,7 @@
           <Property Name="Quantity" Type="decimal" Precision="5" Scale="1" />
           <Property Name="Notes" Type="nvarchar(max)" />
           <Property Name="AircraftId" Type="uniqueidentifier" />
+          <Property Name="IsOwner" Type="bit" />
         </EntityType>
         <EntityType Name="Mission">
           <Key>
@@ -60,6 +63,8 @@
           </Key>
           <Property Name="MissionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Structure" Type="nvarchar" MaxLength="50" />
+          <Property Name="MainMission" Type="nvarchar" MaxLength="255" />
+          <Property Name="MissionVariant" Type="nvarchar" MaxLength="255" />
           <Property Name="DisplayName" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="FullName" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="ShortForm" Type="nvarchar" MaxLength="50" />
@@ -225,6 +230,7 @@
           <Property Name="MissionName" Type="nvarchar" MaxLength="255" />
           <Property Name="UniqueName" Type="nvarchar" MaxLength="255" />
           <Property Name="CommandName" Type="nvarchar" MaxLength="255" />
+          <Property Name="UnitTypeVariant" Type="nvarchar" MaxLength="255" />
           <Property Name="ServiceIdx" Type="int" Nullable="false" />
           <Property Name="ServiceTypeIdx" Type="int" Nullable="false" />
           <Property Name="TerritorialDesignation" Type="nvarchar" MaxLength="5" />
@@ -244,6 +250,7 @@
           <Property Name="IsSortIndex" Type="bit" Nullable="false" />
           <Property Name="IsDisplayIndex" Type="bit" Nullable="false" />
           <Property Name="IsAlt" Type="bit" Nullable="false" />
+          <Property Name="IsPlaceholder" Type="bit" Nullable="false" />
           <Property Name="DisplayOrder" Type="int" />
         </EntityType>
         <Association Name="FK_AdminCorps_AdminCorps">
@@ -653,6 +660,7 @@
           <Property Name="IsDisplayIndex" Type="Boolean" Nullable="false" />
           <Property Name="IsAlt" Type="Boolean" Nullable="false" />
           <Property Name="DisplayOrder" Type="Int32" />
+          <Property Name="IsPlaceholder" Type="Boolean" Nullable="false" />
         </EntityType>
         <EntityContainer Name="LiaisonEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="UnitIndexes" EntityType="Self.UnitIndex" />
@@ -831,6 +839,7 @@
           <NavigationProperty Name="Ships" Relationship="LiaisonModel.FK_Ship_Unit" FromRole="Unit" ToRole="Ship" />
           <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="Unit" ToRole="EquipmentOwner" />
           <Property Name="CanHide" Type="Boolean" Nullable="false" />
+          <Property Name="UnitTypeVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -978,6 +987,8 @@
           <Property Name="AltShortForm" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="Structure" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="ShortForm" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MainMission" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="MissionVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="MissionUnit">
           <Key>
@@ -1085,6 +1096,8 @@
           <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_AdminCorps" FromRole="AdminCorp" ToRole="Unit" />
           <Property Name="ParentUnitId" Type="Int32" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_AdminCorps_AdminCorps" FromRole="AdminCorp" ToRole="Unit" />
+          <Property Name="Lookup" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="ParentAdminCorpsId" Type="Int32" />
         </EntityType>
         <Association Name="FK_Unit_AdminCorps">
           <End Type="LiaisonModel.AdminCorp" Role="AdminCorp" Multiplicity="0..1" />
@@ -1231,6 +1244,7 @@
           <Property Name="AircraftId" Type="Guid" />
           <NavigationProperty Name="Aircraft" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="EquipmentOwner" ToRole="Aircraft" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="EquipmentOwner" ToRole="Unit" />
+          <Property Name="IsOwner" Type="Boolean" />
         </EntityType>
         <Association Name="FK_EquipmentOwner_Aircraft">
           <End Type="LiaisonModel.Aircraft" Role="Aircraft" Multiplicity="0..1" />
@@ -1326,6 +1340,7 @@
           <EntitySetMapping Name="UnitIndexes">
             <EntityTypeMapping TypeName="LiaisonModel.UnitIndex">
               <MappingFragment StoreEntitySet="UnitIndex">
+                <ScalarProperty Name="IsPlaceholder" ColumnName="IsPlaceholder" />
                 <ScalarProperty Name="DisplayOrder" ColumnName="DisplayOrder" />
                 <ScalarProperty Name="IsAlt" ColumnName="IsAlt" />
                 <ScalarProperty Name="IsDisplayIndex" ColumnName="IsDisplayIndex" />
@@ -1371,6 +1386,7 @@
           <EntitySetMapping Name="Units">
             <EntityTypeMapping TypeName="LiaisonModel.Unit">
               <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="UnitTypeVariant" ColumnName="UnitTypeVariant" />
                 <ScalarProperty Name="CanHide" ColumnName="CanHide" />
                 <ScalarProperty Name="AdminCorpsId" ColumnName="AdminCorpsId" />
                 <ScalarProperty Name="LegacyMissionName" ColumnName="LegacyMissionName" />
@@ -1438,6 +1454,8 @@
           <EntitySetMapping Name="Missions">
             <EntityTypeMapping TypeName="LiaisonModel.Mission">
               <MappingFragment StoreEntitySet="Mission">
+                <ScalarProperty Name="MissionVariant" ColumnName="MissionVariant" />
+                <ScalarProperty Name="MainMission" ColumnName="MainMission" />
                 <ScalarProperty Name="ShortForm" ColumnName="ShortForm" />
                 <ScalarProperty Name="Structure" ColumnName="Structure" />
                 <ScalarProperty Name="AltShortForm" ColumnName="AltShortForm" />
@@ -1483,6 +1501,8 @@
           <EntitySetMapping Name="AdminCorps">
             <EntityTypeMapping TypeName="LiaisonModel.AdminCorp">
               <MappingFragment StoreEntitySet="AdminCorps">
+                <ScalarProperty Name="ParentAdminCorpsId" ColumnName="ParentAdminCorpsId" />
+                <ScalarProperty Name="Lookup" ColumnName="Lookup" />
                 <ScalarProperty Name="ParentUnitId" ColumnName="ParentUnitId" />
                 <ScalarProperty Name="Code" ColumnName="Code" />
                 <ScalarProperty Name="Name" ColumnName="Name" />
@@ -1551,6 +1571,7 @@
           <EntitySetMapping Name="EquipmentOwners">
             <EntityTypeMapping TypeName="LiaisonModel.EquipmentOwner">
               <MappingFragment StoreEntitySet="EquipmentOwner">
+                <ScalarProperty Name="IsOwner" ColumnName="IsOwner" />
                 <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
                 <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="Quantity" ColumnName="Quantity" />

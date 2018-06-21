@@ -6,6 +6,10 @@ namespace Liaison.BLL.Models.Unit
     {
         public abstract string GetName();
 
+        public string GetAdminCorps()
+        {
+            return "";
+        }
 
         public string PrintTree()
         {

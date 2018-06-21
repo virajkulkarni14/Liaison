@@ -1,11 +1,16 @@
-﻿namespace Liaison.BLL.Models.Unit
+﻿using System;
+
+namespace Liaison.BLL.Models.Unit
 {
     public abstract class FourStar : AUnit, IUnit
     {
         public abstract string GetName();
-       
 
-    
+        public string GetAdminCorps()
+        {
+            return "";
+        }
+
         public string PrintTree()
         {
             return "printtree";

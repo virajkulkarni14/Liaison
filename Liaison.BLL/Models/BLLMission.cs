@@ -2,17 +2,18 @@
 
 namespace Liaison.BLL.Models
 {
-    public class BLLMission
+    public class BllMission
     {
-        public BLLMission(MissionUnit mu)
+        public BllMission(MissionUnit mu)
         {
+            this.MissionId = mu.MissionId;
             this.DisplayName = mu.Mission.DisplayName;
             this.Variant = mu.MissionVariant;
             this.FullName = mu.Mission.FullName;
             this.MissionNotes = mu.Mission.Notes;
             this.MissionVariantNotes = mu.Notes;
         }
-
+        public int MissionId { get; set; }
         public string MissionVariantNotes { get; set; }
 
         public string MissionNotes { get; set; }

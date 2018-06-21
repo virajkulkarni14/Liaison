@@ -22,6 +22,7 @@ namespace Liaison.Data.Sql.Edmx
         public bool IsDisplayIndex { get; set; }
         public bool IsAlt { get; set; }
         public Nullable<int> DisplayOrder { get; set; }
+        public bool IsPlaceholder { get; set; }
     
         public virtual Unit Unit { get; set; }
     }

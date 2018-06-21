@@ -7,6 +7,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public abstract class ThreeBar : AUnit, IUnit
     {
+        public abstract string GetAdminCorps();
         public List<IEquipment> Equipment { get; set; }
         public bool UseOrdinal { get; set; }
         public abstract string GetName();

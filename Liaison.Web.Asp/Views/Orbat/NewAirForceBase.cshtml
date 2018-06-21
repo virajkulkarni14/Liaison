@@ -1,4 +1,4 @@
-﻿@model Liaison.Web.Asp.Controllers.NewThing
+﻿@model Liaison.BLL.Models.NewThing
 
 <!DOCTYPE html>
 
@@ -7,48 +7,60 @@
     <title>title</title>
 </head>
 <body>
-<div>
-    @using (Html.BeginForm("SaveNewAirForceBase", "Orbat"))
+    <div>
+        @using (Html.BeginForm("SaveNewAirForceBase", "Orbat"))
     {
         <table>
             <tr>
                 <td colspan="2">
-                    @Html.EditorFor(m=>Model.Number)
+                    @Html.LabelFor(m => Model.Number)
+                    @Html.EditorFor(m => Model.Number)
                 </td>
-                <td>@Html.EditorFor(m=>m.Mission)</td>
+                <td>
+                    @Html.LabelFor(m => m.Mission)
+                    @Html.EditorFor(m => m.Mission)
+                </td>
+                <td>
+                    @Html.LabelFor(m=>m.BaseId)
+                    @Html.EditorFor(m=>m.BaseId)
+                </td>
             </tr>
-            @for (int i = 0; i < Model.Things.Count; i++)
-            {
-                <tr>
-                    <td>
-                        @Html.HiddenFor(f => Model.Things[i].Name)
-                        @Html.LabelFor(f => Model.Things[i].Code, Model.Things[i].Code)
-                    </td>
-                    <td></td>
-                    <td>
-                        @Html.EditorFor(f => Model.Things[i].Create)
-                    </td>
-                </tr>
-                for (int j = 0; j < Model.Things[j].NewSqdrns.Count; j++)
-                {
-                    <tr>
-                        <td></td>
-                        <td>
-                            @Html.HiddenFor(g => Model.Things[i].NewSqdrns[j].Name)
-                            @Html.LabelFor(g => Model.Things[i].NewSqdrns[j].Code, Model.Things[i].NewSqdrns[j].Code)
-                        </td>
-                        <td>
-                            @Html.EditorFor(f => Model.Things[i].NewSqdrns[j].Create)
-                        </td>
-                    </tr>
-                }
-            }
+        </table>
+        <table>
+            @for (var i = 0; i < Model.Things.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.HiddenFor(f => Model.Things[i].Code)
+                    @Html.HiddenFor(f => Model.Things[i].Name)
+                    @Html.LabelFor(f => Model.Things[i].Code, Model.Things[i].Code)
+                </td>
+                <td></td>
+                <td>
+                    @Html.EditorFor(f => Model.Things[i].Create)
+                </td>
+            </tr>
+        for (var j = 0; j < Model.Things[i].NewSqdrns.Count; j++)
+        {
+            <tr>
+                <td></td>
+                <td>
+                    @Html.HiddenFor(g => Model.Things[i].NewSqdrns[j].Code)
+                    @Html.HiddenFor(g => Model.Things[i].NewSqdrns[j].Name)
+                    @Html.LabelFor(g => Model.Things[i].NewSqdrns[j].Code, Model.Things[i].NewSqdrns[j].Code)
+                </td>
+                <td>
+                    @Html.EditorFor(f => Model.Things[i].NewSqdrns[j].Create)
+                </td>
+            </tr>
+    }
+}
 
 
         </table>
-    
-        <input type="submit" name="SaveNewAirForceBase" value="Save Draft"/>
-    }
-</div>
+
+        <input type="submit" name="SaveNewAirForceBase" value="Save Draft" />
+}
+    </div>
 </body>
 </html>

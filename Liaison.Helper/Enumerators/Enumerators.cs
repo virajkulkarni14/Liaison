@@ -25,6 +25,17 @@ namespace Liaison.Helper.Enumerators
         oo = '+'
     }
 
+    public enum RelationshipTypeBll
+    {
+        Organic = 1,
+        Assigned = 2,
+        Attached = 3,
+        Opcon = 4,
+        Tacon = 5,
+        Adcon = 6,
+        Detached = 7,
+        TaskForce = 8
+    }
 
     public enum ServicesBll
     {

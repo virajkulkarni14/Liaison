@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Web.Hosting;
 using Liaison.BLL.Translators;
@@ -49,14 +50,20 @@ namespace Liaison.BLL.Models.Unit
         //internal List<int> Parents;
         //internal List<ParentBll> Parents;
 
+        internal BLLAdminCorps AdminCorps;
         internal BLLBase Base;
-        internal List<BLLMission> Mission;
+        internal List<BllMission> Mission;
         internal List<string> Indices;
+
         public bool GetIsHostUnit()
         {
             return this.Base.IsHost;
         }
 
+        //public string GetAdminCorps()
+        //{
+        //    return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+        //}
 
         public IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type)
         {
@@ -171,15 +178,20 @@ namespace Liaison.BLL.Models.Unit
                 }
             }
 
+            var name2 = unit.GetName();
+
+            var unitid = unit.GetId();
+
             string mission = unit.GetMission();
             string indexes = unit.GetIndexes().Replace("_", "");
             string equipment = unit.GetEquipment();
+            string unitAdminCorps = unit.GetAdminCorps();
 
-            var name2 = unit.GetName();
+
 
             sb.Append(sbIndent.ToString() + relSymbol);
             sb.Append("<span class='lzRankStar'>" + unit.GetRankStar() + "</span>");
-            sb.Append(" <span class='lzUnitName'>(" + unit.GetId() + ") " + name + "</span>");
+            sb.Append(" <span class='lzUnitName'>(" + unitid + ") " + name + "</span>");
             if (!string.IsNullOrWhiteSpace(indexes))
             {
                 sb.Append(" <span class='lzIndex'>(" + indexes + ")</span>");
@@ -200,9 +212,17 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(" [<span class='lzMission'>" + mission + "</span>]");
             }
 
+
+
+
             if (!string.IsNullOrWhiteSpace(equipment))
             {
                 sb.Append(" <span class='lzEquipment'>" + equipment + "</span>");
+            }
+
+            if (!string.IsNullOrWhiteSpace(unitAdminCorps))
+            {
+                sb.Append(" <span class='lzAdminCorps'>" + unitAdminCorps + "</span>");
             }
 
             if (unit.GetIsHostUnit())
@@ -287,7 +307,8 @@ namespace Liaison.BLL.Models.Unit
             StringBuilder sb = new StringBuilder();
             
             foreach (var mission in this.Mission)
-            {
+            {               
+                sb.Append("(" + mission.MissionId + ") ");
                 sb.Append(mission.DisplayName);
                 if (!string.IsNullOrWhiteSpace(mission.Variant))
                 {

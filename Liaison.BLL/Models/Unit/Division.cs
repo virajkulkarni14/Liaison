@@ -21,10 +21,11 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
 
-            this.Mission = new BLLMissions(sqlUnit.MissionUnits);
+            this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
             var relt = sqlUnit.RelationshipsTo.ToList();
@@ -32,6 +33,11 @@ namespace Liaison.BLL.Models.Unit
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
 
+        }
+
+        public override string GetAdminCorps()
+        {
+            return this.AdminCorps.Name;
         }
         public override string GetName()
         {

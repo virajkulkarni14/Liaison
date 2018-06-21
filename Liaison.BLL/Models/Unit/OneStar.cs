@@ -4,6 +4,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public abstract class OneStar : AUnit, IUnit
     {
+        public abstract string GetAdminCorps();
         public bool UseOrdinal { get; set; }
         public abstract string GetName();
 

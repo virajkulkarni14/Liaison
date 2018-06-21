@@ -4,6 +4,10 @@ namespace Liaison.BLL.Models.Unit
 {
     public class DetachmentBll : AUnit, IUnit
     {
+        public string GetAdminCorps()
+        {
+            return "";
+        }
         public DetachmentBll(Data.Sql.Edmx.Unit sqlUnit)
         {
         }

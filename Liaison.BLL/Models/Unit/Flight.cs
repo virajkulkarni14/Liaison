@@ -6,7 +6,7 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
-    public class AirSquadron : TwoBar, IVolunteerUnit
+    public class Flight : OneBar
     {
         public new AdminCorps AdminCorps { get; set; }
 
@@ -14,12 +14,12 @@ namespace Liaison.BLL.Models.Unit
         public List<IEquipment> Equipment { get; set; }
         public string TerritorialDesignation { get; set; }
 
-        public AirSquadron(Data.Sql.Edmx.Unit sqlUnit)
+        public Flight(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
-            this.Number = sqlUnit.Number;           
-            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;            
+            this.Number = sqlUnit.Number;
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.MissionName = sqlUnit.MissionName;
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.RankLevel = sqlUnit.Rank.RankLevel;
@@ -31,7 +31,7 @@ namespace Liaison.BLL.Models.Unit
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
-            this.Indices = sqlUnit.UnitIndexes.OrderBy(x=>x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
+            this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
 
 
@@ -58,7 +58,7 @@ namespace Liaison.BLL.Models.Unit
             sb.Append("No. " + this.Number + " ");
             if (this.ServiceType == ServiceTypeBLL.Volunteer)
             {
-                sb.Append("(V) ("+this.TerritorialDesignation+") " );
+                sb.Append("(V) (" + this.TerritorialDesignation + ") ");
             }
             if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
@@ -66,19 +66,11 @@ namespace Liaison.BLL.Models.Unit
             }
             if (this.Service == ServicesBll.Navy)
             {
-                sb.Append("Naval Air Sqn.");
+                sb.Append("Naval Air Flt.");
             }
             else
             {
-                if (this.AdminCorps.Id==35)
-                {
-                    sb.Append("Unit");
-                }
-                else
-                {
-                    sb.Append("Sqn.");
-                }
-                
+                sb.Append("Flt.");
             }
             if (!string.IsNullOrWhiteSpace(this.AdminCorps.Code))
             {
@@ -86,13 +78,15 @@ namespace Liaison.BLL.Models.Unit
             }
 
             return sb.ToString();
-        }        
+        }
+
+
 
         public override string GetEquipment()
         {
             bool showAltName = true;
 
-            StringBuilder sb =new StringBuilder();
+            StringBuilder sb = new StringBuilder();
             foreach (var thing in this.Equipment)
             {
                 if (thing.GetType() == typeof(BLLAircraft))
@@ -119,6 +113,5 @@ namespace Liaison.BLL.Models.Unit
             return this.TerritorialDesignation;
         }
 
-        
     }
 }
