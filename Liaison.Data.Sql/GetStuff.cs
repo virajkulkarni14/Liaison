@@ -32,6 +32,7 @@ namespace Liaison.Data.Sql
             var thisthing = context.Units
                 .Include(ui => ui.RelationshipsFrom)
                 .Include(ui => ui.RelationshipsTo)
+                .Include(ui=>ui.Rank)
                 .Where(ui => ui.UnitId == unitId);
 
             return thisthing.First();

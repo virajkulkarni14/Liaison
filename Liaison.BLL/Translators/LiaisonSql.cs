@@ -24,6 +24,7 @@ namespace Liaison.BLL.Translators
 
         public static IUnit GetTree(string input, int? depth)
         {
+            depthRequired = depth;
             IUnit convUnit;
             if (Int32.TryParse(input, out int iInput))
             {
@@ -45,23 +46,39 @@ namespace Liaison.BLL.Translators
             }
 
             return convUnit;
-        }   
+        }
+
+        private static  int? depthRequired = null;        
 
         public static IUnit ConvertUnit(Unit sqlUnit) //, bool includeParent)
         {
-            if (sqlUnit.RankSymbol == "-")
+            var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
+            if (depthRequired == null)
             {
-                return new Command(sqlUnit); //, includeParent);
+                depthRequired =100;
+            }
+
+            if (thisUnitRankLevel > depthRequired)
+            {
+                return new DefaultUnit();
+            }
+
+            var cont = thisUnitRankLevel <= depthRequired;
+
+            //var s = sqlUnit.Rank.RankLevel;
+            if (sqlUnit.RankSymbol == "!")
+            {
+                return new Command(sqlUnit, cont); //, includeParent);
             }
 
             if (sqlUnit.RankSymbol == "\"")
             {
-                return new Command(sqlUnit); //, includeParent);
+                return new Command(sqlUnit, cont); //, includeParent);
             }
 
             if (sqlUnit.RankSymbol == "$")
             {
-                return new Command(sqlUnit); //, includeParent);
+                return new Command(sqlUnit, cont); //, includeParent);
             }
 
             if (sqlUnit.RankSymbol == "%")
@@ -76,14 +93,14 @@ namespace Liaison.BLL.Translators
                     sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce ||
                     sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {
-                    return new Command(sqlUnit); //, includeParent);
+                    return new Command(sqlUnit, cont); //, includeParent);
                 }
             }
             else if (sqlUnit.RankSymbol == "&")
             {
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
-                    return new Command(sqlUnit); //, includeParent);
+                    return new Command(sqlUnit, cont); //, includeParent);
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
@@ -100,7 +117,7 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.Number == null)
                     {
-                        return new Command(sqlUnit); //, includeParent);
+                        return new Command(sqlUnit, cont); //, includeParent);
                     }
                     else
                     {
@@ -112,14 +129,14 @@ namespace Liaison.BLL.Translators
             {
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
-                    return new Command(sqlUnit); //, includeParent);
+                    return new Command(sqlUnit, cont); //, includeParent);
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
                 {
                     if (sqlUnit.Number == null)
                     {
-                        return new Command(sqlUnit); //, includeParent);
+                        return new Command(sqlUnit, cont); //, includeParent);
                     }
 
                     return new Corps(sqlUnit); //, includeParent);
@@ -129,7 +146,7 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.Number == null)
                     {
-                        return new Command(sqlUnit); //, includeParent);
+                        return new Command(sqlUnit, cont); //, includeParent);
                     }
 
                     return new NumberedAirForce(sqlUnit);
@@ -139,7 +156,7 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.Number == null)
                     {
-                        return new Command(sqlUnit); //, includeParent);
+                        return new Command(sqlUnit, cont); //, includeParent);
                     }
 
                     return new NumberedFleet(sqlUnit); //, includeParent);
@@ -149,7 +166,7 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.Number == null)
                     {
-                        return new Command(sqlUnit); //, includeParent);
+                        return new Command(sqlUnit, cont); //, includeParent);
                     }
                 }
             }
@@ -164,7 +181,7 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.Number == null)
                     {
-                        return new Command(sqlUnit); //, includeParent);
+                        return new Command(sqlUnit, cont); //, includeParent);
                     }
                 }
             }
@@ -172,7 +189,7 @@ namespace Liaison.BLL.Translators
             {
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
-                    return new Command(sqlUnit); //, includeParent);
+                    return new Command(sqlUnit, cont); //, includeParent);
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)

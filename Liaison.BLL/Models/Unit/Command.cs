@@ -1,10 +1,53 @@
-﻿using Liaison.Helper.Enumerators;
+﻿using System.Collections.Generic;
+using Liaison.Helper.Enumerators;
 using System.Linq;
 using Liaison.Data.Sql.Edmx;
 using System.Threading.Tasks;
 
 namespace Liaison.BLL.Models.Unit
 {
+    public class DefaultUnit : AUnit, IUnit
+    {
+        public string GetName()
+        {
+            return "";
+        }
+
+        public string PrintTree()
+        {
+            return "";
+        }
+
+        public bool GetIsHostUnit()
+        {
+            return false;
+        }
+        public int GetRankLevel()
+        {
+            return 0;
+        }
+
+        public string GetRankStar()
+        {
+            return "";
+        }
+
+        public string GetIndexes()
+        {
+            return "";
+        }
+
+        public string GetEquipment()
+        {
+            return "";
+        }
+
+        public bool IsTaskForce { get; }
+        public string GetAdminCorps()
+        {
+            return "";
+        }
+    }
     public class Command : AUnit, IUnit
     {
         public string GetAdminCorps()
@@ -13,7 +56,7 @@ namespace Liaison.BLL.Models.Unit
         }
         private string Name { get; set; }
 
-        public Command(Data.Sql.Edmx.Unit sqlUnit)
+        public Command(Data.Sql.Edmx.Unit sqlUnit, bool doRelTos)
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
@@ -31,6 +74,7 @@ namespace Liaison.BLL.Models.Unit
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
+            //var relt = doRelTos ? sqlUnit.RelationshipsTo.ToList() : new List<Relationship>();             
             var relt = sqlUnit.RelationshipsTo.ToList();
 
             relMain.AddRange(relt);

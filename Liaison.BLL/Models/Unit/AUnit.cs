@@ -105,6 +105,13 @@ namespace Liaison.BLL.Models.Unit
 
         private static void GetNextLine(ref StringBuilder sb, int i, RelationshipTracker rt)
         {
+            if (rt.Unit.GetType() == typeof(DefaultUnit))
+            {
+                return;
+            
+            }
+
+
             var unit = rt.Unit;
 
             var isTaskForce = rt.Unit.IsTaskForce;
@@ -352,12 +359,27 @@ namespace Liaison.BLL.Models.Unit
             return sb.ToString();
 
         }
+
         public IEnumerable<RelationshipTracker> GetRelationships()
         {
             IList<RelationshipTracker> childunits = new List<RelationshipTracker>();
-            foreach (var r in this.Relationships.OrderBy(ro=>ro.To.GetRankLevel()))
+            var x = this.GetId();
+            if (x == 0 && (this.GetType() == typeof(DefaultUnit)))
             {
-                childunits.Add(new RelationshipTracker(r.To, r.RelType));
+                return childunits;
+            }
+            try
+            {
+                
+                foreach (var r in this.Relationships.OrderBy(ro => ro.To.GetRankLevel()))
+                {
+                    childunits.Add(new RelationshipTracker(r.To, r.RelType));
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
             }
 
             return childunits;
