@@ -183,6 +183,10 @@ namespace Liaison.BLL.Translators
                     {
                         return new Command(sqlUnit, cont); //, includeParent);
                     }
+                    else
+                    {
+                        return new NavalGroup(sqlUnit);
+                    }
                 }
             }
             else if (sqlUnit.RankSymbol == "*")
@@ -204,6 +208,10 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {
+                    if (sqlUnit.MissionName.Contains("Strike"))
+                    {
+                        return new NavalGroup(sqlUnit);
+                    }
                     return new Flotilla(sqlUnit);
                 }
             }
@@ -211,14 +219,20 @@ namespace Liaison.BLL.Translators
             {
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {
-                    if (sqlUnit.MissionName == "Submarine")
+                    var f = sqlUnit.CommandName;
+                    if (sqlUnit.Ships != null && sqlUnit.Ships.Any())
                     {
-                        return new NavalSquadron(sqlUnit);
+                        return new Vessel(sqlUnit);
                     }
 
-                    if (sqlUnit.AdminCorp?.Code == "FAA")
+                    if (sqlUnit.AdminCorp?.Code == "FAA" || sqlUnit.AdminCorp?.Code == "NAv")
                     {
                         return new AirWing(sqlUnit); //, includeParent);
+                    }
+
+                    if (sqlUnit.MissionName == "Destroyer" || sqlUnit.MissionName == "Submarine")
+                    {
+                        return new NavalSquadron(sqlUnit);
                     }
 
                     return new Facility(sqlUnit);

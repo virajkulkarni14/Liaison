@@ -4,15 +4,13 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
-    public class Brigade : OneStar
+    public class Flotilla : OneStar
     {
-        public Brigade(Data.Sql.Edmx.Unit sqlUnit)
+        public Flotilla(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
             this.Number = sqlUnit.Number;
             this.UseOrdinal = sqlUnit.UseOrdinal;
-            this.NickName = sqlUnit.NickName;
-            //this.LegacyMissionName = sqlUnit.LegacyMissionName;
             this.MissionName = sqlUnit.MissionName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
@@ -34,7 +32,7 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Code;     
+            return string.Empty;
         }
 
         public override string GetName()
@@ -46,8 +44,8 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.MissionName + " ");
             }
 
-            sb.Append("Brigade");
-            
+            sb.Append("Flotilla");
+
 
             return sb.ToString();
         }
@@ -56,5 +54,6 @@ namespace Liaison.BLL.Models.Unit
         {
             return RankLevel ?? 0;
         }
+
     }
 }

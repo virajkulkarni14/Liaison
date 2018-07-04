@@ -16,7 +16,7 @@ namespace Liaison.Data.Sql.Edmx
     {
         public System.Guid ShipId { get; set; }
         public int ShipClassId { get; set; }
-        public Nullable<bool> IsLeadBoat { get; set; }
+        public bool IsLeadBoat { get; set; }
     
         public virtual Ship Ship { get; set; }
         public virtual ShipClass ShipClass { get; set; }

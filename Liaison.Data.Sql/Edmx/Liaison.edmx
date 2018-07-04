@@ -179,7 +179,7 @@
           </Key>
           <Property Name="ShipId" Type="uniqueidentifier" Nullable="false" />
           <Property Name="ShipClassId" Type="int" Nullable="false" />
-          <Property Name="IsLeadBoat" Type="bit" />
+          <Property Name="IsLeadBoat" Type="bit" Nullable="false" />
         </EntityType>
         <EntityType Name="ShipPrefix">
           <Key>
@@ -1277,7 +1277,7 @@
           </Key>
           <Property Name="ShipId" Type="Guid" Nullable="false" />
           <Property Name="ShipClassId" Type="Int32" Nullable="false" />
-          <Property Name="IsLeadBoat" Type="Boolean" />
+          <Property Name="IsLeadBoat" Type="Boolean" Nullable="false" />
           <NavigationProperty Name="Ship" Relationship="LiaisonModel.FK_ShipClassMember_Ship" FromRole="ShipClassMember" ToRole="Ship" />
           <NavigationProperty Name="ShipClass" Relationship="LiaisonModel.FK_ShipClassMember_ShipClass" FromRole="ShipClassMember" ToRole="ShipClass" />
         </EntityType>

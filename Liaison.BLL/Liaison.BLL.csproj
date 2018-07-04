@@ -70,12 +70,14 @@
     <Compile Include="Models\Unit\FieldArmy.cs" />
     <Compile Include="Models\Unit\FiveStar.cs" />
     <Compile Include="Models\Unit\Flight.cs" />
+    <Compile Include="Models\Unit\Flotilla.cs" />
     <Compile Include="Models\Unit\FourStar.cs" />
     <Compile Include="Models\Equipment\IEquipment.cs" />
     <Compile Include="Models\Unit\IUnit.cs" />
     <Compile Include="Models\UnitRelationship.cs" />
     <Compile Include="Models\Unit\NamedFleet.cs" />
     <Compile Include="Models\Unit\AirWing.cs" />
+    <Compile Include="Models\Unit\NavalGroup.cs" />
     <Compile Include="Models\Unit\NavalSquadron.cs" />
     <Compile Include="Models\Unit\NumberedAirForce.cs" />
     <Compile Include="Models\Unit\NumberedFleet.cs" />

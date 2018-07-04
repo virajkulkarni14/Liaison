@@ -111,7 +111,7 @@ namespace Liaison.BLL.Models.Unit
             }
 
             var x = sb.ToString();
-            return x.Length > 0 ? x.Substring(0, x.Length - ExtensionMethods.Seperator.Length) : x;
+            return (x.Length > 0 ? x.Substring(0, x.Length - ExtensionMethods.Seperator.Length) : x).Replace("_", "");
         }
 
         public string GetTerritorialDesignation()

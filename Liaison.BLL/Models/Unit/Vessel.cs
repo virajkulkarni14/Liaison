@@ -27,20 +27,34 @@ namespace Liaison.BLL.Models.Unit
 
     public class VesselClass
     {
-        public VesselClass(ShipClass shipClass)
+        public VesselClass(ShipClass shipClass, bool isLeadShip)
         {
-            if (shipClass != null)
-            {
-                this.ClassName = shipClass.ClassName;
-                this.ClassCode = new HCS(shipClass.ClassCodeHCS, shipClass.ClassCodeNumber);
-                this.ModName = shipClass.ModName;
-            }
+            if (shipClass == null) return;
+
+            this.ClassName = shipClass.ClassName;
+            this.ClassCode = new HCS(shipClass.ClassCodeHCS, shipClass.ClassCodeNumber);
+            this.ModName = shipClass.ModName;
+            this.IsLeadShip = isLeadShip;
         }
+
+        public bool IsLeadShip { get; set; }
 
         public HCS ClassCode { get; set; }
 
         public string ClassName { get; set; }
         public string ModName { get; set; }
+
+        public string GetClassName()
+        {
+            StringBuilder sb=new StringBuilder();
+            if (this.IsLeadShip) { sb.Append("<u>"); }
+            sb.Append(this.ClassName);
+            sb.Append(" class");
+            if (this.IsLeadShip) { sb.Append("</u>"); }
+            if (!string.IsNullOrWhiteSpace(this.ModName)) { sb.Append(", " + this.ModName); }
+
+            return sb.ToString();
+        }
     }
 
 
@@ -73,7 +87,7 @@ namespace Liaison.BLL.Models.Unit
                 {
                     throw new Exception("Too many ship classes");
                 }
-                this.ShipClass = new VesselClass(ship.ShipClassMembers.First().ShipClass);
+                this.ShipClass = new VesselClass(ship.ShipClassMembers.First().ShipClass, ship.ShipClassMembers.First().IsLeadBoat);
             }
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
@@ -135,16 +149,8 @@ namespace Liaison.BLL.Models.Unit
                 return "";
             }
 
-
-            StringBuilder sb = new StringBuilder();
-            sb.Append(this.ShipClass.ClassName);
-            sb.Append(" class");
-            if (!string.IsNullOrWhiteSpace(this.ShipClass.ModName))
-            {
-                sb.Append(", " + this.ShipClass.ModName);
-            }
-
-            return sb.ToString();
+return this.ShipClass.GetClassName();
+       
         }
 
         public bool IsTaskForce { get; }

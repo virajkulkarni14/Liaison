@@ -57,6 +57,7 @@ namespace Liaison.BLL.Models.Unit
         {
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
         }
+
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
@@ -64,21 +65,34 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
             }
-            else
+            else if (this.Number != null)
             {
                 sb.Append("No. " + this.Number + " ");
             }
 
             //sb.Append("Naval ");
             sb.Append(this.MissionName + " ");
-            if (!string.IsNullOrWhiteSpace(this.CommandName))
+            if (this.Service == ServicesBll.AirForce)
             {
-                sb.Append("(" + this.CommandName + ") ");
+                if (!string.IsNullOrWhiteSpace(this.CommandName))
+                {
+                    sb.Append("(" + this.CommandName + ") ");
+                }
+            }
+            else if (this.Service == ServicesBll.Navy)
+            {
+                if (!string.IsNullOrWhiteSpace(this.CommandName))
+                {
+                    sb.Append(this.CommandName);
+                }
             }
 
             if (string.IsNullOrWhiteSpace(this.UnitTypeVariant))
             {
-                sb.Append("Wing");
+                if (string.IsNullOrWhiteSpace(this.CommandName))
+                {
+                    sb.Append("Wing");
+                }
             }
             else
             {
@@ -93,7 +107,7 @@ namespace Liaison.BLL.Models.Unit
             return sb.ToString();
         }
 
-        
+
 
 
         public override string GetEquipment()

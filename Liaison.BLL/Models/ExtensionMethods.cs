@@ -86,6 +86,9 @@ namespace Liaison.BLL.Models
                 if (input == 4) return "Fourth";
                 if (input == 5) return "Fifth";
                 if (input == 6) return "Sixth";
+                if (input == 7) return "Seventh";
+                if (input == 8) return "Eighth";
+                if (input == 11) return "Eleventh";
             }
 
             throw new Exception("Number not done: "+input);

@@ -260,6 +260,7 @@ namespace Liaison.BLL.Models.Unit
 
             List<RelationshipTracker> returnable2 = new List<RelationshipTracker>();
             List<string> log = new List<string>();
+
             for (int i = 20; i > -1; i--)
             {                
                 IList<RelationshipTracker> currentRankedUnits = units.Where(u => u.Unit.GetRankLevel() == i).OrderBy(u=>u.Unit.GetSortString()).ToList();
@@ -274,7 +275,8 @@ namespace Liaison.BLL.Models.Unit
                         if (found.Count > 0)
                         {
                             returnable2.AddRange(found);
-                            log.Add("Adding " + string.Join(",", found) + " because " + str);
+                            var l = found.Select(c => c.Unit.GetSortString());
+                            log.Add("Adding " + string.Join(",", l) + " because " + str);
                         }
 
                         foreach (var f in found)
