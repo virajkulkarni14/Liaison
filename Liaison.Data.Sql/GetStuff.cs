@@ -43,5 +43,14 @@ namespace Liaison.Data.Sql
         {
             return context.SortOrders.OrderBy(so => so.SortOrderRank).Select(so => so.SearchTerm).ToList();
         }
+
+        public static List<string> GetNavalSquadronMissionNames()
+        {
+            using (var context = new LiaisonEntities())
+            {
+                return context.ConfigSettings.First(m => m.ConfigSetting1== "NavalSquadronMissionNames").ConfigValue.Split(',').ToList();
+            }
+              
+        }
     }
 }

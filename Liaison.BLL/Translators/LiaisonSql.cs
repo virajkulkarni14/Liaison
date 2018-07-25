@@ -24,7 +24,8 @@ namespace Liaison.BLL.Translators
 
         public static IUnit GetTree(string input, int? depth)
         {
-            depthRequired = depth;
+            depthRequired = depth == 0 ? null : depth;
+            
             IUnit convUnit;
             if (Int32.TryParse(input, out int iInput))
             {
@@ -208,7 +209,7 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {
-                    if (sqlUnit.MissionName.Contains("Strike"))
+                    if (sqlUnit.MissionName!=null && sqlUnit.MissionName.Contains("Strike"))
                     {
                         return new NavalGroup(sqlUnit);
                     }
@@ -230,7 +231,9 @@ namespace Liaison.BLL.Translators
                         return new AirWing(sqlUnit); //, includeParent);
                     }
 
-                    if (sqlUnit.MissionName == "Destroyer" || sqlUnit.MissionName == "Submarine")
+                    List<string> missionNames = Liaison.Data.Sql.GetStuff.GetNavalSquadronMissionNames();
+                    if (missionNames.Contains(sqlUnit.MissionName))
+                    //if (sqlUnit.MissionName == "Destroyer" || sqlUnit.MissionName == "Submarine")
                     {
                         return new NavalSquadron(sqlUnit);
                     }
@@ -267,9 +270,17 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == "|")
             {
-                if (sqlUnit.ServiceIdx == (int)Helper.Enumerators.ServicesBll.AirForce)
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
                 {
                     return new Flight(sqlUnit);
+                }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
+                {
+                    if (sqlUnit.Ships != null && sqlUnit.Ships.Any())
+                    {
+                        return new Vessel(sqlUnit);
+                    }
                 }
             }
             else if (sqlUnit.RankSymbol == "^")

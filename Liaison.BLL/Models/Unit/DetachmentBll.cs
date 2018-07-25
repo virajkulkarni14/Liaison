@@ -80,6 +80,10 @@ namespace Liaison.BLL.Models.Unit
 
         public int GetRankLevel()
         {
+            if (this.CommandName.Contains("NAS"))
+            {
+                return 10;
+            }
             return RankLevel ?? 0;
         }
 

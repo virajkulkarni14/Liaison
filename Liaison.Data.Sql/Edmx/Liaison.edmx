@@ -23,6 +23,7 @@
           <Property Name="AircraftId" Type="int" />
           <Property Name="AircraftGuid" Type="uniqueidentifier" Nullable="false" />
           <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SortName" Type="nvarchar" MaxLength="50" />
           <Property Name="Mark" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="Sort" Type="nvarchar" MaxLength="50" />
           <Property Name="AltCode" Type="nvarchar" MaxLength="50" />
@@ -45,6 +46,14 @@
           <Property Name="FAACode" Type="nvarchar" MaxLength="3" />
           <Property Name="AFDCode" Type="nvarchar" MaxLength="4" />
           <Property Name="ParentBaseId" Type="int" />
+          <Property Name="ShipId" Type="uniqueidentifier" />
+        </EntityType>
+        <EntityType Name="ConfigSettings">
+          <Key>
+            <PropertyRef Name="ConfigSetting" />
+          </Key>
+          <Property Name="ConfigSetting" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="ConfigValue" Type="nvarchar(max)" />
         </EntityType>
         <EntityType Name="EquipmentOwner">
           <Key>
@@ -533,6 +542,7 @@
           <EntitySet Name="AdminCorps" EntityType="Self.AdminCorps" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Aircraft" EntityType="Self.Aircraft" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Base" EntityType="Self.Base" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ConfigSettings" EntityType="Self.ConfigSettings" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="EquipmentOwner" EntityType="Self.EquipmentOwner" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Mission" EntityType="Self.Mission" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="MissionUnit" EntityType="Self.MissionUnit" Schema="dbo" store:Type="Tables" />
@@ -775,6 +785,7 @@
             <End Role="ShipClass" EntitySet="ShipClasses" />
             <End Role="ShipClassMember" EntitySet="ShipClassMembers" />
           </AssociationSet>
+          <EntitySet Name="ConfigSettings" EntityType="LiaisonModel.ConfigSetting" />
           </EntityContainer>
         <EntityType Name="RelationshipType">
           <Key>
@@ -950,6 +961,7 @@
           <NavigationProperty Name="ParentBase" Relationship="LiaisonModel.FK_Base_Base" FromRole="Base1" ToRole="Base" />
           <NavigationProperty Name="Tennants" Relationship="LiaisonModel.FK_Tennant_Base" FromRole="Base" ToRole="Tennant" />
           <Property Name="CommissionedName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ShipId" Type="Guid" />
         </EntityType>
         <Association Name="FK_Base_Base">
           <End Type="LiaisonModel.Base" Role="Base" Multiplicity="0..1" />
@@ -1169,6 +1181,7 @@
           <Property Name="AltName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="AltSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="Aircraft" ToRole="EquipmentOwner" />
+          <Property Name="SortName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="Ship">
           <Key>
@@ -1331,6 +1344,13 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <EntityType Name="ConfigSetting">
+          <Key>
+            <PropertyRef Name="ConfigSetting1" />
+          </Key>
+          <Property Name="ConfigSetting1" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ConfigValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
         </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -1436,6 +1456,7 @@
           <EntitySetMapping Name="Bases">
             <EntityTypeMapping TypeName="LiaisonModel.Base">
               <MappingFragment StoreEntitySet="Base">
+                <ScalarProperty Name="ShipId" ColumnName="ShipId" />
                 <ScalarProperty Name="CommissionedName" ColumnName="CommissionedName" />
                 <ScalarProperty Name="ParentBaseId" ColumnName="ParentBaseId" />
                 <ScalarProperty Name="AFDCode" ColumnName="AFDCode" />
@@ -1534,6 +1555,7 @@
           <EntitySetMapping Name="Aircraft">
             <EntityTypeMapping TypeName="LiaisonModel.Aircraft">
               <MappingFragment StoreEntitySet="Aircraft">
+                <ScalarProperty Name="SortName" ColumnName="SortName" />
                 <ScalarProperty Name="AltSort" ColumnName="AltSort" />
                 <ScalarProperty Name="AltName" ColumnName="AltName" />
                 <ScalarProperty Name="AltCode" ColumnName="AltCode" />
@@ -1598,6 +1620,14 @@
                 <ScalarProperty Name="ClassCodeHCS" ColumnName="ClassCodeHCS" />
                 <ScalarProperty Name="ClassName" ColumnName="ClassName" />
                 <ScalarProperty Name="ShipClassId" ColumnName="ShipClassId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ConfigSettings">
+            <EntityTypeMapping TypeName="LiaisonModel.ConfigSetting">
+              <MappingFragment StoreEntitySet="ConfigSettings">
+                <ScalarProperty Name="ConfigValue" ColumnName="ConfigValue" />
+                <ScalarProperty Name="ConfigSetting1" ColumnName="ConfigSetting" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

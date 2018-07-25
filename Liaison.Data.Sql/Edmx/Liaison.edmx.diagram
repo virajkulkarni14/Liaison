@@ -48,6 +48,7 @@
         <EntityTypeShape EntityType="LiaisonModel.ShipClass" Width="1.5" PointX="11.125" PointY="18.5" />
         <AssociationConnector Association="LiaisonModel.FK_ShipClass_Mod" />
         <AssociationConnector Association="LiaisonModel.FK_ShipClassMember_ShipClass" />
+        <EntityTypeShape EntityType="LiaisonModel.ConfigSetting" Width="1.5" PointX="11.375" PointY="10.75" />
         </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

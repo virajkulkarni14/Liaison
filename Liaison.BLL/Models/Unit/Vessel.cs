@@ -116,11 +116,11 @@ namespace Liaison.BLL.Models.Unit
           StringBuilder sb = new StringBuilder();
             sb.Append(this.Prefix+" ");
             sb.Append(this.ShipName);
-            sb.Append(" (");
-            sb.Append(this.HCS.Code + " " + this.HCS.Number);
-            sb.Append("/");
-            sb.Append(this.PennantNumber.Code + " " + this.PennantNumber.Number);
-            sb.Append(")");
+            //sb.Append(" (");
+            //sb.Append(this.HCS.Code + " " + this.HCS.Number);
+            //sb.Append("/");
+            //sb.Append(this.PennantNumber.Code + " " + this.PennantNumber.Number);
+            //sb.Append(")");
             return sb.ToString();
         }
 

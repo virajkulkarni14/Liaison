@@ -45,5 +45,6 @@ namespace Liaison.Data.Sql.Edmx
         public virtual DbSet<EquipmentOwner> EquipmentOwners { get; set; }
         public virtual DbSet<ShipClassMember> ShipClassMembers { get; set; }
         public virtual DbSet<ShipClass> ShipClasses { get; set; }
+        public virtual DbSet<ConfigSetting> ConfigSettings { get; set; }
     }
 }

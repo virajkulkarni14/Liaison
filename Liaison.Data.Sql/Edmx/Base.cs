@@ -33,6 +33,7 @@ namespace Liaison.Data.Sql.Edmx
         public string AFDCode { get; set; }
         public Nullable<int> ParentBaseId { get; set; }
         public string CommissionedName { get; set; }
+        public Nullable<System.Guid> ShipId { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Base> SubFacilities { get; set; }

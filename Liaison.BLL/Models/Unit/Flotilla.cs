@@ -12,6 +12,7 @@ namespace Liaison.BLL.Models.Unit
             this.Number = sqlUnit.Number;
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.MissionName = sqlUnit.MissionName;
+            this.CommandName = sqlUnit.CommandName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
@@ -30,6 +31,8 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
 
+        public string CommandName { get; set; }
+
         public override string GetAdminCorps()
         {
             return string.Empty;
@@ -38,14 +41,20 @@ namespace Liaison.BLL.Models.Unit
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
-            if (!string.IsNullOrWhiteSpace(this.MissionName))
+            if (string.IsNullOrWhiteSpace(this.CommandName))
             {
-                sb.Append(this.MissionName + " ");
+                sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
+                if (!string.IsNullOrWhiteSpace(this.MissionName))
+                {
+                    sb.Append(this.MissionName + " ");
+                }
+
+                sb.Append("Flotilla");
             }
-
-            sb.Append("Flotilla");
-
+            else
+            {
+                sb.Append(this.CommandName);
+            }
 
             return sb.ToString();
         }

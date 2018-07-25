@@ -58,6 +58,9 @@
     <Compile Include="Edmx\Base.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
+    <Compile Include="Edmx\ConfigSetting.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
     <Compile Include="Edmx\EquipmentOwner.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
