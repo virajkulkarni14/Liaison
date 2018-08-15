@@ -6,6 +6,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public class NavalSquadron : ThreeBar
     {
+        
 
         public NavalSquadron(Data.Sql.Edmx.Unit sqlUnit)
         {

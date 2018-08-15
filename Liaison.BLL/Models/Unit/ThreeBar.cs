@@ -13,7 +13,7 @@ namespace Liaison.BLL.Models.Unit
         public abstract string GetName();
         public string PrintTree()
         {
-            throw new NotImplementedException();
+            return AUnit.PrintAnyTree(this);
         }
 
         public  int GetRankLevel()

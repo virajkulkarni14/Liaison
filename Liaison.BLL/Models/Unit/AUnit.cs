@@ -158,7 +158,7 @@ namespace Liaison.BLL.Models.Unit
 
 
                         List<string> relSix = rt.Unit.GetParents(unit.GetId(), x)
-                            .Where(r => r.RelationshipType.RelationshipTypeId == (int) HigherHqType.ADCON)
+                            .Where(r => r.RelationshipType.RelationshipTypeId == (int) HigherHqType.ADCON)                         
                             .Select(r => r.Unit.GetName()).ToList();
                         //   var relSix = relationshipTrackers.Where(r =>
                         //    r.RelationshipType.RelationshipTypeId == (int) Helper.Enumerators.HigherHqType.ADCON)
@@ -218,9 +218,6 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append(" [<span class='lzMission'>" + mission + "</span>]");
             }
-
-
-
 
             if (!string.IsNullOrWhiteSpace(equipment))
             {

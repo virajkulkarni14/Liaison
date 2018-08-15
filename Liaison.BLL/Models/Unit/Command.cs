@@ -60,6 +60,7 @@ namespace Liaison.BLL.Models.Unit
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
+            this.MissionName = sqlUnit.MissionName;
             this.Name = sqlUnit.CommandName;
             this.Service = (ServicesBll) sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
@@ -83,6 +84,10 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetName()
         {
+            if (!string.IsNullOrWhiteSpace(this.MissionName))
+            {
+                return this.MissionName + " " + this.Name;
+            }
             return this.Name;
         }
 

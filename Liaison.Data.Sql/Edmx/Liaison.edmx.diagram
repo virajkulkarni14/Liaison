@@ -24,7 +24,7 @@
         <EntityTypeShape EntityType="LiaisonModel.MissionUnit" Width="1.5" PointX="7.125" PointY="8" />
         <AssociationConnector Association="LiaisonModel.FK_MissionUnit_Mission" />
         <AssociationConnector Association="LiaisonModel.FK_MissionUnit_Unit" />
-        <EntityTypeShape EntityType="LiaisonModel.Relationship" Width="1.5" PointX="5.375" PointY="3.125" />
+        <EntityTypeShape EntityType="LiaisonModel.Relationship" Width="2" PointX="5.375" PointY="3.125" />
         <AssociationConnector Association="LiaisonModel.FK_Relationship_RelationshipType" />
         <AssociationConnector Association="LiaisonModel.FK_RelationshipFrom_Unit" />
         <AssociationConnector Association="LiaisonModel.FK_RelationshipTo_Unit" />
@@ -49,6 +49,7 @@
         <AssociationConnector Association="LiaisonModel.FK_ShipClass_Mod" />
         <AssociationConnector Association="LiaisonModel.FK_ShipClassMember_ShipClass" />
         <EntityTypeShape EntityType="LiaisonModel.ConfigSetting" Width="1.5" PointX="11.375" PointY="10.75" />
+        <AssociationConnector Association="LiaisonModel.FK_Base_Ship" />
         </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -20,7 +20,15 @@ namespace Liaison.BLL.Models
                 return;
             }
 
-            this.CommissionedName = tennant.Base.CommissionedName;
+            if (tennant.Base.Ship == null)
+            {
+                this.CommissionedName = tennant.Base.CommissionedName;
+            }
+            else
+            {
+                this.CommissionedName = tennant.Base.Ship.ShipPrefix.ShipPrefix1 + " " + tennant.Base.Ship.Name;
+            }
+
             this.IsHost = tennant.IsHost;
             this.Prefix = tennant.Base.Prefix;
             this.Name = tennant.Base.Name;
@@ -37,6 +45,7 @@ namespace Liaison.BLL.Models
                 return;
             }
 
+            var a = facility.ShipId;
             this.CommissionedName = facility.CommissionedName;
             this.IsHost = false;
             this.Prefix = facility.Prefix;

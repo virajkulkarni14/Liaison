@@ -1,12 +1,14 @@
 ﻿using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
+using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
     public class AirWing : ThreeBar
     {
+        public new AdminCorps AdminCorps { get; set; }
         public string UnitTypeVariant { get; set; }
         public AirWing(Data.Sql.Edmx.Unit sqlUnit)
         {
@@ -33,9 +35,10 @@ namespace Liaison.BLL.Models.Unit
 
             if (sqlUnit.AdminCorp != null)
             {
-               // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
-               // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
-                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
+                // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
+                //this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
             }
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
@@ -99,7 +102,22 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.UnitTypeVariant);
             }
 
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps.Code))
+            if (this.AdminCorps == null)
+            {
+                using (var content = new LiaisonEntities())
+                {
+                    var thisThing = content.Units.First(u => u.UnitId == this.UnitId);
+
+                    var sqlAdminCorps = content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId); ;
+                    if (sqlAdminCorps != null)
+                    {
+                        this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+                            sqlAdminCorps.AdminCorpsId);
+                    }
+                }
+            }
+
+            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
                 sb.Append(ExtensionMethods.Seperator + this.AdminCorps.Code);
             }

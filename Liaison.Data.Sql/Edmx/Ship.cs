@@ -19,6 +19,7 @@ namespace Liaison.Data.Sql.Edmx
         {
             this.HasBecome = new HashSet<Ship>();
             this.ShipClassMembers = new HashSet<ShipClassMember>();
+            this.Bases = new HashSet<Base>();
         }
     
         public System.Guid ShipId { get; set; }
@@ -46,5 +47,7 @@ namespace Liaison.Data.Sql.Edmx
         public virtual Unit Unit { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ShipClassMember> ShipClassMembers { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Base> Bases { get; set; }
     }
 }

@@ -60,6 +60,7 @@ namespace Liaison.BLL.Models.Unit
 
     public class Vessel : AUnit, IUnit
     {
+        private Ship ship;
 
         public string GetAdminCorps()
         {
@@ -101,6 +102,18 @@ namespace Liaison.BLL.Models.Unit
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
 
+        }
+
+        public Vessel(Ship ship)
+        {
+            if (ship.UnitId != null) this.UnitId = ship.UnitId.Value;
+            if (ship.Unit != null)
+            {
+                this.Prefix = ship.ShipPrefix.ShipPrefix1;
+                this.ShipName = ship.Name;
+                this.HCS = new HCS(ship.HCS, ship.HCSNumber);
+                this.PennantNumber = new HCS(ship.PennantCode, ship.PennantNumber);
+            }
         }
 
         public VesselClass ShipClass { get; set; }

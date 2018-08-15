@@ -32,11 +32,11 @@ namespace Liaison.Data.Sql
             var thisthing = context.Units
                 .Include(ui => ui.RelationshipsFrom)
                 .Include(ui => ui.RelationshipsTo)
-                .Include(ui=>ui.Rank)
+                .Include(ui => ui.Rank)
+                .Include(ui => ui.AdminCorp)
                 .Where(ui => ui.UnitId == unitId);
 
             return thisthing.First();
-
         }
 
         public static List<string> GetSortOrder(LiaisonEntities context)

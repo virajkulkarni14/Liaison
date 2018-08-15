@@ -123,6 +123,7 @@
           <Property Name="RelTypeIdx" Type="int" Nullable="false" />
           <Property Name="RelFromUnitId" Type="int" Nullable="false" />
           <Property Name="RelToUnitId" Type="int" Nullable="false" />
+          <Property Name="DoNotUse" Type="bit" Nullable="false" />
         </EntityType>
         <EntityType Name="RelationshipType">
           <Key>
@@ -283,6 +284,18 @@
             </Principal>
             <Dependent Role="Base1">
               <PropertyRef Name="ParentBaseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Base_Ship">
+          <End Role="Ship" Type="Self.Ship" Multiplicity="0..1" />
+          <End Role="Base" Type="Self.Base" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ship">
+              <PropertyRef Name="ShipId" />
+            </Principal>
+            <Dependent Role="Base">
+              <PropertyRef Name="ShipId" />
             </Dependent>
           </ReferentialConstraint>
         </Association>
@@ -568,6 +581,10 @@
             <End Role="Base" EntitySet="Base" />
             <End Role="Base1" EntitySet="Base" />
           </AssociationSet>
+          <AssociationSet Name="FK_Base_Ship" Association="Self.FK_Base_Ship">
+            <End Role="Ship" EntitySet="Ship" />
+            <End Role="Base" EntitySet="Base" />
+          </AssociationSet>
           <AssociationSet Name="FK_EquipmentOwner_Aircraft" Association="Self.FK_EquipmentOwner_Aircraft">
             <End Role="Aircraft" EntitySet="Aircraft" />
             <End Role="EquipmentOwner" EntitySet="EquipmentOwner" />
@@ -786,6 +803,10 @@
             <End Role="ShipClassMember" EntitySet="ShipClassMembers" />
           </AssociationSet>
           <EntitySet Name="ConfigSettings" EntityType="LiaisonModel.ConfigSetting" />
+          <AssociationSet Name="FK_Base_Ship" Association="LiaisonModel.FK_Base_Ship">
+            <End Role="Ship" EntitySet="Ships" />
+            <End Role="Base" EntitySet="Bases" />
+          </AssociationSet>
           </EntityContainer>
         <EntityType Name="RelationshipType">
           <Key>
@@ -962,6 +983,7 @@
           <NavigationProperty Name="Tennants" Relationship="LiaisonModel.FK_Tennant_Base" FromRole="Base" ToRole="Tennant" />
           <Property Name="CommissionedName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="ShipId" Type="Guid" />
+          <NavigationProperty Name="Ship" Relationship="LiaisonModel.FK_Base_Ship" FromRole="Base" ToRole="Ship" />
         </EntityType>
         <Association Name="FK_Base_Base">
           <End Type="LiaisonModel.Base" Role="Base" Multiplicity="0..1" />
@@ -1053,6 +1075,7 @@
           <NavigationProperty Name="RelationshipType" Relationship="LiaisonModel.FK_Relationship_RelationshipType" FromRole="Relationship" ToRole="RelationshipType" />
           <NavigationProperty Name="RelationshipsFrom" Relationship="LiaisonModel.FK_RelationshipFrom_Unit" FromRole="Relationship" ToRole="Unit" />
           <NavigationProperty Name="RelationshipsTo" Relationship="LiaisonModel.FK_RelationshipTo_Unit" FromRole="Relationship" ToRole="Unit" />
+          <Property Name="DoNotUse" Type="Boolean" Nullable="false" />
         </EntityType>
         <Association Name="FK_Relationship_RelationshipType">
           <End Type="LiaisonModel.RelationshipType" Role="RelationshipType" Multiplicity="1" />
@@ -1209,6 +1232,7 @@
           <Property Name="UnitId" Type="Int32" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_Ship_Unit" FromRole="Ship" ToRole="Unit" />
           <NavigationProperty Name="ShipClassMembers" Relationship="LiaisonModel.FK_ShipClassMember_Ship" FromRole="Ship" ToRole="ShipClassMember" />
+          <NavigationProperty Name="Bases" Relationship="LiaisonModel.FK_Base_Ship" FromRole="Ship" ToRole="Base" />
         </EntityType>
         <Association Name="FK_Ship_NewShip">
           <End Type="LiaisonModel.Ship" Role="Ship" Multiplicity="0..1" />
@@ -1351,6 +1375,18 @@
           <Property Name="ConfigSetting1" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="ConfigValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
         </EntityType>
+        <Association Name="FK_Base_Ship">
+          <End Type="LiaisonModel.Ship" Role="Ship" Multiplicity="0..1" />
+          <End Type="LiaisonModel.Base" Role="Base" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ship">
+              <PropertyRef Name="ShipId" />
+            </Principal>
+            <Dependent Role="Base">
+              <PropertyRef Name="ShipId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -1500,6 +1536,7 @@
           <EntitySetMapping Name="Relationships">
             <EntityTypeMapping TypeName="LiaisonModel.Relationship">
               <MappingFragment StoreEntitySet="Relationship">
+                <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
                 <ScalarProperty Name="RelToUnitId" ColumnName="RelToUnitId" />
                 <ScalarProperty Name="RelFromUnitId" ColumnName="RelFromUnitId" />
                 <ScalarProperty Name="RelTypeIdx" ColumnName="RelTypeIdx" />

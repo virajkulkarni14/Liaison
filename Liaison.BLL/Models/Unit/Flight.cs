@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
+using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
@@ -52,6 +53,7 @@ namespace Liaison.BLL.Models.Unit
         {
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
         }
+
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
@@ -60,10 +62,12 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append("(V) (" + this.TerritorialDesignation + ") ");
             }
+
             if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
                 sb.Append(this.MissionName + " ");
             }
+
             if (this.Service == ServicesBll.Navy)
             {
                 sb.Append("Naval Air Flt.");
@@ -72,10 +76,29 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append("Flt.");
             }
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps.Code))
+
+            if (this.AdminCorps == null)
+            {
+                using (var content = new LiaisonEntities())
+                {
+                    var thisThing = content.Units.First(u => u.UnitId == this.UnitId);
+
+                    var sqlAdminCorps =
+                        content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId);
+                    ;
+                    if (sqlAdminCorps != null)
+                    {
+                        this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+                            sqlAdminCorps.AdminCorpsId);
+                    }
+                }
+            }
+
+            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
                 sb.Append(ExtensionMethods.Seperator + this.AdminCorps.Code);
             }
+
 
             return sb.ToString();
         }

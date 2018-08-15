@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
+using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
@@ -53,7 +54,7 @@ namespace Liaison.BLL.Models.Unit
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
         }
         public override string GetName()
-        {
+        {          
             StringBuilder sb = new StringBuilder();
             sb.Append("No. " + this.Number + " ");
             if (this.ServiceType == ServiceTypeBLL.Volunteer)
@@ -70,6 +71,20 @@ namespace Liaison.BLL.Models.Unit
             }
             else
             {
+                if (this.AdminCorps == null)
+                {
+                    using (var content = new LiaisonEntities())
+                    {
+                        var thisThing = content.Units.First(u => u.UnitId== this.UnitId);
+
+                        var sqlAdminCorps = content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId);                        ;
+                        if (sqlAdminCorps != null)
+                        {
+                            this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+                                sqlAdminCorps.AdminCorpsId);
+                        }
+                    }                      
+                }
                 if (this.AdminCorps.Id==35)
                 {
                     sb.Append("Unit");

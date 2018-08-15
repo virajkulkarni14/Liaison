@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using Liaison.BLL.Models.Equipment;
 using Liaison.BLL.Models.Unit;
 
 namespace Liaison.BLL.Models.Unit
@@ -6,6 +8,9 @@ namespace Liaison.BLL.Models.Unit
 
     public abstract class TwoBar :  AUnit, IUnit
     {
+        public List<IEquipment> Equipment { get; set; }
+        public bool UseOrdinal { get; set; }
+
         public abstract string GetAdminCorps();
         public abstract string GetName();
         public string PrintTree()

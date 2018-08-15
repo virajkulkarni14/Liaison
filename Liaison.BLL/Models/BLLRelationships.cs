@@ -37,7 +37,7 @@ namespace Liaison.BLL.Models
 
         public BLLRelationships(int unitid, IEnumerable<Relationship> relf)
         {
-            var relationships = relf.ToList();
+            var relationships = relf.Where(r=>r.DoNotUse==false).ToList();
             if (relationships.Any() && relationships.Any(rr => rr.RelationshipsTo == null))
             {
                 return;

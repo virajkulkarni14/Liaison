@@ -223,6 +223,10 @@ namespace Liaison.BLL.Translators
                     var f = sqlUnit.CommandName;
                     if (sqlUnit.Ships != null && sqlUnit.Ships.Any())
                     {
+                        if (sqlUnit.Ships.Any(b => b.IsBase))
+                        {
+                            return new Facility(sqlUnit);
+                        }
                         return new Vessel(sqlUnit);
                     }
 
@@ -258,6 +262,12 @@ namespace Liaison.BLL.Translators
                     if (sqlUnit.AdminCorp?.Code == "FAA")
                     {
                         return new AirSquadron(sqlUnit); //, includeParent);
+                    }
+
+                    List<string> missionNames = Liaison.Data.Sql.GetStuff.GetNavalSquadronMissionNames();
+                    if (missionNames.Contains(sqlUnit.MissionName))
+                    {
+                        return new NavalSquadronDivision(sqlUnit);
                     }
 
                     return new Facility(sqlUnit);

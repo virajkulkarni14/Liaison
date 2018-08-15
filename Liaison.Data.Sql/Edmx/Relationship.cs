@@ -21,6 +21,7 @@ namespace Liaison.Data.Sql.Edmx
         public int RelTypeIdx { get; set; }
         public int RelFromUnitId { get; set; }
         public int RelToUnitId { get; set; }
+        public bool DoNotUse { get; set; }
     
         public virtual RelationshipType RelationshipType { get; set; }
         public virtual Unit RelationshipsFrom { get; set; }

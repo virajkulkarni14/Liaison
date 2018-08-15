@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Text;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
@@ -9,7 +10,10 @@ namespace Liaison.BLL.Models.Unit
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
+            this.MissionName = sqlUnit.MissionName;
             this.CommandName = sqlUnit.CommandName;
+            if (sqlUnit.Ships.Any())
+                this.Vessel = new Vessel(sqlUnit.Ships.First());
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
@@ -29,6 +33,9 @@ namespace Liaison.BLL.Models.Unit
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
+
+        public Vessel Vessel { get; set; }
+
         public string GetAdminCorps()
         {
             return "";
@@ -37,7 +44,19 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetName()
         {
-            return this.CommandName;
+            StringBuilder sb = new StringBuilder();
+            if (this.Vessel != null)
+            {
+                sb.Append(this.Vessel.Prefix + " " + this.Vessel.ShipName + " (");
+            }
+
+            sb.Append(this.MissionName + " " + this.CommandName);
+            if (this.Vessel != null)
+            {
+                sb.Append(")");
+            }
+
+            return sb.ToString();
         }
 
         public string PrintTree()

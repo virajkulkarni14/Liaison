@@ -40,5 +40,6 @@ namespace Liaison.Data.Sql.Edmx
         public virtual Base ParentBase { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Tennant> Tennants { get; set; }
+        public virtual Ship Ship { get; set; }
     }
 }
