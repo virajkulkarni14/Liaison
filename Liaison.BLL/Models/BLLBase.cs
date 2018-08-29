@@ -4,7 +4,7 @@ namespace Liaison.BLL.Models
 {
     public class BLLBase
     {
-   
+   internal int BaseId { get; set; }
         internal string Prefix { get; set; }
         internal string Name { get; }
         internal string Suffix { get; set; }
@@ -29,6 +29,7 @@ namespace Liaison.BLL.Models
                 this.CommissionedName = tennant.Base.Ship.ShipPrefix.ShipPrefix1 + " " + tennant.Base.Ship.Name;
             }
 
+            this.BaseId = tennant.BaseId;
             this.IsHost = tennant.IsHost;
             this.Prefix = tennant.Base.Prefix;
             this.Name = tennant.Base.Name;

@@ -169,6 +169,7 @@ namespace Liaison.BLL.Translators
                     {
                         return new Command(sqlUnit, cont); //, includeParent);
                     }
+                    return new ExpeditionaryForce(sqlUnit);                    
                 }
             }
             else if (sqlUnit.RankSymbol == ")")
@@ -187,6 +188,23 @@ namespace Liaison.BLL.Translators
                     else
                     {
                         return new NavalGroup(sqlUnit);
+                    }
+                }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
+                {
+                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
+                    {
+                        return new AirGroup(sqlUnit);
+                    }
+                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLandForces)
+                    {
+                        return new Division(sqlUnit);
+                    }
+
+                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
+                    {
+                        return new Division(sqlUnit);
                     }
                 }
             }
@@ -249,33 +267,49 @@ namespace Liaison.BLL.Translators
                 {
                     return new AirWing(sqlUnit);
                 }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
+                {
+
+                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm||
+                        sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalIndianMarinesAirArm)
+                    {
+                        return new AirWing(sqlUnit);
+                    }
+                    if (sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLogistics ||
+                        sqlUnit.AdminCorp.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineArtillery ||
+                        sqlUnit.AdminCorp.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+                    )
+                    {
+                        return new Regiment(sqlUnit);
+                    }
+
+                    throw new Exception("Marine Air Corps not processed");
+                }
             }
             else if (sqlUnit.RankSymbol == "@")
             {
-                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
                 {
-                    if (sqlUnit.Ships != null && sqlUnit.Ships.Any())
+                    if (sqlUnit.AdminCorp.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
                     {
-                        return new Vessel(sqlUnit);
+                        return new AirSquadron(sqlUnit);
                     }
 
-                    if (sqlUnit.AdminCorp?.Code == "FAA")
-                    {
-                        return new AirSquadron(sqlUnit); //, includeParent);
-                    }
-
-                    List<string> missionNames = Liaison.Data.Sql.GetStuff.GetNavalSquadronMissionNames();
-                    if (missionNames.Contains(sqlUnit.MissionName))
-                    {
-                        return new NavalSquadronDivision(sqlUnit);
-                    }
-
-                    return new Facility(sqlUnit);
+                    throw new Exception("Other type of marine @");
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
                 {
                     return new AirSquadron(sqlUnit);
+                }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
+                {
+                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.FleetArmArm)
+                    {
+                        return new AirSquadron(sqlUnit);
+                    }
                 }
             }
             else if (sqlUnit.RankSymbol == "|")
@@ -291,6 +325,8 @@ namespace Liaison.BLL.Translators
                     {
                         return new Vessel(sqlUnit);
                     }
+
+                    return new Facility(sqlUnit);
                 }
             }
             else if (sqlUnit.RankSymbol == "^")

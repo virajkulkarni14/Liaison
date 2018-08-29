@@ -48,6 +48,7 @@ namespace Liaison.Helper.Enumerators
         FleetAuxiliary = 7,
         Joint = 8,
     }
+
     public enum UnitType
     {
         Command = 1,
@@ -62,39 +63,57 @@ namespace Liaison.Helper.Enumerators
         SquadronCavalry = 15,
     }
 
+    public enum AdminCorps
+    {
+        FleetArmArm=1,
+        RoyalMarineAviation = 68,
+        RoyalMarineLandForces = 71,
+        RoyalMarineArtillery = 72,
+        RoyalMarineLogistics = 73,
+        CorpsOfRoyalMarines = 74,
+        RoyalMarineLightInfantry = 75,
+        RoyalMarinesAirArm = 76,
+        RoyalIndianMarinesAirArm = 77,
+        NavalAviation=78
+    }
+
+
     public enum HigherHqType
     {
-        Unknown=0,
-        Organic=1,
-        Assigned=2,
-        Attached=3,
-        OPCON=4,
-        TACON=5,
-        ADCON=6,
-        Detached=7,
-        TaskForce=8
+        Unknown = 0,
+        Organic = 1,
+        Assigned = 2,
+        Attached = 3,
+        OPCON = 4,
+        TACON = 5,
+        ADCON = 6,
+        Detached = 7,
+        TaskForce = 8
     }
+
     public enum ServiceTypeBLL
     {
         Unknown,
-        Active=1,
-        AC_RC=2,
-        Reserve=3,//B. Army Reserve, US Army Reserve
-        Volunteer=4, // TA, ANG
-        StateVolunteer=5, // Local Defence
+        Active = 1,
+        AC_RC = 2,
+        Reserve = 3, //B. Army Reserve, US Army Reserve
+        Volunteer = 4, // TA, ANG
+        StateVolunteer = 5, // Local Defence
     }
+
     public enum ShortFormType
     {
         ShortName = 1, // ___1 Inf. Div.
-        IndexName=2, // INF)___1
-        Other=3,
-        Placeholder=4// ___1 ID
+        IndexName = 2, // INF)___1
+        Other = 3,
+        Placeholder = 4 // ___1 ID
 
     }
+
     public enum USState
     {
-        Alabama=1,
-        Alaska, 
+        Alabama = 1,
+        Alaska,
         Arizona,
         Arkansas,
         California,

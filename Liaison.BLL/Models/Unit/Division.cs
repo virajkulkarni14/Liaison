@@ -20,6 +20,7 @@ namespace Liaison.BLL.Models.Unit
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
+            this.Decommissioned = sqlUnit.Decomissioned ?? false;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -41,13 +42,19 @@ namespace Liaison.BLL.Models.Unit
         }
         public override string GetName()
         {
+            var unitname = "Division";
+            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
+            {
+                unitname = "Group";
+            }
+
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal)+" ");
 
             if (!string.IsNullOrWhiteSpace(this.LegacyMissionName))
             {
                 sb.Append(this.LegacyMissionName + " ");
-                sb.Append("Division");
+                sb.Append(unitname);
                 if (!string.IsNullOrWhiteSpace(this.MissionName))
                 {
                     sb.Append(" (" + this.MissionName + ") ");
@@ -60,7 +67,7 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(this.MissionName + " ");
                 }
 
-                sb.Append("Division");
+                sb.Append(unitname);
             }
 
             return sb.ToString();

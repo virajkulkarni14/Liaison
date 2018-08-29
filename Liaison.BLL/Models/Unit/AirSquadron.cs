@@ -11,8 +11,8 @@ namespace Liaison.BLL.Models.Unit
     {
         public new AdminCorps AdminCorps { get; set; }
 
-        public bool UseOrdinal { get; set; }
-        public List<IEquipment> Equipment { get; set; }
+        //public bool UseOrdinal { get; set; }
+        //public List<IEquipment> Equipment { get; set; }
         public string TerritorialDesignation { get; set; }
 
         public AirSquadron(Data.Sql.Edmx.Unit sqlUnit)
@@ -29,6 +29,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
+            this.Decommissioned = sqlUnit.Decomissioned ?? false;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -54,7 +55,12 @@ namespace Liaison.BLL.Models.Unit
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
         }
         public override string GetName()
-        {          
+        {
+            if (this.AdminCorps == null)
+            {
+                this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
+            }
+
             StringBuilder sb = new StringBuilder();
             sb.Append("No. " + this.Number + " ");
             if (this.ServiceType == ServiceTypeBLL.Volunteer)
@@ -69,36 +75,19 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append("Naval Air Sqn.");
             }
+            else if (this.Service == ServicesBll.Marines)
+            {
+                sb.Append("Marine Air Sqn.");
+            }
             else
             {
-                if (this.AdminCorps == null)
-                {
-                    using (var content = new LiaisonEntities())
-                    {
-                        var thisThing = content.Units.First(u => u.UnitId== this.UnitId);
-
-                        var sqlAdminCorps = content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId);                        ;
-                        if (sqlAdminCorps != null)
-                        {
-                            this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
-                                sqlAdminCorps.AdminCorpsId);
-                        }
-                    }                      
-                }
-                if (this.AdminCorps.Id==35)
-                {
-                    sb.Append("Unit");
-                }
-                else
-                {
-                    sb.Append("Sqn.");
-                }
-                
+                sb.Append(this.AdminCorps?.Id == 35 ? "Unit" : "Sqn.");
             }
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps.Code))
+
+            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
                 sb.Append(ExtensionMethods.Seperator + this.AdminCorps.Code);
-            }
+            }           
 
             return sb.ToString();
         }        

@@ -29,5 +29,9 @@
         }
 
         public bool IsTaskForce => false;
+        public bool IsDecommissioned()
+        {
+            return Decommissioned;
+        }
     }
 }

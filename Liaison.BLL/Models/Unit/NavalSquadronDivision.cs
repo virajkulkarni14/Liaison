@@ -6,8 +6,6 @@ namespace Liaison.BLL.Models.Unit
 {
     public class NavalSquadronDivision : TwoBar
     {
-        public bool UseOrdinal { get; set; }
-
         public NavalSquadronDivision(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -21,6 +19,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
+            this.Decommissioned = sqlUnit.Decomissioned ?? false;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());

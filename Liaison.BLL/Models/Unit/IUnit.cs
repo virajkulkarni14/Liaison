@@ -17,7 +17,8 @@ namespace Liaison.BLL.Models.Unit
         string GetSortString();
         int GetId();
         string GetEquipment();
-        bool IsTaskForce { get; }        
+        bool IsTaskForce { get; }
+        bool IsDecommissioned();
 
         //IEnumerable<IUnit> GetParents(int unitId, HigherHqType type);
         IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type);
@@ -25,5 +26,6 @@ namespace Liaison.BLL.Models.Unit
 
         bool GetIsHostUnit();
         string GetAdminCorps();
+        
     }
 }

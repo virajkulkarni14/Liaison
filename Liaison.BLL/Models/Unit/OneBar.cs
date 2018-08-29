@@ -5,6 +5,12 @@ namespace Liaison.BLL.Models.Unit
     public abstract class OneBar : AUnit, IUnit
     {
         public abstract string GetAdminCorps();
+        public bool IsDecommissioned()
+        {
+            return Decommissioned;
+        }
+
+
         public abstract string GetName();
         public string PrintTree()
         {

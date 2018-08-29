@@ -5,17 +5,17 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="422c624060734b09983185b5a8568365" Name="Diagram1" ZoomLevel="80">
-        <EntityTypeShape EntityType="LiaisonModel.UnitIndex" Width="1.5" PointX="3" PointY="3" IsExpanded="true" />
-        <EntityTypeShape EntityType="LiaisonModel.RelationshipType" Width="1.5" PointX="7.625" PointY="3.5" />
-        <EntityTypeShape EntityType="LiaisonModel.Rank" Width="1.5" PointX="10" PointY="1" />
-        <EntityTypeShape EntityType="LiaisonModel.Unit" Width="1.5" PointX="0.875" PointY="5.125" />
+        <EntityTypeShape EntityType="LiaisonModel.UnitIndex" Width="1.5" PointX="2.875" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.RelationshipType" Width="1.5" PointX="7.125" PointY="5" />
+        <EntityTypeShape EntityType="LiaisonModel.Rank" Width="1.5" PointX="12.25" PointY="4.375" />
+        <EntityTypeShape EntityType="LiaisonModel.Unit" Width="1.5" PointX="0.5" PointY="4.625" />
         <AssociationConnector Association="LiaisonModel.FK_Unit_Rank" />
         <AssociationConnector Association="LiaisonModel.FK_UnitIndex_Unit" />
-        <EntityTypeShape EntityType="LiaisonModel.ServiceType" Width="1.5" PointX="4.875" PointY="7.25" />
+        <EntityTypeShape EntityType="LiaisonModel.ServiceType" Width="1.5" PointX="3.75" PointY="7.375" />
         <AssociationConnector Association="LiaisonModel.FK_Unit_ServiceType" />
         <EntityTypeShape EntityType="LiaisonModel.Service" Width="1.5" PointX="2.75" PointY="5.875" />
         <AssociationConnector Association="LiaisonModel.FK_Unit_Service" />
-        <EntityTypeShape EntityType="LiaisonModel.Tennant" Width="1.5" PointX="3.375" PointY="12.625" />
+        <EntityTypeShape EntityType="LiaisonModel.Tennant" Width="1.5" PointX="4" PointY="9.75" />
         <AssociationConnector Association="LiaisonModel.FK_Tennant_Unit" />
         <EntityTypeShape EntityType="LiaisonModel.Base" Width="1.5" PointX="11.875" PointY="13.125" />
         <AssociationConnector Association="LiaisonModel.FK_Base_Base" />
@@ -24,14 +24,14 @@
         <EntityTypeShape EntityType="LiaisonModel.MissionUnit" Width="1.5" PointX="7.125" PointY="8" />
         <AssociationConnector Association="LiaisonModel.FK_MissionUnit_Mission" />
         <AssociationConnector Association="LiaisonModel.FK_MissionUnit_Unit" />
-        <EntityTypeShape EntityType="LiaisonModel.Relationship" Width="2" PointX="5.375" PointY="3.125" />
+        <EntityTypeShape EntityType="LiaisonModel.Relationship" Width="2" PointX="9.875" PointY="2" />
         <AssociationConnector Association="LiaisonModel.FK_Relationship_RelationshipType" />
         <AssociationConnector Association="LiaisonModel.FK_RelationshipFrom_Unit" />
         <AssociationConnector Association="LiaisonModel.FK_RelationshipTo_Unit" />
         <EntityTypeShape EntityType="LiaisonModel.SortOrder" Width="1.5" PointX="5.375" PointY="0.75" />
-        <EntityTypeShape EntityType="LiaisonModel.AdminCorp" Width="1.5" PointX="0.5" PointY="11.875" />
+        <EntityTypeShape EntityType="LiaisonModel.AdminCorp" Width="1.5" PointX="0.5" PointY="12.75" />
         <AssociationConnector Association="LiaisonModel.FK_Unit_AdminCorps" />
-        <EntityTypeShape EntityType="LiaisonModel.TaskForce" Width="1.5" PointX="2" PointY="0.5" />
+        <EntityTypeShape EntityType="LiaisonModel.TaskForce" Width="1.5" PointX="0.5" PointY="0.5" />
         <AssociationConnector Association="LiaisonModel.FK_TaskForce_Unit" />
         <AssociationConnector Association="LiaisonModel.FK_AdminCorps_AdminCorps" />
         <EntityTypeShape EntityType="LiaisonModel.ShipPrefix" Width="1.5" PointX="8.375" PointY="16.375" />
@@ -40,7 +40,7 @@
         <AssociationConnector Association="LiaisonModel.FK_Ship_NewShip" />
         <AssociationConnector Association="LiaisonModel.FK_Ship_ShipPrefix" />
         <AssociationConnector Association="LiaisonModel.FK_Ship_Unit" />
-        <EntityTypeShape EntityType="LiaisonModel.EquipmentOwner" Width="1.5" PointX="5.25" PointY="11.5" />
+        <EntityTypeShape EntityType="LiaisonModel.EquipmentOwner" Width="1.5" PointX="5.25" PointY="12.375" />
         <AssociationConnector Association="LiaisonModel.FK_EquipmentOwner_Aircraft" />
         <AssociationConnector Association="LiaisonModel.FK_EquipmentOwner_Unit" />
         <EntityTypeShape EntityType="LiaisonModel.ShipClassMember" Width="1.5" PointX="8.25" PointY="18.875" />

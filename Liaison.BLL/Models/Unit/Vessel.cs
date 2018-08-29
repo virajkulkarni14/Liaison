@@ -60,8 +60,6 @@ namespace Liaison.BLL.Models.Unit
 
     public class Vessel : AUnit, IUnit
     {
-        private Ship ship;
-
         public string GetAdminCorps()
         {
             return "";
@@ -70,6 +68,7 @@ namespace Liaison.BLL.Models.Unit
         {
             var ship = sqlUnit.Ships.First();
 
+            this.Decommissioned = sqlUnit.Decomissioned ?? false;
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.RankLevel = sqlUnit.Rank.RankLevel;
@@ -167,5 +166,9 @@ return this.ShipClass.GetClassName();
         }
 
         public bool IsTaskForce { get; }
+        public bool IsDecommissioned()
+        {
+            return Decommissioned;
+        }
     }
 }

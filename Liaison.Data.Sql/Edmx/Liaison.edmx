@@ -11,6 +11,7 @@
           </Key>
           <Property Name="AdminCorpsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="SortName" Type="nvarchar" MaxLength="255" />
           <Property Name="Code" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="ParentUnitId" Type="int" />
           <Property Name="Lookup" Type="nvarchar" MaxLength="5" />
@@ -248,6 +249,7 @@
           <Property Name="RankSymbol" Type="nvarchar" MaxLength="1" Nullable="false" />
           <Property Name="AdminCorpsId" Type="int" />
           <Property Name="CanHide" Type="bit" Nullable="false" />
+          <Property Name="Decomissioned" Type="bit" />
         </EntityType>
         <EntityType Name="UnitIndex">
           <Key>
@@ -872,6 +874,7 @@
           <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="Unit" ToRole="EquipmentOwner" />
           <Property Name="CanHide" Type="Boolean" Nullable="false" />
           <Property Name="UnitTypeVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Decomissioned" Type="Boolean" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -1133,6 +1136,7 @@
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_AdminCorps_AdminCorps" FromRole="AdminCorp" ToRole="Unit" />
           <Property Name="Lookup" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
           <Property Name="ParentAdminCorpsId" Type="Int32" />
+          <Property Name="SortName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Unit_AdminCorps">
           <End Type="LiaisonModel.AdminCorp" Role="AdminCorp" Multiplicity="0..1" />
@@ -1442,6 +1446,7 @@
           <EntitySetMapping Name="Units">
             <EntityTypeMapping TypeName="LiaisonModel.Unit">
               <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="Decomissioned" ColumnName="Decomissioned" />
                 <ScalarProperty Name="UnitTypeVariant" ColumnName="UnitTypeVariant" />
                 <ScalarProperty Name="CanHide" ColumnName="CanHide" />
                 <ScalarProperty Name="AdminCorpsId" ColumnName="AdminCorpsId" />
@@ -1559,6 +1564,7 @@
           <EntitySetMapping Name="AdminCorps">
             <EntityTypeMapping TypeName="LiaisonModel.AdminCorp">
               <MappingFragment StoreEntitySet="AdminCorps">
+                <ScalarProperty Name="SortName" ColumnName="SortName" />
                 <ScalarProperty Name="ParentAdminCorpsId" ColumnName="ParentAdminCorpsId" />
                 <ScalarProperty Name="Lookup" ColumnName="Lookup" />
                 <ScalarProperty Name="ParentUnitId" ColumnName="ParentUnitId" />

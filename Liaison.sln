@@ -30,6 +30,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F04C078F-60E8-4DD0-8BC3-86F9008D86DF}"
 	ProjectSection(SolutionItems) = preProject
 		Documents\Combat Arms.docx = Documents\Combat Arms.docx
+		Documents\lcstemplate.xlsx = Documents\lcstemplate.xlsx
 		Documents\organisation.docx = Documents\organisation.docx
 	EndProjectSection
 EndProject
@@ -59,6 +60,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{C6B14ADB-52AA-4680-BD6E-AC9CA700BC66}"
 	ProjectSection(SolutionItems) = preProject
 		DatabaseBackups\scripts\LiaisonSchemaAndData.sql = DatabaseBackups\scripts\LiaisonSchemaAndData.sql
+		DatabaseBackups\scripts\script.sql = DatabaseBackups\scripts\script.sql
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bak", "bak", "{D79056C5-163D-41A8-9D12-8118D836DD05}"

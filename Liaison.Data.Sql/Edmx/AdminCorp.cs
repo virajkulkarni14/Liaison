@@ -26,6 +26,7 @@ namespace Liaison.Data.Sql.Edmx
         public Nullable<int> ParentUnitId { get; set; }
         public string Lookup { get; set; }
         public Nullable<int> ParentAdminCorpsId { get; set; }
+        public string SortName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Unit> Units { get; set; }

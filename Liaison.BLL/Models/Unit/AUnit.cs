@@ -30,6 +30,7 @@ namespace Liaison.BLL.Models.Unit
     }
     public abstract class AUnit
     {
+        internal bool Decommissioned;
         internal int UnitId;
         internal Guid UnitGuid;
         internal ServicesBll Service;
@@ -252,7 +253,7 @@ namespace Liaison.BLL.Models.Unit
 
         private static IEnumerable<RelationshipTracker> SortRelationships(IEnumerable<RelationshipTracker> enumerable)
         {
-            List<RelationshipTracker> units = enumerable.ToList();
+            List<RelationshipTracker> units = enumerable.Where(u=>u.Unit.IsDecommissioned()==false).ToList();
             int preCount = units.ToList().Count();
 
             List<RelationshipTracker> returnable2 = new List<RelationshipTracker>();
@@ -339,6 +340,7 @@ namespace Liaison.BLL.Models.Unit
                 return string.Empty;
             }
             StringBuilder sb = new StringBuilder();
+            sb.Append("(" + this.Base.BaseId + ") ");
             if (!string.IsNullOrWhiteSpace(this.Base.Prefix))
             {
                 sb.Append(this.Base.Prefix + " ");
@@ -400,6 +402,24 @@ namespace Liaison.BLL.Models.Unit
         internal string GetSortIndex(ICollection<UnitIndex> unitIndexes)
         {
             return unitIndexes.FirstOrDefault(ii => ii.IsSortIndex == true)?.IndexCode;
+        }
+
+        protected static AdminCorps GetAdminCorpsHelper(IUnit iunit)
+        {
+            using (var content = new LiaisonEntities())
+            {
+                int i = iunit.GetId();
+                var thisThing = content.Units.First(u => u.UnitId == i);
+
+                var sqlAdminCorps = content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId); ;
+                if (sqlAdminCorps != null)
+                {
+                return new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+                        sqlAdminCorps.AdminCorpsId);
+                }
+            }
+
+            throw new Exception();
         }
     }
 }

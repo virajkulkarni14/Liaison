@@ -18,7 +18,12 @@ namespace Liaison.BLL.Models.Unit
             return "";
         }
 
-        public bool GetIsHostUnit()
+        public bool IsDecommissioned()
+        {
+            return false;
+        }
+
+        public new bool GetIsHostUnit()
         {
             return false;
         }
@@ -67,6 +72,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
+            this.Decommissioned = sqlUnit.Decomissioned ?? false;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -117,5 +123,9 @@ namespace Liaison.BLL.Models.Unit
         }
 
         public bool IsTaskForce => false;
+        public bool IsDecommissioned()
+        {
+            return Decommissioned;
+        }
     }
 }

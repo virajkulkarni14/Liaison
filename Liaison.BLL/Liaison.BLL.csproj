@@ -58,6 +58,7 @@
     <Compile Include="Models\IBase.cs" />
     <Compile Include="Models\NewWing.cs" />
     <Compile Include="Models\Unit\AirForceBase.cs" />
+    <Compile Include="Models\Unit\AirGroup.cs" />
     <Compile Include="Models\Unit\AirSquadron.cs" />
     <Compile Include="Models\Unit\AUnit.cs" />
     <Compile Include="Models\Unit\AdminCorps.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="Models\Unit\NumberedFleet.cs" />
     <Compile Include="Models\Unit\OneBar.cs" />
     <Compile Include="Models\Unit\OneStar.cs" />
+    <Compile Include="Models\Unit\Regiment.cs" />
     <Compile Include="Models\Unit\TacticalAirForce.cs" />
     <Compile Include="Models\Unit\TaskForceBll.cs" />
     <Compile Include="Models\Unit\ThreeBar.cs" />

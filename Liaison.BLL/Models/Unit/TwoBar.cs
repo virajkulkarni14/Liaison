@@ -34,5 +34,9 @@ namespace Liaison.BLL.Models.Unit
 
         public abstract string GetEquipment();
         public bool IsTaskForce => false;
+        public bool IsDecommissioned()
+        {
+            return Decommissioned;
+        }
     }
 }
