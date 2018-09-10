@@ -34,7 +34,7 @@ namespace Liaison.BLL.Models.Unit
                 this.RankLevel = sqlUnit.Rank.RankLevel;
                 this.RankStar = sqlUnit.Rank.Rank1;
             }
-            this.Decommissioned = sqlUnit.Decomissioned ?? false;
+            this.Decommissioned = sqlUnit.Decommissioned ?? false;
 
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;

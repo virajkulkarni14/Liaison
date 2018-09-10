@@ -68,7 +68,7 @@ namespace Liaison.BLL.Models.Unit
         {
             var ship = sqlUnit.Ships.First();
 
-            this.Decommissioned = sqlUnit.Decomissioned ?? false;
+            this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.RankLevel = sqlUnit.Rank.RankLevel;

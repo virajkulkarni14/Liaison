@@ -59,20 +59,22 @@ namespace Liaison.BLL.Models.Unit
         {
             return "";
         }
-        private string Name { get; set; }
+        private string CommandName { get; set; }
+        private string UniqueName { get; set; }
 
         public Command(Data.Sql.Edmx.Unit sqlUnit, bool doRelTos)
         {
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.MissionName = sqlUnit.MissionName;
-            this.Name = sqlUnit.CommandName;
+            this.UniqueName = sqlUnit.UniqueName;
+            this.CommandName = sqlUnit.CommandName;
             this.Service = (ServicesBll) sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
-            this.Decommissioned = sqlUnit.Decomissioned ?? false;
+            this.Decommissioned = sqlUnit.Decommissioned ?? false;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -90,11 +92,15 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetName()
         {
+            if (!string.IsNullOrWhiteSpace(this.UniqueName))
+            {
+                return this.UniqueName;
+            }
             if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
-                return this.MissionName + " " + this.Name;
+                return this.MissionName + " " + this.CommandName;
             }
-            return this.Name;
+            return this.CommandName;
         }
 
         public string PrintTree()

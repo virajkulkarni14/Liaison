@@ -29,6 +29,7 @@ namespace Liaison.Data.Sql.Edmx
         public string ShortForm { get; set; }
         public string MainMission { get; set; }
         public string MissionVariant { get; set; }
+        public string SortOrder { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<MissionUnit> MissionUnits { get; set; }

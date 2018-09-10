@@ -22,7 +22,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
-            this.Decommissioned = sqlUnit.Decomissioned ?? false;
+            this.Decommissioned = sqlUnit.Decommissioned ?? false;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -47,8 +47,11 @@ namespace Liaison.BLL.Models.Unit
                 || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery
                 ||this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
             {
-                return this.AdminCorps.Code;
+                return this.AdminCorps.DisplayName;
             }
+
+            return this.AdminCorps.DisplayName;
+            
 
             throw new Exception();
         }
@@ -64,14 +67,20 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.UniqueName);
                 isAcceptable = true;
             } 
-                        else if (this.AdminCorps.AdminCorpsId ==
-                                 (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
+            else //if (this.AdminCorps.AdminCorpsId ==
+                    //             (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
             {
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
-                sb.Append(this.MissionName+ " ");
-                sb.Append("Regiment");
+                sb.Append(this.MissionName + " ");
+                sb.Append("Rgt.");
+                if (!string.IsNullOrWhiteSpace(this.AdminCorps.DisplayName))
+                {
+                    sb.Append(", " + this.AdminCorps.DisplayName);
+                }
+
                 isAcceptable = true;
             }
+
 
             if (isAcceptable)
             {

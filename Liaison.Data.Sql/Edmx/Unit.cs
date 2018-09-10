@@ -43,7 +43,7 @@ namespace Liaison.Data.Sql.Edmx
         public Nullable<int> AdminCorpsId { get; set; }
         public bool CanHide { get; set; }
         public string UnitTypeVariant { get; set; }
-        public Nullable<bool> Decomissioned { get; set; }
+        public Nullable<bool> Decommissioned { get; set; }
     
         public virtual Rank Rank { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

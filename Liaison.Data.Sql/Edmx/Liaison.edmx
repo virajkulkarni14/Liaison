@@ -12,6 +12,7 @@
           <Property Name="AdminCorpsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="SortName" Type="nvarchar" MaxLength="255" />
+          <Property Name="DisplayName" Type="nvarchar" MaxLength="255" />
           <Property Name="Code" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="ParentUnitId" Type="int" />
           <Property Name="Lookup" Type="nvarchar" MaxLength="5" />
@@ -30,6 +31,8 @@
           <Property Name="AltCode" Type="nvarchar" MaxLength="50" />
           <Property Name="AltName" Type="nvarchar" MaxLength="50" />
           <Property Name="AltSort" Type="nvarchar" MaxLength="50" />
+          <Property Name="Notes" Type="nvarchar(max)" />
+          <Property Name="DoNotUse" Type="bit" />
         </EntityType>
         <EntityType Name="Base">
           <Key>
@@ -48,6 +51,8 @@
           <Property Name="AFDCode" Type="nvarchar" MaxLength="4" />
           <Property Name="ParentBaseId" Type="int" />
           <Property Name="ShipId" Type="uniqueidentifier" />
+          <Property Name="City" Type="nvarchar" MaxLength="255" />
+          <Property Name="ISO3166" Type="nvarchar" MaxLength="10" />
         </EntityType>
         <EntityType Name="ConfigSettings">
           <Key>
@@ -72,6 +77,7 @@
             <PropertyRef Name="MissionId" />
           </Key>
           <Property Name="MissionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SortOrder" Type="nvarchar" MaxLength="255" />
           <Property Name="Structure" Type="nvarchar" MaxLength="50" />
           <Property Name="MainMission" Type="nvarchar" MaxLength="255" />
           <Property Name="MissionVariant" Type="nvarchar" MaxLength="255" />
@@ -96,6 +102,7 @@
             <PropertyRef Name="Symbol" />
           </Key>
           <Property Name="Symbol" Type="nvarchar" MaxLength="1" Nullable="false" />
+          <Property Name="Civil" Type="nvarchar" MaxLength="255" />
           <Property Name="Army" Type="nvarchar" MaxLength="255" />
           <Property Name="Navy" Type="nvarchar" MaxLength="255" />
           <Property Name="AirForce" Type="nvarchar" MaxLength="255" />
@@ -103,6 +110,8 @@
           <Property Name="Rank" Type="nvarchar" MaxLength="8" />
           <Property Name="RankLevel" Type="int" />
           <Property Name="InUse" Type="bit" />
+          <Property Name="CivilRank" Type="nvarchar" MaxLength="50" />
+          <Property Name="CivilRankAbbrev" Type="nvarchar" MaxLength="50" />
           <Property Name="NavyRank" Type="nvarchar" MaxLength="50" />
           <Property Name="NavyRankAbbrev" Type="nvarchar" MaxLength="50" />
           <Property Name="ArmyRank" Type="nvarchar" MaxLength="50" />
@@ -249,7 +258,7 @@
           <Property Name="RankSymbol" Type="nvarchar" MaxLength="1" Nullable="false" />
           <Property Name="AdminCorpsId" Type="int" />
           <Property Name="CanHide" Type="bit" Nullable="false" />
-          <Property Name="Decomissioned" Type="bit" />
+          <Property Name="Decommissioned" Type="bit" />
         </EntityType>
         <EntityType Name="UnitIndex">
           <Key>
@@ -505,42 +514,6 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_Unit_Rank">
-          <End Role="Rank" Type="Self.Rank" Multiplicity="1" />
-          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="Rank">
-              <PropertyRef Name="Symbol" />
-            </Principal>
-            <Dependent Role="Unit">
-              <PropertyRef Name="RankSymbol" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
-        <Association Name="FK_Unit_Service">
-          <End Role="Service" Type="Self.Service" Multiplicity="1" />
-          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="Service">
-              <PropertyRef Name="ServiceId" />
-            </Principal>
-            <Dependent Role="Unit">
-              <PropertyRef Name="ServiceIdx" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
-        <Association Name="FK_Unit_ServiceType">
-          <End Role="ServiceType" Type="Self.ServiceType" Multiplicity="1" />
-          <End Role="Unit" Type="Self.Unit" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="ServiceType">
-              <PropertyRef Name="ServiceTypeId" />
-            </Principal>
-            <Dependent Role="Unit">
-              <PropertyRef Name="ServiceTypeIdx" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
         <Association Name="FK_UnitIndex_Unit">
           <End Role="Unit" Type="Self.Unit" Multiplicity="1" />
           <End Role="UnitIndex" Type="Self.UnitIndex" Multiplicity="*" />
@@ -653,18 +626,6 @@
           </AssociationSet>
           <AssociationSet Name="FK_Unit_AdminCorps" Association="Self.FK_Unit_AdminCorps">
             <End Role="AdminCorps" EntitySet="AdminCorps" />
-            <End Role="Unit" EntitySet="Unit" />
-          </AssociationSet>
-          <AssociationSet Name="FK_Unit_Rank" Association="Self.FK_Unit_Rank">
-            <End Role="Rank" EntitySet="Rank" />
-            <End Role="Unit" EntitySet="Unit" />
-          </AssociationSet>
-          <AssociationSet Name="FK_Unit_Service" Association="Self.FK_Unit_Service">
-            <End Role="Service" EntitySet="Service" />
-            <End Role="Unit" EntitySet="Unit" />
-          </AssociationSet>
-          <AssociationSet Name="FK_Unit_ServiceType" Association="Self.FK_Unit_ServiceType">
-            <End Role="ServiceType" EntitySet="ServiceType" />
             <End Role="Unit" EntitySet="Unit" />
           </AssociationSet>
           <AssociationSet Name="FK_UnitIndex_Unit" Association="Self.FK_UnitIndex_Unit">
@@ -840,6 +801,9 @@
           <Property Name="MarineRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="MarineRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="Units" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Rank" ToRole="Unit" />
+          <Property Name="Civil" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="CivilRank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CivilRankAbbrev" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="Unit">
           <Key>
@@ -874,7 +838,7 @@
           <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="Unit" ToRole="EquipmentOwner" />
           <Property Name="CanHide" Type="Boolean" Nullable="false" />
           <Property Name="UnitTypeVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
-          <Property Name="Decomissioned" Type="Boolean" />
+          <Property Name="Decommissioned" Type="Boolean" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -987,6 +951,8 @@
           <Property Name="CommissionedName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="ShipId" Type="Guid" />
           <NavigationProperty Name="Ship" Relationship="LiaisonModel.FK_Base_Ship" FromRole="Base" ToRole="Ship" />
+          <Property Name="City" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ISO3166" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Base_Base">
           <End Type="LiaisonModel.Base" Role="Base" Multiplicity="0..1" />
@@ -1026,6 +992,7 @@
           <Property Name="ShortForm" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="MainMission" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="MissionVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="SortOrder" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="MissionUnit">
           <Key>
@@ -1137,6 +1104,7 @@
           <Property Name="Lookup" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
           <Property Name="ParentAdminCorpsId" Type="Int32" />
           <Property Name="SortName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="DisplayName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Unit_AdminCorps">
           <End Type="LiaisonModel.AdminCorp" Role="AdminCorp" Multiplicity="0..1" />
@@ -1209,6 +1177,8 @@
           <Property Name="AltSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="Aircraft" ToRole="EquipmentOwner" />
           <Property Name="SortName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="DoNotUse" Type="Boolean" />
         </EntityType>
         <EntityType Name="Ship">
           <Key>
@@ -1424,6 +1394,9 @@
           <EntitySetMapping Name="Ranks">
             <EntityTypeMapping TypeName="LiaisonModel.Rank">
               <MappingFragment StoreEntitySet="Rank">
+                <ScalarProperty Name="CivilRankAbbrev" ColumnName="CivilRankAbbrev" />
+                <ScalarProperty Name="CivilRank" ColumnName="CivilRank" />
+                <ScalarProperty Name="Civil" ColumnName="Civil" />
                 <ScalarProperty Name="MarineRankAbbrev" ColumnName="MarineRankAbbrev" />
                 <ScalarProperty Name="MarineRank" ColumnName="MarineRank" />
                 <ScalarProperty Name="AirForceRankAbbrev" ColumnName="AirForceRankAbbrev" />
@@ -1446,7 +1419,7 @@
           <EntitySetMapping Name="Units">
             <EntityTypeMapping TypeName="LiaisonModel.Unit">
               <MappingFragment StoreEntitySet="Unit">
-                <ScalarProperty Name="Decomissioned" ColumnName="Decomissioned" />
+                <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
                 <ScalarProperty Name="UnitTypeVariant" ColumnName="UnitTypeVariant" />
                 <ScalarProperty Name="CanHide" ColumnName="CanHide" />
                 <ScalarProperty Name="AdminCorpsId" ColumnName="AdminCorpsId" />
@@ -1497,6 +1470,8 @@
           <EntitySetMapping Name="Bases">
             <EntityTypeMapping TypeName="LiaisonModel.Base">
               <MappingFragment StoreEntitySet="Base">
+                <ScalarProperty Name="ISO3166" ColumnName="ISO3166" />
+                <ScalarProperty Name="City" ColumnName="City" />
                 <ScalarProperty Name="ShipId" ColumnName="ShipId" />
                 <ScalarProperty Name="CommissionedName" ColumnName="CommissionedName" />
                 <ScalarProperty Name="ParentBaseId" ColumnName="ParentBaseId" />
@@ -1516,6 +1491,7 @@
           <EntitySetMapping Name="Missions">
             <EntityTypeMapping TypeName="LiaisonModel.Mission">
               <MappingFragment StoreEntitySet="Mission">
+                <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
                 <ScalarProperty Name="MissionVariant" ColumnName="MissionVariant" />
                 <ScalarProperty Name="MainMission" ColumnName="MainMission" />
                 <ScalarProperty Name="ShortForm" ColumnName="ShortForm" />
@@ -1564,6 +1540,7 @@
           <EntitySetMapping Name="AdminCorps">
             <EntityTypeMapping TypeName="LiaisonModel.AdminCorp">
               <MappingFragment StoreEntitySet="AdminCorps">
+                <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
                 <ScalarProperty Name="SortName" ColumnName="SortName" />
                 <ScalarProperty Name="ParentAdminCorpsId" ColumnName="ParentAdminCorpsId" />
                 <ScalarProperty Name="Lookup" ColumnName="Lookup" />
@@ -1598,6 +1575,8 @@
           <EntitySetMapping Name="Aircraft">
             <EntityTypeMapping TypeName="LiaisonModel.Aircraft">
               <MappingFragment StoreEntitySet="Aircraft">
+                <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="SortName" ColumnName="SortName" />
                 <ScalarProperty Name="AltSort" ColumnName="AltSort" />
                 <ScalarProperty Name="AltName" ColumnName="AltName" />

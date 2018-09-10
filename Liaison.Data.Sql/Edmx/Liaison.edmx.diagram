@@ -17,7 +17,7 @@
         <AssociationConnector Association="LiaisonModel.FK_Unit_Service" />
         <EntityTypeShape EntityType="LiaisonModel.Tennant" Width="1.5" PointX="4" PointY="9.75" />
         <AssociationConnector Association="LiaisonModel.FK_Tennant_Unit" />
-        <EntityTypeShape EntityType="LiaisonModel.Base" Width="1.5" PointX="11.875" PointY="13.125" />
+        <EntityTypeShape EntityType="LiaisonModel.Base" Width="1.5" PointX="12.125" PointY="12.875" />
         <AssociationConnector Association="LiaisonModel.FK_Base_Base" />
         <AssociationConnector Association="LiaisonModel.FK_Tennant_Base" />
         <EntityTypeShape EntityType="LiaisonModel.Mission" Width="1.5" PointX="10.375" PointY="6.875" />

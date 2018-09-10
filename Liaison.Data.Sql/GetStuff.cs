@@ -52,5 +52,13 @@ namespace Liaison.Data.Sql
             }
               
         }
+
+        public static List<int> GetConfigSetting(string input)
+        {
+            using (var context = new LiaisonEntities())
+            {
+                return context.ConfigSettings.First(m => m.ConfigSetting1 == input).ConfigValue.Split(',').ToList().Select(int.Parse).ToList();
+            }
+        }
     }
 }

@@ -2,6 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Web;
+using System.Web.SessionState;
 using System.Web.UI.WebControls;
 using Liaison.BLL.Models;
 using Liaison.BLL.Models.Unit;
@@ -27,18 +29,19 @@ namespace Liaison.BLL.Translators
             depthRequired = depth == 0 ? null : depth;
             
             IUnit convUnit;
-            if (Int32.TryParse(input, out int iInput))
+            using (var context = new LiaisonEntities())
             {
-                using (var context = new LiaisonEntities())
+                HttpContext.Current.Session["BattalionCorps"] = Data.Sql.GetStuff.GetConfigSetting("BattalionCorps");
+                HttpContext.Current.Session["RegimentCorps"] = Data.Sql.GetStuff.GetConfigSetting("RegimentCorps");
+                if (Int32.TryParse(input, out int iInput))
                 {
+
                     Unit sqlUnit = Liaison.Data.Sql.GetStuff.GetItWithContext(context, iInput);
 
                     convUnit = ConvertUnit(sqlUnit);
+
                 }
-            }
-            else
-            {
-                using (var context = new LiaisonEntities())
+                else
                 {
                     Unit sqlUnit = Liaison.Data.Sql.GetStuff.GetItWithContext(context, input);
 
@@ -53,6 +56,8 @@ namespace Liaison.BLL.Translators
 
         public static IUnit ConvertUnit(Unit sqlUnit) //, bool includeParent)
         {
+            List<int> battalionCorps = HttpContext.Current.Session["BattalionCorps"] as List<int>;
+            List<int> regimentCorps = HttpContext.Current.Session["RegimentCorps"] as List<int>;
             var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
             if (depthRequired == null)
             {
@@ -76,6 +81,11 @@ namespace Liaison.BLL.Translators
             {
                 return new Command(sqlUnit, cont); //, includeParent);
             }
+            if (sqlUnit.RankSymbol == "#")
+            {
+                return new Command(sqlUnit, cont); //, includeParent);
+            }
+
 
             if (sqlUnit.RankSymbol == "$")
             {
@@ -289,6 +299,8 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == "@")
             {
+
+
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
                 {
                     if (sqlUnit.AdminCorp.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
@@ -309,6 +321,24 @@ namespace Liaison.BLL.Translators
                     if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.FleetArmArm)
                     {
                         return new AirSquadron(sqlUnit);
+                    }
+                    return new Vessel(sqlUnit);
+
+                }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
+                {
+                    if (sqlUnit.AdminCorpsId.HasValue)
+                    {
+                        if (battalionCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                        {
+                            return new Battalion(sqlUnit);
+                        }
+
+                        if (regimentCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                        {
+                            return new Regiment(sqlUnit);
+                        }
                     }
                 }
             }

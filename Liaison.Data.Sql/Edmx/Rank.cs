@@ -36,6 +36,9 @@ namespace Liaison.Data.Sql.Edmx
         public string AirForceRankAbbrev { get; set; }
         public string MarineRank { get; set; }
         public string MarineRankAbbrev { get; set; }
+        public string Civil { get; set; }
+        public string CivilRank { get; set; }
+        public string CivilRankAbbrev { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Unit> Units { get; set; }

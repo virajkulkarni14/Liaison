@@ -79,7 +79,8 @@ namespace Liaison.BLL.Models.Unit
                     .Include(r => r.RelationshipType)
                     .Include(r => r.RelationshipsFrom)
                     .Include(r => r.RelationshipsFrom.TaskForce)
-                    .Include(r => r.RelationshipsFrom.Rank);
+                    .Include(r => r.RelationshipsFrom.Rank)
+                    .Include(r=>r.RelationshipsFrom.AdminCorp);
 
                 list = new List<RelationshipTracker>();
                 foreach (var par in parents)
@@ -175,9 +176,9 @@ namespace Liaison.BLL.Models.Unit
                             //var relFour = relationshipTrackers
                             //  .Where(r => r.RelationshipType.RelationshipTypeId == (int) HigherHqType.OPCON)
                             // .Select(r => r.Unit.GetName());
-                        List<string> relFour = rt.Unit.GetParents(unit.GetId(), x)
-                            .Where(r => r.RelationshipType.RelationshipTypeId == (int) HigherHqType.OPCON)
-                            .Select(r => r.Unit.GetName()).ToList();
+                        var relFourA = rt.Unit.GetParents(unit.GetId(), x);
+                        var relFourB = relFourA.Where(r => r.RelationshipType.RelationshipTypeId == (int) HigherHqType.OPCON);
+                        var relFour = relFourB.Select(r => r.Unit.GetName()).ToList();
 
                         otherCommand = string.Join(",", relFour);
                         otherCommand = " <span class='lzRelAdcon'>" + otherCommand + "</span>";
@@ -355,6 +356,16 @@ namespace Liaison.BLL.Models.Unit
             if (!string.IsNullOrWhiteSpace(this.Base.CommissionedName))
             {
                 sb.Append(" (" + this.Base.CommissionedName + ")");
+            }
+
+            if (!string.IsNullOrWhiteSpace(this.Base.City))
+            {
+                sb.Append(", "+this.Base.City);                
+            }
+
+            if (!string.IsNullOrWhiteSpace(this.Base.Iso3166))
+            {
+                sb.Append(", " + this.Base.Iso3166);
             }
 
             return sb.ToString();

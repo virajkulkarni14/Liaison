@@ -9,17 +9,20 @@ namespace Liaison.BLL.Models
         {
             this.AdminCorpsId = admincorps.AdminCorpsId;
             this.Name = admincorps.Name;
+            this.SortName = admincorps.SortName;
             this.Code = admincorps.Code;
-           
+            this.ParentUnitId = admincorps.ParentUnitId;            
             this.Lookup = admincorps.Lookup;
+            this.DisplayName = admincorps.DisplayName;
 
         }
-
-        public string Lookup { get; set; }
-
-        public string Code { get; set; }
-
         public string Name { get; set; }
+public string SortName { get; set; }
+        public string DisplayName { get; set; }
+        public string Code { get; set; }
+        public string Lookup { get; set; }
+        public int? ParentUnitId { get; set; }
+
 
         public int AdminCorpsId { get; set; }
     }

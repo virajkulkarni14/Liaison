@@ -9,6 +9,8 @@ namespace Liaison.BLL.Models
         internal string Name { get; }
         internal string Suffix { get; set; }
         internal string CommissionedName { get; set; }
+        internal string City { get; set; }
+        internal string Iso3166 { get; set; }
         public string AltName { get; set; }
         public BLLBase ParentBase { get; private set; }
         public BLLBases SubFacilities { get; private set; }
@@ -29,6 +31,8 @@ namespace Liaison.BLL.Models
                 this.CommissionedName = tennant.Base.Ship.ShipPrefix.ShipPrefix1 + " " + tennant.Base.Ship.Name;
             }
 
+            this.City = tennant.Base.City;
+            this.Iso3166 = tennant.Base.ISO3166;
             this.BaseId = tennant.BaseId;
             this.IsHost = tennant.IsHost;
             this.Prefix = tennant.Base.Prefix;
@@ -45,6 +49,8 @@ namespace Liaison.BLL.Models
             {
                 return;
             }
+            this.City = facility.City;
+            this.Iso3166 = facility.ISO3166;
 
             var a = facility.ShipId;
             this.CommissionedName = facility.CommissionedName;

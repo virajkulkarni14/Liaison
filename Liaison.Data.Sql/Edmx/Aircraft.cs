@@ -29,6 +29,8 @@ namespace Liaison.Data.Sql.Edmx
         public string AltName { get; set; }
         public string AltSort { get; set; }
         public string SortName { get; set; }
+        public string Notes { get; set; }
+        public Nullable<bool> DoNotUse { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<EquipmentOwner> EquipmentOwners { get; set; }
