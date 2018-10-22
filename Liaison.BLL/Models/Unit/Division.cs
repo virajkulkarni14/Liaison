@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using Liaison.Helper.Enumerators;
 
@@ -6,6 +7,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public class Division:TwoStar
     {
+        public string UnitTypeVariant { get; set; }
         public string CommandName { get; set; }
         public string LegacyMissionName { get; set; }
         public string UniqueName { get; set; }
@@ -27,6 +29,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
+            this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -52,6 +55,11 @@ namespace Liaison.BLL.Models.Unit
             if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
             {
                 unitname = "Group";
+            }
+
+            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.DGSpecialForces)
+            {
+                unitname = "Command";
             }
 
             StringBuilder sb = new StringBuilder();
@@ -83,6 +91,11 @@ namespace Liaison.BLL.Models.Unit
                 }
 
                 sb.Append(unitname);
+
+                if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+                {
+                    sb.Append(" (" + this.UnitTypeVariant + ")");
+                }
             }
 
             var divname =  sb.ToString();

@@ -52,6 +52,13 @@ namespace Liaison.Data.Sql
             }
               
         }
+        public static List<string> GetFacilityMissionNames()
+        {
+            using (var context = new LiaisonEntities())
+            {
+                return context.ConfigSettings.First(m=>m.ConfigSetting1== "FacilityMissionNames").ConfigValue.Split(',').ToList();
+            }
+        }
 
         public static List<int> GetConfigSetting(string input)
         {
@@ -60,5 +67,6 @@ namespace Liaison.Data.Sql
                 return context.ConfigSettings.First(m => m.ConfigSetting1 == input).ConfigValue.Split(',').ToList().Select(int.Parse).ToList();
             }
         }
+
     }
 }

@@ -9,13 +9,17 @@ namespace Liaison.BLL.Models.Unit
 {
     public class DetachmentBll : AUnit, IUnit
     {
-        public new AdminCorps AdminCorps { get; set; }
+        public new BLLAdminCorps AdminCorps { get; set; }
         public bool UseOrdinal { get; set; }
         public List<IEquipment> Equipment { get; set; }
+        public string Letter { get; set; }
         public string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
+        public string TerritorialDesignation { get; set; }
+        private int OneBarTab = 12;
+        private string OneBar = "|";
         public DetachmentBll(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -24,10 +28,26 @@ namespace Liaison.BLL.Models.Unit
             this.MissionName = sqlUnit.MissionName;
             this.CommandName = sqlUnit.CommandName;
             this.UseOrdinal = sqlUnit.UseOrdinal;
-            if (this.CommandName.StartsWith("Det") && (this.CommandName.EndsWith("NAS")))
+            this.Letter = sqlUnit.Letter;
+            if (this.MissionName == ResourceStrings.HQHQ)
+            {
+                this.RankLevel = OneBarTab;
+                this.RankStar = OneBar;
+            }
+            else if (this.Letter != null)
+            {
+                this.RankLevel = OneBarTab;
+                this.RankStar = OneBar;
+            }
+            else if (this.CommandName.StartsWith("Det") && (this.CommandName.EndsWith("NAS")))
             {
                 this.RankLevel = 10;
-                this.RankStar = "|";
+                this.RankStar = OneBar;
+            }
+            else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
+            {
+                this.RankLevel = 10;
+                this.RankStar = OneBar;
             }
             else
             {
@@ -40,6 +60,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -49,7 +70,8 @@ namespace Liaison.BLL.Models.Unit
 
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                //this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
                 // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
                 // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
             }
@@ -65,6 +87,32 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetName()
         {
+            // for HHQD
+            if (!string.IsNullOrWhiteSpace(this.MissionName))
+            {
+                StringBuilder sb = new StringBuilder();
+                string missionname = this.MissionName;
+                if (this.MissionName == ResourceStrings.HQHQ)
+                {
+                    missionname = "HHQ";
+                }
+
+                sb.Append(missionname + " ");
+
+                if (ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                }
+
+                sb.Append("Det., ");
+                if (!string.IsNullOrWhiteSpace(this.CommandName))
+                {
+                    sb.Append(this.CommandName + ", ");
+                }
+                sb.Append(this.AdminCorps.UnitDisplayName);
+                return sb.ToString();
+            }
+
             // for naval air detachments
             if (this.CommandName.Contains("__"))
             {
@@ -81,6 +129,10 @@ namespace Liaison.BLL.Models.Unit
 
         public int GetRankLevel()
         {
+            if (this.MissionName == ResourceStrings.HQHQ)
+            {
+                return OneBarTab;
+            }
             if (this.CommandName.Contains("NAS"))
             {
                 return 10;

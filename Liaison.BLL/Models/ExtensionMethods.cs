@@ -6,6 +6,10 @@ using Liaison.Data.Sql.Edmx;
 
 namespace Liaison.BLL.Models
 {
+    public static class ResourceStrings
+    {
+        public static string HQHQ = "Headquarters & Headquarters";
+    }
     public static class ExtensionMethods
     {
         public static IEnumerable<IUnit> ToIUnits(this IEnumerable<Liaison.Data.Sql.Edmx.Unit> input)

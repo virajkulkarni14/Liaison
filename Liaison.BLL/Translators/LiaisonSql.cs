@@ -33,6 +33,9 @@ namespace Liaison.BLL.Translators
             {
                 HttpContext.Current.Session["BattalionCorps"] = Data.Sql.GetStuff.GetConfigSetting("BattalionCorps");
                 HttpContext.Current.Session["RegimentCorps"] = Data.Sql.GetStuff.GetConfigSetting("RegimentCorps");
+                HttpContext.Current.Session["ArmySquadronCorps"] =
+                    Data.Sql.GetStuff.GetConfigSetting("ArmySquadronCorps");
+                HttpContext.Current.Session["CompanyCorps"] = Data.Sql.GetStuff.GetConfigSetting("CompanyCorps");
                 if (Int32.TryParse(input, out int iInput))
                 {
 
@@ -58,6 +61,9 @@ namespace Liaison.BLL.Translators
         {
             List<int> battalionCorps = HttpContext.Current.Session["BattalionCorps"] as List<int>;
             List<int> regimentCorps = HttpContext.Current.Session["RegimentCorps"] as List<int>;
+            List<int> armysquadronCorps = HttpContext.Current.Session["ArmySquadronCorps"] as List<int>;
+            List<int> companyCorps =            HttpContext.Current.Session["CompanyCorps"] as List<int>;
+
             var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
             if (depthRequired == null)
             {
@@ -186,7 +192,20 @@ namespace Liaison.BLL.Translators
             {
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
                 {
+                    if (sqlUnit.Number == null)
+                    {
+                        return new Command(sqlUnit, cont);
+                    }
+
                     return new Division(sqlUnit); //, includeParent);
+                }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
+                {
+                    if (sqlUnit.Number == null)
+                    {
+                        return new Command(sqlUnit, cont);
+                    }
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
@@ -232,6 +251,10 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
                 {
+                    if (!string.IsNullOrWhiteSpace(sqlUnit.CommandName))
+                    {
+                        return new Command(sqlUnit, cont);
+                    }
                     return new Brigade(sqlUnit); //, includeParent);
                 }
 
@@ -246,6 +269,14 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == "/")
             {
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
+                {
+                    if (!string.IsNullOrWhiteSpace(sqlUnit.CommandName))
+                    {
+                        return new Command(sqlUnit, cont);
+                    }
+                    return new Regiment(sqlUnit);
+                }
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {
                     var f = sqlUnit.CommandName;
@@ -299,8 +330,6 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == "@")
             {
-
-
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
                 {
                     if (sqlUnit.AdminCorp.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
@@ -322,6 +351,19 @@ namespace Liaison.BLL.Translators
                     {
                         return new AirSquadron(sqlUnit);
                     }
+                    List<string> missionNames = Liaison.Data.Sql.GetStuff.GetNavalSquadronMissionNames();
+                    if (missionNames.Contains(sqlUnit.MissionName))                        
+                    {
+                        return new NavalSquadronDivision(sqlUnit);
+                    }
+
+                    List<string> facilityMissionNames = Data.Sql.GetStuff.GetFacilityMissionNames();
+                    //if (sqlUnit.Ships.Any(b => b.IsBase))
+                    if (facilityMissionNames.Contains(sqlUnit.MissionName))
+                    {
+                        return new Facility(sqlUnit);
+                    }
+
                     return new Vessel(sqlUnit);
 
                 }
@@ -330,12 +372,12 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.AdminCorpsId.HasValue)
                     {
-                        if (battalionCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                        if (battalionCorps != null && battalionCorps.Contains(sqlUnit.AdminCorpsId.Value))
                         {
                             return new Battalion(sqlUnit);
                         }
 
-                        if (regimentCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                        if (regimentCorps != null && regimentCorps.Contains(sqlUnit.AdminCorpsId.Value))
                         {
                             return new Regiment(sqlUnit);
                         }
@@ -358,6 +400,19 @@ namespace Liaison.BLL.Translators
 
                     return new Facility(sqlUnit);
                 }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
+                {
+                    if (armysquadronCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                    {
+                        return new ArmySquadron(sqlUnit);
+                    }
+
+                    if (companyCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                    {
+                        return new Company(sqlUnit);
+                    }
+                }
             }
             else if (sqlUnit.RankSymbol == "^")
             {
@@ -372,6 +427,8 @@ namespace Liaison.BLL.Translators
                                 "; Service: " +
                                 (Helper.Enumerators.ServicesBll) sqlUnit.ServiceIdx + "(" + sqlUnit.ServiceIdx + ")");
         }
+
+        
 
 
         public static NewThing CreateAFB(NewThing newThing)

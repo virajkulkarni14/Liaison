@@ -13,6 +13,8 @@ namespace Liaison.BLL.Models.Unit
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.NickName = sqlUnit.NickName;
             //this.LegacyMissionName = sqlUnit.LegacyMissionName;
+            this.UniqueName = sqlUnit.UniqueName;
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.MissionName = sqlUnit.MissionName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
@@ -34,6 +36,10 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
 
+        public string UniqueName { get; set; }
+
+        public string TerritorialDesignation { get; set; }
+
         public override string GetAdminCorps()
         {
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
@@ -43,6 +49,15 @@ namespace Liaison.BLL.Models.Unit
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
+            if (!string.IsNullOrWhiteSpace(this.TerritorialDesignation))
+            {
+                sb.Append("(" + this.TerritorialDesignation + ") ");
+            }
+            if (!string.IsNullOrWhiteSpace(this.UniqueName))
+            {
+                sb.Append(" (" + this.UniqueName + ") ");
+            }
+
             if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
                 sb.Append(this.MissionName + " ");

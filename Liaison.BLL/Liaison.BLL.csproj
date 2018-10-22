@@ -60,11 +60,13 @@
     <Compile Include="Models\Unit\AirForceBase.cs" />
     <Compile Include="Models\Unit\AirGroup.cs" />
     <Compile Include="Models\Unit\AirSquadron.cs" />
+    <Compile Include="Models\Unit\ArmySquadron.cs" />
     <Compile Include="Models\Unit\AUnit.cs" />
     <Compile Include="Models\Unit\AdminCorps.cs" />
     <Compile Include="Models\Unit\Battalion.cs" />
     <Compile Include="Models\Unit\Brigade.cs" />
     <Compile Include="Models\Unit\Command.cs" />
+    <Compile Include="Models\Unit\Company.cs" />
     <Compile Include="Models\Unit\Corps.cs" />
     <Compile Include="Models\Unit\DetachmentBll.cs" />
     <Compile Include="Models\Unit\Division.cs" />

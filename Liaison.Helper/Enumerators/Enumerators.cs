@@ -65,7 +65,7 @@ namespace Liaison.Helper.Enumerators
 
     public enum AdminCorps
     {
-        FleetArmArm=1,
+        FleetArmArm = 1,
         RoyalMarineAviation = 68,
         RoyalMarineLandForces = 71,
         RoyalMarineArtillery = 72,
@@ -74,7 +74,9 @@ namespace Liaison.Helper.Enumerators
         RoyalMarineLightInfantry = 75,
         RoyalMarinesAirArm = 76,
         RoyalIndianMarinesAirArm = 77,
-        NavalAviation=78
+        NavalAviation = 78,
+        EngineerInChief = 114,
+        DGSpecialForces= 112
     }
 
 

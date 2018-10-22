@@ -66,7 +66,17 @@ namespace Liaison.BLL.Models.Unit
         }
         public Vessel(Data.Sql.Edmx.Unit sqlUnit)
         {
-            var ship = sqlUnit.Ships.First();
+            Ship ship = null;
+            try
+            {
+                ship = sqlUnit.Ships.First();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                
+            }
+            
 
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.UnitId = sqlUnit.UnitId;

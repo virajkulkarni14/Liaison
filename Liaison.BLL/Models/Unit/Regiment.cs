@@ -7,7 +7,10 @@ namespace Liaison.BLL.Models.Unit
 {
     public class Regiment : ThreeBar
     {
+        public string LegacyMissionName { get; set; }
+        public string UnitTypeVariant { get; set; }
         public string UniqueName { get; set; }
+        public string TerritorialDesignation { get; set; }
         public  Regiment(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -15,6 +18,7 @@ namespace Liaison.BLL.Models.Unit
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.NickName = sqlUnit.NickName;
             this.UniqueName = sqlUnit.UniqueName;
+            this.LegacyMissionName = sqlUnit.LegacyMissionName;
             this.MissionName = sqlUnit.MissionName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
@@ -23,6 +27,8 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
+            this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -36,6 +42,8 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
 
+
+
         public override string GetEquipment()
         {
             return "";
@@ -43,17 +51,17 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetAdminCorps()
         {
-            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
-                || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery
-                ||this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
-            {
-                return this.AdminCorps.DisplayName;
-            }
+            //if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+            //    || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery
+            //    ||this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
+            //{
+            //    return this.AdminCorps.DisplayName;
+            //}
 
             return this.AdminCorps.DisplayName;
             
 
-            throw new Exception();
+          
         }
 
         public override string GetName()
@@ -66,16 +74,48 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
                 sb.Append(this.UniqueName);
                 isAcceptable = true;
-            } 
+            }             
             else //if (this.AdminCorps.AdminCorpsId ==
                     //             (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
             {
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
-                sb.Append(this.MissionName + " ");
-                sb.Append("Rgt.");
-                if (!string.IsNullOrWhiteSpace(this.AdminCorps.DisplayName))
+                if (this.ServiceType == ServiceTypeBLL.Reserve)
                 {
-                    sb.Append(", " + this.AdminCorps.DisplayName);
+                    sb.Append("(R) ");
+                }
+
+                if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                }
+                if (!string.IsNullOrWhiteSpace(this.LegacyMissionName))
+                {
+                    sb.Append("(" + this.LegacyMissionName + ") ");
+                }
+                sb.Append(this.MissionName + " ");
+                bool isRgt;
+                if (this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.EngineerInChief)
+                {
+                    sb.Append("Group");
+                    isRgt = false;
+                }
+                else
+                {
+                    isRgt = true;
+                    sb.Append("Rgt.");
+                }
+
+                if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+                {
+                    sb.Append(" (" + this.UnitTypeVariant + ")");
+                }
+
+                if (!isRgt)
+                {
+                    if (!string.IsNullOrWhiteSpace(AdminCorps?.UnitDisplayName))
+                    {
+                        sb.Append(", " + this.AdminCorps.UnitDisplayName);
+                    }
                 }
 
                 isAcceptable = true;
@@ -89,5 +129,7 @@ namespace Liaison.BLL.Models.Unit
 
             throw new Exception();
         }
+
+
     }
 }

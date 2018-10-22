@@ -13,6 +13,7 @@
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="SortName" Type="nvarchar" MaxLength="255" />
           <Property Name="DisplayName" Type="nvarchar" MaxLength="255" />
+          <Property Name="UnitDisplayName" Type="nvarchar" MaxLength="255" />
           <Property Name="Code" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="ParentUnitId" Type="int" />
           <Property Name="Lookup" Type="nvarchar" MaxLength="5" />
@@ -245,6 +246,7 @@
           <Property Name="UnitId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Number" Type="int" />
           <Property Name="UseOrdinal" Type="bit" Nullable="false" />
+          <Property Name="Letter" Type="char" MaxLength="1" />
           <Property Name="NickName" Type="nvarchar" MaxLength="255" />
           <Property Name="LegacyMissionName" Type="nvarchar" MaxLength="255" />
           <Property Name="MissionName" Type="nvarchar" MaxLength="255" />
@@ -253,7 +255,7 @@
           <Property Name="UnitTypeVariant" Type="nvarchar" MaxLength="255" />
           <Property Name="ServiceIdx" Type="int" Nullable="false" />
           <Property Name="ServiceTypeIdx" Type="int" Nullable="false" />
-          <Property Name="TerritorialDesignation" Type="nvarchar" MaxLength="5" />
+          <Property Name="TerritorialDesignation" Type="nvarchar" MaxLength="255" />
           <Property Name="UnitGuid" Type="uniqueidentifier" Nullable="false" />
           <Property Name="RankSymbol" Type="nvarchar" MaxLength="1" Nullable="false" />
           <Property Name="AdminCorpsId" Type="int" />
@@ -817,7 +819,7 @@
           <Property Name="CommandName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="ServiceIdx" Type="Int32" Nullable="false" />
           <Property Name="ServiceTypeIdx" Type="Int32" Nullable="false" />
-          <Property Name="TerritorialDesignation" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="TerritorialDesignation" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="UnitGuid" Type="Guid" Nullable="false" />
           <Property Name="RankSymbol" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="Rank" Relationship="LiaisonModel.FK_Unit_Rank" FromRole="Unit" ToRole="Rank" />
@@ -839,6 +841,7 @@
           <Property Name="CanHide" Type="Boolean" Nullable="false" />
           <Property Name="UnitTypeVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="Decommissioned" Type="Boolean" />
+          <Property Name="Letter" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -1105,6 +1108,7 @@
           <Property Name="ParentAdminCorpsId" Type="Int32" />
           <Property Name="SortName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="DisplayName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="UnitDisplayName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Unit_AdminCorps">
           <End Type="LiaisonModel.AdminCorp" Role="AdminCorp" Multiplicity="0..1" />
@@ -1419,6 +1423,7 @@
           <EntitySetMapping Name="Units">
             <EntityTypeMapping TypeName="LiaisonModel.Unit">
               <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="Letter" ColumnName="Letter" />
                 <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
                 <ScalarProperty Name="UnitTypeVariant" ColumnName="UnitTypeVariant" />
                 <ScalarProperty Name="CanHide" ColumnName="CanHide" />
@@ -1540,6 +1545,7 @@
           <EntitySetMapping Name="AdminCorps">
             <EntityTypeMapping TypeName="LiaisonModel.AdminCorp">
               <MappingFragment StoreEntitySet="AdminCorps">
+                <ScalarProperty Name="UnitDisplayName" ColumnName="UnitDisplayName" />
                 <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
                 <ScalarProperty Name="SortName" ColumnName="SortName" />
                 <ScalarProperty Name="ParentAdminCorpsId" ColumnName="ParentAdminCorpsId" />

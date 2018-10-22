@@ -6,6 +6,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public class Battalion : TwoBar
     {
+        public string TerritorialDesignation { get; set; }
         public string UniqueName { get; set; }
         public Battalion(Data.Sql.Edmx.Unit sqlUnit)
         {
@@ -22,6 +23,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -36,15 +38,47 @@ namespace Liaison.BLL.Models.Unit
         }
         public override string GetAdminCorps()
         {
-            return this.AdminCorps.Name;
+            return this.AdminCorps.DisplayName;
         }
 
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
-            sb.Append(" Bn., ");
-            sb.Append(this.AdminCorps.Name);
+            if (string.IsNullOrWhiteSpace(this.UniqueName))
+            {
+                if (!string.IsNullOrWhiteSpace(this.MissionName))
+                {
+                    if (this.Number == null)
+                    {
+                        sb.Append(this.MissionName + " ");
+                    }
+                    else
+                    {
+                        sb.Append("(" + this.MissionName + ") ");
+                    }
+                }
+            }
+            else
+            {
+                if (!string.IsNullOrWhiteSpace(this.UniqueName))
+                {
+                    sb.Append("(" + this.UniqueName + ") ");
+                }
+                sb.Append(this.MissionName + " ");
+            }
+
+            if (this.ServiceType == ServiceTypeBLL.Reserve)
+            {
+                sb.Append("(R) ");
+            }
+            else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+            {
+                sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+            }
+
+            sb.Append("Bn., ");
+            sb.Append(this.AdminCorps.UnitDisplayName);
             return sb.ToString();
         }
 

@@ -14,11 +14,12 @@ namespace Liaison.BLL.Models
             this.ParentUnitId = admincorps.ParentUnitId;            
             this.Lookup = admincorps.Lookup;
             this.DisplayName = admincorps.DisplayName;
-
+            this.UnitDisplayName = admincorps.UnitDisplayName;
         }
         public string Name { get; set; }
 public string SortName { get; set; }
         public string DisplayName { get; set; }
+        public string UnitDisplayName { get; set; }
         public string Code { get; set; }
         public string Lookup { get; set; }
         public int? ParentUnitId { get; set; }
