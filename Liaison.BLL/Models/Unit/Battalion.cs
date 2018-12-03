@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using Liaison.Helper.Enumerators;
 
@@ -6,6 +7,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public class Battalion : TwoBar
     {
+        public string UnitTypeVariant { get; set; }
         public string TerritorialDesignation { get; set; }
         public string UniqueName { get; set; }
         public Battalion(Data.Sql.Edmx.Unit sqlUnit)
@@ -24,6 +26,7 @@ namespace Liaison.BLL.Models.Unit
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
+            this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -45,28 +48,6 @@ namespace Liaison.BLL.Models.Unit
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
-            if (string.IsNullOrWhiteSpace(this.UniqueName))
-            {
-                if (!string.IsNullOrWhiteSpace(this.MissionName))
-                {
-                    if (this.Number == null)
-                    {
-                        sb.Append(this.MissionName + " ");
-                    }
-                    else
-                    {
-                        sb.Append("(" + this.MissionName + ") ");
-                    }
-                }
-            }
-            else
-            {
-                if (!string.IsNullOrWhiteSpace(this.UniqueName))
-                {
-                    sb.Append("(" + this.UniqueName + ") ");
-                }
-                sb.Append(this.MissionName + " ");
-            }
 
             if (this.ServiceType == ServiceTypeBLL.Reserve)
             {
@@ -77,7 +58,49 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("(V) (" + this.TerritorialDesignation + ") ");
             }
 
-            sb.Append("Bn., ");
+            List<string> missions = new List<string>() {"Civil Affairs", "Psychological Operations"};
+            if (string.IsNullOrWhiteSpace(this.UniqueName))
+            {
+                if (!string.IsNullOrWhiteSpace(this.MissionName))
+                {
+                    if (this.Number == null)
+                    {
+                        sb.Append(this.MissionName + " ");
+                    }
+                    else
+                    {
+                        if (missions.Contains(this.MissionName))
+                        {
+                            sb.Append(this.MissionName + " ");
+                        }
+                        else
+                        {
+                            sb.Append("(" + this.MissionName + ") ");
+                        }
+                    }
+                }
+            }
+            else
+            {
+                if (!string.IsNullOrWhiteSpace(this.UniqueName))
+                {
+                    sb.Append("(" + this.UniqueName + ") ");
+                }
+
+                sb.Append(this.MissionName + " ");
+            }
+
+
+
+            sb.Append("Bn.");
+
+            if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+            {
+                sb.Append(" (" + this.UnitTypeVariant + ")");
+            }
+
+
+            sb.Append(", ");
             sb.Append(this.AdminCorps.UnitDisplayName);
             return sb.ToString();
         }

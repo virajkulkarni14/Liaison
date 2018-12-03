@@ -34,7 +34,53 @@ namespace Liaison.Import.GlobalSecurity
             {
                 string [] urls=
                 {
-                    "https://www.globalsecurity.org/military/agency/usaf/ang.htm"
+                    //"https://www.globalsecurity.org/military/agency/usaf/ang.htm"
+                    //"https://www.globalsecurity.org/military/agency/army/ca-psyop.htm"
+                    "https://www.globalsecurity.org/military/agency/army/9rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/63rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/65rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/70rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/77rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/81rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/88rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/89rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/90rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/94rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/96rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/99rsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/81rsg.htm",
+                    "https://www.globalsecurity.org/military/agency/army/88rsg.htm",
+                    "https://www.globalsecurity.org/military/agency/army/90rsg.htm",
+                    "https://www.globalsecurity.org/military/agency/army/7arcom.htm",
+                    "https://www.globalsecurity.org/military/agency/army/ix-corps.htm",
+                    "https://www.globalsecurity.org/military/agency/army/9tsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/19tsc-ca.htm",
+                    "https://www.globalsecurity.org/military/agency/army/21tsc-ca.htm",
+                    "https://www.globalsecurity.org/military/agency/army/377tsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/143transcom.htm",
+                    "https://www.globalsecurity.org/military/agency/army/311coscom.htm",
+                    "https://www.globalsecurity.org/military/agency/army/335tsc.htm",
+                    "https://www.globalsecurity.org/military/agency/army/412en-com.htm",
+                    "https://www.globalsecurity.org/military/agency/army/416encom.htm",
+                    "https://www.globalsecurity.org/military/agency/army/3medcom.htm",
+                    "https://www.globalsecurity.org/military/agency/army/332med-bde.htm",
+                    "https://www.globalsecurity.org/military/agency/army/807med-bde.htm",
+                    "https://www.globalsecurity.org/military/agency/army/80d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/84d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/95d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/98d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/100d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/104d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/108d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/75d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/78d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/85d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/87d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/91d.htm",
+                    "https://www.globalsecurity.org/military/agency/army/244avn.htm",
+                    "https://www.globalsecurity.org/military/agency/army/readinesscmd.htm",
+                    "https://www.globalsecurity.org/military/agency/army/77id.htm",
+                    ""
                 };
                 /*string[] urls =
                 {

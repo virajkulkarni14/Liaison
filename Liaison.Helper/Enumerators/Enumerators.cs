@@ -75,8 +75,9 @@ namespace Liaison.Helper.Enumerators
         RoyalMarinesAirArm = 76,
         RoyalIndianMarinesAirArm = 77,
         NavalAviation = 78,
+        DGSpecialForces = 112,
         EngineerInChief = 114,
-        DGSpecialForces= 112
+        OffCivilAffairs= 170,
     }
 
 

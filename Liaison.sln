@@ -59,8 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseBackups", "Database
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{C6B14ADB-52AA-4680-BD6E-AC9CA700BC66}"
 	ProjectSection(SolutionItems) = preProject
+		DatabaseBackups\scripts\addunit.sql = DatabaseBackups\scripts\addunit.sql
 		DatabaseBackups\scripts\LiaisonSchemaAndData.sql = DatabaseBackups\scripts\LiaisonSchemaAndData.sql
 		DatabaseBackups\scripts\script.sql = DatabaseBackups\scripts\script.sql
+		DatabaseBackups\scripts\sqldbs.txt = DatabaseBackups\scripts\sqldbs.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bak", "bak", "{D79056C5-163D-41A8-9D12-8118D836DD05}"

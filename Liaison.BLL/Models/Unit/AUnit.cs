@@ -432,5 +432,27 @@ namespace Liaison.BLL.Models.Unit
 
             throw new Exception();
         }
+
+        protected static void GetServiceType(StringBuilder sb, ServiceTypeBLL thisServiceType, string thisTerritorialDesignation, bool precedingSpace, bool trailingSpace)
+        {
+            if (precedingSpace)
+            {
+                sb.Append(" ");
+            }
+            if (thisServiceType == ServiceTypeBLL.Reserve)
+            {
+                sb.Append("(R)");
+            }
+            else if (thisServiceType == ServiceTypeBLL.Volunteer)
+            {
+                sb.Append("(V) ");
+                sb.Append("(" + thisTerritorialDesignation + ")");
+            }
+
+            if (trailingSpace)
+            {
+                sb.Append(" ");
+            }
+        }
     }
 }

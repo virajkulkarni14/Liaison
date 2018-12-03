@@ -26,7 +26,7 @@ namespace Liaison.BLL.Translators
 
         public static IUnit GetTree(string input, int? depth)
         {
-            depthRequired = depth == 0 ? null : depth;
+            _depthRequired = depth == 0 ? null : depth;
             
             IUnit convUnit;
             using (var context = new LiaisonEntities())
@@ -55,7 +55,7 @@ namespace Liaison.BLL.Translators
             return convUnit;
         }
 
-        private static  int? depthRequired = null;        
+        private static  int? _depthRequired = null;        
 
         public static IUnit ConvertUnit(Unit sqlUnit) //, bool includeParent)
         {
@@ -65,17 +65,17 @@ namespace Liaison.BLL.Translators
             List<int> companyCorps =            HttpContext.Current.Session["CompanyCorps"] as List<int>;
 
             var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
-            if (depthRequired == null)
+            if (_depthRequired == null)
             {
-                depthRequired =100;
+                _depthRequired =100;
             }
 
-            if (thisUnitRankLevel > depthRequired)
+            if (thisUnitRankLevel > _depthRequired)
             {
                 return new DefaultUnit();
             }
 
-            var cont = thisUnitRankLevel <= depthRequired;
+            var cont = thisUnitRankLevel <= _depthRequired;
 
             //var s = sqlUnit.Rank.RankLevel;
             if (sqlUnit.RankSymbol == "!")
@@ -269,8 +269,16 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == "/")
             {
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
+                {
+                    return new JointGroup(sqlUnit);
+                }
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
                 {
+                    if (sqlUnit.MissionName == "Psychological Operations")
+                    {
+                        return new JointGroup(sqlUnit);
+                    }
                     if (!string.IsNullOrWhiteSpace(sqlUnit.CommandName))
                     {
                         return new Command(sqlUnit, cont);

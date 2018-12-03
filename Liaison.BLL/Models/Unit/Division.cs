@@ -47,7 +47,7 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetAdminCorps()
         {
-            return this.AdminCorps.Name;
+            return this.AdminCorps.DisplayName;
         }
         public override string GetName()
         {
@@ -57,9 +57,13 @@ namespace Liaison.BLL.Models.Unit
                 unitname = "Group";
             }
 
-            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.DGSpecialForces)
+            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.DGSpecialForces||
+                this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.OffCivilAffairs)
             {
-                unitname = "Command";
+                if (this.MissionName != "Commando")
+                {
+                    unitname = "Command";
+                }
             }
 
             StringBuilder sb = new StringBuilder();
@@ -76,10 +80,25 @@ namespace Liaison.BLL.Models.Unit
             }
             else
             {
+                if (this.ServiceType == ServiceTypeBLL.Reserve)
+                {
+                    sb.Append("(R) ");
+                }
+                else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append("(V) ");
+                }
+
                 if (!string.IsNullOrWhiteSpace(this.TerritorialDesignation))
                 {
                     sb.Append("(" + this.TerritorialDesignation + ") ");
                 }
+
+                if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+                {
+                    sb.Append("(" + this.UnitTypeVariant + ") ");
+                }
+
                 if (!string.IsNullOrWhiteSpace(this.MissionName))
                 {
                     sb.Append(this.MissionName + " ");

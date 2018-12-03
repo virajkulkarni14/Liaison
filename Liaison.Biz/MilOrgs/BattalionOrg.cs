@@ -33,6 +33,7 @@ namespace Liaison.Biz.MilOrgs
                 sb.Append(Mission + " ");
             }
             sb.Append(Helper.Constants.ShortForm.Battalion + ".");
+
             if (!string.IsNullOrEmpty(ParentAbbrev))
             {
                 sb.Append(", "+ParentAbbrev);

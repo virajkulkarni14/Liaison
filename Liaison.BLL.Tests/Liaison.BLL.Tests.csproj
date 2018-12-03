@@ -48,7 +48,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Unit\ArmySquadronTest.cs" />
+    <Compile Include="Models\Unit\BattalionTest.cs" />
     <Compile Include="Models\Unit\DivisionTest.cs" />
+    <Compile Include="Models\Unit\DetachmentTest.cs" />
+    <Compile Include="Models\Unit\JointGroupTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -54,52 +54,81 @@ namespace Liaison.BLL.Models.Unit
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
-            if (this.Number != null)
+
+            bool unitWithId = !(this.Number == null && this.Letter == null);
+            bool ishq = false;
+
+            if (unitWithId)
             {
-                sb.Append(this.Number + " ");
-                if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                if (this.Number != null)
                 {
-                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                    sb.Append(this.Number + " ");
+                }
+
+                if (this.Letter != null)
+                {
+                    sb.Append(this.Letter + " ");
+                }
+
+                //if (this.LegacyMissionName != null)
+                //{
+                //    sb.Append("(" + this.LegacyMissionName + ") ");
+                //}
+            }
+            else
+            {
+
+                if (this.MissionName != null)
+                {
+                    string missionname = this.MissionName;
+                    if (this.MissionName == ResourceStrings.HQHQ)
+                    {
+                        sb.Append("HHC");
+                        ishq = true;
+                    }
+                    else if (this.MissionName == ResourceStrings.HQS)
+                    {
+                        sb.Append("HSC");
+                        ishq = true;
+                    }
+                    else
+                    {
+                        sb.Append(this.MissionName + " ");
+                        sb.Append("Coy.");
+                        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, true, true);
+
+                        ishq = true;
+                    }
                 }
             }
 
-            if (this.Letter != null)
+            if (!ishq)
             {
-                sb.Append(this.Letter + " ");
+                AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, true, true);
             }
 
-            if (this.LegacyMissionName != null)
-            {              
-                sb.Append("(" + this.LegacyMissionName + ") ");
-            }
-
-            if (this.MissionName != null)
+            if (unitWithId)
             {
-                string missionname = this.MissionName;
-                if (this.MissionName == ResourceStrings.HQHQ)
-                {
-                    missionname = "HHQ";
-                }
-
-                sb.Append(missionname + " ");
+                sb.Append(this.MissionName + " ");
             }
 
-            if (this.ServiceType == ServiceTypeBLL.Reserve)
+
+            if (!ishq)
             {
-                sb.Append("(R) ");
-            }
-            else if (this.ServiceType == ServiceTypeBLL.Volunteer)
-            {
-                sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                sb.Append("Coy.");
             }
 
-            sb.Append("Coy., ");
-            if (!string.IsNullOrWhiteSpace(this.CommandName))
-            {
-                sb.Append(this.CommandName + ", ");
-            }
-            sb.Append(this.AdminCorps.UnitDisplayName);
+            var endstring = !string.IsNullOrWhiteSpace(this.CommandName)
+                ? this.CommandName.Replace("_", "")
+                : this.AdminCorps.UnitDisplayName;
 
+            if (!string.IsNullOrWhiteSpace(endstring))
+            {
+                sb.Append(", ");
+
+                sb.Append(endstring);
+
+            }
             return sb.ToString();
         }
 

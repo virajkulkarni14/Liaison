@@ -57,7 +57,7 @@ namespace Liaison.BLL.Models.Unit
     {
         public string GetAdminCorps()
         {
-            return "";
+            return this.AdminCorps?.DisplayName;
         }
         private string CommandName { get; set; }
         private string UniqueName { get; set; }

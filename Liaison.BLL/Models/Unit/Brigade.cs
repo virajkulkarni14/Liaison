@@ -16,6 +16,7 @@ namespace Liaison.BLL.Models.Unit
             this.UniqueName = sqlUnit.UniqueName;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.MissionName = sqlUnit.MissionName;
+            this.UnitTypeVariant = new UnitTypeVariant(sqlUnit.UnitTypeVariant);
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
@@ -36,23 +37,34 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
 
+        public UnitTypeVariant UnitTypeVariant { get; set; }
+
         public string UniqueName { get; set; }
 
         public string TerritorialDesignation { get; set; }
 
         public override string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
 
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
-            if (!string.IsNullOrWhiteSpace(this.TerritorialDesignation))
+            if (this.ServiceType == ServiceTypeBLL.Reserve)
             {
-                sb.Append("(" + this.TerritorialDesignation + ") ");
+                sb.Append("(R) ");
             }
+            else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+            {
+                sb.Append("(V) ");
+                if (!string.IsNullOrWhiteSpace(this.TerritorialDesignation))
+                {
+                    sb.Append("(" + this.TerritorialDesignation + ") ");
+                }
+            }
+
             if (!string.IsNullOrWhiteSpace(this.UniqueName))
             {
                 sb.Append(" (" + this.UniqueName + ") ");
@@ -64,7 +76,11 @@ namespace Liaison.BLL.Models.Unit
             }
 
             sb.Append("Brigade");
-            
+
+            if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant.Data))
+            {
+                sb.Append(" " + this.UnitTypeVariant.ToUtvString());
+            }
 
             return sb.ToString();
         }

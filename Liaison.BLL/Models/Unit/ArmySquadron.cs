@@ -22,6 +22,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -51,11 +52,7 @@ namespace Liaison.BLL.Models.Unit
             StringBuilder sb = new StringBuilder();
             if (this.Number != null)
             {
-                sb.Append(this.Number + " ");
-                if (this.ServiceType == ServiceTypeBLL.Volunteer)
-                {
-                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
-                }
+                sb.Append(this.Number + " ");               
             }
 
             if (this.Letter != null)
@@ -63,6 +60,8 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.Letter + " ");
             }
 
+  
+            AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, false, true);
             if (this.MissionName != null)
             {
                 sb.Append(this.MissionName + " ");
@@ -70,11 +69,11 @@ namespace Liaison.BLL.Models.Unit
 
             sb.Append("Sqn.");
 
-            if (this.AdminCorps?.UnitDisplayName != null)
+            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.UnitDisplayName))
             {
                 sb.Append(", " + this.AdminCorps.UnitDisplayName);
             }
-            if (this.CommandName != null)
+            if (!string.IsNullOrWhiteSpace(this.CommandName))
             {
                 sb.Append(", " + this.CommandName);
             }

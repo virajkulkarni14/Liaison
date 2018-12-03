@@ -57,6 +57,7 @@
     <Compile Include="Models\ExtensionMethods.cs" />
     <Compile Include="Models\IBase.cs" />
     <Compile Include="Models\NewWing.cs" />
+    <Compile Include="Models\UnitTypeVariant.cs" />
     <Compile Include="Models\Unit\AirForceBase.cs" />
     <Compile Include="Models\Unit\AirGroup.cs" />
     <Compile Include="Models\Unit\AirSquadron.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Models\Equipment\IEquipment.cs" />
     <Compile Include="Models\Unit\IUnit.cs" />
     <Compile Include="Models\UnitRelationship.cs" />
+    <Compile Include="Models\Unit\JointGroup.cs" />
     <Compile Include="Models\Unit\NamedFleet.cs" />
     <Compile Include="Models\Unit\AirWing.cs" />
     <Compile Include="Models\Unit\NavalGroup.cs" />

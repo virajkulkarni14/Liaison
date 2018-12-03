@@ -19,7 +19,9 @@ namespace Liaison.BLL.Models.Unit
         }
         public string TerritorialDesignation { get; set; }
         private int OneBarTab = 12;
+        private int ThreeBlobTab = 13;
         private string OneBar = "|";
+        private string ThreeBlob = "•••";
         public DetachmentBll(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -34,6 +36,11 @@ namespace Liaison.BLL.Models.Unit
                 this.RankLevel = OneBarTab;
                 this.RankStar = OneBar;
             }
+            else if (this.MissionName == ResourceStrings.Chemical)
+            {
+                this.RankLevel = ThreeBlobTab;
+                this.RankStar = ThreeBlob;
+            }
             else if (this.Letter != null)
             {
                 this.RankLevel = OneBarTab;
@@ -43,6 +50,17 @@ namespace Liaison.BLL.Models.Unit
             {
                 this.RankLevel = 10;
                 this.RankStar = OneBar;
+            }
+            else if (this.CommandName.StartsWith("HHD"))
+            {                
+                this.RankLevel = ThreeBlobTab;
+                this.RankStar = ThreeBlob;
+            }
+            else if (this.CommandName.Contains("Coy.")  &&
+                     this.CommandName.Contains("Rgt."))//&& this.CommandName.Contains("Bn.")
+            {
+                this.RankLevel = ThreeBlobTab;
+                this.RankStar = ThreeBlob;
             }
             else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
             {
@@ -87,29 +105,79 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetName()
         {
+            StringBuilder sb = new StringBuilder();
             // for HHQD
             if (!string.IsNullOrWhiteSpace(this.MissionName))
-            {
-                StringBuilder sb = new StringBuilder();
+            {             
+                //if (this.UseOrdinal==false)
+                //{
+                //    sb.Append(ResourceStrings.Det +" ");
+                //}
+                if (this.Number != null)
+                {
+                    sb.Append(this.Number.ToOrdinal(this.UseOrdinal)+" ");
+                }
+
+                if (this.Letter != null)
+                {
+                    sb.Append(this.Letter + " ");
+                }
                 string missionname = this.MissionName;
                 if (this.MissionName == ResourceStrings.HQHQ)
                 {
                     missionname = "HHQ";
+                    sb.Append(missionname + " ");
+                    sb.Append(ResourceStrings.Det + " ");
+                    if (ServiceType == ServiceTypeBLL.Volunteer)
+                    {
+                        sb.Append("(V) (" + this.TerritorialDesignation + "), ");
+                    }                    
                 }
 
-                sb.Append(missionname + " ");
+                
 
-                if (ServiceType == ServiceTypeBLL.Volunteer)
+                if (this.MissionName != ResourceStrings.HQHQ)
                 {
-                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                    if (ServiceType == ServiceTypeBLL.Volunteer)
+                    {
+                        sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                    }
+                    sb.Append(missionname+" ");
+                    sb.Append(ResourceStrings.Det + ", ");
+
                 }
 
-                sb.Append("Det., ");
                 if (!string.IsNullOrWhiteSpace(this.CommandName))
                 {
                     sb.Append(this.CommandName + ", ");
                 }
                 sb.Append(this.AdminCorps.UnitDisplayName);
+                return sb.ToString();
+            }
+            else
+            {
+                if (this.Number != null)
+                {
+                    sb.Append(ResourceStrings.Det + " " + this.Number);
+                }
+                else if (this.Letter != null)
+                {
+                    sb.Append(ResourceStrings.Det + " " + this.Letter);
+                }
+
+                if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append(" (V) (" + this.TerritorialDesignation + ")");
+                }
+
+                sb.Append(", ");
+
+                if (this.CommandName != null)
+                {
+                    sb.Append(this.CommandName);
+                }  
+
+
                 return sb.ToString();
             }
 
@@ -132,6 +200,11 @@ namespace Liaison.BLL.Models.Unit
             if (this.MissionName == ResourceStrings.HQHQ)
             {
                 return OneBarTab;
+            }
+
+            if (this.MissionName == ResourceStrings.Chemical)
+            {
+                return ThreeBlobTab;
             }
             if (this.CommandName.Contains("NAS"))
             {

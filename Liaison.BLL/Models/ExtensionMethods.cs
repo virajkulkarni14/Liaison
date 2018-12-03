@@ -9,8 +9,12 @@ namespace Liaison.BLL.Models
     public static class ResourceStrings
     {
         public static string HQHQ = "Headquarters & Headquarters";
+        public static string HQS = "Headquarters & Support";
+        public static string Chemical = "Chemical";
+        public static string Det = "Det.";
+        public static string Group = "Group";
     }
-    public static class ExtensionMethods
+    public static partial class ExtensionMethods
     {
         public static IEnumerable<IUnit> ToIUnits(this IEnumerable<Liaison.Data.Sql.Edmx.Unit> input)
         {
@@ -92,7 +96,19 @@ namespace Liaison.BLL.Models
                 if (input == 6) return "Sixth";
                 if (input == 7) return "Seventh";
                 if (input == 8) return "Eighth";
+                if (input == 9) return "Nineth";
+                if (input == 10) return "Tenth";
                 if (input == 11) return "Eleventh";
+                if (input == 12) return "Twelveth";
+            }
+            else if (input < 20)
+            {
+                if (input == 13) return "Thirteenth";
+                if (input == 14) return "Fourteenth";
+                if (input == 15) return "Fifteenth";
+                if (input == 16) return "Sixteenth";
+                if (input == 17) return "Seventeenth";
+                if (input == 18) return "Eighteenth";
             }
 
             throw new Exception("Number not done: "+input);
