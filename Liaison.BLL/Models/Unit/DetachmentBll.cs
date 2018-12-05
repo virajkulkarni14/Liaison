@@ -62,6 +62,11 @@ namespace Liaison.BLL.Models.Unit
                 this.RankLevel = ThreeBlobTab;
                 this.RankStar = ThreeBlob;
             }
+            else if (this.CommandName.EndsWith("Coy."))
+            {
+                this.RankLevel = ThreeBlobTab;
+                this.RankStar = ThreeBlob;
+            }
             else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
             {
                 this.RankLevel = 10;
@@ -152,7 +157,7 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(this.CommandName + ", ");
                 }
                 sb.Append(this.AdminCorps.UnitDisplayName);
-                return sb.ToString();
+                return sb.ToString().Replace("_", ""); ;
             }
             else
             {
@@ -178,7 +183,7 @@ namespace Liaison.BLL.Models.Unit
                 }  
 
 
-                return sb.ToString();
+                return sb.ToString().Replace("_","");
             }
 
             // for naval air detachments
