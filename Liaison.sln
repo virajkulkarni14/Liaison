@@ -59,10 +59,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseBackups", "Database
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{C6B14ADB-52AA-4680-BD6E-AC9CA700BC66}"
 	ProjectSection(SolutionItems) = preProject
-		DatabaseBackups\scripts\addunit.sql = DatabaseBackups\scripts\addunit.sql
-		DatabaseBackups\scripts\LiaisonSchemaAndData.sql = DatabaseBackups\scripts\LiaisonSchemaAndData.sql
 		DatabaseBackups\scripts\script.sql = DatabaseBackups\scripts\script.sql
-		DatabaseBackups\scripts\sqldbs.txt = DatabaseBackups\scripts\sqldbs.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bak", "bak", "{D79056C5-163D-41A8-9D12-8118D836DD05}"
@@ -71,6 +68,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bak", "bak", "{D79056C5-163
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liaison.BLL.Tests", "Liaison.BLL.Tests\Liaison.BLL.Tests.csproj", "{68729FB0-A773-489A-8765-0370393CE4A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{7314998F-7A22-43D6-92A7-6746B0662E79}"
+	ProjectSection(SolutionItems) = preProject
+		DatabaseBackups\sql\addunit.sql = DatabaseBackups\sql\addunit.sql
+		DatabaseBackups\sql\FindOrphans.sql = DatabaseBackups\sql\FindOrphans.sql
+		DatabaseBackups\sql\foreach.sql = DatabaseBackups\sql\foreach.sql
+		DatabaseBackups\sql\InsertNewUnit.sql = DatabaseBackups\sql\InsertNewUnit.sql
+		DatabaseBackups\sql\sqldbs.txt = DatabaseBackups\sql\sqldbs.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +163,7 @@ Global
 		{C6B14ADB-52AA-4680-BD6E-AC9CA700BC66} = {0599A539-D895-4F85-8305-1FAFAA50FFF1}
 		{D79056C5-163D-41A8-9D12-8118D836DD05} = {0599A539-D895-4F85-8305-1FAFAA50FFF1}
 		{68729FB0-A773-489A-8765-0370393CE4A9} = {D42A8E57-4F95-4C3F-9380-D5AC37AC6F0E}
+		{7314998F-7A22-43D6-92A7-6746B0662E79} = {0599A539-D895-4F85-8305-1FAFAA50FFF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4066C976-993D-4F44-90C6-36C10CCD72B3}

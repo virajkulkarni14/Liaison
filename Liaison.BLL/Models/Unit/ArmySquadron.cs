@@ -23,6 +23,7 @@ namespace Liaison.BLL.Models.Unit
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
+	        this.CommandName = sqlUnit.CommandName;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -50,36 +51,82 @@ namespace Liaison.BLL.Models.Unit
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
-            if (this.Number != null)
-            {
-                sb.Append(this.Number + " ");               
-            }
 
-            if (this.Letter != null)
-            {
-                sb.Append(this.Letter + " ");
-            }
+	        bool unitWithId = !(this.Number == null && this.Letter == null);
+	        bool ishq = false;
 
-  
-            AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, false, true);
-            if (this.MissionName != null)
-            {
-                sb.Append(this.MissionName + " ");
-            }
+	        if (unitWithId)
+	        {
+		        if (this.Number != null)
+		        {
+			        sb.Append(this.Number + " ");
+		        }
 
-            sb.Append("Sqn.");
+		        if (this.Letter != null)
+		        {
+			        sb.Append(this.Letter + " ");
+		        }
 
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.UnitDisplayName))
-            {
-                sb.Append(", " + this.AdminCorps.UnitDisplayName);
-            }
-            if (!string.IsNullOrWhiteSpace(this.CommandName))
-            {
-                sb.Append(", " + this.CommandName);
-            }
+		        //if (this.LegacyMissionName != null)
+		        //{
+		        //    sb.Append("(" + this.LegacyMissionName + ") ");
+		        //}
+	        }
+	        else
+	        {
 
-            return sb.ToString();
-        }
+		        if (this.MissionName != null)
+		        {
+			        if (this.MissionName == ResourceStrings.HQHQ)
+			        {
+				        sb.Append("HHS");
+				        ishq = true;
+			        }
+			        else if (this.MissionName == ResourceStrings.HQS)
+			        {
+				        sb.Append("HSS");
+				        ishq = true;
+			        }
+			        else
+			        {
+				        sb.Append(this.MissionName + " ");
+				        sb.Append("Sqn.");
+				        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, true, true);
+
+				        ishq = true;
+			        }
+		        }
+	        }
+
+	        if (!ishq)
+	        {
+		        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, true, true);
+	        }
+
+	        if (unitWithId)
+	        {
+		        sb.Append(this.MissionName + " ");
+	        }
+
+
+	        if (!ishq)
+	        {
+		        sb.Append("Sqn.");
+	        }
+
+	        var endstring = !string.IsNullOrWhiteSpace(this.CommandName)
+		        ? this.CommandName.Replace("_", "")
+		        : this.AdminCorps.UnitDisplayName;
+
+	        if (!string.IsNullOrWhiteSpace(endstring))
+	        {
+		        sb.Append(", ");
+
+		        sb.Append(endstring);
+
+	        }
+	        return sb.ToString();
+		}
 
         public string CommandName { get; set; }
 
