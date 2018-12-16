@@ -323,7 +323,7 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(" - " + mission.Variant);
                 }
 
-                sb.Append(ExtensionMethods.Seperator);
+                sb.Append(ResourceStrings.Seperator);
             }
 
             var returnable = sb.ToString();
@@ -331,7 +331,7 @@ namespace Liaison.BLL.Models.Unit
             {
                 return returnable;
             }
-            return returnable.Substring(0, returnable.Length - ExtensionMethods.Seperator.Length);
+            return returnable.Substring(0, returnable.Length - ResourceStrings.Seperator.Length);
         }
 
         public string GetBase()

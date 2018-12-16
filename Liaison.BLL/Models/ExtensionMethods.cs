@@ -13,6 +13,8 @@ namespace Liaison.BLL.Models
         public static string Chemical = "Chemical";
         public static string Det = "Det.";
         public static string Group = "Group";
+        public static  string Seperator = ", ";
+
     }
     public static partial class ExtensionMethods
     {
@@ -20,7 +22,7 @@ namespace Liaison.BLL.Models
         {
             return new List<IUnit>();
         }
-        public static  string Seperator = ", ";
+
         public static int? ToIntNull(this decimal? input)
         {
             if (input == null)

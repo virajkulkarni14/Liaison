@@ -111,7 +111,7 @@ namespace Liaison.BLL.Models.Unit
 
             if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
-                sb.Append(ExtensionMethods.Seperator + this.AdminCorps.Code);
+                sb.Append(ResourceStrings.Seperator + this.AdminCorps.Code);
             }
 
             return sb.ToString();

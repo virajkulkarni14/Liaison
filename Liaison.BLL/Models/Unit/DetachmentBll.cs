@@ -187,12 +187,12 @@ namespace Liaison.BLL.Models.Unit
             }
 
             // for naval air detachments
-            if (this.CommandName.Contains("__"))
-            {
-                return this.CommandName.Replace("_", "");
-            }
+            //if (this.CommandName.Contains("__"))
+            //{
+            //    return this.CommandName.Replace("_", "");
+            //}
 
-            return this.CommandName;
+            //return this.CommandName;
         }
 
         public string PrintTree()
@@ -248,11 +248,11 @@ namespace Liaison.BLL.Models.Unit
                     }
                 }
 
-                sb.Append(ExtensionMethods.Seperator);
+                sb.Append(ResourceStrings.Seperator);
             }
 
             var x = sb.ToString();
-            return (x.Length > 0 ? x.Substring(0, x.Length - ExtensionMethods.Seperator.Length) : x).Replace("_", "");
+            return (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", "");
         }
 
         public bool IsTaskForce => false;

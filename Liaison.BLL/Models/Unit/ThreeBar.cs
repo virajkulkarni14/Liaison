@@ -27,7 +27,7 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetIndexes()
         {
-            return this.Indices == null ? string.Empty : string.Join(ExtensionMethods.Seperator, this.Indices);
+            return this.Indices == null ? string.Empty : string.Join(ResourceStrings.Seperator, this.Indices);
         }
 
         public abstract string GetEquipment();

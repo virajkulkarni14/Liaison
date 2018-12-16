@@ -9,7 +9,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public class AirSquadron : TwoBar, IVolunteerUnit
     {
-        public new AdminCorps AdminCorps { get; set; }
+      //  public new AdminCorps AdminCorps { get; set; }
 
         //public bool UseOrdinal { get; set; }
         //public List<IEquipment> Equipment { get; set; }
@@ -30,19 +30,20 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
+	        this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
 
-            this.Mission = new BllMissions(sqlUnit.MissionUnits);
+			this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x=>x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
 
 
-            if (sqlUnit.AdminCorp != null)
-            {
-                this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
-                // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
-                // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
-            }
+            //if (sqlUnit.AdminCorp != null)
+            //{
+            //    this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
+            //    // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
+            //    // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
+            //}
             var relMain = sqlUnit.RelationshipsFrom.ToList();
             var relt = sqlUnit.RelationshipsTo.ToList();
 
@@ -50,20 +51,28 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
 
         }
-        public override string GetAdminCorps()
+	    public override string GetAdminCorps()
+	    {
+		    return this.AdminCorps.DisplayName;
+	    }
+		public override string GetName()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
-        }
-        public override string GetName()
-        {
-            if (this.AdminCorps == null)
-            {
-                this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
-            }
+            //if (this.AdminCorps == null)
+            //{
+            //    this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
+            //}
 
             StringBuilder sb = new StringBuilder();
-            sb.Append("No. " + this.Number + " ");
-            if (this.ServiceType == ServiceTypeBLL.Volunteer)
+	        if (this.Service == ServicesBll.AirForce  && this.UseOrdinal)
+	        {
+		        sb.Append("No. "+this.Number.ToRomanNumerals() + " ");
+	        }
+	        else
+	        {
+		        sb.Append("No. " + this.Number + " ");
+	        }
+
+	        if (this.ServiceType == ServiceTypeBLL.Volunteer)
             {
                 sb.Append("(V) ("+this.TerritorialDesignation+") " );
             }
@@ -71,6 +80,8 @@ namespace Liaison.BLL.Models.Unit
             {
                 sb.Append(this.MissionName + " ");
             }
+
+	       
             if (this.Service == ServicesBll.Navy)
             {
                 sb.Append("Naval Air Sqn.");
@@ -80,13 +91,13 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("Marine Air Sqn.");
             }
             else
-            {
-                sb.Append(this.AdminCorps?.Id == 35 ? "Unit" : "Sqn.");
-            }
+            { 
+                sb.Append(this.AdminCorps?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RAFTraining     ? "Unit" : "Sqn.");//35
+			}
 
             if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
-                sb.Append(ExtensionMethods.Seperator + this.AdminCorps.Code);
+                sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
             }           
 
             return sb.ToString();
@@ -111,11 +122,11 @@ namespace Liaison.BLL.Models.Unit
                     }
                 }
 
-                sb.Append(ExtensionMethods.Seperator);
+                sb.Append(ResourceStrings.Seperator);
             }
 
             var x = sb.ToString();
-            return (x.Length > 0 ? x.Substring(0, x.Length - ExtensionMethods.Seperator.Length) : x).Replace("_", "");
+            return (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", "");
         }
 
         public string GetTerritorialDesignation()

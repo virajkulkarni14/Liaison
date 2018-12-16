@@ -58,7 +58,7 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("(V) (" + this.TerritorialDesignation + ") ");
             }
 
-            List<string> missions = new List<string>() {"Civil Affairs", "Psychological Operations"};
+            List<string> missions = new List<string>() {"Civil Affairs", "Psychological Operations", "Commando"};
             if (string.IsNullOrWhiteSpace(this.UniqueName))
             {
                 if (!string.IsNullOrWhiteSpace(this.MissionName))
@@ -71,8 +71,13 @@ namespace Liaison.BLL.Models.Unit
                     {
                         if (missions.Contains(this.MissionName))
                         {
-                            sb.Append(this.MissionName + " ");
-                        }
+	                        
+                            sb.Append(this.MissionName);
+	                        if (this.MissionName != "Commando")
+	                        {
+		                        sb.Append(" ");
+	                        }
+						}
                         else
                         {
                             sb.Append("(" + this.MissionName + ") ");
@@ -91,17 +96,19 @@ namespace Liaison.BLL.Models.Unit
             }
 
 
+	        if (this.AdminCorps?.AdminCorpsId != (int) Helper.Enumerators.AdminCorps.RoyalMarineCommando)
+	        {
+		        sb.Append("Bn.");
+	        }
 
-            sb.Append("Bn.");
-
-            if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+	        if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
             {
                 sb.Append(" (" + this.UnitTypeVariant + ")");
             }
 
 
-            sb.Append(", ");
-            sb.Append(this.AdminCorps.UnitDisplayName);
+
+            sb.Append(ResourceStrings.Seperator +this.AdminCorps?.UnitDisplayName);
             return sb.ToString();
         }
 

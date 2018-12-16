@@ -345,6 +345,11 @@ namespace Liaison.BLL.Translators
                         return new AirSquadron(sqlUnit);
                     }
 
+	                if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCommando)
+	                {
+		                return new Battalion(sqlUnit);
+	                }
+
                     throw new Exception("Other type of marine @");
                 }
 
@@ -421,6 +426,14 @@ namespace Liaison.BLL.Translators
                         return new Company(sqlUnit);
                     }
                 }
+
+	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
+	            {
+		            if (sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCommando)
+		            {
+			            return new Company(sqlUnit);
+		            }
+				}
             }
             else if (sqlUnit.RankSymbol == "^")
             {
