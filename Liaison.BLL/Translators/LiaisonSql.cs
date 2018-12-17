@@ -7,6 +7,7 @@ using System.Web.SessionState;
 using System.Web.UI.WebControls;
 using Liaison.BLL.Models;
 using Liaison.BLL.Models.Unit;
+using Liaison.BLL.Models.Unit.Interfaces;
 using Unit = Liaison.Data.Sql.Edmx.Unit;
 
 namespace Liaison.BLL.Translators

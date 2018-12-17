@@ -36,11 +36,12 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
   </ItemGroup>
@@ -58,27 +59,32 @@
     <Compile Include="Models\IBase.cs" />
     <Compile Include="Models\NewWing.cs" />
     <Compile Include="Models\UnitTypeVariant.cs" />
+    <Compile Include="Models\Objects\RelationshipTracker.cs" />
+    <Compile Include="Models\Unit\Interfaces\IVolunteerUnit.cs" />
     <Compile Include="Models\Unit\AirForceBase.cs" />
     <Compile Include="Models\Unit\AirGroup.cs" />
     <Compile Include="Models\Unit\AirSquadron.cs" />
     <Compile Include="Models\Unit\ArmySquadron.cs" />
-    <Compile Include="Models\Unit\AUnit.cs" />
+    <Compile Include="Models\Unit\Abstracts\AUnit.cs" />
     <Compile Include="Models\Unit\AdminCorps.cs" />
     <Compile Include="Models\Unit\Battalion.cs" />
     <Compile Include="Models\Unit\Brigade.cs" />
     <Compile Include="Models\Unit\Command.cs" />
     <Compile Include="Models\Unit\Company.cs" />
     <Compile Include="Models\Unit\Corps.cs" />
+    <Compile Include="Models\Unit\DefaultUnit.cs" />
     <Compile Include="Models\Unit\DetachmentBll.cs" />
     <Compile Include="Models\Unit\Division.cs" />
+    <Compile Include="Models\Unit\ExpeditionaryForce.cs" />
     <Compile Include="Models\Unit\Facility.cs" />
     <Compile Include="Models\Unit\FieldArmy.cs" />
-    <Compile Include="Models\Unit\FiveStar.cs" />
+    <Compile Include="Models\Unit\Abstracts\FiveStar.cs" />
     <Compile Include="Models\Unit\Flight.cs" />
     <Compile Include="Models\Unit\Flotilla.cs" />
-    <Compile Include="Models\Unit\FourStar.cs" />
+    <Compile Include="Models\Unit\Abstracts\FourStar.cs" />
     <Compile Include="Models\Equipment\IEquipment.cs" />
-    <Compile Include="Models\Unit\IUnit.cs" />
+    <Compile Include="Models\Objects\HCS.cs" />
+    <Compile Include="Models\Unit\Interfaces\IUnit.cs" />
     <Compile Include="Models\UnitRelationship.cs" />
     <Compile Include="Models\Unit\JointGroup.cs" />
     <Compile Include="Models\Unit\NamedFleet.cs" />
@@ -88,16 +94,17 @@
     <Compile Include="Models\Unit\NavalSquadronDivision.cs" />
     <Compile Include="Models\Unit\NumberedAirForce.cs" />
     <Compile Include="Models\Unit\NumberedFleet.cs" />
-    <Compile Include="Models\Unit\OneBar.cs" />
-    <Compile Include="Models\Unit\OneStar.cs" />
+    <Compile Include="Models\Unit\Abstracts\OneBar.cs" />
+    <Compile Include="Models\Unit\Abstracts\OneStar.cs" />
     <Compile Include="Models\Unit\Regiment.cs" />
     <Compile Include="Models\Unit\TacticalAirForce.cs" />
     <Compile Include="Models\Unit\TaskForceBll.cs" />
-    <Compile Include="Models\Unit\ThreeBar.cs" />
-    <Compile Include="Models\Unit\ThreeStar.cs" />
-    <Compile Include="Models\Unit\TwoBar.cs" />
-    <Compile Include="Models\Unit\TwoStar.cs" />
+    <Compile Include="Models\Unit\Abstracts\ThreeBar.cs" />
+    <Compile Include="Models\Unit\Abstracts\ThreeStar.cs" />
+    <Compile Include="Models\Unit\Abstracts\TwoBar.cs" />
+    <Compile Include="Models\Unit\Abstracts\TwoStar.cs" />
     <Compile Include="Models\Unit\Vessel.cs" />
+    <Compile Include="Models\Objects\VesselClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Translators\LiaisonSql.cs" />
   </ItemGroup>
@@ -111,5 +118,6 @@
       <Name>Liaison.Helper</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

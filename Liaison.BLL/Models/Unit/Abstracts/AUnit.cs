@@ -2,33 +2,16 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using System.Text;
-using System.Web.Hosting;
+using Liaison.BLL.Models.Objects;
+using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.BLL.Translators;
 using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 
-namespace Liaison.BLL.Models.Unit
+namespace Liaison.BLL.Models.Unit.Abstracts
 {
-    public class RelationshipTracker
-    {
-        public IUnit Unit;
-        public RelationshipType RelationshipType;
-
-        public RelationshipTracker(IUnit to, RelationshipType relType)
-        {
-            Unit = to;
-            RelationshipType = relType;
-        }
-    }
-
-    public interface  IVolunteerUnit
-    {
-         string GetTerritorialDesignation();
-
-    }
-    public abstract class AUnit
+	public abstract class AUnit
     {
         internal bool Decommissioned;
         internal int UnitId;
@@ -69,7 +52,7 @@ namespace Liaison.BLL.Models.Unit
         public IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type)
         {
             List<RelationshipTracker> list;
-
+			using (var entities2 = new LiaisonEntities())
 
             using (var entities = new LiaisonEntities())
             {

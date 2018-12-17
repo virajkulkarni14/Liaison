@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Liaison.BLL.Models.Unit;
+using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.BLL.Translators;
 using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;

@@ -1,27 +1,25 @@
-﻿using System;
+﻿using Liaison.BLL.Models.Unit.Interfaces;
 
-namespace Liaison.BLL.Models.Unit
+namespace Liaison.BLL.Models.Unit.Abstracts
 {
-    public abstract class FourStar : AUnit, IUnit
+    public abstract class OneStar : AUnit, IUnit
     {
+        public abstract string GetAdminCorps();
+        public bool UseOrdinal { get; set; }
         public abstract string GetName();
-
-        public string GetAdminCorps()
-        {
-            return "";
-        }
 
         public string PrintTree()
         {
-            return "printtree";
+            return AUnit.PrintAnyTree(this);
         }
 
         public abstract int GetRankLevel();
-        
+
         public string GetRankStar()
         {
             return RankStar;
         }
+
         public string GetIndexes()
         {
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Liaison.BLL.Models.Equipment;
 using Liaison.BLL.Models.Unit;
+using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.Data.Sql.Edmx;
 
 namespace Liaison.BLL.Models

@@ -1,64 +1,15 @@
 ﻿using System;
 using System.Linq;
 using System.Text;
+using Liaison.BLL.Models.Objects;
+using Liaison.BLL.Models.Unit.Abstracts;
+using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
-    public class HCS
-    {
-        public HCS(string hCS, int? hCSNumber)
-        {
-            this.Code = hCS;
-            if (hCSNumber.HasValue)
-            {
-                this.Number = hCSNumber.Value;
-            }
-        }
-
-        public string Code
-        {
-            get; set;
-        }
-
-        public int Number { get; set; }
-    }
-
-    public class VesselClass
-    {
-        public VesselClass(ShipClass shipClass, bool isLeadShip)
-        {
-            if (shipClass == null) return;
-
-            this.ClassName = shipClass.ClassName;
-            this.ClassCode = new HCS(shipClass.ClassCodeHCS, shipClass.ClassCodeNumber);
-            this.ModName = shipClass.ModName;
-            this.IsLeadShip = isLeadShip;
-        }
-
-        public bool IsLeadShip { get; set; }
-
-        public HCS ClassCode { get; set; }
-
-        public string ClassName { get; set; }
-        public string ModName { get; set; }
-
-        public string GetClassName()
-        {
-            StringBuilder sb=new StringBuilder();
-            if (this.IsLeadShip) { sb.Append("<u>"); }
-            sb.Append(this.ClassName);
-            sb.Append(" class");
-            if (this.IsLeadShip) { sb.Append("</u>"); }
-            if (!string.IsNullOrWhiteSpace(this.ModName)) { sb.Append(", " + this.ModName); }
-
-            return sb.ToString();
-        }
-    }
-
-
-    public class Vessel : AUnit, IUnit
+	public class Vessel : AUnit, IUnit
     {
         public string GetAdminCorps()
         {

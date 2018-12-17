@@ -1,7 +1,9 @@
 ﻿using System.Collections.Generic;
+using Liaison.BLL.Models.Objects;
+using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
-namespace Liaison.BLL.Models.Unit
+namespace Liaison.BLL.Models.Unit.Interfaces
 {
 
     public interface IUnit

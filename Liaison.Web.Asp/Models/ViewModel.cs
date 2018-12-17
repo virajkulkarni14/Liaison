@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using Liaison.BLL.Models.Unit;
+using Liaison.BLL.Models.Unit.Interfaces;
 
 namespace Liaison.Web.Asp.Models
 {

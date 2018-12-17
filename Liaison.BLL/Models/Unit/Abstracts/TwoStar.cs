@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Liaison.BLL.Models.Unit.Interfaces;
 
-namespace Liaison.BLL.Models.Unit
+namespace Liaison.BLL.Models.Unit.Abstracts
 {
-    public abstract class OneStar : AUnit, IUnit
+    public abstract class TwoStar : AUnit, IUnit
     {
-        public abstract string GetAdminCorps();
         public bool UseOrdinal { get; set; }
         public abstract string GetName();
+
+        public abstract string GetAdminCorps();
 
         public string PrintTree()
         {
@@ -19,7 +20,6 @@ namespace Liaison.BLL.Models.Unit
         {
             return RankStar;
         }
-
         public string GetIndexes()
         {
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);

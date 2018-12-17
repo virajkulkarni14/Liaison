@@ -2,6 +2,7 @@
 using System.Text;
 using Liaison.BLL.Models;
 using Liaison.BLL.Models.Unit;
+using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit

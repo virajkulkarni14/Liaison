@@ -1,8 +1,7 @@
 ﻿using Liaison.Data.Sql.Edmx;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Data.Entity;
+using System.Linq;
 
 namespace Liaison.Data.Sql
 {

@@ -1,6 +1,7 @@
 ﻿using System;
+using Liaison.BLL.Models.Unit.Interfaces;
 
-namespace Liaison.BLL.Models.Unit
+namespace Liaison.BLL.Models.Unit.Abstracts
 {
     public abstract class OneBar : AUnit, IUnit
     {

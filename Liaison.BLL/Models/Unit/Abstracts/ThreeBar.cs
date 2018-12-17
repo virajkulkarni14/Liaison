@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
+﻿using System.Collections.Generic;
 using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Unit.Interfaces;
 
-namespace Liaison.BLL.Models.Unit
+namespace Liaison.BLL.Models.Unit.Abstracts
 {
     public abstract class ThreeBar : AUnit, IUnit
     {

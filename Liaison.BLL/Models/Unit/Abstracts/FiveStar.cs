@@ -1,4 +1,6 @@
-﻿namespace Liaison.BLL.Models.Unit
+﻿using Liaison.BLL.Models.Unit.Interfaces;
+
+namespace Liaison.BLL.Models.Unit.Abstracts
 {
     public abstract class FiveStar : AUnit, IUnit
     {
