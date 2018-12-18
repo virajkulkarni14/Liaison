@@ -88,13 +88,21 @@ namespace Liaison.BLL.Translators
             {
                 return new Command(sqlUnit, cont); //, includeParent);
             }
-            if (sqlUnit.RankSymbol == "#")
-            {
-                return new Command(sqlUnit, cont); //, includeParent);
-            }
+
+	        if (sqlUnit.RankSymbol == "#")
+	        {
+		        try
+		        {
+			        return new Command(sqlUnit, cont); //, includeParent);
+		        }
+		        catch (Exception x)
+		        {
+			        string a = "b";
+		        }
+	        }
 
 
-            if (sqlUnit.RankSymbol == "$")
+	        if (sqlUnit.RankSymbol == "$")
             {
                 return new Command(sqlUnit, cont); //, includeParent);
             }
@@ -191,52 +199,58 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == ")")
             {
-                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
-                {
-                    if (sqlUnit.Number == null)
-                    {
-                        return new Command(sqlUnit, cont);
-                    }
+	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
+	            {
+		            if (sqlUnit.Number == null)
+		            {
+			            return new Command(sqlUnit, cont);
+		            }
 
-                    return new Division(sqlUnit); //, includeParent);
-                }
+		            return new Division(sqlUnit); //, includeParent);
+	            }
 
-                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
-                {
-                    if (sqlUnit.Number == null)
-                    {
-                        return new Command(sqlUnit, cont);
-                    }
-                }
+	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
+	            {
+		            if (sqlUnit.Number == null)
+		            {
+			            return new Command(sqlUnit, cont);
+		            }
+	            }
 
-                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
-                {
-                    if (sqlUnit.Number == null)
-                    {
-                        return new Command(sqlUnit, cont); //, includeParent);
-                    }
-                    else
-                    {
-                        return new NavalGroup(sqlUnit);
-                    }
-                }
+	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
+	            {
+		            if (sqlUnit.Number == null)
+		            {
+			            return new Command(sqlUnit, cont); //, includeParent);
+		            }
+		            else
+		            {
+			            return new NavalGroup(sqlUnit);
+		            }
+	            }
 
-                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
-                {
-                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
-                    {
-                        return new AirGroup(sqlUnit);
-                    }
-                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLandForces)
-                    {
-                        return new Division(sqlUnit);
-                    }
+	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
+	            {
+		            if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
+		            {
+			            return new AirGroup(sqlUnit);
+		            }
 
-                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
-                    {
-                        return new Division(sqlUnit);
-                    }
-                }
+		            if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLandForces)
+		            {
+			            return new Division(sqlUnit);
+		            }
+
+		            if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
+		            {
+			            return new Division(sqlUnit);
+		            }
+	            }
+
+	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
+	            {
+		            return new Command(sqlUnit, cont);
+	            }
             }
             else if (sqlUnit.RankSymbol == "*")
             {

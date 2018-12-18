@@ -11,6 +11,7 @@ namespace Liaison.BLL.Models.Unit
         public string UnitTypeVariant { get; set; }
         public string TerritorialDesignation { get; set; }
         public string UniqueName { get; set; }
+		public string CommandName { get; set; }
         public Battalion(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -20,6 +21,7 @@ namespace Liaison.BLL.Models.Unit
             this.UniqueName = sqlUnit.UniqueName;
             this.MissionName = sqlUnit.MissionName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
+	        this.CommandName = sqlUnit.CommandName;
             this.RankStar = sqlUnit.Rank.Rank1;
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
@@ -107,10 +109,14 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(" (" + this.UnitTypeVariant + ")");
             }
 
+	        if (!string.IsNullOrWhiteSpace(this.CommandName))
+	        {
+		        sb.Append(", " + this.CommandName);
+	        }
 
 
             sb.Append(ResourceStrings.Seperator +this.AdminCorps?.UnitDisplayName);
-            return sb.ToString();
+	        return sb.ToString().Replace("_", "");
         }
 
         public override string GetEquipment()

@@ -111,13 +111,16 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(" (" + this.UnitTypeVariant + ")");
                 }
 
-                if (!isRgt)
-                {
-                    if (!string.IsNullOrWhiteSpace(AdminCorps?.UnitDisplayName))
-                    {
-                        sb.Append(", " + this.AdminCorps.UnitDisplayName);
-                    }
-                }
+                //if (!isRgt)
+                //{
+	            if (this.RankSymbol == '@')
+	            {
+		            if (!string.IsNullOrWhiteSpace(AdminCorps?.UnitDisplayName))
+		            {
+			            sb.Append(", " + this.AdminCorps.UnitDisplayName);
+		            }
+	            }
+	            //}
 
                 isAcceptable = true;
             }
