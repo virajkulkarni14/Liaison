@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Languages\ILanguage.cs" />
+    <Compile Include="Languages\nl-be.cs" />
     <Compile Include="Models\BLLBase.cs" />
     <Compile Include="Models\BLLBases.cs" />
     <Compile Include="Models\BLLMission.cs" />

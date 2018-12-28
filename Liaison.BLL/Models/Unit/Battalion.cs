@@ -1,5 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
@@ -30,6 +32,7 @@ namespace Liaison.BLL.Models.Unit
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
+            this.Language = sqlUnit.Language;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -42,6 +45,8 @@ namespace Liaison.BLL.Models.Unit
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
+
+        
         public override string GetAdminCorps()
         {
             return this.AdminCorps.DisplayName;
@@ -49,6 +54,10 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetName()
         {
+            if (this.Language != null)
+            {
+                return this.GetNameNotEnglish();
+            }
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
 
@@ -74,12 +83,11 @@ namespace Liaison.BLL.Models.Unit
                     {
                         if (missions.Contains(this.MissionName))
                         {
-	                        
                             sb.Append(this.MissionName);
-	                        if (this.MissionName != "Commando")
-	                        {
+	                        //if (this.MissionName != "Commando")
+	                        //{
 		                        sb.Append(" ");
-	                        }
+	                        //}
 						}
                         else
                         {
@@ -114,9 +122,24 @@ namespace Liaison.BLL.Models.Unit
 		        sb.Append(", " + this.CommandName);
 	        }
 
-
             sb.Append(ResourceStrings.Seperator +this.AdminCorps?.UnitDisplayName);
 	        return sb.ToString().Replace("_", "");
+        }
+
+        private string GetNameNotEnglish()
+        {
+            Type type = Type.GetType("Liaison.BLL.Languages." + this.Language.Replace('-', '_'));
+
+            var instance = Activator.CreateInstance(type);
+            MethodInfo method = type.GetMethod("GetBattalionName");
+            if (method != null)
+            {
+                string a = method.Invoke(instance, new object[] {this}).ToString();
+
+                return a;
+            }
+
+            return "";
         }
 
         public override string GetEquipment()

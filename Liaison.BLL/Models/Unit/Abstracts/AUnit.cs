@@ -26,6 +26,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
         internal string MissionName;
         internal string SortIndex;
         internal bool CanHide;
+        internal string Language;
 
         internal List<BLLRelationship> Relationships;
 

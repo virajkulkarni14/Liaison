@@ -126,7 +126,7 @@ namespace Liaison.BLL.Models.Unit
 		        sb.Append(endstring);
 
 	        }
-	        return sb.ToString();
+	        return sb.ToString().Replace("  ", " ");
 		}
 
         public string CommandName { get; set; }

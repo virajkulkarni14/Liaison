@@ -18,6 +18,7 @@ namespace Liaison.Data.Sql.Edmx
         public int BaseId { get; set; }
         public int UnitId { get; set; }
         public bool IsHost { get; set; }
+        public string Notes { get; set; }
     
         public virtual Unit Unit { get; set; }
         public virtual Base Base { get; set; }

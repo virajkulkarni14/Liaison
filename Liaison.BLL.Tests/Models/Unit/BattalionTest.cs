@@ -9,6 +9,67 @@ namespace Liaison.BLL.Tests.Models.Unit
     public class BattalionTest
     {
         [TestMethod]
+        public void BattalionParaBelgiandutch()
+        {
+            var sql = new Liaison.Data.Sql.Edmx.Unit
+            {                          
+                UnitId = 5534,
+                Number = 1,
+                UseOrdinal = true,
+                NickName = null,
+                LegacyMissionName = null,
+                MissionName = "parachutisten",
+                UniqueName = null,
+                CommandName = null,
+                UnitTypeVariant = null,
+                ServiceIdx = 2,
+                ServiceTypeIdx = 1,
+                TerritorialDesignation = null,
+                UnitGuid = new Guid("70a377a7-6172-4c29-8a51-e8bead1d0cb4"),
+                RankSymbol = "@",
+                Rank = new Rank { Symbol = "@" },
+                AdminCorp = new AdminCorp { AdminCorpsId = 1192, UnitDisplayName = "Rgt. Para-Commando" },
+                CanHide = false,
+                Decommissioned = null,
+                Language = "nl-be"
+            };
+            var division = new Liaison.BLL.Models.Unit.Battalion(sql);
+
+            Assert.AreEqual("1ste bataljon parachutisten, Rgt. Para-Commando",
+                division.GetName());
+
+        }
+        [TestMethod]
+        public void BattalionSaka()
+        {
+            var sql = new Liaison.Data.Sql.Edmx.Unit
+            {                        
+                UnitId = 3371,
+                Number = 236,
+                UseOrdinal = true,
+                NickName = null,
+                LegacyMissionName = null,
+                MissionName = "Commando",
+                UniqueName = null,
+                CommandName = null,
+                UnitTypeVariant = null,
+                ServiceIdx = 2,
+                ServiceTypeIdx = 1,
+                TerritorialDesignation = null,
+                UnitGuid = new Guid("9549962c-1311-434c-a640-baf52fb12df6"),
+                RankSymbol = "@",
+                Rank = new Rank { Symbol = "@" },
+                AdminCorp = new AdminCorp { AdminCorpsId = 169, UnitDisplayName = "SAKA" },
+                CanHide = false,
+                Decommissioned = null
+            };
+            var division = new Liaison.BLL.Models.Unit.Battalion(sql);
+
+            Assert.AreEqual("236th Commando Bn., SAKA",
+                division.GetName());
+
+        }
+        [TestMethod]
         public void BattalionIntCorps()
         {
             var sql = new Liaison.Data.Sql.Edmx.Unit

@@ -50,6 +50,8 @@ namespace Liaison.BLL.Models
         {
             return new List<BLLBase>();
         }
+
+       
         public static string ToOrdinal(this int? input, bool useOrdinal)
         {
             if (input == null)
@@ -82,6 +84,8 @@ namespace Liaison.BLL.Models
                     return input + "th";
             }
         }
+
+
         public static string ToOrdinalAsWord(this int? input)
         {
             if (input == null)

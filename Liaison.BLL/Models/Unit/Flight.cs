@@ -10,11 +10,12 @@ namespace Liaison.BLL.Models.Unit
 {
     public class Flight : OneBar
     {
-        public new AdminCorps AdminCorps { get; set; }
-
+      //  public new AdminCorps AdminCorps { get; set; }
+        public string Letter { get; set; }
         public bool UseOrdinal { get; set; }
         public List<IEquipment> Equipment { get; set; }
         public string TerritorialDesignation { get; set; }
+        public string CommandName { get; set; }
 
         public Flight(Data.Sql.Edmx.Unit sqlUnit)
         {
@@ -29,7 +30,10 @@ namespace Liaison.BLL.Models.Unit
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
+            this.Letter = sqlUnit.Letter;
+            this.CommandName = sqlUnit.CommandName;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -37,12 +41,12 @@ namespace Liaison.BLL.Models.Unit
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
 
 
-            if (sqlUnit.AdminCorp != null)
-            {
-                this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
+        //    if (sqlUnit.AdminCorp != null)
+          //  {
+             //   this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
                 // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
                 // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
-            }
+           // }
             var relMain = sqlUnit.RelationshipsFrom.ToList();
             var relt = sqlUnit.RelationshipsTo.ToList();
 
@@ -58,10 +62,20 @@ namespace Liaison.BLL.Models.Unit
         public override string GetName()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("No. " + this.Number + " ");
-            if (this.ServiceType == ServiceTypeBLL.Volunteer)
+            if (string.IsNullOrWhiteSpace(this.MissionName))
             {
-                sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                if (this.Letter == null)
+                {
+                    sb.Append("No. " + this.Number + " ");
+                    if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                    {
+                        sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                    }
+                }
+                else
+                {
+                    sb.Append(this.Letter + " ");
+                }
             }
 
             if (!string.IsNullOrWhiteSpace(this.MissionName))
@@ -78,6 +92,11 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("Flt.");
             }
 
+            if (this.CommandName != null)
+            {
+                sb.Append(ResourceStrings.Seperator + this.CommandName);
+            }
+
             if (this.AdminCorps == null)
             {
                 using (var content = new LiaisonEntities())
@@ -89,19 +108,15 @@ namespace Liaison.BLL.Models.Unit
                     ;
                     if (sqlAdminCorps != null)
                     {
-                        this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
-                            sqlAdminCorps.AdminCorpsId);
+               //         this.AdminCorps = new BLLAdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+                 //           sqlAdminCorps.AdminCorpsId);
+                        this.AdminCorps = new BLLAdminCorps(sqlAdminCorps);
                     }
                 }
             }
 
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
-            {
-                sb.Append(ResourceStrings.Seperator + this.AdminCorps.Code);
-            }
-
-
-            return sb.ToString();
+            sb.Append(ResourceStrings.Seperator + this.AdminCorps?.UnitDisplayName);
+            return sb.ToString().Replace("_", "");
         }
 
 

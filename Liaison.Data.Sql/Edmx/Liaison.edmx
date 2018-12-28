@@ -48,7 +48,7 @@
           <Property Name="AltName" Type="nvarchar" MaxLength="255" />
           <Property Name="IATACode" Type="nvarchar" MaxLength="3" />
           <Property Name="ICAOCode" Type="nvarchar" MaxLength="4" />
-          <Property Name="FAACode" Type="nvarchar" MaxLength="3" />
+          <Property Name="FAACode" Type="nvarchar" MaxLength="5" />
           <Property Name="AFDCode" Type="nvarchar" MaxLength="4" />
           <Property Name="ParentBaseId" Type="int" />
           <Property Name="ShipId" Type="uniqueidentifier" />
@@ -238,6 +238,7 @@
           <Property Name="BaseId" Type="int" Nullable="false" />
           <Property Name="UnitId" Type="int" Nullable="false" />
           <Property Name="IsHost" Type="bit" Nullable="false" />
+          <Property Name="Notes" Type="nvarchar(max)" />
         </EntityType>
         <EntityType Name="Unit">
           <Key>
@@ -261,13 +262,14 @@
           <Property Name="AdminCorpsId" Type="int" />
           <Property Name="CanHide" Type="bit" Nullable="false" />
           <Property Name="Decommissioned" Type="bit" />
+          <Property Name="Language" Type="nvarchar" MaxLength="5" />
         </EntityType>
         <EntityType Name="UnitIndex">
           <Key>
             <PropertyRef Name="UnitIndexId" />
           </Key>
           <Property Name="UnitIndexId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-          <Property Name="IndexCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="IndexCode" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="UnitGuid" Type="uniqueidentifier" />
           <Property Name="UnitId" Type="int" Nullable="false" />
           <Property Name="IsSortIndex" Type="bit" Nullable="false" />
@@ -644,7 +646,7 @@
             <PropertyRef Name="UnitIndexId" />
           </Key>
           <Property Name="UnitIndexId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="IndexCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="IndexCode" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="UnitGuid" Type="Guid" />
           <Property Name="UnitId" Type="Int32" Nullable="false" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_UnitIndex_Unit" FromRole="UnitIndex" ToRole="Unit" />
@@ -842,6 +844,7 @@
           <Property Name="UnitTypeVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="Decommissioned" Type="Boolean" />
           <Property Name="Letter" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="Language" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -920,6 +923,7 @@
           <Property Name="IsHost" Type="Boolean" Nullable="false" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_Tennant_Unit" FromRole="Tennant" ToRole="Unit" />
           <NavigationProperty Name="Base" Relationship="LiaisonModel.FK_Tennant_Base" FromRole="Tennant" ToRole="Base" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Tennant_Unit">
           <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
@@ -945,7 +949,7 @@
           <Property Name="AltName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="IATACode" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
           <Property Name="ICAOCode" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
-          <Property Name="FAACode" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+          <Property Name="FAACode" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
           <Property Name="AFDCode" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
           <Property Name="ParentBaseId" Type="Int32" />
           <NavigationProperty Name="SubFacilities" Relationship="LiaisonModel.FK_Base_Base" FromRole="Base" ToRole="Base1" />
@@ -1423,6 +1427,7 @@
           <EntitySetMapping Name="Units">
             <EntityTypeMapping TypeName="LiaisonModel.Unit">
               <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="Language" ColumnName="Language" />
                 <ScalarProperty Name="Letter" ColumnName="Letter" />
                 <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
                 <ScalarProperty Name="UnitTypeVariant" ColumnName="UnitTypeVariant" />
@@ -1465,6 +1470,7 @@
           <EntitySetMapping Name="Tennants">
             <EntityTypeMapping TypeName="LiaisonModel.Tennant">
               <MappingFragment StoreEntitySet="Tennant">
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="IsHost" ColumnName="IsHost" />
                 <ScalarProperty Name="UnitId" ColumnName="UnitId" />
                 <ScalarProperty Name="BaseId" ColumnName="BaseId" />
