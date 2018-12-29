@@ -5,6 +5,7 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Languages
 {
+    // ReSharper disable once InconsistentNaming
     public class fr_be : ILanguage
     {
         public string GetBattalionName(Battalion battalion)
@@ -24,6 +25,7 @@ namespace Liaison.BLL.Languages
             sb.Append("bataillon");
 
             #region cmt
+
             // List<string> missions = new List<string>() {"Civil Affairs", "Psychological Operations", "Commando"};
             // if (string.IsNullOrWhiteSpace(battalion.UniqueName))
             //{
@@ -59,6 +61,7 @@ namespace Liaison.BLL.Languages
 
             //    sb.Append(battalion.MissionName + " ");
             //}
+
             #endregion cmt
 
             sb.Append(" " + battalion.MissionName);
@@ -83,7 +86,7 @@ namespace Liaison.BLL.Languages
             if (input <= 0) return input.ToString();
 
 
-            if (input.Value == 1 )
+            if (input.Value == 1)
             {
                 return input + "er";
             }

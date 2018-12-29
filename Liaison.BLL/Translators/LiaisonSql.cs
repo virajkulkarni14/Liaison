@@ -37,6 +37,8 @@ namespace Liaison.BLL.Translators
                 HttpContext.Current.Session["ArmySquadronCorps"] =
                     Data.Sql.GetStuff.GetConfigSetting("ArmySquadronCorps");
                 HttpContext.Current.Session["CompanyCorps"] = Data.Sql.GetStuff.GetConfigSetting("CompanyCorps");
+                HttpContext.Current.Session["JointGroupMissions"] =
+                    Data.Sql.GetStuff.GetJointGroupMissionNames();
                 if (Int32.TryParse(input, out int iInput))
                 {
 
@@ -64,6 +66,7 @@ namespace Liaison.BLL.Translators
             List<int> regimentCorps = HttpContext.Current.Session["RegimentCorps"] as List<int>;
             List<int> armysquadronCorps = HttpContext.Current.Session["ArmySquadronCorps"] as List<int>;
             List<int> companyCorps =            HttpContext.Current.Session["CompanyCorps"] as List<int>;
+            
 
             var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
             if (_depthRequired == null)
@@ -91,14 +94,14 @@ namespace Liaison.BLL.Translators
 
 	        if (sqlUnit.RankSymbol == "#")
 	        {
-		        try
-		        {
+		        //try
+		        //{
 			        return new Command(sqlUnit, cont); //, includeParent);
-		        }
-		        catch (Exception x)
-		        {
-			        string a = "b";
-		        }
+		        //}
+		        //catch (Exception x)
+		        //{
+			       // string a = "b";
+		        //}
 	        }
 
 
@@ -284,13 +287,14 @@ namespace Liaison.BLL.Translators
             }
             else if (sqlUnit.RankSymbol == "/")
             {
+                List<string> jointGroupMissions = HttpContext.Current.Session["JointGroupMissions"] as List<string>;
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
                     return new JointGroup(sqlUnit);
                 }
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
                 {
-                    if (sqlUnit.MissionName == "Psychological Operations")
+                    if (jointGroupMissions!=null && jointGroupMissions.Contains(sqlUnit.MissionName))
                     {
                         return new JointGroup(sqlUnit);
                     }
