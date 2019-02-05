@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Web;
 using Liaison.BLL.Models.Equipment;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.BLL.Models.Unit.Interfaces;
@@ -20,12 +21,17 @@ namespace Liaison.BLL.Models.Unit
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
         public string TerritorialDesignation { get; set; }
+        private int ThreeBarTab = 10;
         private int OneBarTab = 12;
         private int ThreeBlobTab = 13;
+        private string ThreeBar = "|||";
         private string OneBar = "|";
         private string ThreeBlob = "•••";
+
         public DetachmentBll(Data.Sql.Edmx.Unit sqlUnit)
         {
+            List<int> threeBarDetachments = HttpContext.Current.Session["Detachment|||UnitIds"] as List<int>;
+            List<int> oneBarDetachments = HttpContext.Current.Session["Detachment|UnitIds"] as List<int>;
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.Number = sqlUnit.Number;
@@ -48,18 +54,34 @@ namespace Liaison.BLL.Models.Unit
                 this.RankLevel = OneBarTab;
                 this.RankStar = OneBar;
             }
+            //else if (this.CommandName.StartsWith("Special Forces Operational Detachment"))
+            else if (threeBarDetachments != null && threeBarDetachments.Contains(this.UnitId))
+            {
+                this.RankLevel = ThreeBarTab;
+                this.RankStar = ThreeBar;
+            }
+            else if (oneBarDetachments != null && oneBarDetachments.Contains(this.UnitId))
+            {
+                this.RankLevel = OneBarTab;
+                this.RankStar = OneBar;
+            }
+            else if (this.CommandName.StartsWith("NSWBS")|| this.CommandName.StartsWith("NAVSPECWAR"))
+            {
+                this.RankLevel = OneBarTab;
+                this.RankStar = OneBar;
+            }
             else if (this.CommandName.StartsWith("Det") && (this.CommandName.EndsWith("NAS")))
             {
                 this.RankLevel = 10;
                 this.RankStar = OneBar;
             }
             else if (this.CommandName.StartsWith("HHD"))
-            {                
+            {
                 this.RankLevel = ThreeBlobTab;
                 this.RankStar = ThreeBlob;
             }
-            else if (this.CommandName.Contains("Coy.")  &&
-                     this.CommandName.Contains("Rgt."))//&& this.CommandName.Contains("Bn.")
+            else if (this.CommandName.Contains("Coy.") &&
+                     this.CommandName.Contains("Rgt.")) //&& this.CommandName.Contains("Bn.")
             {
                 this.RankLevel = ThreeBlobTab;
                 this.RankStar = ThreeBlob;
@@ -79,17 +101,19 @@ namespace Liaison.BLL.Models.Unit
                 this.RankLevel = sqlUnit.Rank.RankLevel;
                 this.RankStar = sqlUnit.Rank.Rank1;
             }
+
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
 
-            this.Service = (ServicesBll)sqlUnit.ServiceIdx;
-            this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
+            this.Service = (ServicesBll) sqlUnit.ServiceIdx;
+            this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
-            this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
+            this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex)
+                .Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
 
 
@@ -100,6 +124,7 @@ namespace Liaison.BLL.Models.Unit
                 // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
                 // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
             }
+
             var relMain = sqlUnit.RelationshipsFrom.ToList();
             var relt = sqlUnit.RelationshipsTo.ToList();
 
@@ -150,8 +175,14 @@ namespace Liaison.BLL.Models.Unit
                         sb.Append("(V) (" + this.TerritorialDesignation + ") ");
                     }
                     sb.Append(missionname+" ");
-                    sb.Append(ResourceStrings.Det + ", ");
-
+                    if (!missionname.EndsWith("Unit") 
+                        && !missionname.EndsWith("Element")
+                        && !missionname.EndsWith("Activity") 
+                        && !missionname.EndsWith("Unit - JSOC")
+                        )
+                    {
+                        sb.Append(ResourceStrings.Det + ", ");
+                    }
                 }
 
                 if (!string.IsNullOrWhiteSpace(this.CommandName))
@@ -159,13 +190,26 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(this.CommandName + ", ");
                 }
                 sb.Append(this.AdminCorps.UnitDisplayName);
-                return sb.ToString().Replace("_", ""); ;
+                var returnable = sb.ToString().Replace("_", "");
+                if (returnable.EndsWith(" "))
+                {
+                    returnable = returnable.Substring(0, returnable.Length - 1);
+                }
+
+                return returnable;
             }
             else
             {
                 if (this.Number != null)
                 {
-                    sb.Append(ResourceStrings.Det + " " + this.Number);
+                    if (this.CommandName.Contains("Special Forces Operational Detachment"))
+                    {
+                        return (this.Number.ToOrdinal(this.UseOrdinal) + " " + this.CommandName).Replace("_", "");
+                    }
+                    else
+                    {
+                        sb.Append(ResourceStrings.Det + " " + this.Number);
+                    }
                 }
                 else if (this.Letter != null)
                 {
@@ -176,8 +220,11 @@ namespace Liaison.BLL.Models.Unit
                 {
                     sb.Append(" (V) (" + this.TerritorialDesignation + ")");
                 }
-
-                sb.Append(", ");
+                if (!string.IsNullOrWhiteSpace(sb.ToString()))
+                {
+                    sb.Append(", ");
+                }
+                
 
                 if (this.CommandName != null)
                 {
@@ -204,6 +251,11 @@ namespace Liaison.BLL.Models.Unit
 
         public int GetRankLevel()
         {
+            if (RankLevel == null)
+            {
+                var x = this.CommandName;
+                string a = "b";
+            }
             if (this.MissionName == ResourceStrings.HQHQ)
             {
                 return OneBarTab;
@@ -213,6 +265,11 @@ namespace Liaison.BLL.Models.Unit
             {
                 return ThreeBlobTab;
             }
+            else if (string.IsNullOrWhiteSpace(this.CommandName))
+            {
+                return RankLevel.Value;
+            }
+
             if (this.CommandName.Contains("NAS"))
             {
                 return 10;
@@ -223,7 +280,6 @@ namespace Liaison.BLL.Models.Unit
         public string GetRankStar()
         {
             return RankStar;
-
         }
 
         public string GetIndexes()

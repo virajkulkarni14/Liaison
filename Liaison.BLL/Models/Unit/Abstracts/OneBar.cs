@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using Liaison.BLL.Models.Equipment;
 using Liaison.BLL.Models.Unit.Interfaces;
 
 namespace Liaison.BLL.Models.Unit.Abstracts
 {
     public abstract class OneBar : AUnit, IUnit
     {
+        public List<IEquipment> Equipment { get; set; }
+
         public abstract string GetAdminCorps();
         public bool IsDecommissioned()
         {

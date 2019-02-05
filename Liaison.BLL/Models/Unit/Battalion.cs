@@ -70,7 +70,13 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("(V) (" + this.TerritorialDesignation + ") ");
             }
 
-            List<string> missions = new List<string>() {"Civil Affairs", "Psychological Operations", "Commando"};
+            List<string> missions = new List<string>()
+            {
+                "Aviation Maintenance",
+                "Civil Affairs",
+                "Commando",
+                "Psychological Operations"
+            };
             if (string.IsNullOrWhiteSpace(this.UniqueName))
             {
                 if (!string.IsNullOrWhiteSpace(this.MissionName))

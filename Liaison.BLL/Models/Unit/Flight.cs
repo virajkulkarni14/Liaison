@@ -3,6 +3,7 @@ using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
 using Liaison.BLL.Models.Unit.Abstracts;
+using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 

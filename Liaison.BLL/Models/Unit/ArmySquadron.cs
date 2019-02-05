@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Text;
+using Liaison.BLL.Models.Equipment;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
@@ -22,6 +23,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
 	        this.CommandName = sqlUnit.CommandName;
@@ -135,7 +137,28 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetEquipment()
         {
-            return "";
+            bool showAltName = true;
+
+            StringBuilder sb = new StringBuilder();
+            foreach (var thing in this.Equipment)
+            {
+                if (thing.GetType() == typeof(BLLAircraft))
+                {
+                    if (thing is BLLAircraft airc)
+                    {
+                        sb.Append(airc.PAA + " " + airc.Name + " " + airc.Mark);
+                        if (showAltName)
+                        {
+                            sb.Append(" [" + airc.AltCode + " " + airc.AltName + "]");
+                        }
+                    }
+                }
+
+                sb.Append(ResourceStrings.Seperator);
+            }
+
+            var x = sb.ToString();
+            return (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", "");
         }
     }
 }

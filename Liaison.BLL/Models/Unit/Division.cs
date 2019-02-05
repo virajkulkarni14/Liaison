@@ -70,16 +70,7 @@ namespace Liaison.BLL.Models.Unit
             StringBuilder sb = new StringBuilder();
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal)+" ");
 
-            if (!string.IsNullOrWhiteSpace(this.LegacyMissionName))
-            {
-                sb.Append(this.LegacyMissionName + " ");
-                sb.Append(unitname);
-                if (!string.IsNullOrWhiteSpace(this.MissionName))
-                {
-                    sb.Append(" (" + this.MissionName + ") ");
-                }
-            }
-            else
+            if (string.IsNullOrWhiteSpace(this.LegacyMissionName))
             {
                 if (this.ServiceType == ServiceTypeBLL.Reserve)
                 {
@@ -95,10 +86,10 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append("(" + this.TerritorialDesignation + ") ");
                 }
 
-                if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
-                {
-                    sb.Append("(" + this.UnitTypeVariant + ") ");
-                }
+                //if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+                //{
+                //    sb.Append("(" + this.UnitTypeVariant + ") ");
+                //}
 
                 if (!string.IsNullOrWhiteSpace(this.MissionName))
                 {
@@ -115,6 +106,15 @@ namespace Liaison.BLL.Models.Unit
                 if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
                 {
                     sb.Append(" (" + this.UnitTypeVariant + ")");
+                }
+            }
+            else
+            {
+                sb.Append(this.LegacyMissionName + " ");
+                sb.Append(unitname);
+                if (!string.IsNullOrWhiteSpace(this.MissionName))
+                {
+                    sb.Append(" (" + this.MissionName + ") ");
                 }
             }
 

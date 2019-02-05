@@ -149,8 +149,19 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(this.CommandName + ", ");
                 }
 
-                sb.Append(this.AdminCorps.UnitDisplayName);
-                return sb.ToString();
+                if (!string.IsNullOrWhiteSpace(this.AdminCorps.UnitDisplayName))
+                {
+                    sb.Append(this.AdminCorps.UnitDisplayName);
+                }
+
+                var returnable = sb.ToString();
+                if (returnable.EndsWith(", "))
+                {
+                    returnable = returnable.Substring(0, returnable.Length - 2);
+                }
+                
+
+                return returnable;
             }
             //else
             //{

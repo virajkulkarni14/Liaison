@@ -8,7 +8,7 @@ using Liaison.BLL.Models.Unit.Interfaces;
 
 namespace Liaison.BLL.Models.Unit
 {
-	public class Command : AUnit, IUnit
+    public class Command : AUnit, IUnit
     {
         public string GetAdminCorps()
         {
