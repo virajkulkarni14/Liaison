@@ -87,7 +87,9 @@ namespace Liaison.Helper.Enumerators
         //G/LAND/CA/AVN
         ArmyAirCorps= 1195,
         ArmyAirCorpsBn=1196,
-        
+        //G/LAND/CA/SF/SAS
+        SpecialAirService=1201,
+
     }
 
 

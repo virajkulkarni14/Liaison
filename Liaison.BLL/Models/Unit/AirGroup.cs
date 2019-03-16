@@ -8,7 +8,7 @@ namespace Liaison.BLL.Models.Unit
 {
     public class AirGroup : TwoStar
     {
-        public new AdminCorps AdminCorps { get; set; }
+        
         public string UnitTypeVariant { get; set; }
         public string CommandName { get; set; }
         public AirGroup(Data.Sql.Edmx.Unit sqlUnit)
@@ -26,20 +26,20 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.CanHide = sqlUnit.CanHide;
-
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex)
                 .Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);          
 
-            if (sqlUnit.AdminCorp != null)
-            {
+            //if (sqlUnit.AdminCorp != null)
+            //{
                 // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
                 // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;
                 //this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
-                this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
-            }
+                //this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
+            //}
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
             var relt = sqlUnit.RelationshipsTo.ToList();
@@ -95,20 +95,20 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.UnitTypeVariant);
             }
 
-            if (this.AdminCorps == null)
-            {
-                using (var content = new LiaisonEntities())
-                {
-                    var thisThing = content.Units.First(u => u.UnitId == this.UnitId);
+            //if (this.AdminCorps == null)
+            //{
+            //    using (var content = new LiaisonEntities())
+            //    {
+            //        var thisThing = content.Units.First(u => u.UnitId == this.UnitId);
 
-                    var sqlAdminCorps = content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId); ;
-                    if (sqlAdminCorps != null)
-                    {
-                        this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
-                            sqlAdminCorps.AdminCorpsId);
-                    }
-                }
-            }
+            //        var sqlAdminCorps = content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId); ;
+            //        if (sqlAdminCorps != null)
+            //        {
+            //            this.AdminCorps = new AdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+            //                sqlAdminCorps.AdminCorpsId);
+            //        }
+            //    }
+            //}
 
             if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
@@ -120,7 +120,7 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.UnitDisplayName;
         }
 
         public override int GetRankLevel()

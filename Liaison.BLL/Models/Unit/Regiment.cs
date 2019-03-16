@@ -41,7 +41,7 @@ namespace Liaison.BLL.Models.Unit
 
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
-            string a = "b";
+            //string a = "b";
 
         }
 
@@ -72,7 +72,8 @@ namespace Liaison.BLL.Models.Unit
             StringBuilder sb = new StringBuilder();
             bool isAcceptable = false;
             if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
-                || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery)
+                || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery
+                ||this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.SpecialAirService)
             {
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
                 sb.Append(this.UniqueName);
@@ -96,15 +97,15 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append("(" + this.LegacyMissionName + ") ");
                 }
                 sb.Append(this.MissionName + " ");
-                bool isRgt;
+                //bool isRgt;
                 if (this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.EngineerInChief)
                 {
                     sb.Append("Group");
-                    isRgt = false;
+                    //isRgt = false;
                 }
                 else
                 {
-                    isRgt = true;
+                    //isRgt = true;
                     sb.Append("Rgt.");
                 }
 

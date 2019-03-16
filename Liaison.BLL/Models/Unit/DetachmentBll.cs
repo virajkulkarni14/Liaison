@@ -254,7 +254,7 @@ namespace Liaison.BLL.Models.Unit
             if (RankLevel == null)
             {
                 var x = this.CommandName;
-                string a = "b";
+                //string a = "b";
             }
             if (this.MissionName == ResourceStrings.HQHQ)
             {

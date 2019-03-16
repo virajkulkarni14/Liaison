@@ -116,7 +116,23 @@ namespace Liaison.BLL.Models
                 if (input == 16) return "Sixteenth";
                 if (input == 17) return "Seventeenth";
                 if (input == 18) return "Eighteenth";
+                if (input == 19) return "Nineteenth";
             }
+            else
+            {
+                if (input < 30)
+                {
+                    var x = input - 20;
+                    if (x == 0)
+                    {
+                        return "Twentieth";
+                    }
+                    return "Twenty-" + x.ToOrdinalAsWord();
+                }
+            }
+            
+
+
 
             throw new Exception("Number not done: "+input);
         }

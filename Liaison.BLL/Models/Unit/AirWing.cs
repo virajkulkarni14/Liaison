@@ -9,8 +9,9 @@ namespace Liaison.BLL.Models.Unit
 {
     public class AirWing : ThreeBar
     {
-        public new AdminCorps AdminCorps { get; set; }
+        //public new AdminCorps AdminCorps { get; set; }
         public string UnitTypeVariant { get; set; }
+        public string TerritorialDesignation { get; set; }
         public AirWing(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -27,7 +28,8 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.CanHide = sqlUnit.CanHide;
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
-            
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
+
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex)
@@ -37,7 +39,8 @@ namespace Liaison.BLL.Models.Unit
 
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
+                // this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             }
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();
@@ -51,7 +54,7 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
 
         public override string GetName()
@@ -66,10 +69,19 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("No. " + this.Number + " ");
             }
 
+            if (this.ServiceType == ServiceTypeBLL.Reserve)
+            {
+                sb.Append("(R) ");
+            }
+            else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+            {
+                sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+            }
+
             //sb.Append("Naval ");
             if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
-                if (this.AdminCorps.Id == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm)
+                if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm)
                 {
                     sb.Append("Marine ");
                 }
@@ -100,7 +112,7 @@ namespace Liaison.BLL.Models.Unit
 
             if (string.IsNullOrWhiteSpace(this.UnitTypeVariant))
             {
-                if (string.IsNullOrWhiteSpace(this.CommandName))
+                if (string.IsNullOrWhiteSpace(this.UnitTypeVariant))
                 {
                     sb.Append("Wing");
                 }
@@ -110,14 +122,14 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.UnitTypeVariant);
             }
 
-            if (this.AdminCorps == null)
-            {
-                this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
-            }
+            //if (this.AdminCorps == null)
+            //{
+            //    this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
+            //}
 
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
+            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.UnitDisplayName))
             {
-                sb.Append(ResourceStrings.Seperator + this.AdminCorps.Code);
+                sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
             }
 
             return sb.ToString();

@@ -28,7 +28,7 @@ namespace Liaison.BLL.Models.Unit
             var relt = sqlUnit.RelationshipsTo.ToList();
             relMain.AddRange(relt);
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
-            string a = "b";
+            //string a = "b";
         }
 
         public string GetName()

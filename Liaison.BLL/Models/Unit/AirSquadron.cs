@@ -22,7 +22,8 @@ namespace Liaison.BLL.Models.Unit
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.Number = sqlUnit.Number;           
-            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;            
+            this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
+            this.NickName = sqlUnit.NickName;
             this.MissionName = sqlUnit.MissionName;
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.RankLevel = sqlUnit.Rank.RankLevel;
@@ -33,6 +34,7 @@ namespace Liaison.BLL.Models.Unit
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
 	        this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
 
 			this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -53,7 +55,10 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
 
         }
-	    public override string GetAdminCorps()
+
+        public string UnitTypeVariant { get; set; }
+
+        public override string GetAdminCorps()
 	    {
 		    return this.AdminCorps.DisplayName;
 	    }
@@ -65,42 +70,67 @@ namespace Liaison.BLL.Models.Unit
             //}
 
             StringBuilder sb = new StringBuilder();
-	        if (this.Service == ServicesBll.AirForce  && this.UseOrdinal)
-	        {
-		        sb.Append("No. "+this.Number.ToRomanNumerals() + " ");
-	        }
-	        else
-	        {
-		        sb.Append("No. " + this.Number + " ");
-	        }
-
-	        if (this.ServiceType == ServiceTypeBLL.Volunteer)
-            {
-                sb.Append("(V) ("+this.TerritorialDesignation+") " );
-            }
-            if (!string.IsNullOrWhiteSpace(this.MissionName))
+            if (this.Number == null)
             {
                 sb.Append(this.MissionName + " ");
-            }
-
-	       
-            if (this.Service == ServicesBll.Navy)
-            {
-                sb.Append("Naval Air Sqn.");
-            }
-            else if (this.Service == ServicesBll.Marines)
-            {
-                sb.Append("Marine Air Sqn.");
+                sb.Append(" Squadron");
             }
             else
-            { 
-                sb.Append(this.AdminCorps?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RAFTraining     ? "Unit" : "Sqn.");//35
-			}
-
-            if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
             {
-                sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
-            }           
+                if (this.Service == ServicesBll.AirForce && this.UseOrdinal)
+                {
+                    sb.Append("No. " + this.Number.ToRomanNumerals() + " ");
+                }
+                else
+                {
+                    sb.Append("No. " + this.Number + " ");
+                }
+
+                if (this.ServiceType == ServiceTypeBLL.Reserve)
+                {
+                    sb.Append("(R) ");
+                }
+                else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                }
+
+                if (!string.IsNullOrWhiteSpace(this.NickName))
+                {
+                    sb.Append(" (" + this.NickName + ") ");
+                }
+
+                if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+                {
+                    sb.Append(" (" + this.UnitTypeVariant + ") ");
+                }
+
+                if (!string.IsNullOrWhiteSpace(this.MissionName))
+                {
+                    sb.Append(this.MissionName + " ");
+                }
+
+
+                if (this.Service == ServicesBll.Navy)
+                {
+                    sb.Append("Naval Air Sqn.");
+                }
+                else if (this.Service == ServicesBll.Marines)
+                {
+                    sb.Append("Marine Air Sqn.");
+                }
+                else
+                {
+                    sb.Append(this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RAFTraining
+                        ? "Unit"
+                        : "Sqn."); //35
+                }
+
+                if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
+                {
+                    sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
+                }
+            }
 
             return sb.ToString();
         }        

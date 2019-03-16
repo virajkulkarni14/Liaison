@@ -20,7 +20,7 @@ namespace Liaison.BLL.Models.Unit
         public string TerritorialDesignation { get; set; }
 
         private int OneBarTab = 12;
-        private string OneBar = "|";
+        //private string OneBar = "|";
 
 
         public JointUnit(Data.Sql.Edmx.Unit sqlUnit)

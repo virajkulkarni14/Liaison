@@ -47,7 +47,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
 
         //public string GetAdminCorps()
         //{
-        //    return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+        //    return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         //}
 
         public IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type)

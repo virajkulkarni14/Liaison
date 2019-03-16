@@ -35,9 +35,17 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetName()
         {
+            if (this.Number == null)
+            {
+                return this.MissionName;
+            }
             StringBuilder sb = new StringBuilder();
-            sb.Append(this.Number.ToOrdinal(true) + " ");
+            sb.Append(this.Number.ToOrdinalAsWord() + " ");
             sb.Append("Air Force");
+            if (!string.IsNullOrWhiteSpace(this.MissionName))
+            {
+                sb.Append(" / " + this.MissionName);
+            }
 
             return sb.ToString();
         }

@@ -1,0 +1,104 @@
+declare @number int
+declare @spacer nvarchar
+
+set @number = 27
+set @spacer = '___'
+
+declare @cpts int
+declare @oss int
+
+declare @amxs int 
+declare @mos int 
+declare @mxs int
+declare @emxs int
+declare @ces int
+declare @coms int
+declare @cons int
+declare @fss int
+declare @lrs int
+declare @sfs int
+declare @amds int
+declare @mdos int
+declare @mdss int
+
+set @cpts = 5817
+set @oss =5833
+set @amxs = 5821
+set @mos = 5823
+set @mxs = 5824
+set @emxs = 5825
+set @ces =5831
+set @coms = 5830
+set @cons = 5829
+set @fss = 5828
+set @lrs = 5827
+set @sfs =5826
+set @amds =5821
+set @mdos =5820
+set @mdss = 5818
+
+insert into unitindex (IndexCode, UnitId, IsSortIndex, IsDisplayIndex, IsAlt, IsPlaceholder, DisplayOrder)
+values 
+ 
+ (Concat('AIR@CPT',@spacer,@number), @cpts, 0,1,1,0, 50)
+  , (Concat('AIR@OS',@spacer,@number), @oss, 0,1,1,0, 50)
+, (Concat('AIR@AMX',@spacer,@number), @amxs, 0,1,1,0, 50)
+--, (Concat('AIR@MO',@spacer,@number), @mos, 0,1,1,0, 50)
+--, (Concat('AIR@MX',@spacer,@number), @mxs, 0,1,1,0, 50)
+--, (Concat('AIR@EMX',@spacer,@number), @emxs, 0,1,1,0, 50)
+--, (Concat('AIR@CE',@spacer,@number), @ces, 0,1,1,0, 50)
+--, (Concat('AIR@COM',@spacer,@number), @coms, 0,1,1,0, 50)
+--, (Concat('AIR@CON',@spacer,@number), @cons, 0,1,1,0, 50)
+--, (Concat('AIR@FSS',@spacer,@number), @fss, 0,1,1,0, 50)
+--, (Concat('AIR@LR',@spacer,@number), @lrs, 0,1,1,0, 50)
+--, (Concat('AIR@SF',@spacer,@number), @sfs, 0,1,1,0, 50)
+--, (Concat('AIR@AMD',@spacer,@number), @amds, 0,1,1,0, 50)
+--, (Concat('AIR@MDO',@spacer,@number), @mdos, 0,1,1,0, 50)
+--, (Concat('AIR@MDS',@spacer,@number), @mdss, 0,1,1,0, 50)
+ 
+  
+ , (Concat(@spacer,@number, ' (SO) CPTS/RAF'), @cpts, 0,1,1,0, 30)
+  , (Concat(@spacer,@number, ' SOSS/RAF'), @oss, 0,1,1,0, 30)
+--, (Concat(@spacer,@number, ' (SO) AMXS/RAF'), @amxs, 0,1,1,0, 30)
+--, (Concat(@spacer,@number, ' (SO) MOS/RAF'), @mos, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) MXS/RAF'), @mxs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) CES/RAF'), @ces, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) COMS/RAF'), @coms, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) CONS/RAF'), @cons, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) FSS/RAF'), @fss, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) LRS/RAF'), @lrs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) SFS/RAF'), @sfs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) AMDS/RAF'), @amds, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) MDOS/RAF'), @mdos, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) MDSS/RAF'), @mdss, 0,1,1,0, 30)
+
+
+,  (Concat(@spacer,@number, ' (SO) Cpt. Sqn., RAF'), @cpts, 0,1,1,0, 30)
+  , (Concat(@spacer,@number, ' Spec. Ops. Supt. Sqn., RAF'), @oss, 0,1,1,0, 30)
+--, (Concat(@spacer,@number, ' (SO) Airc. Maint. Sqn., RAF'), @amxs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Maint. Ops. Sqn., RAF'), @mos, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Maint. Sqn., RAF'), @mxs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Civ. Eng. Sqn., RAF'), @ces, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Coms. Sqn., RAF'), @coms, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Cons. Sqn., RAF'), @cons, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Force Supt. Sqn., RAF'), @fss, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Log. Rdns. Sqn., RAF'), @lrs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Sec. For. Sqn., RAF'), @sfs, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Aero. Med. Sqn., RAF'), @amds, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Med. Ops. Sqn., RAF'), @mdos, 0,1,1,0, 30)
+, (Concat(@spacer,@number, ' (SO) Med. Supt. Sqn., RAF'), @mdss, 0,1,1,0, 30)
+
+ , (Concat('~USAF SOCPTS',@spacer,@number), @cpts, 0,1,1,0, 50)
+  , (Concat('~USAF SOSS',@spacer,@number), @oss, 0,1,1,0, 50)
+, (Concat('~USAF SOAMXS',@spacer,@number), @amxs, 0,1,1,0, 50)
+, (Concat('~USAF SOMOS',@spacer,@number), @mos, 0,1,1,0, 50)
+, (Concat('~USAF MXS',@spacer,@number), @mxs, 0,1,1,0, 50)
+, (Concat('~USAF SOCES',@spacer,@number), @ces, 0,1,1,0, 50)
+, (Concat('~USAF SOCOMS',@spacer,@number), @coms, 0,1,1,0, 50)
+, (Concat('~USAF SOCONS',@spacer,@number), @cons, 0,1,1,0, 50)
+, (Concat('~USAF SOFSS',@spacer,@number), @fss, 0,1,1,0, 50)
+, (Concat('~USAF SOLRS',@spacer,@number), @lrs, 0,1,1,0, 50)
+, (Concat('~USAF SOSFS',@spacer,@number), @sfs, 0,1,1,0, 50)
+, (Concat('~USAF SOAMDS',@spacer,@number), @amds, 0,1,1,0, 50)
+, (Concat('~USAF SOMDOS',@spacer,@number), @mdos, 0,1,1,0, 50)
+, (Concat('~USAF SOMDSS',@spacer,@number), @mdss, 0,1,1,0, 50)

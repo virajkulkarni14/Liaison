@@ -43,6 +43,9 @@ namespace Liaison.BLL.Translators
                     Data.Sql.GetStuff.GetConfigSetting("Detachment|||UnitIds");
                 HttpContext.Current.Session["Detachment|UnitIds"] =
                     Data.Sql.GetStuff.GetConfigSetting("Detachment|UnitIds");
+                HttpContext.Current.Session["BrigadeCommandsUnitIds"] =
+                    Data.Sql.GetStuff.GetConfigSetting("BrigadeCommandsUnitIds");
+
                 if (Int32.TryParse(input, out int iInput))
                 {
 
@@ -70,7 +73,8 @@ namespace Liaison.BLL.Translators
             List<int> regimentCorps = HttpContext.Current.Session["RegimentCorps"] as List<int>;
             List<int> armysquadronCorps = HttpContext.Current.Session["ArmySquadronCorps"] as List<int>;
             List<int> companyCorps =            HttpContext.Current.Session["CompanyCorps"] as List<int>;
-            
+            List<int> brigadeCmds = HttpContext.Current.Session["BrigadeCommandsUnitIds"] as List<int>;
+
 
             var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
             if (_depthRequired == null)
@@ -268,7 +272,9 @@ namespace Liaison.BLL.Translators
             {
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
-                    return new Command(sqlUnit, cont); //, includeParent);
+                    return brigadeCmds.Contains(sqlUnit.UnitId)
+                        ? (IUnit) new Brigade(sqlUnit)
+                        : new Command(sqlUnit, cont);
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
@@ -402,8 +408,8 @@ namespace Liaison.BLL.Translators
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
-                {
-                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.FleetArmArm)
+                {                    
+                    if (sqlUnit.AdminCorp?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.FleetArmArm)
                     {
                         return new AirSquadron(sqlUnit);
                     }

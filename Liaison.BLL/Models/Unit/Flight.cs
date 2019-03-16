@@ -14,7 +14,7 @@ namespace Liaison.BLL.Models.Unit
       //  public new AdminCorps AdminCorps { get; set; }
         public string Letter { get; set; }
         public bool UseOrdinal { get; set; }
-        public List<IEquipment> Equipment { get; set; }
+        //public List<IEquipment> Equipment { get; set; }
         public string TerritorialDesignation { get; set; }
         public string CommandName { get; set; }
 
@@ -57,7 +57,7 @@ namespace Liaison.BLL.Models.Unit
         }
         public override string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.Name;
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
 
         public override string GetName()
@@ -68,7 +68,11 @@ namespace Liaison.BLL.Models.Unit
                 if (this.Letter == null)
                 {
                     sb.Append("No. " + this.Number + " ");
-                    if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                    if (this.ServiceType == ServiceTypeBLL.Reserve)
+                    {
+                        sb.Append("(R) ");
+                    }
+                    else if (this.ServiceType == ServiceTypeBLL.Volunteer)
                     {
                         sb.Append("(V) (" + this.TerritorialDesignation + ") ");
                     }
@@ -78,11 +82,34 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(this.Letter + " ");
                 }
             }
-
-            if (!string.IsNullOrWhiteSpace(this.MissionName))
+            else
             {
-                sb.Append(this.MissionName + " ");
+                if (this.Number == null)
+                {
+                    sb.Append(this.MissionName + " ");
+                }
+                else
+                {
+                    if (this.Letter == null)
+                    {
+                        sb.Append("No. " + this.Number + " ");
+                        if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                        {
+                            sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                        }
+                    }
+                    else
+                    {
+                        sb.Append(this.Letter + " ");
+                    }
+                    sb.Append(this.MissionName + " ");
+                }
             }
+
+          //  if (!string.IsNullOrWhiteSpace(this.MissionName))
+           // {
+             //   sb.Append(this.MissionName + " ");
+           // }
 
             if (this.Service == ServicesBll.Navy)
             {
@@ -98,26 +125,27 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(ResourceStrings.Seperator + this.CommandName);
             }
 
-            if (this.AdminCorps == null)
-            {
-                using (var content = new LiaisonEntities())
-                {
-                    var thisThing = content.Units.First(u => u.UnitId == this.UnitId);
 
-                    var sqlAdminCorps =
-                        content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId);
-                    ;
-                    if (sqlAdminCorps != null)
-                    {
-               //         this.AdminCorps = new BLLAdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
-                 //           sqlAdminCorps.AdminCorpsId);
-                        this.AdminCorps = new BLLAdminCorps(sqlAdminCorps);
-                    }
-                }
-            }
-
-            sb.Append(ResourceStrings.Seperator + this.AdminCorps?.UnitDisplayName);
+            sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
             return sb.ToString().Replace("_", "");
+
+            //if (this.AdminCorps == null)
+            //{
+            //    using (var content = new LiaisonEntities())
+            //    {
+            //        var thisThing = content.Units.First(u => u.UnitId == this.UnitId);
+
+            //        var sqlAdminCorps =
+            //            content.AdminCorps.FirstOrDefault(ac => ac.AdminCorpsId == thisThing.AdminCorpsId);
+            //        ;
+            //        if (sqlAdminCorps != null)
+            //        {
+            //   //         this.AdminCorps = new BLLAdminCorps(sqlAdminCorps.Code, sqlAdminCorps.Name,
+            //     //           sqlAdminCorps.AdminCorpsId);
+            //            this.AdminCorps = new BLLAdminCorps(sqlAdminCorps);
+            //        }
+            //    }
+            //}
         }
 
 
