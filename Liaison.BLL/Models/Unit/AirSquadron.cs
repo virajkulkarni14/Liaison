@@ -16,6 +16,7 @@ namespace Liaison.BLL.Models.Unit
         //public bool UseOrdinal { get; set; }
         //public List<IEquipment> Equipment { get; set; }
         public string TerritorialDesignation { get; set; }
+		public string CommandName { get; set; }
 
         public AirSquadron(Data.Sql.Edmx.Unit sqlUnit)
         {
@@ -35,6 +36,7 @@ namespace Liaison.BLL.Models.Unit
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
 	        this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.UnitTypeVariant = sqlUnit.UnitTypeVariant;
+	        this.CommandName = sqlUnit.CommandName;
 
 			this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
@@ -64,12 +66,18 @@ namespace Liaison.BLL.Models.Unit
 	    }
 		public override string GetName()
         {
-            //if (this.AdminCorps == null)
-            //{
-            //    this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
-            //}
+			//if (this.AdminCorps == null)
+			//{
+			//    this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
+			//}
+			if (!string.IsNullOrWhiteSpace(this.CommandName))
+			{
+				return this.CommandName;
+			}
 
-            StringBuilder sb = new StringBuilder();
+
+
+			StringBuilder sb = new StringBuilder();
             if (this.Number == null)
             {
                 sb.Append(this.MissionName + " ");
@@ -121,8 +129,8 @@ namespace Liaison.BLL.Models.Unit
                 }
                 else
                 {
-                    sb.Append(this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RAFTraining
-                        ? "Unit"
+                    sb.Append(this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RAFFlyingTraining
+						? "Unit"
                         : "Sqn."); //35
                 }
 

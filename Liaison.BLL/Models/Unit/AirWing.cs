@@ -59,7 +59,11 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetName()
         {
-            StringBuilder sb = new StringBuilder();
+	        if (!string.IsNullOrWhiteSpace(this.CommandName))
+	        {
+		        return this.CommandName;
+	        }
+	                 StringBuilder sb = new StringBuilder();
             if (this.UseOrdinal)
             {
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
@@ -78,8 +82,51 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("(V) (" + this.TerritorialDesignation + ") ");
             }
 
-            //sb.Append("Naval ");
-            if (!string.IsNullOrWhiteSpace(this.MissionName))
+	        if (this.Service == ServicesBll.AirForce)
+	        {
+		        if (this.AdminCorps?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RAFAirOperationsCentres)
+		        {
+			        sb.Append(this.MissionName);
+			        if (!string.IsNullOrWhiteSpace(this.AdminCorps?.UnitDisplayName))
+			        {
+				        sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
+			        }
+				}
+		        else
+		        {
+			        if (!string.IsNullOrWhiteSpace(this.UnitTypeVariant))
+			        {
+				        sb.Append("(" + this.UnitTypeVariant + ") ");
+			        }
+
+			        if (!string.IsNullOrWhiteSpace(this.MissionName))
+			        {
+				        if (this.MissionName != "Operations")
+				        {
+					        sb.Append(this.MissionName + " ");
+				        }
+			        }
+
+			        sb.Append("Wing");
+
+			        if (!string.IsNullOrWhiteSpace(this.AdminCorps?.UnitDisplayName))
+			        {
+				        sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
+			        }
+
+			        if (!string.IsNullOrWhiteSpace(this.CommandName))
+			        {
+				        sb.Append(" / " + this.MissionName);
+			        }
+		        }
+
+		        return sb.ToString();
+			}
+
+
+
+			//sb.Append("Naval ");
+			if (!string.IsNullOrWhiteSpace(this.MissionName))
             {
                 if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm)
                 {
