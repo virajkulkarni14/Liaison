@@ -34,6 +34,12 @@
     <Reference Include="EntityFramework.SqlServer">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
@@ -61,8 +67,16 @@
     <Compile Include="Models\ExtensionMethods.cs" />
     <Compile Include="Models\IBase.cs" />
     <Compile Include="Models\NewWing.cs" />
+    <Compile Include="Models\Test\Models\Unit\AirSquadronTest.cs" />
+    <Compile Include="Models\Test\Models\Unit\ArmySquadronTest.cs" />
+    <Compile Include="Models\Test\Models\Unit\BattalionTest.cs" />
+    <Compile Include="Models\Test\Models\Unit\DetachmentTest.cs" />
+    <Compile Include="Models\Test\Models\Unit\DivisionTest.cs" />
+    <Compile Include="Models\Test\Models\Unit\JointGroupTest.cs" />
     <Compile Include="Models\UnitTypeVariant.cs" />
     <Compile Include="Models\Objects\RelationshipTracker.cs" />
+    <Compile Include="Models\Unit\Abstracts\ThreeBlob.cs" />
+    <Compile Include="Models\Unit\Battery.cs" />
     <Compile Include="Models\Unit\Directorate.cs" />
     <Compile Include="Models\Unit\Interfaces\IVolunteerUnit.cs" />
     <Compile Include="Models\Unit\AirForceBase.cs" />
@@ -101,6 +115,7 @@
     <Compile Include="Models\Unit\NumberedFleet.cs" />
     <Compile Include="Models\Unit\Abstracts\OneBar.cs" />
     <Compile Include="Models\Unit\Abstracts\OneStar.cs" />
+    <Compile Include="Models\Unit\Platoon.cs" />
     <Compile Include="Models\Unit\Regiment.cs" />
     <Compile Include="Models\Unit\TacticalAirForce.cs" />
     <Compile Include="Models\Unit\TaskForceBll.cs" />
@@ -108,6 +123,8 @@
     <Compile Include="Models\Unit\Abstracts\ThreeStar.cs" />
     <Compile Include="Models\Unit\Abstracts\TwoBar.cs" />
     <Compile Include="Models\Unit\Abstracts\TwoStar.cs" />
+    <Compile Include="Models\Unit\Team.cs" />
+    <Compile Include="Models\Unit\Troop.cs" />
     <Compile Include="Models\Unit\Vessel.cs" />
     <Compile Include="Models\Objects\VesselClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -123,6 +140,9 @@
       <Name>Liaison.Helper</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

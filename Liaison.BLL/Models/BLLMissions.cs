@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using Liaison.Data.Sql.Edmx;
 
 namespace Liaison.BLL.Models
@@ -8,6 +9,7 @@ namespace Liaison.BLL.Models
         public BLLAdminCorps(AdminCorp admincorps)
         {
             this.AdminCorpsId = admincorps.AdminCorpsId;
+            this.ParentAdminCorpsId = admincorps.ParentAdminCorpsId;
             this.Name = admincorps.Name;
             this.SortName = admincorps.SortName;
             this.Code = admincorps.Code;
@@ -24,7 +26,7 @@ public string SortName { get; set; }
         public string Lookup { get; set; }
         public int? ParentUnitId { get; set; }
 
-
+        public int? ParentAdminCorpsId { get; set; }
         public int AdminCorpsId { get; set; }
     }
 
@@ -32,7 +34,7 @@ public string SortName { get; set; }
     {
         public BllMissions(ICollection<MissionUnit> missionUnits)
         {
-            foreach (var mu in missionUnits)
+            foreach (var mu in missionUnits.OrderBy(mu=>mu.Mission.SortOrder))
             {
                 var mission = new BllMission(mu);
                 this.Add(mission);

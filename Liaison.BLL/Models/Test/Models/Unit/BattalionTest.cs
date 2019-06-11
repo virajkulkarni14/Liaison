@@ -2,7 +2,7 @@
 using Liaison.Data.Sql.Edmx;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Liaison.BLL.Tests.Models.Unit
+namespace Liaison.BLL.Models.Test.Models.Unit
 {
     
     [TestClass]

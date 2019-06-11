@@ -36,6 +36,7 @@ namespace Liaison.Data.Sql.Edmx
         public Nullable<System.Guid> ShipId { get; set; }
         public string City { get; set; }
         public string ISO3166 { get; set; }
+        public Nullable<bool> Decommissioned { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Base> SubFacilities { get; set; }

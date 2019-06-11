@@ -32,6 +32,7 @@ namespace Liaison.BLL.Models.Unit
         {
             List<int> threeBarDetachments = HttpContext.Current.Session["Detachment|||UnitIds"] as List<int>;
             List<int> oneBarDetachments = HttpContext.Current.Session["Detachment|UnitIds"] as List<int>;
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.Number = sqlUnit.Number;
@@ -61,6 +62,11 @@ namespace Liaison.BLL.Models.Unit
                 this.RankStar = ThreeBar;
             }
             else if (oneBarDetachments != null && oneBarDetachments.Contains(this.UnitId))
+            {
+                this.RankLevel = OneBarTab;
+                this.RankStar = OneBar;
+            }
+            else if (this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm)
             {
                 this.RankLevel = OneBarTab;
                 this.RankStar = OneBar;

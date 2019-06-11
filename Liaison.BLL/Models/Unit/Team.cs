@@ -6,9 +6,9 @@ using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
 {
-    public class Company : OneBar
+    public class Team : ThreeBlob
     {
-        public Company(Data.Sql.Edmx.Unit sqlUnit)
+        public Team(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
             this.Number = sqlUnit.Number;
@@ -19,8 +19,8 @@ namespace Liaison.BLL.Models.Unit
             this.MissionName = sqlUnit.MissionName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
-            this.Service = (ServicesBll) sqlUnit.ServiceIdx;
-            this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
+            this.Service = (ServicesBll)sqlUnit.ServiceIdx;
+            this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
@@ -65,7 +65,7 @@ namespace Liaison.BLL.Models.Unit
             if (unitWithId)
             {
                 if (this.Number != null)
-                {                    
+                {
                     sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
                 }
 
@@ -88,20 +88,20 @@ namespace Liaison.BLL.Models.Unit
 
 
 
-                    
-                        //new Dictionary<string, string>
-                        //{
-                        //    {ResourceStrings.HQHQ, "HHC"},
-                        //    {ResourceStrings.HQ, "HQC"},
-                        //    {ResourceStrings.HQS, "HSC"},
-                        //    {ResourceStrings.HQSVC, "HSC"},
-                        //    {ResourceStrings.Weapons, "Wpns. Coy."},
-                        //    {"Support", "Supt. Coy."},
-                        //    {"Production & Analysis", "Prod. & Analysis Coy."},
-                        //    {"Counterintelligence/Human Intelligence", "CI/HUMINT Coy."},
-                        //    {"Counterintelligence/Human Intelligence Support", "CI/HUMINT Supt. Coy."},
-                        //    {"Production & Analysis Support", "Prod. & Analysis Supt. Coy."}
-                        //};
+
+                    //new Dictionary<string, string>
+                    //{
+                    //    {ResourceStrings.HQHQ, "HHC"},
+                    //    {ResourceStrings.HQ, "HQC"},
+                    //    {ResourceStrings.HQS, "HSC"},
+                    //    {ResourceStrings.HQSVC, "HSC"},
+                    //    {ResourceStrings.Weapons, "Wpns. Coy."},
+                    //    {"Support", "Supt. Coy."},
+                    //    {"Production & Analysis", "Prod. & Analysis Coy."},
+                    //    {"Counterintelligence/Human Intelligence", "CI/HUMINT Coy."},
+                    //    {"Counterintelligence/Human Intelligence Support", "CI/HUMINT Supt. Coy."},
+                    //    {"Production & Analysis Support", "Prod. & Analysis Supt. Coy."}
+                    //};
 
                     var kvp = prefabMissions.FirstOrDefault(k => k.Key == this.MissionName);
 
@@ -169,7 +169,6 @@ namespace Liaison.BLL.Models.Unit
                     else
                     {
                         sb.Append(this.MissionName + " ");
-                        sb.Append("Coy.");
                         AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, this.CommandName, true, true);
 
                         ishq = true;
@@ -190,7 +189,7 @@ namespace Liaison.BLL.Models.Unit
 
             if (!ishq)
             {
-                sb.Append("Coy.");
+                sb.Append("");
             }
 
             var endstring = !string.IsNullOrWhiteSpace(this.CommandName)

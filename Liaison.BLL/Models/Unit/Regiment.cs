@@ -71,14 +71,14 @@ namespace Liaison.BLL.Models.Unit
         {
             StringBuilder sb = new StringBuilder();
             bool isAcceptable = false;
-            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
-                || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery
-                ||this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.SpecialAirService)
+            if (this.AdminCorps?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+                || this.AdminCorps?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineArtillery
+                || this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.SpecialAirService)
             {
                 sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
                 sb.Append(this.UniqueName);
                 isAcceptable = true;
-            }             
+            }
             else //if (this.AdminCorps.AdminCorpsId ==
                     //             (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics)
             {

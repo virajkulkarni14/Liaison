@@ -2,42 +2,42 @@
 using Liaison.Data.Sql.Edmx;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Liaison.BLL.Tests.Models.Unit
+namespace Liaison.BLL.Models.Test.Models.Unit
 {
     [TestClass]
-    public class AirSquadronTest
+    public class CompanyTest
     {
         [TestMethod]
-        public void MarineAviationLogisticsSquadron()
+        public void PandACompanyTest()
         {
             var sql = new Liaison.Data.Sql.Edmx.Unit
             {
-                UnitId = 9000,
-                Number = 31,
+                UnitId = 9178,
+                Number = null,
                 UseOrdinal = false,
                 NickName = null,
-                LegacyMissionName  =null,
-                MissionName = "Marine Aviation Logistics",
+                LegacyMissionName = null,
+                MissionName = "Counterintelligence/Human Intelligence",
                 UniqueName = null,
-                CommandName = null,
+                CommandName = "____1st Int. Bn., RM",
                 UnitTypeVariant = null,
                 ServiceIdx = 4,
                 ServiceTypeIdx = 1,
                 TerritorialDesignation = null,
-                UnitGuid = new Guid(),
-                RankSymbol = "@",
-                Rank = new Rank {Symbol = "@"},
-                AdminCorp = new AdminCorp() {AdminCorpsId = 76, UnitDisplayName = "RMAA"},
-                CanHide = false,
+                //UnitGuid = new Guid("fcb8b858-df02-4684-b659-c23f3cd5d2c3"),
+                RankSymbol = "|",
+                Rank = new Rank { Symbol = "|" },
+                AdminCorp = new AdminCorp { AdminCorpsId = 1280, UnitDisplayName = "RMI" },
+                CanHide = true,
                 Decommissioned = null
             };
+            var group = new Liaison.BLL.Models.Unit.Company(sql);
 
-            var group = new Liaison.BLL.Models.Unit.AirSquadron(sql);
-
-            Assert.AreEqual("No. 31 Marine Aviation Logistics Sqn., RMAA",
+            Assert.AreEqual("CI/HUMINT Coy., 1st Int. Bn., RM",
                 group.GetName());
-        }
 
+
+        }
     }
     [TestClass]
     public class ArmySquadronTest

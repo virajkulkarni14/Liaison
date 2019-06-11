@@ -19,6 +19,7 @@ namespace Liaison.BLL.Models.Unit
         public string CommandName { get; set; }
         public string TerritorialDesignation { get; set; }
 
+        private int TwoBarTab = 11;
         private int OneBarTab = 12;
         //private string OneBar = "|";
 
@@ -63,6 +64,11 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(this.MissionName);
             }
 
+            if (!string.IsNullOrWhiteSpace(this.CommandName))
+            {
+                sb.Append(this.CommandName);
+            }
+
             return sb.ToString();
         }
 
@@ -74,6 +80,10 @@ namespace Liaison.BLL.Models.Unit
 
         public int GetRankLevel()
         {
+            if (this.RankLevel == 11)
+            {
+                return TwoBarTab;
+            }
             return OneBarTab;
         }
 

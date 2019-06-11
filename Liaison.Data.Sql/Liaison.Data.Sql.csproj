@@ -56,10 +56,16 @@
     <Compile Include="Edmx\Aircraft.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
+    <Compile Include="Edmx\AltCode.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
     <Compile Include="Edmx\Base.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
     <Compile Include="Edmx\ConfigSetting.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Edmx\Dictionary.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
     <Compile Include="Edmx\EquipmentOwner.cs">

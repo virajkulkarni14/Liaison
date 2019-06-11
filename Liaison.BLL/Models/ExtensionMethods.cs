@@ -8,9 +8,12 @@ using Liaison.Data.Sql.Edmx;
 namespace Liaison.BLL.Models
 {
     public static class ResourceStrings
-    {
+    {        
+        public static string HQ = "Headquarters";
         public static string HQHQ = "Headquarters & Headquarters";
         public static string HQS = "Headquarters & Support";
+        public static string HQSVC = "Headquarters & Service";
+        public static string Weapons = "Weapons";
         public static string Chemical = "Chemical";
         public static string Det = "Det.";
         public static string Group = "Group";

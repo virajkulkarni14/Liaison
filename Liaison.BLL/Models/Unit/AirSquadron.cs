@@ -70,18 +70,22 @@ namespace Liaison.BLL.Models.Unit
 			//{
 			//    this.AdminCorps = AUnit.GetAdminCorpsHelper(this);
 			//}
-			if (!string.IsNullOrWhiteSpace(this.CommandName))
-			{
-				return this.CommandName;
-			}
+            if (string.IsNullOrWhiteSpace(this.MissionName) && !string.IsNullOrWhiteSpace(this.CommandName))
+            {
+                return this.CommandName;
+            }
 
 
 
-			StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new StringBuilder();
             if (this.Number == null)
             {
                 sb.Append(this.MissionName + " ");
                 sb.Append(" Squadron");
+                if (!string.IsNullOrWhiteSpace(this.CommandName))
+                {
+                    sb.Append(", " + this.CommandName.Replace("_", ""));
+                }
             }
             else
             {
@@ -123,7 +127,7 @@ namespace Liaison.BLL.Models.Unit
                 {
                     sb.Append("Naval Air Sqn.");
                 }
-                else if (this.Service == ServicesBll.Marines)
+                else if (this.Service == ServicesBll.Marines && string.IsNullOrWhiteSpace(this.MissionName))
                 {
                     sb.Append("Marine Air Sqn.");
                 }

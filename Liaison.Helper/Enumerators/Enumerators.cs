@@ -68,30 +68,60 @@ namespace Liaison.Helper.Enumerators
         FleetArmArm = 1,
         NavalSpecialWarfare = 1198,
         RAFRegiment = 23,
-		RAFRRegiment= 1173,
-		RAuxAFRegiment= 52,
-		RAFTraining =35,
-		RAFFlyingTraining= 1230,
-	    RAFAirOperationsCentres = 1264,
-		RoyalMarineAviation = 68,
-        RoyalMarineLandForces = 71,
-        RoyalMarineArtillery = 72,
-        RoyalMarineLogistics = 73,
-        CorpsOfRoyalMarines = 74,
-        RoyalMarineLightInfantry = 75,
-        RoyalMarinesAirArm = 76,
-        RoyalIndianMarinesAirArm = 77,
+        RAFRRegiment = 1173,
+        RAuxAFRegiment = 52,
+        RAFTraining = 35,
+        RAFFlyingTraining = 1230,
+        RAFAirOperationsCentres = 1264,
         NavalAviation = 78,
         DGSpecialForces = 112,
         EngineerInChief = 114,
-        OffCivilAffairs= 170,
-	    RoyalMarineCommando=175,
-        //G/LAND/CA/AVN
-        ArmyAirCorps= 1195,
-        ArmyAirCorpsBn=1196,
-        //G/LAND/CA/SF/SAS
-        SpecialAirService=1201,
+        OffCivilAffairs = 170,
+        RoyalMarineCommando = 175,
 
+        //G/LAND/CA/AVN
+        ArmyAirCorps = 1195,
+        ArmyAirCorpsBn = 1196,
+
+        //G/LAND/CA/SF/SAS
+        SpecialAirService = 1201,
+
+        //M
+        MAGTF = 1277,
+        RoyalMarineLandForces = 71,
+        CorpsOfRoyalMarines = 74,
+        RoyalMarinesReserve= 3289,
+
+        //M/C2
+        MarineHeadquartersGroups = 3278,
+
+        //M/LAND/CAV
+
+        RoyalMarineCavalry = 3283,
+
+        //M/LAND/INF
+        RoyalMarineLightInfantry = 75,
+        RRM10 = 1278,
+
+        //M/LAND/RMA
+        RoyalMarineArtillery = 72,
+        RoyalMarinesAirArmAirDefence = 3276,
+        RoyalNavalMedicalService = 3277,
+
+        //M/AIR
+        RoyalMarineAviation = 68,
+        RoyalMarinesAirArm = 76,
+        RoyalIndianMarinesAirArm = 77,
+
+        //M/CS
+        RoyalMarineIntelligence = 1280,
+        RoyalMarineCommunications = 1281,
+        RoyalMarinesEngineers = 3279,
+
+        //M/CSS
+        RoyalMarineLogistics = 73,
+        RoyalMarinesMilitaryPolice = 1282,
+        RMRCivilAffairs = 3286,
     }
 
 

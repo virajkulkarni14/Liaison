@@ -24,7 +24,10 @@
             <PropertyRef Name="AircraftGuid" />
           </Key>
           <Property Name="AircraftId" Type="int" />
+          <Property Name="FirstDate" Type="date" />
           <Property Name="AircraftGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="SeriesCode" Type="nvarchar" MaxLength="50" />
+          <Property Name="SeriesCodeSort" Type="nvarchar" MaxLength="50" />
           <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="SortName" Type="nvarchar" MaxLength="50" />
           <Property Name="Mark" Type="nvarchar" MaxLength="50" Nullable="false" />
@@ -35,6 +38,16 @@
           <Property Name="Notes" Type="nvarchar(max)" />
           <Property Name="DoNotUse" Type="bit" />
         </EntityType>
+        <EntityType Name="AltCode">
+          <Key>
+            <PropertyRef Name="AltCodeId" />
+          </Key>
+          <Property Name="AltCodeId" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="AltCodeUse" Type="nvarchar" MaxLength="50" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Service" Type="nchar" MaxLength="10" />
+          <Property Name="Active" Type="bit" />
+        </EntityType>
         <EntityType Name="Base">
           <Key>
             <PropertyRef Name="BaseId" />
@@ -44,6 +57,7 @@
           <Property Name="Prefix" Type="nvarchar" MaxLength="50" />
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="Suffix" Type="nvarchar" MaxLength="50" />
+          <Property Name="Decommissioned" Type="bit" />
           <Property Name="CommissionedName" Type="nvarchar" MaxLength="255" />
           <Property Name="AltName" Type="nvarchar" MaxLength="255" />
           <Property Name="IATACode" Type="nvarchar" MaxLength="3" />
@@ -61,6 +75,15 @@
           </Key>
           <Property Name="ConfigSetting" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="ConfigValue" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Dictionary">
+          <Key>
+            <PropertyRef Name="Key" />
+            <PropertyRef Name="Type" />
+          </Key>
+          <Property Name="Key" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Value" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
         </EntityType>
         <EntityType Name="EquipmentOwner">
           <Key>
@@ -263,6 +286,7 @@
           <Property Name="CanHide" Type="bit" Nullable="false" />
           <Property Name="Decommissioned" Type="bit" />
           <Property Name="Language" Type="nvarchar" MaxLength="5" />
+          <Property Name="Notes" Type="nvarchar(max)" />
         </EntityType>
         <EntityType Name="UnitIndex">
           <Key>
@@ -533,8 +557,10 @@
         <EntityContainer Name="LiaisonModelStoreContainer">
           <EntitySet Name="AdminCorps" EntityType="Self.AdminCorps" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Aircraft" EntityType="Self.Aircraft" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="AltCode" EntityType="Self.AltCode" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Base" EntityType="Self.Base" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="ConfigSettings" EntityType="Self.ConfigSettings" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Dictionary" EntityType="Self.Dictionary" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="EquipmentOwner" EntityType="Self.EquipmentOwner" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Mission" EntityType="Self.Mission" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="MissionUnit" EntityType="Self.MissionUnit" Schema="dbo" store:Type="Tables" />
@@ -774,6 +800,8 @@
             <End Role="Ship" EntitySet="Ships" />
             <End Role="Base" EntitySet="Bases" />
           </AssociationSet>
+          <EntitySet Name="AltCodes" EntityType="LiaisonModel.AltCode" />
+          <EntitySet Name="Dictionaries" EntityType="LiaisonModel.Dictionary" />
           </EntityContainer>
         <EntityType Name="RelationshipType">
           <Key>
@@ -845,6 +873,7 @@
           <Property Name="Decommissioned" Type="Boolean" />
           <Property Name="Letter" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
           <Property Name="Language" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -960,6 +989,7 @@
           <NavigationProperty Name="Ship" Relationship="LiaisonModel.FK_Base_Ship" FromRole="Base" ToRole="Ship" />
           <Property Name="City" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="ISO3166" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Decommissioned" Type="Boolean" />
         </EntityType>
         <Association Name="FK_Base_Base">
           <End Type="LiaisonModel.Base" Role="Base" Multiplicity="0..1" />
@@ -1187,6 +1217,9 @@
           <Property Name="SortName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
           <Property Name="DoNotUse" Type="Boolean" />
+          <Property Name="FirstDate" Type="DateTime" Precision="0" />
+          <Property Name="SeriesCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SeriesCodeSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="Ship">
           <Key>
@@ -1369,6 +1402,25 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <EntityType Name="AltCode">
+          <Key>
+            <PropertyRef Name="AltCodeId" />
+          </Key>
+          <Property Name="AltCodeId" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltCodeUse" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Service" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="Active" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="Dictionary">
+          <Key>
+            <PropertyRef Name="Key" />
+            <PropertyRef Name="Type" />
+          </Key>
+          <Property Name="Key" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Value" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Type" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
         </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -1427,6 +1479,7 @@
           <EntitySetMapping Name="Units">
             <EntityTypeMapping TypeName="LiaisonModel.Unit">
               <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="Language" ColumnName="Language" />
                 <ScalarProperty Name="Letter" ColumnName="Letter" />
                 <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
@@ -1481,6 +1534,7 @@
           <EntitySetMapping Name="Bases">
             <EntityTypeMapping TypeName="LiaisonModel.Base">
               <MappingFragment StoreEntitySet="Base">
+                <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
                 <ScalarProperty Name="ISO3166" ColumnName="ISO3166" />
                 <ScalarProperty Name="City" ColumnName="City" />
                 <ScalarProperty Name="ShipId" ColumnName="ShipId" />
@@ -1587,6 +1641,9 @@
           <EntitySetMapping Name="Aircraft">
             <EntityTypeMapping TypeName="LiaisonModel.Aircraft">
               <MappingFragment StoreEntitySet="Aircraft">
+                <ScalarProperty Name="SeriesCodeSort" ColumnName="SeriesCodeSort" />
+                <ScalarProperty Name="SeriesCode" ColumnName="SeriesCode" />
+                <ScalarProperty Name="FirstDate" ColumnName="FirstDate" />
                 <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
                 <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="SortName" ColumnName="SortName" />
@@ -1662,6 +1719,26 @@
               <MappingFragment StoreEntitySet="ConfigSettings">
                 <ScalarProperty Name="ConfigValue" ColumnName="ConfigValue" />
                 <ScalarProperty Name="ConfigSetting1" ColumnName="ConfigSetting" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="AltCodes">
+            <EntityTypeMapping TypeName="LiaisonModel.AltCode">
+              <MappingFragment StoreEntitySet="AltCode">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Service" ColumnName="Service" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="AltCodeUse" ColumnName="AltCodeUse" />
+                <ScalarProperty Name="AltCodeId" ColumnName="AltCodeId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Dictionaries">
+            <EntityTypeMapping TypeName="LiaisonModel.Dictionary">
+              <MappingFragment StoreEntitySet="Dictionary">
+                <ScalarProperty Name="Type" ColumnName="Type" />
+                <ScalarProperty Name="Value" ColumnName="Value" />
+                <ScalarProperty Name="Key" ColumnName="Key" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

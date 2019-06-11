@@ -94,7 +94,7 @@ namespace Liaison.BLL.Models.Unit
 			        {
 				        sb.Append(this.MissionName + " ");
 				        sb.Append("Sqn.");
-				        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, true, true);
+				        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, this.CommandName, true, true);
 
 				        ishq = true;
 			        }
@@ -103,7 +103,7 @@ namespace Liaison.BLL.Models.Unit
 
 	        if (!ishq)
 	        {
-		        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, true, true);
+		        AUnit.GetServiceType(sb, this.ServiceType, this.TerritorialDesignation, this.CommandName, true, true);
 	        }
 
 	        if (unitWithId)

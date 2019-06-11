@@ -45,6 +45,10 @@ namespace Liaison.BLL.Translators
                     Data.Sql.GetStuff.GetConfigSetting("Detachment|UnitIds");
                 HttpContext.Current.Session["BrigadeCommandsUnitIds"] =
                     Data.Sql.GetStuff.GetConfigSetting("BrigadeCommandsUnitIds");
+                HttpContext.Current.Session["BatteryCorps"] = Data.Sql.GetStuff.GetConfigSetting("BatteryCorps");
+
+                HttpContext.Current.Session["TroopCorps"] = Data.Sql.GetStuff.GetConfigSetting("TroopCorps");
+                HttpContext.Current.Session["PlatoonCorps"] = Data.Sql.GetStuff.GetConfigSetting("PlatoonCorps");
 
                 if (Int32.TryParse(input, out int iInput))
                 {
@@ -74,7 +78,9 @@ namespace Liaison.BLL.Translators
             List<int> armysquadronCorps = HttpContext.Current.Session["ArmySquadronCorps"] as List<int>;
             List<int> companyCorps =            HttpContext.Current.Session["CompanyCorps"] as List<int>;
             List<int> brigadeCmds = HttpContext.Current.Session["BrigadeCommandsUnitIds"] as List<int>;
-
+            List<int> batteryCorps = HttpContext.Current.Session["BatteryCorps"] as List<int>;
+            List<int> troopCorps = HttpContext.Current.Session["TroopCorps"] as List<int>;
+            List<int> platoonCorps = HttpContext.Current.Session["PlatoonCorps"] as List<int>;
 
             var thisUnitRankLevel = sqlUnit.Rank.RankLevel;
             if (_depthRequired == null)
@@ -299,6 +305,18 @@ namespace Liaison.BLL.Translators
                     }
                     return new Flotilla(sqlUnit);
                 }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
+                {
+                    if (sqlUnit.AdminCorp?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.MAGTF)
+                    {
+                        return new Brigade(sqlUnit);
+                    }
+                    if (sqlUnit.AdminCorp?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.MarineHeadquartersGroups)
+                    {
+                        return new Command(sqlUnit, cont);
+                    }
+                }
             }
             else if (sqlUnit.RankSymbol == "/")
             {
@@ -359,20 +377,36 @@ namespace Liaison.BLL.Translators
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
                 {
 
-                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm||
+                    if (sqlUnit.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarineAviation ||
+                        sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm ||
                         sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalIndianMarinesAirArm)
                     {
                         return new AirWing(sqlUnit);
                     }
                     if (sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLogistics ||
-                        sqlUnit.AdminCorp.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineArtillery ||
-                        sqlUnit.AdminCorp.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+                        sqlUnit.AdminCorp.ParentAdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineArtillery ||
+                        sqlUnit.AdminCorp.ParentAdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
                     )
                     {
                         return new Regiment(sqlUnit);
                     }
 
-                    throw new Exception("Marine Air Corps not processed");
+                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.MarineHeadquartersGroups||
+                        sqlUnit.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarinesReserve)
+                    {
+                        return new Command(sqlUnit, false);
+                    }
+
+                    if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.MAGTF)
+                    {
+                        return new ExpeditionaryUnit(sqlUnit);
+                    }
+                    if (sqlUnit.AdminCorp.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RMRCivilAffairs)
+                    {
+                        return new JointGroup(sqlUnit);
+                    }
+
+                    throw new Exception("Marine Corps not processed");
                 }
             }
             else if (sqlUnit.RankSymbol == "@")
@@ -384,18 +418,29 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
+                    if (sqlUnit.CommandName.StartsWith("Joint") && sqlUnit.CommandName.Contains("Component"))
+                    {
+                        return new JointUnit(sqlUnit);
+                    }
                     return new AirSquadron(sqlUnit);
                 }
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
                 {
-                    if (sqlUnit.AdminCorp.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
+                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArmAirDefence)
+                    {
+                        return new Battalion(sqlUnit);
+                    }
+                    if (sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineAviation||
+                        sqlUnit.AdminCorp.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
                     {
                         return new AirSquadron(sqlUnit);
                     }
 
-	                if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCommando)
-	                {
+                    if (battalionCorps != null && battalionCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                    //if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCommando
+                    //  || sqlUnit.AdminCorpsId== (int)Helper.Enumerators.AdminCorps.RRM10)
+                    {
 		                return new Battalion(sqlUnit);
 	                }
 
@@ -495,15 +540,47 @@ namespace Liaison.BLL.Translators
                     {
                         return new Company(sqlUnit);
                     }
+
+                    if (batteryCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                    {
+                        return new Battery(sqlUnit);
+                    }
                 }
 
 	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
 	            {
-		            if (sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCommando)
-		            {
-			            return new Company(sqlUnit);
-		            }
-				}
+	                if (batteryCorps.Contains(sqlUnit.AdminCorpsId.Value))
+	                {
+	                    return new Battery(sqlUnit);
+	                }
+                    //if (companyCorps.Contains(sqlUnit.AdminCorpsId.Value) ||
+	                // (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCommando))
+	                //{
+	                    return new Company(sqlUnit);
+	                //}
+
+	            }
+            }
+            else if (sqlUnit.RankSymbol == "¦")
+            {
+                if (platoonCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                {
+                    if (sqlUnit.MissionName.EndsWith("Team"))
+                    {
+                        return new Team(sqlUnit);
+                    }
+                    return new Platoon(sqlUnit);
+                }
+
+                if (troopCorps.Contains(sqlUnit.AdminCorpsId.Value))
+                {
+                    return new Troop(sqlUnit);
+                }
+
+                if (sqlUnit.AdminCorpsId.Value == (int) Helper.Enumerators.AdminCorps.ArmyAirCorps)
+                {
+                    return new Flight(sqlUnit);
+                }
             }
             else if (sqlUnit.RankSymbol == "^")
             {

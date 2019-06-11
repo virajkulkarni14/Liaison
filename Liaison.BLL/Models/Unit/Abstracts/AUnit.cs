@@ -334,7 +334,12 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             sb.Append(this.Base.Name);
             if (!string.IsNullOrWhiteSpace(this.Base.Suffix))
             {
-                sb.Append(" "+this.Base.Suffix);
+                if (!this.Base.Suffix.StartsWith(","))
+                {
+                    sb.Append(" ");
+                }
+
+                sb.Append(this.Base.Suffix);
             }
 
             if (!string.IsNullOrWhiteSpace(this.Base.CommissionedName))
@@ -417,17 +422,22 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             throw new Exception();
         }
 
-        protected static void GetServiceType(StringBuilder sb, ServiceTypeBLL thisServiceType, string thisTerritorialDesignation, bool precedingSpace, bool trailingSpace)
+        protected static void GetServiceType(StringBuilder sb, 
+            ServiceTypeBLL thisServiceType, 
+            string thisTerritorialDesignation, 
+            string thisCommandName, 
+            bool precedingSpace, 
+            bool trailingSpace)
         {
             if (precedingSpace)
             {
                 sb.Append(" ");
             }
-            if (thisServiceType == ServiceTypeBLL.Reserve)
+            if (thisServiceType == ServiceTypeBLL.Reserve && !CommandNameContains(thisCommandName, "(R)"))
             {
                 sb.Append("(R)");
             }
-            else if (thisServiceType == ServiceTypeBLL.Volunteer)
+            else if (thisServiceType == ServiceTypeBLL.Volunteer && !CommandNameContains(thisCommandName, "(V)"))
             {
                 sb.Append("(V) ");
                 sb.Append("(" + thisTerritorialDesignation + ")");
@@ -437,6 +447,22 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             {
                 sb.Append(" ");
             }
+        }
+
+        private static bool CommandNameContains(string thisCommandName, string s)
+        {
+            if (thisCommandName == null)
+            {
+                return false;
+            }
+
+            if (thisCommandName.Contains(s))
+            {
+                return true;
+            }
+
+            return false;
+
         }
     }
 }

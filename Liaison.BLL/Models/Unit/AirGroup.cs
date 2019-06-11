@@ -78,10 +78,10 @@ namespace Liaison.BLL.Models.Unit
                     sb.Append(this.CommandName);
                 }
             }
-            else if (this.Service == ServicesBll.Marines)
-            {
-                sb.Append(" Aircraft ");
-            }
+            //else if (this.Service == ServicesBll.Marines)
+            //{
+            //    sb.Append(" Aviation ");
+            //}
 
             if (string.IsNullOrWhiteSpace(this.UnitTypeVariant))
             {
@@ -120,7 +120,7 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetAdminCorps()
         {
-            return this.AdminCorps == null ? string.Empty : this.AdminCorps.UnitDisplayName;
+            return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
 
         public override int GetRankLevel()

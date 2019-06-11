@@ -59,24 +59,22 @@ namespace Liaison.BLL.Models.Unit
                 return this.GetNameNotEnglish();
             }
             StringBuilder sb = new StringBuilder();
-            sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
 
-            if (this.ServiceType == ServiceTypeBLL.Reserve)
+            if (this.Number != null)
             {
-                sb.Append("(R) ");
-            }
-            else if (this.ServiceType == ServiceTypeBLL.Volunteer)
-            {
-                sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                sb.Append(this.Number.ToOrdinal(this.UseOrdinal) + " ");
+
+                if (this.ServiceType == ServiceTypeBLL.Reserve)
+                {
+                    sb.Append("(R) ");
+                }
+                else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                }
             }
 
-            List<string> missions = new List<string>()
-            {
-                "Aviation Maintenance",
-                "Civil Affairs",
-                "Commando",
-                "Psychological Operations"
-            };
+            List<string> missions = Liaison.Data.Sql.GetStuff.GetBattalionNoBracketMissionNames();
             if (string.IsNullOrWhiteSpace(this.UniqueName))
             {
                 if (!string.IsNullOrWhiteSpace(this.MissionName))
@@ -87,14 +85,22 @@ namespace Liaison.BLL.Models.Unit
                     }
                     else
                     {
-                        if (missions.Contains(this.MissionName))
+                        if (missions.Contains(this.MissionName) 
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalNavalMedicalService
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineIntelligence
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCommunications
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesMilitaryPolice
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCavalry
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesEngineers)
                         {
                             sb.Append(this.MissionName);
-	                        //if (this.MissionName != "Commando")
-	                        //{
-		                        sb.Append(" ");
-	                        //}
-						}
+                            //if (this.MissionName != "Commando")
+                            //{
+                            sb.Append(" ");
+                            //}
+                        }
                         else
                         {
                             sb.Append("(" + this.MissionName + ") ");
@@ -123,9 +129,22 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(" (" + this.UnitTypeVariant + ")");
             }
 
-	        if (!string.IsNullOrWhiteSpace(this.CommandName))
+            if (this.Number == null)
+            {
+                if (this.ServiceType == ServiceTypeBLL.Reserve)
+                {
+                    sb.Append(" (R)");
+                }
+                else if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                {
+                    sb.Append(" (V) (" + this.TerritorialDesignation + ")");
+                }
+            }
+
+
+            if (!string.IsNullOrWhiteSpace(this.CommandName))
 	        {
-		        sb.Append(", " + this.CommandName);
+		        sb.Append(ResourceStrings.Seperator + this.CommandName);
 	        }
 
             sb.Append(ResourceStrings.Seperator +this.AdminCorps?.UnitDisplayName);

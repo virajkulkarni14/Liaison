@@ -61,7 +61,7 @@ namespace Liaison.BLL.Models.Unit
         {
 	        if (!string.IsNullOrWhiteSpace(this.CommandName))
 	        {
-		        return this.CommandName;
+	            return this.CommandName.Replace("_", "");
 	        }
 	                 StringBuilder sb = new StringBuilder();
             if (this.UseOrdinal)
@@ -131,7 +131,7 @@ namespace Liaison.BLL.Models.Unit
                 if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm)
                 {
                     sb.Append("Marine ");
-                }
+                }              
             }
 
             sb.Append(this.MissionName + " ");
@@ -154,7 +154,7 @@ namespace Liaison.BLL.Models.Unit
                 if (string.IsNullOrWhiteSpace(this.MissionName))
                 {
                     sb.Append("Marine Air ");
-                }
+                }               
             }
 
             if (string.IsNullOrWhiteSpace(this.UnitTypeVariant))

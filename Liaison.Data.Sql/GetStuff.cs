@@ -75,5 +75,27 @@ namespace Liaison.Data.Sql
             }
         }
 
+        public static List<string> GetBattalionNoBracketMissionNames()
+        {
+            using (var context = new LiaisonEntities())
+            {
+                return context.ConfigSettings.First(m => m.ConfigSetting1 == "BattalionNoBracketMissionNames").ConfigValue.Split(',').ToList();
+            }
+        }
+
+        public static Dictionary<string, string> GetDictionary(string dicttype)
+        {
+            using (var context = new LiaisonEntities())
+            {
+                var data = context.Dictionaries.Where(d => d.Type == dicttype);
+                var dictionary = new Dictionary<string,string>();
+                foreach (var d in data)
+                {
+                    dictionary.Add(d.Key, d.Value);
+                }
+
+                return dictionary;
+            }
+        }
     }
 }
