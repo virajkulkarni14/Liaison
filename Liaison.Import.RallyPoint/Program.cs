@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Xml;
-using System.Xml.Serialization;
+using System.Xml.Serialization;x
 
 
 namespace Liaison.Import.RallyPoint
