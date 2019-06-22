@@ -418,6 +418,10 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint)
                 {
+                    if (sqlUnit.MissionName != null)
+                    {
+                        return new JointUnit(sqlUnit);
+                    }
                     if (sqlUnit.CommandName.StartsWith("Joint") && sqlUnit.CommandName.Contains("Component"))
                     {
                         return new JointUnit(sqlUnit);
@@ -565,10 +569,11 @@ namespace Liaison.BLL.Translators
             {
                 if (platoonCorps.Contains(sqlUnit.AdminCorpsId.Value))
                 {
-                    if (sqlUnit.MissionName.EndsWith("Team"))
+                    if (sqlUnit.MissionName != null && sqlUnit.MissionName.EndsWith("Team"))
                     {
                         return new Team(sqlUnit);
                     }
+
                     return new Platoon(sqlUnit);
                 }
 
