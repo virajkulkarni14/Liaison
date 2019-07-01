@@ -40,73 +40,74 @@ namespace Liaison.BLL.Models.Unit
             this.CommandName = sqlUnit.CommandName;
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.Letter = sqlUnit.Letter;
-            if (this.MissionName == ResourceStrings.HQHQ)
-            {
-                this.RankLevel = OneBarTab;
-                this.RankStar = OneBar;
-            }
-            else if (this.MissionName == ResourceStrings.Chemical)
-            {
-                this.RankLevel = ThreeBlobTab;
-                this.RankStar = ThreeBlob;
-            }
-            else if (this.Letter != null)
-            {
-                this.RankLevel = OneBarTab;
-                this.RankStar = OneBar;
-            }
-            //else if (this.CommandName.StartsWith("Special Forces Operational Detachment"))
-            else if (threeBarDetachments != null && threeBarDetachments.Contains(this.UnitId))
-            {
-                this.RankLevel = ThreeBarTab;
-                this.RankStar = ThreeBar;
-            }
-            else if (oneBarDetachments != null && oneBarDetachments.Contains(this.UnitId))
-            {
-                this.RankLevel = OneBarTab;
-                this.RankStar = OneBar;
-            }
-            else if (this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesAirArm)
-            {
-                this.RankLevel = OneBarTab;
-                this.RankStar = OneBar;
-            }
-            else if (this.CommandName.StartsWith("NSWBS")|| this.CommandName.StartsWith("NAVSPECWAR"))
-            {
-                this.RankLevel = OneBarTab;
-                this.RankStar = OneBar;
-            }
-            else if (this.CommandName.StartsWith("Det") && (this.CommandName.EndsWith("NAS")))
-            {
-                this.RankLevel = 10;
-                this.RankStar = OneBar;
-            }
-            else if (this.CommandName.StartsWith("HHD"))
-            {
-                this.RankLevel = ThreeBlobTab;
-                this.RankStar = ThreeBlob;
-            }
-            else if (this.CommandName.Contains("Coy.") &&
-                     this.CommandName.Contains("Rgt.")) //&& this.CommandName.Contains("Bn.")
-            {
-                this.RankLevel = ThreeBlobTab;
-                this.RankStar = ThreeBlob;
-            }
-            else if (this.CommandName.EndsWith("Coy."))
-            {
-                this.RankLevel = ThreeBlobTab;
-                this.RankStar = ThreeBlob;
-            }
-            else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
-            {
-                this.RankLevel = 10;
-                this.RankStar = OneBar;
-            }
-            else
-            {
-                this.RankLevel = sqlUnit.Rank.RankLevel;
-                this.RankStar = sqlUnit.Rank.Rank1;
-            }
+			if (this.MissionName == ResourceStrings.HQHQ)
+			{
+				this.RankLevel = OneBarTab;
+				this.RankStar = OneBar;
+			}
+			else if (this.MissionName == ResourceStrings.Chemical)
+			{
+				this.RankLevel = ThreeBlobTab;
+				this.RankStar = ThreeBlob;
+			}
+			else if (this.Letter != null)
+			{
+				this.RankLevel = OneBarTab;
+				this.RankStar = OneBar;
+			}
+			//else if (this.CommandName.StartsWith("Special Forces Operational Detachment"))
+			else if (threeBarDetachments != null && threeBarDetachments.Contains(this.UnitId))
+			{
+				this.RankLevel = ThreeBarTab;
+				this.RankStar = ThreeBar;
+			}
+			else if (oneBarDetachments != null && oneBarDetachments.Contains(this.UnitId))
+			{
+				this.RankLevel = OneBarTab;
+				this.RankStar = OneBar;
+			}
+			else if (this.AdminCorps?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesAirArm
+				|| this.AdminCorps?.ParentAdminCorpsId == (int)Helper.Enumerators.AdminCorps.NavalAviation)
+			{
+				this.RankLevel = OneBarTab;
+				this.RankStar = OneBar;
+			}
+			else if (this.CommandName.StartsWith("NSWBS") || this.CommandName.StartsWith("NAVSPECWAR"))
+			{
+				this.RankLevel = OneBarTab;
+				this.RankStar = OneBar;
+			}
+			else if (this.CommandName.StartsWith("Det") && (this.CommandName.EndsWith("NAS")))
+			{
+				this.RankLevel = 10;
+				this.RankStar = OneBar;
+			}
+			else if (this.CommandName.StartsWith("HHD"))
+			{
+				this.RankLevel = ThreeBlobTab;
+				this.RankStar = ThreeBlob;
+			}
+			else if (this.CommandName.Contains("Coy.") &&
+					 this.CommandName.Contains("Rgt.")) //&& this.CommandName.Contains("Bn.")
+			{
+				this.RankLevel = ThreeBlobTab;
+				this.RankStar = ThreeBlob;
+			}
+			else if (this.CommandName.EndsWith("Coy."))
+			{
+				this.RankLevel = ThreeBlobTab;
+				this.RankStar = ThreeBlob;
+			}
+			else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
+			{
+				this.RankLevel = 10;
+				this.RankStar = OneBar;
+			}
+			else
+			{
+				this.RankLevel = sqlUnit.Rank.RankLevel;
+				this.RankStar = sqlUnit.Rank.Rank1;
+			}
 
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
 
@@ -276,10 +277,10 @@ namespace Liaison.BLL.Models.Unit
                 return RankLevel.Value;
             }
 
-            if (this.CommandName.Contains("NAS"))
-            {
-                return 10;
-            }
+            //if (this.CommandName.Contains("NAS"))
+            //{
+            //    return 10;
+            //}
             return RankLevel ?? 0;
         }
 

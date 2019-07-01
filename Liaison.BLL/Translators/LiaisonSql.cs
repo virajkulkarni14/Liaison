@@ -458,7 +458,7 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {                    
-                    if (sqlUnit.AdminCorp?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.FleetArmArm)
+                    if (sqlUnit.AdminCorp?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.NavalAviation)
                     {
                         return new AirSquadron(sqlUnit);
                     }
