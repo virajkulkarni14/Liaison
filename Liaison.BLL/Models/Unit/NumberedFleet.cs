@@ -9,6 +9,8 @@ namespace Liaison.BLL.Models.Unit
 {
     public class NumberedFleet : ThreeStar
     {
+        
+
         public NumberedFleet(Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -41,6 +43,11 @@ namespace Liaison.BLL.Models.Unit
             sb.Append(this.Number.ToOrdinal(this.UseOrdinal) +" ");
             sb.Append("Fleet");
             return sb.ToString();
+        }
+
+        public override string GetAdminCorps()
+        {
+            return "";
         }
 
         public override int GetRankLevel()

@@ -7,10 +7,8 @@ namespace Liaison.BLL.Models.Unit.Abstracts
     {
         public abstract string GetName();
 
-        public string GetAdminCorps()
-        {
-            return "";
-        }
+        public abstract string GetAdminCorps();
+        
 
         public string PrintTree()
         {

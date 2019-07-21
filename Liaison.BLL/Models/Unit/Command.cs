@@ -30,6 +30,10 @@ namespace Liaison.BLL.Models.Unit
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
+            if (sqlUnit.AdminCorp != null)
+            {
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            }
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());

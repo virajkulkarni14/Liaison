@@ -87,13 +87,16 @@ namespace Liaison.BLL.Models.Unit
                     {
                         if (missions.Contains(this.MissionName) 
                             || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesReserveLogistics
                             || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalNavalMedicalService
                             || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineIntelligence
                             || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCommunications
                             || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesMilitaryPolice
                             || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
                             || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCavalry
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesEngineers)
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesEngineers
+                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCavalryReserve
+                            || this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarinesEngineersReserve)
                         {
                             sb.Append(this.MissionName);
                             //if (this.MissionName != "Commando")

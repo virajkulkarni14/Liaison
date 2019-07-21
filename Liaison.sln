@@ -73,6 +73,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{7314998F-7A22-43D6-92A7-6746B0662E79}"
 	ProjectSection(SolutionItems) = preProject
 		DatabaseBackups\sql\addcompaniestobattalion.sql = DatabaseBackups\sql\addcompaniestobattalion.sql
+		DatabaseBackups\sql\addcompaniestobattalionnonreg.sql = DatabaseBackups\sql\addcompaniestobattalionnonreg.sql
 		DatabaseBackups\sql\addunit.sql = DatabaseBackups\sql\addunit.sql
 		DatabaseBackups\sql\FindOrphans.sql = DatabaseBackups\sql\FindOrphans.sql
 		DatabaseBackups\sql\foreach.sql = DatabaseBackups\sql\foreach.sql

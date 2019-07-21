@@ -1,7 +1,9 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.BLL.Models.Unit.Interfaces;
+using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
@@ -26,6 +28,7 @@ namespace Liaison.BLL.Models.Unit
             this.Base = new BLLBase(sqlUnit.Bases.FirstOrDefault());
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex)
                 .Select(x => x.IndexCode).ToList();
+            this.Indices.Add(this.Base.AirfieldCode);
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
             //this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
 
@@ -46,6 +49,9 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetName()
         {
+            Dictionary<string, string> diction = Liaison.Data.Sql.GetStuff.GetDictionary("FacilityGetName");
+
+
             StringBuilder sb = new StringBuilder();
             if (this.Vessel != null)
             {
@@ -58,7 +64,13 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append(")");
             }
 
-            return sb.ToString();
+            var returnable = sb.ToString();
+            foreach (var thing in diction)
+            {
+                returnable = returnable.Replace(thing.Key, thing.Value);
+            }
+
+            return returnable;
         }
 
         public string PrintTree()

@@ -85,9 +85,6 @@ namespace Liaison.BLL.Models.Unit
                 if (this.MissionName != null)
                 {
                     Dictionary<string, string> prefabMissions = Liaison.Data.Sql.GetStuff.GetDictionary("CompanyGetName");
-
-
-
                     
                         //new Dictionary<string, string>
                         //{

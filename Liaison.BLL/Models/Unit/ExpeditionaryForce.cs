@@ -104,7 +104,12 @@ namespace Liaison.BLL.Models.Unit
 			return sb.ToString();
 		}
 
-		public override int GetRankLevel()
+	    public override string GetAdminCorps()
+	    {
+	        return "";
+	    }
+
+	    public override int GetRankLevel()
 		{
 			return RankLevel ?? 0;
 		}

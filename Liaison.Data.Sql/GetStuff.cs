@@ -1,4 +1,5 @@
-﻿using Liaison.Data.Sql.Edmx;
+﻿using System;
+using Liaison.Data.Sql.Edmx;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -83,12 +84,42 @@ namespace Liaison.Data.Sql
             }
         }
 
+        //private static List<Tuple<string, string, string>> _dictionary = null;
+        //public static Dictionary<string, string> GetDictionary(string dicttype)
+        //{
+        //    if (_dictionary == null)
+        //    {
+        //        _dictionary = new List<Tuple<string, string, string>>();
+        //        using (var context = new LiaisonEntities())
+        //        {
+        //            var data = context.Dictionaries;
+
+        //            foreach (var d in data)
+        //            {
+        //                _dictionary.Add(new Tuple<string, string, string>(d.Key, d.Value, d.Type));
+        //            }
+
+
+        //        }
+        //    }
+
+        //    Dictionary<string, string> returnable = new Dictionary<string, string>();
+        //    foreach (var d in _dictionary)
+        //    {
+        //        if (d.Item3 == dicttype)
+        //        {
+        //            returnable.Add(d.Item1, d.Item2);
+        //        }
+        //    }
+
+        //    return returnable;
+        //}
         public static Dictionary<string, string> GetDictionary(string dicttype)
         {
             using (var context = new LiaisonEntities())
             {
                 var data = context.Dictionaries.Where(d => d.Type == dicttype);
-                var dictionary = new Dictionary<string,string>();
+                var dictionary = new Dictionary<string, string>();
                 foreach (var d in data)
                 {
                     dictionary.Add(d.Key, d.Value);

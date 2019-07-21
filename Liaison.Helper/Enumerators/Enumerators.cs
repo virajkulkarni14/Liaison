@@ -90,7 +90,7 @@ namespace Liaison.Helper.Enumerators
         MAGTF = 1277,
         RoyalMarineLandForces = 71,
         CorpsOfRoyalMarines = 74,
-        RoyalMarinesReserve= 3289,
+        RoyalMarinesReserve = 3289,
 
         //M/C2
         MarineHeadquartersGroups = 3278,
@@ -98,6 +98,7 @@ namespace Liaison.Helper.Enumerators
         //M/LAND/CAV
 
         RoyalMarineCavalry = 3283,
+        RoyalMarineCavalryReserve = 4286,
 
         //M/LAND/INF
         RoyalMarineLightInfantry = 75,
@@ -111,15 +112,18 @@ namespace Liaison.Helper.Enumerators
         //M/AIR
         RoyalMarineAviation = 68,
         RoyalMarinesAirArm = 76,
+        RoyalMarineReserveAirArm = 5286,
         RoyalIndianMarinesAirArm = 77,
 
         //M/CS
         RoyalMarineIntelligence = 1280,
         RoyalMarineCommunications = 1281,
         RoyalMarinesEngineers = 3279,
+        RoyalMarinesEngineersReserve = 4287,
 
         //M/CSS
         RoyalMarineLogistics = 73,
+        RoyalMarinesReserveLogistics = 5287,
         RoyalMarinesMilitaryPolice = 1282,
         RMRCivilAffairs = 3286,
     }
