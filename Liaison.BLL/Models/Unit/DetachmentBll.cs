@@ -100,7 +100,12 @@ namespace Liaison.BLL.Models.Unit
 			}
 			else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
 			{
-				this.RankLevel = 10;
+				this.RankLevel = OneBarTab;
+				this.RankStar = OneBar;
+			}
+			else if (this.CommandName.EndsWith("Sqn., RAF") || this.CommandName.EndsWith("Wg., RAF"))
+			{
+				this.RankLevel = OneBarTab;
 				this.RankStar = OneBar;
 			}
 			else
@@ -263,7 +268,8 @@ namespace Liaison.BLL.Models.Unit
                 var x = this.CommandName;
                 //string a = "b";
             }
-            if (this.MissionName == ResourceStrings.HQHQ)
+
+			if (this.MissionName == ResourceStrings.HQHQ)
             {
                 return OneBarTab;
             }

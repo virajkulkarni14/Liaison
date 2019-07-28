@@ -63,7 +63,7 @@ namespace Liaison.BLL.Models.Unit
 
             if (!string.IsNullOrWhiteSpace(this.TaskForceName))
             {
-                return "Task Force " + this.TaskForceName + mission;
+                return this.TaskForceName + mission;
             }
 
             if (TaskUnit != null)

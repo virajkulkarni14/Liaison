@@ -423,6 +423,11 @@ namespace Liaison.BLL.Translators
                 {
                     if (sqlUnit.MissionName != null)
                     {
+						if (sqlUnit.UnitTypeVariant=="Sqn")
+						{
+							sqlUnit.UnitTypeVariant = null;
+							return new AirSquadron(sqlUnit);
+						}
                         return new JointUnit(sqlUnit);
                     }
                     if (sqlUnit.CommandName.StartsWith("Joint") && sqlUnit.CommandName.Contains("Component"))
