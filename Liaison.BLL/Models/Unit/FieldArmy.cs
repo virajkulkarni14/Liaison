@@ -58,6 +58,7 @@ namespace Liaison.BLL.Models.Unit
             this.UnitGuid = sqlUnit.UnitGuid;
             this.Number = sqlUnit.Number;
             this.MissionName = sqlUnit.MissionName;
+            this.CommandName = sqlUnit.CommandName;
             this.RankLevel = sqlUnit.Rank.RankLevel;
             this.RankStar = sqlUnit.Rank.Rank1;
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
@@ -76,6 +77,8 @@ namespace Liaison.BLL.Models.Unit
             this.Relationships = new BLLRelationships(sqlUnit.UnitId, relt);
         }
 
+        public string CommandName { get; set; }
+
         public override string GetName()
         {
             StringBuilder sb =new StringBuilder();
@@ -85,6 +88,10 @@ namespace Liaison.BLL.Models.Unit
                 sb.Append("(" + this.MissionName + ") ");
             }
             sb.Append("Army");
+            if (!string.IsNullOrWhiteSpace(this.CommandName))
+            {
+                sb.Append(" (" + this.CommandName + ")");
+            }
             return sb.ToString();
 
         }

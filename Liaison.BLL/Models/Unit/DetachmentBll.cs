@@ -79,7 +79,7 @@ namespace Liaison.BLL.Models.Unit
 			}
 			else if (this.CommandName.StartsWith("Det") && (this.CommandName.EndsWith("NAS")))
 			{
-				this.RankLevel = 10;
+				this.RankLevel = OneBarTab;
 				this.RankStar = OneBar;
 			}
 			else if (this.CommandName.StartsWith("HHD"))
@@ -98,12 +98,16 @@ namespace Liaison.BLL.Models.Unit
 				this.RankLevel = ThreeBlobTab;
 				this.RankStar = ThreeBlob;
 			}
-			else if (this.CommandName.Contains("Wing") && this.CommandName.Contains("Det"))
+			else if (this.CommandName.Contains("Wing") 
+			         && this.CommandName.Contains("Det"))
 			{
 				this.RankLevel = OneBarTab;
 				this.RankStar = OneBar;
 			}
-			else if (this.CommandName.EndsWith("Sqn., RAF") || this.CommandName.EndsWith("Wg., RAF"))
+			else if (this.CommandName.EndsWith("Sqn., RAF") 
+			         || this.CommandName.EndsWith("Wg., RAF") 
+			         || this.CommandName.EndsWith("S, RAF")
+			         ||this.CommandName.EndsWith("FHQ, RAF"))
 			{
 				this.RankLevel = OneBarTab;
 				this.RankStar = OneBar;
@@ -292,7 +296,8 @@ namespace Liaison.BLL.Models.Unit
 
         public string GetRankStar()
         {
-            return RankStar;
+            return "?";
+            //return RankStar;
         }
 
         public string GetIndexes()

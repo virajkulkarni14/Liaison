@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Liaison.Helper.Enumerators
 {
     [SuppressMessage("ReSharper", "InconsistentNaming")]
-    public enum UnitRankSorter
+    public enum UnitRankSymbol
     {
         Detachment = '?',
         XXXXXXX = '"',

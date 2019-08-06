@@ -93,6 +93,12 @@ namespace Liaison.BLL.Translators
                 return new DefaultUnit();
             }
 
+            if (sqlUnit.RankSymbol == "?")
+            {
+                var detachment = new DetachmentBll(sqlUnit);
+                return detachment.GetRankLevel() > _depthRequired ? (IUnit) new DefaultUnit() : detachment;
+            }
+
             var cont = thisUnitRankLevel <= _depthRequired;
 
             if (sqlUnit.MissionName != null && sqlUnit.MissionName.Contains("Directorate"))

@@ -59,7 +59,7 @@ namespace Liaison.BLL.Models.Unit
 
         public override string GetName()
         {
-	        if (!string.IsNullOrWhiteSpace(this.CommandName))
+	        if (this.Number==null && (!string.IsNullOrWhiteSpace(this.CommandName)))
 	        {
 	            return this.CommandName.Replace("_", "");
 	        }
@@ -116,7 +116,7 @@ namespace Liaison.BLL.Models.Unit
 
 			        if (!string.IsNullOrWhiteSpace(this.CommandName))
 			        {
-				        sb.Append(" / " + this.MissionName);
+				        sb.Append(" / " + this.CommandName);
 			        }
 		        }
 

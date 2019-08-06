@@ -132,6 +132,69 @@ namespace Liaison.BLL.Models
                     }
                     return "Twenty-" + x.ToOrdinalAsWord();
                 }
+                if (input < 40)
+                {
+                    var x = input - 30;
+                    if (x == 0)
+                    {
+                        return "Thirtieth";
+                    }
+                    return "Thirty-" + x.ToOrdinalAsWord();
+                }
+                if (input < 50)
+                {
+                    var x = input - 40;
+                    if (x == 0)
+                    {
+                        return "Fourtieth";
+                    }
+                    return "Fourty-" + x.ToOrdinalAsWord();
+                }
+                if (input < 60)
+                {
+                    var x = input - 50;
+                    if (x == 0)
+                    {
+                        return "Fiftieth";
+                    }
+                    return "Fifty-" + x.ToOrdinalAsWord();
+                }
+                if (input < 70)
+                {
+                    var x = input - 60;
+                    if (x == 0)
+                    {
+                        return "Sixtieth";
+                    }
+                    return "Sixty-" + x.ToOrdinalAsWord();
+                }
+                if (input < 80)
+                {
+                    var x = input - 70;
+                    if (x == 0)
+                    {
+                        return "Seventieth";
+                    }
+                    return "Seventy-" + x.ToOrdinalAsWord();
+                }
+                if (input < 90)
+                {
+                    var x = input - 80;
+                    if (x == 0)
+                    {
+                        return "Eightieth";
+                    }
+                    return "Eighty-" + x.ToOrdinalAsWord();
+                }
+                if (input < 100)
+                {
+                    var x = input - 90;
+                    if (x == 0)
+                    {
+                        return "Ninetieth";
+                    }
+                    return "Ninety-" + x.ToOrdinalAsWord();
+                }
             }
             
 
