@@ -90,6 +90,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "massinsert", "massinsert", 
 		DatabaseBackups\sql\massinsert\SchemaAndData.sql = DatabaseBackups\sql\massinsert\SchemaAndData.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Liaison.Documents", "Liaison.Documents", "{360E5F0B-8DE4-4235-991B-753042EC3B07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
