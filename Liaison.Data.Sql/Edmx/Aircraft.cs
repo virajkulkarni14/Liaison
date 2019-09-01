@@ -21,19 +21,19 @@ namespace Liaison.Data.Sql.Edmx
         }
     
         public Nullable<int> AircraftId { get; set; }
+        public Nullable<System.DateTime> FirstDate { get; set; }
         public System.Guid AircraftGuid { get; set; }
+        public string SeriesCode { get; set; }
+        public string SeriesCodeSort { get; set; }
         public string Name { get; set; }
+        public string SortName { get; set; }
         public string Mark { get; set; }
         public string Sort { get; set; }
         public string AltCode { get; set; }
         public string AltName { get; set; }
         public string AltSort { get; set; }
-        public string SortName { get; set; }
         public string Notes { get; set; }
         public Nullable<bool> DoNotUse { get; set; }
-        public Nullable<System.DateTime> FirstDate { get; set; }
-        public string SeriesCode { get; set; }
-        public string SeriesCodeSort { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<EquipmentOwner> EquipmentOwners { get; set; }

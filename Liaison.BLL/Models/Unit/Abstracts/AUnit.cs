@@ -177,7 +177,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
 
             string mission = unit.GetMission();
             string indexes = unit.GetIndexes().Replace("_", "");
-            string equipment = unit.GetEquipment();
+            EquipmentContainer equipment = unit.GetEquipment();
             string unitAdminCorps = unit.GetAdminCorps();
 
 
@@ -205,9 +205,22 @@ namespace Liaison.BLL.Models.Unit.Abstracts
                 sb.Append(" [<span class='lzMission'>" + mission + "</span>]");
             }
 
-            if (!string.IsNullOrWhiteSpace(equipment))
+            //bool doEquipment = false;
+            //bool equipmentDone = false;
+            if (!string.IsNullOrWhiteSpace(equipment?.MainEquipment))
             {
-                sb.Append(" <span class='lzEquipment'>" + equipment + "</span>");
+                //doEquipment = true;
+                if (string.IsNullOrWhiteSpace(equipment.SecondaryEquipment))
+                {
+                    //equipmentDone = true;
+                    sb.Append(" <span class='lzEquipment'>" + equipment.MainEquipment + "</span>");
+                }
+                else
+                {
+                    sb.Append(" <span class='lzEquipmentHover'>" + equipment.MainEquipment);
+                    sb.Append(" <span class='lzEquipmentTooltip'>" + equipment.SecondaryEquipment + "</span>");
+                    sb.Append("</span> ");
+                }
             }
 
             if (!string.IsNullOrWhiteSpace(unitAdminCorps))
@@ -223,6 +236,11 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             {
                 sb.Append(", <span class='lzBase'>" + unit.GetBase() + "</span>");
             }
+
+            //if (doEquipment&& !equipmentDone)
+            //{
+            //    sb.Append(" <br><span class='lzEquipment'>" + equipment + "</span></br>");
+            //}
 
             sb.Append(Environment.NewLine);
 
@@ -253,7 +271,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
                     List<string> sortOrder = LiaisonSql.GetSortOrder();
 
                     foreach (var str in sortOrder)
-                    {
+                    {   
                         var found = currentRankedUnits.Where(u => u.Unit.GetSortString().StartsWith(str)).ToList();
                         if (found.Count > 0)
                         {
@@ -262,7 +280,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
                             log.Add("Adding " + string.Join(",", l) + " because " + str);
                         }
 
-                        foreach (var f in found)
+                         foreach (var f in found)
                         {
                             currentRankedUnits.Remove(f);
                         }

@@ -40,13 +40,14 @@ namespace Liaison.Data.Sql.Edmx
         public virtual DbSet<AdminCorp> AdminCorps { get; set; }
         public virtual DbSet<TaskForce> TaskForces { get; set; }
         public virtual DbSet<ShipPrefix> ShipPrefixes { get; set; }
-        public virtual DbSet<Aircraft> Aircraft { get; set; }
         public virtual DbSet<Ship> Ships { get; set; }
-        public virtual DbSet<EquipmentOwner> EquipmentOwners { get; set; }
         public virtual DbSet<ShipClassMember> ShipClassMembers { get; set; }
         public virtual DbSet<ShipClass> ShipClasses { get; set; }
         public virtual DbSet<ConfigSetting> ConfigSettings { get; set; }
         public virtual DbSet<AltCode> AltCodes { get; set; }
         public virtual DbSet<Dictionary> Dictionaries { get; set; }
+        public virtual DbSet<Aircraft> Aircraft { get; set; }
+        public virtual DbSet<EquipmentOwner> EquipmentOwners { get; set; }
+        public virtual DbSet<GroundEquipment> GroundEquipments { get; set; }
     }
 }

@@ -115,15 +115,14 @@ namespace Liaison.BLL.Models.Unit
             return this.Indices == null ? string.Empty : string.Join(ResourceStrings.Seperator, this.Indices);
         }
 
-        public string GetEquipment()
+        public EquipmentContainer GetEquipment()
         {
             if (this.ShipClass == null)
             {
-                return "";
+                return new EquipmentContainer(string.Empty);
             }
 
-return this.ShipClass.GetClassName();
-       
+            return new EquipmentContainer(this.ShipClass.GetClassName());
         }
 
         public bool IsTaskForce { get; }

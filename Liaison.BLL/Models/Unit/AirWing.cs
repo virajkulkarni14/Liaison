@@ -1,6 +1,7 @@
 ﻿using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Data.Sql.Edmx;
 using Liaison.Helper.Enumerators;
@@ -185,7 +186,7 @@ namespace Liaison.BLL.Models.Unit
 
 
 
-        public override string GetEquipment()
+        public override EquipmentContainer GetEquipment()
         {
             bool showAltName = true;
             StringBuilder sb = new StringBuilder();
@@ -207,7 +208,7 @@ namespace Liaison.BLL.Models.Unit
             }
 
             var x = sb.ToString();
-            return x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x;
+            return new EquipmentContainer(x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x);
         }
     }
 }

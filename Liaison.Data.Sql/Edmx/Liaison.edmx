@@ -54,6 +54,7 @@
           </Key>
           <Property Name="BaseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="SortName" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="FullName" Type="nvarchar(max)" />
           <Property Name="Prefix" Type="nvarchar" MaxLength="50" />
           <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="Suffix" Type="nvarchar" MaxLength="50" />
@@ -65,6 +66,7 @@
           <Property Name="FAACode" Type="nvarchar" MaxLength="5" />
           <Property Name="AFDCode" Type="nvarchar" MaxLength="4" />
           <Property Name="ParentBaseId" Type="int" />
+          <Property Name="ReplacementBaseId" Type="int" />
           <Property Name="ShipId" Type="uniqueidentifier" />
           <Property Name="City" Type="nvarchar" MaxLength="255" />
           <Property Name="ISO3166" Type="nvarchar" MaxLength="10" />
@@ -93,8 +95,26 @@
           <Property Name="UnitId" Type="int" Nullable="false" />
           <Property Name="Quantity" Type="decimal" Precision="5" Scale="1" />
           <Property Name="Notes" Type="nvarchar(max)" />
-          <Property Name="AircraftId" Type="uniqueidentifier" />
           <Property Name="IsOwner" Type="bit" />
+          <Property Name="AircraftId" Type="uniqueidentifier" />
+          <Property Name="GroundEquipmentId" Type="uniqueidentifier" />
+        </EntityType>
+        <EntityType Name="GroundEquipment">
+          <Key>
+            <PropertyRef Name="EquipmentGuid" />
+          </Key>
+          <Property Name="GroundEquipmentId" Type="int" />
+          <Property Name="EquipmentGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Designation" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" />
+          <Property Name="PrintName" Type="nvarchar" MaxLength="50" />
+          <Property Name="FamilyDesignation" Type="nvarchar" MaxLength="50" />
+          <Property Name="SortName" Type="nvarchar" MaxLength="255" />
+          <Property Name="AltCode" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltName" Type="nvarchar" MaxLength="50" />
+          <Property Name="AltSort" Type="nvarchar" MaxLength="50" />
+          <Property Name="Notes" Type="nvarchar(max)" />
+          <Property Name="DoNotUse" Type="bit" />
         </EntityType>
         <EntityType Name="Mission">
           <Key>
@@ -239,6 +259,8 @@
           <Property Name="SortOrderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="SearchTerm" Type="nvarchar" MaxLength="255" Nullable="false" />
           <Property Name="SortOrderRank" Type="int" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="255" />
+          <Property Name="Notes" Type="nvarchar(max)" />
         </EntityType>
         <EntityType Name="TaskForce">
           <Key>
@@ -347,6 +369,18 @@
             </Principal>
             <Dependent Role="EquipmentOwner">
               <PropertyRef Name="AircraftId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_EquipmentOwner_GroundEquipment">
+          <End Role="GroundEquipment" Type="Self.GroundEquipment" Multiplicity="0..1" />
+          <End Role="EquipmentOwner" Type="Self.EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GroundEquipment">
+              <PropertyRef Name="EquipmentGuid" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="GroundEquipmentId" />
             </Dependent>
           </ReferentialConstraint>
         </Association>
@@ -562,6 +596,7 @@
           <EntitySet Name="ConfigSettings" EntityType="Self.ConfigSettings" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Dictionary" EntityType="Self.Dictionary" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="EquipmentOwner" EntityType="Self.EquipmentOwner" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="GroundEquipment" EntityType="Self.GroundEquipment" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Mission" EntityType="Self.Mission" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="MissionUnit" EntityType="Self.MissionUnit" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Rank" EntityType="Self.Rank" Schema="dbo" store:Type="Tables" />
@@ -592,6 +627,10 @@
           </AssociationSet>
           <AssociationSet Name="FK_EquipmentOwner_Aircraft" Association="Self.FK_EquipmentOwner_Aircraft">
             <End Role="Aircraft" EntitySet="Aircraft" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwner" />
+          </AssociationSet>
+          <AssociationSet Name="FK_EquipmentOwner_GroundEquipment" Association="Self.FK_EquipmentOwner_GroundEquipment">
+            <End Role="GroundEquipment" EntitySet="GroundEquipment" />
             <End Role="EquipmentOwner" EntitySet="EquipmentOwner" />
           </AssociationSet>
           <AssociationSet Name="FK_EquipmentOwner_Unit" Association="Self.FK_EquipmentOwner_Unit">
@@ -758,7 +797,6 @@
             <End Role="AdminCorp" EntitySet="AdminCorps" />
           </AssociationSet>
           <EntitySet Name="ShipPrefixes" EntityType="LiaisonModel.ShipPrefix" />
-          <EntitySet Name="Aircraft" EntityType="LiaisonModel.Aircraft" />
           <EntitySet Name="Ships" EntityType="LiaisonModel.Ship" />
           <AssociationSet Name="FK_Ship_NewShip" Association="LiaisonModel.FK_Ship_NewShip">
             <End Role="Ship" EntitySet="Ships" />
@@ -771,15 +809,6 @@
           <AssociationSet Name="FK_Ship_Unit" Association="LiaisonModel.FK_Ship_Unit">
             <End Role="Unit" EntitySet="Units" />
             <End Role="Ship" EntitySet="Ships" />
-          </AssociationSet>
-          <EntitySet Name="EquipmentOwners" EntityType="LiaisonModel.EquipmentOwner" />
-          <AssociationSet Name="FK_EquipmentOwner_Aircraft" Association="LiaisonModel.FK_EquipmentOwner_Aircraft">
-            <End Role="Aircraft" EntitySet="Aircraft" />
-            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
-          </AssociationSet>
-          <AssociationSet Name="FK_EquipmentOwner_Unit" Association="LiaisonModel.FK_EquipmentOwner_Unit">
-            <End Role="Unit" EntitySet="Units" />
-            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
           </AssociationSet>
           <EntitySet Name="ShipClassMembers" EntityType="LiaisonModel.ShipClassMember" />
           <AssociationSet Name="FK_ShipClassMember_Ship" Association="LiaisonModel.FK_ShipClassMember_Ship">
@@ -802,6 +831,21 @@
           </AssociationSet>
           <EntitySet Name="AltCodes" EntityType="LiaisonModel.AltCode" />
           <EntitySet Name="Dictionaries" EntityType="LiaisonModel.Dictionary" />
+          <EntitySet Name="Aircraft" EntityType="LiaisonModel.Aircraft" />
+          <EntitySet Name="EquipmentOwners" EntityType="LiaisonModel.EquipmentOwner" />
+          <AssociationSet Name="FK_EquipmentOwner_Aircraft" Association="LiaisonModel.FK_EquipmentOwner_Aircraft">
+            <End Role="Aircraft" EntitySet="Aircraft" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
+          </AssociationSet>
+          <AssociationSet Name="FK_EquipmentOwner_Unit" Association="LiaisonModel.FK_EquipmentOwner_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
+          </AssociationSet>
+          <EntitySet Name="GroundEquipments" EntityType="LiaisonModel.GroundEquipment" />
+          <AssociationSet Name="FK_EquipmentOwner_GroundEquipment" Association="LiaisonModel.FK_EquipmentOwner_GroundEquipment">
+            <End Role="GroundEquipment" EntitySet="GroundEquipments" />
+            <End Role="EquipmentOwner" EntitySet="EquipmentOwners" />
+          </AssociationSet>
           </EntityContainer>
         <EntityType Name="RelationshipType">
           <Key>
@@ -867,13 +911,13 @@
           <NavigationProperty Name="TaskForce" Relationship="LiaisonModel.FK_TaskForce_Unit" FromRole="Unit" ToRole="TaskForce" />
           <NavigationProperty Name="AdminCorps" Relationship="LiaisonModel.FK_AdminCorps_AdminCorps" FromRole="Unit" ToRole="AdminCorp" />
           <NavigationProperty Name="Ships" Relationship="LiaisonModel.FK_Ship_Unit" FromRole="Unit" ToRole="Ship" />
-          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="Unit" ToRole="EquipmentOwner" />
           <Property Name="CanHide" Type="Boolean" Nullable="false" />
           <Property Name="UnitTypeVariant" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="Decommissioned" Type="Boolean" />
           <Property Name="Letter" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
           <Property Name="Language" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
           <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="Unit" ToRole="EquipmentOwner" />
         </EntityType>
         <Association Name="FK_Unit_Rank">
           <End Type="LiaisonModel.Rank" Role="Rank" Multiplicity="1" />
@@ -990,6 +1034,8 @@
           <Property Name="City" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="ISO3166" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
           <Property Name="Decommissioned" Type="Boolean" />
+          <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="ReplacementBaseId" Type="Int32" />
         </EntityType>
         <Association Name="FK_Base_Base">
           <End Type="LiaisonModel.Base" Role="Base" Multiplicity="0..1" />
@@ -1127,6 +1173,8 @@
           <Property Name="SortOrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="SearchTerm" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="SortOrderRank" Type="Int32" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="AdminCorp">
           <Key>
@@ -1201,26 +1249,6 @@
           <Property Name="ShipPrefix1" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="Ships" Relationship="LiaisonModel.FK_Ship_ShipPrefix" FromRole="ShipPrefix" ToRole="Ship" />
         </EntityType>
-        <EntityType Name="Aircraft">
-          <Key>
-            <PropertyRef Name="AircraftGuid" />
-          </Key>
-          <Property Name="AircraftId" Type="Int32" />
-          <Property Name="AircraftGuid" Type="Guid" Nullable="false" />
-          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="Mark" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="Sort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="AltCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="AltName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="AltSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="Aircraft" ToRole="EquipmentOwner" />
-          <Property Name="SortName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-          <Property Name="DoNotUse" Type="Boolean" />
-          <Property Name="FirstDate" Type="DateTime" Precision="0" />
-          <Property Name="SeriesCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="SeriesCodeSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-        </EntityType>
         <EntityType Name="Ship">
           <Key>
             <PropertyRef Name="ShipId" />
@@ -1281,43 +1309,6 @@
               <PropertyRef Name="UnitId" />
             </Principal>
             <Dependent Role="Ship">
-              <PropertyRef Name="UnitId" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
-        <EntityType Name="EquipmentOwner">
-          <Key>
-            <PropertyRef Name="EquipmentOwnerId" />
-          </Key>
-          <Property Name="EquipmentOwnerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="UnitId" Type="Int32" Nullable="false" />
-          <Property Name="Quantity" Type="Decimal" Precision="5" Scale="1" />
-          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-          <Property Name="AircraftId" Type="Guid" />
-          <NavigationProperty Name="Aircraft" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="EquipmentOwner" ToRole="Aircraft" />
-          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="EquipmentOwner" ToRole="Unit" />
-          <Property Name="IsOwner" Type="Boolean" />
-        </EntityType>
-        <Association Name="FK_EquipmentOwner_Aircraft">
-          <End Type="LiaisonModel.Aircraft" Role="Aircraft" Multiplicity="0..1" />
-          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="Aircraft">
-              <PropertyRef Name="AircraftGuid" />
-            </Principal>
-            <Dependent Role="EquipmentOwner">
-              <PropertyRef Name="AircraftId" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
-        <Association Name="FK_EquipmentOwner_Unit">
-          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
-          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="Unit">
-              <PropertyRef Name="UnitId" />
-            </Principal>
-            <Dependent Role="EquipmentOwner">
               <PropertyRef Name="UnitId" />
             </Dependent>
           </ReferentialConstraint>
@@ -1421,6 +1412,95 @@
           <Property Name="Value" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="Type" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
         </EntityType>
+        <EntityType Name="Aircraft">
+          <Key>
+            <PropertyRef Name="AircraftGuid" />
+          </Key>
+          <Property Name="AircraftId" Type="Int32" />
+          <Property Name="FirstDate" Type="DateTime" Precision="0" />
+          <Property Name="AircraftGuid" Type="Guid" Nullable="false" />
+          <Property Name="SeriesCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SeriesCodeSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SortName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Mark" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Sort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="DoNotUse" Type="Boolean" />
+          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="Aircraft" ToRole="EquipmentOwner" />
+        </EntityType>
+        <EntityType Name="EquipmentOwner">
+          <Key>
+            <PropertyRef Name="EquipmentOwnerId" />
+          </Key>
+          <Property Name="EquipmentOwnerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="Quantity" Type="Decimal" Precision="5" Scale="1" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IsOwner" Type="Boolean" />
+          <Property Name="AircraftId" Type="Guid" />
+          <Property Name="GroundEquipmentId" Type="Guid" />
+          <NavigationProperty Name="Aircraft" Relationship="LiaisonModel.FK_EquipmentOwner_Aircraft" FromRole="EquipmentOwner" ToRole="Aircraft" />
+          <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_EquipmentOwner_Unit" FromRole="EquipmentOwner" ToRole="Unit" />
+          <NavigationProperty Name="GroundEquipment" Relationship="LiaisonModel.FK_EquipmentOwner_GroundEquipment" FromRole="EquipmentOwner" ToRole="GroundEquipment" />
+        </EntityType>
+        <Association Name="FK_EquipmentOwner_Aircraft">
+          <End Type="LiaisonModel.Aircraft" Role="Aircraft" Multiplicity="0..1" />
+          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Aircraft">
+              <PropertyRef Name="AircraftGuid" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="AircraftId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_EquipmentOwner_Unit">
+          <End Type="LiaisonModel.Unit" Role="Unit" Multiplicity="1" />
+          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitId" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="UnitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="GroundEquipment">
+          <Key>
+            <PropertyRef Name="EquipmentGuid" />
+          </Key>
+          <Property Name="GroundEquipmentId" Type="Int32" />
+          <Property Name="EquipmentGuid" Type="Guid" Nullable="false" />
+          <Property Name="Designation" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="FamilyDesignation" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SortName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="AltCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AltSort" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="DoNotUse" Type="Boolean" />
+          <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_GroundEquipment" FromRole="GroundEquipment" ToRole="EquipmentOwner" />
+          <Property Name="PrintName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK_EquipmentOwner_GroundEquipment">
+          <End Type="LiaisonModel.GroundEquipment" Role="GroundEquipment" Multiplicity="0..1" />
+          <End Type="LiaisonModel.EquipmentOwner" Role="EquipmentOwner" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GroundEquipment">
+              <PropertyRef Name="EquipmentGuid" />
+            </Principal>
+            <Dependent Role="EquipmentOwner">
+              <PropertyRef Name="GroundEquipmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -1534,6 +1614,8 @@
           <EntitySetMapping Name="Bases">
             <EntityTypeMapping TypeName="LiaisonModel.Base">
               <MappingFragment StoreEntitySet="Base">
+                <ScalarProperty Name="ReplacementBaseId" ColumnName="ReplacementBaseId" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
                 <ScalarProperty Name="Decommissioned" ColumnName="Decommissioned" />
                 <ScalarProperty Name="ISO3166" ColumnName="ISO3166" />
                 <ScalarProperty Name="City" ColumnName="City" />
@@ -1596,6 +1678,8 @@
           <EntitySetMapping Name="SortOrders">
             <EntityTypeMapping TypeName="LiaisonModel.SortOrder">
               <MappingFragment StoreEntitySet="SortOrder">
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
                 <ScalarProperty Name="SortOrderRank" ColumnName="SortOrderRank" />
                 <ScalarProperty Name="SearchTerm" ColumnName="SearchTerm" />
                 <ScalarProperty Name="SortOrderId" ColumnName="SortOrderId" />
@@ -1638,26 +1722,6 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
-          <EntitySetMapping Name="Aircraft">
-            <EntityTypeMapping TypeName="LiaisonModel.Aircraft">
-              <MappingFragment StoreEntitySet="Aircraft">
-                <ScalarProperty Name="SeriesCodeSort" ColumnName="SeriesCodeSort" />
-                <ScalarProperty Name="SeriesCode" ColumnName="SeriesCode" />
-                <ScalarProperty Name="FirstDate" ColumnName="FirstDate" />
-                <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
-                <ScalarProperty Name="Notes" ColumnName="Notes" />
-                <ScalarProperty Name="SortName" ColumnName="SortName" />
-                <ScalarProperty Name="AltSort" ColumnName="AltSort" />
-                <ScalarProperty Name="AltName" ColumnName="AltName" />
-                <ScalarProperty Name="AltCode" ColumnName="AltCode" />
-                <ScalarProperty Name="Sort" ColumnName="Sort" />
-                <ScalarProperty Name="Mark" ColumnName="Mark" />
-                <ScalarProperty Name="Name" ColumnName="Name" />
-                <ScalarProperty Name="AircraftGuid" ColumnName="AircraftGuid" />
-                <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
           <EntitySetMapping Name="Ships">
             <EntityTypeMapping TypeName="LiaisonModel.Ship">
               <MappingFragment StoreEntitySet="Ship">
@@ -1678,18 +1742,6 @@
                 <ScalarProperty Name="Name" ColumnName="Name" />
                 <ScalarProperty Name="ShipPrefixId" ColumnName="ShipPrefixId" />
                 <ScalarProperty Name="ShipId" ColumnName="ShipId" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="EquipmentOwners">
-            <EntityTypeMapping TypeName="LiaisonModel.EquipmentOwner">
-              <MappingFragment StoreEntitySet="EquipmentOwner">
-                <ScalarProperty Name="IsOwner" ColumnName="IsOwner" />
-                <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
-                <ScalarProperty Name="Notes" ColumnName="Notes" />
-                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
-                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
-                <ScalarProperty Name="EquipmentOwnerId" ColumnName="EquipmentOwnerId" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
@@ -1739,6 +1791,57 @@
                 <ScalarProperty Name="Type" ColumnName="Type" />
                 <ScalarProperty Name="Value" ColumnName="Value" />
                 <ScalarProperty Name="Key" ColumnName="Key" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Aircraft">
+            <EntityTypeMapping TypeName="LiaisonModel.Aircraft">
+              <MappingFragment StoreEntitySet="Aircraft">
+                <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="AltSort" ColumnName="AltSort" />
+                <ScalarProperty Name="AltName" ColumnName="AltName" />
+                <ScalarProperty Name="AltCode" ColumnName="AltCode" />
+                <ScalarProperty Name="Sort" ColumnName="Sort" />
+                <ScalarProperty Name="Mark" ColumnName="Mark" />
+                <ScalarProperty Name="SortName" ColumnName="SortName" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="SeriesCodeSort" ColumnName="SeriesCodeSort" />
+                <ScalarProperty Name="SeriesCode" ColumnName="SeriesCode" />
+                <ScalarProperty Name="AircraftGuid" ColumnName="AircraftGuid" />
+                <ScalarProperty Name="FirstDate" ColumnName="FirstDate" />
+                <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EquipmentOwners">
+            <EntityTypeMapping TypeName="LiaisonModel.EquipmentOwner">
+              <MappingFragment StoreEntitySet="EquipmentOwner">
+                <ScalarProperty Name="GroundEquipmentId" ColumnName="GroundEquipmentId" />
+                <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+                <ScalarProperty Name="IsOwner" ColumnName="IsOwner" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="EquipmentOwnerId" ColumnName="EquipmentOwnerId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GroundEquipments">
+            <EntityTypeMapping TypeName="LiaisonModel.GroundEquipment">
+              <MappingFragment StoreEntitySet="GroundEquipment">
+                <ScalarProperty Name="PrintName" ColumnName="PrintName" />
+                <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+                <ScalarProperty Name="AltSort" ColumnName="AltSort" />
+                <ScalarProperty Name="AltName" ColumnName="AltName" />
+                <ScalarProperty Name="AltCode" ColumnName="AltCode" />
+                <ScalarProperty Name="SortName" ColumnName="SortName" />
+                <ScalarProperty Name="FamilyDesignation" ColumnName="FamilyDesignation" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Designation" ColumnName="Designation" />
+                <ScalarProperty Name="EquipmentGuid" ColumnName="EquipmentGuid" />
+                <ScalarProperty Name="GroundEquipmentId" ColumnName="GroundEquipmentId" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

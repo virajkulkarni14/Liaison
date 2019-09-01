@@ -1,7 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Unit.Abstracts;
+using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Objects;
 using Liaison.Helper.Enumerators;
 
 namespace Liaison.BLL.Models.Unit
@@ -23,6 +26,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL) sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.CommandName = sqlUnit.CommandName;
@@ -207,9 +211,10 @@ namespace Liaison.BLL.Models.Unit
 
         public object LegacyMissionName { get; set; }
 
-        public override string GetEquipment()
+        public override EquipmentContainer GetEquipment()
         {
-            return "";
+            return EquipmentMethods.GetEquipment(this.Equipment);
+
         }
     }
 }

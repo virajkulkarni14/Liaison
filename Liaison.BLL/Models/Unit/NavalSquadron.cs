@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Text;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
@@ -49,9 +50,9 @@ namespace Liaison.BLL.Models.Unit
 
 
 
-        public override string GetEquipment()
+        public override EquipmentContainer GetEquipment()
         {
-            return "";
+            return new EquipmentContainer("");
         }
 
         public override string GetAdminCorps()

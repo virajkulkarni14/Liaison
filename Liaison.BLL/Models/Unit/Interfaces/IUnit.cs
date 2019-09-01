@@ -17,7 +17,7 @@ namespace Liaison.BLL.Models.Unit.Interfaces
         string GetIndexes();
         string GetSortString();
         int GetId();
-        string GetEquipment();
+        EquipmentContainer GetEquipment();
         bool IsTaskForce { get; }
         bool IsDecommissioned();
 

@@ -64,9 +64,11 @@
     <Compile Include="Models\BLLUnit.cs" />
     <Compile Include="Models\Equipment\AEquipment.cs" />
     <Compile Include="Models\Equipment\BLLAircraft.cs" />
+    <Compile Include="Models\Equipment\BLLGroundEquipment.cs" />
     <Compile Include="Models\ExtensionMethods.cs" />
     <Compile Include="Models\IBase.cs" />
     <Compile Include="Models\NewWing.cs" />
+    <Compile Include="Models\Objects\EquipmentContainer.cs" />
     <Compile Include="Models\Test\Models\Unit\AirSquadronTest.cs" />
     <Compile Include="Models\Test\Models\Unit\ArmySquadronTest.cs" />
     <Compile Include="Models\Test\Models\Unit\BattalionTest.cs" />

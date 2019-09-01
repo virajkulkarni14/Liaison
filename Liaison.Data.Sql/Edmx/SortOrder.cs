@@ -17,5 +17,7 @@ namespace Liaison.Data.Sql.Edmx
         public int SortOrderId { get; set; }
         public string SearchTerm { get; set; }
         public int SortOrderRank { get; set; }
+        public string Description { get; set; }
+        public string Notes { get; set; }
     }
 }

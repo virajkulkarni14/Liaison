@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.Helper.Enumerators;
@@ -56,7 +57,7 @@ namespace Liaison.BLL.Models.Unit
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
-        public string GetEquipment()
+        public EquipmentContainer GetEquipment()
         {
             return null;
         }

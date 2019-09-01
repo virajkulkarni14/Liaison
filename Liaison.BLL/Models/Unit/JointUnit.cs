@@ -97,7 +97,7 @@ namespace Liaison.BLL.Models.Unit
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
-        public string GetEquipment()
+        public EquipmentContainer GetEquipment()
         {
             bool showAltName = true;
 
@@ -120,7 +120,7 @@ namespace Liaison.BLL.Models.Unit
             }
 
             var x = sb.ToString();
-            return (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", "");
+            return new EquipmentContainer( (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", ""));
         }
 
         public bool IsTaskForce => false;

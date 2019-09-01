@@ -7,7 +7,7 @@ namespace Liaison.BLL.Models.Unit
     {
         public Battery(Data.Sql.Edmx.Unit sqlUnit) : base(sqlUnit)
         {
-
+            this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
 
         }
 

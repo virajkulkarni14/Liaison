@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Interfaces;
 
 namespace Liaison.BLL.Models.Unit.Abstracts
@@ -29,7 +30,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             return this.Indices == null ? string.Empty : string.Join(ResourceStrings.Seperator, this.Indices);
         }
 
-        public abstract string GetEquipment();
+        public abstract EquipmentContainer GetEquipment();
 
         
         public bool IsTaskForce => false;

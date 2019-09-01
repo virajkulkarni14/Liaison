@@ -1,16 +1,14 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 using Liaison.Data.Sql.Edmx;
 
 namespace Liaison.BLL.Models.Equipment
 {
     public class BLLAircraft : AEquipment, IEquipment
     {
-
-        public string Mark { get; set; }
-        public string Notes { get; set; }
-        public int? PAA { get; set; }
         public BLLAircraft(Data.Sql.Edmx.Aircraft aircraft)
         {
+            this.Id = aircraft.AircraftGuid;
             this.Name = aircraft.Name;
             this.Mark = aircraft.Mark;
 
@@ -25,7 +23,9 @@ namespace Liaison.BLL.Models.Equipment
             this.Notes = eo.Notes;
 
         }
-
+        public string Mark { get; set; }
+        public string Notes { get; set; }
+        public int? PAA { get; set; }
         public string GetEquipmentString()
         {
             StringBuilder sb = new StringBuilder();
@@ -37,6 +37,15 @@ namespace Liaison.BLL.Models.Equipment
             sb.Append(this.Name +" ");
             sb.Append(this.Mark);
             return sb.ToString();
+        }
+        public int GetQty()
+        {
+            return PAA ?? 0;
+        }
+
+        public Guid GetID()
+        {
+            return Id;
         }
     }
 }

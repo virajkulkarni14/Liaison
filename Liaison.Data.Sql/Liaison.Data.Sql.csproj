@@ -71,6 +71,9 @@
     <Compile Include="Edmx\EquipmentOwner.cs">
       <DependentUpon>Liaison.tt</DependentUpon>
     </Compile>
+    <Compile Include="Edmx\GroundEquipment.cs">
+      <DependentUpon>Liaison.tt</DependentUpon>
+    </Compile>
     <Compile Include="Edmx\Liaison.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

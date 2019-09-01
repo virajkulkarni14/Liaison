@@ -1,4 +1,5 @@
-﻿using Liaison.BLL.Models.Unit.Abstracts;
+﻿using Liaison.BLL.Models.Objects;
+using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.BLL.Models.Unit.Interfaces;
 
 namespace Liaison.BLL.Models.Unit
@@ -39,9 +40,9 @@ namespace Liaison.BLL.Models.Unit
 			return "";
 		}
 
-		public string GetEquipment()
+		public EquipmentContainer GetEquipment()
 		{
-			return "";
+			return new EquipmentContainer("");
 		}
 
 		public bool IsTaskForce { get; }

@@ -18,10 +18,12 @@ namespace Liaison.Data.Sql.Edmx
         public int UnitId { get; set; }
         public Nullable<decimal> Quantity { get; set; }
         public string Notes { get; set; }
-        public Nullable<System.Guid> AircraftId { get; set; }
         public Nullable<bool> IsOwner { get; set; }
+        public Nullable<System.Guid> AircraftId { get; set; }
+        public Nullable<System.Guid> GroundEquipmentId { get; set; }
     
         public virtual Aircraft Aircraft { get; set; }
         public virtual Unit Unit { get; set; }
+        public virtual GroundEquipment GroundEquipment { get; set; }
     }
 }

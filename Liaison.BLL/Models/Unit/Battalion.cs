@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
@@ -28,6 +30,7 @@ namespace Liaison.BLL.Models.Unit
             this.Service = (ServicesBll)sqlUnit.ServiceIdx;
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
+            this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
             this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
@@ -85,18 +88,19 @@ namespace Liaison.BLL.Models.Unit
                     }
                     else
                     {
-                        if (missions.Contains(this.MissionName) 
+                        if (missions.Contains(this.MissionName)
                             || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLogistics
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesReserveLogistics
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalNavalMedicalService
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineIntelligence
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCommunications
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesMilitaryPolice
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCavalry
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarinesEngineers
-                            || this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RoyalMarineCavalryReserve
-                            || this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarinesEngineersReserve)
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesReserveLogistics
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalNavalMedicalService
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineIntelligence
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCommunications
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesMilitaryPolice
+                            || this.AdminCorps.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineLightInfantry
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCavalry
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesEngineers
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineCavalryReserve
+                            || this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarinesEngineersReserve)
                         {
                             sb.Append(this.MissionName);
                             //if (this.MissionName != "Commando")
@@ -170,9 +174,9 @@ namespace Liaison.BLL.Models.Unit
             return "";
         }
 
-        public override string GetEquipment()
+        public override EquipmentContainer GetEquipment()
         {
-            return "";
+            return EquipmentMethods.GetEquipment(this.Equipment);
         }
     }
 }

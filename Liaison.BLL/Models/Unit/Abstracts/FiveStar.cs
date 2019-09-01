@@ -1,4 +1,5 @@
-﻿using Liaison.BLL.Models.Unit.Interfaces;
+﻿using Liaison.BLL.Models.Objects;
+using Liaison.BLL.Models.Unit.Interfaces;
 
 namespace Liaison.BLL.Models.Unit.Abstracts
 {
@@ -25,7 +26,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
-        public string GetEquipment()
+        public EquipmentContainer GetEquipment()
         {
             return null;
         }

@@ -45,6 +45,10 @@ namespace Liaison.BLL.Models
                 {
                     returnable.Add(new BLLAircraft(eo));
                 }
+                if (eo.GroundEquipment!=null)
+                {
+                    returnable.Add(new BLLGroundEquipment(eo));
+                }
             }
             return returnable;
         }

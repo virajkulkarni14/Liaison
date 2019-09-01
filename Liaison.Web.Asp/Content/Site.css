@@ -47,4 +47,24 @@ textarea {
     font-style: italic;
     color: darkblue;
 }
-
+.lzEquipmentHover {
+    font-style: italic;
+    color: darkblue;
+    border-bottom: 1px dotted black;
+}
+    .lzEquipmentHover .lzEquipmentTooltip {
+        /* Position the tooltip text - see examples below! */
+        visibility: hidden;
+        /*width: 120px;*/
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        padding: 5px 0;
+        border-radius: 6px;
+        position: absolute;
+        z-index: 1;
+    }
+/* Show the tooltip text when you mouse over the tooltip container */
+    .lzEquipmentHover:hover .lzEquipmentTooltip {
+         visibility: visible;
+    }

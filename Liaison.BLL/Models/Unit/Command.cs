@@ -3,6 +3,7 @@ using Liaison.Helper.Enumerators;
 using System.Linq;
 using Liaison.Data.Sql.Edmx;
 using System.Threading.Tasks;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.BLL.Models.Unit.Interfaces;
 
@@ -82,7 +83,7 @@ namespace Liaison.BLL.Models.Unit
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
-        public string GetEquipment()
+        public EquipmentContainer GetEquipment()
         {
             return null;
         }

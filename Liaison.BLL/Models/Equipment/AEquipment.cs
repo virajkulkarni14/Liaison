@@ -1,4 +1,6 @@
-﻿namespace Liaison.BLL.Models.Equipment
+﻿using System;
+
+namespace Liaison.BLL.Models.Equipment
 {
     public abstract class AEquipment
     {
@@ -8,5 +10,6 @@
 
         //public string Code;
         public string Name;
+        public Guid Id;
     }
 }

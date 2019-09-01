@@ -105,8 +105,17 @@ namespace Liaison.BLL.Translators
             {
                 return new Directorate(sqlUnit, cont);
             }
-
-            //var s = sqlUnit.Rank.RankLevel;
+            
+            if (sqlUnit.RankSymbol == "'")
+            {
+                // Ministry
+                return new Command(sqlUnit, cont);
+            }
+            if (sqlUnit.RankSymbol == "-")
+            {
+                // Department
+                return new Command(sqlUnit, cont);
+            }
             if (sqlUnit.RankSymbol == "!")
             {
                 return new Command(sqlUnit, cont); //, includeParent);
@@ -259,6 +268,10 @@ namespace Liaison.BLL.Translators
 
 	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
 	            {
+	                if (sqlUnit.AdminCorp == null)
+	                {
+	                    return new Command(sqlUnit, cont);
+	                }
 		            if (sqlUnit.AdminCorp.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RoyalMarineAviation)
 		            {
 			            return new AirGroup(sqlUnit);
@@ -336,6 +349,11 @@ namespace Liaison.BLL.Translators
                     if (jointGroupMissions!=null && jointGroupMissions.Contains(sqlUnit.MissionName))
                     {
                         return new JointGroup(sqlUnit);
+                    }
+
+                    if (sqlUnit.MissionName == "Army Garrison")
+                    {
+                        return new Facility(sqlUnit);
                     }
                     if (!string.IsNullOrWhiteSpace(sqlUnit.CommandName))
                     {
@@ -509,6 +527,10 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army)
                 {
+                    if (sqlUnit.MissionName == "Army Garrison")
+                    {
+                        return new Facility(sqlUnit);
+                    }
                     if (sqlUnit.AdminCorpsId.HasValue)
                     {
                         if (battalionCorps != null && battalionCorps.Contains(sqlUnit.AdminCorpsId.Value))
@@ -671,8 +693,9 @@ namespace Liaison.BLL.Translators
                     unitIndex.IndexCode = ic;
                     unitIndex.UnitId = unit.UnitId;
                     unitIndex.IsSortIndex = true;
-                    unitIndex.IsDisplayIndex = false;
+                    unitIndex.IsDisplayIndex = true;
                     unitIndex.IsAlt = false;
+                    unitIndex.DisplayOrder = 10;
                     le.UnitIndexes.Add(unitIndex);
                     le.SaveChanges();
 
@@ -682,6 +705,17 @@ namespace Liaison.BLL.Translators
                     unitIndex.IsSortIndex = false;
                     unitIndex.IsDisplayIndex = true;
                     unitIndex.IsAlt = false;
+                    unitIndex.DisplayOrder = 20;
+                    le.UnitIndexes.Add(unitIndex);
+                    le.SaveChanges();
+
+                    unitIndex = new UnitIndex();
+                    unitIndex.IndexCode = "~USAF " + x.Code + "G " + under;
+                    unitIndex.UnitId = unit.UnitId;
+                    unitIndex.IsSortIndex = false;
+                    unitIndex.IsDisplayIndex = true;
+                    unitIndex.IsAlt = false;
+                    unitIndex.DisplayOrder = 50;
                     le.UnitIndexes.Add(unitIndex);
                     le.SaveChanges();
 
@@ -713,8 +747,9 @@ namespace Liaison.BLL.Translators
                         uiSqn.IndexCode = "AIR@" + y.Code + under;
                         uiSqn.UnitId = sqn.UnitId;
                         uiSqn.IsSortIndex = true;
-                        uiSqn.IsDisplayIndex = false;
+                        uiSqn.IsDisplayIndex = true;
                         uiSqn.IsAlt = false;
+                        uiSqn.DisplayOrder = 10;
                         le.UnitIndexes.Add(uiSqn);
                         le.SaveChanges();
 
@@ -724,6 +759,17 @@ namespace Liaison.BLL.Translators
                         uiSqn2.IsSortIndex = false;
                         uiSqn2.IsDisplayIndex = true;
                         uiSqn2.IsAlt = false;
+                        uiSqn2.DisplayOrder = 20;
+                        le.UnitIndexes.Add(uiSqn2);
+                        le.SaveChanges();
+
+                        var uiSqn3 = new UnitIndex();
+                        uiSqn2.IndexCode = "~USAF " + y.Code + "S " + under;
+                        uiSqn2.UnitId = sqn.UnitId;
+                        uiSqn2.IsSortIndex = false;
+                        uiSqn2.IsDisplayIndex = true;
+                        uiSqn2.IsAlt = false;
+                        uiSqn2.DisplayOrder = 50;
                         le.UnitIndexes.Add(uiSqn2);
                         le.SaveChanges();
 
@@ -763,6 +809,7 @@ namespace Liaison.BLL.Translators
                             uiRgtFlt.IsSortIndex = true;
                             uiRgtFlt.IsDisplayIndex = false;
                             uiRgtFlt.IsAlt = false;
+                            uiRgtFlt.DisplayOrder = 10;
                             le.UnitIndexes.Add(uiRgtFlt);
                             le.SaveChanges();
 
@@ -772,6 +819,7 @@ namespace Liaison.BLL.Translators
                             uiRgtFlt2.IsSortIndex = false;
                             uiRgtFlt2.IsDisplayIndex = true;
                             uiRgtFlt2.IsAlt = false;
+                            uiRgtFlt2.DisplayOrder = 20;
                             le.UnitIndexes.Add(uiRgtFlt2);
                             le.SaveChanges();
 

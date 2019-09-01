@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Text;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
@@ -56,7 +57,7 @@ namespace Liaison.BLL.Models.Unit
             return RankLevel ?? 0;
         }
 
-        public override string GetEquipment()
+        public override EquipmentContainer GetEquipment()
         {
             return null;
         }

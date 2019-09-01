@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.BLL.Models.Unit.Interfaces;
 using Liaison.Helper.Enumerators;
@@ -118,7 +119,7 @@ namespace Liaison.BLL.Models.Unit
             return this.Indices == null ? string.Empty : string.Join(",", this.Indices);
         }
 
-        public string GetEquipment()
+        public EquipmentContainer GetEquipment()
         {
             bool showAltName = true;
 
@@ -141,7 +142,7 @@ namespace Liaison.BLL.Models.Unit
             }
 
             var x = sb.ToString();
-            return x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x;
+            return new EquipmentContainer(x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x);
         }
 
         public bool IsTaskForce => true;

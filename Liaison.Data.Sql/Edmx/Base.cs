@@ -37,6 +37,8 @@ namespace Liaison.Data.Sql.Edmx
         public string City { get; set; }
         public string ISO3166 { get; set; }
         public Nullable<bool> Decommissioned { get; set; }
+        public string FullName { get; set; }
+        public Nullable<int> ReplacementBaseId { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Base> SubFacilities { get; set; }

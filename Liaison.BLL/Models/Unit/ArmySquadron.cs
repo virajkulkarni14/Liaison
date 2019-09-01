@@ -1,6 +1,7 @@
 ﻿using System.Linq;
 using System.Text;
 using Liaison.BLL.Models.Equipment;
+using Liaison.BLL.Models.Objects;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
@@ -135,7 +136,7 @@ namespace Liaison.BLL.Models.Unit
 
         public string TerritorialDesignation { get; set; }
 
-        public override string GetEquipment()
+        public override EquipmentContainer GetEquipment()
         {
             bool showAltName = true;
 
@@ -158,7 +159,8 @@ namespace Liaison.BLL.Models.Unit
             }
 
             var x = sb.ToString();
-            return (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", "");
+            return new EquipmentContainer(
+                (x.Length > 0 ? x.Substring(0, x.Length - ResourceStrings.Seperator.Length) : x).Replace("_", ""));
         }
     }
 }
