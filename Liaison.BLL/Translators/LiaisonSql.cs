@@ -418,7 +418,8 @@ namespace Liaison.BLL.Translators
                         return new Regiment(sqlUnit);
                     }
 
-                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.MarineHeadquartersGroups||
+                    if (sqlUnit.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.MarineHeadquartersGroups ||
+                        sqlUnit.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.CorpsOfRoyalMarines ||
                         sqlUnit.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.RoyalMarinesReserve)
                     {
                         return new Command(sqlUnit, false);
