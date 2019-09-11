@@ -51,6 +51,11 @@ namespace Liaison.BLL.Models.Unit
                         sb.Append("HQB");
                         ishq = true;
                     }
+					else if (this.MissionName == ResourceStrings.HQSVC)
+					{
+						sb.Append("HSB");
+						ishq = true;
+					}
                     else if (this.MissionName == ResourceStrings.HQS)
                     {
                         sb.Append("HSB");

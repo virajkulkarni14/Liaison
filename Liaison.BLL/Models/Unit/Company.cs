@@ -65,8 +65,10 @@ namespace Liaison.BLL.Models.Unit
 
             bool unitWithId = !(this.Number == null && this.Letter == null);
             bool ishq = false;
+			Dictionary<string, string> prefabMissions = Liaison.Data.Sql.GetStuff.GetDictionary("CompanyGetName");
+			var kvp = prefabMissions.FirstOrDefault(k => k.Key == this.MissionName);
 
-            if (unitWithId)
+			if (unitWithId)
             {
                 if (this.Number != null)
                 {                    
@@ -85,10 +87,10 @@ namespace Liaison.BLL.Models.Unit
             }
             else
             {
+				
 
-                if (this.MissionName != null)
+				if (this.MissionName != null)
                 {
-                    Dictionary<string, string> prefabMissions = Liaison.Data.Sql.GetStuff.GetDictionary("CompanyGetName");
                     
                         //new Dictionary<string, string>
                         //{
@@ -104,7 +106,7 @@ namespace Liaison.BLL.Models.Unit
                         //    {"Production & Analysis Support", "Prod. & Analysis Supt. Coy."}
                         //};
 
-                    var kvp = prefabMissions.FirstOrDefault(k => k.Key == this.MissionName);
+                    
 
                     if (kvp.Key != null)
                     {
@@ -185,7 +187,15 @@ namespace Liaison.BLL.Models.Unit
 
             if (unitWithId)
             {
-                sb.Append(this.MissionName + " ");
+
+				if (kvp.Key == null)
+				{
+					if (!string.IsNullOrWhiteSpace(this.MissionName))
+					{
+						sb.Append(this.MissionName + " ");
+					}
+				}
+				else { sb.Append(kvp.Value+" "); }
             }
 
 
@@ -206,7 +216,13 @@ namespace Liaison.BLL.Models.Unit
 
             }
 
-            return sb.ToString();
+			var returnable = sb.ToString();
+			while (returnable.Contains("  "))
+			{
+				returnable = returnable.Replace("  ", " ");
+			}
+
+			return returnable;
         }
 
         public object LegacyMissionName { get; set; }

@@ -80,6 +80,7 @@
     <Compile Include="Models\Unit\Abstracts\ThreeBlob.cs" />
     <Compile Include="Models\Unit\Battery.cs" />
     <Compile Include="Models\Unit\Directorate.cs" />
+    <Compile Include="Models\Unit\ExpeditionaryUnit.cs" />
     <Compile Include="Models\Unit\Interfaces\IVolunteerUnit.cs" />
     <Compile Include="Models\Unit\AirForceBase.cs" />
     <Compile Include="Models\Unit\AirGroup.cs" />

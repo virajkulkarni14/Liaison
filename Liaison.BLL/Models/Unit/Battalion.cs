@@ -148,14 +148,24 @@ namespace Liaison.BLL.Models.Unit
                 }
             }
 
-
-            if (!string.IsNullOrWhiteSpace(this.CommandName))
-	        {
-		        sb.Append(ResourceStrings.Seperator + this.CommandName);
-	        }
+			if (!string.IsNullOrWhiteSpace(this.CommandName))
+			{
+				if (!this.CommandName.StartsWith("/ "))
+				{
+					sb.Append(ResourceStrings.Seperator + this.CommandName);
+				}
+			}
 
             sb.Append(ResourceStrings.Seperator +this.AdminCorps?.UnitDisplayName);
-	        return sb.ToString().Replace("_", "");
+
+			if (!string.IsNullOrWhiteSpace(this.CommandName))
+			{
+				if (this.CommandName.StartsWith("/ "))
+				{
+					sb.Append(" " + this.CommandName);
+				}
+			}
+			return sb.ToString().Replace("_", "");
         }
 
         private string GetNameNotEnglish()
