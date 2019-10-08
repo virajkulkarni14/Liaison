@@ -22,9 +22,9 @@ namespace Liaison.BLL.Models.Unit
             return this.AdminCorps == null ? string.Empty : this.AdminCorps.DisplayName;
         }
         public string TerritorialDesignation { get; set; }
-        private int ThreeBarTab = 10;
-        private int OneBarTab = 12;
-        private int ThreeBlobTab = 13;
+        private int ThreeBarTab = 11;
+        private int OneBarTab = 13;
+        private int ThreeBlobTab = 14;
         private string ThreeBar = "|||";
         private string OneBar = "|";
         private string ThreeBlob = "•••";
@@ -219,7 +219,7 @@ namespace Liaison.BLL.Models.Unit
             {
                 if (this.Number != null)
                 {
-                    if (this.CommandName.Contains("Special Forces Operational Detachment"))
+                    if (this.CommandName!=null && this.CommandName.Contains("Special Forces Operational Detachment"))
                     {
                         return (this.Number.ToOrdinal(this.UseOrdinal) + " " + this.CommandName).Replace("_", "");
                     }
@@ -235,8 +235,12 @@ namespace Liaison.BLL.Models.Unit
 
                 if (this.ServiceType == ServiceTypeBLL.Volunteer)
                 {
-                    sb.Append(" (V) (" + this.TerritorialDesignation + ")");
+                    if (this.CommandName != null && !this.CommandName.Contains("(V)"))
+                    {
+                        sb.Append(" (V) (" + this.TerritorialDesignation + ")");
+                    }
                 }
+
                 if (!string.IsNullOrWhiteSpace(sb.ToString()))
                 {
                     sb.Append(", ");

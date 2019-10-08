@@ -12,9 +12,9 @@ namespace Liaison.Web.Asp.Controllers
 {
     public class OrbatController : Controller
     {
-        public ActionResult Index(string input, int? depth)
+        public ActionResult Index(string input, int? depth, bool? showAll)
         {
-            var model = LiaisonSql.GetTree(input, depth);
+            var model = LiaisonSql.GetTree(input, depth, showAll==true);
 
             var returnable = new ViewModel();
             returnable.TheTree = model;
@@ -25,7 +25,7 @@ namespace Liaison.Web.Asp.Controllers
         [AcceptVerbs(HttpVerbs.Post)]
         public ActionResult RefinedIndex(ViewModel vm)
         {
-            return RedirectToAction("Index", new {input = vm.Input, depth = vm.Depth});
+            return RedirectToAction("Index", new {input = vm.Input, depth = vm.Depth, showAll = vm.ShowAll});
         }
 
 

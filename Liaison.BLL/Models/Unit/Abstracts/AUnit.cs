@@ -254,6 +254,7 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             }
         }
 
+        private static List<string> _sortOrder = null;
         private static IEnumerable<RelationshipTracker> SortRelationships(IEnumerable<RelationshipTracker> enumerable)
         {
             List<RelationshipTracker> units = enumerable.Where(u=>u.Unit.IsDecommissioned()==false).ToList();
@@ -268,10 +269,15 @@ namespace Liaison.BLL.Models.Unit.Abstracts
 
                 if (currentRankedUnits.Count() != 0)
                 {
-                    List<string> sortOrder = LiaisonSql.GetSortOrder();
+                    if (_sortOrder == null)
+                    {
+                        _sortOrder = LiaisonSql.GetSortOrder();
+                    }
 
-                    foreach (var str in sortOrder)
-                    {   
+                    int counter = 0;
+                    foreach (var str in _sortOrder)
+                    {
+                        counter++;
                         var found = currentRankedUnits.Where(u => u.Unit.GetSortString().StartsWith(str)).ToList();
                         if (found.Count > 0)
                         {

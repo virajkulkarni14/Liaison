@@ -24,6 +24,9 @@
         <label for="Input">Input</label>
         @Html.EditorFor(m => m.Input, new {htmlAttributes = new {style = "width: 150px"}})
 
+        <label for="ShowAll">Show All</label>
+        @Html.EditorFor(m => m.ShowAll)
+
         <button name="submit">Do it</button>
     </div>
 }

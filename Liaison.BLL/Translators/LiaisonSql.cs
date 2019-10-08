@@ -25,9 +25,11 @@ namespace Liaison.BLL.Translators
             return order;
         }
 
-        public static IUnit GetTree(string input, int? depth)
+
+        public static IUnit GetTree(string input, int? depth, bool showAll)
         {
             _depthRequired = depth == 0 ? null : depth;
+            _showAll = showAll;
             
             IUnit convUnit;
             using (var context = new LiaisonEntities())
@@ -69,7 +71,8 @@ namespace Liaison.BLL.Translators
             return convUnit;
         }
 
-        private static  int? _depthRequired = null;        
+        private static  int? _depthRequired = null;
+        private static bool _showAll = false;
 
         public static IUnit ConvertUnit(Unit sqlUnit) //, bool includeParent)
         {
@@ -93,6 +96,11 @@ namespace Liaison.BLL.Translators
                 return new DefaultUnit();
             }
 
+            if (!_showAll && sqlUnit.CanHide)
+            {
+                return new DefaultUnit();
+            }
+
             if (sqlUnit.RankSymbol == "?")
             {
                 var detachment = new DetachmentBll(sqlUnit);
@@ -105,7 +113,12 @@ namespace Liaison.BLL.Translators
             {
                 return new Directorate(sqlUnit, cont);
             }
-            
+
+            if (sqlUnit.RankSymbol == " ")
+            {
+                // Commissioned
+                return new Command(sqlUnit, cont);
+            }
             if (sqlUnit.RankSymbol == "'")
             {
                 // Ministry
@@ -661,6 +674,7 @@ namespace Liaison.BLL.Translators
             }
             using (var le = new LiaisonEntities())
             {
+                var unitindices = Liaison.Data.Sql.GetStuff.GetDictionary("AirForceUnitIndices");
                 foreach (var x in newThing.Things.Where(c=>c.Create))
                 {
                     var wingAdmin = le.AdminCorps.First(a => a.Lookup == x.Code) ?? throw new ArgumentNullException("le.AdminCorps.Where(a => a.Code == x.Code).First()");
@@ -764,14 +778,24 @@ namespace Liaison.BLL.Translators
                         le.UnitIndexes.Add(uiSqn2);
                         le.SaveChanges();
 
+                        var uiSqn2A = new UnitIndex();
+                        uiSqn2A.IndexCode = under + " " + GetLongCode(unitindices, y.Code + "S") + ", RAF";
+                        uiSqn2A.UnitId = sqn.UnitId;
+                        uiSqn2A.IsSortIndex = false;
+                        uiSqn2A.IsDisplayIndex = true;
+                        uiSqn2A.IsAlt = false;
+                        uiSqn2A.DisplayOrder = 30;
+                        le.UnitIndexes.Add(uiSqn2A);
+                        le.SaveChanges();
+
                         var uiSqn3 = new UnitIndex();
-                        uiSqn2.IndexCode = "~USAF " + y.Code + "S " + under;
-                        uiSqn2.UnitId = sqn.UnitId;
-                        uiSqn2.IsSortIndex = false;
-                        uiSqn2.IsDisplayIndex = true;
-                        uiSqn2.IsAlt = false;
-                        uiSqn2.DisplayOrder = 50;
-                        le.UnitIndexes.Add(uiSqn2);
+                        uiSqn3.IndexCode = "~USAF " + y.Code + "S " + under;
+                        uiSqn3.UnitId = sqn.UnitId;
+                        uiSqn3.IsSortIndex = false;
+                        uiSqn3.IsDisplayIndex = true;
+                        uiSqn3.IsAlt = false;
+                        uiSqn3.DisplayOrder = 50;
+                        le.UnitIndexes.Add(uiSqn3);
                         le.SaveChanges();
 
                         var rel = new Relationship();
@@ -893,5 +917,13 @@ namespace Liaison.BLL.Translators
             return newThing;
         }
 
+        private static string GetLongCode(Dictionary<string, string> unitindices, string candidate)
+        {
+            var r = unitindices.First(k => k.Key.Equals(candidate));
+
+            return r.Value;
+        }
+
+     
     }
 }

@@ -12,6 +12,8 @@ namespace Liaison.Web.Asp.Models
         public IUnit TheTree { get; set; }
         public int Depth { get; set; }
         public string Input { get; set; }
+
+        public bool ShowAll { get; set; }
     }
     //public class OrbatModel
     //{

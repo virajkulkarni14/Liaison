@@ -40,7 +40,8 @@ namespace Liaison.Data.Sql
         }
 
         public static List<string> GetSortOrder(LiaisonEntities context)
-        {
+        {       
+
             return context.SortOrders.OrderBy(so => so.SortOrderRank).Select(so => so.SearchTerm).ToList();
         }
 
