@@ -505,7 +505,8 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
                 {                    
-                    if (sqlUnit.AdminCorp?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.NavalAviation)
+                    if (sqlUnit.AdminCorp?.ParentAdminCorpsId == (int) Helper.Enumerators.AdminCorps.NavalAviation
+                        ||sqlUnit.AdminCorp?.ParentAdminCorpsId==(int)Helper.Enumerators.AdminCorps.FleetArmArm)
                     {
                         return new AirSquadron(sqlUnit);
                     }

@@ -21,7 +21,7 @@ namespace Liaison.BLL.Models.Unit
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
             }
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);

@@ -58,7 +58,7 @@ namespace Liaison.BLL.Models.Unit
 
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
                 //this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
                 // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
                 // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;

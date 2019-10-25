@@ -27,7 +27,7 @@ namespace Liaison.BLL.Models.Unit
             this.Indices = sqlUnit.UnitIndexes.OrderBy(x => x.DisplayOrder).Where(x => x.IsDisplayIndex).Select(x => x.IndexCode).ToList();
             this.SortIndex = GetSortIndex(sqlUnit.UnitIndexes);
 
-            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
 
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();

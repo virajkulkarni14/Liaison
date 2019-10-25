@@ -65,26 +65,36 @@ namespace Liaison.Helper.Enumerators
 
     public enum AdminCorps
     {
-        FleetArmArm = 1,
-        NavalSpecialWarfare = 1198,
-        RAFRegiment = 23,
-        RAFRRegiment = 1173,
-        RAuxAFRegiment = 52,
-        RAFTraining = 35,
-        RAFFlyingTraining = 1230,
-        RAFAirOperationsCentres = 1264,
-        NavalAviation = 78,
-        DGSpecialForces = 112,
         EngineerInChief = 114,
         OffCivilAffairs = 170,
+
+        //SF
+        NavalSpecialWarfare = 1198,
+        DGSpecialForces = 112,
+        SpecialAirService = 1201,
         RoyalMarineCommando = 175,
+
+        //N/AIR
+        NavalAviation = 78,
+        FleetArmArm = 1,
 
         //G/LAND/CA/AVN
         ArmyAirCorps = 1195,
         ArmyAirCorpsBn = 1196,
 
         //G/LAND/CA/SF/SAS
-        SpecialAirService = 1201,
+
+        //AIR/FLY
+        RAFTraining = 35,
+        RAFFlyingTraining = 1230,
+
+        //AIR/INF
+        RAFRegiment = 23,
+        RAFRRegiment = 1173,
+        RAuxAFRegiment = 52,
+
+        //AIR/OPS
+        RAFAirOperationsCentres = 1264,
 
         //M
         MAGTF = 1277,

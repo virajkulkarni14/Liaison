@@ -41,7 +41,7 @@ namespace Liaison.BLL.Models.Unit
             if (sqlUnit.AdminCorp != null)
             {
                 // this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
-                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
             }
 
             var relMain = sqlUnit.RelationshipsFrom.ToList();

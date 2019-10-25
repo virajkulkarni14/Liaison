@@ -33,7 +33,7 @@ namespace Liaison.BLL.Models.Unit
         {
             List<int> threeBarDetachments = HttpContext.Current.Session["Detachment|||UnitIds"] as List<int>;
             List<int> oneBarDetachments = HttpContext.Current.Session["Detachment|UnitIds"] as List<int>;
-            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
             this.UnitId = sqlUnit.UnitId;
             this.UnitGuid = sqlUnit.UnitGuid;
             this.Number = sqlUnit.Number;
@@ -136,7 +136,7 @@ namespace Liaison.BLL.Models.Unit
 
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
                 //this.AdminCorps = new AdminCorps(sqlUnit.AdminCorp.Code, sqlUnit.AdminCorp.Name, sqlUnit.AdminCorp.AdminCorpsId);
                 // this.AdminCorpsName = sqlUnit.AdminCorp.Name;
                 // this.AdminCorpsCode = sqlUnit.AdminCorp.Code;

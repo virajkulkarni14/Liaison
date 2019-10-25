@@ -331,6 +331,11 @@ namespace Liaison.BLL.Models.Unit.Abstracts
                     sb.Append(" - " + mission.Variant);
                 }
 
+                if (mission.IsAssociate)
+                {
+                    sb.Append(" (Assoc)");
+                }
+
                 sb.Append(ResourceStrings.Seperator);
             }
 

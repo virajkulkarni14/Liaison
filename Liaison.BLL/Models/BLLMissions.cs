@@ -6,8 +6,12 @@ namespace Liaison.BLL.Models
 {
     public class BLLAdminCorps
     {
-        public BLLAdminCorps(AdminCorp admincorps)
+        public BLLAdminCorps(AdminCorp admincorps, int unitid)
         {
+            if (admincorps == null)
+            {
+                throw new System.Exception("Admin Corps for UnitId " + unitid + " is null.");
+            }
             this.AdminCorpsId = admincorps.AdminCorpsId;
             this.ParentAdminCorpsId = admincorps.ParentAdminCorpsId;
             this.Name = admincorps.Name;

@@ -31,7 +31,7 @@ namespace Liaison.BLL.Models.Unit
             this.ServiceType = (ServiceTypeBLL)sqlUnit.ServiceTypeIdx;
             this.RankSymbol = sqlUnit.RankSymbol.ToCharArray()[0];
             this.Equipment = sqlUnit.EquipmentOwners.ToEquipmentList();
-            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+            this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             this.TerritorialDesignation = sqlUnit.TerritorialDesignation;
             this.UnitTypeVariant = sqlUnit.UnitTypeVariant;

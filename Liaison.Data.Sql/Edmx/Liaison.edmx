@@ -105,6 +105,7 @@
           </Key>
           <Property Name="GroundEquipmentId" Type="int" />
           <Property Name="EquipmentGuid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Type" Type="nvarchar" MaxLength="10" />
           <Property Name="Designation" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="Name" Type="nvarchar" MaxLength="255" />
           <Property Name="PrintName" Type="nvarchar" MaxLength="50" />
@@ -138,6 +139,7 @@
           </Key>
           <Property Name="MissionId" Type="int" Nullable="false" />
           <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="IsAssociate" Type="bit" Nullable="false" />
           <Property Name="MissionVariant" Type="nvarchar" MaxLength="255" />
           <Property Name="Notes" Type="nvarchar(max)" />
         </EntityType>
@@ -1088,6 +1090,7 @@
           <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="Mission" Relationship="LiaisonModel.FK_MissionUnit_Mission" FromRole="MissionUnit" ToRole="Mission" />
           <NavigationProperty Name="Unit" Relationship="LiaisonModel.FK_MissionUnit_Unit" FromRole="MissionUnit" ToRole="Unit" />
+          <Property Name="IsAssociate" Type="Boolean" Nullable="false" />
         </EntityType>
         <Association Name="FK_MissionUnit_Mission">
           <End Type="LiaisonModel.Mission" Role="Mission" Multiplicity="1" />
@@ -1488,6 +1491,7 @@
           <Property Name="DoNotUse" Type="Boolean" />
           <NavigationProperty Name="EquipmentOwners" Relationship="LiaisonModel.FK_EquipmentOwner_GroundEquipment" FromRole="GroundEquipment" ToRole="EquipmentOwner" />
           <Property Name="PrintName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Type" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
         </EntityType>
         <Association Name="FK_EquipmentOwner_GroundEquipment">
           <End Type="LiaisonModel.GroundEquipment" Role="GroundEquipment" Multiplicity="0..1" />
@@ -1654,6 +1658,7 @@
           <EntitySetMapping Name="MissionUnits">
             <EntityTypeMapping TypeName="LiaisonModel.MissionUnit">
               <MappingFragment StoreEntitySet="MissionUnit">
+                <ScalarProperty Name="IsAssociate" ColumnName="IsAssociate" />
                 <ScalarProperty Name="Notes" ColumnName="Notes" />
                 <ScalarProperty Name="MissionVariant" ColumnName="MissionVariant" />
                 <ScalarProperty Name="UnitId" ColumnName="UnitId" />
@@ -1830,6 +1835,7 @@
           <EntitySetMapping Name="GroundEquipments">
             <EntityTypeMapping TypeName="LiaisonModel.GroundEquipment">
               <MappingFragment StoreEntitySet="GroundEquipment">
+                <ScalarProperty Name="Type" ColumnName="Type" />
                 <ScalarProperty Name="PrintName" ColumnName="PrintName" />
                 <ScalarProperty Name="DoNotUse" ColumnName="DoNotUse" />
                 <ScalarProperty Name="Notes" ColumnName="Notes" />

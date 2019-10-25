@@ -33,7 +33,7 @@ namespace Liaison.BLL.Models.Unit
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
             if (sqlUnit.AdminCorp != null)
             {
-                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp);
+                this.AdminCorps = new BLLAdminCorps(sqlUnit.AdminCorp, this.UnitId);
             }
 
             this.Mission = new BllMissions(sqlUnit.MissionUnits);

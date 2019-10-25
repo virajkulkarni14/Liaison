@@ -18,6 +18,7 @@ namespace Liaison.Data.Sql.Edmx
         public int UnitId { get; set; }
         public string MissionVariant { get; set; }
         public string Notes { get; set; }
+        public bool IsAssociate { get; set; }
     
         public virtual Mission Mission { get; set; }
         public virtual Unit Unit { get; set; }
