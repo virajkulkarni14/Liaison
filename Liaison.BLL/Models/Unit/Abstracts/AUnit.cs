@@ -247,8 +247,9 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             var rels = SortRelationships(relationshipTrackers);
 
             int[] types = {1, 2, 4, 6};
-            foreach (RelationshipTracker childunit in rels.Where(r =>
-                types.Contains(r.RelationshipType.RelationshipTypeId)))
+            var stuff = rels.Where(r =>
+                types.Contains(r.RelationshipType.RelationshipTypeId));
+            foreach (RelationshipTracker childunit in stuff)
             {
                 GetNextLine(ref sb, i + 1, childunit);
             }
@@ -355,6 +356,10 @@ namespace Liaison.BLL.Models.Unit.Abstracts
             }
             StringBuilder sb = new StringBuilder();
             sb.Append("(" + this.Base.BaseId + ") ");
+            if (!string.IsNullOrWhiteSpace(this.Base.Notes))
+            {
+                sb.Append(this.Base.Notes + ", ");
+            }
             if (!string.IsNullOrWhiteSpace(this.Base.Prefix))
             {
                 sb.Append(this.Base.Prefix + " ");

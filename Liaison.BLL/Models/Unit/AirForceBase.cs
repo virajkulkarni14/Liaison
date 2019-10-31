@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Text;
+using Liaison.BLL.Models;
 using Liaison.BLL.Models.Unit.Abstracts;
 using Liaison.Helper.Enumerators;
 
@@ -7,7 +8,6 @@ namespace Liaison.BLL.Models.Unit
 {
     public class AirForceBase : OneStar
     {
-        public string TerritorialDesignation { get; set; }
         public AirForceBase (Data.Sql.Edmx.Unit sqlUnit)
         {
             this.UnitId = sqlUnit.UnitId;
@@ -38,10 +38,7 @@ namespace Liaison.BLL.Models.Unit
         }
 
         public string CommissionedName { get; set; }
-
-        //public string AdminCorpsCode { get; set; }
-
-        //public string AdminCorpsName { get; set; }
+        public string TerritorialDesignation { get; set; }
 
         public override string GetAdminCorps()
         {

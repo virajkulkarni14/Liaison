@@ -16,6 +16,7 @@ namespace Liaison.BLL.Models
         public BLLBase ParentBase { get; private set; }
         public BLLBases SubFacilities { get; private set; }
         public bool IsHost { get; set; }
+        public string Notes { get; set; }
 
         public BLLBase(Tennant tennant)
         {
@@ -43,11 +44,14 @@ namespace Liaison.BLL.Models
             this.AltName = tennant.Base.AltName;
             this.ParentBase = new BLLBase(tennant.Base.ParentBase);
             this.SubFacilities = new BLLBases(tennant.Base.SubFacilities);
+            this.Notes = tennant.Notes;
             if (tennant.Base.AFDCode != null)
             {
                 this.AirfieldCode = tennant.Base.AFDCode;
             }
         }
+
+       
 
         public BLLBase(Data.Sql.Edmx.Base facility)
         {

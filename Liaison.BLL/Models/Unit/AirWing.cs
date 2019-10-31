@@ -121,7 +121,7 @@ namespace Liaison.BLL.Models.Unit
 			        }
 		        }
 
-		        return sb.ToString();
+		        return sb.ToString().Replace("_", "");
 			}
 
 

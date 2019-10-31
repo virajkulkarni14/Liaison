@@ -3,8 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using System.Web.SessionState;
-using System.Web.UI.WebControls;
 using Liaison.BLL.Models;
 using Liaison.BLL.Models.Unit;
 using Liaison.BLL.Models.Unit.Interfaces;
@@ -317,6 +315,14 @@ namespace Liaison.BLL.Translators
 
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
                 {
+                    if (!string.IsNullOrWhiteSpace(sqlUnit?.CommandName))
+                    {
+                        if (sqlUnit.CommandName.Contains("College") || sqlUnit.CommandName.Contains("Centre"))
+                        {
+                            return new AirForceEstablishment(sqlUnit);
+                        }
+                    }
+
                     return new AirForceBase(sqlUnit); //, includeParent);
                 }
 
