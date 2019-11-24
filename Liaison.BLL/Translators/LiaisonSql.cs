@@ -259,10 +259,12 @@ namespace Liaison.BLL.Translators
 
 	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce)
 	            {
-		            if (sqlUnit.Number == null)
+	                if (sqlUnit.Number == null)
 		            {
 			            return new Command(sqlUnit, cont);
 		            }
+
+	                return new AirGroup(sqlUnit);
 	            }
 
 	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
@@ -732,6 +734,16 @@ namespace Liaison.BLL.Translators
                     le.SaveChanges();
 
                     unitIndex = new UnitIndex();
+                    unitIndex.IndexCode = under+ " "+GetLongCode(unitindices, x.Code + "W") + ", RAF";
+                    unitIndex.UnitId = unit.UnitId;
+                    unitIndex.IsSortIndex = false;
+                    unitIndex.IsDisplayIndex = true;
+                    unitIndex.IsAlt = false;
+                    unitIndex.DisplayOrder = 30;
+                    le.UnitIndexes.Add(unitIndex);
+                    le.SaveChanges();
+
+                    unitIndex = new UnitIndex();
                     unitIndex.IndexCode = "~USAF " + x.Code + "G " + under;
                     unitIndex.UnitId = unit.UnitId;
                     unitIndex.IsSortIndex = false;
@@ -839,7 +851,7 @@ namespace Liaison.BLL.Translators
                             uiRgtFlt.IndexCode = "RAFRGT|" + under;
                             uiRgtFlt.UnitId = rgtflt.UnitId;
                             uiRgtFlt.IsSortIndex = true;
-                            uiRgtFlt.IsDisplayIndex = false;
+                            uiRgtFlt.IsDisplayIndex = true;
                             uiRgtFlt.IsAlt = false;
                             uiRgtFlt.DisplayOrder = 10;
                             le.UnitIndexes.Add(uiRgtFlt);
@@ -887,7 +899,7 @@ namespace Liaison.BLL.Translators
                             uiPolFlt.IndexCode = "RAFP|" + under;
                             uiPolFlt.UnitId = polflt.UnitId;
                             uiPolFlt.IsSortIndex = true;
-                            uiPolFlt.IsDisplayIndex = false;
+                            uiPolFlt.IsDisplayIndex = true;
                             uiPolFlt.IsAlt = false;
                             le.UnitIndexes.Add(uiPolFlt);
                             le.SaveChanges();
@@ -926,11 +938,17 @@ namespace Liaison.BLL.Translators
 
         private static string GetLongCode(Dictionary<string, string> unitindices, string candidate)
         {
+            if (string.IsNullOrWhiteSpace(candidate))
+            {
+                throw new Exception("candidate empty");
+            }
+            if (!unitindices.ContainsKey(candidate))
+            {
+                throw new Exception("candidate="+candidate);
+            }
             var r = unitindices.First(k => k.Key.Equals(candidate));
 
             return r.Value;
         }
-
-     
     }
 }

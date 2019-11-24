@@ -24,8 +24,7 @@ namespace Liaison.BLL.Models.Unit
         }
 
         public string TerritorialDesignation { get; set; }
-        private int ThreeBarTab = 10;
-        private string ThreeBar = "|||";
+
         
         public JointGroup(Data.Sql.Edmx.Unit sqlUnit)
         {
@@ -37,8 +36,8 @@ namespace Liaison.BLL.Models.Unit
             this.UseOrdinal = sqlUnit.UseOrdinal;
             this.Letter = sqlUnit.Letter;
  
-                this.RankLevel = ThreeBarTab;
-                this.RankStar = ThreeBar;
+                this.RankLevel = ThreeBar.ThreeBarTab;
+                this.RankStar = ThreeBar.ThreeBarStar;
  
             this.Decommissioned = sqlUnit.Decommissioned ?? false;
 

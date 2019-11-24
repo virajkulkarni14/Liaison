@@ -7,6 +7,8 @@ namespace Liaison.BLL.Models.Unit.Abstracts
 {
     public abstract class ThreeBar : AUnit, IUnit
     {
+        internal static int ThreeBarTab = 11;
+        internal static string ThreeBarStar = "|||";
         public abstract string GetAdminCorps();
         public List<IEquipment> Equipment { get; set; }
         public bool UseOrdinal { get; set; }
