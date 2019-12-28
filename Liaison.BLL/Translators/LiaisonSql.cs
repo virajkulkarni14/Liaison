@@ -165,7 +165,8 @@ namespace Liaison.BLL.Translators
                 if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Joint ||
                     sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Army ||
                     sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.AirForce ||
-                    sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy)
+                    sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Navy||
+                    sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
                 {
                     return new Command(sqlUnit, cont); //, includeParent);
                 }
@@ -197,6 +198,11 @@ namespace Liaison.BLL.Translators
                     {
                         return new NamedFleet(sqlUnit); //, includeParent);
                     }
+                }
+
+                if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
+                {
+                    return new Command(sqlUnit, cont);
                 }
             }
             else if (sqlUnit.RankSymbol == "(")
@@ -281,7 +287,8 @@ namespace Liaison.BLL.Translators
 
 	            if (sqlUnit.ServiceIdx == (int) Helper.Enumerators.ServicesBll.Marines)
 	            {
-	                if (sqlUnit.AdminCorp == null)
+	                if (sqlUnit.AdminCorp == null||
+	                    sqlUnit.AdminCorp.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.MarineHeadquartersGroups)
 	                {
 	                    return new Command(sqlUnit, cont);
 	                }

@@ -160,6 +160,7 @@ namespace Liaison.Helper.Enumerators
         Reserve = 3, //B. Army Reserve, US Army Reserve
         Volunteer = 4, // TA, ANG
         StateVolunteer = 5, // Local Defence
+        Expeditionary = 6,
     }
 
     public enum ShortFormType

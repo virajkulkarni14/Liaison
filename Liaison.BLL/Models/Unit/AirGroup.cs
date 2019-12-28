@@ -68,7 +68,7 @@ namespace Liaison.BLL.Models.Unit
             {
                 if (!string.IsNullOrWhiteSpace(this.CommandName))
                 {
-                    sb.Append("(" + this.CommandName + ") ");
+                    sb.Append("(" + this.CommandName + ") Group");
                 }
             }
             else if (this.Service == ServicesBll.Navy)

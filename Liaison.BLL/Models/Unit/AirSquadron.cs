@@ -107,6 +107,10 @@ namespace Liaison.BLL.Models.Unit
                 {
                     sb.Append("(V) (" + this.TerritorialDesignation + ") ");
                 }
+                else if (this.ServiceType == ServiceTypeBLL.Expeditionary)
+                {
+                    sb.Append("(Exp.) ");
+                }
 
                 if (!string.IsNullOrWhiteSpace(this.NickName))
                 {
@@ -134,14 +138,23 @@ namespace Liaison.BLL.Models.Unit
                 }
                 else
                 {
-                    sb.Append(this.AdminCorps?.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.RAFFlyingTraining
-						? "Unit"
+                    sb.Append(this.AdminCorps?.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.RAFFlyingTraining 
+                              || this.MissionName == "Operational Conversion"
+                        ? "Unit"
                         : "Sqn."); //35
                 }
 
                 if (!string.IsNullOrWhiteSpace(this.AdminCorps?.Code))
                 {
                     sb.Append(ResourceStrings.Seperator + this.AdminCorps.UnitDisplayName);
+                }
+
+                if (this.MissionName == "Air Base")
+                {
+                    if (!string.IsNullOrWhiteSpace(this.CommandName))
+                    {
+                        sb.Append(" / " + this.CommandName);
+                    }
                 }
             }
 
