@@ -12,7 +12,7 @@
     {
         <table>
             <tr>
-                <td colspan="2">
+                <td colspan="1">
                     @Html.LabelFor(m => Model.Number)
                     @Html.EditorFor(m => Model.Number)
                 </td>
@@ -23,6 +23,14 @@
                 <td>
                     @Html.LabelFor(m=>m.BaseId)
                     @Html.EditorFor(m=>m.BaseId)
+                </td>
+                <td>
+                    @Html.LabelFor(m=>m.ServiceType)
+                    @Html.DropDownListFor(m=>m.ServiceType, Model.ServiceTypeOptions)
+                </td>
+                <td>
+                    @Html.LabelFor(m=>m.TerritorialDesignation)
+                    @Html.EditorFor(m=>m.TerritorialDesignation)
                 </td>
             </tr>
         </table>

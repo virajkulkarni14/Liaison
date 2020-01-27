@@ -34,7 +34,7 @@ namespace Liaison.Web.Asp.Controllers
         public ActionResult SaveNewAirForceBase(NewThing m)
         {
             var yay = LiaisonSql.CreateAFB(m);
-
+            //object yay = null;
             return View(yay);
         }
 
@@ -50,6 +50,12 @@ namespace Liaison.Web.Asp.Controllers
         {
             NewThing nn = new NewThing
             {
+                ServiceTypeOptions = new List<SelectListItem> {
+                    new SelectListItem{ Value="1", Text = "Active"},
+                    new SelectListItem{ Value="3", Text ="Reserve"},
+                    new SelectListItem{ Value="4", Text ="Volunteer"},
+                        new SelectListItem { Value = "5", Text ="State Volunteer" }},
+                
                 Things = new List<NewWing>
                 {
                     new NewWing
@@ -81,8 +87,23 @@ namespace Liaison.Web.Asp.Controllers
                                 Code = "MD",
                                 Name = "Medical",
 
+                            },
+                            new NewSqn
+                            {
+                                Code = "AMD",
+                                Name = "Aerospace Medicine",
+                            },
+                            new NewSqn
+                            {
+                                Code = "AE",
+                                Name = "Aeromedical Evacuation",
+                            },
+                            new NewSqn
+                            {
+                                Code = "AST",
+                                Name = "Aeromedical Staging",
                             }
-                        },
+                        }
                     },
                     new NewWing
                     {
@@ -92,18 +113,18 @@ namespace Liaison.Web.Asp.Controllers
                         {
                             new NewSqn
                             {
-                                Code="AD",
+                                Code = "AD",
                                 Name = "Aeromedical-Dental",
                             },
                             new NewSqn
                             {
-                                Code="AMD",
-                                Name="Aerospace Medicine"
+                                Code = "AMD",
+                                Name = "Aerospace Medicine"
                             },
                             new NewSqn
                             {
-Code="D",
-                                Name="Dental"
+                                Code = "D",
+                                Name = "Dental"
                             },
                             new NewSqn
                             {
@@ -131,13 +152,13 @@ Code="D",
                             },
                             new NewSqn
                             {
-                                Code="CMX", 
-                                Name="Component Maintenance",
+                                Code = "CMX",
+                                Name = "Component Maintenance",
                             },
                             new NewSqn
                             {
-                                Code ="EMX",
-                                Name="Equipment Maintenance"
+                                Code = "EMX",
+                                Name = "Equipment Maintenance"
                             },
                             new NewSqn
                             {
@@ -163,6 +184,11 @@ Code="D",
                         Name = "Mission Support",
                         NewSqdrns = new List<NewSqn>
                         {
+                            new NewSqn
+                            {
+                                Name = "Aerial Port",
+                                Code = "AP"
+                            },
                             new NewSqn
                             {
                                 Name = "Civil Engineer",

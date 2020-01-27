@@ -77,6 +77,11 @@ namespace Liaison.BLL.Models.Unit
                     {
                         sb.Append("(V) (" + this.TerritorialDesignation + ") ");
                     }
+                    else if (this.ServiceType == ServiceTypeBLL.Expeditionary)
+                    {
+                        sb.Append("(Exp.) ");
+                    }
+
                 }
                 else
                 {
@@ -94,9 +99,17 @@ namespace Liaison.BLL.Models.Unit
                     if (this.Letter == null)
                     {
                         sb.Append("No. " + this.Number + " ");
-                        if (this.ServiceType == ServiceTypeBLL.Volunteer)
+                        if (this.ServiceType == ServiceTypeBLL.Reserve)
+                        {
+                            sb.Append("(R) ");
+                        }
+                        else if (this.ServiceType == ServiceTypeBLL.Volunteer)
                         {
                             sb.Append("(V) (" + this.TerritorialDesignation + ") ");
+                        }
+                        else if (this.ServiceType == ServiceTypeBLL.Expeditionary)
+                        {
+                            sb.Append("(Exp.) ");
                         }
                     }
                     else

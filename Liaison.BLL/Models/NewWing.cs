@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Web.Mvc;
 
 namespace Liaison.BLL.Models
 {
@@ -9,6 +10,9 @@ namespace Liaison.BLL.Models
         public int BaseId { get; set; }
         public string Mission { get; set; }
         public List<NewWing> Things { get; set; }
+        public int ServiceType { get; set; }
+        public IEnumerable<SelectListItem> ServiceTypeOptions { get; set; }
+        public string TerritorialDesignation { get; set; }
     }
 
     public class NewSqn
