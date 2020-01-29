@@ -10,9 +10,9 @@ using Unit = Liaison.Data.Sql.Edmx.Unit;
 
 namespace Liaison.BLL.Translators
 {
-    public class LiaisonSql
+    public class LiaisonSql //: ILiaisonTranslator
     {
-        public static List<string> GetSortOrder()
+        public List<string> GetSortOrder()
         {
             List<string> order;
             using (var le = new LiaisonEntities())
@@ -24,7 +24,7 @@ namespace Liaison.BLL.Translators
         }
 
 
-        public static IUnit GetTree(string input, int? depth, bool showAll)
+        public IUnit GetTree(string input, int? depth, bool showAll)
         {
             _depthRequired = depth == 0 ? null : depth;
             _showAll = showAll;
@@ -72,7 +72,7 @@ namespace Liaison.BLL.Translators
         private static  int? _depthRequired = null;
         private static bool _showAll = false;
 
-        public static IUnit ConvertUnit(Unit sqlUnit) //, bool includeParent)
+        public IUnit ConvertUnit(Unit sqlUnit) //, bool includeParent)
         {
             List<int> battalionCorps = HttpContext.Current.Session["BattalionCorps"] as List<int>;
             List<int> regimentCorps = HttpContext.Current.Session["RegimentCorps"] as List<int>;
@@ -679,10 +679,7 @@ namespace Liaison.BLL.Translators
                                 (Helper.Enumerators.ServicesBll) sqlUnit.ServiceIdx + "(" + sqlUnit.ServiceIdx + ")");
         }
 
-        
-
-
-        public static NewThing CreateAFB(NewThing newThing)
+        public  NewThing CreateAFB(NewThing newThing)
         {
             if (newThing.Number == 0)
             {
@@ -959,7 +956,7 @@ namespace Liaison.BLL.Translators
             return newThing;
         }
 
-        private static int? SelectOne(int newThingServiceType, int active, int reserve, int volunteer)
+        public  int? SelectOne(int newThingServiceType, int active, int reserve, int volunteer)
         {
             switch (newThingServiceType)
             {
@@ -974,7 +971,7 @@ namespace Liaison.BLL.Translators
             throw new Exception("No option");
         }
 
-        private static string GetLongCode(Dictionary<string, string> unitindices, string candidate)
+        public  string GetLongCode(Dictionary<string, string> unitindices, string candidate)
         {
             if (string.IsNullOrWhiteSpace(candidate))
             {

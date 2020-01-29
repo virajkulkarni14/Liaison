@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="34b5fa0743f5497293b2c776330600f9" Name="Diagram1">
+        <EntityTypeShape EntityType="LiaisonModel.AdminCorp" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Aircraft" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.AltCode" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Base" Width="1.5" PointX="7.5" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.ConfigSetting" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Dictionary" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Document" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.DocumentLink" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.DocumentReference" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.EquipmentOwner" Width="1.5" PointX="5.25" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.GroundEquipment" Width="1.5" PointX="3" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.GroundEquipmentType" Width="1.5" PointX="0.75" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Mission" Width="1.5" PointX="6" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.MissionUnit" Width="1.5" PointX="8.25" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Organisation" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Rank" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Relationship" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.RelationshipType" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Service" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.ServiceType" Width="1.5" PointX="7.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Ship" Width="1.5" PointX="5.25" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.ShipClass" Width="1.5" PointX="8.25" PointY="23.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.ShipClassMember" Width="1.5" PointX="10.5" PointY="20.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.ShipPrefix" Width="1.5" PointX="3" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.SortOrder" Width="1.5" PointX="10.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.TaskForce" Width="1.5" PointX="5.25" PointY="28.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Tennant" Width="1.5" PointX="9.75" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.Unit" Width="1.5" PointX="3" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LiaisonModel.UnitIndex" Width="1.5" PointX="5.25" PointY="31.75" IsExpanded="true" />
+        <AssociationConnector Association="LiaisonModel.FK_Unit_AdminCorps" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Base_Base" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Base_Ship" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Tennant_Base" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_EquipmentOwner_GroundEquipment" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_EquipmentOwner_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_GroundEquipment_GroundEquipment" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_MissionUnit_Mission" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_MissionUnit_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Relationship_RelationshipType" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_RelationshipFrom_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_RelationshipTo_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Ship_NewShip" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Ship_ShipPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Ship_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_ShipClassMember_Ship" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_ShipClass_Mod" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_ShipClassMember_ShipClass" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_TaskForce_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_Tennant_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="LiaisonModel.FK_UnitIndex_Unit" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

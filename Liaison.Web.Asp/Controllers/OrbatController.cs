@@ -14,7 +14,8 @@ namespace Liaison.Web.Asp.Controllers
     {
         public ActionResult Index(string input, int? depth, bool? showAll)
         {
-            var model = LiaisonSql.GetTree(input, depth, showAll==true);
+            var liaisonSql = new LiaisonSql();
+            var model = liaisonSql.GetTree(input, depth, showAll==true);
 
             var returnable = new ViewModel();
             returnable.TheTree = model;
@@ -33,7 +34,8 @@ namespace Liaison.Web.Asp.Controllers
         [AcceptVerbs(HttpVerbs.Post)]
         public ActionResult SaveNewAirForceBase(NewThing m)
         {
-            var yay = LiaisonSql.CreateAFB(m);
+            var liaisonSql = new LiaisonSql();
+            var yay = liaisonSql.CreateAFB(m);
             //object yay = null;
             return View(yay);
         }

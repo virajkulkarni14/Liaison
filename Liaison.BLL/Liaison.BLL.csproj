@@ -135,6 +135,7 @@
     <Compile Include="Models\Unit\Vessel.cs" />
     <Compile Include="Models\Objects\VesselClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Translators\ILiasonTranslator.cs" />
     <Compile Include="Translators\LiaisonSql.cs" />
   </ItemGroup>
   <ItemGroup>

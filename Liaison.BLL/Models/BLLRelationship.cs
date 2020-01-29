@@ -36,13 +36,14 @@ namespace Liaison.BLL.Models
     {
         public BLLRelationship(int sourceUnitId, Data.Sql.Edmx.Relationship relationship)
         {
+            var liaisonSql = new LiaisonSql();
             if (relationship.RelFromUnitId != sourceUnitId)
             {
-                this.From = LiaisonSql.ConvertUnit(relationship.RelationshipsFrom);
+                this.From = liaisonSql.ConvertUnit(relationship.RelationshipsFrom);
             }
             if (relationship.RelToUnitId!=sourceUnitId)
             {
-                this.To = LiaisonSql.ConvertUnit(relationship.RelationshipsTo);
+                this.To = liaisonSql.ConvertUnit(relationship.RelationshipsTo);
             }
             
             this.RelationshipGuid = relationship.RelationshipGuid;

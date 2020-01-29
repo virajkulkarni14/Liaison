@@ -53,8 +53,6 @@ namespace Liaison.BLL.Models.Unit.Abstracts
         public IEnumerable<RelationshipTracker> GetParents(int unitId, HigherHqType type)
         {
             List<RelationshipTracker> list;
-			using (var entities2 = new LiaisonEntities())
-
             using (var entities = new LiaisonEntities())
             {
                 entities.Configuration.LazyLoadingEnabled = false;
@@ -64,12 +62,12 @@ namespace Liaison.BLL.Models.Unit.Abstracts
                     .Include(r => r.RelationshipsFrom)
                     .Include(r => r.RelationshipsFrom.TaskForce)
                     .Include(r => r.RelationshipsFrom.Rank)
-                    .Include(r=>r.RelationshipsFrom.AdminCorp);
-
+                    .Include(r => r.RelationshipsFrom.AdminCorp);
+                var liaisonSql = new LiaisonSql();
                 list = new List<RelationshipTracker>();
                 foreach (var par in parents)
                 {
-                    list.Add(new RelationshipTracker(LiaisonSql.ConvertUnit(par.RelationshipsFrom),
+                    list.Add(new RelationshipTracker(liaisonSql.ConvertUnit(par.RelationshipsFrom),
                         par.RelationshipType));
                 }
             }
@@ -272,7 +270,8 @@ namespace Liaison.BLL.Models.Unit.Abstracts
                 {
                     if (_sortOrder == null)
                     {
-                        _sortOrder = LiaisonSql.GetSortOrder();
+                        var liaisonSql = new LiaisonSql();
+                        _sortOrder = liaisonSql.GetSortOrder();
                     }
 
                     int counter = 0;
