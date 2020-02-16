@@ -1,9 +1,5 @@
 ﻿using Liaison.BLL.Translators;
-using Liaison.Data.Sql.Edmx;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 using Liaison.BLL.Models;
 using Liaison.Web.Asp.Models;
@@ -66,6 +62,11 @@ namespace Liaison.Web.Asp.Controllers
                         Name = "Operations",
                         NewSqdrns = new List<NewSqn>
                         {
+                            new NewSqn{Code="A:S", Name="Airlift:Strat"},
+                            new NewSqn{Code="A:T", Name = "Airlift:Tac"},
+                            new NewSqn{Code = "AR", Name="Air Refueling"},
+                            new NewSqn{Code ="F", Name="Fighter"},
+                            new NewSqn {Code ="B", Name="Bomber"},
                             new NewSqn
                             {
                                 Code = "OPS",

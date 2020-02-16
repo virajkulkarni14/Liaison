@@ -58,8 +58,17 @@ namespace Liaison.BLL.Models.Unit
                 unitname = "Group";
             }
 
-            if (this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.DGSpecialForces||
-                this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.OffCivilAffairs)
+            if (this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.DGArmyAviation||
+                this.AdminCorps.AdminCorpsId == (int) Helper.Enumerators.AdminCorps.DGSpecialForces||
+                this.AdminCorps.AdminCorpsId==(int)Helper.Enumerators.AdminCorps.OffCivilAffairs||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.EngineerInChief||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.DGArmyIntelligence||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.SignalsOffInChief||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.ArmySustainment||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.ProvostMarshalGeneral||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.ArmyLogistics||
+                this.AdminCorps.AdminCorpsId == (int)Helper.Enumerators.AdminCorps.ArmyMedicalServices)
+                
             {
                 if (this.MissionName != "Commando")
                 {

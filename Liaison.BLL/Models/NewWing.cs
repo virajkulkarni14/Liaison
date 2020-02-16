@@ -9,6 +9,7 @@ namespace Liaison.BLL.Models
         public int Number { get; set; }
         public int BaseId { get; set; }
         public string Mission { get; set; }
+        public string MissionCode { get; set; }
         public List<NewWing> Things { get; set; }
         public int ServiceType { get; set; }
         public IEnumerable<SelectListItem> ServiceTypeOptions { get; set; }

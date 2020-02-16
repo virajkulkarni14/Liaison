@@ -1,9 +1,16 @@
 use liaison
 
-begin tran tran1
+--begin tran tran1
 
 declare  @unitid int
-set @unitid = 35681
+set @unitid = 
+36714
+--36715
+--36716
+--36717
+--36718
+--36719
+--36720
 
 delete FROM     Tennant WHERE  (UnitId = @unitid)
 
@@ -18,4 +25,4 @@ delete from relationship where RelFromUnitId=@unitid
 
 delete from unit where unitid=@unitid
 
-rollback tran tran1
+--rollback tran tran1

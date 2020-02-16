@@ -23,9 +23,11 @@ namespace Liaison.BLL.Models.Unit
         }
         public string TerritorialDesignation { get; set; }
         private int ThreeBarTab = 11;
+        private int TwoBarTab = 12;
         private int OneBarTab = 13;
         private int ThreeBlobTab = 14;
         private string ThreeBar = "|||";
+        private string TwoBar = "||";
         private string OneBar = "|";
         private string ThreeBlob = "•••";
 
@@ -46,6 +48,11 @@ namespace Liaison.BLL.Models.Unit
 				this.RankLevel = OneBarTab;
 				this.RankStar = OneBar;
 			}
+   //         else if (this.CommandName == "AFFSA")
+			//{
+			//    this.RankLevel = TwoBarTab;
+			//    this.RankStar = TwoBar;
+			//}
 			else if (this.MissionName == ResourceStrings.Chemical)
 			{
 				this.RankLevel = ThreeBlobTab;

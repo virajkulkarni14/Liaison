@@ -65,8 +65,13 @@ namespace Liaison.Helper.Enumerators
 
     public enum AdminCorps
     {
-        EngineerInChief = 114,
-        OffCivilAffairs = 170,
+        //G/CA/AVN
+        DGArmyAviation = 80,
+        ArmyAirCorps = 1195,
+        ArmyAirCorpsBn = 1196,
+
+        //G/CA/INF
+        DGInfantry=32,
 
         //SF
         NavalSpecialWarfare = 1198,
@@ -74,18 +79,38 @@ namespace Liaison.Helper.Enumerators
         SpecialAirService = 1201,
         RoyalMarineCommando = 175,
 
+        //G/CSA/CA/CAMG
+        OffCivilAffairs = 170,
+
+        //G/CSA/ART
+        DGArtillery= 30,
+
+        //G/CSA/ENG
+        EngineerInChief = 114,
+
+        //G/CSA/INT
+        DGArmyIntelligence = 116,
+
+        //G/CSA/SIG
+        SignalsOffInChief = 79,
+
+        //G/CSSA
+        ArmySustainment = 1214,
+
+        //G/CSSA/AGS/PMG
+        ProvostMarshalGeneral = 1207,
+
+        //G/CSSA/LOG
+        ArmyLogistics = 118,
+
+        //G/CSSA/MED
+        ArmyMedicalServices = 135,               
+
         //N/AIR
         NavalAviation = 78,
         FleetArmArm = 1,
 
-        //G/LAND/CA/AVN
-        ArmyAirCorps = 1195,
-        ArmyAirCorpsBn = 1196,
-
-        //G/LAND/CA/SF/SAS
-
-        //AIR/FLY
-        
+        //AIR        
         RAFFlyingTraining = 1230,
 
         NumberedAirForces = 5289,
@@ -141,6 +166,7 @@ namespace Liaison.Helper.Enumerators
         RAFCommunicationsSupport = 5292,
         RAFContracting = 18,
         RAFRContracting = 20349,
+        RAuxAFContracting = 20351,
         RAFComptroller = 7,
         RAuxAFComptroller = 57,
         RAFCombatSustainment = 13325,
